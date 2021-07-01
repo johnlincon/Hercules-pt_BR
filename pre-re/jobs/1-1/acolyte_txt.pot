@@ -1,0 +1,848 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "[Father Mareusis]";
+msgctxt "Cleric#aco"
+msgid "[Father Mareusis]"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Ah, I sense you have endured";
+msgctxt "Cleric#aco"
+msgid "Ah, I sense you have endured"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "a past life experience. You must have learned many things before entering Valhalla.";
+msgctxt "Cleric#aco"
+msgid "a past life experience. You must have learned many things before entering Valhalla."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Unfortunately, I don't think you're ready to become an Acolyte yet. Please finish learning all of the Basic Skills first.";
+msgctxt "Cleric#aco"
+msgid "Unfortunately, I don't think you're ready to become an Acolyte yet. Please finish learning all of the Basic Skills first."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "In the meantime,";
+msgctxt "Cleric#aco"
+msgid "In the meantime,"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I will wait until";
+msgctxt "Cleric#aco"
+msgid "I will wait until"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "you are ready.";
+msgctxt "Cleric#aco"
+msgid "you are ready."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "May God be";
+msgctxt "Cleric#aco"
+msgid "May God be"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "with you.";
+msgctxt "Cleric#aco"
+msgid "with you."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Well, I welcome you";
+msgctxt "Cleric#aco"
+msgid "Well, I welcome you"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "back from Valhalla and";
+msgctxt "Cleric#aco"
+msgid "back from Valhalla and"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "wish you luck on your";
+msgctxt "Cleric#aco"
+msgid "wish you luck on your"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "new life's journey.";
+msgctxt "Cleric#aco"
+msgid "new life's journey."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Now, venture forth and seek those who need your help. May God light your path.";
+msgctxt "Cleric#aco"
+msgid "Now, venture forth and seek those who need your help. May God light your path."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Now, venture forth to seek people who need your help. May God enlighten your way.";
+msgctxt "Cleric#aco"
+msgid "Now, venture forth to seek people who need your help. May God enlighten your way."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I sense that you have endured a past life experience. You must have learned many things before entering Valhalla.";
+msgctxt "Cleric#aco"
+msgid "I sense that you have endured a past life experience. You must have learned many things before entering Valhalla."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "However, I can tell that you are not suited to be an Acolyte. Please remember who you were in your past life and find your path.";
+msgctxt "Cleric#aco"
+msgid "However, I can tell that you are not suited to be an Acolyte. Please remember who you were in your past life and find your path."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "What is it that you seek?";
+msgctxt "Cleric#aco"
+msgid "What is it that you seek?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# switch(select("Father, I want to be an Acolyte.", "Acolyte Requirements.", "Just looking around.")) {
+msgctxt "Cleric#aco"
+msgid "Father, I want to be an Acolyte."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# switch(select("Father, I want to be an Acolyte.", "Acolyte Requirements.", "Just looking around.")) {
+msgctxt "Cleric#aco"
+msgid "Acolyte Requirements."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# switch(select("Father, I want to be an Acolyte.", "Acolyte Requirements.", "Just looking around.")) {
+msgctxt "Cleric#aco"
+msgid "Just looking around."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Are you feeling okay today? I can tell by your attire that you are already an Acolyte. You're not joking around, are you?";
+msgctxt "Cleric#aco"
+msgid "Are you feeling okay today? I can tell by your attire that you are already an Acolyte. You're not joking around, are you?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I'm sorry, but we can only accept Novices as applicants for the job change to Acolyte.";
+msgctxt "Cleric#aco"
+msgid "I'm sorry, but we can only accept Novices as applicants for the job change to Acolyte."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Do you truly";
+msgctxt "Cleric#aco"
+msgid "Do you truly"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "wish to become";
+msgctxt "Cleric#aco"
+msgid "wish to become"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "a servant of God?";
+msgctxt "Cleric#aco"
+msgid "a servant of God?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# if (select("Yes Father, I do.", "Nope, I lied.") == 1) {
+msgctxt "Cleric#aco"
+msgid "Yes Father, I do."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# if (select("Yes Father, I do.", "Nope, I lied.") == 1) {
+msgctxt "Cleric#aco"
+msgid "Nope, I lied."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Good. I accept " + strcharinfo(PC_NAME) + "'s will to become an Acolyte. You understand that you must do penance before you can become a servant of God, right?";
+msgctxt "Cleric#aco"
+msgid "Good. I accept "
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Well, I will";
+msgctxt "Cleric#aco"
+msgid "Well, I will"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "give you a mission...";
+msgctxt "Cleric#aco"
+msgid "give you a mission..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Please visit ^000077Father Rubalkabara^000000, a member of the Prontera Parish, and return here. He has been practicing asceticism in the ^000077Relics NorthEast of Prontera City^000000.";
+msgctxt "Cleric#aco"
+msgid "Please visit ^000077Father Rubalkabara^000000, a member of the Prontera Parish, and return here. He has been practicing asceticism in the ^000077Relics NorthEast of Prontera City^000000."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Please visit ^000077Mother Mathilda^000000 and then return to me. She has been practicing asceticism near ^000077Morroc Town, SouthWest of Prontera City^000000.";
+msgctxt "Cleric#aco"
+msgid "Please visit ^000077Mother Mathilda^000000 and then return to me. She has been practicing asceticism near ^000077Morroc Town, SouthWest of Prontera City^000000."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Please visit ^000077Father Yosuke^000000 and return here. He has been practicing asceticism around ^000077a bridge somewhere NorthWest of Prontera^000000.";
+msgctxt "Cleric#aco"
+msgid "Please visit ^000077Father Yosuke^000000 and return here. He has been practicing asceticism around ^000077a bridge somewhere NorthWest of Prontera^000000."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "May the grace of God light your path and guide you during your journey of penance.";
+msgctxt "Cleric#aco"
+msgid "May the grace of God light your path and guide you during your journey of penance."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "You lied?";
+msgctxt "Cleric#aco"
+msgid "You lied?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "It is good that you";
+msgctxt "Cleric#aco"
+msgid "It is good that you"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "have confessed your";
+msgctxt "Cleric#aco"
+msgid "have confessed your"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "wrongdoing. Go in";
+msgctxt "Cleric#aco"
+msgid "wrongdoing. Go in"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "peace, my son.";
+msgctxt "Cleric#aco"
+msgid "peace, my son."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Oh, you've come back. Let me check and see if you are ready to serve God. Let's see...";
+msgctxt "Cleric#aco"
+msgid "Oh, you've come back. Let me check and see if you are ready to serve God. Let's see..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Good Lord! Haven't you accomplished the Basic Training yet?! It's important that you finish that!";
+msgctxt "Cleric#aco"
+msgid "Good Lord! Haven't you accomplished the Basic Training yet?! It's important that you finish that!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "You should have trained more! Go back and make sure you reach Novice Job Level 9 and learn all of the Basic Skills!";
+msgctxt "Cleric#aco"
+msgid "You should have trained more! Go back and make sure you reach Novice Job Level 9 and learn all of the Basic Skills!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Oh? I can't find your name on the Registration List.";
+msgctxt "Cleric#aco"
+msgid "Oh? I can't find your name on the Registration List."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Please visit ^000077Father Rubalkabara^000000, a member of the Prontera Parish, and return here.";
+msgctxt "Cleric#aco"
+msgid "Please visit ^000077Father Rubalkabara^000000, a member of the Prontera Parish, and return here."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "He has been practicing asceticism in the ^000077Relics at the NorthEast of Prontera City^000000.";
+msgctxt "Cleric#aco"
+msgid "He has been practicing asceticism in the ^000077Relics at the NorthEast of Prontera City^000000."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Please Visit ^000077Mother Mathilda^000000 and return here to me.";
+msgctxt "Cleric#aco"
+msgid "Please Visit ^000077Mother Mathilda^000000 and return here to me."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "She has been practicing asceticism near ^000077Morroc Town, located SouthWest of Prontera City^000000.";
+msgctxt "Cleric#aco"
+msgid "She has been practicing asceticism near ^000077Morroc Town, located SouthWest of Prontera City^000000."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Please visit ^000077 Father Yosuke ^000000 and return here to me.";
+msgctxt "Cleric#aco"
+msgid "Please visit ^000077 Father Yosuke ^000000 and return here to me."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "He has been practicing asceticism near a ^000077bridge somewhere to the NorthWest of Prontera^000000.";
+msgctxt "Cleric#aco"
+msgid "He has been practicing asceticism near a ^000077bridge somewhere to the NorthWest of Prontera^000000."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "May the grace of God brighten your path and guide you on your journey of penance.";
+msgctxt "Cleric#aco"
+msgid "May the grace of God brighten your path and guide you on your journey of penance."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Hmm...";
+msgctxt "Cleric#aco"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Your name is on the list and you've proven your qualification.";
+msgctxt "Cleric#aco"
+msgid "Your name is on the list and you've proven your qualification."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I am proud to say that you are now ready to become an Acolyte!";
+msgctxt "Cleric#aco"
+msgid "I am proud to say that you are now ready to become an Acolyte!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Always remember to be thankful to God, who is taking care of us all the time.";
+msgctxt "Cleric#aco"
+msgid "Always remember to be thankful to God, who is taking care of us all the time."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Always use your gifts to serve Him by helping others. In chaos and times of difficulty, face your hardships with unwavering faith.";
+msgctxt "Cleric#aco"
+msgid "Always use your gifts to serve Him by helping others. In chaos and times of difficulty, face your hardships with unwavering faith."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Lastly, I want to sincerely congratulate you on persevering through your trial of penance.";
+msgctxt "Cleric#aco"
+msgid "Lastly, I want to sincerely congratulate you on persevering through your trial of penance."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Do you wish to become an Acolyte? You must fulfill two requirements.";
+msgctxt "Cleric#aco"
+msgid "Do you wish to become an Acolyte? You must fulfill two requirements."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "First, you have to reach at least Novice Job Level 9 and learn all of the Basic Skills. Second, you will be given a trial of penance to overcome.";
+msgctxt "Cleric#aco"
+msgid "First, you have to reach at least Novice Job Level 9 and learn all of the Basic Skills. Second, you will be given a trial of penance to overcome."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "For your trial, please visit ^000077Father Rubalkabara ^000000 and then return here to me.";
+msgctxt "Cleric#aco"
+msgid "For your trial, please visit ^000077Father Rubalkabara ^000000 and then return here to me."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "He is practicing asceticism in the ^000077Relics at the NorthEast of Prontera City^000000.";
+msgctxt "Cleric#aco"
+msgid "He is practicing asceticism in the ^000077Relics at the NorthEast of Prontera City^000000."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "For your trial, please visit ^000077Mother Mathilda^000000 and return here to me.";
+msgctxt "Cleric#aco"
+msgid "For your trial, please visit ^000077Mother Mathilda^000000 and return here to me."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "She has been practicing asceticism near ^000077Morroc, located to the SouthWest of Prontera City^000000.";
+msgctxt "Cleric#aco"
+msgid "She has been practicing asceticism near ^000077Morroc, located to the SouthWest of Prontera City^000000."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "For your trial, please visit ^000077Father Yosuke^000000 and return here to me.";
+msgctxt "Cleric#aco"
+msgid "For your trial, please visit ^000077Father Yosuke^000000 and return here to me."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "He has been practicing asceticism around a bridge somewhere ^000077NorthWest of Prontera^000000.";
+msgctxt "Cleric#aco"
+msgid "He has been practicing asceticism around a bridge somewhere ^000077NorthWest of Prontera^000000."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "May the grace of God light your path and guide you on your journey of penance.";
+msgctxt "Cleric#aco"
+msgid "May the grace of God light your path and guide you on your journey of penance."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "The destination for this trial will be decided once you fill the application form.";
+msgctxt "Cleric#aco"
+msgid "The destination for this trial will be decided once you fill the application form."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Please come back after fulfilling the two requirements I've asked of you. As long as your desire to serve God and others is sincere, you will be able to make it.";
+msgctxt "Cleric#aco"
+msgid "Please come back after fulfilling the two requirements I've asked of you. As long as your desire to serve God and others is sincere, you will be able to make it."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "[Father Rubalkabara]";
+msgctxt "Ascetic#aco"
+msgid "[Father Rubalkabara]"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Please take care. They should know that you've met me by the time you arrive at the Prontera Sanctuary.";
+msgctxt "Ascetic#aco"
+msgid "Please take care. They should know that you've met me by the time you arrive at the Prontera Sanctuary."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I've sent a carrier pigeon with a message. I hope it will arrive there safely...";
+msgctxt "Ascetic#aco"
+msgid "I've sent a carrier pigeon with a message. I hope it will arrive there safely..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Oh...? You must be the one who aspires to become an Acolyte. I've already received news from the Sanctuary that you might be coming.";
+msgctxt "Ascetic#aco"
+msgid "Oh...? You must be the one who aspires to become an Acolyte. I've already received news from the Sanctuary that you might be coming."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Now, your name was " + strcharinfo(PC_NAME) + ", right? Excellent, thank you for visiting me.";
+msgctxt "Ascetic#aco"
+msgid "Now, your name was "
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I believe you've been told much about Acolytes from Friar Mareusis. Plus, there's plenty of helpful people in the Prontera Sanctuary.";
+msgctxt "Ascetic#aco"
+msgid "I believe you've been told much about Acolytes from Friar Mareusis. Plus, there's plenty of helpful people in the Prontera Sanctuary."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I guess there's really no need for me to teach you much. Besides, I'm sure your someone from your generation may have trouble listening to an old man like me. Hahaha~";
+msgctxt "Ascetic#aco"
+msgid "I guess there's really no need for me to teach you much. Besides, I'm sure your someone from your generation may have trouble listening to an old man like me. Hahaha~"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Still, lessons may come from the places you'd least expect. God loves to teach his children in strange ways. You'll see.";
+msgctxt "Ascetic#aco"
+msgid "Still, lessons may come from the places you'd least expect. God loves to teach his children in strange ways. You'll see."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Well, I'll send the message telling them that you've come to visit me. So, you may now return to the Prontera Sanctuary.";
+msgctxt "Ascetic#aco"
+msgid "Well, I'll send the message telling them that you've come to visit me. So, you may now return to the Prontera Sanctuary."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Farewell.";
+msgctxt "Ascetic#aco"
+msgid "Farewell."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Oh...";
+msgctxt "Ascetic#aco"
+msgid "Oh..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Are you one of the";
+msgctxt "Ascetic#aco"
+msgid "Are you one of the"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Acolyte applicants...?";
+msgctxt "Ascetic#aco"
+msgid "Acolyte applicants...?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Let's see...";
+msgctxt "Ascetic#aco"
+msgid "Let's see..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Your name is " + strcharinfo(PC_NAME) + "?";
+msgctxt "Ascetic#aco"
+msgid "Your name is "
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I don't think your name";
+msgctxt "Ascetic#aco"
+msgid "I don't think your name"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "is on my list. Hmmm...";
+msgctxt "Ascetic#aco"
+msgid "is on my list. Hmmm..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Why don't you go back to the Prontera Sanctuary and check again?";
+msgctxt "Ascetic#aco"
+msgid "Why don't you go back to the Prontera Sanctuary and check again?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Huh? What brings you here? This is a very dangerous place for a Novice like yourself!";
+msgctxt "Ascetic#aco"
+msgid "Huh? What brings you here? This is a very dangerous place for a Novice like yourself!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Greetings.";
+msgctxt "Ascetic#aco"
+msgid "Greetings."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Welcome to the Deep. Feel free to sit and contemplate God's message with me. This place is beautiful, even if danger accompanies its sense of serenity...";
+msgctxt "Ascetic#aco"
+msgid "Welcome to the Deep. Feel free to sit and contemplate God's message with me. This place is beautiful, even if danger accompanies its sense of serenity..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Oh ho...";
+msgctxt "Ascetic#aco"
+msgid "Oh ho..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Have you come into the Deep here for training? Or are you just a Wanderer?";
+msgctxt "Ascetic#aco"
+msgid "Have you come into the Deep here for training? Or are you just a Wanderer?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Whoever you are, please take care of yourself. The monsters in here are shockingly strong, contrary to their cute appearance.";
+msgctxt "Ascetic#aco"
+msgid "Whoever you are, please take care of yourself. The monsters in here are shockingly strong, contrary to their cute appearance."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "[Mother Mathilda]";
+msgctxt "Ascetic#2aco"
+msgid "[Mother Mathilda]"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I will send a carrier pigeon to the Prontera Sanctuary. When you return, the Priest there should already have received my message.";
+msgctxt "Ascetic#2aco"
+msgid "I will send a carrier pigeon to the Prontera Sanctuary. When you return, the Priest there should already have received my message."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I will pray to God, and hope that you become an Acolyte soon.";
+msgctxt "Ascetic#2aco"
+msgid "I will pray to God, and hope that you become an Acolyte soon."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Ah, you must be one of the Acolyte applicants. I sincerely welcome you.";
+msgctxt "Ascetic#2aco"
+msgid "Ah, you must be one of the Acolyte applicants. I sincerely welcome you."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "What is your name? " + strcharinfo(PC_NAME) + "? Let's see... Ah, you're on my list.";
+msgctxt "Ascetic#2aco"
+msgid "What is your name? "
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I will send a message to the Sanctuary confirming that you, " + strcharinfo(PC_NAME) + " visited me and completed your penance.";
+msgctxt "Ascetic#2aco"
+msgid "I will send a message to the Sanctuary confirming that you, "
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Please return to the Prontera Sanctuary and speak to the Priest in charge.";
+msgctxt "Ascetic#2aco"
+msgid "Please return to the Prontera Sanctuary and speak to the Priest in charge."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Ah...!";
+msgctxt "Ascetic#2aco"
+msgid "Ah...!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "You must be one";
+msgctxt "Ascetic#2aco"
+msgid "You must be one"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "of the Acolyte applicants.";
+msgctxt "Ascetic#2aco"
+msgid "of the Acolyte applicants."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I sincerely welcome you.";
+msgctxt "Ascetic#2aco"
+msgid "I sincerely welcome you."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Now, what is your name?";
+msgctxt "Ascetic#2aco"
+msgid "Now, what is your name?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Hmm...";
+msgctxt "Ascetic#2aco"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "It seems your name";
+msgctxt "Ascetic#2aco"
+msgid "It seems your name"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "is not on my list...";
+msgctxt "Ascetic#2aco"
+msgid "is not on my list..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Perhaps you should return to the Prontera Sanctuary and check the destination for your penance trial once again.";
+msgctxt "Ascetic#2aco"
+msgid "Perhaps you should return to the Prontera Sanctuary and check the destination for your penance trial once again."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "...";
+msgctxt "Ascetic#2aco"
+msgid "..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Hello there~";
+msgctxt "Ascetic#2aco"
+msgid "Hello there~"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "How is your practice coming along? I certainly hope you're enjoying living in the grace of God.";
+msgctxt "Ascetic#2aco"
+msgid "How is your practice coming along? I certainly hope you're enjoying living in the grace of God."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "May God";
+msgctxt "Ascetic#2aco"
+msgid "May God"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "be with you...";
+msgctxt "Ascetic#2aco"
+msgid "be with you..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "[Father Yosuke]";
+msgctxt "Ascetic#3aco"
+msgid "[Father Yosuke]"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "What?";
+msgctxt "Ascetic#3aco"
+msgid "What?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Have you any more business with me?! You don't! Go back to the Sanctuary now!";
+msgctxt "Ascetic#3aco"
+msgid "Have you any more business with me?! You don't! Go back to the Sanctuary now!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Hey.";
+msgctxt "Ascetic#3aco"
+msgid "Hey."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Whatever you are,";
+msgctxt "Ascetic#3aco"
+msgid "Whatever you are,"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "you look like an";
+msgctxt "Ascetic#3aco"
+msgid "you look like an"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Acolyte applicant.";
+msgctxt "Ascetic#3aco"
+msgid "Acolyte applicant."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Right?";
+msgctxt "Ascetic#3aco"
+msgid "Right?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Not bad, not bad. You withstood the penance trial pretty well.";
+msgctxt "Ascetic#3aco"
+msgid "Not bad, not bad. You withstood the penance trial pretty well."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "So what's your name?";
+msgctxt "Ascetic#3aco"
+msgid "So what's your name?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Okay. I'll send a message to the Sanctuary that you, " + strcharinfo(PC_NAME) + ", came to visit me.";
+msgctxt "Ascetic#3aco"
+msgid "Okay. I'll send a message to the Sanctuary that you, "
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Now go back to the Santuary and finish becoming an Acolyte, kid.";
+msgctxt "Ascetic#3aco"
+msgid "Now go back to the Santuary and finish becoming an Acolyte, kid."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "You look like an Acolyte Applicant. Am I right?";
+msgctxt "Ascetic#3aco"
+msgid "You look like an Acolyte Applicant. Am I right?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Not bad at all, you've made it all the way here from Prontera. So what's your name, kid?";
+msgctxt "Ascetic#3aco"
+msgid "Not bad at all, you've made it all the way here from Prontera. So what's your name, kid?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "You probably made a mistake. Go back to the Santuary, and check with the Bishop.";
+msgctxt "Ascetic#3aco"
+msgid "You probably made a mistake. Go back to the Santuary, and check with the Bishop."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "You...";
+msgctxt "Ascetic#3aco"
+msgid "You..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Novice.";
+msgctxt "Ascetic#3aco"
+msgid "Novice."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "There something";
+msgctxt "Ascetic#3aco"
+msgid "There something"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "you wanna tell me?";
+msgctxt "Ascetic#3aco"
+msgid "you wanna tell me?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Hey...";
+msgctxt "Ascetic#3aco"
+msgid "Hey..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "If you like, come sit here with me and meditate the great truths. God's majesty is truly inspiring...";
+msgctxt "Ascetic#3aco"
+msgid "If you like, come sit here with me and meditate the great truths. God's majesty is truly inspiring..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "Do you have anything to say? Because unfortunately for you,";
+msgctxt "Ascetic#3aco"
+msgid "Do you have anything to say? Because unfortunately for you,"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/acolyte.txt
+# mes "I don't any replies.";
+msgctxt "Ascetic#3aco"
+msgid "I don't any replies."
+msgstr ""

@@ -1,0 +1,224 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/other/auction.txt
+# mes "[Auction Hall Guide]";
+msgctxt "F_AuctionWarper"
+msgid "[Auction Hall Guide]"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Hello, would you";
+msgctxt "F_AuctionWarper"
+msgid "Hello, would you"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "like to enter the";
+msgctxt "F_AuctionWarper"
+msgid "like to enter the"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Auction Hall?";
+msgctxt "F_AuctionWarper"
+msgid "Auction Hall?"
+msgstr ""
+
+#: npc/other/auction.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "F_AuctionWarper"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/auction.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "F_AuctionWarper"
+msgid "No"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Great! Well then,";
+msgctxt "F_AuctionWarper"
+msgid "Great! Well then,"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "I hope you have fun";
+msgctxt "F_AuctionWarper"
+msgid "I hope you have fun"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "and enjoy the auction~";
+msgctxt "F_AuctionWarper"
+msgid "and enjoy the auction~"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Enjoy your auction.";
+msgctxt "F_AuctionWarper"
+msgid "Enjoy your auction."
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Alright then,";
+msgctxt "F_AuctionWarper"
+msgid "Alright then,"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "see you later.";
+msgctxt "F_AuctionWarper"
+msgid "see you later."
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "If you change your";
+msgctxt "F_AuctionWarper"
+msgid "If you change your"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "mind, please come";
+msgctxt "F_AuctionWarper"
+msgid "mind, please come"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "and enjoy the auctions~";
+msgctxt "F_AuctionWarper"
+msgid "and enjoy the auctions~"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "[Information]";
+msgctxt "Information Post#dum::AuctionSign"
+msgid "[Information]"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Auction Warp Guide";
+msgctxt "Information Post#dum::AuctionSign"
+msgid "Auction Warp Guide"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "[Auction Broker]";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "[Auction Broker]"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Welcome to the Auction Hall.";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "Welcome to the Auction Hall."
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Would you like to view the goods?";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "Would you like to view the goods?"
+msgstr ""
+
+#: npc/other/auction.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/auction.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "No"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Very well.";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "Very well."
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Please take";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "Please take"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "a look, and see";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "a look, and see"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "What's being offered~";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "What's being offered~"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Auction feature isn't enabled.";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "Auction feature isn't enabled."
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "Very well, then.";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "Very well, then."
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "If you change your";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "If you change your"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "mind, then please";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "mind, then please"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "come and check";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "come and check"
+msgstr ""
+
+#: npc/other/auction.txt
+# mes "out the auctions~";
+msgctxt "Auction Broker#dum::AuctionBroker"
+msgid "out the auctions~"
+msgstr ""

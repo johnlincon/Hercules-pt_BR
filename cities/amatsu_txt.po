@@ -1,0 +1,2429 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 08:09-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Walter Moers]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "[Walter Moers]"
+msgstr "[Walter Moers]"
+
+# mes "Hey, there.";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "Hey, there."
+msgstr "Ei, aí."
+
+# mes "Have you ever heard that there";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Have you ever heard that there"
+msgstr "Você já ouviu dizer que lá"
+
+# mes "are totally different countries";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "are totally different countries"
+msgstr "são países totalmente diferentes"
+
+# mes "than the Rune-Midgard Kingdom?";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "than the Rune-Midgard Kingdom?"
+msgstr "do que o Reino de Rune-Midgard?"
+
+# switch(select("About Amatsu...", "Go to Amatsu", "Cancel")) {
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "About Amatsu..."
+msgstr "Sobre Amatsu..."
+
+# switch(select("About Amatsu...", "Go to Amatsu", "Cancel")) {
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Go to Amatsu"
+msgstr "Ir para Amatsu"
+
+# switch(select("About Amatsu...", "Go to Amatsu", "Cancel")) {
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "I heard that a drifting ship";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "I heard that a drifting ship"
+msgstr "Ouvi dizer que um navio à deriva"
+
+# mes "accidentally discovered it...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "accidentally discovered it..."
+msgstr "descobriu-o acidentalmente..."
+
+# mes "The ship was totally destroyed";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "The ship was totally destroyed"
+msgstr "O navio foi totalmente destruído"
+
+# mes "by a raging storm in heavy fog.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "by a raging storm in heavy fog."
+msgstr "por uma tempestade furiosa em forte nevoeiro."
+
+# mes " ";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid " "
+msgstr " "
+
+# mes "Anyway, the ship was wrecked";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Anyway, the ship was wrecked"
+msgstr "De qualquer forma, o navio foi naufragado"
+
+# mes "on the beach. It was there";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "on the beach. It was there"
+msgstr "na praia. Estava lá"
+
+# mes "he arrived at a town called Amatsu.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "he arrived at a town called Amatsu."
+msgstr "ele chegou a uma cidade chamada Amatsu."
+
+# mes "The towners took pity on him";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "The towners took pity on him"
+msgstr "Os habitantes da cidade tiveram piedade dele"
+
+# mes "and took care of his wounds.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "and took care of his wounds."
+msgstr "e cuidou de suas feridas."
+
+# mes "He lived there until he finished making a map.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "He lived there until he finished making a map."
+msgstr "Ele viveu lá até terminar de fazer um mapa."
+
+# mes "He passed away when he returned";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "He passed away when he returned"
+msgstr "Ele faleceu quando voltou"
+
+# mes "to Rune-Midgard. Fortunately,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "to Rune-Midgard. Fortunately,"
+msgstr "para Rune-Midgard. Felizmente,"
+
+# mes "the map was given to our king, Tristan III.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "the map was given to our king, Tristan III."
+msgstr "o mapa foi entregue ao nosso rei, Tristão III."
+
+# mes "King Tristan III announced";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "King Tristan III announced"
+msgstr "O rei Tristão III anunciou"
+
+# mes "that he would reward any";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "that he would reward any"
+msgstr "que ele recompensaria qualquer"
+
+# mes "person brave enough to venture to Amatsu, and spread copies of this map.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid ""
+"person brave enough to venture to Amatsu, and spread copies of this map."
+msgstr ""
+"pessoa corajosa o suficiente para se aventurar a Amatsu, e espalhar cópias "
+"deste mapa."
+
+# mes "Many brave and adventurous";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Many brave and adventurous"
+msgstr "Muitos corajosos e aventureiros"
+
+# mes "sea captains took the";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "sea captains took the"
+msgstr "capitães de mar levaram o"
+
+# mes "challenge. Great fortune could";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "challenge. Great fortune could"
+msgstr "desafio. Uma grande fortuna poderia"
+
+# mes "be made in trade with Amatsu, as well as the rewards from King Tristan III...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid ""
+"be made in trade with Amatsu, as well as the rewards from King Tristan III..."
+msgstr ""
+"ser feito no comércio com Amatsu, assim como as recompensas do rei Tristão "
+"III."
+
+# mes "However, they all failed!";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "However, they all failed!"
+msgstr "No entanto, todos eles falharam!"
+
+# mes "To overcome various currents";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "To overcome various currents"
+msgstr "Para superar várias correntes"
+
+# mes "and bad weather, lots of";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "and bad weather, lots of"
+msgstr "e mau tempo, muitas"
+
+# mes "experience is required. But they were all blinded by their greed...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "experience is required. But they were all blinded by their greed..."
+msgstr ""
+"experiência é necessária. Mas todos eles estavam cegos por sua ganância."
+
+# mes "Finally, a great man discovered";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Finally, a great man discovered"
+msgstr "Finalmente, um grande homem descobriu"
+
+# mes "the perfect sealane to Amatsu...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "the perfect sealane to Amatsu..."
+msgstr "o selano perfeito para Amatsu..."
+
+# mes "Right! That is me. Sir Walter";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Right! That is me. Sir Walter"
+msgstr "Certo! Esse sou eu. Sir Walter"
+
+# mes "Moers. I started the trade with Amatsu! Hahaha! Well, that's all about Amatsu.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid ""
+"Moers. I started the trade with Amatsu! Hahaha! Well, that's all about "
+"Amatsu."
+msgstr ""
+"Moers. Eu comecei o comércio com Amatsu! Hahaha! Bem, isso é tudo sobre o "
+"Amatsu."
+
+# mes "I made good money from trades";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "I made good money from trades"
+msgstr "Eu ganhei bom dinheiro com o comércio"
+
+# mes "for years, and now I'm interested";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "for years, and now I'm interested"
+msgstr "durante anos, e agora estou interessado"
+
+# mes "in tourism. If you want to go to Amatsu, let me know~!";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "in tourism. If you want to go to Amatsu, let me know~!"
+msgstr "no turismo. Se você quiser ir a Amatsu, me avise~!"
+
+# mes "Oh yeah? It's a long way to";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Oh yeah? It's a long way to"
+msgstr "Ah, sim? É um longo caminho para"
+
+# mes "Amatsu. That's why we are";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Amatsu. That's why we are"
+msgstr "Amatsu. É por isso que nós somos"
+
+# mes "charging a fare. You don't think that crossing oceans and currents is easy, do you?";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid ""
+"charging a fare. You don't think that crossing oceans and currents is easy, "
+"do you?"
+msgstr ""
+"cobrando uma tarifa. Você não acha que atravessar oceanos e correntes é "
+"fácil, acha?"
+
+# mes "10,000 zeny for a round-trip! I've";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "10,000 zeny for a round-trip! I've"
+msgstr "10.000 zeny para uma viagem de ida e volta! Eu tenho"
+
+# mes "got a stately room in a sturdy and";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "got a stately room in a sturdy and"
+msgstr "tem uma sala imponente e robusta"
+
+# mes "safe trade ship for you. It is a ";
+#: npc/cities/amatsu.txt
+msgctxt "::Sea_Captain_amatsu"
+msgid "safe trade ship for you. It is a "
+msgstr "navio comercial seguro para você. É um "
+
+# mes "reasonable fare when you consider";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "reasonable fare when you consider"
+msgstr "tarifa razoável quando você considera"
+
+# mes "that this isn't a one way trip.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "that this isn't a one way trip."
+msgstr "que esta não é uma viagem só de ida."
+
+# mes "Shall we go now? You didn't forget";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Shall we go now? You didn't forget"
+msgstr "Devemos ir agora? Você não esqueceu"
+
+# mes "the fare, right? Let's go.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "the fare, right? Let's go."
+msgstr "a tarifa, certo? Vamos lá."
+
+# if (select("All Aboard!", "Cancel") == 1) {
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "All Aboard!"
+msgstr "Todos a bordo!"
+
+# mes "Alright, I will start the engine!";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Alright, I will start the engine!"
+msgstr "Muito bem, eu vou ligar o motor!"
+
+# mes "Were you even listening to me?";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Were you even listening to me?"
+msgstr "Você estava me ouvindo?"
+
+# mes "10,000 zeny. If you got";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "10,000 zeny. If you got"
+msgstr "10.000 zeny. Se você tiver"
+
+# mes "nothing, find some treasure";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "nothing, find some treasure"
+msgstr "nada, encontre algum tesouro"
+
+# mes "somewhere, like in a wrecked ship...Show me the money!";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "somewhere, like in a wrecked ship...Show me the money!"
+msgstr "em algum lugar, como em um navio naufragado... Mostre-me o dinheiro!"
+
+# mes "If you are an adventurer,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "If you are an adventurer,"
+msgstr "Se você é um aventureiro,"
+
+# mes "this is a great chance";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "this is a great chance"
+msgstr "esta é uma grande chance"
+
+# mes "to experience a different culture...Well, it is up to you.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "to experience a different culture...Well, it is up to you."
+msgstr "para experimentar uma cultura diferente... Bem, depende de você."
+
+# mes "If you are tired of your daily";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "If you are tired of your daily"
+msgstr "Se você está cansado de seu dia-a-dia"
+
+# mes "life, take a trip to a distant";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "life, take a trip to a distant"
+msgstr "vida, faça uma viagem a um lugar distante"
+
+# mes "country across the ocean.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "country across the ocean."
+msgstr "país do outro lado do oceano."
+
+# mes "Someplace like, oh I don't know, Amatsu~";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "::Sea_Captain_amatsu"
+msgid "Someplace like, oh I don't know, Amatsu~"
+msgstr "Em algum lugar como, oh eu não sei, Amatsu~"
+
+# mes "[Walter Moers]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "[Walter Moers]"
+msgstr "[Walter Moers]"
+
+# mes "You came... Did you enjoy";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "You came... Did you enjoy"
+msgstr "Você veio... Você gostou"
+
+# mes "your trip to Amatsu...?";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "your trip to Amatsu...?"
+msgstr "sua viagem a Amatsu...?"
+
+# mes "Alright, I will take you";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "Alright, I will take you"
+msgstr "Muito bem, vou levá-los"
+
+# mes "back to Alberta.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "back to Alberta."
+msgstr "de volta para Alberta."
+
+# if (select("Back to Alberta", "Cancel") == 1) {
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "Back to Alberta"
+msgstr "Voltar para Alberta"
+
+# if (select("Back to Alberta", "Cancel") == 1) {
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Let's go then. You must have";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "Let's go then. You must have"
+msgstr "Vamos lá então. Você deve ter"
+
+# mes "so many things to talk about,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "so many things to talk about,"
+msgstr "tantas coisas para se falar,"
+
+# mes "right? All aboard now.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "right? All aboard now."
+msgstr "certo? Todos a bordo agora."
+
+# mes "Well, take your time.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "Well, take your time."
+msgstr "Bem, leve o tempo que precisar."
+
+# mes "The ship to Alberta is";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "The ship to Alberta is"
+msgstr "O navio para Alberta é"
+
+# mes "always ready to depart...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Sea Captain#ama2"
+msgid "always ready to depart..."
+msgstr "sempre prontos para partir..."
+
+# mes "[Yuuko]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Well-side Maiden#ama"
+msgid "[Yuuko]"
+msgstr "[Yuuko]"
+
+# mes "I usually come to this well to";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Well-side Maiden#ama"
+msgid "I usually come to this well to"
+msgstr "Normalmente chego a este poço para"
+
+# mes "draw water, but never when it's";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Well-side Maiden#ama"
+msgid "draw water, but never when it's"
+msgstr "extrair água, mas nunca quando é"
+
+# mes "foggy or rainy. For some reason";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Well-side Maiden#ama"
+msgid "foggy or rainy. For some reason"
+msgstr "enevoado ou chuvoso. Por alguma razão"
+
+# mes "whenever the weather is a";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Well-side Maiden#ama"
+msgid "whenever the weather is a"
+msgstr "sempre que o clima é um"
+
+# mes "certain way, I feel like...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Well-side Maiden#ama"
+msgid "certain way, I feel like..."
+msgstr "de certa forma, eu me sinto como..."
+
+# mes "...someone...or some thing is";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Well-side Maiden#ama"
+msgid "...someone...or some thing is"
+msgstr "...alguém....ou alguma coisa é"
+
+# mes "struggling to crawl out from";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Well-side Maiden#ama"
+msgid "struggling to crawl out from"
+msgstr "lutando para rastejar para fora de"
+
+# mes "the bottom of this well...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Well-side Maiden#ama"
+msgid "the bottom of this well..."
+msgstr "o fundo deste poço..."
+
+# mes "It really gives me the creeps.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Well-side Maiden#ama"
+msgid "It really gives me the creeps."
+msgstr "Isso realmente me dá arrepios."
+
+# mes "[John]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "[John]"
+msgstr "[John]"
+
+# mes "Yo~";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "Yo~"
+msgstr "Yo~"
+
+# mes "You're not from around here.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "You're not from around here."
+msgstr "Você não é de cá."
+
+# mes "Heh, another outsider.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "Heh, another outsider."
+msgstr "Heh, outra pessoa de fora."
+
+# mes "Just like me...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "Just like me..."
+msgstr "Assim como eu..."
+
+# mes "It's been five long years";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "It's been five long years"
+msgstr "Já se passaram cinco longos anos"
+
+# mes "since I've started doing";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "since I've started doing"
+msgstr "desde que eu comecei a fazer"
+
+# mes "business here...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "business here..."
+msgstr "negócios aqui..."
+
+# mes "Af first, I thought, 'What";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "Af first, I thought, 'What"
+msgstr "Af primeiro, eu pensei, \"O que"
+
+# mes "a great chance!' when the";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "a great chance!' when the"
+msgstr "uma grande chance!' quando o"
+
+# mes "trade between the Rune-Midgard";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "trade between the Rune-Midgard"
+msgstr "comércio entre o Rune-Midgard"
+
+# mes "Kingdom and Amatsu started.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "Kingdom and Amatsu started."
+msgstr "Reino e Amatsu começaram."
+
+# mes "I wanted to do something great";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "I wanted to do something great"
+msgstr "Eu queria fazer algo grandioso"
+
+# mes "and make the most of this";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "and make the most of this"
+msgstr "e tirar o máximo proveito disso"
+
+# mes "new opportunity.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "new opportunity."
+msgstr "nova oportunidade."
+
+# mes "And so, I decided to go to";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "And so, I decided to go to"
+msgstr "E assim, decidi ir para"
+
+# mes "Amatsu so I could learn to make";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "Amatsu so I could learn to make"
+msgstr "Amatsu para que eu pudesse aprender a fazer"
+
+# mes "Amatsu cuisine. Then, I could";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "Amatsu cuisine. Then, I could"
+msgstr "Cozinha Amatsu. Então, eu poderia"
+
+# mes "return to my hometown and make";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "return to my hometown and make"
+msgstr "voltar à minha cidade natal e fazer"
+
+# mes "this exotic food for everyone.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "this exotic food for everyone."
+msgstr "este alimento exótico para todos."
+
+# mes "But, I fell in love with Amatsu";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "But, I fell in love with Amatsu"
+msgstr "Mas, eu me apaixonei pelo Amatsu"
+
+# mes "and I ended up sticking around";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "and I ended up sticking around"
+msgstr "e eu acabei ficando por aqui"
+
+# mes "here for the last five years.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "here for the last five years."
+msgstr "aqui nos últimos cinco anos."
+
+# mes "During all that time, I've";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "During all that time, I've"
+msgstr "Durante todo esse tempo, eu"
+
+# mes "been learning Amatsu cuisine,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "been learning Amatsu cuisine,"
+msgstr "tem aprendido a culinária Amatsu,"
+
+# mes "and cooking these dishes for";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "and cooking these dishes for"
+msgstr "e cozinhar estes pratos para"
+
+# mes "the towners, and enjoying myself";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "the towners, and enjoying myself"
+msgstr "os habitantes da cidade, e me divertindo"
+
+# mes "by talking to the locals,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "by talking to the locals,"
+msgstr "conversando com os locais,"
+
+# mes "transfixed in this very spot.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "transfixed in this very spot."
+msgstr "transfixado neste mesmo lugar."
+
+# mes "But recently, across the street,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "But recently, across the street,"
+msgstr "Mas recentemente, do outro lado da rua,"
+
+# mes "the Sushi Master opened his shop.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "the Sushi Master opened his shop."
+msgstr "o Mestre do Sushi abriu sua loja."
+
+# mes "...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "..."
+msgstr "..."
+
+# mes "Now, my only customers are flies.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "Now, my only customers are flies."
+msgstr "Agora, meus únicos clientes são as moscas."
+
+# mes "I was hoping to fulfill my";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "I was hoping to fulfill my"
+msgstr "Eu esperava cumprir minha"
+
+# mes "dream of becoming a renowned chef";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "dream of becoming a renowned chef"
+msgstr "sonho de se tornar um renomado chef"
+
+# mes "in Amatsu, but...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "in Amatsu, but..."
+msgstr "em Amatsu, mas..."
+
+# mes "I guess it's over...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "John#ama"
+msgid "I guess it's over..."
+msgstr "Acho que acabou..."
+
+# mes "[Mimi]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Mimi#ama"
+msgid "[Mimi]"
+msgstr "[Mimi]"
+
+# mes "Puhuhu~!";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Mimi#ama"
+msgid "Puhuhu~!"
+msgstr "Puhuhu~!"
+
+# mes "Did you see Miss Amatsu near";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Mimi#ama"
+msgid "Did you see Miss Amatsu near"
+msgstr "Você viu a Srta. Amatsu perto de"
+
+# mes "the Harbor? Isn't she";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Mimi#ama"
+msgid "the Harbor? Isn't she"
+msgstr "o Porto? Ela não é"
+
+# mes "preeeetty?";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Mimi#ama"
+msgid "preeeetty?"
+msgstr "pré-encontro?"
+
+# mes "I'm going to enter the Miss";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Mimi#ama"
+msgid "I'm going to enter the Miss"
+msgstr "Eu vou entrar no Miss"
+
+# mes "Amatsu Contest when I'm older.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Mimi#ama"
+msgid "Amatsu Contest when I'm older."
+msgstr "Concurso Amatsu quando eu for mais velho."
+
+# mes "I'm sure that I'm the prettiest";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Mimi#ama"
+msgid "I'm sure that I'm the prettiest"
+msgstr "Estou certo de que sou o mais bonito"
+
+# mes "in this town but...";
+#: npc/cities/amatsu.txt
+msgctxt "Mimi#ama"
+msgid "in this town but..."
+msgstr "nesta cidade, mas..."
+
+# mes "A lady can always use a little more makeup.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Mimi#ama"
+msgid "A lady can always use a little more makeup."
+msgstr "Uma senhora pode sempre usar um pouco mais de maquiagem."
+
+# mes "[Kosake]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "[Kosake]"
+msgstr "[Kosake]"
+
+# mes "*Hiccup*...My wife is just like,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "*Hiccup*...My wife is just like,"
+msgstr "*Hiccup*...Minha esposa é exatamente como,"
+
+# mes "...like a man...*Hiccup*...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "...like a man...*Hiccup*..."
+msgstr "...como um homem...*Hiccup*..."
+
+# mes "I'm going to really...*Hiccup*...not go home this time...Hiccup";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "I'm going to really...*Hiccup*...not go home this time...Hiccup"
+msgstr "Eu vou realmente...*Hiccup*...não vou para casa desta vez...Hiccup"
+
+# if (select("Stop drinking and go home", "Let's drink together") == 1) {
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "Stop drinking and go home"
+msgstr "Pare de beber e vá para casa"
+
+# if (select("Stop drinking and go home", "Let's drink together") == 1) {
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "Let's drink together"
+msgstr "Vamos beber juntos"
+
+# mes "What?! Do you want me to get";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "What?! Do you want me to get"
+msgstr "O quê?! Você quer que eu consiga"
+
+# mes "hit by my wife's big fist?";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "hit by my wife's big fist?"
+msgstr "atingido pelo grande punho de minha esposa?"
+
+# mes "That's right! I said 'big fist!'";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "That's right! I said 'big fist!'"
+msgstr "Isso mesmo! Eu disse \"punho grande\"!"
+
+# mes "Sad to say, I married a woman";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "Sad to say, I married a woman"
+msgstr "É triste dizer que me casei com uma mulher"
+
+# mes "with man hands...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "with man hands..."
+msgstr "com as mãos do homem..."
+
+# mes "Big, strong hands that can kill a tiger.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "Big, strong hands that can kill a tiger."
+msgstr "Mãos grandes e fortes que podem matar um tigre."
+
+# mes "[Druken Man]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "[Druken Man]"
+msgstr "[Druken Man]"
+
+# mes "It was in Ko...Koko-something";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "It was in Ko...Koko-something"
+msgstr "Foi em Ko...Koko-something"
+
+# mes "town. She hit me because I";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "town. She hit me because I"
+msgstr "cidade. Ela me bateu porque eu"
+
+# mes "lost some money...*Hiccup*";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "lost some money...*Hiccup*"
+msgstr "perdeu algum dinheiro...*Hiccup*"
+
+# mes "Life~~ is~~ nothing~~~";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "Life~~ is~~ nothing~~~"
+msgstr "A vida~~~ é~~~ nada~~~~"
+
+# mes "What is zeny~~~~ ";
+#: npc/cities/amatsu.txt
+msgctxt "Drunken Man#ama"
+msgid "What is zeny~~~~ "
+msgstr "O que é zeny~~~~ "
+
+# mes "*Hiccup*...... *Hiccup*.......";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "*Hiccup*...... *Hiccup*......."
+msgstr "*Hiccup*...... *Hiccup*......."
+
+# mes ".......................";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "......................."
+msgstr "......................."
+
+# mes "........Z.z..z...zzz...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "........Z.z..z...zzz..."
+msgstr "........Z.z..z...zzz..."
+
+# mes "Heh heh... nice lad...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "Heh heh... nice lad..."
+msgstr "Heh heh... bom rapaz..."
+
+# mes "But you know *Hiccup*";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "But you know *Hiccup*"
+msgstr "Mas você sabe *Hiccup*"
+
+# mes "I can't give you any of mine! Heheheh...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "I can't give you any of mine! Heheheh..."
+msgstr "Eu não posso lhe dar nenhum dos meus! Heheheh..."
+
+# mes "If you buy me a drink, I will think about it...Hehehe...*Hiccup*..";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drunken Man#ama"
+msgid "If you buy me a drink, I will think about it...Hehehe...*Hiccup*.."
+msgstr ""
+"Se você me pagar uma bebida, vou pensar sobre isso...Hehehe...*Hiccup*..."
+
+# mes "[Hatsue]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Grandma#ama"
+msgid "[Hatsue]"
+msgstr "[Hatsue]"
+
+# mes "I'm worried about my husband.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Grandma#ama"
+msgid "I'm worried about my husband."
+msgstr "Estou preocupada com meu marido."
+
+# mes "He lost a lot of money in some distant town today.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Grandma#ama"
+msgid "He lost a lot of money in some distant town today."
+msgstr "Ele perdeu muito dinheiro em alguma cidade distante hoje."
+
+# mes "I got so mad at him, he ran off in";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Grandma#ama"
+msgid "I got so mad at him, he ran off in"
+msgstr "Fiquei tão furioso com ele que ele fugiu em"
+
+# mes "fear! I'm worried...what if he";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Grandma#ama"
+msgid "fear! I'm worried...what if he"
+msgstr "medo! Estou preocupada... e se ele"
+
+# mes "went to the bar and starts drinking again? The man just doesn't have any backbone. *Phew*";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Grandma#ama"
+msgid ""
+"went to the bar and starts drinking again? The man just doesn't have any "
+"backbone. *Phew*"
+msgstr ""
+"foi para o bar e começou a beber novamente? O homem simplesmente não tem "
+"nenhuma espinha dorsal. *O homem não tem espinha dorsal"
+
+# mes "[Jyaburo]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "[Jyaburo]"
+msgstr "[Jyaburo]"
+
+# mes "This place is special to me.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "This place is special to me."
+msgstr "Este lugar é especial para mim."
+
+# mes "It's filled with memories of my wife.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "It's filled with memories of my wife."
+msgstr "Está repleto de lembranças de minha esposa."
+
+# mes "It was under that big tree where";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "It was under that big tree where"
+msgstr "Estava debaixo daquela grande árvore onde"
+
+# mes "I first told her I loved her. At";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "I first told her I loved her. At"
+msgstr "Eu lhe disse pela primeira vez que a amava. Em"
+
+# mes "the time, I really didn't know that she also had feelings for me.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "the time, I really didn't know that she also had feelings for me."
+msgstr ""
+"na época, eu realmente não sabia que ela também tinha sentimentos por mim."
+
+# mes "After that day, we had many";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "After that day, we had many"
+msgstr "Depois daquele dia, tivemos muitos"
+
+# mes "conversations here. Quiet";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "conversations here. Quiet"
+msgstr "conversas aqui. Silêncio"
+
+# mes "and peaceful, this was our";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "and peaceful, this was our"
+msgstr "e pacífica, esta foi nossa"
+
+# mes "favorite place to be together.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "favorite place to be together."
+msgstr "lugar favorito para estarmos juntos."
+
+# mes "When I close my eyes here, I";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "When I close my eyes here, I"
+msgstr "Quando fecho meus olhos aqui, eu"
+
+# mes "can picture our good times,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "can picture our good times,"
+msgstr "pode imaginar nossos bons tempos,"
+
+# mes "and it feels like it all happened yesterday.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "and it feels like it all happened yesterday."
+msgstr "e parece que tudo isso aconteceu ontem."
+
+# mes "...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "..."
+msgstr "..."
+
+# mes "My wife passed away...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "My wife passed away..."
+msgstr "Minha esposa faleceu..."
+
+# mes "So now I only come here by";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "So now I only come here by"
+msgstr "Então agora eu só venho aqui por"
+
+# mes "myself...But I feel like I'm with her whenever I'm here.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "myself...But I feel like I'm with her whenever I'm here."
+msgstr "eu mesmo... Mas sinto que estou com ela sempre que estou aqui."
+
+# mes "Do you have anyone that you";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "Do you have anyone that you"
+msgstr "Você tem alguém que você"
+
+# mes "think about? If you have a";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "think about? If you have a"
+msgstr "pensar sobre? Se você tiver um"
+
+# mes "special someone, don't hesitate";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "special someone, don't hesitate"
+msgstr "alguém especial, não hesite"
+
+# mes "or hold back. Be sure to treat";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "or hold back. Be sure to treat"
+msgstr "ou se conter. Não deixe de tratar"
+
+# mes "that person specially.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "that person specially."
+msgstr "essa pessoa em especial."
+
+# mes "Human beings live such short";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "Human beings live such short"
+msgstr "Os seres humanos vivem tão pouco"
+
+# mes "lives. But we're able to laugh";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "lives. But we're able to laugh"
+msgstr "vidas. Mas nós somos capazes de rir"
+
+# mes "throughout life and forget the";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "throughout life and forget the"
+msgstr "ao longo da vida e esquecer o"
+
+# mes "sadness.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "sadness."
+msgstr "tristeza."
+
+# mes "...Always be happy.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Jyaburo#ama"
+msgid "...Always be happy."
+msgstr "...Seja sempre feliz."
+
+# mes "[Hutari Shioko]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "[Hutari Shioko]"
+msgstr "[Hutari Shioko]"
+
+# mes "It is a pleasure to meet you.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "It is a pleasure to meet you."
+msgstr "É um prazer conhecê-lo."
+
+# mes "My name is Hutari Shioko.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "My name is Hutari Shioko."
+msgstr "Meu nome é Hutari Shioko."
+
+# mes "My hobby is listening to music.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "My hobby is listening to music."
+msgstr "Meu hobby é ouvir música."
+
+# mes "I'm an avid fan of classical music.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "I'm an avid fan of classical music."
+msgstr "Eu sou um ávido fã de música clássica."
+
+# mes "There is an old story about";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "There is an old story about"
+msgstr "Há uma velha história sobre"
+
+# mes "the hill in our town.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "the hill in our town."
+msgstr "a colina de nossa cidade."
+
+# mes "Have you heard this story before?";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "Have you heard this story before?"
+msgstr "Você já ouviu esta história antes?"
+
+# mes "It is said that if you propose";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "It is said that if you propose"
+msgstr "Diz-se que se você propuser"
+
+# mes "under that tree, you and your";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "under that tree, you and your"
+msgstr "debaixo daquela árvore, você e seu"
+
+# mes "lover will live a happy life for all eternity.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "lover will live a happy life for all eternity."
+msgstr "o amante viverá uma vida feliz por toda a eternidade."
+
+# mes "However, the proposal can not be";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "However, the proposal can not be"
+msgstr "No entanto, a proposta não pode ser"
+
+# mes "done at any given time. The legend states that it can only be done on Saturday evenings.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid ""
+"done at any given time. The legend states that it can only be done on "
+"Saturday evenings."
+msgstr ""
+"feito a qualquer momento. A lenda diz que isso só pode ser feito aos sábados "
+"à noite."
+
+# mes "After the proposal, the reply must";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "After the proposal, the reply must"
+msgstr "Após a proposta, a resposta deve"
+
+# mes "be answered before Sunday evening. This is the most crucial part of it.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "be answered before Sunday evening. This is the most crucial part of it."
+msgstr "ser respondido antes da noite de domingo. Esta é a parte mais crucial."
+
+# mes "If you like someone...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "If you like someone..."
+msgstr "Se você gosta de alguém..."
+
+# mes "You should try proposing";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "You should try proposing"
+msgstr "Você deve tentar propor"
+
+# mes "under that tree. I'm sure ";
+#: npc/cities/amatsu.txt
+msgctxt "Propose Girl#ama"
+msgid "under that tree. I'm sure "
+msgstr "debaixo daquela árvore. Tenho certeza de que "
+
+# mes "happy things will happen, if you do.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Propose Girl#ama"
+msgid "happy things will happen, if you do."
+msgstr "coisas felizes acontecerão, se você o fizer."
+
+# mes "[Garakame sensei]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "[Garakame sensei]"
+msgstr "[Garakame sensei]"
+
+# mes "This is a beautiful place";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "This is a beautiful place"
+msgstr "Este é um lugar lindo"
+
+# mes "with everlasting cherry blossoms.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "with everlasting cherry blossoms."
+msgstr "com eterna floração de cerejeira."
+
+# mes "Also, this town is the origin of";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "Also, this town is the origin of"
+msgstr "Além disso, esta cidade é a origem de"
+
+# mes "legendary play, 'White Dryad.' ";
+#: npc/cities/amatsu.txt
+msgctxt "Drama Teacher#ama"
+msgid "legendary play, 'White Dryad.' "
+msgstr "peça lendária, 'White Dryad' "
+
+# mes "If you know a girl who is";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "If you know a girl who is"
+msgstr "Se você conhece uma garota que é"
+
+# mes "talented in acting, please";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "talented in acting, please"
+msgstr "talentosos em atuação, por favor"
+
+# mes "bring her to me. I have been";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "bring her to me. I have been"
+msgstr "tragam-na até mim. Eu tenho sido"
+
+# mes "searching for a girl who could";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "searching for a girl who could"
+msgstr "em busca de uma garota que pudesse"
+
+# mes "play the role as the 'White Dryad.'";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "play the role as the 'White Dryad.'"
+msgstr "desempenham o papel de \"White Dryad\""
+
+# mes "The 'White Dryad' is a nymph of";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "The 'White Dryad' is a nymph of"
+msgstr "O \"White Dryad\" é uma ninfa de"
+
+# mes "cherry tree... It has been hard to";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "cherry tree... It has been hard to"
+msgstr "cerejeira... Tem sido difícil"
+
+# mes "find a girl who can perform";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "find a girl who can perform"
+msgstr "encontrar uma garota que possa atuar"
+
+# mes "as the 'White Drayd...'";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "as the 'White Drayd...'"
+msgstr "como o \"White Drayd...\""
+
+# mes "Are you interested in acting?";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "Are you interested in acting?"
+msgstr "Você está interessado em agir?"
+
+# mes "I need someone who sees";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "I need someone who sees"
+msgstr "Eu preciso de alguém que veja"
+
+# mes "the passion in acting and";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "the passion in acting and"
+msgstr "a paixão de atuar e"
+
+# mes "can understand my vision.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "can understand my vision."
+msgstr "pode entender minha visão."
+
+# mes "When you stand on the stage,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "When you stand on the stage,"
+msgstr "Quando você está no palco,"
+
+# mes "you need to become the";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "you need to become the"
+msgstr "você precisa se tornar o"
+
+# mes "character. Your acting needs";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "character. Your acting needs"
+msgstr "caráter. Suas necessidades de atuação"
+
+# mes "to touch the hearts of the";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "to touch the hearts of the"
+msgstr "para tocar o coração do"
+
+# mes "audience and touch their souls.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "audience and touch their souls."
+msgstr "audiência e tocar suas almas."
+
+# mes "Everyone's life is like a ";
+#: npc/cities/amatsu.txt
+msgctxt "Drama Teacher#ama"
+msgid "Everyone's life is like a "
+msgstr "A vida de todos é como uma "
+
+# mes "drama, right? Enjoy your life";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "drama, right? Enjoy your life"
+msgstr "drama, certo? Aproveite sua vida"
+
+# mes "as what you are and find me";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "as what you are and find me"
+msgstr "como o que você é e me encontre"
+
+# mes "someday when you are ready.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Drama Teacher#ama"
+msgid "someday when you are ready."
+msgstr "um dia, quando estiver pronto."
+
+# mes "[Bonubonu]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "[Bonubonu]"
+msgstr "[Bonubonu]"
+
+# mes "That tree on the hill is";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "That tree on the hill is"
+msgstr "Aquela árvore na colina é"
+
+# mes "a very old tree. It is a big";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "a very old tree. It is a big"
+msgstr "uma árvore muito antiga. É uma árvore grande"
+
+# mes "cherry tree with everlasting blossoms.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "cherry tree with everlasting blossoms."
+msgstr "cerejeira com flores eterna."
+
+# mes "There is something about this";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "There is something about this"
+msgstr "Há algo nisto"
+
+# mes "tree that makes me forget about";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "tree that makes me forget about"
+msgstr "árvore que me faz esquecer"
+
+# mes "all the troubles in my life when I sit under it.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "all the troubles in my life when I sit under it."
+msgstr "todos os problemas da minha vida quando me sento debaixo dela."
+
+# mes "Everything about this tree is";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "Everything about this tree is"
+msgstr "Tudo sobre esta árvore é"
+
+# mes "simply wonderful...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "simply wonderful..."
+msgstr "simplesmente maravilhoso..."
+
+# mes "I can't really describe how";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "I can't really describe how"
+msgstr "Não posso realmente descrever como"
+
+# mes "I feel when I look at it...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "I feel when I look at it..."
+msgstr "Sinto quando olho para ele..."
+
+# mes "It just leaves me breathless...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "It just leaves me breathless..."
+msgstr "Isso só me deixa sem fôlego..."
+
+# mes "You should visit the tree and";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "You should visit the tree and"
+msgstr "Você deve visitar a árvore e"
+
+# mes "spend some time there.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "spend some time there."
+msgstr "passar algum tempo lá."
+
+# mes "It is really a miraculous and gracious tree...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Bonubonu#ama2"
+msgid "It is really a miraculous and gracious tree..."
+msgstr "É realmente uma árvore milagrosa e graciosa."
+
+# mes "[Sakura Seiichi]";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "[Sakura Seiichi]"
+msgstr "[Sakura Seiichi]"
+
+# mes "Ah... I'm not a weirdo so";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "Ah... I'm not a weirdo so"
+msgstr "Ah... Eu não sou um esquisito, então"
+
+# mes "don't panic. I'm just an ordinary";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "don't panic. I'm just an ordinary"
+msgstr "não entre em pânico. Eu sou apenas um vulgar"
+
+# mes "veterinarian. My job is curing";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "veterinarian. My job is curing"
+msgstr "veterinário. Meu trabalho é curar"
+
+# mes "sick animals.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "sick animals."
+msgstr "animais doentes."
+
+# mes " ";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid " "
+msgstr " "
+
+# mes "By the way... Do you know?";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "By the way... Do you know?"
+msgstr "A propósito... Você sabe?"
+
+# mes "The story about the cherry tree";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "The story about the cherry tree"
+msgstr "A história sobre a cerejeira"
+
+# mes "on the hill...I guess you haven't heard about it...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "on the hill...I guess you haven't heard about it..."
+msgstr "na colina...acho que você ainda não ouviu falar sobre isso..."
+
+# mes "That tree has a secret of";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "That tree has a secret of"
+msgstr "Essa árvore tem um segredo de"
+
+# mes "keeping its beauty and whiteness.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "keeping its beauty and whiteness."
+msgstr "mantendo sua beleza e brancura."
+
+# mes "The secret is...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "The secret is..."
+msgstr "O segredo é..."
+
+# mes "There are corpses buried under...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "There are corpses buried under..."
+msgstr "Há cadáveres enterrados sob..."
+
+# mes "that tree...";
+#: npc/cities/amatsu.txt
+msgctxt "Veterinarian#ama"
+msgid "that tree..."
+msgstr "aquela árvore..."
+
+# if (select("How horrible!", "You have got to be kidding.") == 1) {
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "How horrible!"
+msgstr "Que horrível!"
+
+# if (select("How horrible!", "You have got to be kidding.") == 1) {
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "You have got to be kidding."
+msgstr "Você só pode estar brincando."
+
+# mes "Kuhuhu... They could be...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "Kuhuhu... They could be..."
+msgstr "Kuhuhu... Eles poderiam ser..."
+
+# mes "By the way, do you want";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "By the way, do you want"
+msgstr "A propósito, você quer"
+
+# mes "make a bet on it...?";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "make a bet on it...?"
+msgstr "fazer uma aposta nisso...?"
+
+# mes "If I..........";
+#: npc/cities/amatsu.txt
+msgctxt "Veterinarian#ama"
+msgid "If I.........."
+msgstr "Se eu.........."
+
+# mes "............";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "............"
+msgstr "............"
+
+# mes ".........";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "........."
+msgstr "........."
+
+# mes "^3355FFHis voice was getting lower";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "^3355FFHis voice was getting lower"
+msgstr "^3355FFH A sua voz estava a ficar mais baixa"
+
+# mes "and lower as the wind blew.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "and lower as the wind blew."
+msgstr "e mais baixo enquanto o vento soprava."
+
+# mes "Finally, I couldn't even hear his voice. I can't even recall what he was trying to tell me...^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid ""
+"Finally, I couldn't even hear his voice. I can't even recall what he was "
+"trying to tell me...^000000"
+msgstr ""
+"Finalmente, eu não conseguia nem ouvir sua voz. Não consigo nem me lembrar o "
+"que ele estava tentando me dizer...^000000"
+
+# mes "I can't help it if you think that way. But one day, you too could be buried underneath...";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid ""
+"I can't help it if you think that way. But one day, you too could be buried "
+"underneath..."
+msgstr ""
+"Não posso ajudar se você pensa dessa maneira. Mas um dia, você também poderá "
+"ser enterrado por baixo..."
+
+# mes "Haha... Hahaha.....";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "Haha... Hahaha....."
+msgstr "Haha... Hahaha....."
+
+# mes "...............";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "..............."
+msgstr "..............."
+
+# mes "...........";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "..........."
+msgstr "..........."
+
+# mes "^3355FFHis laugh was getting lower";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid "^3355FFHis laugh was getting lower"
+msgstr "^3355FFH O seu riso estava a ficar mais baixo"
+
+# mes "Finally, I couldn't even hear anything. I can't even recall what he was trying to tell me...^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Veterinarian#ama"
+msgid ""
+"Finally, I couldn't even hear anything. I can't even recall what he was "
+"trying to tell me...^000000"
+msgstr ""
+"Finalmente, eu não conseguia nem ouvir nada. Não consigo nem me lembrar o "
+"que ele estava tentando me dizer...^000000"
+
+# mes "^3355FFAs she mentioned, this tree";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFAs she mentioned, this tree"
+msgstr "^3355FFAs ela mencionou, esta árvore"
+
+# mes "seems to be a famous place";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "seems to be a famous place"
+msgstr "parece ser um lugar famoso"
+
+# mes "for proposing lovers.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "for proposing lovers."
+msgstr "por propor amantes."
+
+# mes "There were several carved symbols";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "There were several carved symbols"
+msgstr "Havia vários símbolos esculpidos"
+
+# mes "of hearts and initials of lovers";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "of hearts and initials of lovers"
+msgstr "de corações e iniciais de amantes"
+
+# mes "on the bark.^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "on the bark.^000000"
+msgstr "sobre a casca.^000000"
+
+# mes "^3355FFBesides proposals, people";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFBesides proposals, people"
+msgstr "^3355FFBesides propostas, pessoas"
+
+# mes "gather under this tree when";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "gather under this tree when"
+msgstr "se reúnem sob esta árvore quando"
+
+# mes "they discuss important";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "they discuss important"
+msgstr "eles discutem importantes"
+
+# mes "matters. I could listen to";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "matters. I could listen to"
+msgstr "assuntos. Eu poderia ouvir"
+
+# mes "all kinds of stories";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "all kinds of stories"
+msgstr "todos os tipos de histórias"
+
+# mes "in this magnificent place.^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "in this magnificent place.^000000"
+msgstr "neste magnífico lugar.^000000"
+
+# mes "^3355FFThe legendary play, 'White Dryad'.....";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFThe legendary play, 'White Dryad'....."
+msgstr "^3355FFA lendária peça, 'White Dryad'....."
+
+# mes "I never heard about that title but";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "I never heard about that title but"
+msgstr "Eu nunca ouvi falar desse título, mas"
+
+# mes "it sounds familiar.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "it sounds familiar."
+msgstr "soa familiar."
+
+# mes "Nymph of cherry tree... What would";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "Nymph of cherry tree... What would"
+msgstr "Ninfa de cerejeira... O que seria"
+
+# mes "be her position in the play?^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "be her position in the play?^000000"
+msgstr "ser sua posição na peça?^000000"
+
+# mes "^3355FFI would like to find";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFI would like to find"
+msgstr "^3355FFI gostaria de encontrar"
+
+# mes "a person who is talented";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "a person who is talented"
+msgstr "uma pessoa que tenha talento"
+
+# mes "in acting and help her until";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "in acting and help her until"
+msgstr "em agir e ajudá-la até"
+
+# mes "she performs the play. However,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "she performs the play. However,"
+msgstr "ela executa a peça. No entanto, ela realiza a peça,"
+
+# mes "it seems to be easier said than done.^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "it seems to be easier said than done.^000000"
+msgstr "parece ser mais fácil dizer do que fazer.^000000"
+
+# mes "^3355FFI might have talent in";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFI might have talent in"
+msgstr "^3355FFI pode ter talento em"
+
+# mes "acting which hasn't been discovered yet. I thought, 'If I dress up, I should perform as the 'White Dryad...'^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid ""
+"acting which hasn't been discovered yet. I thought, 'If I dress up, I should "
+"perform as the 'White Dryad...'^000000"
+msgstr ""
+"atuação que ainda não foi descoberta. Eu pensei: 'Se eu me vestir, eu "
+"deveria atuar como o 'White Dryad...'^000000"
+
+# mes "^3355FFUnlike other cherry trees,";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFUnlike other cherry trees,"
+msgstr "^3355FFUnivalente a outras cerejeiras,"
+
+# mes "this tree has a strong fragnance.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "this tree has a strong fragnance."
+msgstr "esta árvore tem uma forte fragilidade."
+
+# mes "I just fell into a relaxed";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "I just fell into a relaxed"
+msgstr "Acabei de cair em um relaxado"
+
+# mes "mood. The fragnance eased";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "mood. The fragnance eased"
+msgstr "humor. A fragnância aliviou"
+
+# mes "my burdens and I felt";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "my burdens and I felt"
+msgstr "meus fardos e eu senti"
+
+# mes "very comfortable.^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "very comfortable.^000000"
+msgstr "muito confortável.^000000"
+
+# mes "^3355FFIt was just for a few moments";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFIt was just for a few moments"
+msgstr "^3355FF Foi apenas por alguns momentos"
+
+# mes "but I could forget the";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "but I could forget the"
+msgstr "mas eu poderia esquecer o"
+
+# mes "burdens of life. I wish to";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "burdens of life. I wish to"
+msgstr "fardos da vida. Desejo"
+
+# mes "come back again and";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "come back again and"
+msgstr "voltar novamente e"
+
+# mes "sit under this tree...^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "sit under this tree...^000000"
+msgstr "sentar debaixo desta árvore...^000000"
+
+# mes "^3355FFThis strong fragnance";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFThis strong fragnance"
+msgstr "^3355FF Esta forte fragilidade"
+
+# mes "is making me dizzy. Not like";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "is making me dizzy. Not like"
+msgstr "está me deixando tonto. Não como"
+
+# mes "other cherry trees, this tree's";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "other cherry trees, this tree's"
+msgstr "outras cerejeiras, esta árvore é"
+
+# mes "shimmering white petals";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "shimmering white petals"
+msgstr "pétalas brancas cintilantes"
+
+# mes "felt strange.^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "felt strange.^000000"
+msgstr "senti-me estranho.^000000"
+
+# mes "^3355FFIt feels as if my soul is";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFIt feels as if my soul is"
+msgstr "^3355FF Parece como se minha alma estivesse"
+
+# mes "being drained if I stay here";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "being drained if I stay here"
+msgstr "ser drenado se eu ficar aqui"
+
+# mes "longer. After a glimpse of";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "longer. After a glimpse of"
+msgstr "mais longo. Após um vislumbre de"
+
+# mes "the cherry tree, I thought to";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "the cherry tree, I thought to"
+msgstr "a cerejeira, eu pensei em"
+
+# mes "mayself, 'I must get out of here quickly.'^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "mayself, 'I must get out of here quickly.'^000000"
+msgstr "pode ele mesmo, \"Tenho que sair daqui rapidamente\". ^000000"
+
+# mes "^3355FFThere was a cherry tree";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFThere was a cherry tree"
+msgstr "^3355FF Havia uma cerejeira"
+
+# mes "on the hill. It doesn't look";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "on the hill. It doesn't look"
+msgstr "na colina. Não parece"
+
+# mes "like the other trees.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "like the other trees."
+msgstr "como as outras árvores."
+
+# mes "This tree seems to have";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "This tree seems to have"
+msgstr "Esta árvore parece ter"
+
+# mes "a long history...^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "a long history...^000000"
+msgstr "uma longa história...^000000"
+
+# mes "^3355FFAre there any people";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "^3355FFAre there any people"
+msgstr "^3355FFAre lá qualquer pessoa"
+
+# mes "who live here? I took";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "who live here? I took"
+msgstr "que vivem aqui? Eu tomei"
+
+# mes "a look around and found";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "a look around and found"
+msgstr "um olhar ao redor e encontrou"
+
+# mes "someone down the hill.";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "someone down the hill."
+msgstr "alguém do outro lado da colina."
+
+# mes "I better ask her about this tree.^000000";
+#: npc/cities/amatsu.txt
+#, fuzzy
+msgctxt "Legendary Tree"
+msgid "I better ask her about this tree.^000000"
+msgstr "É melhor eu lhe perguntar sobre esta árvore.^000000"

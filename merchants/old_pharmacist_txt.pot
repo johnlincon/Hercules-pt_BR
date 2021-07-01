@@ -1,0 +1,338 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/merchants/old_pharmacist.txt
+# mes "- Wait a moment! -";
+msgctxt "Pharmacist"
+msgid "- Wait a moment! -"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "- Currently you're carrying -";
+msgctxt "Pharmacist"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "- too many items with you. -";
+msgctxt "Pharmacist"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "- Please come back later -";
+msgctxt "Pharmacist"
+msgid "- Please come back later -"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "- after you put some items into kafra storage. -";
+msgctxt "Pharmacist"
+msgid "- after you put some items into kafra storage. -"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "[Old Pharmacist]";
+msgctxt "Pharmacist"
+msgid "[Old Pharmacist]"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Ummmm...";
+msgctxt "Pharmacist"
+msgid "Ummmm..."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "What brings you here...?";
+msgctxt "Pharmacist"
+msgid "What brings you here...?"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Make Potion", "Talk.", "Mixing Information", "Cancel")) {
+msgctxt "Pharmacist"
+msgid "Make Potion"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Make Potion", "Talk.", "Mixing Information", "Cancel")) {
+msgctxt "Pharmacist"
+msgid "Talk."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Make Potion", "Talk.", "Mixing Information", "Cancel")) {
+msgctxt "Pharmacist"
+msgid "Mixing Information"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Make Potion", "Talk.", "Mixing Information", "Cancel")) {
+msgctxt "Pharmacist"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Why are you carrying these so many!";
+msgctxt "Pharmacist"
+msgid "Why are you carrying these so many!"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Don't be greedy, carry only as much you need!";
+msgctxt "Pharmacist"
+msgid "Don't be greedy, carry only as much you need!"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "You are too heavy to receive potions from me...";
+msgctxt "Pharmacist"
+msgid "You are too heavy to receive potions from me..."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Go store some items in your storage first!";
+msgctxt "Pharmacist"
+msgid "Go store some items in your storage first!"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "You have all the stuff ready, right? Which one would you like?";
+msgctxt "Pharmacist"
+msgid "You have all the stuff ready, right? Which one would you like?"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
+msgctxt "Pharmacist"
+msgid "Red Potion."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
+msgctxt "Pharmacist"
+msgid "Orange Potion."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
+msgctxt "Pharmacist"
+msgid "Yellow Potion."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
+msgctxt "Pharmacist"
+msgid "White Potion."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
+msgctxt "Pharmacist"
+msgid "Blue Potion."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
+msgctxt "Pharmacist"
+msgid "Green Potion."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
+msgctxt "Pharmacist"
+msgid "Actually, I don't want anything."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "You rascal! What did you expect?! Coming here with nothing. Tsk!";
+msgctxt "Pharmacist"
+msgid "You rascal! What did you expect?! Coming here with nothing. Tsk!"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Get lost!";
+msgctxt "Pharmacist"
+msgid "Get lost!"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "How many?";
+msgctxt "Pharmacist"
+msgid "How many?"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Make as many as I can.", "I want to choose an amount.", "Actually, I don't want anything.")) {
+msgctxt "Pharmacist"
+msgid "Make as many as I can."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# switch(select("Make as many as I can.", "I want to choose an amount.", "Actually, I don't want anything.")) {
+msgctxt "Pharmacist"
+msgid "I want to choose an amount."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "You rascal! You don't even have all the materials and you want me to make you potions?!";
+msgctxt "Pharmacist"
+msgid "You rascal! You don't even have all the materials and you want me to make you potions?!"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Then pick a number below 100. If you don't want any, just enter '0'. With the materials you have, you can make about "+.@max+" potions.";
+msgctxt "Pharmacist"
+msgid "Then pick a number below 100. If you don't want any, just enter '0'. With the materials you have, you can make about "
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Then pick a number below 100. If you don't want any, just enter '0'. With the materials you have, you can make about "+.@max+" potions.";
+msgctxt "Pharmacist"
+msgid " potions."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Make up your mind, will you?!";
+msgctxt "Pharmacist"
+msgid "Make up your mind, will you?!"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Are you deaf? I said less than 100!";
+msgctxt "Pharmacist"
+msgid "Are you deaf? I said less than 100!"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "What?!";
+msgctxt "Pharmacist"
+msgid "What?!"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Grrr...";
+msgctxt "Pharmacist"
+msgid "Grrr..."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Bleh!";
+msgctxt "Pharmacist"
+msgid "Bleh!"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Here you go. It's all done so you can take it. But remember! Abusing medicine is not good.";
+msgctxt "Pharmacist"
+msgid "Here you go. It's all done so you can take it. But remember! Abusing medicine is not good."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "With medicine, you can increase a person's ability to regenerate. But, they're only good up to a point. *Sigh* I'm starting to think of the days when I was young. I must be getting old.";
+msgctxt "Pharmacist"
+msgid "With medicine, you can increase a person's ability to regenerate. But, they're only good up to a point. *Sigh* I'm starting to think of the days when I was young. I must be getting old."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Anyways, a potion is merely a potion. Nothing more and nothing less.";
+msgctxt "Pharmacist"
+msgid "Anyways, a potion is merely a potion. Nothing more and nothing less."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Hrrrmm...";
+msgctxt "Pharmacist"
+msgid "Hrrrmm..."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "You young ones can be quite annoying. But, since you asked, I'll explain.";
+msgctxt "Pharmacist"
+msgid "You young ones can be quite annoying. But, since you asked, I'll explain."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Herbs work well by themselves, but if you use my special techniques and skills to make potions out of them, the effect is much much greater.";
+msgctxt "Pharmacist"
+msgid "Herbs work well by themselves, but if you use my special techniques and skills to make potions out of them, the effect is much much greater."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "If you ask eagerly and politely, I will make them for you. But, not for free... Don't worry though, I only charge a small fee, so it's not that expensive.";
+msgctxt "Pharmacist"
+msgid "If you ask eagerly and politely, I will make them for you. But, not for free... Don't worry though, I only charge a small fee, so it's not that expensive."
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Red Potion - ^0098E52 Red Herbs, 1 Empty Bottle, 2 zeny fee.^000000";
+msgctxt "Pharmacist"
+msgid "Red Potion - ^0098E52 Red Herbs, 1 Empty Bottle, 2 zeny fee.^000000"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Orange Potion - ^0098E51 Red Herb, 1 Yellow Herb, 1 Empty Bottle, 5 zeny fee.^000000";
+msgctxt "Pharmacist"
+msgid "Orange Potion - ^0098E51 Red Herb, 1 Yellow Herb, 1 Empty Bottle, 5 zeny fee.^000000"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Yellow Potion - ^0098E52 Yellow Herbs, 1 Empty Bottle, 10 zeny.^000000";
+msgctxt "Pharmacist"
+msgid "Yellow Potion - ^0098E52 Yellow Herbs, 1 Empty Bottle, 10 zeny.^000000"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "White Potion - ^0098E52 White Herbs, 1 Empty Bottle, 20 zeny fee.^000000";
+msgctxt "Pharmacist"
+msgid "White Potion - ^0098E52 White Herbs, 1 Empty Bottle, 20 zeny fee.^000000"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Blue Potion - ^0098E52 Blue Herbs, 1 Empty Bottle, 30 zeny fee.^000000";
+msgctxt "Pharmacist"
+msgid "Blue Potion - ^0098E52 Blue Herbs, 1 Empty Bottle, 30 zeny fee.^000000"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "Green Potion - ^0098E52 Green Herbs, 1 Empty Bottle, 3 zeny fee.^000000";
+msgctxt "Pharmacist"
+msgid "Green Potion - ^0098E52 Green Herbs, 1 Empty Bottle, 3 zeny fee.^000000"
+msgstr ""
+
+#: npc/merchants/old_pharmacist.txt
+# mes "What a boring person. If you have something to say, why don't you say it?!";
+msgctxt "Pharmacist"
+msgid "What a boring person. If you have something to say, why don't you say it?!"
+msgstr ""

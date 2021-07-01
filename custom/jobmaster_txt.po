@@ -1,0 +1,201 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-01 10:59-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Job Master]";
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid "[Job Master]"
+msgstr "[Mestre de Classes]"
+
+# mes "No more jobs are available.";
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid "No more jobs are available."
+msgstr "Não há mais classes disponíveis."
+
+# mes "Please remove your "+((checkfalcon())?"falcon":"")+((checkcart())?"cart":"")+((checkmount() || hascashmount())?"mount":"")
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid "Please remove your "
+msgstr "Por favor, remova seu "
+
+# mes "Please use all your skill points before proceeding.";
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid "Please use all your skill points before proceeding."
+msgstr "Por favor, use todos os seus pontos de habilidade antes de prosseguir."
+
+# mes "You need "
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid "You need "
+msgstr "Você precisa de "
+
+# + (BaseLevel < .rebirth_blevel ? ((.rebirth_blevel - BaseLevel) +" more base levels "+ (JobLevel < .rebirth_jlevel ? "and " : "")) : "")
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid " more base levels "
+msgstr " mais níveis de base "
+
+# + (BaseLevel < .rebirth_blevel ? ((.rebirth_blevel - BaseLevel) +" more base levels "+ (JobLevel < .rebirth_jlevel ? "and " : "")) : "")
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid "and "
+msgstr "e "
+
+# + (JobLevel < .rebirth_jlevel ? (.rebirth_jlevel - JobLevel) +" more job levels " : "")
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid " more job levels "
+msgstr " mais níveis de classe "
+
+# + "to continue.";
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid "to continue."
+msgstr "para continuar."
+
+# mes "Switch to third class?";
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid "Switch to third class?"
+msgstr "Mudar para a terceira classe?"
+
+# mes "Select an option.";
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid "Select an option."
+msgstr "Selecionar uma opção."
+
+# .@choice = select(" ~ ^0055FFRebirth^000000", (.third_classes ? " ~ ^FF0000Third Class^000000":""), " ~ ^777777Cancel^000000");
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid " ~ ^0055FFRebirth^000000"
+msgstr " ~ ^0055FFRebirth^000000"
+
+# .@choice = select(" ~ ^0055FFRebirth^000000", (.third_classes ? " ~ ^FF0000Third Class^000000":""), " ~ ^777777Cancel^000000");
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid " ~ ^FF0000Third Class^000000"
+msgstr " ~ ^FF0000Terceira classe^000000"
+
+# .@choice = select(" ~ ^0055FFRebirth^000000", (.third_classes ? " ~ ^FF0000Third Class^000000":""), " ~ ^777777Cancel^000000");
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid " ~ ^777777Cancel^000000"
+msgstr " ~ ^777777Cancelar^000000"
+
+# mes "Are you sure?";
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid "Are you sure?"
+msgstr "Você tem certeza?"
+
+# mes "Switch to "+jobname(.@newclass)+"?";
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid "Switch to "
+msgstr "Troque para "
+
+# mes "A job level of "+.jobchange_first+" is required to change into the 1st Class.";
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid "A job level of "
+msgstr "Pelo nível de classe "
+
+# mes "A job level of "+.jobchange_first+" is required to change into the 1st Class.";
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid " is required to change into the 1st Class."
+msgstr " é exigido para mudar para a 1ª Classe."
+
+# mes "Switch classes now?";
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid "Switch classes now?"
+msgstr "Mudar de classe agora?"
+
+# mes "An error has occurred.";
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid "An error has occurred."
+msgstr "Ocorreu um erro."
+
+# mes "A job level of "+.jobchange_second+" is required to change into the 2nd Class.";
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid " is required to change into the 2nd Class."
+msgstr " é exigido para mudar para a 2ª Classe."
+
+# mes "Select a job.";
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid "Select a job."
+msgstr "Selecione uma classe."
+
+# mes "A base level of "+.supernovice_level+" is required to turn into a "+jobname(.@newjob)+".";
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid "A base level of "
+msgstr "Subiu de nível base "
+
+# mes "A base level of "+.supernovice_level+" is required to turn into a "+jobname(.@newjob)+".";
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid " is required to turn into a "
+msgstr " é necessário para se transformar em um "
+
+# if (select(" ~ Change into ^0055FF"+ jobname(.@newjob) +"^000000 class", " ~ ^777777"+(getargcount() > 1 ? "Go back": "Cancel")+"^000000") == 1) {
+#: npc/custom/jobmaster.txt
+#, fuzzy
+msgctxt "Job Master"
+msgid " ~ Change into ^0055FF"
+msgstr " ~ Mudar para ^0055FF"
+
+# mes "You are now "+A_An(jobname(.@newjob))+"!";
+#: npc/custom/jobmaster.txt
+msgctxt "Job Master"
+msgid "You are now "
+msgstr "Você é agora um (a) "

@@ -1,0 +1,2438 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "[Canell]";
+msgctxt "Canell#qsk_dan01"
+msgid "[Canell]"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "It's well known that we must";
+msgctxt "Canell#qsk_dan01"
+msgid "It's well known that we must"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "be beautiful to captivate those";
+msgctxt "Canell#qsk_dan01"
+msgid "be beautiful to captivate those"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "who watch us dance. But to rely";
+msgctxt "Canell#qsk_dan01"
+msgid "who watch us dance. But to rely"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "on just our outward appearance";
+msgctxt "Canell#qsk_dan01"
+msgid "on just our outward appearance"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "is a ghastly waste of our full";
+msgctxt "Canell#qsk_dan01"
+msgid "is a ghastly waste of our full"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "potential as performers.";
+msgctxt "Canell#qsk_dan01"
+msgid "potential as performers."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Yes, I can tell that you";
+msgctxt "Canell#qsk_dan01"
+msgid "Yes, I can tell that you"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "don't quite understand that";
+msgctxt "Canell#qsk_dan01"
+msgid "don't quite understand that"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "the correct frame of mind is";
+msgctxt "Canell#qsk_dan01"
+msgid "the correct frame of mind is"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "an essential element to true";
+msgctxt "Canell#qsk_dan01"
+msgid "an essential element to true"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "beauty. Now tell me, are you";
+msgctxt "Canell#qsk_dan01"
+msgid "beauty. Now tell me, are you"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "confident in your dancing...?";
+msgctxt "Canell#qsk_dan01"
+msgid "confident in your dancing...?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# if (select("Of course, old crone!", "I... I'm not sure...") == 1) {
+msgctxt "Canell#qsk_dan01"
+msgid "Of course, old crone!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# if (select("Of course, old crone!", "I... I'm not sure...") == 1) {
+msgctxt "Canell#qsk_dan01"
+msgid "I... I'm not sure..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Ho-ho~ I believe you've";
+msgctxt "Canell#qsk_dan01"
+msgid "Ho-ho~ I believe you've"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "confused confidence with";
+msgctxt "Canell#qsk_dan01"
+msgid "confused confidence with"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "arrogance! The naive cannot";
+msgctxt "Canell#qsk_dan01"
+msgid "arrogance! The naive cannot"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "tell there's a vitally important distinction between the two.";
+msgctxt "Canell#qsk_dan01"
+msgid "tell there's a vitally important distinction between the two."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Now... Prepare for punishment!";
+msgctxt "Canell#qsk_dan01"
+msgid "Now... Prepare for punishment!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "["+ strcharinfo(PC_NAME) +"]";
+msgctxt "Canell#qsk_dan01"
+msgid "["
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Ow...!";
+msgctxt "Canell#qsk_dan01"
+msgid "Ow...!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Th-that whip!";
+msgctxt "Canell#qsk_dan01"
+msgid "Th-that whip!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I-i-it huuuurts!";
+msgctxt "Canell#qsk_dan01"
+msgid "I-i-it huuuurts!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Awareness of your own flaws";
+msgctxt "Canell#qsk_dan01"
+msgid "Awareness of your own flaws"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "and faults is the first crucial";
+msgctxt "Canell#qsk_dan01"
+msgid "and faults is the first crucial"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "step towards improvement.";
+msgctxt "Canell#qsk_dan01"
+msgid "step towards improvement."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Yet your obvious neglect of";
+msgctxt "Canell#qsk_dan01"
+msgid "Yet your obvious neglect of"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "your gift of dancing is...";
+msgctxt "Canell#qsk_dan01"
+msgid "your gift of dancing is..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "grounds for punishment!";
+msgctxt "Canell#qsk_dan01"
+msgid "grounds for punishment!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "What the...? Ack!";
+msgctxt "Canell#qsk_dan01"
+msgid "What the...? Ack!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "S-stop wh-whipping";
+msgctxt "Canell#qsk_dan01"
+msgid "S-stop wh-whipping"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "me! It... It stiiings!";
+msgctxt "Canell#qsk_dan01"
+msgid "me! It... It stiiings!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Ho-ho~! Fortunately for";
+msgctxt "Canell#qsk_dan01"
+msgid "Ho-ho~! Fortunately for"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "you, I will teach you what";
+msgctxt "Canell#qsk_dan01"
+msgid "you, I will teach you what"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "you must learn to rise above";
+msgctxt "Canell#qsk_dan01"
+msgid "you must learn to rise above"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "your current limitations. When";
+msgctxt "Canell#qsk_dan01"
+msgid "your current limitations. When"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I'm finished with you, angels and demons won't resist your charms~";
+msgctxt "Canell#qsk_dan01"
+msgid "I'm finished with you, angels and demons won't resist your charms~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# if (select("No way, you're not teaching me!", "Alright, I'll see what I can learn.") == 1) {
+msgctxt "Canell#qsk_dan01"
+msgid "No way, you're not teaching me!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# if (select("No way, you're not teaching me!", "Alright, I'll see what I can learn.") == 1) {
+msgctxt "Canell#qsk_dan01"
+msgid "Alright, I'll see what I can learn."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "So... You still haven't";
+msgctxt "Canell#qsk_dan01"
+msgid "So... You still haven't"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "mastered the fine art of";
+msgctxt "Canell#qsk_dan01"
+msgid "mastered the fine art of"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "exuding charm and humility!";
+msgctxt "Canell#qsk_dan01"
+msgid "exuding charm and humility!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "There must be consequences";
+msgctxt "Canell#qsk_dan01"
+msgid "There must be consequences"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "for this blatant affront to our";
+msgctxt "Canell#qsk_dan01"
+msgid "for this blatant affront to our"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "profession! Prepare yourself!";
+msgctxt "Canell#qsk_dan01"
+msgid "profession! Prepare yourself!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Nooooo--!";
+msgctxt "Canell#qsk_dan01"
+msgid "Nooooo--!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Not that whip";
+msgctxt "Canell#qsk_dan01"
+msgid "Not that whip"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "again! Arrgh, it's--";
+msgctxt "Canell#qsk_dan01"
+msgid "again! Arrgh, it's--"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "It hurts so much!";
+msgctxt "Canell#qsk_dan01"
+msgid "It hurts so much!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Ho-ho~ It's good that you";
+msgctxt "Canell#qsk_dan01"
+msgid "Ho-ho~ It's good that you"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "recognize that you have much";
+msgctxt "Canell#qsk_dan01"
+msgid "recognize that you have much"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "to learn. Well, let's not waste";
+msgctxt "Canell#qsk_dan01"
+msgid "to learn. Well, let's not waste"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "any time. Your first lesson will be on image training and self";
+msgctxt "Canell#qsk_dan01"
+msgid "any time. Your first lesson will be on image training and self"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "visualization. Now, for that...";
+msgctxt "Canell#qsk_dan01"
+msgid "visualization. Now, for that..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "...You must bring";
+msgctxt "Canell#qsk_dan01"
+msgid "...You must bring"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "me ^FF00001 Crystal Mirror^000000!";
+msgctxt "Canell#qsk_dan01"
+msgid "me ^FF00001 Crystal Mirror^000000!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "This tool is imperative";
+msgctxt "Canell#qsk_dan01"
+msgid "This tool is imperative"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "to the lesson, so fetch it";
+msgctxt "Canell#qsk_dan01"
+msgid "to the lesson, so fetch it"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "and bring it to me quickly!";
+msgctxt "Canell#qsk_dan01"
+msgid "and bring it to me quickly!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Finally, you've come";
+msgctxt "Canell#qsk_dan01"
+msgid "Finally, you've come"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "with the mirror. Now,";
+msgctxt "Canell#qsk_dan01"
+msgid "with the mirror. Now,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "look deeply and scrutinize";
+msgctxt "Canell#qsk_dan01"
+msgid "look deeply and scrutinize"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "your reflection. Gaze upon";
+msgctxt "Canell#qsk_dan01"
+msgid "your reflection. Gaze upon"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "each blemish and fault, each";
+msgctxt "Canell#qsk_dan01"
+msgid "each blemish and fault, each"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "charming trait of your face.";
+msgctxt "Canell#qsk_dan01"
+msgid "charming trait of your face."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "No face is perfect, but";
+msgctxt "Canell#qsk_dan01"
+msgid "No face is perfect, but"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "know that your face is yours";
+msgctxt "Canell#qsk_dan01"
+msgid "know that your face is yours"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "alone, and that it is what gives you a beauty that can be no";
+msgctxt "Canell#qsk_dan01"
+msgid "alone, and that it is what gives you a beauty that can be no"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "one else's. Now, repeat";
+msgctxt "Canell#qsk_dan01"
+msgid "one else's. Now, repeat"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "these truisms after me...";
+msgctxt "Canell#qsk_dan01"
+msgid "these truisms after me..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "''I am beautiful...";
+msgctxt "Canell#qsk_dan01"
+msgid "''I am beautiful..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I am irresistable...''";
+msgctxt "Canell#qsk_dan01"
+msgid "I am irresistable...''"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I am beautiful...";
+msgctxt "Canell#qsk_dan01"
+msgid "I am beautiful..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I am irresistable...";
+msgctxt "Canell#qsk_dan01"
+msgid "I am irresistable..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "[Intoxicated Canell]";
+msgctxt "Canell#qsk_dan01"
+msgid "[Intoxicated Canell]"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Louder!";
+msgctxt "Canell#qsk_dan01"
+msgid "Louder!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "More feeling!";
+msgctxt "Canell#qsk_dan01"
+msgid "More feeling!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "''I am beautiful!";
+msgctxt "Canell#qsk_dan01"
+msgid "''I am beautiful!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I am irresistable!";
+msgctxt "Canell#qsk_dan01"
+msgid "I am irresistable!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I am the most attractive";
+msgctxt "Canell#qsk_dan01"
+msgid "I am the most attractive"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "woman in the whole world!''";
+msgctxt "Canell#qsk_dan01"
+msgid "woman in the whole world!''"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I am beautiful!";
+msgctxt "Canell#qsk_dan01"
+msgid "I am beautiful!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "woman in the whole world!";
+msgctxt "Canell#qsk_dan01"
+msgid "woman in the whole world!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^3355FFYour self esteem has";
+msgctxt "Canell#qsk_dan01"
+msgid "^3355FFYour self esteem has"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "sky rocketed. Fortunately,";
+msgctxt "Canell#qsk_dan01"
+msgid "sky rocketed. Fortunately,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "you've managed to avoid";
+msgctxt "Canell#qsk_dan01"
+msgid "you've managed to avoid"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "becoming a prima donna.^000000";
+msgctxt "Canell#qsk_dan01"
+msgid "becoming a prima donna.^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "[Frustrated Canell]";
+msgctxt "Canell#qsk_dan01"
+msgid "[Frustrated Canell]"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Did I tell you to come";
+msgctxt "Canell#qsk_dan01"
+msgid "Did I tell you to come"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "back here without bringing";
+msgctxt "Canell#qsk_dan01"
+msgid "back here without bringing"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^FF00001 Crystal Mirror^000000!? Now go";
+msgctxt "Canell#qsk_dan01"
+msgid "^FF00001 Crystal Mirror^000000!? Now go"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "and get it before I find";
+msgctxt "Canell#qsk_dan01"
+msgid "and get it before I find"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "reason to punish you!";
+msgctxt "Canell#qsk_dan01"
+msgid "reason to punish you!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Yes, the first and most";
+msgctxt "Canell#qsk_dan01"
+msgid "Yes, the first and most"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "important step to becoming";
+msgctxt "Canell#qsk_dan01"
+msgid "important step to becoming"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "beautiful is to realize and";
+msgctxt "Canell#qsk_dan01"
+msgid "beautiful is to realize and"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "accept your gorgeousness.";
+msgctxt "Canell#qsk_dan01"
+msgid "accept your gorgeousness."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Confidence first, then beauty.";
+msgctxt "Canell#qsk_dan01"
+msgid "Confidence first, then beauty."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Never the other way around.";
+msgctxt "Canell#qsk_dan01"
+msgid "Never the other way around."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Now that you've established";
+msgctxt "Canell#qsk_dan01"
+msgid "Now that you've established"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "the proper attitude on beauty,";
+msgctxt "Canell#qsk_dan01"
+msgid "the proper attitude on beauty,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "it's time for you to learn an";
+msgctxt "Canell#qsk_dan01"
+msgid "it's time for you to learn an"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "advanced technique of- shall";
+msgctxt "Canell#qsk_dan01"
+msgid "advanced technique of- shall"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "we say- enticement. I know an";
+msgctxt "Canell#qsk_dan01"
+msgid "we say- enticement. I know an"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "expert that I highly recommend.";
+msgctxt "Canell#qsk_dan01"
+msgid "expert that I highly recommend."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Go and find my sister";
+msgctxt "Canell#qsk_dan01"
+msgid "Go and find my sister"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "in Prontera Chruch. If you";
+msgctxt "Canell#qsk_dan01"
+msgid "in Prontera Chruch. If you"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "mention me by name, she";
+msgctxt "Canell#qsk_dan01"
+msgid "mention me by name, she"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "should be willing to teach";
+msgctxt "Canell#qsk_dan01"
+msgid "should be willing to teach"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "you. I'd do it myself, but I need to enjoy my new Crystal Mirror~";
+msgctxt "Canell#qsk_dan01"
+msgid "you. I'd do it myself, but I need to enjoy my new Crystal Mirror~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^3355FFIt figures that she'd";
+msgctxt "Canell#qsk_dan01"
+msgid "^3355FFIt figures that she'd"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "keep your mirror.^000000";
+msgctxt "Canell#qsk_dan01"
+msgid "keep your mirror.^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Ah, such a glamorous";
+msgctxt "Canell#qsk_dan01"
+msgid "Ah, such a glamorous"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "face and figure. My";
+msgctxt "Canell#qsk_dan01"
+msgid "face and figure. My"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "beauty is incompara--";
+msgctxt "Canell#qsk_dan01"
+msgid "beauty is incompara--"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Oh! It's you. So did my";
+msgctxt "Canell#qsk_dan01"
+msgid "Oh! It's you. So did my"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "sister in Prontera Church";
+msgctxt "Canell#qsk_dan01"
+msgid "sister in Prontera Church"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "teach you anything yet?";
+msgctxt "Canell#qsk_dan01"
+msgid "teach you anything yet?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Ah, so were you";
+msgctxt "Canell#qsk_dan01"
+msgid "Ah, so were you"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "able to find Aelle?";
+msgctxt "Canell#qsk_dan01"
+msgid "able to find Aelle?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Were you able to learn";
+msgctxt "Canell#qsk_dan01"
+msgid "Were you able to learn"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "anything from her?";
+msgctxt "Canell#qsk_dan01"
+msgid "anything from her?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Actually, I only learned";
+msgctxt "Canell#qsk_dan01"
+msgid "Actually, I only learned"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "about winks, but not so";
+msgctxt "Canell#qsk_dan01"
+msgid "about winks, but not so"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "much as how to do them.";
+msgctxt "Canell#qsk_dan01"
+msgid "much as how to do them."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "She... She got drunk and";
+msgctxt "Canell#qsk_dan01"
+msgid "She... She got drunk and"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "couldn't teach me more.";
+msgctxt "Canell#qsk_dan01"
+msgid "couldn't teach me more."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Oh, I should have known";
+msgctxt "Canell#qsk_dan01"
+msgid "Oh, I should have known"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "this would happen. Oh,";
+msgctxt "Canell#qsk_dan01"
+msgid "this would happen. Oh,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "well, I guess there's no way";
+msgctxt "Canell#qsk_dan01"
+msgid "well, I guess there's no way"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "around it now. But you should";
+msgctxt "Canell#qsk_dan01"
+msgid "around it now. But you should"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "know that gettng my sister";
+msgctxt "Canell#qsk_dan01"
+msgid "know that gettng my sister"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "drunk... is punishable.";
+msgctxt "Canell#qsk_dan01"
+msgid "drunk... is punishable."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Bam!";
+msgctxt "Canell#qsk_dan01"
+msgid "Bam!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "?!";
+msgctxt "Canell#qsk_dan01"
+msgid "?!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "What the";
+msgctxt "Canell#qsk_dan01"
+msgid "What the"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "hell was that?";
+msgctxt "Canell#qsk_dan01"
+msgid "hell was that?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Now, a true Dancer should";
+msgctxt "Canell#qsk_dan01"
+msgid "Now, a true Dancer should"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "be able to figure out the";
+msgctxt "Canell#qsk_dan01"
+msgid "be able to figure out the"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "secret to winking on her";
+msgctxt "Canell#qsk_dan01"
+msgid "secret to winking on her"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "own. But since I'm such";
+msgctxt "Canell#qsk_dan01"
+msgid "own. But since I'm such"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "a kind woman, I will deign";
+msgctxt "Canell#qsk_dan01"
+msgid "a kind woman, I will deign"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "to explain it to you. Ho-ho~";
+msgctxt "Canell#qsk_dan01"
+msgid "to explain it to you. Ho-ho~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^3355FFKind woman...?";
+msgctxt "Canell#qsk_dan01"
+msgid "^3355FFKind woman...?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "But she just hit you!";
+msgctxt "Canell#qsk_dan01"
+msgid "But she just hit you!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Lightly, of course, but";
+msgctxt "Canell#qsk_dan01"
+msgid "Lightly, of course, but"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "still, a smack is a smack.^000000";
+msgctxt "Canell#qsk_dan01"
+msgid "still, a smack is a smack.^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Alright, the secret to";
+msgctxt "Canell#qsk_dan01"
+msgid "Alright, the secret to"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "proper winking is to allow";
+msgctxt "Canell#qsk_dan01"
+msgid "proper winking is to allow"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "your eyelid to seductively";
+msgctxt "Canell#qsk_dan01"
+msgid "your eyelid to seductively"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "move to a natural rhythm.";
+msgctxt "Canell#qsk_dan01"
+msgid "move to a natural rhythm."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Close your eye for a second, then open it slowly to this count.";
+msgctxt "Canell#qsk_dan01"
+msgid "Close your eye for a second, then open it slowly to this count."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Un, deux, trois~";
+msgctxt "Canell#qsk_dan01"
+msgid "Un, deux, trois~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Look at me, do it";
+msgctxt "Canell#qsk_dan01"
+msgid "Look at me, do it"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "like this. Un, deux, trois~";
+msgctxt "Canell#qsk_dan01"
+msgid "like this. Un, deux, trois~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Now, let me see you try it.";
+msgctxt "Canell#qsk_dan01"
+msgid "Now, let me see you try it."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# switch(select("Un deux trois~-", "Un, doux trois~", "Un, deux, trois~")) {
+msgctxt "Canell#qsk_dan01"
+msgid "Un deux trois~-"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# switch(select("Un deux trois~-", "Un, doux trois~", "Un, deux, trois~")) {
+msgctxt "Canell#qsk_dan01"
+msgid "Un, doux trois~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "No, no!";
+msgctxt "Canell#qsk_dan01"
+msgid "No, no!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "That's wrong,";
+msgctxt "Canell#qsk_dan01"
+msgid "That's wrong,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "completely wrong!";
+msgctxt "Canell#qsk_dan01"
+msgid "completely wrong!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Can't you do it right?!";
+msgctxt "Canell#qsk_dan01"
+msgid "Can't you do it right?!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "O-ow!";
+msgctxt "Canell#qsk_dan01"
+msgid "O-ow!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "P-please...!";
+msgctxt "Canell#qsk_dan01"
+msgid "P-please...!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Not the whip again!";
+msgctxt "Canell#qsk_dan01"
+msgid "Not the whip again!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Great, that's exactly";
+msgctxt "Canell#qsk_dan01"
+msgid "Great, that's exactly"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "how you do it. Now,";
+msgctxt "Canell#qsk_dan01"
+msgid "how you do it. Now,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "don't forget, the elements";
+msgctxt "Canell#qsk_dan01"
+msgid "don't forget, the elements"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "of rhythm and naturalness";
+msgctxt "Canell#qsk_dan01"
+msgid "of rhythm and naturalness"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "are absolutely essential to";
+msgctxt "Canell#qsk_dan01"
+msgid "are absolutely essential to"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "this technique of enticement.";
+msgctxt "Canell#qsk_dan01"
+msgid "this technique of enticement."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Now that you've mastered";
+msgctxt "Canell#qsk_dan01"
+msgid "Now that you've mastered"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "the art of winking, you.";
+msgctxt "Canell#qsk_dan01"
+msgid "the art of winking, you."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "should know that you cannot";
+msgctxt "Canell#qsk_dan01"
+msgid "should know that you cannot"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "allure those who are much";
+msgctxt "Canell#qsk_dan01"
+msgid "allure those who are much"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "stronger than you. So your";
+msgctxt "Canell#qsk_dan01"
+msgid "stronger than you. So your"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "winks won't work on everyone.";
+msgctxt "Canell#qsk_dan01"
+msgid "winks won't work on everyone."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Of course, my winks don't";
+msgctxt "Canell#qsk_dan01"
+msgid "Of course, my winks don't"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "have that drawback. Ho-ho~";
+msgctxt "Canell#qsk_dan01"
+msgid "have that drawback. Ho-ho~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Anyway, it's time for us to part now. I hope that you grow to";
+msgctxt "Canell#qsk_dan01"
+msgid "Anyway, it's time for us to part now. I hope that you grow to"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "become a more glamorous and charming dancer in days to come.";
+msgctxt "Canell#qsk_dan01"
+msgid "become a more glamorous and charming dancer in days to come."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^3355FFYou have finally learned";
+msgctxt "Canell#qsk_dan01"
+msgid "^3355FFYou have finally learned"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "the Charming Wink skill.^000000";
+msgctxt "Canell#qsk_dan01"
+msgid "the Charming Wink skill.^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Hm...?";
+msgctxt "Canell#qsk_dan01"
+msgid "Hm...?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Is there anything";
+msgctxt "Canell#qsk_dan01"
+msgid "Is there anything"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "more you wanted to";
+msgctxt "Canell#qsk_dan01"
+msgid "more you wanted to"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "ask me? Ah, you must";
+msgctxt "Canell#qsk_dan01"
+msgid "ask me? Ah, you must"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "be mesmerized by my";
+msgctxt "Canell#qsk_dan01"
+msgid "be mesmerized by my"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "beauty, aren't you?";
+msgctxt "Canell#qsk_dan01"
+msgid "beauty, aren't you?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Oh, to be so beautiful";
+msgctxt "Canell#qsk_dan01"
+msgid "Oh, to be so beautiful"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "must be a sin! I should";
+msgctxt "Canell#qsk_dan01"
+msgid "must be a sin! I should"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "work in Prontera Church,";
+msgctxt "Canell#qsk_dan01"
+msgid "work in Prontera Church,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "just like my sister, to";
+msgctxt "Canell#qsk_dan01"
+msgid "just like my sister, to"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "pray for forgiveness~";
+msgctxt "Canell#qsk_dan01"
+msgid "pray for forgiveness~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Hm? Oh, I remember you!";
+msgctxt "Canell#qsk_dan01"
+msgid "Hm? Oh, I remember you!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "A Gypsy now, I see~ That";
+msgctxt "Canell#qsk_dan01"
+msgid "A Gypsy now, I see~ That"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "look suits you. Now, I'm";
+msgctxt "Canell#qsk_dan01"
+msgid "look suits you. Now, I'm"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "sure you've forgotten a few";
+msgctxt "Canell#qsk_dan01"
+msgid "sure you've forgotten a few"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "things since transcending,";
+msgctxt "Canell#qsk_dan01"
+msgid "things since transcending,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "am I right? Watch this wink...";
+msgctxt "Canell#qsk_dan01"
+msgid "am I right? Watch this wink..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Remember now? It's all";
+msgctxt "Canell#qsk_dan01"
+msgid "Remember now? It's all"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "in the natural, seductive";
+msgctxt "Canell#qsk_dan01"
+msgid "in the natural, seductive"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "and rhythmic movement of";
+msgctxt "Canell#qsk_dan01"
+msgid "and rhythmic movement of"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "the eyelid. I hope you use";
+msgctxt "Canell#qsk_dan01"
+msgid "the eyelid. I hope you use"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "your Charming Wink to let";
+msgctxt "Canell#qsk_dan01"
+msgid "your Charming Wink to let"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "your inner beauty shine~";
+msgctxt "Canell#qsk_dan01"
+msgid "your inner beauty shine~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^3355FFYou have learned the";
+msgctxt "Canell#qsk_dan01"
+msgid "^3355FFYou have learned the"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Charming Wink skill.^000000";
+msgctxt "Canell#qsk_dan01"
+msgid "Charming Wink skill.^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Oh, you're such an";
+msgctxt "Canell#qsk_dan01"
+msgid "Oh, you're such an"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "adorable little girl! Ah,";
+msgctxt "Canell#qsk_dan01"
+msgid "adorable little girl! Ah,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I'm sorry, but when you";
+msgctxt "Canell#qsk_dan01"
+msgid "I'm sorry, but when you"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "become a lady at, oh, I don't";
+msgctxt "Canell#qsk_dan01"
+msgid "become a lady at, oh, I don't"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "know, Job Level 40, then I'll";
+msgctxt "Canell#qsk_dan01"
+msgid "know, Job Level 40, then I'll"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "be able to teach you something~";
+msgctxt "Canell#qsk_dan01"
+msgid "be able to teach you something~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Oh, what a cute";
+msgctxt "Canell#qsk_dan01"
+msgid "Oh, what a cute"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "little girl~! Such";
+msgctxt "Canell#qsk_dan01"
+msgid "little girl~! Such"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "a chubby lil' belly,";
+msgctxt "Canell#qsk_dan01"
+msgid "a chubby lil' belly,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "so cuuuuuuuuuuute~";
+msgctxt "Canell#qsk_dan01"
+msgid "so cuuuuuuuuuuute~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Hey there,";
+msgctxt "Canell#qsk_dan01"
+msgid "Hey there,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "handsome~";
+msgctxt "Canell#qsk_dan01"
+msgid "handsome~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^333333*Wink~*^000000";
+msgctxt "Canell#qsk_dan01"
+msgid "^333333*Wink~*^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^3355FFStrangely enough,";
+msgctxt "Canell#qsk_dan01"
+msgid "^3355FFStrangely enough,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "her wink has made";
+msgctxt "Canell#qsk_dan01"
+msgid "her wink has made"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "your heart throb.^000000";
+msgctxt "Canell#qsk_dan01"
+msgid "your heart throb.^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "[Aelle]";
+msgctxt "Aelle#qsk_dan02"
+msgid "[Aelle]"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Pssst, hey! I got";
+msgctxt "Aelle#qsk_dan02"
+msgid "Pssst, hey! I got"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "some cheap, but slightly";
+msgctxt "Aelle#qsk_dan02"
+msgid "some cheap, but slightly"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "illegal, warps to the Orc";
+msgctxt "Aelle#qsk_dan02"
+msgid "illegal, warps to the Orc"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Dungeon, Glast Heim";
+msgctxt "Aelle#qsk_dan02"
+msgid "Dungeon, Glast Heim"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "and the Dead Pit. So";
+msgctxt "Aelle#qsk_dan02"
+msgid "and the Dead Pit. So"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "you want in on this?";
+msgctxt "Aelle#qsk_dan02"
+msgid "you want in on this?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "["+ strcharinfo(PC_NAME) +"]";
+msgctxt "Aelle#qsk_dan02"
+msgid "["
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Actually, um, I'm here";
+msgctxt "Aelle#qsk_dan02"
+msgid "Actually, um, I'm here"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "to look for somebody.";
+msgctxt "Aelle#qsk_dan02"
+msgid "to look for somebody."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "You wouldn't happen";
+msgctxt "Aelle#qsk_dan02"
+msgid "You wouldn't happen"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "to know Canelle's";
+msgctxt "Aelle#qsk_dan02"
+msgid "to know Canelle's"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "sister, would you?";
+msgctxt "Aelle#qsk_dan02"
+msgid "sister, would you?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Ah, so my stuck up";
+msgctxt "Aelle#qsk_dan02"
+msgid "Ah, so my stuck up"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "sister sent you, huh?";
+msgctxt "Aelle#qsk_dan02"
+msgid "sister sent you, huh?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I should have known,";
+msgctxt "Aelle#qsk_dan02"
+msgid "I should have known,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "judging from your clothes.";
+msgctxt "Aelle#qsk_dan02"
+msgid "judging from your clothes."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "So you want to become a";
+msgctxt "Aelle#qsk_dan02"
+msgid "So you want to become a"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "more alluring performer, eh?";
+msgctxt "Aelle#qsk_dan02"
+msgid "more alluring performer, eh?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Awww...";
+msgctxt "Aelle#qsk_dan02"
+msgid "Awww..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "That's disappointing.";
+msgctxt "Aelle#qsk_dan02"
+msgid "That's disappointing."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "So... You didn't come";
+msgctxt "Aelle#qsk_dan02"
+msgid "So... You didn't come"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "here to buy these warps?";
+msgctxt "Aelle#qsk_dan02"
+msgid "here to buy these warps?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "You sure you don't want any?";
+msgctxt "Aelle#qsk_dan02"
+msgid "You sure you don't want any?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Okay, okay...";
+msgctxt "Aelle#qsk_dan02"
+msgid "Okay, okay..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "So you came for me to";
+msgctxt "Aelle#qsk_dan02"
+msgid "So you came for me to"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "teach you some enticement";
+msgctxt "Aelle#qsk_dan02"
+msgid "teach you some enticement"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "technique or something, right?";
+msgctxt "Aelle#qsk_dan02"
+msgid "technique or something, right?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Huh. Well, this lecture I give?";
+msgctxt "Aelle#qsk_dan02"
+msgid "Huh. Well, this lecture I give?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "It's long and complicated.";
+msgctxt "Aelle#qsk_dan02"
+msgid "It's long and complicated."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Talking and explaining";
+msgctxt "Aelle#qsk_dan02"
+msgid "Talking and explaining"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "all of the intricate details";
+msgctxt "Aelle#qsk_dan02"
+msgid "all of the intricate details"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "for so long will definitely";
+msgctxt "Aelle#qsk_dan02"
+msgid "for so long will definitely"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "parch my throat. So first, you";
+msgctxt "Aelle#qsk_dan02"
+msgid "parch my throat. So first, you"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "gotta bring me a refreshing";
+msgctxt "Aelle#qsk_dan02"
+msgid "gotta bring me a refreshing"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "drink before we can begin...";
+msgctxt "Aelle#qsk_dan02"
+msgid "drink before we can begin..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Oh... Okay.";
+msgctxt "Aelle#qsk_dan02"
+msgid "Oh... Okay."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Alright, I guess";
+msgctxt "Aelle#qsk_dan02"
+msgid "Alright, I guess"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I can spare a potion";
+msgctxt "Aelle#qsk_dan02"
+msgid "I can spare a potion"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "or two, or maybe bring";
+msgctxt "Aelle#qsk_dan02"
+msgid "or two, or maybe bring"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "back a bottle of juic--";
+msgctxt "Aelle#qsk_dan02"
+msgid "back a bottle of juic--"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Whoa, whoa, none of";
+msgctxt "Aelle#qsk_dan02"
+msgid "Whoa, whoa, none of"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "that junk! I want to";
+msgctxt "Aelle#qsk_dan02"
+msgid "that junk! I want to"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "have a real drink.";
+msgctxt "Aelle#qsk_dan02"
+msgid "have a real drink."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "You know, something";
+msgctxt "Aelle#qsk_dan02"
+msgid "You know, something"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "more... ^FF0000Alcohol^000000ic.";
+msgctxt "Aelle#qsk_dan02"
+msgid "more... ^FF0000Alcohol^000000ic."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Oh, and I need some";
+msgctxt "Aelle#qsk_dan02"
+msgid "Oh, and I need some"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "snacks to sustain all of";
+msgctxt "Aelle#qsk_dan02"
+msgid "snacks to sustain all of"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "my teaching energy! Yeah,";
+msgctxt "Aelle#qsk_dan02"
+msgid "my teaching energy! Yeah,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "some yummy fruit on a plate";
+msgctxt "Aelle#qsk_dan02"
+msgid "some yummy fruit on a plate"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "and some cookies too!";
+msgctxt "Aelle#qsk_dan02"
+msgid "and some cookies too!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Soooo, I wanna eat";
+msgctxt "Aelle#qsk_dan02"
+msgid "Soooo, I wanna eat"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^FF00001 Apple^000000, ^FF00003 Bananas^000000 and";
+msgctxt "Aelle#qsk_dan02"
+msgid "^FF00001 Apple^000000, ^FF00003 Bananas^000000 and"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^FF00005 Well-Baked Cookies^000000. Ah,";
+msgctxt "Aelle#qsk_dan02"
+msgid "^FF00005 Well-Baked Cookies^000000. Ah,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "make sure you bring ^FF0000China^000000";
+msgctxt "Aelle#qsk_dan02"
+msgid "make sure you bring ^FF0000China^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "to serve them on, and don't";
+msgctxt "Aelle#qsk_dan02"
+msgid "to serve them on, and don't"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "forget the ^FF0000Alcohol^000000, okay?";
+msgctxt "Aelle#qsk_dan02"
+msgid "forget the ^FF0000Alcohol^000000, okay?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "One last thing...!";
+msgctxt "Aelle#qsk_dan02"
+msgid "One last thing...!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Don't let anyone here";
+msgctxt "Aelle#qsk_dan02"
+msgid "Don't let anyone here"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "in the church know what";
+msgctxt "Aelle#qsk_dan02"
+msgid "in the church know what"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "we're doing. I don't wanna";
+msgctxt "Aelle#qsk_dan02"
+msgid "we're doing. I don't wanna"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "get in too much trouble!";
+msgctxt "Aelle#qsk_dan02"
+msgid "get in too much trouble!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Great, you've brought";
+msgctxt "Aelle#qsk_dan02"
+msgid "Great, you've brought"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "the food! It's a good thing";
+msgctxt "Aelle#qsk_dan02"
+msgid "the food! It's a good thing"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I'm famished because";
+msgctxt "Aelle#qsk_dan02"
+msgid "I'm famished because"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I'm going to finish it all!";
+msgctxt "Aelle#qsk_dan02"
+msgid "I'm going to finish it all!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^3355FFAelle devoured the";
+msgctxt "Aelle#qsk_dan02"
+msgid "^3355FFAelle devoured the"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "food like a ravenous,";
+msgctxt "Aelle#qsk_dan02"
+msgid "food like a ravenous,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "hungry beast that had";
+msgctxt "Aelle#qsk_dan02"
+msgid "hungry beast that had"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "been deprived for too long.^000000";
+msgctxt "Aelle#qsk_dan02"
+msgid "been deprived for too long.^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "That was sooo good!";
+msgctxt "Aelle#qsk_dan02"
+msgid "That was sooo good!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I haven't eaten so much";
+msgctxt "Aelle#qsk_dan02"
+msgid "I haven't eaten so much"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "in such a long time! Then";
+msgctxt "Aelle#qsk_dan02"
+msgid "in such a long time! Then"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "again, you don't get many";
+msgctxt "Aelle#qsk_dan02"
+msgid "again, you don't get many"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "chances to pig out in church.";
+msgctxt "Aelle#qsk_dan02"
+msgid "chances to pig out in church."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Ah, that's right, the lesson!";
+msgctxt "Aelle#qsk_dan02"
+msgid "Ah, that's right, the lesson!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Now, the easiest, most";
+msgctxt "Aelle#qsk_dan02"
+msgid "Now, the easiest, most"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "subtle and most appealing";
+msgctxt "Aelle#qsk_dan02"
+msgid "subtle and most appealing"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "gesture of all time is the";
+msgctxt "Aelle#qsk_dan02"
+msgid "gesture of all time is the"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^FF0000wink^000000. It's saved me in times";
+msgctxt "Aelle#qsk_dan02"
+msgid "^FF0000wink^000000. It's saved me in times"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "of crisis, and mastering it";
+msgctxt "Aelle#qsk_dan02"
+msgid "of crisis, and mastering it"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "will enhance your charms.";
+msgctxt "Aelle#qsk_dan02"
+msgid "will enhance your charms."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "To the untrained eye,";
+msgctxt "Aelle#qsk_dan02"
+msgid "To the untrained eye,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "the wink only looks like";
+msgctxt "Aelle#qsk_dan02"
+msgid "the wink only looks like"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "a simple movement, right?";
+msgctxt "Aelle#qsk_dan02"
+msgid "a simple movement, right?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "You close one eye, and then";
+msgctxt "Aelle#qsk_dan02"
+msgid "You close one eye, and then"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "you reopen that eye. But if";
+msgctxt "Aelle#qsk_dan02"
+msgid "you reopen that eye. But if"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "you do it right... If you...";
+msgctxt "Aelle#qsk_dan02"
+msgid "you do it right... If you..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Oh, it's been so long";
+msgctxt "Aelle#qsk_dan02"
+msgid "Oh, it's been so long"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "since I've had so much";
+msgctxt "Aelle#qsk_dan02"
+msgid "since I've had so much"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "to drink! Ugh, f-feeling";
+msgctxt "Aelle#qsk_dan02"
+msgid "to drink! Ugh, f-feeling"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "kinda--anyway, j-just close";
+msgctxt "Aelle#qsk_dan02"
+msgid "kinda--anyway, j-just close"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "and yer-- ^333333*burp*^000000 winking";
+msgctxt "Aelle#qsk_dan02"
+msgid "and yer-- ^333333*burp*^000000 winking"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "is so so so so eeeeeasy~";
+msgctxt "Aelle#qsk_dan02"
+msgid "is so so so so eeeeeasy~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "[Drunken Aelle]";
+msgctxt "Aelle#qsk_dan02"
+msgid "[Drunken Aelle]"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Do it! Copy me as";
+msgctxt "Aelle#qsk_dan02"
+msgid "Do it! Copy me as"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I do it! Wink, j-just";
+msgctxt "Aelle#qsk_dan02"
+msgid "I do it! Wink, j-just"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "like this, okay? Y' see?";
+msgctxt "Aelle#qsk_dan02"
+msgid "like this, okay? Y' see?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^333333*Wiiiiiiiiiiiiiink*^000000";
+msgctxt "Aelle#qsk_dan02"
+msgid "^333333*Wiiiiiiiiiiiiiink*^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Wh-whoa...";
+msgctxt "Aelle#qsk_dan02"
+msgid "Wh-whoa..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "That was...";
+msgctxt "Aelle#qsk_dan02"
+msgid "That was..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "It's so beautiful!";
+msgctxt "Aelle#qsk_dan02"
+msgid "It's so beautiful!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "And all with just";
+msgctxt "Aelle#qsk_dan02"
+msgid "And all with just"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "a simple wink!";
+msgctxt "Aelle#qsk_dan02"
+msgid "a simple wink!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "[Totally Drunk Aelle]";
+msgctxt "Aelle#qsk_dan02"
+msgid "[Totally Drunk Aelle]"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Y-yea... The...";
+msgctxt "Aelle#qsk_dan02"
+msgid "Y-yea... The..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "The secret ish...";
+msgctxt "Aelle#qsk_dan02"
+msgid "The secret ish..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "*Urp* It'sh in the--";
+msgctxt "Aelle#qsk_dan02"
+msgid "*Urp* It'sh in the--"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Bwahahahaahah!";
+msgctxt "Aelle#qsk_dan02"
+msgid "Bwahahahaahah!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "It's all spinning!";
+msgctxt "Aelle#qsk_dan02"
+msgid "It's all spinning!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^3355FFIn her drunken stupor,";
+msgctxt "Aelle#qsk_dan02"
+msgid "^3355FFIn her drunken stupor,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Aelle pummels you with";
+msgctxt "Aelle#qsk_dan02"
+msgid "Aelle pummels you with"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "her fists and laughs";
+msgctxt "Aelle#qsk_dan02"
+msgid "her fists and laughs"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "maniacally to herself.^000000";
+msgctxt "Aelle#qsk_dan02"
+msgid "maniacally to herself.^000000"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "How can you expect";
+msgctxt "Aelle#qsk_dan02"
+msgid "How can you expect"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "me to teach you anything";
+msgctxt "Aelle#qsk_dan02"
+msgid "me to teach you anything"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "if I faint in the middle of";
+msgctxt "Aelle#qsk_dan02"
+msgid "if I faint in the middle of"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "the lesson? That's right,";
+msgctxt "Aelle#qsk_dan02"
+msgid "the lesson? That's right,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I'll need some nourishing,";
+msgctxt "Aelle#qsk_dan02"
+msgid "I'll need some nourishing,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "yet delicious, snacks to eat~";
+msgctxt "Aelle#qsk_dan02"
+msgid "yet delicious, snacks to eat~"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "You still haven't told";
+msgctxt "Aelle#qsk_dan02"
+msgid "You still haven't told"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "me the secret to making";
+msgctxt "Aelle#qsk_dan02"
+msgid "me the secret to making"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "a simple wink have so";
+msgctxt "Aelle#qsk_dan02"
+msgid "a simple wink have so"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "much provocative charm.";
+msgctxt "Aelle#qsk_dan02"
+msgid "much provocative charm."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I really need to--";
+msgctxt "Aelle#qsk_dan02"
+msgid "I really need to--"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "[Totally Hammered Aelle]";
+msgctxt "Aelle#qsk_dan02"
+msgid "[Totally Hammered Aelle]"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "ZzzZzz... Huh?";
+msgctxt "Aelle#qsk_dan02"
+msgid "ZzzZzz... Huh?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Yesh, I know, I'm...";
+msgctxt "Aelle#qsk_dan02"
+msgid "Yesh, I know, I'm..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I'm a geeenius, yeah...";
+msgctxt "Aelle#qsk_dan02"
+msgid "I'm a geeenius, yeah..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "...ZzzzZzzzZzZzzzZZZzz...";
+msgctxt "Aelle#qsk_dan02"
+msgid "...ZzzzZzzzZzZzzzZZZzz..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "W-wake up!";
+msgctxt "Aelle#qsk_dan02"
+msgid "W-wake up!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I went through";
+msgctxt "Aelle#qsk_dan02"
+msgid "I went through"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "all this trouble to";
+msgctxt "Aelle#qsk_dan02"
+msgid "all this trouble to"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "learn this technique!";
+msgctxt "Aelle#qsk_dan02"
+msgid "learn this technique!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "[Annoyed Aelle]";
+msgctxt "Aelle#qsk_dan02"
+msgid "[Annoyed Aelle]"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "SHADDUP!";
+msgctxt "Aelle#qsk_dan02"
+msgid "SHADDUP!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I'M SHLEEEEEPY!";
+msgctxt "Aelle#qsk_dan02"
+msgid "I'M SHLEEEEEPY!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "G-go away. Talk to";
+msgctxt "Aelle#qsk_dan02"
+msgid "G-go away. Talk to"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Canell, my sister...";
+msgctxt "Aelle#qsk_dan02"
+msgid "Canell, my sister..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "...ZzzzzZzZZZzzzZZ....";
+msgctxt "Aelle#qsk_dan02"
+msgid "...ZzzzzZzZZZzzzZZ...."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Aelle, I really";
+msgctxt "Aelle#qsk_dan02"
+msgid "Aelle, I really"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "need you to teach";
+msgctxt "Aelle#qsk_dan02"
+msgid "need you to teach"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "me everything else";
+msgctxt "Aelle#qsk_dan02"
+msgid "me everything else"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I need to know about";
+msgctxt "Aelle#qsk_dan02"
+msgid "I need to know about"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "winking and--";
+msgctxt "Aelle#qsk_dan02"
+msgid "winking and--"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "^333333*Hiccup*^000000 Zzz--wha?";
+msgctxt "Aelle#qsk_dan02"
+msgid "^333333*Hiccup*^000000 Zzz--wha?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I need ta teach you";
+msgctxt "Aelle#qsk_dan02"
+msgid "I need ta teach you"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "to go'way. Talk to my";
+msgctxt "Aelle#qsk_dan02"
+msgid "to go'way. Talk to my"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "sister, too tired now.";
+msgctxt "Aelle#qsk_dan02"
+msgid "sister, too tired now."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Go lemme alone girl!";
+msgctxt "Aelle#qsk_dan02"
+msgid "Go lemme alone girl!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "[Sober Aelle]";
+msgctxt "Aelle#qsk_dan02"
+msgid "[Sober Aelle]"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Ohhh...";
+msgctxt "Aelle#qsk_dan02"
+msgid "Ohhh..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "H-headache...";
+msgctxt "Aelle#qsk_dan02"
+msgid "H-headache..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Oh, wow, look at you!";
+msgctxt "Aelle#qsk_dan02"
+msgid "Oh, wow, look at you!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I can tell that you've";
+msgctxt "Aelle#qsk_dan02"
+msgid "I can tell that you've"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "become much more";
+msgctxt "Aelle#qsk_dan02"
+msgid "become much more"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "beautiful. Yes, you're";
+msgctxt "Aelle#qsk_dan02"
+msgid "beautiful. Yes, you're"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "more elegant and refined";
+msgctxt "Aelle#qsk_dan02"
+msgid "more elegant and refined"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "than I can remember.";
+msgctxt "Aelle#qsk_dan02"
+msgid "than I can remember."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Always believe in your";
+msgctxt "Aelle#qsk_dan02"
+msgid "Always believe in your"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "beauty, wield your charm";
+msgctxt "Aelle#qsk_dan02"
+msgid "beauty, wield your charm"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "like a weapon... And anything";
+msgctxt "Aelle#qsk_dan02"
+msgid "like a weapon... And anything"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "you desire in this world can";
+msgctxt "Aelle#qsk_dan02"
+msgid "you desire in this world can"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "be yours! Bwahahahahaha!";
+msgctxt "Aelle#qsk_dan02"
+msgid "be yours! Bwahahahahaha!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "[??????]";
+msgctxt "Aelle#qsk_dan02"
+msgid "[??????]"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Sister Aelle...";
+msgctxt "Aelle#qsk_dan02"
+msgid "Sister Aelle..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Are you still trying";
+msgctxt "Aelle#qsk_dan02"
+msgid "Are you still trying"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "to sell illegal warps";
+msgctxt "Aelle#qsk_dan02"
+msgid "to sell illegal warps"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "again? Sister Aelle?";
+msgctxt "Aelle#qsk_dan02"
+msgid "again? Sister Aelle?"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Oh crap, it's the pastor!";
+msgctxt "Aelle#qsk_dan02"
+msgid "Oh crap, it's the pastor!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Shhh, if anybody asks you,";
+msgctxt "Aelle#qsk_dan02"
+msgid "Shhh, if anybody asks you,"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I wasn't doing anything!";
+msgctxt "Aelle#qsk_dan02"
+msgid "I wasn't doing anything!"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "Thanks, hon...";
+msgctxt "Aelle#qsk_dan02"
+msgid "Thanks, hon..."
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "I know you can";
+msgctxt "Aelle#qsk_dan02"
+msgid "I know you can"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "keep my contraband";
+msgctxt "Aelle#qsk_dan02"
+msgid "keep my contraband"
+msgstr ""
+
+#: npc/quests/skills/dancer_skills.txt
+# mes "our little secret. ^333333*Wink*^000000";
+msgctxt "Aelle#qsk_dan02"
+msgid "our little secret. ^333333*Wink*^000000"
+msgstr ""

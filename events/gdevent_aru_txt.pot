@@ -1,0 +1,998 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/events/gdevent_aru.txt
+# mes "[Dwarf]";
+msgctxt "Dwarf#aru_gd"
+msgid "[Dwarf]"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Hey did you see an ugly Goblin come by? He stole something from me!";
+msgctxt "Dwarf#aru_gd"
+msgid "Hey did you see an ugly Goblin come by? He stole something from me!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Help me!";
+msgctxt "Dwarf#aru_gd"
+msgid "Help me!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Please, help me!";
+msgctxt "Dwarf#aru_gd"
+msgid "Please, help me!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("What happened?", "Nevermind.")) {
+msgctxt "Dwarf#aru_gd"
+msgid "What happened?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("What happened?", "Nevermind.")) {
+msgctxt "Dwarf#aru_gd"
+msgid "Nevermind."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I am Morestone and I collect rare gems.";
+msgctxt "Dwarf#aru_gd"
+msgid "I am Morestone and I collect rare gems."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "[Morestone]";
+msgctxt "Dwarf#aru_gd"
+msgid "[Morestone]"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "In my travels, I was told that there were alot of gems in Valfreyja and Nidhoggur, so I came down here.";
+msgctxt "Dwarf#aru_gd"
+msgid "In my travels, I was told that there were alot of gems in Valfreyja and Nidhoggur, so I came down here."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "But here, the soil is very hard to dig into. Fortunately, my ^3131FFPickaxe^000000 never lets me down!";
+msgctxt "Dwarf#aru_gd"
+msgid "But here, the soil is very hard to dig into. Fortunately, my ^3131FFPickaxe^000000 never lets me down!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# select("Pickaxe!");
+msgctxt "Dwarf#aru_gd"
+msgid "Pickaxe!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Yes, my beloved pickaxe!";
+msgctxt "Dwarf#aru_gd"
+msgid "Yes, my beloved pickaxe!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I always carry it with me, you know?";
+msgctxt "Dwarf#aru_gd"
+msgid "I always carry it with me, you know?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "We started working here together.";
+msgctxt "Dwarf#aru_gd"
+msgid "We started working here together."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "After a few days, we finally found something!";
+msgctxt "Dwarf#aru_gd"
+msgid "After a few days, we finally found something!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# select("Something strange??");
+msgctxt "Dwarf#aru_gd"
+msgid "Something strange??"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "No, but it was worth quite alot.";
+msgctxt "Dwarf#aru_gd"
+msgid "No, but it was worth quite alot."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "But we did not have much time to celebrate. Suddenly, a monster appeared that stole my pickaxe.";
+msgctxt "Dwarf#aru_gd"
+msgid "But we did not have much time to celebrate. Suddenly, a monster appeared that stole my pickaxe."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "His name was^3131FFKublin^000000!";
+msgctxt "Dwarf#aru_gd"
+msgid "His name was^3131FFKublin^000000!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "He stole my Pickaxe!";
+msgctxt "Dwarf#aru_gd"
+msgid "He stole my Pickaxe!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I can't live without it...";
+msgctxt "Dwarf#aru_gd"
+msgid "I can't live without it..."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "[" + strcharinfo(PC_NAME) + "]";
+msgctxt "Dwarf#aru_gd"
+msgid "["
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Is this the pickaxe that you've been looking for?";
+msgctxt "Dwarf#aru_gd"
+msgid "Is this the pickaxe that you've been looking for?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "You found my Pickaxe?";
+msgctxt "Dwarf#aru_gd"
+msgid "You found my Pickaxe?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Show me, please!";
+msgctxt "Dwarf#aru_gd"
+msgid "Show me, please!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Oh, my! You've returned it to me!";
+msgctxt "Dwarf#aru_gd"
+msgid "Oh, my! You've returned it to me!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "My precious pickaxe, I thought I lost you forever.";
+msgctxt "Dwarf#aru_gd"
+msgid "My precious pickaxe, I thought I lost you forever."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "You are great! What guild are you from?";
+msgctxt "Dwarf#aru_gd"
+msgid "You are great! What guild are you from?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Could it be Gravity or Mercury?";
+msgctxt "Dwarf#aru_gd"
+msgid "Could it be Gravity or Mercury?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I am a member of the ^3131FF"+.@chk_yourgdname$+"^.";
+msgctxt "Dwarf#aru_gd"
+msgid "I am a member of the ^3131FF"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I am a member of the ^3131FF"+.@chk_yourgdname$+"^.";
+msgctxt "Dwarf#aru_gd"
+msgid "^."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Oh... That guild will receive my greatest respect.";
+msgctxt "Dwarf#aru_gd"
+msgid "Oh... That guild will receive my greatest respect."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Oh! My friend, I am very grateful for your help.";
+msgctxt "Dwarf#aru_gd"
+msgid "Oh! My friend, I am very grateful for your help."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "As a reward, I will tell you about a mysterious area I have discovered recently.";
+msgctxt "Dwarf#aru_gd"
+msgid "As a reward, I will tell you about a mysterious area I have discovered recently."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# select("A mysterious area?");
+msgctxt "Dwarf#aru_gd"
+msgid "A mysterious area?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "That's right. I found it when I was digging around here.";
+msgctxt "Dwarf#aru_gd"
+msgid "That's right. I found it when I was digging around here."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "It looks like it was made for some special purpose, but since there are no gems around there, I have no interest in it.";
+msgctxt "Dwarf#aru_gd"
+msgid "It looks like it was made for some special purpose, but since there are no gems around there, I have no interest in it."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Instead of going there alone, I think it would be more fun to go with your friends...";
+msgctxt "Dwarf#aru_gd"
+msgid "Instead of going there alone, I think it would be more fun to go with your friends..."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "If you want, I can take ^3131FFyou and your guild members^000000 to explore that area.";
+msgctxt "Dwarf#aru_gd"
+msgid "If you want, I can take ^3131FFyou and your guild members^000000 to explore that area."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Do you want to go there now?";
+msgctxt "Dwarf#aru_gd"
+msgid "Do you want to go there now?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("Wait! I'm not ready yet.", "Let's go!")) {
+msgctxt "Dwarf#aru_gd"
+msgid "Wait! I'm not ready yet."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("Wait! I'm not ready yet.", "Let's go!")) {
+msgctxt "Dwarf#aru_gd"
+msgid "Let's go!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Take your time, and find a place to gather your friends.";
+msgctxt "Dwarf#aru_gd"
+msgid "Take your time, and find a place to gather your friends."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Alright! Let's go.";
+msgctxt "Dwarf#aru_gd"
+msgid "Alright! Let's go."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "If your friends visit me again later, I will guide them to that area again.";
+msgctxt "Dwarf#aru_gd"
+msgid "If your friends visit me again later, I will guide them to that area again."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Don't forget, dwarves are grateful beings! Hahaha!";
+msgctxt "Dwarf#aru_gd"
+msgid "Don't forget, dwarves are grateful beings! Hahaha!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I will tell you how to find him.";
+msgctxt "Dwarf#aru_gd"
+msgid "I will tell you how to find him."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Kublin wears a ridiculous golden hat, It should be easy to recognise him by that.";
+msgctxt "Dwarf#aru_gd"
+msgid "Kublin wears a ridiculous golden hat, It should be easy to recognise him by that."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Ahhh...";
+msgctxt "Dwarf#aru_gd"
+msgid "Ahhh..."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I, Morestone, have made an alliance with the "+$@gdevents_a$+" guild.";
+msgctxt "Dwarf#aru_gd"
+msgid "I, Morestone, have made an alliance with the "
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I, Morestone, have made an alliance with the "+$@gdevents_a$+" guild.";
+msgctxt "Dwarf#aru_gd"
+msgid " guild."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Oh, you are a member.";
+msgctxt "Dwarf#aru_gd"
+msgid "Oh, you are a member."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Would you like to go to the mysterious area?";
+msgctxt "Dwarf#aru_gd"
+msgid "Would you like to go to the mysterious area?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("Let's go.", "No, thanks.")) {
+msgctxt "Dwarf#aru_gd"
+msgid "Let's go."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("Let's go.", "No, thanks.")) {
+msgctxt "Dwarf#aru_gd"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I hope you enjoy yourself, my friend.";
+msgctxt "Dwarf#aru_gd"
+msgid "I hope you enjoy yourself, my friend."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "If you need my assistance, just ask.";
+msgctxt "Dwarf#aru_gd"
+msgid "If you need my assistance, just ask."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Ah! Dont forget, I hate monsters! So I don't want to see them. It will be better if you ask for another favour.";
+msgctxt "Dwarf#aru_gd"
+msgid "Ah! Dont forget, I hate monsters! So I don't want to see them. It will be better if you ask for another favour."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Ah....";
+msgctxt "Dwarf#aru_gd"
+msgid "Ah...."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Hm, you're not a member.";
+msgctxt "Dwarf#aru_gd"
+msgid "Hm, you're not a member."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Could you please give them my greetings?";
+msgctxt "Dwarf#aru_gd"
+msgid "Could you please give them my greetings?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Take your time, and find a place to gather you friends.";
+msgctxt "Dwarf#aru_gd"
+msgid "Take your time, and find a place to gather you friends."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "- Wait!! -";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "- Wait!! -"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "- You're carrying too many items, -";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "- You're carrying too many items, -"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "- you can't receive the materials. -";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "- you can't receive the materials. -"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "- Please use the Kafra Services, -";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "- Please use the Kafra Services, -"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "- and come back later. -";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "- and come back later. -"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "A lonely clown is juggling.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "A lonely clown is juggling."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "When looked at closely, the clown is just a puppet that looks like a human.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "When looked at closely, the clown is just a puppet that looks like a human."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "The clown stops, then starts moving in accordance to your movements, noises start to emit from it's mouth.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "The clown stops, then starts moving in accordance to your movements, noises start to emit from it's mouth."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "[Pierrot Pier]";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "[Pierrot Pier]"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Beep beep beep.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Beep beep beep."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Hello, my friends!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Hello, my friends!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I am the loyal servant of Gergath, and I have finally received my orders.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I am the loyal servant of Gergath, and I have finally received my orders."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I am happy to hear all the laughter, but without my master's permission, I can't do anything.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I am happy to hear all the laughter, but without my master's permission, I can't do anything."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Did you get permission from Gergath?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Did you get permission from Gergath?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("I need to check that.", "No.")) {
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I need to check that."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("I need to check that.", "No.")) {
+msgctxt "Pierrot Pier#aru_gd"
+msgid "No."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Please give me the palm of your hand.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Please give me the palm of your hand."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Let me see...";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Let me see..."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Hm...";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Hm..."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Okay, I see...";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Okay, I see..."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Indeed...";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Indeed..."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Verification completed!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Verification completed!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Hm? that's right.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Hm? that's right."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "When is that person coming? I am very bored~!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "When is that person coming? I am very bored~!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "^3131FF<You're someone who can only think about nonsense everyday, you have no focus at all.>^000000";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "^3131FF<You're someone who can only think about nonsense everyday, you have no focus at all.>^000000"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Hm? You don't think so?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Hm? You don't think so?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Haha, I'm just kidding. Beep beep.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Haha, I'm just kidding. Beep beep."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Ah, you are the one my master speaks of.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Ah, you are the one my master speaks of."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Come, the Gergath has left a message for you.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Come, the Gergath has left a message for you."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "It's a bit old, but it should still be legible.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "It's a bit old, but it should still be legible."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Alright, let's begin!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Alright, let's begin!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Let's talk after I finished reading my master's message. Beep beep.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Let's talk after I finished reading my master's message. Beep beep."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "My master Gergath sincerely wishes you joy for you and your family everyday.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "My master Gergath sincerely wishes you joy for you and your family everyday."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Alright, would you like to play the game Gergath has prepared for you?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Alright, would you like to play the game Gergath has prepared for you?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Game instructions."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Skip instructions."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Refuse game."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "The game prepared by my master is very unique, yet simple and fun!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "The game prepared by my master is very unique, yet simple and fun!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "It's called \"Find the Treasure Map\"!!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "It's called \"Find the Treasure Map\"!!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Do you see this large and green field? Beep, beep?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Do you see this large and green field? Beep, beep?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I will show you the most incredible magic here.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I will show you the most incredible magic here."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I will turn this place very white. Veeery white!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I will turn this place very white. Veeery white!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "The game instruction is just to find the treasure map within the time limit.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "The game instruction is just to find the treasure map within the time limit."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Sounds easy, right?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Sounds easy, right?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Oh, you don't want to play?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Oh, you don't want to play?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Okay, I'm ready to begin.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Okay, I'm ready to begin."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Shall we start? Beep, beep?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Shall we start? Beep, beep?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("No.", "Start.")) {
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Start."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Let me know when you are ready.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Let me know when you are ready."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Alright! Let us begin!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Alright! Let us begin!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Ladies, and gentlemen.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Ladies, and gentlemen."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Who will find the treasure map in this white world?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Who will find the treasure map in this white world?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Amongst all of you, who shall be the lucky one?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Amongst all of you, who shall be the lucky one?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Let the game.. Begin!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Let the game.. Begin!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Did you find the treasure map?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Did you find the treasure map?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Show me what you have in your hands! Beep, beep!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Show me what you have in your hands! Beep, beep!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Wow~~!!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Wow~~!!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Success~!!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Success~!!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "What a success~!!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "What a success~!!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Ahh, what a shame, it seems like you haven't found the treasure map yet.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Ahh, what a shame, it seems like you haven't found the treasure map yet."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Quickly! Your time is running out! Hurry up!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Quickly! Your time is running out! Hurry up!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I don't see anything. Have you even started yet? Beep?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I don't see anything. Have you even started yet? Beep?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Hehe, while you're talking to me, the time is slowly ticking away~";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Hehe, while you're talking to me, the time is slowly ticking away~"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Wah, why is it like this~!!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Wah, why is it like this~!!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Not enough? But this makes the game fun, no? Hahaha!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Not enough? But this makes the game fun, no? Hahaha!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "What did you think?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "What did you think?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("It was pretty hard.", "I should've been successful...")) {
+msgctxt "Pierrot Pier#aru_gd"
+msgid "It was pretty hard."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("It was pretty hard.", "I should've been successful...")) {
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I should've been successful..."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "It's like trying to find a needle in a haystack!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "It's like trying to find a needle in a haystack!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "It's hard, but if you find it, it's worth ten times the effort. Beep, beep.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "It's hard, but if you find it, it's worth ten times the effort. Beep, beep."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Aaah~! Time is gold.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Aaah~! Time is gold."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Precious time goes by so fast.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Precious time goes by so fast."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I, Pierrot Piere, am not a heartless clown! Beep beep.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I, Pierrot Piere, am not a heartless clown! Beep beep."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Your success is my happiness!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Your success is my happiness!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I'll give you one more chance. How's that? Beep?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I'll give you one more chance. How's that? Beep?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "How did you do it?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "How did you do it?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "You managed to find a needle in a haystack!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "You managed to find a needle in a haystack!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Amazing!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Amazing!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "You've completeled an unbelievable task, I will give you the wonderful gift master has prepared!! Ha!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "You've completeled an unbelievable task, I will give you the wonderful gift master has prepared!! Ha!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Incredible! Unbelievable! Beep beep!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Incredible! Unbelievable! Beep beep!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Did you have fun?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Did you have fun?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Seeing your smiles, makes Pierrot feel very happy~";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Seeing your smiles, makes Pierrot feel very happy~"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I hope to see you again very soon, I must go back to being a doll now.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I hope to see you again very soon, I must go back to being a doll now."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "See you next time!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "See you next time!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Let me see.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Let me see."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Did you get permission from the Gergath?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Did you get permission from the Gergath?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "^3131FF<Although you're a weirdo, you seem to be very dedicated>^000000. Beep beep.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "^3131FF<Although you're a weirdo, you seem to be very dedicated>^000000. Beep beep."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "The one my lord appointed is ^3131FF< someone who leads many people >^000000. Beep.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "The one my lord appointed is ^3131FF< someone who leads many people >^000000. Beep."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Pierrot wants to be someone like that, too. Beep.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Pierrot wants to be someone like that, too. Beep."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Congratulations, you have succeeded!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Congratulations, you have succeeded!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "I will talk to your leader about other details.";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "I will talk to your leader about other details."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Did you find the treasure?";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Did you find the treasure?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Show me that thing you are holding, now!";
+msgctxt "Pierrot Pier#aru_gd"
+msgid "Show me that thing you are holding, now!"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Incorrect password.";
+msgctxt "Event controller#aru_gd"
+msgid "Incorrect password."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "How can I help you?";
+msgctxt "Event controller#aru_gd"
+msgid "How can I help you?"
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("Reset.", "No, thanks.")) {
+msgctxt "Event controller#aru_gd"
+msgid "Reset."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# switch(select("Reset.", "No, thanks.")) {
+msgctxt "Event controller#aru_gd"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Completed.";
+msgctxt "Event controller#aru_gd"
+msgid "Completed."
+msgstr ""
+
+#: npc/events/gdevent_aru.txt
+# mes "Good bye~";
+msgctxt "Event controller#aru_gd"
+msgid "Good bye~"
+msgstr ""

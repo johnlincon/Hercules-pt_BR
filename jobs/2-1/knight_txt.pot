@@ -1,0 +1,5934 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Captain Herman]";
+msgctxt "Chivalry Captain#knt"
+msgid "[Captain Herman]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hm? You're... What is it about you? I've been an honorable Knight for a long time, but I cannot understand this feeling I'm getting from you...";
+msgctxt "Chivalry Captain#knt"
+msgid "Hm? You're... What is it about you? I've been an honorable Knight for a long time, but I cannot understand this feeling I'm getting from you..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "May god bless your body and soul, warrior. I hope you will show your courage and protect those who are weaker than you.";
+msgctxt "Chivalry Captain#knt"
+msgid "May god bless your body and soul, warrior. I hope you will show your courage and protect those who are weaker than you."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah, a member of our Chivalry.";
+msgctxt "Chivalry Captain#knt"
+msgid "Ah, a member of our Chivalry."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I hope you are living up to my expectations. We have vowed to be strong for our kingdom, even if death is upon us...";
+msgctxt "Chivalry Captain#knt"
+msgid "I hope you are living up to my expectations. We have vowed to be strong for our kingdom, even if death is upon us..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Welcome,";
+msgctxt "Chivalry Captain#knt"
+msgid "Welcome,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "this is the";
+msgctxt "Chivalry Captain#knt"
+msgid "this is the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Prontera Chivalry.";
+msgctxt "Chivalry Captain#knt"
+msgid "Prontera Chivalry."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What brings you here?";
+msgctxt "Chivalry Captain#knt"
+msgid "What brings you here?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("I want to change my job to Swordman.", "I want to change my job to a Knight.", "Just visiting.")) {
+msgctxt "Chivalry Captain#knt"
+msgid "I want to change my job to Swordman."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("I want to change my job to Swordman.", "I want to change my job to a Knight.", "Just visiting.")) {
+msgctxt "Chivalry Captain#knt"
+msgid "I want to change my job to a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("I want to change my job to Swordman.", "I want to change my job to a Knight.", "Just visiting.")) {
+msgctxt "Chivalry Captain#knt"
+msgid "Just visiting."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A-ha~";
+msgctxt "Chivalry Captain#knt"
+msgid "A-ha~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A Swordman, you say?";
+msgctxt "Chivalry Captain#knt"
+msgid "A Swordman, you say?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I'm sorry, "+ (Sex == SEX_MALE ? "lad" : "lass") +", but you've";
+msgctxt "Chivalry Captain#knt"
+msgid "I'm sorry, "
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I'm sorry, "+ (Sex == SEX_MALE ? "lad" : "lass") +", but you've";
+msgctxt "Chivalry Captain#knt"
+msgid "lad"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I'm sorry, "+ (Sex == SEX_MALE ? "lad" : "lass") +", but you've";
+msgctxt "Chivalry Captain#knt"
+msgid "lass"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I'm sorry, "+ (Sex == SEX_MALE ? "lad" : "lass") +", but you've";
+msgctxt "Chivalry Captain#knt"
+msgid ", but you've"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "come to the wrong place!";
+msgctxt "Chivalry Captain#knt"
+msgid "come to the wrong place!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "This isn't the Swordsman guild, it's the Prontera Chivalry! If you wish to become a Swordman, visit the Swordman Guild located in Izlude.";
+msgctxt "Chivalry Captain#knt"
+msgid "This isn't the Swordsman guild, it's the Prontera Chivalry! If you wish to become a Swordman, visit the Swordman Guild located in Izlude."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah, I see that you have great ambition. But you must first become a Swordman before becoming";
+msgctxt "Chivalry Captain#knt"
+msgid "Ah, I see that you have great ambition. But you must first become a Swordman before becoming"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Knight. One step at a time...";
+msgctxt "Chivalry Captain#knt"
+msgid "a Knight. One step at a time..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "First, visit the Swordman guild in Izlude. Then, come visit us again once you have become a well experienced Swordman.";
+msgctxt "Chivalry Captain#knt"
+msgid "First, visit the Swordman guild in Izlude. Then, come visit us again once you have become a well experienced Swordman."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Aha~";
+msgctxt "Chivalry Captain#knt"
+msgid "Aha~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You must have lots of free time. Why don't you go hunt some monsters instead of wandering about aimlessly?";
+msgctxt "Chivalry Captain#knt"
+msgid "You must have lots of free time. Why don't you go hunt some monsters instead of wandering about aimlessly?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Welcome. We, the proud Knights of the Prontera Chivalry, will give our lives for king and country! Please enjoy your stay.";
+msgctxt "Chivalry Captain#knt"
+msgid "Welcome. We, the proud Knights of the Prontera Chivalry, will give our lives for king and country! Please enjoy your stay."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Welcome, this is";
+msgctxt "Chivalry Captain#knt"
+msgid "Welcome, this is"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the Prontera Chivalry.";
+msgctxt "Chivalry Captain#knt"
+msgid "the Prontera Chivalry."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ohh...";
+msgctxt "Chivalry Captain#knt"
+msgid "Ohh..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A young "+ (Sex == SEX_MALE ? "man" : "lady") +" who wishes";
+msgctxt "Chivalry Captain#knt"
+msgid "A young "
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A young "+ (Sex == SEX_MALE ? "man" : "lady") +" who wishes";
+msgctxt "Chivalry Captain#knt"
+msgid "man"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A young "+ (Sex == SEX_MALE ? "man" : "lady") +" who wishes";
+msgctxt "Chivalry Captain#knt"
+msgid "lady"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A young "+ (Sex == SEX_MALE ? "man" : "lady") +" who wishes";
+msgctxt "Chivalry Captain#knt"
+msgid " who wishes"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to become a Knight!";
+msgctxt "Chivalry Captain#knt"
+msgid "to become a Knight!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Our Prontera Chivalry";
+msgctxt "Chivalry Captain#knt"
+msgid "Our Prontera Chivalry"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "will assist you.";
+msgctxt "Chivalry Captain#knt"
+msgid "will assist you."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "First of all, I am the captain of the Prontera Chivalry, Herman Phon Efesirsus. I'm pleased to meet young people eager to join the Prontera Chivalry.";
+msgctxt "Chivalry Captain#knt"
+msgid "First of all, I am the captain of the Prontera Chivalry, Herman Phon Efesirsus. I'm pleased to meet young people eager to join the Prontera Chivalry."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "We only accept Swordmen";
+msgctxt "Chivalry Captain#knt"
+msgid "We only accept Swordmen"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "who are at least Job Level 40.";
+msgctxt "Chivalry Captain#knt"
+msgid "who are at least Job Level 40."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "We cannot consider applicants that are not yet experienced enough to become Knights.";
+msgctxt "Chivalry Captain#knt"
+msgid "We cannot consider applicants that are not yet experienced enough to become Knights."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Once you apply, and we find";
+msgctxt "Chivalry Captain#knt"
+msgid "Once you apply, and we find"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you eligible, we will begin the job change procedure. Would you";
+msgctxt "Chivalry Captain#knt"
+msgid "you eligible, we will begin the job change procedure. Would you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "like to apply now?";
+msgctxt "Chivalry Captain#knt"
+msgid "like to apply now?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Yes, I would like to apply.", "I'd like to think about it please.") == 1) {
+msgctxt "Chivalry Captain#knt"
+msgid "Yes, I would like to apply."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Yes, I would like to apply.", "I'd like to think about it please.") == 1) {
+msgctxt "Chivalry Captain#knt"
+msgid "I'd like to think about it please."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah, you are not yet ready to become a Knight! Didn't I specifically mention the Job Level 40 requirement?";
+msgctxt "Chivalry Captain#knt"
+msgid "Ah, you are not yet ready to become a Knight! Didn't I specifically mention the Job Level 40 requirement?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Of course I understand your strong desire to join us, but now is not the time. Go out and fight some more monsters. We will be here waiting.";
+msgctxt "Chivalry Captain#knt"
+msgid "Of course I understand your strong desire to join us, but now is not the time. Go out and fight some more monsters. We will be here waiting."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah...!";
+msgctxt "Chivalry Captain#knt"
+msgid "Ah...!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You cannot change jobs if you have unused skill points remaining. Return when you have used";
+msgctxt "Chivalry Captain#knt"
+msgid "You cannot change jobs if you have unused skill points remaining. Return when you have used"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "all of your skill points.";
+msgctxt "Chivalry Captain#knt"
+msgid "all of your skill points."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Let me see...";
+msgctxt "Chivalry Captain#knt"
+msgid "Let me see..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Your name is";
+msgctxt "Chivalry Captain#knt"
+msgid "Your name is"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Is that right?";
+msgctxt "Chivalry Captain#knt"
+msgid "Is that right?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Let me explain the job change procedure. You must visit a series of Knights and pass each";
+msgctxt "Chivalry Captain#knt"
+msgid "Let me explain the job change procedure. You must visit a series of Knights and pass each"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "of their tests.";
+msgctxt "Chivalry Captain#knt"
+msgid "of their tests."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Once all the tests are completed, every Knight involved in your testing will gather and discuss your performance.";
+msgctxt "Chivalry Captain#knt"
+msgid "Once all the tests are completed, every Knight involved in your testing will gather and discuss your performance."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The Knights must unanimously approve of you before you can join the Prontera Chivalry. If only one person objects, you must";
+msgctxt "Chivalry Captain#knt"
+msgid "The Knights must unanimously approve of you before you can join the Prontera Chivalry. If only one person objects, you must"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "start over.";
+msgctxt "Chivalry Captain#knt"
+msgid "start over."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But I believe if you persist with an earnest heart, you shall be acknowledged by the Knights and ultimately recognized as a member of our Chivalry.";
+msgctxt "Chivalry Captain#knt"
+msgid "But I believe if you persist with an earnest heart, you shall be acknowledged by the Knights and ultimately recognized as a member of our Chivalry."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "So, let's not waste any more time talking! Go and meet these Knights and begin their tests. Once you have completed all of the tests, come back to me.";
+msgctxt "Chivalry Captain#knt"
+msgid "So, let's not waste any more time talking! Go and meet these Knights and begin their tests. Once you have completed all of the tests, come back to me."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh...!";
+msgctxt "Chivalry Captain#knt"
+msgid "Oh...!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Well, I don't want to pressure you. Take your time and think it over. Return when you are ready to";
+msgctxt "Chivalry Captain#knt"
+msgid "Well, I don't want to pressure you. Take your time and think it over. Return when you are ready to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "change jobs, for we will be waiting.";
+msgctxt "Chivalry Captain#knt"
+msgid "change jobs, for we will be waiting."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Come to think of it, aren't you a Swordman? It looks like you've encountered many foes in battle.";
+msgctxt "Chivalry Captain#knt"
+msgid "Come to think of it, aren't you a Swordman? It looks like you've encountered many foes in battle."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You should consider changing jobs to a Knight. Come and talk to me if you are interested.";
+msgctxt "Chivalry Captain#knt"
+msgid "You should consider changing jobs to a Knight. Come and talk to me if you are interested."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Please take";
+msgctxt "Chivalry Captain#knt"
+msgid "Please take"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "your time in";
+msgctxt "Chivalry Captain#knt"
+msgid "your time in"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "looking around.";
+msgctxt "Chivalry Captain#knt"
+msgid "looking around."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Good day.";
+msgctxt "Chivalry Captain#knt"
+msgid "Good day."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Mmm?";
+msgctxt "Chivalry Captain#knt"
+msgid "Mmm?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "what can I do for you?";
+msgctxt "Chivalry Captain#knt"
+msgid "what can I do for you?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah, you don't know";
+msgctxt "Chivalry Captain#knt"
+msgid "Ah, you don't know"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "who to visit?";
+msgctxt "Chivalry Captain#knt"
+msgid "who to visit?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I believe the Knights in charge of testing have set an order in which you must visit them. I suppose it helps the testing process.";
+msgctxt "Chivalry Captain#knt"
+msgid "I believe the Knights in charge of testing have set an order in which you must visit them. I suppose it helps the testing process."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "First, go and visit";
+msgctxt "Chivalry Captain#knt"
+msgid "First, go and visit"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Sir Andrew for your first test. Don't be too nervous, he'll explain everything once you talk to him.";
+msgctxt "Chivalry Captain#knt"
+msgid "Sir Andrew for your first test. Don't be too nervous, he'll explain everything once you talk to him."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "It appears that you have finished one test. Let's see. Sir Andrew, who must this Swordman visit next?";
+msgctxt "Chivalry Captain#knt"
+msgid "It appears that you have finished one test. Let's see. Sir Andrew, who must this Swordman visit next?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Andrew]";
+msgctxt "Chivalry Captain#knt"
+msgid "[Sir Andrew]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I said to";
+msgctxt "Chivalry Captain#knt"
+msgid "I said to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "visit Sir Siracuse.";
+msgctxt "Chivalry Captain#knt"
+msgid "visit Sir Siracuse."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Funny, I thought I told";
+msgctxt "Chivalry Captain#knt"
+msgid "Funny, I thought I told"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you. Did I forget...?";
+msgctxt "Chivalry Captain#knt"
+msgid "you. Did I forget...?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Did you hear?";
+msgctxt "Chivalry Captain#knt"
+msgid "Did you hear?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Go to Sir Siracuse and take his test. Once you complete his test, do not forget who you're supposed to visit next as well.";
+msgctxt "Chivalry Captain#knt"
+msgid "Go to Sir Siracuse and take his test. Once you complete his test, do not forget who you're supposed to visit next as well."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Let's see...";
+msgctxt "Chivalry Captain#knt"
+msgid "Let's see..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You've completed two tests.";
+msgctxt "Chivalry Captain#knt"
+msgid "You've completed two tests."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Sir Siracuse, who must this Swordman visit next?";
+msgctxt "Chivalry Captain#knt"
+msgid "Sir Siracuse, who must this Swordman visit next?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Siracuse]";
+msgctxt "Chivalry Captain#knt"
+msgid "[Sir Siracuse]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Um, who was next...?";
+msgctxt "Chivalry Captain#knt"
+msgid "Um, who was next...?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Right! Sir Windsor!";
+msgctxt "Chivalry Captain#knt"
+msgid "Right! Sir Windsor!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Head over to";
+msgctxt "Chivalry Captain#knt"
+msgid "Head over to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Sir Windsor Benedict for your next test. Listen carefully to the Knights in charge of testing so that you don't feel lost, alright?";
+msgctxt "Chivalry Captain#knt"
+msgid "Sir Windsor Benedict for your next test. Listen carefully to the Knights in charge of testing so that you don't feel lost, alright?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Sir Windor...?";
+msgctxt "Chivalry Captain#knt"
+msgid "Sir Windor...?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Who must this";
+msgctxt "Chivalry Captain#knt"
+msgid "Who must this"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Swordman visit";
+msgctxt "Chivalry Captain#knt"
+msgid "Swordman visit"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "next?";
+msgctxt "Chivalry Captain#knt"
+msgid "next?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Windsor]";
+msgctxt "Chivalry Captain#knt"
+msgid "[Sir Windsor]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "......";
+msgctxt "Chivalry Captain#knt"
+msgid "......"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Amy Beatrice.";
+msgctxt "Chivalry Captain#knt"
+msgid "...Amy Beatrice."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah, go and visit";
+msgctxt "Chivalry Captain#knt"
+msgid "Ah, go and visit"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Lady Amy and take her test. Make sure you pay attention to who you must go to for your next test.";
+msgctxt "Chivalry Captain#knt"
+msgid "Lady Amy and take her test. Make sure you pay attention to who you must go to for your next test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Lady Amy, who";
+msgctxt "Chivalry Captain#knt"
+msgid "Lady Amy, who"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "must this Swordman";
+msgctxt "Chivalry Captain#knt"
+msgid "must this Swordman"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "visit next?";
+msgctxt "Chivalry Captain#knt"
+msgid "visit next?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Lady Amy]";
+msgctxt "Chivalry Captain#knt"
+msgid "[Lady Amy]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh...";
+msgctxt "Chivalry Captain#knt"
+msgid "Oh..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I said to visit";
+msgctxt "Chivalry Captain#knt"
+msgid "I said to visit"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Sir Edmond!";
+msgctxt "Chivalry Captain#knt"
+msgid "Sir Edmond!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Tee hee~";
+msgctxt "Chivalry Captain#knt"
+msgid "Tee hee~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Now, go and speak";
+msgctxt "Chivalry Captain#knt"
+msgid "Now, go and speak"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to Sir Edmond. He will";
+msgctxt "Chivalry Captain#knt"
+msgid "to Sir Edmond. He will"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "be in charge of your";
+msgctxt "Chivalry Captain#knt"
+msgid "be in charge of your"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "next test.";
+msgctxt "Chivalry Captain#knt"
+msgid "next test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Don't you only have to visit one more person? The Knight in";
+msgctxt "Chivalry Captain#knt"
+msgid "Don't you only have to visit one more person? The Knight in"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "charge of the final test";
+msgctxt "Chivalry Captain#knt"
+msgid "charge of the final test"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "is Sir Gray Prospheiro.";
+msgctxt "Chivalry Captain#knt"
+msgid "is Sir Gray Prospheiro."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Edmond]";
+msgctxt "Chivalry Captain#knt"
+msgid "[Sir Edmond]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "This world operates according";
+msgctxt "Chivalry Captain#knt"
+msgid "This world operates according"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to the law of cause and effect.";
+msgctxt "Chivalry Captain#knt"
+msgid "to the law of cause and effect."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "All will be revealed in the end.";
+msgctxt "Chivalry Captain#knt"
+msgid "All will be revealed in the end."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Be alert and do";
+msgctxt "Chivalry Captain#knt"
+msgid "Be alert and do"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "your best, as this";
+msgctxt "Chivalry Captain#knt"
+msgid "your best, as this"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "is the last test.";
+msgctxt "Chivalry Captain#knt"
+msgid "is the last test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Return to me";
+msgctxt "Chivalry Captain#knt"
+msgid "Return to me"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "after you have";
+msgctxt "Chivalry Captain#knt"
+msgid "after you have"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "completed the";
+msgctxt "Chivalry Captain#knt"
+msgid "completed the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "final test.";
+msgctxt "Chivalry Captain#knt"
+msgid "final test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Finish the last test.";
+msgctxt "Chivalry Captain#knt"
+msgid "Finish the last test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Once that is complete, all the Knights involved in your testing shall gather, and we will evaluate your performance.";
+msgctxt "Chivalry Captain#knt"
+msgid "Once that is complete, all the Knights involved in your testing shall gather, and we will evaluate your performance."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You cannot change jobs if you have unused skill points remaining. Return once you have distributed all your skill points.";
+msgctxt "Chivalry Captain#knt"
+msgid "You cannot change jobs if you have unused skill points remaining. Return once you have distributed all your skill points."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh, have you completed all the tests? But not everyone who completes the tests can";
+msgctxt "Chivalry Captain#knt"
+msgid "Oh, have you completed all the tests? But not everyone who completes the tests can"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "become a Knight.";
+msgctxt "Chivalry Captain#knt"
+msgid "become a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "During the test we see how loyal, honorable and strong you are. We also see if you were courteous and if you know the value of modesty and reverence.";
+msgctxt "Chivalry Captain#knt"
+msgid "During the test we see how loyal, honorable and strong you are. We also see if you were courteous and if you know the value of modesty and reverence."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Through this process, I have also observed your actions. All seven of our opinions will be reflected in the decision of your job change.";
+msgctxt "Chivalry Captain#knt"
+msgid "Through this process, I have also observed your actions. All seven of our opinions will be reflected in the decision of your job change."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Then...";
+msgctxt "Chivalry Captain#knt"
+msgid "Then..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "We shall listen";
+msgctxt "Chivalry Captain#knt"
+msgid "We shall listen"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to everyone's thoughts!";
+msgctxt "Chivalry Captain#knt"
+msgid "to everyone's thoughts!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Andrew, what do you think?";
+msgctxt "Chivalry Captain#knt"
+msgid "Andrew, what do you think?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What can I say?";
+msgctxt "Chivalry Captain#knt"
+msgid "What can I say?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I approve!";
+msgctxt "Chivalry Captain#knt"
+msgid "I approve!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Having lived as";
+msgctxt "Chivalry Captain#knt"
+msgid "Having lived as"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Swordsman up";
+msgctxt "Chivalry Captain#knt"
+msgid "a Swordsman up"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "until now";
+msgctxt "Chivalry Captain#knt"
+msgid "until now"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "is enough.";
+msgctxt "Chivalry Captain#knt"
+msgid "is enough."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "This one has";
+msgctxt "Chivalry Captain#knt"
+msgid "This one has"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "gathered items";
+msgctxt "Chivalry Captain#knt"
+msgid "gathered items"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "that are troublesome";
+msgctxt "Chivalry Captain#knt"
+msgid "that are troublesome"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to obtain. I approve!";
+msgctxt "Chivalry Captain#knt"
+msgid "to obtain. I approve!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I believe "+ (Sex == SEX_MALE ? "he" : "she") +" will continue to be loyal after becoming a Knight.";
+msgctxt "Chivalry Captain#knt"
+msgid "I believe "
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I believe "+ (Sex == SEX_MALE ? "he" : "she") +" will continue to be loyal after becoming a Knight.";
+msgctxt "Chivalry Captain#knt"
+msgid "he"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I believe "+ (Sex == SEX_MALE ? "he" : "she") +" will continue to be loyal after becoming a Knight.";
+msgctxt "Chivalry Captain#knt"
+msgid "she"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I believe "+ (Sex == SEX_MALE ? "he" : "she") +" will continue to be loyal after becoming a Knight.";
+msgctxt "Chivalry Captain#knt"
+msgid " will continue to be loyal after becoming a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hmm.";
+msgctxt "Chivalry Captain#knt"
+msgid "Hmm."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What a nice review.";
+msgctxt "Chivalry Captain#knt"
+msgid "What a nice review."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Siracuse, what are your thoughts?";
+msgctxt "Chivalry Captain#knt"
+msgid "Siracuse, what are your thoughts?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Heh, very well. Not quite what";
+msgctxt "Chivalry Captain#knt"
+msgid "Heh, very well. Not quite what"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I would want, but hopefully will become better in the future.";
+msgctxt "Chivalry Captain#knt"
+msgid "I would want, but hopefully will become better in the future."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "After becoming a Knight, you must build a good reputation through honor. Ehh... I approve.";
+msgctxt "Chivalry Captain#knt"
+msgid "After becoming a Knight, you must build a good reputation through honor. Ehh... I approve."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Okay...";
+msgctxt "Chivalry Captain#knt"
+msgid "Okay..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Windsor,";
+msgctxt "Chivalry Captain#knt"
+msgid "Windsor,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "what about you?";
+msgctxt "Chivalry Captain#knt"
+msgid "what about you?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "....Approved.";
+msgctxt "Chivalry Captain#knt"
+msgid "....Approved."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I don't think";
+msgctxt "Chivalry Captain#knt"
+msgid "I don't think"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "he disapproves.";
+msgctxt "Chivalry Captain#knt"
+msgid "he disapproves."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Then, let's listen";
+msgctxt "Chivalry Captain#knt"
+msgid "Then, let's listen"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to Amy's opinion.";
+msgctxt "Chivalry Captain#knt"
+msgid "to Amy's opinion."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Mmm~ He's so polite!";
+msgctxt "Chivalry Captain#knt"
+msgid "Mmm~ He's so polite!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "He'll grow to be a wonderful Knight. And he's got such cute widdle cheeeeks~ Hee hee!";
+msgctxt "Chivalry Captain#knt"
+msgid "He'll grow to be a wonderful Knight. And he's got such cute widdle cheeeeks~ Hee hee!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Mmm~ She should be great!";
+msgctxt "Chivalry Captain#knt"
+msgid "Mmm~ She should be great!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "She's very courteous and also very cute, so a few more points! Heh~";
+msgctxt "Chivalry Captain#knt"
+msgid "She's very courteous and also very cute, so a few more points! Heh~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I shouldn't be saying things like this!";
+msgctxt "Chivalry Captain#knt"
+msgid "I shouldn't be saying things like this!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Well...";
+msgctxt "Chivalry Captain#knt"
+msgid "Well..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A strange review,";
+msgctxt "Chivalry Captain#knt"
+msgid "A strange review,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "but I believe";
+msgctxt "Chivalry Captain#knt"
+msgid "but I believe"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "she approves.";
+msgctxt "Chivalry Captain#knt"
+msgid "she approves."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Edmond, speak";
+msgctxt "Chivalry Captain#knt"
+msgid "Edmond, speak"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "your mind.";
+msgctxt "Chivalry Captain#knt"
+msgid "your mind."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "He seems a little rough, but something bright shines within him. With polish and refinement, his true value will shine forth";
+msgctxt "Chivalry Captain#knt"
+msgid "He seems a little rough, but something bright shines within him. With polish and refinement, his true value will shine forth"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "as the sun.";
+msgctxt "Chivalry Captain#knt"
+msgid "as the sun."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "It's difficult to see, but there is a spiritual beauty within her. With polish and refinement, her true value will glow as resplendently";
+msgctxt "Chivalry Captain#knt"
+msgid "It's difficult to see, but there is a spiritual beauty within her. With polish and refinement, her true value will glow as resplendently"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "as the moon.";
+msgctxt "Chivalry Captain#knt"
+msgid "as the moon."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Lastly...";
+msgctxt "Chivalry Captain#knt"
+msgid "Lastly..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Gray. I would like";
+msgctxt "Chivalry Captain#knt"
+msgid "Gray. I would like"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to hear your thoughts.";
+msgctxt "Chivalry Captain#knt"
+msgid "to hear your thoughts."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Gray]";
+msgctxt "Chivalry Captain#knt"
+msgid "[Gray]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A young "+ (Sex == SEX_MALE ? "gentleman" : "lady") +" coming here with the determination to become a Knight is enough...";
+msgctxt "Chivalry Captain#knt"
+msgid "gentleman"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A young "+ (Sex == SEX_MALE ? "gentleman" : "lady") +" coming here with the determination to become a Knight is enough...";
+msgctxt "Chivalry Captain#knt"
+msgid " coming here with the determination to become a Knight is enough..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Everyone";
+msgctxt "Chivalry Captain#knt"
+msgid "Everyone"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "has approved.";
+msgctxt "Chivalry Captain#knt"
+msgid "has approved."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "No one has opposed.";
+msgctxt "Chivalry Captain#knt"
+msgid "No one has opposed."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Then I shall tell";
+msgctxt "Chivalry Captain#knt"
+msgid "Then I shall tell"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you my opinion.";
+msgctxt "Chivalry Captain#knt"
+msgid "you my opinion."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "My decision is...";
+msgctxt "Chivalry Captain#knt"
+msgid "My decision is..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I approve.";
+msgctxt "Chivalry Captain#knt"
+msgid "I approve."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You may not have finished all the tests perfectly, but you have all the necessary qualities to become";
+msgctxt "Chivalry Captain#knt"
+msgid "You may not have finished all the tests perfectly, but you have all the necessary qualities to become"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Knight.";
+msgctxt "Chivalry Captain#knt"
+msgid "a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I hereby declare";
+msgctxt "Chivalry Captain#knt"
+msgid "I hereby declare"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you a member of";
+msgctxt "Chivalry Captain#knt"
+msgid "you a member of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Protect the weak and";
+msgctxt "Chivalry Captain#knt"
+msgid "Protect the weak and"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "live with honor.";
+msgctxt "Chivalry Captain#knt"
+msgid "live with honor."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "We have prepared a small gift to congratulate you on your job change. Please use it when you are in battle as you honorably protect others.";
+msgctxt "Chivalry Captain#knt"
+msgid "We have prepared a small gift to congratulate you on your job change. Please use it when you are in battle as you honorably protect others."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Go forth!";
+msgctxt "Chivalry Captain#knt"
+msgid "Go forth!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The future of";
+msgctxt "Chivalry Captain#knt"
+msgid "The future of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Rune-Midgard";
+msgctxt "Chivalry Captain#knt"
+msgid "Rune-Midgard"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "rests on your";
+msgctxt "Chivalry Captain#knt"
+msgid "rests on your"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "shoulders!";
+msgctxt "Chivalry Captain#knt"
+msgid "shoulders!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Swordman " + strcharinfo(PC_NAME) + ".";
+msgctxt "Chivalry Captain#knt"
+msgid "Swordman "
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "How are the tests?";
+msgctxt "Chivalry Captain#knt"
+msgid "How are the tests?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah~ You do not know";
+msgctxt "Chivalry Captain#knt"
+msgid "Ah~ You do not know"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "who to visit next?";
+msgctxt "Chivalry Captain#knt"
+msgid "who to visit next?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "It may be difficult,";
+msgctxt "Chivalry Captain#knt"
+msgid "It may be difficult,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "but do your best.";
+msgctxt "Chivalry Captain#knt"
+msgid "but do your best."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Andrew]";
+msgctxt "Sir Andrew#knt"
+msgid "[Sir Andrew]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You must be";
+msgctxt "Sir Andrew#knt"
+msgid "You must be"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a member of";
+msgctxt "Sir Andrew#knt"
+msgid "a member of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the Chivalry.";
+msgctxt "Sir Andrew#knt"
+msgid "the Chivalry."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "How are you doing?";
+msgctxt "Sir Andrew#knt"
+msgid "How are you doing?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You must work diligently to gather food as well as save zeny to buy equipment. Save everything you";
+msgctxt "Sir Andrew#knt"
+msgid "You must work diligently to gather food as well as save zeny to buy equipment. Save everything you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "find in battle, even the smallest Jellopy.";
+msgctxt "Sir Andrew#knt"
+msgid "find in battle, even the smallest Jellopy."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But it's not good";
+msgctxt "Sir Andrew#knt"
+msgid "But it's not good"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to be too greedy.";
+msgctxt "Sir Andrew#knt"
+msgid "to be too greedy."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "After all, we are Knights.";
+msgctxt "Sir Andrew#knt"
+msgid "After all, we are Knights."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hey there,";
+msgctxt "Sir Andrew#knt"
+msgid "Hey there,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "little Novice.";
+msgctxt "Sir Andrew#knt"
+msgid "little Novice."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Welcome to the";
+msgctxt "Sir Andrew#knt"
+msgid "Welcome to the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Prontera Chivalry.";
+msgctxt "Sir Andrew#knt"
+msgid "Prontera Chivalry."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You might that you're";
+msgctxt "Sir Andrew#knt"
+msgid "You might that you're"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "weak right now, but someday";
+msgctxt "Sir Andrew#knt"
+msgid "weak right now, but someday"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you'll become stronger.";
+msgctxt "Sir Andrew#knt"
+msgid "you'll become stronger."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Dream of a bright future, and go look forward on the path that you choose to take.";
+msgctxt "Sir Andrew#knt"
+msgid "Dream of a bright future, and go look forward on the path that you choose to take."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "We, the members of the";
+msgctxt "Sir Andrew#knt"
+msgid "We, the members of the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Prontera Chivalry, are putting our best effort in protecting peace in this world.";
+msgctxt "Sir Andrew#knt"
+msgid "Prontera Chivalry, are putting our best effort in protecting peace in this world."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Even during the battles we face each and every day, we dream of";
+msgctxt "Sir Andrew#knt"
+msgid "Even during the battles we face each and every day, we dream of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a bright future that is to come.";
+msgctxt "Sir Andrew#knt"
+msgid "a bright future that is to come."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Good day.";
+msgctxt "Sir Andrew#knt"
+msgid "Good day."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "May I help you";
+msgctxt "Sir Andrew#knt"
+msgid "May I help you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "with something?";
+msgctxt "Sir Andrew#knt"
+msgid "with something?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test.", "Oh, nothing.") == 1) {
+msgctxt "Sir Andrew#knt"
+msgid "I would like to take the test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test.", "Oh, nothing.") == 1) {
+msgctxt "Sir Andrew#knt"
+msgid "Oh, nothing."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah...";
+msgctxt "Sir Andrew#knt"
+msgid "Ah..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You wish";
+msgctxt "Sir Andrew#knt"
+msgid "You wish"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to become a Knight.";
+msgctxt "Sir Andrew#knt"
+msgid "to become a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Your name is";
+msgctxt "Sir Andrew#knt"
+msgid "Your name is"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "correct?";
+msgctxt "Sir Andrew#knt"
+msgid "correct?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I am a Knight of";
+msgctxt "Sir Andrew#knt"
+msgid "I am a Knight of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the Prontera Chivalry,";
+msgctxt "Sir Andrew#knt"
+msgid "the Prontera Chivalry,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Andrew Shylock.";
+msgctxt "Sir Andrew#knt"
+msgid "Andrew Shylock."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I am in charge of";
+msgctxt "Sir Andrew#knt"
+msgid "I am in charge of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "your first test.";
+msgctxt "Sir Andrew#knt"
+msgid "your first test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I will be testing your sense of loyalty. Every Knight must possess this virtue. For this exam, you will be gathering prizes from";
+msgctxt "Sir Andrew#knt"
+msgid "I will be testing your sense of loyalty. Every Knight must possess this virtue. For this exam, you will be gathering prizes from"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the battlefield.";
+msgctxt "Sir Andrew#knt"
+msgid "the battlefield."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Mmm...?";
+msgctxt "Sir Andrew#knt"
+msgid "Mmm...?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hold on there.";
+msgctxt "Sir Andrew#knt"
+msgid "Hold on there."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You look like you've";
+msgctxt "Sir Andrew#knt"
+msgid "You look like you've"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "mastered being";
+msgctxt "Sir Andrew#knt"
+msgid "mastered being"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Swordsman.";
+msgctxt "Sir Andrew#knt"
+msgid "a Swordsman."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Impressive...!";
+msgctxt "Sir Andrew#knt"
+msgid "Impressive...!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "On second thought,";
+msgctxt "Sir Andrew#knt"
+msgid "On second thought,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I don't think your";
+msgctxt "Sir Andrew#knt"
+msgid "I don't think your"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "loyalty needs to";
+msgctxt "Sir Andrew#knt"
+msgid "loyalty needs to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "be tested.";
+msgctxt "Sir Andrew#knt"
+msgid "be tested."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Please go to my fellow Knight, Sir Siracuse, as he will give you your next test. Well done in mastering the Swordman job.";
+msgctxt "Sir Andrew#knt"
+msgid "Please go to my fellow Knight, Sir Siracuse, as he will give you your next test. Well done in mastering the Swordman job."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Without";
+msgctxt "Sir Andrew#knt"
+msgid "Without"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "further ado,";
+msgctxt "Sir Andrew#knt"
+msgid "further ado,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "let's begin!";
+msgctxt "Sir Andrew#knt"
+msgid "let's begin!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Go and gather the";
+msgctxt "Sir Andrew#knt"
+msgid "Go and gather the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "following items...";
+msgctxt "Sir Andrew#knt"
+msgid "following items..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "^236B8E"+.@items[1]+" "+getitemname(.@items[0])+"^000000,";
+msgctxt "Sir Andrew#knt"
+msgid "^236B8E"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "^236B8E"+.@items[1]+" "+getitemname(.@items[0])+"^000000,";
+msgctxt "Sir Andrew#knt"
+msgid " "
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I shall be";
+msgctxt "Sir Andrew#knt"
+msgid "I shall be"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "waiting here for";
+msgctxt "Sir Andrew#knt"
+msgid "waiting here for"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you to bring the";
+msgctxt "Sir Andrew#knt"
+msgid "you to bring the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "items I've listed.";
+msgctxt "Sir Andrew#knt"
+msgid "items I've listed."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "See you soon~";
+msgctxt "Sir Andrew#knt"
+msgid "See you soon~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Well, then...";
+msgctxt "Sir Andrew#knt"
+msgid "Well, then..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Welcome back~";
+msgctxt "Sir Andrew#knt"
+msgid "Welcome back~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Did you gather";
+msgctxt "Sir Andrew#knt"
+msgid "Did you gather"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "all the items?";
+msgctxt "Sir Andrew#knt"
+msgid "all the items?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Let's check and see...";
+msgctxt "Sir Andrew#knt"
+msgid "Let's check and see..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Perfect! We appreciate your effort in gathering these items. Thesee will be used to support the Chivalry's finances.";
+msgctxt "Sir Andrew#knt"
+msgid "Perfect! We appreciate your effort in gathering these items. Thesee will be used to support the Chivalry's finances."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Please visit my fellow Knight, Sir Siracuse, and continue the tests with the dedication and loyalty you've shown to me this day.";
+msgctxt "Sir Andrew#knt"
+msgid "Please visit my fellow Knight, Sir Siracuse, and continue the tests with the dedication and loyalty you've shown to me this day."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Wait, wait...";
+msgctxt "Sir Andrew#knt"
+msgid "Wait, wait..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I think you're";
+msgctxt "Sir Andrew#knt"
+msgid "I think you're"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "still missing some";
+msgctxt "Sir Andrew#knt"
+msgid "still missing some"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "items. In case you";
+msgctxt "Sir Andrew#knt"
+msgid "items. In case you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "forgot, let me";
+msgctxt "Sir Andrew#knt"
+msgid "forgot, let me"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "remind you...";
+msgctxt "Sir Andrew#knt"
+msgid "remind you..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Now, please take this test seriously and with sincerity.";
+msgctxt "Sir Andrew#knt"
+msgid "Now, please take this test seriously and with sincerity."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Now, I'll be waiting for you";
+msgctxt "Sir Andrew#knt"
+msgid "Now, I'll be waiting for you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to complete this task.";
+msgctxt "Sir Andrew#knt"
+msgid "to complete this task."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Did you have something you needed to ask me? You should go and take the next test. Hurry, Sir Siracuse is waiting for you~";
+msgctxt "Sir Andrew#knt"
+msgid "Did you have something you needed to ask me? You should go and take the next test. Hurry, Sir Siracuse is waiting for you~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You must have finished all the tests. Good job! You should go see our Captain so that we can all give our evaluation.";
+msgctxt "Sir Andrew#knt"
+msgid "You must have finished all the tests. Good job! You should go see our Captain so that we can all give our evaluation."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Did you have something you needed to ask me? You should go and take your next test. Do your best.";
+msgctxt "Sir Andrew#knt"
+msgid "Did you have something you needed to ask me? You should go and take your next test. Do your best."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I know you can do it!";
+msgctxt "Sir Andrew#knt"
+msgid "I know you can do it!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Siracuse]";
+msgctxt "Sir Siracuse#knt"
+msgid "[Sir Siracuse]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hey there!";
+msgctxt "Sir Siracuse#knt"
+msgid "Hey there!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "How are you doing?";
+msgctxt "Sir Siracuse#knt"
+msgid "How are you doing?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The Chivalry's been";
+msgctxt "Sir Siracuse#knt"
+msgid "The Chivalry's been"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "doing pretty well.";
+msgctxt "Sir Siracuse#knt"
+msgid "doing pretty well."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "We've been";
+msgctxt "Sir Siracuse#knt"
+msgid "We've been"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "testing new members,";
+msgctxt "Sir Siracuse#knt"
+msgid "testing new members,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "but not all of them";
+msgctxt "Sir Siracuse#knt"
+msgid "but not all of them"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "show as much promise";
+msgctxt "Sir Siracuse#knt"
+msgid "show as much promise"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "as you.";
+msgctxt "Sir Siracuse#knt"
+msgid "as you."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I hope these new recruits all behave themselves, and don't";
+msgctxt "Sir Siracuse#knt"
+msgid "I hope these new recruits all behave themselves, and don't"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "bring shame to the Chivalry.";
+msgctxt "Sir Siracuse#knt"
+msgid "bring shame to the Chivalry."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "If you catch any of the new guys acting in a way unbecoming of a Knight, scold them for me please?";
+msgctxt "Sir Siracuse#knt"
+msgid "If you catch any of the new guys acting in a way unbecoming of a Knight, scold them for me please?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh?";
+msgctxt "Sir Siracuse#knt"
+msgid "Oh?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What is a Novice";
+msgctxt "Sir Siracuse#knt"
+msgid "What is a Novice"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "doing here?";
+msgctxt "Sir Siracuse#knt"
+msgid "doing here?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Are you interested in becoming a Knight? You just can't change into a Knight from a Novice, you know.";
+msgctxt "Sir Siracuse#knt"
+msgid "Are you interested in becoming a Knight? You just can't change into a Knight from a Novice, you know."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "First, you have";
+msgctxt "Sir Siracuse#knt"
+msgid "First, you have"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to become a well";
+msgctxt "Sir Siracuse#knt"
+msgid "to become a well"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "experienced Swordman";
+msgctxt "Sir Siracuse#knt"
+msgid "experienced Swordman"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "before you can consider";
+msgctxt "Sir Siracuse#knt"
+msgid "before you can consider"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "becoming a Knight.";
+msgctxt "Sir Siracuse#knt"
+msgid "becoming a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Offense and defense.";
+msgctxt "Sir Siracuse#knt"
+msgid "Offense and defense."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Is there a way to have both without compromising one or the other?";
+msgctxt "Sir Siracuse#knt"
+msgid "Is there a way to have both without compromising one or the other?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Two-handed weapons greatly";
+msgctxt "Sir Siracuse#knt"
+msgid "Two-handed weapons greatly"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "improve your offense but decrease your defenses. Is there something that can overcome this weakness?";
+msgctxt "Sir Siracuse#knt"
+msgid "improve your offense but decrease your defenses. Is there something that can overcome this weakness?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A weapon or some sort";
+msgctxt "Sir Siracuse#knt"
+msgid "A weapon or some sort"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "of technique like that";
+msgctxt "Sir Siracuse#knt"
+msgid "of technique like that"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "would help Knights greatly...";
+msgctxt "Sir Siracuse#knt"
+msgid "would help Knights greatly..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Eh?";
+msgctxt "Sir Siracuse#knt"
+msgid "Eh?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Do you have";
+msgctxt "Sir Siracuse#knt"
+msgid "Do you have"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "something to";
+msgctxt "Sir Siracuse#knt"
+msgid "something to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "ask me?";
+msgctxt "Sir Siracuse#knt"
+msgid "ask me?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test to change jobs.", "Oh, nothing.") == 1) {
+msgctxt "Sir Siracuse#knt"
+msgid "I would like to take the test to change jobs."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test to change jobs.", "Oh, nothing.") == 1) {
+msgctxt "Sir Siracuse#knt"
+msgid "Oh, nothing."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh, to become";
+msgctxt "Sir Siracuse#knt"
+msgid "Oh, to become"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Knight? Come to";
+msgctxt "Sir Siracuse#knt"
+msgid "a Knight? Come to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "think of it, aren't";
+msgctxt "Sir Siracuse#knt"
+msgid "think of it, aren't"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you the "+ (Sex == SEX_MALE ? "guy" : "girl") +" that";
+msgctxt "Sir Siracuse#knt"
+msgid "you the "
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you the "+ (Sex == SEX_MALE ? "guy" : "girl") +" that";
+msgctxt "Sir Siracuse#knt"
+msgid "guy"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you the "+ (Sex == SEX_MALE ? "guy" : "girl") +" that";
+msgctxt "Sir Siracuse#knt"
+msgid "girl"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you the "+ (Sex == SEX_MALE ? "guy" : "girl") +" that";
+msgctxt "Sir Siracuse#knt"
+msgid " that"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "just applied?";
+msgctxt "Sir Siracuse#knt"
+msgid "just applied?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Let's see...";
+msgctxt "Sir Siracuse#knt"
+msgid "Let's see..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Your name was";
+msgctxt "Sir Siracuse#knt"
+msgid "Your name was"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But, before you come to me, you must visit the others. The way";
+msgctxt "Sir Siracuse#knt"
+msgid "But, before you come to me, you must visit the others. The way"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I see it, you haven't proven that you know the basics. But I'll";
+msgctxt "Sir Siracuse#knt"
+msgid "I see it, you haven't proven that you know the basics. But I'll"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "reconsider once you";
+msgctxt "Sir Siracuse#knt"
+msgid "reconsider once you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "pass the first test.";
+msgctxt "Sir Siracuse#knt"
+msgid "pass the first test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hmmm...?";
+msgctxt "Sir Siracuse#knt"
+msgid "Hmmm...?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Alright.";
+msgctxt "Sir Siracuse#knt"
+msgid "Alright."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "It's just that";
+msgctxt "Sir Siracuse#knt"
+msgid "It's just that"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you had that";
+msgctxt "Sir Siracuse#knt"
+msgid "you had that"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "look on your";
+msgctxt "Sir Siracuse#knt"
+msgid "look on your"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "face.";
+msgctxt "Sir Siracuse#knt"
+msgid "face."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hahaha~!";
+msgctxt "Sir Siracuse#knt"
+msgid "Hahaha~!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Aren't you supposed to be taking Andrew's test? You can't just skip that, you know! All of our tests are important.";
+msgctxt "Sir Siracuse#knt"
+msgid "Aren't you supposed to be taking Andrew's test? You can't just skip that, you know! All of our tests are important."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Speak to Sir Andrew first.";
+msgctxt "Sir Siracuse#knt"
+msgid "Speak to Sir Andrew first."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "My test for you will come after you've finished his test.";
+msgctxt "Sir Siracuse#knt"
+msgid "My test for you will come after you've finished his test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Sir Andrew sent me to take your test.", "Oh, nothing.") == 1) {
+msgctxt "Sir Siracuse#knt"
+msgid "Sir Andrew sent me to take your test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I see, you've passed the first test. Very well, I'll make some time for you. Let me introduce myself. My name is James Siracuse.";
+msgctxt "Sir Siracuse#knt"
+msgid "I see, you've passed the first test. Very well, I'll make some time for you. Let me introduce myself. My name is James Siracuse."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "This test will measure how much you know about Knighthood. More importantly, I want to know your thoughts about honor.";
+msgctxt "Sir Siracuse#knt"
+msgid "This test will measure how much you know about Knighthood. More importantly, I want to know your thoughts about honor."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Don't be nervous, I won't keep you too long. These will be quick questions. Plus, you still have to see the others, right?";
+msgctxt "Sir Siracuse#knt"
+msgid "Don't be nervous, I won't keep you too long. These will be quick questions. Plus, you still have to see the others, right?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Well then,";
+msgctxt "Sir Siracuse#knt"
+msgid "Well then,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "let's begin.";
+msgctxt "Sir Siracuse#knt"
+msgid "let's begin."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Please answer";
+msgctxt "Sir Siracuse#knt"
+msgid "Please answer"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "promptly.";
+msgctxt "Sir Siracuse#knt"
+msgid "promptly."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What...";
+msgctxt "Sir Siracuse#knt"
+msgid "What..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You again?";
+msgctxt "Sir Siracuse#knt"
+msgid "You again?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I wish to take the test again.", "Oh, nothing.") == 1) {
+msgctxt "Sir Siracuse#knt"
+msgid "I wish to take the test again."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Is that right?";
+msgctxt "Sir Siracuse#knt"
+msgid "Is that right?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Are you sure you're";
+msgctxt "Sir Siracuse#knt"
+msgid "Are you sure you're"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "prepared this time?";
+msgctxt "Sir Siracuse#knt"
+msgid "prepared this time?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Alright then,";
+msgctxt "Sir Siracuse#knt"
+msgid "Alright then,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "here we go again...";
+msgctxt "Sir Siracuse#knt"
+msgid "here we go again..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A Knight must possess great strength, defense, speed, and the skill to wield a Two-Handed Sword. Which of the following weapons are not affected by the Two Hand Quicken skill?";
+msgctxt "Sir Siracuse#knt"
+msgid "A Knight must possess great strength, defense, speed, and the skill to wield a Two-Handed Sword. Which of the following weapons are not affected by the Two Hand Quicken skill?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Katana", "Slayer", "Broadsword", "Flamberge") != 4) {
+msgctxt "Sir Siracuse#knt"
+msgid "Katana"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Katana", "Slayer", "Broadsword", "Flamberge") != 4) {
+msgctxt "Sir Siracuse#knt"
+msgid "Slayer"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Katana", "Slayer", "Broadsword", "Flamberge") != 4) {
+msgctxt "Sir Siracuse#knt"
+msgid "Broadsword"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Katana", "Slayer", "Broadsword", "Flamberge") != 4) {
+msgctxt "Sir Siracuse#knt"
+msgid "Flamberge"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Wrong!";
+msgctxt "Sir Siracuse#knt"
+msgid "Wrong!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "That's a Two-Handed Sword!";
+msgctxt "Sir Siracuse#knt"
+msgid "That's a Two-Handed Sword!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Are you sure you want to be a Knight? You don't even know the basics...";
+msgctxt "Sir Siracuse#knt"
+msgid "Are you sure you want to be a Knight? You don't even know the basics..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "If you're not sure about anything, go into town and ask any Knight. You need to learn more about Knights before applying for the job!";
+msgctxt "Sir Siracuse#knt"
+msgid "If you're not sure about anything, go into town and ask any Knight. You need to learn more about Knights before applying for the job!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Good, now let me ask about some skills. Which of the following is not necessary to learn Bowling Bash?";
+msgctxt "Sir Siracuse#knt"
+msgid "Good, now let me ask about some skills. Which of the following is not necessary to learn Bowling Bash?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Two Handed Sword Mastery Lv.5", "Magnum Break Lv.3", "Provoke Lv.10", "Bash Lv.10") != 3) {
+msgctxt "Sir Siracuse#knt"
+msgid "Two Handed Sword Mastery Lv.5"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Two Handed Sword Mastery Lv.5", "Magnum Break Lv.3", "Provoke Lv.10", "Bash Lv.10") != 3) {
+msgctxt "Sir Siracuse#knt"
+msgid "Magnum Break Lv.3"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Two Handed Sword Mastery Lv.5", "Magnum Break Lv.3", "Provoke Lv.10", "Bash Lv.10") != 3) {
+msgctxt "Sir Siracuse#knt"
+msgid "Provoke Lv.10"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Two Handed Sword Mastery Lv.5", "Magnum Break Lv.3", "Provoke Lv.10", "Bash Lv.10") != 3) {
+msgctxt "Sir Siracuse#knt"
+msgid "Bash Lv.10"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You need that to learn Bowling Bash! You should learn more about the Knight class before applying for the job!";
+msgctxt "Sir Siracuse#knt"
+msgid "You need that to learn Bowling Bash! You should learn more about the Knight class before applying for the job!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Knights can also use Spears, unlike other jobs, and have skills related to Spears as well. What skills are not necessary to learn the skill Brandish Spear?";
+msgctxt "Sir Siracuse#knt"
+msgid "Knights can also use Spears, unlike other jobs, and have skills related to Spears as well. What skills are not necessary to learn the skill Brandish Spear?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Pierce Lv.5", "Spear Stab Lv.3", "Spear Boomerang Lv.3", "Peco Peco Ride Lv.1") != 3) {
+msgctxt "Sir Siracuse#knt"
+msgid "Pierce Lv.5"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Pierce Lv.5", "Spear Stab Lv.3", "Spear Boomerang Lv.3", "Peco Peco Ride Lv.1") != 3) {
+msgctxt "Sir Siracuse#knt"
+msgid "Spear Stab Lv.3"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Pierce Lv.5", "Spear Stab Lv.3", "Spear Boomerang Lv.3", "Peco Peco Ride Lv.1") != 3) {
+msgctxt "Sir Siracuse#knt"
+msgid "Spear Boomerang Lv.3"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Pierce Lv.5", "Spear Stab Lv.3", "Spear Boomerang Lv.3", "Peco Peco Ride Lv.1") != 3) {
+msgctxt "Sir Siracuse#knt"
+msgid "Peco Peco Ride Lv.1"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Wrong! You need to learn that to learn Brandish Spear! How can you not know about Knights if you want to become one?";
+msgctxt "Sir Siracuse#knt"
+msgid "Wrong! You need to learn that to learn Brandish Spear! How can you not know about Knights if you want to become one?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "If you aren't sure about anything, go into town and ask any Knight";
+msgctxt "Sir Siracuse#knt"
+msgid "If you aren't sure about anything, go into town and ask any Knight"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "for help. Come back after you've learned more about Knights.";
+msgctxt "Sir Siracuse#knt"
+msgid "for help. Come back after you've learned more about Knights."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Some Spears also have magical attributes, just like spells. Of the following, which can attack a Nightmare, which has the Ghost attribute?";
+msgctxt "Sir Siracuse#knt"
+msgid "Some Spears also have magical attributes, just like spells. Of the following, which can attack a Nightmare, which has the Ghost attribute?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Zephyrus", "Lance", "Bill Guisarme", "Crescent Scythe") != 1) {
+msgctxt "Sir Siracuse#knt"
+msgid "Zephyrus"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Zephyrus", "Lance", "Bill Guisarme", "Crescent Scythe") != 1) {
+msgctxt "Sir Siracuse#knt"
+msgid "Lance"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Zephyrus", "Lance", "Bill Guisarme", "Crescent Scythe") != 1) {
+msgctxt "Sir Siracuse#knt"
+msgid "Bill Guisarme"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Zephyrus", "Lance", "Bill Guisarme", "Crescent Scythe") != 1) {
+msgctxt "Sir Siracuse#knt"
+msgid "Crescent Scythe"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Wrong! You'll be doing absolutely no damage with that type of Spear! Come back after you've learned more about Knights!";
+msgctxt "Sir Siracuse#knt"
+msgid "Wrong! You'll be doing absolutely no damage with that type of Spear! Come back after you've learned more about Knights!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "If you have a question, just ask any Knight in town. This is basic knowledge for us!";
+msgctxt "Sir Siracuse#knt"
+msgid "If you have a question, just ask any Knight in town. This is basic knowledge for us!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "When you become a Knight you can ride a Peco Peco. However, your attack speed decreases once you're mounted on a Peco Peco.";
+msgctxt "Sir Siracuse#knt"
+msgid "When you become a Knight you can ride a Peco Peco. However, your attack speed decreases once you're mounted on a Peco Peco."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But, you can counter this speed decrease as you learn the Cavalier Mastery skill. What percentage of your normal attack speed will you have after learning Level 3 Cavalier Mastery?";
+msgctxt "Sir Siracuse#knt"
+msgid "But, you can counter this speed decrease as you learn the Cavalier Mastery skill. What percentage of your normal attack speed will you have after learning Level 3 Cavalier Mastery?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("70 % of normal attack speed", "80 % of normal attack speed", "90 % of normal attack speed", "100 % of normal attack speed") != 2) {
+#, no-c-format
+msgctxt "Sir Siracuse#knt"
+msgid "70 % of normal attack speed"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("70 % of normal attack speed", "80 % of normal attack speed", "90 % of normal attack speed", "100 % of normal attack speed") != 2) {
+#, no-c-format
+msgctxt "Sir Siracuse#knt"
+msgid "80 % of normal attack speed"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("70 % of normal attack speed", "80 % of normal attack speed", "90 % of normal attack speed", "100 % of normal attack speed") != 2) {
+#, no-c-format
+msgctxt "Sir Siracuse#knt"
+msgid "90 % of normal attack speed"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("70 % of normal attack speed", "80 % of normal attack speed", "90 % of normal attack speed", "100 % of normal attack speed") != 2) {
+#, no-c-format
+msgctxt "Sir Siracuse#knt"
+msgid "100 % of normal attack speed"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Don't bother riding a Peco Peco if you don't know about Cavalier Mastery!";
+msgctxt "Sir Siracuse#knt"
+msgid "Don't bother riding a Peco Peco if you don't know about Cavalier Mastery!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You better come back after you've learned a little more about Knights!";
+msgctxt "Sir Siracuse#knt"
+msgid "You better come back after you've learned a little more about Knights!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Good, good...";
+msgctxt "Sir Siracuse#knt"
+msgid "Good, good..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I'm pretty sure you know a decent amount about Knights. Now, let me ask you some personal questions about Knights.";
+msgctxt "Sir Siracuse#knt"
+msgid "I'm pretty sure you know a decent amount about Knights. Now, let me ask you some personal questions about Knights."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What should you do when you run into a Novice asking for help in town?";
+msgctxt "Sir Siracuse#knt"
+msgid "What should you do when you run into a Novice asking for help in town?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Tell the Novice of a reasonable hunting area.", "Let the Novice fight while you take the damage.", "Give the Novice a bunch of Zeny and items.")) {
+msgctxt "Sir Siracuse#knt"
+msgid "Tell the Novice of a reasonable hunting area."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Tell the Novice of a reasonable hunting area.", "Let the Novice fight while you take the damage.", "Give the Novice a bunch of Zeny and items.")) {
+msgctxt "Sir Siracuse#knt"
+msgid "Let the Novice fight while you take the damage."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Tell the Novice of a reasonable hunting area.", "Let the Novice fight while you take the damage.", "Give the Novice a bunch of Zeny and items.")) {
+msgctxt "Sir Siracuse#knt"
+msgid "Give the Novice a bunch of Zeny and items."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Of course, even a Novice needs to learn how to be independent. Giving good guidance to Novices is one of the best things we can do.";
+msgctxt "Sir Siracuse#knt"
+msgid "Of course, even a Novice needs to learn how to be independent. Giving good guidance to Novices is one of the best things we can do."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You have the wrong idea. Do you really believe that is helping the Novice? Give a man a fish, he will eat for a day. Teach him to fish, he will eat for a lifetime!";
+msgctxt "Sir Siracuse#knt"
+msgid "You have the wrong idea. Do you really believe that is helping the Novice? Give a man a fish, he will eat for a day. Teach him to fish, he will eat for a lifetime!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Do you really believe that this will truly help the poor Novice? It's generous but, they will not know the true value of zeny and items until they earn it themselves.";
+msgctxt "Sir Siracuse#knt"
+msgid "Do you really believe that this will truly help the poor Novice? It's generous but, they will not know the true value of zeny and items until they earn it themselves."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Alright...";
+msgctxt "Sir Siracuse#knt"
+msgid "Alright..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Now, how should";
+msgctxt "Sir Siracuse#knt"
+msgid "Now, how should"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you act within";
+msgctxt "Sir Siracuse#knt"
+msgid "you act within"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a party?";
+msgctxt "Sir Siracuse#knt"
+msgid "a party?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Protect everyone in the front of the battle.", "Gather monsters and destroy them at once.", "Get as many items possible, at all cost.")) {
+msgctxt "Sir Siracuse#knt"
+msgid "Protect everyone in the front of the battle."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Protect everyone in the front of the battle.", "Gather monsters and destroy them at once.", "Get as many items possible, at all cost.")) {
+msgctxt "Sir Siracuse#knt"
+msgid "Gather monsters and destroy them at once."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Protect everyone in the front of the battle.", "Gather monsters and destroy them at once.", "Get as many items possible, at all cost.")) {
+msgctxt "Sir Siracuse#knt"
+msgid "Get as many items possible, at all cost."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "That's it! Our strength and attacks are very important in a party. All Knights should engage in a battle with that mindset.";
+msgctxt "Sir Siracuse#knt"
+msgid "That's it! Our strength and attacks are very important in a party. All Knights should engage in a battle with that mindset."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Are you crazy? Don't you realize the flaw in that kind of thinking? You can't control large mobs. What if they kill you? Who will protect the innocent?";
+msgctxt "Sir Siracuse#knt"
+msgid "Are you crazy? Don't you realize the flaw in that kind of thinking? You can't control large mobs. What if they kill you? Who will protect the innocent?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I see your greed and we will have none of it here! It seems you do not truly care for others!";
+msgctxt "Sir Siracuse#knt"
+msgid "I see your greed and we will have none of it here! It seems you do not truly care for others!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Get lost!";
+msgctxt "Sir Siracuse#knt"
+msgid "Get lost!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Lastly...";
+msgctxt "Sir Siracuse#knt"
+msgid "Lastly..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "what's the most";
+msgctxt "Sir Siracuse#knt"
+msgid "what's the most"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "important value";
+msgctxt "Sir Siracuse#knt"
+msgid "important value"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Knight must have?";
+msgctxt "Sir Siracuse#knt"
+msgid "a Knight must have?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Honor", "Wealth", "Status")) {
+msgctxt "Sir Siracuse#knt"
+msgid "Honor"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Honor", "Wealth", "Status")) {
+msgctxt "Sir Siracuse#knt"
+msgid "Wealth"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Honor", "Wealth", "Status")) {
+msgctxt "Sir Siracuse#knt"
+msgid "Status"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Right, above all else, Knights must be honorable! We live and die for honor! Always keep that in mind.";
+msgctxt "Sir Siracuse#knt"
+msgid "Right, above all else, Knights must be honorable! We live and die for honor! Always keep that in mind."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You're scum! You strive to become a Knight for personal wealth? Get lost! We will not accept someone like you in our Chivalry!";
+msgctxt "Sir Siracuse#knt"
+msgid "You're scum! You strive to become a Knight for personal wealth? Get lost! We will not accept someone like you in our Chivalry!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "So you're trying to become famous through the Chivalry? That's pathetic. We won't accept someone like you in our Chivalry!";
+msgctxt "Sir Siracuse#knt"
+msgid "So you're trying to become famous through the Chivalry? That's pathetic. We won't accept someone like you in our Chivalry!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "this is the";
+msgctxt "Sir Siracuse#knt"
+msgid "this is the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "end of my test.";
+msgctxt "Sir Siracuse#knt"
+msgid "end of my test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "For your next";
+msgctxt "Sir Siracuse#knt"
+msgid "For your next"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "test, please go";
+msgctxt "Sir Siracuse#knt"
+msgid "test, please go"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "see Sir Windsor.";
+msgctxt "Sir Siracuse#knt"
+msgid "see Sir Windsor."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "He's very quiet,";
+msgctxt "Sir Siracuse#knt"
+msgid "He's very quiet,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "but don't let that";
+msgctxt "Sir Siracuse#knt"
+msgid "but don't let that"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "get to you.";
+msgctxt "Sir Siracuse#knt"
+msgid "get to you."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hey...";
+msgctxt "Sir Siracuse#knt"
+msgid "Hey..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You already took my test, didn't you? You're done here. You should go visit Sir Windsor now...";
+msgctxt "Sir Siracuse#knt"
+msgid "You already took my test, didn't you? You're done here. You should go visit Sir Windsor now..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Mmm...?";
+msgctxt "Sir Siracuse#knt"
+msgid "Mmm...?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You finished";
+msgctxt "Sir Siracuse#knt"
+msgid "You finished"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "everyone else's";
+msgctxt "Sir Siracuse#knt"
+msgid "everyone else's"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "tests as well?";
+msgctxt "Sir Siracuse#knt"
+msgid "tests as well?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "go and see the";
+msgctxt "Sir Siracuse#knt"
+msgid "go and see the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "captain. We'll all";
+msgctxt "Sir Siracuse#knt"
+msgid "captain. We'll all"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "be there to evaluate";
+msgctxt "Sir Siracuse#knt"
+msgid "be there to evaluate"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "your performance.";
+msgctxt "Sir Siracuse#knt"
+msgid "your performance."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hey again.";
+msgctxt "Sir Siracuse#knt"
+msgid "Hey again."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Did you need something?";
+msgctxt "Sir Siracuse#knt"
+msgid "Did you need something?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Sorry, but I'm busy at the moment. You should go and finish the rest of your tests.";
+msgctxt "Sir Siracuse#knt"
+msgid "Sorry, but I'm busy at the moment. You should go and finish the rest of your tests."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Windsor]";
+msgctxt "Sir Windsor#knt"
+msgid "[Sir Windsor]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...";
+msgctxt "Sir Windsor#knt"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "......";
+msgctxt "Sir Windsor#knt"
+msgid "......"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (BaseJob == Job_Knight) mes "Protect.";
+msgctxt "Sir Windsor#knt"
+msgid "Protect."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Go play";
+msgctxt "Sir Windsor#knt"
+msgid "...Go play"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "outside.";
+msgctxt "Sir Windsor#knt"
+msgid "outside."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# else mes "...Hmpf.";
+msgctxt "Sir Windsor#knt"
+msgid "...Hmpf."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...What?";
+msgctxt "Sir Windsor#knt"
+msgid "...What?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test to change jobs.", "Oh, nothing.") == 1) {
+msgctxt "Sir Windsor#knt"
+msgid "I would like to take the test to change jobs."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test to change jobs.", "Oh, nothing.") == 1) {
+msgctxt "Sir Windsor#knt"
+msgid "Oh, nothing."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...It's not my turn.";
+msgctxt "Sir Windsor#knt"
+msgid "...It's not my turn."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes ".....What?";
+msgctxt "Sir Windsor#knt"
+msgid ".....What?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Follow me.";
+msgctxt "Sir Windsor#knt"
+msgid "...Follow me."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Fine.";
+msgctxt "Sir Windsor#knt"
+msgid "...Fine."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...This way.";
+msgctxt "Sir Windsor#knt"
+msgid "...This way."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Talk to";
+msgctxt "Sir Windsor#knt"
+msgid "...Talk to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the captain.";
+msgctxt "Sir Windsor#knt"
+msgid "the captain."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...You're";
+msgctxt "Sir Windsor#knt"
+msgid "...You're"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "done here.";
+msgctxt "Sir Windsor#knt"
+msgid "done here."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Windsor]";
+msgctxt "Knight Windsor#knt"
+msgid "[Sir Windsor]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...";
+msgctxt "Knight Windsor#knt"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "......";
+msgctxt "Knight Windsor#knt"
+msgid "......"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Question?";
+msgctxt "Knight Windsor#knt"
+msgid "...Question?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# .@i = select("What kind of test is this?", "How do I take the test?", "I'd like to leave.", "No.");
+msgctxt "Knight Windsor#knt"
+msgid "What kind of test is this?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# .@i = select("What kind of test is this?", "How do I take the test?", "I'd like to leave.", "No.");
+msgctxt "Knight Windsor#knt"
+msgid "How do I take the test?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# .@i = select("What kind of test is this?", "How do I take the test?", "I'd like to leave.", "No.");
+msgctxt "Knight Windsor#knt"
+msgid "I'd like to leave."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# .@i = select("What kind of test is this?", "How do I take the test?", "I'd like to leave.", "No.");
+msgctxt "Knight Windsor#knt"
+msgid "No."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...You fight monsters.";
+msgctxt "Knight Windsor#knt"
+msgid "...You fight monsters."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Kill them all.";
+msgctxt "Knight Windsor#knt"
+msgid "...Kill them all."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Three stages.";
+msgctxt "Knight Windsor#knt"
+msgid "...Three stages."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Beat them all.";
+msgctxt "Knight Windsor#knt"
+msgid "Beat them all."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "......3 minutes";
+msgctxt "Knight Windsor#knt"
+msgid "......3 minutes"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "for each stage.";
+msgctxt "Knight Windsor#knt"
+msgid "for each stage."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "..........";
+msgctxt "Knight Windsor#knt"
+msgid ".........."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Go in the";
+msgctxt "Knight Windsor#knt"
+msgid "...Go in the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "waiting room.";
+msgctxt "Knight Windsor#knt"
+msgid "waiting room."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Then it";
+msgctxt "Knight Windsor#knt"
+msgid "...Then it"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "will begin.";
+msgctxt "Knight Windsor#knt"
+msgid "will begin."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...You have to wait";
+msgctxt "Knight Windsor#knt"
+msgid "...You have to wait"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "if someone is testing.";
+msgctxt "Knight Windsor#knt"
+msgid "if someone is testing."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...You can go in";
+msgctxt "Knight Windsor#knt"
+msgid "...You can go in"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "after that person.";
+msgctxt "Knight Windsor#knt"
+msgid "after that person."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Windsor]";
+msgctxt "Knight1"
+msgid "[Sir Windsor]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...";
+msgctxt "Knight1"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...On to";
+msgctxt "Knight1"
+msgid "...On to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the next level.";
+msgctxt "Knight1"
+msgid "the next level."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Windsor]";
+msgctxt "Knight2"
+msgid "[Sir Windsor]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Hmm.";
+msgctxt "Knight2"
+msgid "...Hmm."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...One stage left.";
+msgctxt "Knight2"
+msgid "...One stage left."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Windsor]";
+msgctxt "Knight3"
+msgid "[Sir Windsor]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...";
+msgctxt "Knight3"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Very good.";
+msgctxt "Knight3"
+msgid "...Very good."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "...Go talk to";
+msgctxt "Knight3"
+msgid "...Go talk to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Amy Beatrice now.";
+msgctxt "Knight3"
+msgid "Amy Beatrice now."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Lady Amy]";
+msgctxt "Lady Amy#knt"
+msgid "[Lady Amy]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh...!";
+msgctxt "Lady Amy#knt"
+msgid "Oh...!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I wonder, why";
+msgctxt "Lady Amy#knt"
+msgid "I wonder, why"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "have you come";
+msgctxt "Lady Amy#knt"
+msgid "have you come"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to visit me?";
+msgctxt "Lady Amy#knt"
+msgid "to visit me?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You're not having";
+msgctxt "Lady Amy#knt"
+msgid "You're not having"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "trouble as a Knight,";
+msgctxt "Lady Amy#knt"
+msgid "trouble as a Knight,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "are you? Well, I think";
+msgctxt "Lady Amy#knt"
+msgid "are you? Well, I think"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you're doing well~";
+msgctxt "Lady Amy#knt"
+msgid "you're doing well~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Of course~";
+msgctxt "Lady Amy#knt"
+msgid "Of course~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You're a member of";
+msgctxt "Lady Amy#knt"
+msgid "You're a member of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the Prontera Chivalry~";
+msgctxt "Lady Amy#knt"
+msgid "the Prontera Chivalry~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Aww~";
+msgctxt "Lady Amy#knt"
+msgid "Aww~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What a cute";
+msgctxt "Lady Amy#knt"
+msgid "What a cute"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "little Novice!";
+msgctxt "Lady Amy#knt"
+msgid "little Novice!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Soooooo cute!";
+msgctxt "Lady Amy#knt"
+msgid "Soooooo cute!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Heh heh...";
+msgctxt "Lady Amy#knt"
+msgid "Heh heh..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Are you interested";
+msgctxt "Lady Amy#knt"
+msgid "Are you interested"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "in becoming a Knight";
+msgctxt "Lady Amy#knt"
+msgid "in becoming a Knight"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "later on? You'd be";
+msgctxt "Lady Amy#knt"
+msgid "later on? You'd be"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a great Knight~";
+msgctxt "Lady Amy#knt"
+msgid "a great Knight~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Remember, you're";
+msgctxt "Lady Amy#knt"
+msgid "Remember, you're"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "going to be a Knight,";
+msgctxt "Lady Amy#knt"
+msgid "going to be a Knight,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "alright? Promise?";
+msgctxt "Lady Amy#knt"
+msgid "alright? Promise?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Welcome to";
+msgctxt "Lady Amy#knt"
+msgid "Welcome to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "We're only Knights,";
+msgctxt "Lady Amy#knt"
+msgid "We're only Knights,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "but hope you enjoy";
+msgctxt "Lady Amy#knt"
+msgid "but hope you enjoy"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "your stay here.";
+msgctxt "Lady Amy#knt"
+msgid "your stay here."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Heh heh~";
+msgctxt "Lady Amy#knt"
+msgid "Heh heh~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ooh, you're";
+msgctxt "Lady Amy#knt"
+msgid "Ooh, you're"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Swordsman...?";
+msgctxt "Lady Amy#knt"
+msgid "a Swordsman...?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Did you come to";
+msgctxt "Lady Amy#knt"
+msgid "Did you come to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "change jobs to";
+msgctxt "Lady Amy#knt"
+msgid "change jobs to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Knight?";
+msgctxt "Lady Amy#knt"
+msgid "a Knight?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "To apply, talk";
+msgctxt "Lady Amy#knt"
+msgid "To apply, talk"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to the captain";
+msgctxt "Lady Amy#knt"
+msgid "to the captain"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "all the way over";
+msgctxt "Lady Amy#knt"
+msgid "all the way over"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "there. Hee hee~";
+msgctxt "Lady Amy#knt"
+msgid "there. Hee hee~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hmmm?";
+msgctxt "Lady Amy#knt"
+msgid "Hmmm?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Why did you";
+msgctxt "Lady Amy#knt"
+msgid "Why did you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "come to Amy?";
+msgctxt "Lady Amy#knt"
+msgid "come to Amy?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test to change jobs.", "Oh, nothing.") == 1) {
+msgctxt "Lady Amy#knt"
+msgid "I would like to take the test to change jobs."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test to change jobs.", "Oh, nothing.") == 1) {
+msgctxt "Lady Amy#knt"
+msgid "Oh, nothing."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Mmm~";
+msgctxt "Lady Amy#knt"
+msgid "Mmm~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You applied to change jobs! Okay! You'll soon be a Knight with that kind of determination!";
+msgctxt "Lady Amy#knt"
+msgid "You applied to change jobs! Okay! You'll soon be a Knight with that kind of determination!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But...";
+msgctxt "Lady Amy#knt"
+msgid "But..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You have to go";
+msgctxt "Lady Amy#knt"
+msgid "You have to go"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to the other Knights";
+msgctxt "Lady Amy#knt"
+msgid "to the other Knights"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "before talking to Amy.";
+msgctxt "Lady Amy#knt"
+msgid "before talking to Amy."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I'd love to test";
+msgctxt "Lady Amy#knt"
+msgid "I'd love to test"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you from the beginning,";
+msgctxt "Lady Amy#knt"
+msgid "you from the beginning,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "but I'm not allowed to.";
+msgctxt "Lady Amy#knt"
+msgid "but I'm not allowed to."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hee hee~";
+msgctxt "Lady Amy#knt"
+msgid "Hee hee~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Alright...";
+msgctxt "Lady Amy#knt"
+msgid "Alright..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Sir Windsor told me to--", "Oh, nothing.") == 1) {
+msgctxt "Lady Amy#knt"
+msgid "Sir Windsor told me to--"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh!";
+msgctxt "Lady Amy#knt"
+msgid "Oh!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "No need to say";
+msgctxt "Lady Amy#knt"
+msgid "No need to say"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "anything more.";
+msgctxt "Lady Amy#knt"
+msgid "anything more."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Welcome! It's time";
+msgctxt "Lady Amy#knt"
+msgid "Welcome! It's time"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to take Amy's test!";
+msgctxt "Lady Amy#knt"
+msgid "to take Amy's test!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "My name is Amy Beatrice,";
+msgctxt "Lady Amy#knt"
+msgid "My name is Amy Beatrice,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a proud Lady Knight of the Prontera Chivalry. Amy's test will test your etiquette as a Knight~";
+msgctxt "Lady Amy#knt"
+msgid "a proud Lady Knight of the Prontera Chivalry. Amy's test will test your etiquette as a Knight~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I'll tell you a story and you choose an answer whenever";
+msgctxt "Lady Amy#knt"
+msgid "I'll tell you a story and you choose an answer whenever"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I ask a question. Your etiquette will be judged on your answers.";
+msgctxt "Lady Amy#knt"
+msgid "I ask a question. Your etiquette will be judged on your answers."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "So listen carefully";
+msgctxt "Lady Amy#knt"
+msgid "So listen carefully"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "and answer as if you're";
+msgctxt "Lady Amy#knt"
+msgid "and answer as if you're"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "already a Knight, okay?";
+msgctxt "Lady Amy#knt"
+msgid "already a Knight, okay?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Then,";
+msgctxt "Lady Amy#knt"
+msgid "Then,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "let's begin!";
+msgctxt "Lady Amy#knt"
+msgid "let's begin!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Aww...";
+msgctxt "Lady Amy#knt"
+msgid "Aww..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Alright~";
+msgctxt "Lady Amy#knt"
+msgid "Alright~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Mmm~?";
+msgctxt "Lady Amy#knt"
+msgid "Mmm~?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Have you learned";
+msgctxt "Lady Amy#knt"
+msgid "Have you learned"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "what you did wrong";
+msgctxt "Lady Amy#knt"
+msgid "what you did wrong"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "last time? If you";
+msgctxt "Lady Amy#knt"
+msgid "last time? If you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "fail again, I'm going";
+msgctxt "Lady Amy#knt"
+msgid "fail again, I'm going"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to be mad!";
+msgctxt "Lady Amy#knt"
+msgid "to be mad!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "and answer as if you";
+msgctxt "Lady Amy#knt"
+msgid "and answer as if you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "are a Knight.";
+msgctxt "Lady Amy#knt"
+msgid "are a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Well then,";
+msgctxt "Lady Amy#knt"
+msgid "Well then,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You are a Knight and you are looking for a party in Morroc.";
+msgctxt "Lady Amy#knt"
+msgid "You are a Knight and you are looking for a party in Morroc."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "How would you go about doing so?";
+msgctxt "Lady Amy#knt"
+msgid "How would you go about doing so?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Shout out that you are looking for a party.", "Open a chat room and wait.", "Look for people seeking Knights.") != 1)
+msgctxt "Lady Amy#knt"
+msgid "Shout out that you are looking for a party."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Shout out that you are looking for a party.", "Open a chat room and wait.", "Look for people seeking Knights.") != 1)
+msgctxt "Lady Amy#knt"
+msgid "Open a chat room and wait."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Shout out that you are looking for a party.", "Open a chat room and wait.", "Look for people seeking Knights.") != 1)
+msgctxt "Lady Amy#knt"
+msgid "Look for people seeking Knights."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You have formed a party with equal leveled players. There's a Priest, a Wizard, a Hunter, an Assassin, and a Blacksmith...";
+msgctxt "Lady Amy#knt"
+msgid "You have formed a party with equal leveled players. There's a Priest, a Wizard, a Hunter, an Assassin, and a Blacksmith..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The six of you decide to go hunt and have decided to go to the Pyramids.";
+msgctxt "Lady Amy#knt"
+msgid "The six of you decide to go hunt and have decided to go to the Pyramids."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You reach Level 4";
+msgctxt "Lady Amy#knt"
+msgid "You reach Level 4"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "of the Pyramids";
+msgctxt "Lady Amy#knt"
+msgid "of the Pyramids"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "with your party.";
+msgctxt "Lady Amy#knt"
+msgid "with your party."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What should you do?";
+msgctxt "Lady Amy#knt"
+msgid "What should you do?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Check out the area and plan ahead.", "Gather monsters for your party members.", "Lead the party slowly at the front.") != 2)
+msgctxt "Lady Amy#knt"
+msgid "Check out the area and plan ahead."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Check out the area and plan ahead.", "Gather monsters for your party members.", "Lead the party slowly at the front.") != 2)
+msgctxt "Lady Amy#knt"
+msgid "Gather monsters for your party members."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Check out the area and plan ahead.", "Gather monsters for your party members.", "Lead the party slowly at the front.") != 2)
+msgctxt "Lady Amy#knt"
+msgid "Lead the party slowly at the front."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But some rude players came with a group of monsters and disappeared! What should you do?";
+msgctxt "Lady Amy#knt"
+msgid "But some rude players came with a group of monsters and disappeared! What should you do?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Keep the monsters from reaching the party.", "Defend while the party retreats.", "Run away on your Peco Peco.") == 2)
+msgctxt "Lady Amy#knt"
+msgid "Keep the monsters from reaching the party."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Keep the monsters from reaching the party.", "Defend while the party retreats.", "Run away on your Peco Peco.") == 2)
+msgctxt "Lady Amy#knt"
+msgid "Defend while the party retreats."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Keep the monsters from reaching the party.", "Defend while the party retreats.", "Run away on your Peco Peco.") == 2)
+msgctxt "Lady Amy#knt"
+msgid "Run away on your Peco Peco."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Luckily, you all lived through the crisis. But as you walk, you find a person, who is not in your party, collapsed on the ground.";
+msgctxt "Lady Amy#knt"
+msgid "Luckily, you all lived through the crisis. But as you walk, you find a person, who is not in your party, collapsed on the ground."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The person is asking politely for help. What should you do?";
+msgctxt "Lady Amy#knt"
+msgid "The person is asking politely for help. What should you do?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Ask your party's Priest to help.", "Say you will help for Zeny.", "Ignore and move on.") == 1)
+msgctxt "Lady Amy#knt"
+msgid "Ask your party's Priest to help."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Ask your party's Priest to help.", "Say you will help for Zeny.", "Ignore and move on.") == 1)
+msgctxt "Lady Amy#knt"
+msgid "Say you will help for Zeny."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Ask your party's Priest to help.", "Say you will help for Zeny.", "Ignore and move on.") == 1)
+msgctxt "Lady Amy#knt"
+msgid "Ignore and move on."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You must bid farewell to your party members because you must go somewhere else.";
+msgctxt "Lady Amy#knt"
+msgid "You must bid farewell to your party members because you must go somewhere else."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But you find";
+msgctxt "Lady Amy#knt"
+msgid "But you find"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a rare item during";
+msgctxt "Lady Amy#knt"
+msgid "a rare item during"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the battle. What";
+msgctxt "Lady Amy#knt"
+msgid "the battle. What"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "should you do?";
+msgctxt "Lady Amy#knt"
+msgid "should you do?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if(select("Give it to who deserves it the most.", "Pretend like nothing happened and keep it.", "Decide with party who gets it.") != 2)
+msgctxt "Lady Amy#knt"
+msgid "Give it to who deserves it the most."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if(select("Give it to who deserves it the most.", "Pretend like nothing happened and keep it.", "Decide with party who gets it.") != 2)
+msgctxt "Lady Amy#knt"
+msgid "Pretend like nothing happened and keep it."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if(select("Give it to who deserves it the most.", "Pretend like nothing happened and keep it.", "Decide with party who gets it.") != 2)
+msgctxt "Lady Amy#knt"
+msgid "Decide with party who gets it."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You end up with the item and you go to Prontera to sell it. There are many people with shops and chat rooms opened selling items.";
+msgctxt "Lady Amy#knt"
+msgid "You end up with the item and you go to Prontera to sell it. There are many people with shops and chat rooms opened selling items."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What should you";
+msgctxt "Lady Amy#knt"
+msgid "What should you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "do to sell your item?";
+msgctxt "Lady Amy#knt"
+msgid "do to sell your item?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Shout out loud to everyone.", "Open a chat room and wait.", "Inquire if there is anyone that is interested.") == 3)
+msgctxt "Lady Amy#knt"
+msgid "Shout out loud to everyone."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Shout out loud to everyone.", "Open a chat room and wait.", "Inquire if there is anyone that is interested.") == 3)
+msgctxt "Lady Amy#knt"
+msgid "Inquire if there is anyone that is interested."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "While you are waiting,";
+msgctxt "Lady Amy#knt"
+msgid "While you are waiting,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "someone comes and begs";
+msgctxt "Lady Amy#knt"
+msgid "someone comes and begs"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "for items and zeny.";
+msgctxt "Lady Amy#knt"
+msgid "for items and zeny."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What do you do?";
+msgctxt "Lady Amy#knt"
+msgid "What do you do?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Give them some Zeny and items.", "Simply ignore them.", "Give suggestions for a place to hunt.") == 3)
+msgctxt "Lady Amy#knt"
+msgid "Give them some Zeny and items."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Give them some Zeny and items.", "Simply ignore them.", "Give suggestions for a place to hunt.") == 3)
+msgctxt "Lady Amy#knt"
+msgid "Simply ignore them."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Give them some Zeny and items.", "Simply ignore them.", "Give suggestions for a place to hunt.") == 3)
+msgctxt "Lady Amy#knt"
+msgid "Give suggestions for a place to hunt."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Now you decide to go to the Hidden Temple by yourself. You happily ride on your Peco Peco.";
+msgctxt "Lady Amy#knt"
+msgid "Now you decide to go to the Hidden Temple by yourself. You happily ride on your Peco Peco."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But you run into";
+msgctxt "Lady Amy#knt"
+msgid "But you run into"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "someone that is lost.";
+msgctxt "Lady Amy#knt"
+msgid "someone that is lost."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if(select("Tell the person how to reach the exit.", "Lead the person to the exit.", "Give a Butterfly Wing.") != 3)
+msgctxt "Lady Amy#knt"
+msgid "Tell the person how to reach the exit."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if(select("Tell the person how to reach the exit.", "Lead the person to the exit.", "Give a Butterfly Wing.") != 3)
+msgctxt "Lady Amy#knt"
+msgid "Lead the person to the exit."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if(select("Tell the person how to reach the exit.", "Lead the person to the exit.", "Give a Butterfly Wing.") != 3)
+msgctxt "Lady Amy#knt"
+msgid "Give a Butterfly Wing."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You've been hunting for a while, and now you're low on HP!";
+msgctxt "Lady Amy#knt"
+msgid "You've been hunting for a while, and now you're low on HP!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "It's red now, which is very dangerous.";
+msgctxt "Lady Amy#knt"
+msgid "It's red now, which is very dangerous."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah, then a Priest";
+msgctxt "Lady Amy#knt"
+msgid "Ah, then a Priest"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "happens to walk by.";
+msgctxt "Lady Amy#knt"
+msgid "happens to walk by."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "How would you ask";
+msgctxt "Lady Amy#knt"
+msgid "How would you ask"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the Priest for a Heal?";
+msgctxt "Lady Amy#knt"
+msgid "the Priest for a Heal?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Would it be possible to get a heal please?", "Can I have a heal?", "Heal plz!!") == 1)
+msgctxt "Lady Amy#knt"
+msgid "Would it be possible to get a heal please?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Would it be possible to get a heal please?", "Can I have a heal?", "Heal plz!!") == 1)
+msgctxt "Lady Amy#knt"
+msgid "Can I have a heal?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Would it be possible to get a heal please?", "Can I have a heal?", "Heal plz!!") == 1)
+msgctxt "Lady Amy#knt"
+msgid "Heal plz!!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You are now very";
+msgctxt "Lady Amy#knt"
+msgid "You are now very"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "exhausted and it's time";
+msgctxt "Lady Amy#knt"
+msgid "exhausted and it's time"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to go back to town.";
+msgctxt "Lady Amy#knt"
+msgid "to go back to town."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You then find";
+msgctxt "Lady Amy#knt"
+msgid "You then find"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a rare item on";
+msgctxt "Lady Amy#knt"
+msgid "a rare item on"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the street.";
+msgctxt "Lady Amy#knt"
+msgid "the street."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What should";
+msgctxt "Lady Amy#knt"
+msgid "What should"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you do?";
+msgctxt "Lady Amy#knt"
+msgid "you do?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Pick it up and keep it.", "Ask around to find the owner.", "Simply walk by.") != 1)
+msgctxt "Lady Amy#knt"
+msgid "Pick it up and keep it."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Pick it up and keep it.", "Ask around to find the owner.", "Simply walk by.") != 1)
+msgctxt "Lady Amy#knt"
+msgid "Ask around to find the owner."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Pick it up and keep it.", "Ask around to find the owner.", "Simply walk by.") != 1)
+msgctxt "Lady Amy#knt"
+msgid "Simply walk by."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Okay,";
+msgctxt "Lady Amy#knt"
+msgid "Okay,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "that was the";
+msgctxt "Lady Amy#knt"
+msgid "that was the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "end of my test!";
+msgctxt "Lady Amy#knt"
+msgid "end of my test!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Well done, that kind of mentality is needed for a Knight! For your next test, visit Sir Edmond, please~";
+msgctxt "Lady Amy#knt"
+msgid "Well done, that kind of mentality is needed for a Knight! For your next test, visit Sir Edmond, please~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I'll have nice comments about you for the captain. Do well on the tests you have left, okay?";
+msgctxt "Lady Amy#knt"
+msgid "I'll have nice comments about you for the captain. Do well on the tests you have left, okay?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Well, it wasn't perfect,";
+msgctxt "Lady Amy#knt"
+msgid "Well, it wasn't perfect,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "but I think you know enough";
+msgctxt "Lady Amy#knt"
+msgid "but I think you know enough"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "about etiquette to be";
+msgctxt "Lady Amy#knt"
+msgid "about etiquette to be"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a fine Knight.";
+msgctxt "Lady Amy#knt"
+msgid "a fine Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Now, it's time for you to go to Sir Edmond for your next test. Do well on the rest of your tests. You better promise~";
+msgctxt "Lady Amy#knt"
+msgid "Now, it's time for you to go to Sir Edmond for your next test. Do well on the rest of your tests. You better promise~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Mmm...";
+msgctxt "Lady Amy#knt"
+msgid "Mmm..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "To be honest, I don't think your attitude is good enough to be a Knight quite yet.";
+msgctxt "Lady Amy#knt"
+msgid "To be honest, I don't think your attitude is good enough to be a Knight quite yet."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "If you really act like that, everyone will think Knights are rude! Think about how you answered my questions and come again later.";
+msgctxt "Lady Amy#knt"
+msgid "If you really act like that, everyone will think Knights are rude! Think about how you answered my questions and come again later."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "If you want,";
+msgctxt "Lady Amy#knt"
+msgid "If you want,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I'll let you";
+msgctxt "Lady Amy#knt"
+msgid "I'll let you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "retake the test, okay?";
+msgctxt "Lady Amy#knt"
+msgid "retake the test, okay?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You have to go to";
+msgctxt "Lady Amy#knt"
+msgid "You have to go to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Sir Edmond for your";
+msgctxt "Lady Amy#knt"
+msgid "Sir Edmond for your"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "next test, okay?";
+msgctxt "Lady Amy#knt"
+msgid "next test, okay?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Wow~";
+msgctxt "Lady Amy#knt"
+msgid "Wow~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Now it's time for";
+msgctxt "Lady Amy#knt"
+msgid "Now it's time for"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "everyone to decide";
+msgctxt "Lady Amy#knt"
+msgid "everyone to decide"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "on your job change!";
+msgctxt "Lady Amy#knt"
+msgid "on your job change!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Let's go talk to our";
+msgctxt "Lady Amy#knt"
+msgid "Let's go talk to our"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "captain. Don't worry";
+msgctxt "Lady Amy#knt"
+msgid "captain. Don't worry"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "too much. It should";
+msgctxt "Lady Amy#knt"
+msgid "too much. It should"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "be okay.";
+msgctxt "Lady Amy#knt"
+msgid "be okay."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You still have";
+msgctxt "Lady Amy#knt"
+msgid "You still have"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "other tests to take.";
+msgctxt "Lady Amy#knt"
+msgid "other tests to take."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hurry and finish~";
+msgctxt "Lady Amy#knt"
+msgid "Hurry and finish~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Edmond]";
+msgctxt "Sir Edmond#knt"
+msgid "[Sir Edmond]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Think of your";
+msgctxt "Sir Edmond#knt"
+msgid "Think of your"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "mind as if it were";
+msgctxt "Sir Edmond#knt"
+msgid "mind as if it were"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "flowing water.";
+msgctxt "Sir Edmond#knt"
+msgid "flowing water."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Flowing water";
+msgctxt "Sir Edmond#knt"
+msgid "Flowing water"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "avoids obstacles,";
+msgctxt "Sir Edmond#knt"
+msgid "avoids obstacles,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "going on its way...";
+msgctxt "Sir Edmond#knt"
+msgid "going on its way..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Knights must be";
+msgctxt "Sir Edmond#knt"
+msgid "Knights must be"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "able to pass things,";
+msgctxt "Sir Edmond#knt"
+msgid "able to pass things,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "like calm water, in";
+msgctxt "Sir Edmond#knt"
+msgid "like calm water, in"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "any situation.";
+msgctxt "Sir Edmond#knt"
+msgid "any situation."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Trees with deep roots don't sway with the wind. The fact that powerful skills must be built on strong basics is immutable...";
+msgctxt "Sir Edmond#knt"
+msgid "Trees with deep roots don't sway with the wind. The fact that powerful skills must be built on strong basics is immutable..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Your future";
+msgctxt "Sir Edmond#knt"
+msgid "Your future"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "can even be";
+msgctxt "Sir Edmond#knt"
+msgid "can even be"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "decided now...";
+msgctxt "Sir Edmond#knt"
+msgid "decided now..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Everything in this world exists in harmony. Living without disrupting this harmony is the right way to live...";
+msgctxt "Sir Edmond#knt"
+msgid "Everything in this world exists in harmony. Living without disrupting this harmony is the right way to live..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Those with ominous thoughts will only dream such dreams. It's better to have no dreams at all than to have dreams of sadness and despair.";
+msgctxt "Sir Edmond#knt"
+msgid "Those with ominous thoughts will only dream such dreams. It's better to have no dreams at all than to have dreams of sadness and despair."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What is it...";
+msgctxt "Sir Edmond#knt"
+msgid "What is it..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Wandering Swordman?";
+msgctxt "Sir Edmond#knt"
+msgid "Wandering Swordman?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test to change jobs.", "Oh, nothing.") == 1) {
+msgctxt "Sir Edmond#knt"
+msgid "I would like to take the test to change jobs."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test to change jobs.", "Oh, nothing.") == 1) {
+msgctxt "Sir Edmond#knt"
+msgid "Oh, nothing."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A seed must first be nestled";
+msgctxt "Sir Edmond#knt"
+msgid "A seed must first be nestled"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "in the earth before the seed may sprout. Then, the sprout must grow leaves before its buds blossom into flowers...";
+msgctxt "Sir Edmond#knt"
+msgid "in the earth before the seed may sprout. Then, the sprout must grow leaves before its buds blossom into flowers..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "If not...";
+msgctxt "Sir Edmond#knt"
+msgid "If not..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The flower will";
+msgctxt "Sir Edmond#knt"
+msgid "The flower will"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "be incomplete.";
+msgctxt "Sir Edmond#knt"
+msgid "be incomplete."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Go to the others";
+msgctxt "Sir Edmond#knt"
+msgid "Go to the others"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "first, so that you";
+msgctxt "Sir Edmond#knt"
+msgid "first, so that you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "may find your path...";
+msgctxt "Sir Edmond#knt"
+msgid "may find your path..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The life that you";
+msgctxt "Sir Edmond#knt"
+msgid "The life that you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "want will soon be";
+msgctxt "Sir Edmond#knt"
+msgid "want will soon be"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "before your eyes.";
+msgctxt "Sir Edmond#knt"
+msgid "before your eyes."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Everything will";
+msgctxt "Sir Edmond#knt"
+msgid "Everything will"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "come in perfect";
+msgctxt "Sir Edmond#knt"
+msgid "come in perfect"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "order.";
+msgctxt "Sir Edmond#knt"
+msgid "order."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Wandering Swordman.";
+msgctxt "Sir Edmond#knt"
+msgid "Wandering Swordman."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("Lady Amy sent me.", "Oh, nothing.") == 1) {
+msgctxt "Sir Edmond#knt"
+msgid "Lady Amy sent me."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "It is now time to take my test. Please do your best, as you have done on the other tests.";
+msgctxt "Sir Edmond#knt"
+msgid "It is now time to take my test. Please do your best, as you have done on the other tests."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "My name is";
+msgctxt "Sir Edmond#knt"
+msgid "My name is"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Edmond Groster.";
+msgctxt "Sir Edmond#knt"
+msgid "Edmond Groster."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I am a member of";
+msgctxt "Sir Edmond#knt"
+msgid "I am a member of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the Prontera Chivalry.";
+msgctxt "Sir Edmond#knt"
+msgid "the Prontera Chivalry."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Knights are in the position for others to follow. Therefore, you must modestly think about the world's order and have the personality to fit the role you will play.";
+msgctxt "Sir Edmond#knt"
+msgid "Knights are in the position for others to follow. Therefore, you must modestly think about the world's order and have the personality to fit the role you will play."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You must not make careless decisions. Your will should bend as the reeds or be as firm as stone when the situation calls for it.";
+msgctxt "Sir Edmond#knt"
+msgid "You must not make careless decisions. Your will should bend as the reeds or be as firm as stone when the situation calls for it."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You must not kill monsters without reason and not take joy in doing so. Take this time to quietly think about this on your own...";
+msgctxt "Sir Edmond#knt"
+msgid "You must not kill monsters without reason and not take joy in doing so. Take this time to quietly think about this on your own..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Then, we shall";
+msgctxt "Sir Edmond#knt"
+msgid "Then, we shall"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "begin the test.";
+msgctxt "Sir Edmond#knt"
+msgid "begin the test."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Keep in mind";
+msgctxt "Sir Edmond#knt"
+msgid "Keep in mind"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the quality of";
+msgctxt "Sir Edmond#knt"
+msgid "the quality of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "reverence.";
+msgctxt "Sir Edmond#knt"
+msgid "reverence."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The life you want";
+msgctxt "Sir Edmond#knt"
+msgid "The life you want"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "will soon be before";
+msgctxt "Sir Edmond#knt"
+msgid "will soon be before"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "your eyes.";
+msgctxt "Sir Edmond#knt"
+msgid "your eyes."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I'm sorry, I didn't mean to...", "Oh, nothing.") == 1) {
+msgctxt "Sir Edmond#knt"
+msgid "I'm sorry, I didn't mean to..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You were too careless in the last test. A Knight's sword exists to protect others, not to torment weaker monsters.";
+msgctxt "Sir Edmond#knt"
+msgid "You were too careless in the last test. A Knight's sword exists to protect others, not to torment weaker monsters."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "In a world where everything exists in harmony, you can't have humans continuously destroying without purpose. This principle applies to the real world, not to this test alone.";
+msgctxt "Sir Edmond#knt"
+msgid "In a world where everything exists in harmony, you can't have humans continuously destroying without purpose. This principle applies to the real world, not to this test alone."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The test";
+msgctxt "Sir Edmond#knt"
+msgid "The test"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "shall begin.";
+msgctxt "Sir Edmond#knt"
+msgid "shall begin."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Show me your";
+msgctxt "Sir Edmond#knt"
+msgid "Show me your"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "patience...";
+msgctxt "Sir Edmond#knt"
+msgid "patience..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I have seen your character for myself. It is now time for you to take the last test. Go and speak";
+msgctxt "Sir Edmond#knt"
+msgid "I have seen your character for myself. It is now time for you to take the last test. Go and speak"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to Sir Gray...";
+msgctxt "Sir Edmond#knt"
+msgid "to Sir Gray..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Go and speak";
+msgctxt "Sir Edmond#knt"
+msgid "Go and speak"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to our captain.";
+msgctxt "Sir Edmond#knt"
+msgid "to our captain."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The time has come";
+msgctxt "Sir Edmond#knt"
+msgid "The time has come"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "for all of us to";
+msgctxt "Sir Edmond#knt"
+msgid "for all of us to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "evaluate your";
+msgctxt "Sir Edmond#knt"
+msgid "evaluate your"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "performance.";
+msgctxt "Sir Edmond#knt"
+msgid "performance."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "[Sir Gray]";
+msgctxt "Sir Gray#knt"
+msgid "[Sir Gray]"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The glint of light";
+msgctxt "Sir Gray#knt"
+msgid "The glint of light"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "that shines off this blade cannot be put into words. This is the weapon every Knight must have.";
+msgctxt "Sir Gray#knt"
+msgid "that shines off this blade cannot be put into words. This is the weapon every Knight must have."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Yes...";
+msgctxt "Sir Gray#knt"
+msgid "Yes..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "^3355FFClaymore^000000!";
+msgctxt "Sir Gray#knt"
+msgid "^3355FFClaymore^000000!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Every Knight";
+msgctxt "Sir Gray#knt"
+msgid "Every Knight"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "would want one!";
+msgctxt "Sir Gray#knt"
+msgid "would want one!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("About ^3355FFClaymore^000000", "Buy Claymore", "End Conversation")) {
+msgctxt "Sir Gray#knt"
+msgid "About ^3355FFClaymore^000000"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("About ^3355FFClaymore^000000", "Buy Claymore", "End Conversation")) {
+msgctxt "Sir Gray#knt"
+msgid "Buy Claymore"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("About ^3355FFClaymore^000000", "Buy Claymore", "End Conversation")) {
+msgctxt "Sir Gray#knt"
+msgid "End Conversation"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Claymore, one of the best among the famous swords you can attain in Rune-Midgarts's Prontera!! Its value is priceless when considered by a Knight.";
+msgctxt "Sir Gray#knt"
+msgid "Claymore, one of the best among the famous swords you can attain in Rune-Midgarts's Prontera!! Its value is priceless when considered by a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Now, the Prontera Chivalry is making these fabulous Claymores. For Knights, they are only ^3355FF74,000^000000 Zeny.";
+msgctxt "Sir Gray#knt"
+msgid "Now, the Prontera Chivalry is making these fabulous Claymores. For Knights, they are only ^3355FF74,000^000000 Zeny."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But not only that, you need";
+msgctxt "Sir Gray#knt"
+msgid "But not only that, you need"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "1 ^3355FFSteel^000000 because of the Claymore's characteristics. If you like, I can create one for you. For the honor of the Prontera Chivalry!";
+msgctxt "Sir Gray#knt"
+msgid "1 ^3355FFSteel^000000 because of the Claymore's characteristics. If you like, I can create one for you. For the honor of the Prontera Chivalry!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh no...";
+msgctxt "Sir Gray#knt"
+msgid "Oh no..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "It seems that you are carrying too many things. You don't have enough space for a heavy Claymore in your inventory.";
+msgctxt "Sir Gray#knt"
+msgid "It seems that you are carrying too many things. You don't have enough space for a heavy Claymore in your inventory."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Why don't you";
+msgctxt "Sir Gray#knt"
+msgid "Why don't you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "go and organize";
+msgctxt "Sir Gray#knt"
+msgid "go and organize"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "your items first.";
+msgctxt "Sir Gray#knt"
+msgid "your items first."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You are ready!";
+msgctxt "Sir Gray#knt"
+msgid "You are ready!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You must know the";
+msgctxt "Sir Gray#knt"
+msgid "You must know the"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "true value of";
+msgctxt "Sir Gray#knt"
+msgid "true value of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Claymore!";
+msgctxt "Sir Gray#knt"
+msgid "a Claymore!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I shall make";
+msgctxt "Sir Gray#knt"
+msgid "I shall make"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "it right now!!";
+msgctxt "Sir Gray#knt"
+msgid "it right now!!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The basics of";
+msgctxt "Sir Gray#knt"
+msgid "The basics of"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "making the Claymore";
+msgctxt "Sir Gray#knt"
+msgid "making the Claymore"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "is easy. Watch~!";
+msgctxt "Sir Gray#knt"
+msgid "is easy. Watch~!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "^3355FF*Stir Stir*^000000";
+msgctxt "Sir Gray#knt"
+msgid "^3355FF*Stir Stir*^000000"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "^3355FF*Ooncha Ooncha*^000000";
+msgctxt "Sir Gray#knt"
+msgid "^3355FF*Ooncha Ooncha*^000000"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Okay, it's ready!";
+msgctxt "Sir Gray#knt"
+msgid "Okay, it's ready!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Every Knight's pride:";
+msgctxt "Sir Gray#knt"
+msgid "Every Knight's pride:"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a fine ^3355FFClaymore^000000.";
+msgctxt "Sir Gray#knt"
+msgid "a fine ^3355FFClaymore^000000."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You attained a reliable item.";
+msgctxt "Sir Gray#knt"
+msgid "You attained a reliable item."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "It'll be a good companion on your adventures.";
+msgctxt "Sir Gray#knt"
+msgid "It'll be a good companion on your adventures."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I realize you may really want a Claymore, but I can't make it without the materials.";
+msgctxt "Sir Gray#knt"
+msgid "I realize you may really want a Claymore, but I can't make it without the materials."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "^3355FF74,000 zeny^000000 and ^3355FF1 Steel!^000000.";
+msgctxt "Sir Gray#knt"
+msgid "^3355FF74,000 zeny^000000 and ^3355FF1 Steel!^000000."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Come back when";
+msgctxt "Sir Gray#knt"
+msgid "Come back when"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you have everything";
+msgctxt "Sir Gray#knt"
+msgid "you have everything"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "ready. I shall be";
+msgctxt "Sir Gray#knt"
+msgid "ready. I shall be"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "waiting...";
+msgctxt "Sir Gray#knt"
+msgid "waiting..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Any Knight should be able to wield a Claymore as if it were an extension of their body. I used to look forward to brandishing my Claymore in battle...";
+msgctxt "Sir Gray#knt"
+msgid "Any Knight should be able to wield a Claymore as if it were an extension of their body. I used to look forward to brandishing my Claymore in battle..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Believe it";
+msgctxt "Sir Gray#knt"
+msgid "Believe it"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "or not, I was";
+msgctxt "Sir Gray#knt"
+msgid "or not, I was"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "once a Novice";
+msgctxt "Sir Gray#knt"
+msgid "once a Novice"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "as well.";
+msgctxt "Sir Gray#knt"
+msgid "as well."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I never really planned to become a Knight, but I did decide to become a strong person. Somehow, along my journeys, I ended up joining the Prontera Chivalry. Ha ha ha!";
+msgctxt "Sir Gray#knt"
+msgid "I never really planned to become a Knight, but I did decide to become a strong person. Somehow, along my journeys, I ended up joining the Prontera Chivalry. Ha ha ha!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Young one,";
+msgctxt "Sir Gray#knt"
+msgid "Young one,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "use your time";
+msgctxt "Sir Gray#knt"
+msgid "use your time"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "wisely.";
+msgctxt "Sir Gray#knt"
+msgid "wisely."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "No point in";
+msgctxt "Sir Gray#knt"
+msgid "No point in"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "harboring regret";
+msgctxt "Sir Gray#knt"
+msgid "harboring regret"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "once time has passed.";
+msgctxt "Sir Gray#knt"
+msgid "once time has passed."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh...";
+msgctxt "Sir Gray#knt"
+msgid "Oh..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "A young Swordman.";
+msgctxt "Sir Gray#knt"
+msgid "A young Swordman."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Yes, what can";
+msgctxt "Sir Gray#knt"
+msgid "Yes, what can"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I do for you?";
+msgctxt "Sir Gray#knt"
+msgid "I do for you?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test to change jobs.", "Oh, nothing.") == 1) {
+msgctxt "Sir Gray#knt"
+msgid "I would like to take the test to change jobs."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I would like to take the test to change jobs.", "Oh, nothing.") == 1) {
+msgctxt "Sir Gray#knt"
+msgid "Oh, nothing."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hoho, I see.";
+msgctxt "Sir Gray#knt"
+msgid "Hoho, I see."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "So you took";
+msgctxt "Sir Gray#knt"
+msgid "So you took"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "everyone else's";
+msgctxt "Sir Gray#knt"
+msgid "everyone else's"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "test?";
+msgctxt "Sir Gray#knt"
+msgid "test?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Then shall";
+msgctxt "Sir Gray#knt"
+msgid "Then shall"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "we begin mine?";
+msgctxt "Sir Gray#knt"
+msgid "we begin mine?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "It's not really";
+msgctxt "Sir Gray#knt"
+msgid "It's not really"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a test though.";
+msgctxt "Sir Gray#knt"
+msgid "a test though."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Let's talk";
+msgctxt "Sir Gray#knt"
+msgid "Let's talk"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "casually,";
+msgctxt "Sir Gray#knt"
+msgid "casually,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "shall we?";
+msgctxt "Sir Gray#knt"
+msgid "shall we?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "First...";
+msgctxt "Sir Gray#knt"
+msgid "First..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Why did you";
+msgctxt "Sir Gray#knt"
+msgid "Why did you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "decide to become";
+msgctxt "Sir Gray#knt"
+msgid "decide to become"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Knight?";
+msgctxt "Sir Gray#knt"
+msgid "a Knight?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Take care!";
+msgctxt "Sir Gray#knt"
+msgid "Take care!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah, you again.";
+msgctxt "Sir Gray#knt"
+msgid "Ah, you again."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What brings you";
+msgctxt "Sir Gray#knt"
+msgid "What brings you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to me?";
+msgctxt "Sir Gray#knt"
+msgid "to me?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# if (select("I've been thinking a lot.", "Oh, nothing.") == 1) {
+msgctxt "Sir Gray#knt"
+msgid "I've been thinking a lot."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Is that so...";
+msgctxt "Sir Gray#knt"
+msgid "Is that so..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I wonder if you";
+msgctxt "Sir Gray#knt"
+msgid "I wonder if you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "truly have...";
+msgctxt "Sir Gray#knt"
+msgid "truly have..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Then...";
+msgctxt "Sir Gray#knt"
+msgid "Then..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Like last time,";
+msgctxt "Sir Gray#knt"
+msgid "Like last time,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I will ask again...";
+msgctxt "Sir Gray#knt"
+msgid "I will ask again..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Health is";
+msgctxt "Sir Gray#knt"
+msgid "Health is"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "every man's";
+msgctxt "Sir Gray#knt"
+msgid "every man's"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "treasure!";
+msgctxt "Sir Gray#knt"
+msgid "treasure!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("To become stronger...", "To help my guild...", "Because I'm unsatisfied with myself right now...")) {
+msgctxt "Sir Gray#knt"
+msgid "To become stronger..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("To become stronger...", "To help my guild...", "Because I'm unsatisfied with myself right now...")) {
+msgctxt "Sir Gray#knt"
+msgid "To help my guild..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("To become stronger...", "To help my guild...", "Because I'm unsatisfied with myself right now...")) {
+msgctxt "Sir Gray#knt"
+msgid "Because I'm unsatisfied with myself right now..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "To become stronger, you say?";
+msgctxt "Sir Gray#knt"
+msgid "To become stronger, you say?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Yes, Knights are indeed strong.";
+msgctxt "Sir Gray#knt"
+msgid "Yes, Knights are indeed strong."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But why gain strength?";
+msgctxt "Sir Gray#knt"
+msgid "But why gain strength?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Is it to show off to others? To attain fame? Or do you have a diferent reason? What do you think is so good about gaining strength as a Knight?";
+msgctxt "Sir Gray#knt"
+msgid "Is it to show off to others? To attain fame? Or do you have a diferent reason? What do you think is so good about gaining strength as a Knight?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Gain wealth and fame.", "I can protect myself.", "I can protect others.")) {
+msgctxt "Sir Gray#knt"
+msgid "Gain wealth and fame."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Gain wealth and fame.", "I can protect myself.", "I can protect others.")) {
+msgctxt "Sir Gray#knt"
+msgid "I can protect myself."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Gain wealth and fame.", "I can protect myself.", "I can protect others.")) {
+msgctxt "Sir Gray#knt"
+msgid "I can protect others."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Of course, wealth and fame have their place in the world. But we as Knights must live for higher virtues.";
+msgctxt "Sir Gray#knt"
+msgid "Of course, wealth and fame have their place in the world. But we as Knights must live for higher virtues."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Good thinking. You must first be able to protect yourself in order to protect others. To this end, you must constantly train, and never give in to laziness.";
+msgctxt "Sir Gray#knt"
+msgid "Good thinking. You must first be able to protect yourself in order to protect others. To this end, you must constantly train, and never give in to laziness."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah, a wonderful idea. A Knight's strength must be used to protect the weak and defend righteousness.";
+msgctxt "Sir Gray#knt"
+msgid "Ah, a wonderful idea. A Knight's strength must be used to protect the weak and defend righteousness."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Sadly, there are a few Knights who shame us by forgetting the ideals that should be basic to Knighthood...";
+msgctxt "Sir Gray#knt"
+msgid "Sadly, there are a few Knights who shame us by forgetting the ideals that should be basic to Knighthood..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Ah, to help your guild, or maybe even your party. Our wise and benevolent King Tristram the 3rd gave us these golden words...";
+msgctxt "Sir Gray#knt"
+msgid "Ah, to help your guild, or maybe even your party. Our wise and benevolent King Tristram the 3rd gave us these golden words..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "^8B7500Beyond the calm river, lies a dangerous waterfall. Therefore, you must always be prepared for everything...^000000";
+msgctxt "Sir Gray#knt"
+msgid "^8B7500Beyond the calm river, lies a dangerous waterfall. Therefore, you must always be prepared for everything...^000000"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "So how do you";
+msgctxt "Sir Gray#knt"
+msgid "So how do you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "think you can";
+msgctxt "Sir Gray#knt"
+msgid "think you can"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "help your guild?";
+msgctxt "Sir Gray#knt"
+msgid "help your guild?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("My guild needs me.", "I can help gather funds for my guild.", "I can protect my guild members.")) {
+msgctxt "Sir Gray#knt"
+msgid "My guild needs me."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("My guild needs me.", "I can help gather funds for my guild.", "I can protect my guild members.")) {
+msgctxt "Sir Gray#knt"
+msgid "I can help gather funds for my guild."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("My guild needs me.", "I can help gather funds for my guild.", "I can protect my guild members.")) {
+msgctxt "Sir Gray#knt"
+msgid "I can protect my guild members."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Anyone, anywhere in this world,";
+msgctxt "Sir Gray#knt"
+msgid "Anyone, anywhere in this world,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "has a place where they are needed. Never neglect someone in need, even if he is not a guild member.";
+msgctxt "Sir Gray#knt"
+msgid "has a place where they are needed. Never neglect someone in need, even if he is not a guild member."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Of course wealth is important.";
+msgctxt "Sir Gray#knt"
+msgid "Of course wealth is important."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But we Knights must live for higher virtues.";
+msgctxt "Sir Gray#knt"
+msgid "But we Knights must live for higher virtues."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Satisfaction, you say.";
+msgctxt "Sir Gray#knt"
+msgid "Satisfaction, you say."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "It seems like you are";
+msgctxt "Sir Gray#knt"
+msgid "It seems like you are"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "already a fine Swordman.";
+msgctxt "Sir Gray#knt"
+msgid "already a fine Swordman."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Is there a particular reason you wish to be a Knight?";
+msgctxt "Sir Gray#knt"
+msgid "Is there a particular reason you wish to be a Knight?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I don't know about";
+msgctxt "Sir Gray#knt"
+msgid "I don't know about"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Swordmen, but Knights do not allow self-indulgence. There are those so obsessed with gaining strength that they cannot control themselves.";
+msgctxt "Sir Gray#knt"
+msgid "Swordmen, but Knights do not allow self-indulgence. There are those so obsessed with gaining strength that they cannot control themselves."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "So...";
+msgctxt "Sir Gray#knt"
+msgid "So..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What part of yourself";
+msgctxt "Sir Gray#knt"
+msgid "What part of yourself"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "are you not satisfied";
+msgctxt "Sir Gray#knt"
+msgid "are you not satisfied"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "with right now?";
+msgctxt "Sir Gray#knt"
+msgid "with right now?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Skills.", "Goal.", "Appearance.")) {
+msgctxt "Sir Gray#knt"
+msgid "Skills."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Skills.", "Goal.", "Appearance.")) {
+msgctxt "Sir Gray#knt"
+msgid "Goal."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Skills.", "Goal.", "Appearance.")) {
+msgctxt "Sir Gray#knt"
+msgid "Appearance."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Skill is something you gain with experience as a Knight. It cannot be your highest goal. Otherwise, you'll never be satisfied as a Knight.";
+msgctxt "Sir Gray#knt"
+msgid "Skill is something you gain with experience as a Knight. It cannot be your highest goal. Otherwise, you'll never be satisfied as a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I see...";
+msgctxt "Sir Gray#knt"
+msgid "I see..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Always having a goal is very important. You may be full of ideas upon becoming a Knight, but that may change with time.";
+msgctxt "Sir Gray#knt"
+msgid "Always having a goal is very important. You may be full of ideas upon becoming a Knight, but that may change with time."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What you see isn't what really counts. A Swordman may be stronger than a Knight, and even Knight may grow weak if he becomes lazy.";
+msgctxt "Sir Gray#knt"
+msgid "What you see isn't what really counts. A Swordman may be stronger than a Knight, and even Knight may grow weak if he becomes lazy."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I understand your thoughts,";
+msgctxt "Sir Gray#knt"
+msgid "I understand your thoughts,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "but there are those who wish to";
+msgctxt "Sir Gray#knt"
+msgid "but there are those who wish to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "become Knights without thinking.";
+msgctxt "Sir Gray#knt"
+msgid "become Knights without thinking."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Those are the ones who instigate problems and shame the honor of Knights, bringing irreversible results.";
+msgctxt "Sir Gray#knt"
+msgid "Those are the ones who instigate problems and shame the honor of Knights, bringing irreversible results."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "The same goes for you as well. Once you become a Knight, you can never become a Swordman again. The duties and responsibilities of a Knight will always be with you.";
+msgctxt "Sir Gray#knt"
+msgid "The same goes for you as well. Once you become a Knight, you can never become a Swordman again. The duties and responsibilities of a Knight will always be with you."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "If you become a Knight right away, what are you going to do first?";
+msgctxt "Sir Gray#knt"
+msgid "If you become a Knight right away, what are you going to do first?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("I am going to go straight to battle.", "There are those waiting for me.", "I will learn more about Knights.")) {
+msgctxt "Sir Gray#knt"
+msgid "I am going to go straight to battle."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("I am going to go straight to battle.", "There are those waiting for me.", "I will learn more about Knights.")) {
+msgctxt "Sir Gray#knt"
+msgid "There are those waiting for me."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("I am going to go straight to battle.", "There are those waiting for me.", "I will learn more about Knights.")) {
+msgctxt "Sir Gray#knt"
+msgid "I will learn more about Knights."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Battle...?";
+msgctxt "Sir Gray#knt"
+msgid "Battle...?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "And then?";
+msgctxt "Sir Gray#knt"
+msgid "And then?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("I will grow within a short period of time.", "I would like to test my ability as a Knight.", "I would like to go to more challenging places.")) {
+msgctxt "Sir Gray#knt"
+msgid "I will grow within a short period of time."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("I will grow within a short period of time.", "I would like to test my ability as a Knight.", "I would like to go to more challenging places.")) {
+msgctxt "Sir Gray#knt"
+msgid "I would like to test my ability as a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("I will grow within a short period of time.", "I would like to test my ability as a Knight.", "I would like to go to more challenging places.")) {
+msgctxt "Sir Gray#knt"
+msgid "I would like to go to more challenging places."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Don't be in too much of a hurry to become strong. Even if you become";
+msgctxt "Sir Gray#knt"
+msgid "Don't be in too much of a hurry to become strong. Even if you become"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "a Knight, you are still yourself.";
+msgctxt "Sir Gray#knt"
+msgid "a Knight, you are still yourself."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Testing yourself is a good thing. It's okay to be happy about how you change, but don't forget about the true qualities of being a Knight.";
+msgctxt "Sir Gray#knt"
+msgid "Testing yourself is a good thing. It's okay to be happy about how you change, but don't forget about the true qualities of being a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Even if you become a Knight, you are not changing your inner self. No need to overwork yourself.";
+msgctxt "Sir Gray#knt"
+msgid "Even if you become a Knight, you are not changing your inner self. No need to overwork yourself."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Relax and take things step by step.";
+msgctxt "Sir Gray#knt"
+msgid "Relax and take things step by step."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Who is";
+msgctxt "Sir Gray#knt"
+msgid "Who is"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "waiting for you?";
+msgctxt "Sir Gray#knt"
+msgid "waiting for you?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("My friends.", "My Guild members.", "My Lover.")) {
+msgctxt "Sir Gray#knt"
+msgid "My friends."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("My friends.", "My Guild members.", "My Lover.")) {
+msgctxt "Sir Gray#knt"
+msgid "My Guild members."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("My friends.", "My Guild members.", "My Lover.")) {
+msgctxt "Sir Gray#knt"
+msgid "My Lover."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I see, they would share in the joy of your achievements. Don't ever lose your kind heart, and always give help to your friends.";
+msgctxt "Sir Gray#knt"
+msgid "I see, they would share in the joy of your achievements. Don't ever lose your kind heart, and always give help to your friends."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Those who would share in your happiness and hardship. As a Knight, you must always protect them.";
+msgctxt "Sir Gray#knt"
+msgid "Those who would share in your happiness and hardship. As a Knight, you must always protect them."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh, youth!";
+msgctxt "Sir Gray#knt"
+msgid "Oh, youth!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Becoming a Knight";
+msgctxt "Sir Gray#knt"
+msgid "Becoming a Knight"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "for your beloved!";
+msgctxt "Sir Gray#knt"
+msgid "for your beloved!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Always protect "+ (Sex == SEX_MALE ? "her" : "him") +"...";
+msgctxt "Sir Gray#knt"
+msgid "Always protect "
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Always protect "+ (Sex == SEX_MALE ? "her" : "him") +"...";
+msgctxt "Sir Gray#knt"
+msgid "her"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Always protect "+ (Sex == SEX_MALE ? "her" : "him") +"...";
+msgctxt "Sir Gray#knt"
+msgid "him"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Always protect "+ (Sex == SEX_MALE ? "her" : "him") +"...";
+msgctxt "Sir Gray#knt"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Even at the sacrifice";
+msgctxt "Sir Gray#knt"
+msgid "Even at the sacrifice"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "of your own life!";
+msgctxt "Sir Gray#knt"
+msgid "of your own life!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Also...";
+msgctxt "Sir Gray#knt"
+msgid "Also..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Love them forever.";
+msgctxt "Sir Gray#knt"
+msgid "Love them forever."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Sincere affection";
+msgctxt "Sir Gray#knt"
+msgid "Sincere affection"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "is hard to find.";
+msgctxt "Sir Gray#knt"
+msgid "is hard to find."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Good attitude...";
+msgctxt "Sir Gray#knt"
+msgid "Good attitude..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What do you plan";
+msgctxt "Sir Gray#knt"
+msgid "What do you plan"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "on learning?";
+msgctxt "Sir Gray#knt"
+msgid "on learning?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Comfortable places for Knights to go...", "The different paths of a Knight...", "Ways to get more money as a Knight...")) {
+msgctxt "Sir Gray#knt"
+msgid "Comfortable places for Knights to go..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Comfortable places for Knights to go...", "The different paths of a Knight...", "Ways to get more money as a Knight...")) {
+msgctxt "Sir Gray#knt"
+msgid "The different paths of a Knight..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# switch(select("Comfortable places for Knights to go...", "The different paths of a Knight...", "Ways to get more money as a Knight...")) {
+msgctxt "Sir Gray#knt"
+msgid "Ways to get more money as a Knight..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "There are many places that are comfortable or uncomfortable in this world. However Knights must";
+msgctxt "Sir Gray#knt"
+msgid "There are many places that are comfortable or uncomfortable in this world. However Knights must"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "be able to survive anywhere.";
+msgctxt "Sir Gray#knt"
+msgid "be able to survive anywhere."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "There are many similar Knights outside in the world. Think of them as your seniors and ask many questions.";
+msgctxt "Sir Gray#knt"
+msgid "There are many similar Knights outside in the world. Think of them as your seniors and ask many questions."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh no. Do you hold wealth as a priority of being a Knight? We're not meant to be that way. Come again when you have thought";
+msgctxt "Sir Gray#knt"
+msgid "Oh no. Do you hold wealth as a priority of being a Knight? We're not meant to be that way. Come again when you have thought"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "more about it...";
+msgctxt "Sir Gray#knt"
+msgid "more about it..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Oh no, we've been";
+msgctxt "Sir Gray#knt"
+msgid "Oh no, we've been"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "talking too much...";
+msgctxt "Sir Gray#knt"
+msgid "talking too much..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I apologize for";
+msgctxt "Sir Gray#knt"
+msgid "I apologize for"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "keeping you here";
+msgctxt "Sir Gray#knt"
+msgid "keeping you here"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "for so long.";
+msgctxt "Sir Gray#knt"
+msgid "for so long."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I enjoyed talking with you. You remind me of myself as a young recruit. Shall we talk to the captain and decide on your";
+msgctxt "Sir Gray#knt"
+msgid "I enjoyed talking with you. You remind me of myself as a young recruit. Shall we talk to the captain and decide on your"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "job change?";
+msgctxt "Sir Gray#knt"
+msgid "job change?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Don't worry too";
+msgctxt "Sir Gray#knt"
+msgid "Don't worry too"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "much, I have a very";
+msgctxt "Sir Gray#knt"
+msgid "much, I have a very"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "high opinion of you.";
+msgctxt "Sir Gray#knt"
+msgid "high opinion of you."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Now, go~";
+msgctxt "Sir Gray#knt"
+msgid "Now, go~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I enjoyed speaking with you. You can think about the principles of Knighthood more once you become a Knight.";
+msgctxt "Sir Gray#knt"
+msgid "I enjoyed speaking with you. You can think about the principles of Knighthood more once you become a Knight."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Then, shall we go to the captain and decide on your job change? Don't worry too much. You are good enough to be a Knight!";
+msgctxt "Sir Gray#knt"
+msgid "Then, shall we go to the captain and decide on your job change? Don't worry too much. You are good enough to be a Knight!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I enjoyed talking with you. Although, there were some";
+msgctxt "Sir Gray#knt"
+msgid "I enjoyed talking with you. Although, there were some"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "things that bothered me...";
+msgctxt "Sir Gray#knt"
+msgid "things that bothered me..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "You should go";
+msgctxt "Sir Gray#knt"
+msgid "You should go"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to the captain";
+msgctxt "Sir Gray#knt"
+msgid "to the captain"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "so we can decide";
+msgctxt "Sir Gray#knt"
+msgid "so we can decide"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "on your job change.";
+msgctxt "Sir Gray#knt"
+msgid "on your job change."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Don't worry too much, coming to take my test means the others have acknowledged you as well.";
+msgctxt "Sir Gray#knt"
+msgid "Don't worry too much, coming to take my test means the others have acknowledged you as well."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Go now...!";
+msgctxt "Sir Gray#knt"
+msgid "Go now...!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Conversing";
+msgctxt "Sir Gray#knt"
+msgid "Conversing"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "with young ones";
+msgctxt "Sir Gray#knt"
+msgid "with young ones"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "is always enjoyable...";
+msgctxt "Sir Gray#knt"
+msgid "is always enjoyable..."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "But it seems as though your dream is elsewhere, or that your focus is hazy. Spend more time as a Swordman, and come back";
+msgctxt "Sir Gray#knt"
+msgid "But it seems as though your dream is elsewhere, or that your focus is hazy. Spend more time as a Swordman, and come back"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to me later.";
+msgctxt "Sir Gray#knt"
+msgid "to me later."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "If you truly wish to become a Knight, you must change your outlook first. Then, we shall see.";
+msgctxt "Sir Gray#knt"
+msgid "If you truly wish to become a Knight, you must change your outlook first. Then, we shall see."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I told you";
+msgctxt "Sir Gray#knt"
+msgid "I told you"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to go to";
+msgctxt "Sir Gray#knt"
+msgid "to go to"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "the captain.";
+msgctxt "Sir Gray#knt"
+msgid "the captain."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Everyone will";
+msgctxt "Sir Gray#knt"
+msgid "Everyone will"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "carefully make";
+msgctxt "Sir Gray#knt"
+msgid "carefully make"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "their decision,";
+msgctxt "Sir Gray#knt"
+msgid "their decision,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "so go now!";
+msgctxt "Sir Gray#knt"
+msgid "so go now!"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "What can I do for you?";
+msgctxt "Sir Gray#knt"
+msgid "What can I do for you?"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Hoho~";
+msgctxt "Sir Gray#knt"
+msgid "Hoho~"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "There are many";
+msgctxt "Sir Gray#knt"
+msgid "There are many"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "other younger";
+msgctxt "Sir Gray#knt"
+msgid "other younger"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "Knights in here.";
+msgctxt "Sir Gray#knt"
+msgid "Knights in here."
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "If you talk";
+msgctxt "Sir Gray#knt"
+msgid "If you talk"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "to all of them,";
+msgctxt "Sir Gray#knt"
+msgid "to all of them,"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "I may review";
+msgctxt "Sir Gray#knt"
+msgid "I may review"
+msgstr ""
+
+#: npc/jobs/2-1/knight.txt
+# mes "you as well.";
+msgctxt "Sir Gray#knt"
+msgid "you as well."
+msgstr ""

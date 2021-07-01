@@ -1,0 +1,80 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/custom/ragnaberry/pack_inicial.txt
+# mes "Olá ^0000FF"+strcharinfo(0)+"^000000 seja bem-vindo(a) ao rBerry.";
+msgctxt "Pack Iniciante"
+msgid "Olá ^0000FF"
+msgstr ""
+
+#: npc/custom/ragnaberry/pack_inicial.txt
+# mes "Você gostaria de receber seu Pack Iniciante?";
+msgctxt "Pack Iniciante"
+msgid "Você gostaria de receber seu Pack Iniciante?"
+msgstr ""
+
+#: npc/custom/ragnaberry/pack_inicial.txt
+# mes "^FF0000Atenção! Verifique seu peso, caso contrário seus itens irão cair no chão.^000000";
+msgctxt "Pack Iniciante"
+msgid "^FF0000Atenção! Verifique seu peso, caso contrário seus itens irão cair no chão.^000000"
+msgstr ""
+
+#: npc/custom/ragnaberry/pack_inicial.txt
+# if(select("- Sim:- Não")==2)close;
+msgctxt "Pack Iniciante"
+msgid "- Sim:- Não"
+msgstr ""
+
+#: npc/custom/ragnaberry/pack_inicial.txt
+# mes "Parabéns ^FF0000"+strcharinfo(0)+"^000000 você recebeu seu Pack Iniciante";
+msgctxt "Pack Iniciante"
+msgid "Parabéns ^FF0000"
+msgstr ""
+
+#: npc/custom/ragnaberry/pack_inicial.txt
+# mes "Divirta-se em nosso servidor...";
+msgctxt "Pack Iniciante"
+msgid "Divirta-se em nosso servidor..."
+msgstr ""
+
+#: npc/custom/ragnaberry/pack_inicial.txt
+# mes "Você recebeu o Pack Iniciante Recentemente.";
+msgctxt "Pack Iniciante"
+msgid "Você recebeu o Pack Iniciante Recentemente."
+msgstr ""
+
+#: npc/custom/ragnaberry/pack_inicial.txt
+# mes "Sua Conta já recebeu o Pack Iniciante.";
+msgctxt "Pack Iniciante"
+msgid "Sua Conta já recebeu o Pack Iniciante."
+msgstr ""

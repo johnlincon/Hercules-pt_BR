@@ -1,0 +1,608 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/events/god_se_festival.txt
+# mes "[Festival Manager]";
+msgctxt "Festival Manager#gq_fes0"
+msgid "[Festival Manager]"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "I am the festival NPC manager for the God SE quest.";
+msgctxt "Festival Manager#gq_fes0"
+msgid "I am the festival NPC manager for the God SE quest."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Please enter your password.";
+msgctxt "Festival Manager#gq_fes0"
+msgid "Please enter your password."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Password is incorrect.";
+msgctxt "Festival Manager#gq_fes0"
+msgid "Password is incorrect."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "What would you like to do?";
+msgctxt "Festival Manager#gq_fes0"
+msgid "What would you like to do?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("Disable festival NPCs", "Enable festival NPCs")) {
+msgctxt "Festival Manager#gq_fes0"
+msgid "Disable festival NPCs"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("Disable festival NPCs", "Enable festival NPCs")) {
+msgctxt "Festival Manager#gq_fes0"
+msgid "Enable festival NPCs"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Ending festivals and disabling NPCs.";
+msgctxt "Festival Manager#gq_fes0"
+msgid "Ending festivals and disabling NPCs."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Resetting festivals and enabling NPCs.";
+msgctxt "Festival Manager#gq_fes0"
+msgid "Resetting festivals and enabling NPCs."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "[Rmimi Ravies]";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "[Rmimi Ravies]"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "This is the flower.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "This is the flower."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "This is just a formality, but let me check your qualifications.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "This is just a formality, but let me check your qualifications."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Your qualification is verified as a Guild master.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Your qualification is verified as a Guild master."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "I wonder if you know what this flower's use is... Let me explain it to you.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "I wonder if you know what this flower's use is... Let me explain it to you."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "This is the holy flower given by the Wish Maiden in Valkyrie, it can summon certain monsters by certain summoners.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "This is the holy flower given by the Wish Maiden in Valkyrie, it can summon certain monsters by certain summoners."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "There are only two summoners in this world...";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "There are only two summoners in this world..."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Me and my sister Rhehe...";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Me and my sister Rhehe..."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "We are totllly different, but we can...";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "We are totllly different, but we can..."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "...................................";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "..................................."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Anyway,";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Anyway,"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Do you want to summon monsters?";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Do you want to summon monsters?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("Do not summon", "Summon, please")) {
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Do not summon"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("Do not summon", "Summon, please")) {
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Summon, please"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "I don't like to be interrupted by others..";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "I don't like to be interrupted by others.."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "But it's just business.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "But it's just business."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "I will explain to you how to summon monsters.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "I will explain to you how to summon monsters."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "This flower can summon the monsters 'Valkyrie's Blessing' and 'Valkyrie's Present' for one hour here in Juno.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "This flower can summon the monsters 'Valkyrie's Blessing' and 'Valkyrie's Present' for one hour here in Juno."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "An announcement will be made stating which monster is summoned.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "An announcement will be made stating which monster is summoned."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "This festival is given by the Wish maiden for all adventurers to enjoy all over the world.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "This festival is given by the Wish maiden for all adventurers to enjoy all over the world."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Now, are you ready to summon monsters?";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Now, are you ready to summon monsters?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("No, I'm not ready now.", "Yes! I'm ready for that.")) {
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "No, I'm not ready now."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("No, I'm not ready now.", "Yes! I'm ready for that.")) {
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Yes! I'm ready for that."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "If you are not ready, why did you come to me?";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "If you are not ready, why did you come to me?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "I'll be waiting until you are ready.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "I'll be waiting until you are ready."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "It is just business afterall.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "It is just business afterall."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Now we are ready.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Now we are ready."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Ok, we would ge started to summon monsters.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Ok, we would ge started to summon monsters."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Have a good time.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Have a good time."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "It seems that a Valkyrie's Blessing summoning ritual is already in progress elsewhere.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "It seems that a Valkyrie's Blessing summoning ritual is already in progress elsewhere."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Please try again later.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Please try again later."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "It seems you are not worthy.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "It seems you are not worthy."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "I don't know how you obtained that flower, but if you're not capable of leading others.. then you cannot continue.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "I don't know how you obtained that flower, but if you're not capable of leading others.. then you cannot continue."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Too tough?";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Too tough?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Well, what can you do, that's part of the job.";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Well, what can you do, that's part of the job."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Don't you have any voucher?";
+msgctxt "Rmimi Ravies#gq_fes01"
+msgid "Don't you have any voucher?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "[Festival Manager]";
+msgctxt "Festival Manager#gq_fes2"
+msgid "[Festival Manager]"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "I am the festival NPC manager for the God SE quest.";
+msgctxt "Festival Manager#gq_fes2"
+msgid "I am the festival NPC manager for the God SE quest."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Please enter your password.";
+msgctxt "Festival Manager#gq_fes2"
+msgid "Please enter your password."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Password is incorrect.";
+msgctxt "Festival Manager#gq_fes2"
+msgid "Password is incorrect."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "What would you like to do?";
+msgctxt "Festival Manager#gq_fes2"
+msgid "What would you like to do?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("Disable festival NPCs", "Enable festival NPCs")) {
+msgctxt "Festival Manager#gq_fes2"
+msgid "Disable festival NPCs"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("Disable festival NPCs", "Enable festival NPCs")) {
+msgctxt "Festival Manager#gq_fes2"
+msgid "Enable festival NPCs"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Ending festivals and disabling NPCs.";
+msgctxt "Festival Manager#gq_fes2"
+msgid "Ending festivals and disabling NPCs."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Resetting festivals and enabling NPCs.";
+msgctxt "Festival Manager#gq_fes2"
+msgid "Resetting festivals and enabling NPCs."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "[Rhehe Ravies]";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "[Rhehe Ravies]"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "A flower!!";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "A flower!!"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Shall we proceed?";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Shall we proceed?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Eeeeh, so young and yet you're a guild master? Your guildsmen must be jealous.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Eeeeh, so young and yet you're a guild master? Your guildsmen must be jealous."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "[Reumimi Ravies]";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "[Reumimi Ravies]"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "I'm not sure if you understand the uses for that flower, so I'll briefly explain.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "I'm not sure if you understand the uses for that flower, so I'll briefly explain."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "That flower has been passed down as a gift from the Valkyrie Wish Maiden herself.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "That flower has been passed down as a gift from the Valkyrie Wish Maiden herself."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "It may be used to summon special monsters through summoners in special areas.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "It may be used to summon special monsters through summoners in special areas."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "There are only two summoners in existence who are capable of using that flower.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "There are only two summoners in existence who are capable of using that flower."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "One is me, and the other is my twin sister Reumimi.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "One is me, and the other is my twin sister Reumimi."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Twin sisters, but we do not have much alike, little fingers in front of you ...";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Twin sisters, but we do not have much alike, little fingers in front of you ..."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "..................................";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid ".................................."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes ".....Oops! I wasn't supposed to tell anyone...";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid ".....Oops! I wasn't supposed to tell anyone..."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "... Hehehe, anyways let's move on.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "... Hehehe, anyways let's move on."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "So do you wish to summon or not!?";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "So do you wish to summon or not!?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("Do not summon", "Summon")) {
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Do not summon"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("Do not summon", "Summon")) {
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Summon"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "...*Cries*.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "...*Cries*."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "If you've got no business with me, please don't start a conversation.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "If you've got no business with me, please don't start a conversation."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "If it were my sister, she would've humiliated you for it.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "If it were my sister, she would've humiliated you for it."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Okay then, I'll explain a little about the summoning ritual.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Okay then, I'll explain a little about the summoning ritual."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Here in Yuno, the summoning ritual through the use of that flower will summon Valkyrie's Blessing and Valkyrie's Gift.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Here in Yuno, the summoning ritual through the use of that flower will summon Valkyrie's Blessing and Valkyrie's Gift."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "The effects of the summoning ritual will last approximately one hour.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "The effects of the summoning ritual will last approximately one hour."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "During the summoning ritual, continuous broadcasts will be made.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "During the summoning ritual, continuous broadcasts will be made."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "It is a courtesy of the Valkyrie Wish Maiden, in order to unite adventurers from all over to participate in the festival.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "It is a courtesy of the Valkyrie Wish Maiden, in order to unite adventurers from all over to participate in the festival."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Are you ready to begin the summoning ritual~?";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Are you ready to begin the summoning ritual~?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("No, not yet.", "Yes! I'm ready!")) {
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "No, not yet."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# switch(select("No, not yet.", "Yes! I'm ready!")) {
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Yes! I'm ready!"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "You're not even ready, why bother talking to me?";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "You're not even ready, why bother talking to me?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Oh well, if you've got other things to do then I'll wait.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Oh well, if you've got other things to do then I'll wait."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "After all, that's also part of my job.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "After all, that's also part of my job."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Very well, then I will check for a reasonable time to begin the summoning ritual.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Very well, then I will check for a reasonable time to begin the summoning ritual."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Good! Now seems like a good time, so let's begin!";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Good! Now seems like a good time, so let's begin!"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "I hope you enjoy yourself!";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "I hope you enjoy yourself!"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "*Cries*";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "*Cries*"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "It doesn't seem like now is a good time.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "It doesn't seem like now is a good time."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Please try again later.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Please try again later."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "...Seems like you're not in a worthy position for me to talk to?";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "...Seems like you're not in a worthy position for me to talk to?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "I don't know how you obtained that flower, but if you're not capable of leading others.. then you cannot continue.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "I don't know how you obtained that flower, but if you're not capable of leading others.. then you cannot continue."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Too tough?";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Too tough?"
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Well, what can you do, that's part of the job.";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Well, what can you do, that's part of the job."
+msgstr ""
+
+#: npc/events/god_se_festival.txt
+# mes "Don't you have anything to give me to prove yourself?";
+msgctxt "Rhehe Ravies#gq_fes03"
+msgid "Don't you have anything to give me to prove yourself?"
+msgstr ""

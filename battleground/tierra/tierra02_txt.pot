@@ -1,0 +1,636 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/battleground/tierra/tierra02.txt
+# bg_monster($@TierraBG2_id1, "bat_a02", 177, 345, _("Food Storage"), 1909, "OBJ#bat_a02_a::OnMyMobDead");
+msgctxt "OBJ#bat_a02_a"
+msgid "Food Storage"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Croix Vintenar Swandery: We destroyed Guillaume's Food Storage. We won that! Wow!"), bc_map, "0xFFCE00");
+msgctxt "OBJ#bat_a02_a"
+msgid "Croix Vintenar Swandery: We destroyed Guillaume's Food Storage. We won that! Wow!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# bg_monster($@TierraBG2_id2, "bat_a02", 167, 50, _("Food Depot"), 1910, "OBJ#bat_a02_b::OnMyMobDead");
+msgctxt "OBJ#bat_a02_b"
+msgid "Food Depot"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Guillaume Vintenar Axl Rose : We destroyed Croix's Food Storage. We won that! Wow!"), bc_map, "0xFFCE00");
+msgctxt "OBJ#bat_a02_b"
+msgid "Guillaume Vintenar Axl Rose : We destroyed Croix's Food Storage. We won that! Wow!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# bg_monster($@TierraBG2_id1, "bat_a02", .@i, 266, _("Barricade"), 1906, "barricade#bat_a02_a::OnMyMobDead");
+msgctxt "barricade#bat_a02_a"
+msgid "Barricade"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Guillaume Vintenar Axl Rose : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to rebuild the Barricade!"), bc_map, "0xFFCE00");
+msgctxt "barricade#bat_a02_a"
+msgid "Guillaume Vintenar Axl Rose : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to rebuild the Barricade!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# bg_monster($@TierraBG2_id2, "bat_a02", .@i, 129, _("Barricade"), 1906, "barricade#bat_a02_b::OnMyMobDead");
+msgctxt "barricade#bat_a02_b"
+msgid "Barricade"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Croix Vintenar Swandery : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to rebuild the Barricade!"), bc_map, "0xFFCE00");
+msgctxt "barricade#bat_a02_b"
+msgid "Croix Vintenar Swandery : The Barricade in the valley has been destroyed! Where's the Blacksmith? We need to rebuild the Barricade!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# monster("bat_a02", 273, 203, _("Neutrality Flag"), 1911, 1, "OBJ#bat_a02_n::OnMyMobDead");
+msgctxt "OBJ#bat_a02_n"
+msgid "Neutrality Flag"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Guillaume captured a Neutrality Flag, so they have an advantage."), bc_map, "0xFFCE00");
+msgctxt "OBJ#bat_a02_n"
+msgid "Guillaume captured a Neutrality Flag, so they have an advantage."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Croix captured a Neutrality Flag, so they have an advantage."), bc_map, "0xFFCE00");
+msgctxt "OBJ#bat_a02_n"
+msgid "Croix captured a Neutrality Flag, so they have an advantage."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# bg_monster($@TierraBG2_id1, "bat_a02", 272, 204, _("Guillaume Camp Guardian"), 1949, "NOBJ_mob#bat_a02_a::OnMyMobDead");
+msgctxt "NOBJ_mob#bat_a02_a"
+msgid "Guillaume Camp Guardian"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# bg_monster($@TierraBG2_id2, "bat_a02", 272, 204, _("Croix Camp Guardian"), 1949, "NOBJ_mob#bat_a02_a::OnMyMobDead");
+msgctxt "NOBJ_mob#bat_a02_b"
+msgid "Croix Camp Guardian"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("[Guillaume Blacksmith]");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "[Guillaume Blacksmith]"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("We are in urgency! The Barricade has been destroyed!");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "We are in urgency! The Barricade has been destroyed!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 Gold.^000000");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 Gold.^000000"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("We have it all except for the 50 Stones!");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "We have it all except for the 50 Stones!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# switch(select("Repair.", "Leave it.")) {
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Repair."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# switch(select("Repair.", "Leave it.")) {
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Leave it."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("You brought enough stones! Let's go and repair.");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "You brought enough stones! Let's go and repair."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("..");
+msgctxt "Guillaume Blacksmith#a02"
+msgid ".."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("....");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "...."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("......");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "......"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("........");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "........"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("..........");
+msgctxt "Guillaume Blacksmith#a02"
+msgid ".........."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("............");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "............"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("..............");
+msgctxt "Guillaume Blacksmith#a02"
+msgid ".............."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Combine Stones and Gold in the proper percentage.");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Combine Stones and Gold in the proper percentage."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade.");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger.");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Now decorate with Metal Fragments.");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Now decorate with Metal Fragments."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Wow! It's done.");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "Wow! It's done."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("We are relieved.");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "We are relieved."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("You don't have enough Stones!");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "You don't have enough Stones!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("^3131FFWe need 50 Stones.^000000");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "^3131FFWe need 50 Stones.^000000"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("We are busy, so please hurry.");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "We are busy, so please hurry."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("There are enemies coming! Let's evacuate from here!");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "There are enemies coming! Let's evacuate from here!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("There the enemy is coming!");
+msgctxt "Guillaume Blacksmith#a02"
+msgid "There the enemy is coming!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("[Croix Blacksmith]");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "[Croix Blacksmith]"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("We are in urgency! The Barricade has been destroyed!");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "We are in urgency! The Barricade has been destroyed!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 Gold.^000000");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "We can repair the Barricade with ^3131FF50 Stones, 3 Sinew of Bear, 500 Metal Fragments, 30 Rough Elunium and 100 Gold.^000000"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("We have it all except for the 50 Stones!");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "We have it all except for the 50 Stones!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# switch(select("Repair.", "Leave it.")) {
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Repair."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# switch(select("Repair.", "Leave it.")) {
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Leave it."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("You brought enough stones! Let's go and repair.");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "You brought enough stones! Let's go and repair."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("..");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid ".."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("....");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "...."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("......");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "......"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("........");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "........"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("..........");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid ".........."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("............");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "............"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("..............");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid ".............."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Combine Stones and Gold in the proper percentage.");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Combine Stones and Gold in the proper percentage."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade.");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger.");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Now decorate with Metal Fragments.");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Now decorate with Metal Fragments."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Combine Stones and Gold in the proper percentage and shape the Barricade, then add Rough Elunium to make it stronger. Decorate with Metal Fragments, and plait stones with Sinew of Bear!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Wow! It's done.");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "Wow! It's done."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("We are relieved.");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "We are relieved."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("You don't have enough Stones!");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "You don't have enough Stones!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("^3131FFWe need 50 Stone.^000000");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "^3131FFWe need 50 Stone.^000000"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("We are busy, so please hurry.");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "We are busy, so please hurry."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("There are enemies coming! Let's evacuate from here!");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "There are enemies coming! Let's evacuate from here!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("There, the enemy is coming!");
+msgctxt "Croix Blacksmith#bat_a02"
+msgid "There, the enemy is coming!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("[Battle Therapist]");
+msgctxt "Battle Therapist#a02_a"
+msgid "[Battle Therapist]"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Just close your eyes,\r"
+msgctxt "Battle Therapist#a02_a"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("You can be free from pain.");
+msgctxt "Battle Therapist#a02_a"
+msgid "You can be free from pain."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("[Battle Therapist]");
+msgctxt "Battle Therapist#a02_b"
+msgid "[Battle Therapist]"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Just close your eyes,\r"
+msgctxt "Battle Therapist#a02_b"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("You can be free from pain.");
+msgctxt "Battle Therapist#a02_b"
+msgid "You can be free from pain."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("[Valley Ghost]");
+msgctxt "Valley Ghost#bat_a02_n"
+msgid "[Valley Ghost]"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Boo...Boo...");
+msgctxt "Valley Ghost#bat_a02_n"
+msgid "Boo...Boo..."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("[Axl Rose]");
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "[Axl Rose]"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Blessed Guillaume!");
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "Blessed Guillaume!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Let's enjoy our glorious victory!");
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("You lost, but you're dedicated to this battle.");
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "You lost, but you're dedicated to this battle."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Just take this defeat as a lesson, and next time you will definitely win.");
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "Just take this defeat as a lesson, and next time you will definitely win."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mesf("%s, it's a sign of victory.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Guillaume Vintenar#a02_a"
+msgid "%s, it's a sign of victory."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("[Swandery]");
+msgctxt "Croix Vintenar#a02_b"
+msgid "[Swandery]"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Blessed Croix!");
+msgctxt "Croix Vintenar#a02_b"
+msgid "Blessed Croix!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Let's enjoy our glorious victory!");
+msgctxt "Croix Vintenar#a02_b"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Croix Vintenar#a02_b"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mesf("Oh, %s Don't be sad.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Croix Vintenar#a02_b"
+msgid "Oh, %s Don't be sad."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Even though we didn't win, we did our best.");
+msgctxt "Croix Vintenar#a02_b"
+msgid "Even though we didn't win, we did our best."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+msgctxt "Croix Vintenar#a02_b"
+msgid "This is a Royal gift from Croix, and please don't forget this battle. We will win the next one."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Guillaume Vintenar Axl Rose : Let's attack to burn down Croix's Food Depot!"), bc_map, "0xFF9900");
+msgctxt "countdown#bat_a02"
+msgid "Guillaume Vintenar Axl Rose : Let's attack to burn down Croix's Food Depot!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Croix Vintenar Swandery : Master of Valhalla! Let us be gifted with unfailing faith and courage!"), bc_map, "0xFF99CC");
+msgctxt "countdown#bat_a02"
+msgid "Croix Vintenar Swandery : Master of Valhalla! Let us be gifted with unfailing faith and courage!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Marollo VII : Guillaume Marollo, Croix Marollo! Marollo followers!"), bc_map, "0x99CC00");
+msgctxt "countdown#bat_a02"
+msgid "Marollo VII : Guillaume Marollo, Croix Marollo! Marollo followers!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Marollo VII : Both camps are competitive, so no camp would be destroyed easily. That means the Marollo kingdoms will never be defeated!"), bc_map, "0x99CC00");
+msgctxt "countdown#bat_a02"
+msgid "Marollo VII : Both camps are competitive, so no camp would be destroyed easily. That means the Marollo kingdoms will never be defeated!"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Marollo VII : I think we'd better terminate the battle, and call it a draw."), bc_map, "0x99CC00");
+msgctxt "countdown#bat_a02"
+msgid "Marollo VII : I think we'd better terminate the battle, and call it a draw."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Marollo VII : Hold your royalty and faith for a moment, and let's settle up the battle of Tierra Gorge."), bc_map, "0x99CC00");
+msgctxt "countdown#bat_a02"
+msgid "Marollo VII : Hold your royalty and faith for a moment, and let's settle up the battle of Tierra Gorge."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mapannounce("bat_a02", _("Axl Rose, Swandery : Yes sir."), bc_map, "0x99CC00");
+msgctxt "countdown#bat_a02"
+msgid "Axl Rose, Swandery : Yes sir."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Cancelled.");
+msgctxt "Release all#a02"
+msgid "Cancelled."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("May I help you?");
+msgctxt "Release all#a02"
+msgid "May I help you?"
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# switch(select("Release all.", "Cancel.")) {
+msgctxt "Release all#a02"
+msgid "Release all."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# switch(select("Release all.", "Cancel.")) {
+msgctxt "Release all#a02"
+msgid "Cancel."
+msgstr ""
+
+#: npc/battleground/tierra/tierra02.txt
+# mes("Bye.");
+msgctxt "Release all#a02"
+msgid "Bye."
+msgstr ""

@@ -1,0 +1,4322 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/merchants/hair_style.txt
+# mes "[Veronica]";
+msgctxt "Hair Dresser"
+msgid "[Veronica]"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Welcome to Veronica's hair salon.";
+msgctxt "Hair Dresser"
+msgid "Welcome to Veronica's hair salon."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "How can I help you?";
+msgctxt "Hair Dresser"
+msgid "How can I help you?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("See available hair styles.", "Change hair style.", "End conversation.")) {
+msgctxt "Hair Dresser"
+msgid "See available hair styles."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("See available hair styles.", "Change hair style.", "End conversation.")) {
+msgctxt "Hair Dresser"
+msgid "Change hair style."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("See available hair styles.", "Change hair style.", "End conversation.")) {
+msgctxt "Hair Dresser"
+msgid "End conversation."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "We have a total of 19 styles, available from no.1 to no.19.";
+msgctxt "Hair Dresser"
+msgid "We have a total of 19 styles, available from no.1 to no.19."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Which one do you want to see?";
+msgctxt "Hair Dresser"
+msgid "Which one do you want to see?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "If you wish to cancel,";
+msgctxt "Hair Dresser"
+msgid "If you wish to cancel,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "please enter 0.";
+msgctxt "Hair Dresser"
+msgid "please enter 0."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "So, how do you like the style?";
+msgctxt "Hair Dresser"
+msgid "So, how do you like the style?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Feel free to ask me about any";
+msgctxt "Hair Dresser"
+msgid "Feel free to ask me about any"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "available hairstyle. It will";
+msgctxt "Hair Dresser"
+msgid "available hairstyle. It will"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "be my pleasure to style your";
+msgctxt "Hair Dresser"
+msgid "be my pleasure to style your"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hair.";
+msgctxt "Hair Dresser"
+msgid "hair."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oops, I'm sorry, but that";
+msgctxt "Hair Dresser"
+msgid "Oops, I'm sorry, but that"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "style is not available.";
+msgctxt "Hair Dresser"
+msgid "style is not available."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Remember to enter a number";
+msgctxt "Hair Dresser"
+msgid "Remember to enter a number"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "from 1 to 19.";
+msgctxt "Hair Dresser"
+msgid "from 1 to 19."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Play Dead' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Play Dead' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's a nice, basic haircut.";
+msgctxt "Hair Dresser"
+msgid "It's a nice, basic haircut."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I notice that usually the";
+msgctxt "Hair Dresser"
+msgid "I notice that usually the"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "cute, conversative types seem";
+msgctxt "Hair Dresser"
+msgid "cute, conversative types seem"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "to prefer this style.";
+msgctxt "Hair Dresser"
+msgid "to prefer this style."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'First Aid' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'First Aid' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The shoulder length tresses";
+msgctxt "Hair Dresser"
+msgid "The shoulder length tresses"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "are straightened for those";
+msgctxt "Hair Dresser"
+msgid "are straightened for those"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "no nonsense adventurers. It";
+msgctxt "Hair Dresser"
+msgid "no nonsense adventurers. It"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "seems to be the style of";
+msgctxt "Hair Dresser"
+msgid "seems to be the style of"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "choice for Novices.";
+msgctxt "Hair Dresser"
+msgid "choice for Novices."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's the 'Two Handed Sword";
+msgctxt "Hair Dresser"
+msgid "Oh, that's the 'Two Handed Sword"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Mastery' style! It's perfect for";
+msgctxt "Hair Dresser"
+msgid "Mastery' style! It's perfect for"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "for Swordmen who might muss their";
+msgctxt "Hair Dresser"
+msgid "for Swordmen who might muss their"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hair while swinging their swords";
+msgctxt "Hair Dresser"
+msgid "hair while swinging their swords"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "all day long.";
+msgctxt "Hair Dresser"
+msgid "all day long."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Bash' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Bash' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "For the powerful woman that's";
+msgctxt "Hair Dresser"
+msgid "For the powerful woman that's"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "not afraid to get a little";
+msgctxt "Hair Dresser"
+msgid "not afraid to get a little"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "blood on her hands, but knows";
+msgctxt "Hair Dresser"
+msgid "blood on her hands, but knows"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "how great her hair will look";
+msgctxt "Hair Dresser"
+msgid "how great her hair will look"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "while wildly flailing a sword.";
+msgctxt "Hair Dresser"
+msgid "while wildly flailing a sword."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Napalm Beat' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Napalm Beat' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's a unique look with a hint";
+msgctxt "Hair Dresser"
+msgid "It's a unique look with a hint"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "of eccentricity that's offset";
+msgctxt "Hair Dresser"
+msgid "of eccentricity that's offset"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "with a helping of elegance.";
+msgctxt "Hair Dresser"
+msgid "with a helping of elegance."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Frost Diver' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Frost Diver' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The pigtails lend an innocent,";
+msgctxt "Hair Dresser"
+msgid "The pigtails lend an innocent,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "demure look for those Mages";
+msgctxt "Hair Dresser"
+msgid "demure look for those Mages"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "and Wizards that usually scare";
+msgctxt "Hair Dresser"
+msgid "and Wizards that usually scare"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "off the boys with their spells.";
+msgctxt "Hair Dresser"
+msgid "off the boys with their spells."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's the 'Double Strafe'";
+msgctxt "Hair Dresser"
+msgid "Oh, that's the 'Double Strafe'"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "style! The arrangement of the";
+msgctxt "Hair Dresser"
+msgid "style! The arrangement of the"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hair conducts ambient static";
+msgctxt "Hair Dresser"
+msgid "hair conducts ambient static"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "electricity, naturally clearing";
+msgctxt "Hair Dresser"
+msgid "electricity, naturally clearing"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "the mind. At least, that's what";
+msgctxt "Hair Dresser"
+msgid "the mind. At least, that's what"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I was taught in fashion school.";
+msgctxt "Hair Dresser"
+msgid "I was taught in fashion school."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Arrow Shower' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Arrow Shower' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "For the Bowswoman who doesn't";
+msgctxt "Hair Dresser"
+msgid "For the Bowswoman who doesn't"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "want fashion to interfere with";
+msgctxt "Hair Dresser"
+msgid "want fashion to interfere with"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "her depth perception. Much more";
+msgctxt "Hair Dresser"
+msgid "her depth perception. Much more"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "attractive than those horrid";
+msgctxt "Hair Dresser"
+msgid "attractive than those horrid"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "granny-style hairbuns.";
+msgctxt "Hair Dresser"
+msgid "granny-style hairbuns."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Angelus' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Angelus' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's for calm and devout people,";
+msgctxt "Hair Dresser"
+msgid "It's for calm and devout people,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "as well as those bashful,";
+msgctxt "Hair Dresser"
+msgid "as well as those bashful,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "mild-mannered types.";
+msgctxt "Hair Dresser"
+msgid "mild-mannered types."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Heal' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Heal' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This is in trend among";
+msgctxt "Hair Dresser"
+msgid "This is in trend among"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Priests and Acolytes since";
+msgctxt "Hair Dresser"
+msgid "Priests and Acolytes since"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "this style is appropriate";
+msgctxt "Hair Dresser"
+msgid "this style is appropriate"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "for formal situations, but";
+msgctxt "Hair Dresser"
+msgid "for formal situations, but"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "is also practical in battle.";
+msgctxt "Hair Dresser"
+msgid "is also practical in battle."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Push Cart' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Push Cart' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It was based on the design of a";
+msgctxt "Hair Dresser"
+msgid "It was based on the design of a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "cart...at least, that's what";
+msgctxt "Hair Dresser"
+msgid "cart...at least, that's what"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I learned in beautician school.";
+msgctxt "Hair Dresser"
+msgid "I learned in beautician school."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Ooh, that's 'Vending' style!";
+msgctxt "Hair Dresser"
+msgid "Ooh, that's 'Vending' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's the hairdo of money";
+msgctxt "Hair Dresser"
+msgid "It's the hairdo of money"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "makers...and if I may say so,";
+msgctxt "Hair Dresser"
+msgid "makers...and if I may say so,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "it's also economical.";
+msgctxt "Hair Dresser"
+msgid "it's also economical."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Ooh, that's 'Envenom' style!";
+msgctxt "Hair Dresser"
+msgid "Ooh, that's 'Envenom' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It looks great on Thieves and";
+msgctxt "Hair Dresser"
+msgid "It looks great on Thieves and"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "and Assassins when they're";
+msgctxt "Hair Dresser"
+msgid "and Assassins when they're"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "out poisoning people and animals.";
+msgctxt "Hair Dresser"
+msgid "out poisoning people and animals."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's fashion for the aggressive";
+msgctxt "Hair Dresser"
+msgid "It's fashion for the aggressive"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "and eclectic~!";
+msgctxt "Hair Dresser"
+msgid "and eclectic~!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Double Attack' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Double Attack' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The adorable pigtail, paired with";
+msgctxt "Hair Dresser"
+msgid "The adorable pigtail, paired with"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "those provacative bangs are sure";
+msgctxt "Hair Dresser"
+msgid "those provacative bangs are sure"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "to help you steal the heart of";
+msgctxt "Hair Dresser"
+msgid "to help you steal the heart of"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "some cute guy.";
+msgctxt "Hair Dresser"
+msgid "some cute guy."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Bowling Bash' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Bowling Bash' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "A popular style for Knights, its";
+msgctxt "Hair Dresser"
+msgid "A popular style for Knights, its"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "manly, rugged look tends to";
+msgctxt "Hair Dresser"
+msgid "manly, rugged look tends to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "attract all of the ladies,";
+msgctxt "Hair Dresser"
+msgid "attract all of the ladies,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "and looks great on men with";
+msgctxt "Hair Dresser"
+msgid "and looks great on men with"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "strong chins.";
+msgctxt "Hair Dresser"
+msgid "strong chins."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Gloria' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Gloria' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's very elegant and looks";
+msgctxt "Hair Dresser"
+msgid "It's very elegant and looks"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "great on holy Priests. This";
+msgctxt "Hair Dresser"
+msgid "great on holy Priests. This"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "style is most attractive to";
+msgctxt "Hair Dresser"
+msgid "style is most attractive to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "ladies who aren't that used";
+msgctxt "Hair Dresser"
+msgid "ladies who aren't that used"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "to fighting with their hands.";
+msgctxt "Hair Dresser"
+msgid "to fighting with their hands."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Venom Dust' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Venom Dust' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Definitely a look for rebels,";
+msgctxt "Hair Dresser"
+msgid "Definitely a look for rebels,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "the sweeping, yet decidedly";
+msgctxt "Hair Dresser"
+msgid "the sweeping, yet decidedly"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "luxorious locks seems to enchant";
+msgctxt "Hair Dresser"
+msgid "luxorious locks seems to enchant"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "girls with a fatal attraction.";
+msgctxt "Hair Dresser"
+msgid "girls with a fatal attraction."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'SP Recovery' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'SP Recovery' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "To add more body to the special";
+msgctxt "Hair Dresser"
+msgid "To add more body to the special"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "style of these bangs, I use a";
+msgctxt "Hair Dresser"
+msgid "style of these bangs, I use a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "special conditioner that makes";
+msgctxt "Hair Dresser"
+msgid "special conditioner that makes"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you feel like you're regaining SP";
+msgctxt "Hair Dresser"
+msgid "you feel like you're regaining SP"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "...Although, it acutally doesn't.";
+msgctxt "Hair Dresser"
+msgid "...Although, it acutally doesn't."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Turn Undead' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Turn Undead' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This is popular among Priests";
+msgctxt "Hair Dresser"
+msgid "This is popular among Priests"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "that want a serious, yet a bit";
+msgctxt "Hair Dresser"
+msgid "that want a serious, yet a bit"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "of a wild, agressive look.";
+msgctxt "Hair Dresser"
+msgid "of a wild, agressive look."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Definitely more attractive";
+msgctxt "Hair Dresser"
+msgid "Definitely more attractive"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "than the 'Holy Light' mullet.";
+msgctxt "Hair Dresser"
+msgid "than the 'Holy Light' mullet."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Prepare Potion' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Prepare Potion' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The flared out tresses are chosen";
+msgctxt "Hair Dresser"
+msgid "The flared out tresses are chosen"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "by beginning Alchemists, since";
+msgctxt "Hair Dresser"
+msgid "by beginning Alchemists, since"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "early, explosive experiments would";
+msgctxt "Hair Dresser"
+msgid "early, explosive experiments would"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "make their hair to stick out anyway.";
+msgctxt "Hair Dresser"
+msgid "make their hair to stick out anyway."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Dragonology' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Dragonology' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's neat and clean cut, perfect";
+msgctxt "Hair Dresser"
+msgid "It's neat and clean cut, perfect"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "for studious people and looks";
+msgctxt "Hair Dresser"
+msgid "for studious people and looks"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "great with eyeglasses. This";
+msgctxt "Hair Dresser"
+msgid "great with eyeglasses. This"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "is a fashion well suited to";
+msgctxt "Hair Dresser"
+msgid "is a fashion well suited to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "intellectual types.";
+msgctxt "Hair Dresser"
+msgid "intellectual types."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Grand Cross' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Grand Cross' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's in style among those pious";
+msgctxt "Hair Dresser"
+msgid "It's in style among those pious"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Crusaders that need hair that";
+msgctxt "Hair Dresser"
+msgid "Crusaders that need hair that"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "won't muss during fighting, yet";
+msgctxt "Hair Dresser"
+msgid "won't muss during fighting, yet"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "is respectable enough to attend";
+msgctxt "Hair Dresser"
+msgid "is respectable enough to attend"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "religious services.";
+msgctxt "Hair Dresser"
+msgid "religious services."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Mace Mastery' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Mace Mastery' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "A lot of care goes into making";
+msgctxt "Hair Dresser"
+msgid "A lot of care goes into making"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "that tussled hair say, 'I don't";
+msgctxt "Hair Dresser"
+msgid "that tussled hair say, 'I don't"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "care how I look at all.'";
+msgctxt "Hair Dresser"
+msgid "care how I look at all.'"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Intimidate' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Intimidate' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The Rogue women seem to like";
+msgctxt "Hair Dresser"
+msgid "The Rogue women seem to like"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "this style...although I imagine";
+msgctxt "Hair Dresser"
+msgid "this style...although I imagine"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "that more of them would prefer";
+msgctxt "Hair Dresser"
+msgid "that more of them would prefer"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "something wilder to match those";
+msgctxt "Hair Dresser"
+msgid "something wilder to match those"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "stockings...";
+msgctxt "Hair Dresser"
+msgid "stockings..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Thunder Storm' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Thunder Storm' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This hot, flamboyant hairstyle";
+msgctxt "Hair Dresser"
+msgid "This hot, flamboyant hairstyle"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "flares out wildly like thunder.";
+msgctxt "Hair Dresser"
+msgid "flares out wildly like thunder."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "...And you will too with this new look.";
+msgctxt "Hair Dresser"
+msgid "...And you will too with this new look."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Spiritual Sphere";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Spiritual Sphere"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Absorption' style! There's a";
+msgctxt "Hair Dresser"
+msgid "Absorption' style! There's a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "charismatic quality to this";
+msgctxt "Hair Dresser"
+msgid "charismatic quality to this"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "fashion: it's tough, slightly";
+msgctxt "Hair Dresser"
+msgid "fashion: it's tough, slightly"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "tomboyish, but not so much";
+msgctxt "Hair Dresser"
+msgid "tomboyish, but not so much"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "that it can't be cute.";
+msgctxt "Hair Dresser"
+msgid "that it can't be cute."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Encore' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Encore' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The elegant, flowing locks";
+msgctxt "Hair Dresser"
+msgid "The elegant, flowing locks"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "fit well with Bards, or men who";
+msgctxt "Hair Dresser"
+msgid "fit well with Bards, or men who"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "appreciate the value of male";
+msgctxt "Hair Dresser"
+msgid "appreciate the value of male"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "beauty.";
+msgctxt "Hair Dresser"
+msgid "beauty."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Gypsy's Kiss' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Gypsy's Kiss' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Dancers seem to like this style,";
+msgctxt "Hair Dresser"
+msgid "Dancers seem to like this style,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "although personally, I think";
+msgctxt "Hair Dresser"
+msgid "although personally, I think"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "this fashion fits very well";
+msgctxt "Hair Dresser"
+msgid "this fashion fits very well"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "with glasses.";
+msgctxt "Hair Dresser"
+msgid "with glasses."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Grimtooth' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Grimtooth' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Spiky and unkempt, this style";
+msgctxt "Hair Dresser"
+msgid "Spiky and unkempt, this style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "is a popular counterculture";
+msgctxt "Hair Dresser"
+msgid "is a popular counterculture"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "street fashion. You might";
+msgctxt "Hair Dresser"
+msgid "street fashion. You might"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "not want to wear your hair";
+msgctxt "Hair Dresser"
+msgid "not want to wear your hair"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "this way at a wedding, though.";
+msgctxt "Hair Dresser"
+msgid "this way at a wedding, though."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Counter Attack' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Counter Attack' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This is an intimidating look for";
+msgctxt "Hair Dresser"
+msgid "This is an intimidating look for"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "girls that want to say 'You hit";
+msgctxt "Hair Dresser"
+msgid "girls that want to say 'You hit"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "me, I'll hit you back!' It really";
+msgctxt "Hair Dresser"
+msgid "me, I'll hit you back!' It really"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "emphasizes strong looking";
+msgctxt "Hair Dresser"
+msgid "emphasizes strong looking"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "foreheads and cheekbones.";
+msgctxt "Hair Dresser"
+msgid "foreheads and cheekbones."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Blitz Beat' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Blitz Beat' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "A funky and lively fashion,";
+msgctxt "Hair Dresser"
+msgid "A funky and lively fashion,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "this style was developed for a";
+msgctxt "Hair Dresser"
+msgid "this style was developed for a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Hunter who liked really long";
+msgctxt "Hair Dresser"
+msgid "Hunter who liked really long"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "bangs and wanted to see";
+msgctxt "Hair Dresser"
+msgid "bangs and wanted to see"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "through them at the same time.";
+msgctxt "Hair Dresser"
+msgid "through them at the same time."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Anke Snare' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Anke Snare' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The style style is specially";
+msgctxt "Hair Dresser"
+msgid "The style style is specially"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "made for Hunters that don't like";
+msgctxt "Hair Dresser"
+msgid "made for Hunters that don't like"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "to get their hair tangled...";
+msgctxt "Hair Dresser"
+msgid "to get their hair tangled..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "After all, what kind of Hunter";
+msgctxt "Hair Dresser"
+msgid "After all, what kind of Hunter"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "lets their hair get trapped?";
+msgctxt "Hair Dresser"
+msgid "lets their hair get trapped?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Find Ore' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Find Ore' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's a practical, economical look";
+msgctxt "Hair Dresser"
+msgid "It's a practical, economical look"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "that is popular among Blacksmiths.";
+msgctxt "Hair Dresser"
+msgid "that is popular among Blacksmiths."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Some swear that this fashion helps";
+msgctxt "Hair Dresser"
+msgid "Some swear that this fashion helps"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "them in finding ores, but where's";
+msgctxt "Hair Dresser"
+msgid "them in finding ores, but where's"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "the science in that??";
+msgctxt "Hair Dresser"
+msgid "the science in that??"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Hammer Fall' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Hammer Fall' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "For the woman that doesn't want";
+msgctxt "Hair Dresser"
+msgid "For the woman that doesn't want"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "her hair to get in the way when";
+msgctxt "Hair Dresser"
+msgid "her hair to get in the way when"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "she's savagely swinging heavy";
+msgctxt "Hair Dresser"
+msgid "she's savagely swinging heavy"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "objects. Of course, this is a";
+msgctxt "Hair Dresser"
+msgid "objects. Of course, this is a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Blacksmith favorite.";
+msgctxt "Hair Dresser"
+msgid "Blacksmith favorite."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Fire Pillar' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Fire Pillar' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's a trendy look, in which";
+msgctxt "Hair Dresser"
+msgid "It's a trendy look, in which"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you cover one eye for that";
+msgctxt "Hair Dresser"
+msgid "you cover one eye for that"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "intrigue effect. The element";
+msgctxt "Hair Dresser"
+msgid "intrigue effect. The element"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "of mystery is always in";
+msgctxt "Hair Dresser"
+msgid "of mystery is always in"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "fashion, don't you think?";
+msgctxt "Hair Dresser"
+msgid "fashion, don't you think?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Jupitel Thunder'";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Jupitel Thunder'"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "style! A look that strikes";
+msgctxt "Hair Dresser"
+msgid "style! A look that strikes"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "like lightening, without";
+msgctxt "Hair Dresser"
+msgid "like lightening, without"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "any of that annoying static";
+msgctxt "Hair Dresser"
+msgid "any of that annoying static"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "cling or muss. This fashion";
+msgctxt "Hair Dresser"
+msgid "cling or muss. This fashion"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "looks great with Mage Hats.";
+msgctxt "Hair Dresser"
+msgid "looks great with Mage Hats."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Guillotine Fist'";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Guillotine Fist'"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "style! The smooth, slicked back";
+msgctxt "Hair Dresser"
+msgid "style! The smooth, slicked back"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "pompadour shows that you're";
+msgctxt "Hair Dresser"
+msgid "pompadour shows that you're"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "serious about your passion";
+msgctxt "Hair Dresser"
+msgid "serious about your passion"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "for brawling... or just your passion.";
+msgctxt "Hair Dresser"
+msgid "for brawling... or just your passion."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, that's 'Whirlwind' style!";
+msgctxt "Hair Dresser"
+msgid "Oh, that's 'Whirlwind' style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "A favorite among the studious";
+msgctxt "Hair Dresser"
+msgid "A favorite among the studious"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Sages, the hair is tied back";
+msgctxt "Hair Dresser"
+msgid "Sages, the hair is tied back"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "in a stylish braid so that";
+msgctxt "Hair Dresser"
+msgid "in a stylish braid so that"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "it doesn't fly around after";
+msgctxt "Hair Dresser"
+msgid "it doesn't fly around after"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "casting those windy spells.";
+msgctxt "Hair Dresser"
+msgid "casting those windy spells."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, dear, you're looking fabulous with";
+msgctxt "Hair Dresser"
+msgid "Oh, dear, you're looking fabulous with"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "your current hairstyle. Why don't you";
+msgctxt "Hair Dresser"
+msgid "your current hairstyle. Why don't you"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "try a new hair accessory rather than changing your look?";
+msgctxt "Hair Dresser"
+msgid "try a new hair accessory rather than changing your look?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "If you wish to change your";
+msgctxt "Hair Dresser"
+msgid "If you wish to change your"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hairstyle, you should meet some";
+msgctxt "Hair Dresser"
+msgid "hairstyle, you should meet some"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "requirements. I suggest that you";
+msgctxt "Hair Dresser"
+msgid "requirements. I suggest that you"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "write down all the items that";
+msgctxt "Hair Dresser"
+msgid "write down all the items that"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you will need.";
+msgctxt "Hair Dresser"
+msgid "you will need."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "3 Counteragent,";
+msgctxt "Hair Dresser"
+msgid "3 Counteragent,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "3 Mixture,";
+msgctxt "Hair Dresser"
+msgid "3 Mixture,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "100 Danggie,";
+msgctxt "Hair Dresser"
+msgid "100 Danggie,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "100 Short Danggie,";
+msgctxt "Hair Dresser"
+msgid "100 Short Danggie,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "100 Black Hair,";
+msgctxt "Hair Dresser"
+msgid "100 Black Hair,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "100 Golden Hair,";
+msgctxt "Hair Dresser"
+msgid "100 Golden Hair,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "100 Glossy Hair, and lastly...";
+msgctxt "Hair Dresser"
+msgid "100 Glossy Hair, and lastly..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You will need 99,800 zeny.";
+msgctxt "Hair Dresser"
+msgid "You will need 99,800 zeny."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Please come back when you're";
+msgctxt "Hair Dresser"
+msgid "Please come back when you're"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "ready. I will make you look";
+msgctxt "Hair Dresser"
+msgid "ready. I will make you look"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "fabulous. Hohohohoho~";
+msgctxt "Hair Dresser"
+msgid "fabulous. Hohohohoho~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Okay now, please choose the style";
+msgctxt "Hair Dresser"
+msgid "Okay now, please choose the style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you desire from styles no.1 to";
+msgctxt "Hair Dresser"
+msgid "you desire from styles no.1 to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "no.19. I will do my best to";
+msgctxt "Hair Dresser"
+msgid "no.19.  I will do my best to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "make you look your very best.";
+msgctxt "Hair Dresser"
+msgid "make you look your very best."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You have canceled your request.";
+msgctxt "Hair Dresser"
+msgid "You have canceled your request."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I am sorry, you chose an unavailable style.";
+msgctxt "Hair Dresser"
+msgid "I am sorry, you chose an unavailable style."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Make sure you enter the correct number.";
+msgctxt "Hair Dresser"
+msgid "Make sure you enter the correct number."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I am sorry, but you are already";
+msgctxt "Hair Dresser"
+msgid "I am sorry, but you are already"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "wearing the style you have";
+msgctxt "Hair Dresser"
+msgid "wearing the style you have"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "requested. Would you please";
+msgctxt "Hair Dresser"
+msgid "requested. Would you please"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "choose a different style?";
+msgctxt "Hair Dresser"
+msgid "choose a different style?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You have chosen style no. (" + .@style + ").";
+msgctxt "Hair Dresser"
+msgid "You have chosen style no. ("
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You have chosen style no. (" + .@style + ").";
+msgctxt "Hair Dresser"
+msgid ")."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I shall proceed with your request.";
+msgctxt "Hair Dresser"
+msgid "I shall proceed with your request."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Would you mind?";
+msgctxt "Hair Dresser"
+msgid "Would you mind?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# if(select("No, I don't mind.", "Yes, let me choose another one.") == 1) {
+msgctxt "Hair Dresser"
+msgid "No, I don't mind."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# if(select("No, I don't mind.", "Yes, let me choose another one.") == 1) {
+msgctxt "Hair Dresser"
+msgid "Yes, let me choose another one."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, my, you haven't dyed your hair";
+msgctxt "Hair Dresser"
+msgid "Oh, my, you haven't dyed your hair"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "at all. You would look even more";
+msgctxt "Hair Dresser"
+msgid "at all. You would look even more"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "fabulous if you dyed your hair...";
+msgctxt "Hair Dresser"
+msgid "fabulous if you dyed your hair..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh well, I will do it for free.";
+msgctxt "Hair Dresser"
+msgid "Oh well, I will do it for free."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "So what kind of color would you like?";
+msgctxt "Hair Dresser"
+msgid "So what kind of color would you like?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red.", "Yellow.", "Purple.", "Orange.", "Green.", "Blue.", "White.", "Dark Brown.", "Cancel.")) {
+msgctxt "Hair Dresser"
+msgid "Red."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red.", "Yellow.", "Purple.", "Orange.", "Green.", "Blue.", "White.", "Dark Brown.", "Cancel.")) {
+msgctxt "Hair Dresser"
+msgid "Yellow."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red.", "Yellow.", "Purple.", "Orange.", "Green.", "Blue.", "White.", "Dark Brown.", "Cancel.")) {
+msgctxt "Hair Dresser"
+msgid "Purple."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red.", "Yellow.", "Purple.", "Orange.", "Green.", "Blue.", "White.", "Dark Brown.", "Cancel.")) {
+msgctxt "Hair Dresser"
+msgid "Orange."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red.", "Yellow.", "Purple.", "Orange.", "Green.", "Blue.", "White.", "Dark Brown.", "Cancel.")) {
+msgctxt "Hair Dresser"
+msgid "Green."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red.", "Yellow.", "Purple.", "Orange.", "Green.", "Blue.", "White.", "Dark Brown.", "Cancel.")) {
+msgctxt "Hair Dresser"
+msgid "Blue."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red.", "Yellow.", "Purple.", "Orange.", "Green.", "Blue.", "White.", "Dark Brown.", "Cancel.")) {
+msgctxt "Hair Dresser"
+msgid "White."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red.", "Yellow.", "Purple.", "Orange.", "Green.", "Blue.", "White.", "Dark Brown.", "Cancel.")) {
+msgctxt "Hair Dresser"
+msgid "Dark Brown."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red.", "Yellow.", "Purple.", "Orange.", "Green.", "Blue.", "White.", "Dark Brown.", "Cancel.")) {
+msgctxt "Hair Dresser"
+msgid "Cancel."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, I was gonna do it for free.";
+msgctxt "Hair Dresser"
+msgid "Oh, I was gonna do it for free."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Well, if you change your mind, please come again.";
+msgctxt "Hair Dresser"
+msgid "Well, if you change your mind, please come again."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The color of your hair enhances your look.";
+msgctxt "Hair Dresser"
+msgid "The color of your hair enhances your look."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Now, let's get started. Try to";
+msgctxt "Hair Dresser"
+msgid "Now, let's get started. Try to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "stay still, dear. If you move,";
+msgctxt "Hair Dresser"
+msgid "stay still, dear. If you move,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "it might ruin the perfect look";
+msgctxt "Hair Dresser"
+msgid "it might ruin the perfect look"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I intend to give you. Trust me,";
+msgctxt "Hair Dresser"
+msgid "I intend to give you. Trust me,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I will make you look fabulous~";
+msgctxt "Hair Dresser"
+msgid "I will make you look fabulous~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "- *snip snip snip snip* -";
+msgctxt "Hair Dresser"
+msgid "- *snip snip snip snip* -"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "- *bzzzzzzz bzzzzzzz bzzzzzzz bzzzzzzz* -";
+msgctxt "Hair Dresser"
+msgid "- *bzzzzzzz bzzzzzzz bzzzzzzz bzzzzzzz* -"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Alright, it's done~";
+msgctxt "Hair Dresser"
+msgid "Alright, it's done~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I hope you like";
+msgctxt "Hair Dresser"
+msgid "I hope you like"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "this style no.(" + .@style + ").";
+msgctxt "Hair Dresser"
+msgid "this style no.("
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Feel free to come back anytime";
+msgctxt "Hair Dresser"
+msgid "Feel free to come back anytime"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "when you want a new hairstyle. Hohohohohoho~";
+msgctxt "Hair Dresser"
+msgid "when you want a new hairstyle. Hohohohohoho~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Okay then, please choose one";
+msgctxt "Hair Dresser"
+msgid "Okay then, please choose one"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "a hairstyle again. I believe";
+msgctxt "Hair Dresser"
+msgid "a hairstyle again. I believe"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you will find the look that's best for you.";
+msgctxt "Hair Dresser"
+msgid "you will find the look that's best for you."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Everybody deserves the right to";
+msgctxt "Hair Dresser"
+msgid "Everybody deserves the right to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "pursue beauty. I hope that you";
+msgctxt "Hair Dresser"
+msgid "pursue beauty. I hope that you"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "will find the right hairstyle";
+msgctxt "Hair Dresser"
+msgid "will find the right hairstyle"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "one of these days.";
+msgctxt "Hair Dresser"
+msgid "one of these days."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "[Rui Vishop]";
+msgctxt "Roving Hair Dresser"
+msgid "[Rui Vishop]"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "That Veronica...";
+msgctxt "Roving Hair Dresser"
+msgid "That Veronica..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Hah! Best hair dresser my ass.";
+msgctxt "Roving Hair Dresser"
+msgid "Hah! Best hair dresser my ass."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "She's not the best hair dresser...";
+msgctxt "Roving Hair Dresser"
+msgid "She's not the best hair dresser..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "...";
+msgctxt "Roving Hair Dresser"
+msgid "..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I am!";
+msgctxt "Roving Hair Dresser"
+msgid "I am!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I, Rui Vishop, the man to whom";
+msgctxt "Roving Hair Dresser"
+msgid "I, Rui Vishop, the man to whom"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "all scalps are canvases";
+msgctxt "Roving Hair Dresser"
+msgid "all scalps are canvases"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "waiting to be transformed into";
+msgctxt "Roving Hair Dresser"
+msgid "waiting to be transformed into"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "works of magnificent art~!";
+msgctxt "Roving Hair Dresser"
+msgid "works of magnificent art~!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("What are you?", "Do my hair, please!", ".....")) {
+msgctxt "Roving Hair Dresser"
+msgid "What are you?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("What are you?", "Do my hair, please!", ".....")) {
+msgctxt "Roving Hair Dresser"
+msgid "Do my hair, please!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("What are you?", "Do my hair, please!", ".....")) {
+msgctxt "Roving Hair Dresser"
+msgid "....."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Do you not know that I, Rui";
+msgctxt "Roving Hair Dresser"
+msgid "Do you not know that I, Rui"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Vishop, maestro of the shears";
+msgctxt "Roving Hair Dresser"
+msgid "Vishop, maestro of the shears"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "and sculptor of hair, am an";
+msgctxt "Roving Hair Dresser"
+msgid "and sculptor of hair, am an"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "artist far ahead of his time?!";
+msgctxt "Roving Hair Dresser"
+msgid "artist far ahead of his time?!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Well, I suppose an adventurer";
+msgctxt "Roving Hair Dresser"
+msgid "Well, I suppose an adventurer"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "like yourself wouldn't know...";
+msgctxt "Roving Hair Dresser"
+msgid "like yourself wouldn't know..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "As a hair sculptor, I find joy";
+msgctxt "Roving Hair Dresser"
+msgid "As a hair sculptor, I find joy"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "in bestowing upon others the";
+msgctxt "Roving Hair Dresser"
+msgid "in bestowing upon others the"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "supreme favour of doing their";
+msgctxt "Roving Hair Dresser"
+msgid "supreme favour of doing their"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hairstyle at a reasonable price.";
+msgctxt "Roving Hair Dresser"
+msgid "hairstyle at a reasonable price."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Recently, however, I happened to";
+msgctxt "Roving Hair Dresser"
+msgid "Recently, however, I happened to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "overhear that some tyro has had";
+msgctxt "Roving Hair Dresser"
+msgid "overhear that some tyro has had"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "the audacity to call herself a";
+msgctxt "Roving Hair Dresser"
+msgid "the audacity to call herself a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hair dresser.";
+msgctxt "Roving Hair Dresser"
+msgid "hair dresser."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "So one day I went there,";
+msgctxt "Roving Hair Dresser"
+msgid "So one day I went there,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "pretending to be a customer.";
+msgctxt "Roving Hair Dresser"
+msgid "pretending to be a customer."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I was apalled to see the boring,";
+msgctxt "Roving Hair Dresser"
+msgid "I was apalled to see the boring,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "lifeless hairstyles that she was";
+msgctxt "Roving Hair Dresser"
+msgid "lifeless hairstyles that she was"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "giving all of her clients...";
+msgctxt "Roving Hair Dresser"
+msgid "giving all of her clients..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It wasn't hard to notice that her";
+msgctxt "Roving Hair Dresser"
+msgid "It wasn't hard to notice that her"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "skills, or lack thereof, are a";
+msgctxt "Roving Hair Dresser"
+msgid "skills, or lack thereof, are a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "joke. She brings shame to the";
+msgctxt "Roving Hair Dresser"
+msgid "joke. She brings shame to the"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "great and honorable";
+msgctxt "Roving Hair Dresser"
+msgid "great and honorable"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "profession of hair dressing.";
+msgctxt "Roving Hair Dresser"
+msgid "profession of hair dressing."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "A complete and utter disgrace!";
+msgctxt "Roving Hair Dresser"
+msgid "A complete and utter disgrace!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "But the worst part was...";
+msgctxt "Roving Hair Dresser"
+msgid "But the worst part was..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "she forced her customers to";
+msgctxt "Roving Hair Dresser"
+msgid "she forced her customers to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "choose a hairstyle before she";
+msgctxt "Roving Hair Dresser"
+msgid "choose a hairstyle before she"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "styled their hair!";
+msgctxt "Roving Hair Dresser"
+msgid "styled their hair!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "That's not how talented hair";
+msgctxt "Roving Hair Dresser"
+msgid "That's not how talented hair"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "dressers do their job! She";
+msgctxt "Roving Hair Dresser"
+msgid "dressers do their job! She"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "should know what hair style will";
+msgctxt "Roving Hair Dresser"
+msgid "should know what hair style will"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "fit a customer without ever";
+msgctxt "Roving Hair Dresser"
+msgid "fit a customer without ever"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "asking them!";
+msgctxt "Roving Hair Dresser"
+msgid "asking them!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "If by any chance you decide to";
+msgctxt "Roving Hair Dresser"
+msgid "If by any chance you decide to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "do your hair, don't even think";
+msgctxt "Roving Hair Dresser"
+msgid "do your hair, don't even think"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "about giving her patronage.";
+msgctxt "Roving Hair Dresser"
+msgid "about giving her patronage."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Instead, you may ask for my";
+msgctxt "Roving Hair Dresser"
+msgid "Instead, you may ask for my"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "services. I assure you, I am";
+msgctxt "Roving Hair Dresser"
+msgid "services. I assure you, I am"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "faaaar better than her.";
+msgctxt "Roving Hair Dresser"
+msgid "faaaar better than her."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Do you understand? I mean, don't";
+msgctxt "Roving Hair Dresser"
+msgid "Do you understand? I mean, don't"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "let her ruin your hair needlessly!";
+msgctxt "Roving Hair Dresser"
+msgid "let her ruin your hair needlessly!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You could get a Swordman to hack";
+msgctxt "Roving Hair Dresser"
+msgid "You could get a Swordman to hack"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "away at your hair if you want a";
+msgctxt "Roving Hair Dresser"
+msgid "away at your hair if you want a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hairstyle that horrible~!";
+msgctxt "Roving Hair Dresser"
+msgid "hairstyle that horrible~!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Hmm, I must say, your current";
+msgctxt "Roving Hair Dresser"
+msgid "Hmm, I must say, your current"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "style fits you best. Trust me, I know what I am saying.";
+msgctxt "Roving Hair Dresser"
+msgid "style fits you best. Trust me, I know what I am saying."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Ah, I see that that you can";
+msgctxt "Roving Hair Dresser"
+msgid "Ah, I see that that you can"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "recognize genius when it is";
+msgctxt "Roving Hair Dresser"
+msgid "recognize genius when it is"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "right before you. In light";
+msgctxt "Roving Hair Dresser"
+msgid "right before you. In light"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "of your good taste, I will";
+msgctxt "Roving Hair Dresser"
+msgid "of your good taste, I will"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "only require money for my";
+msgctxt "Roving Hair Dresser"
+msgid "only require money for my"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "services.";
+msgctxt "Roving Hair Dresser"
+msgid "services."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Simply pay me the small";
+msgctxt "Roving Hair Dresser"
+msgid "Simply pay me the small"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "fee of 199,800 zeny. You must";
+msgctxt "Roving Hair Dresser"
+msgid "fee of 199,800 zeny. You must"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "know that I am doing you a";
+msgctxt "Roving Hair Dresser"
+msgid "know that I am doing you a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "huge favor by charging you";
+msgctxt "Roving Hair Dresser"
+msgid "huge favor by charging you"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "such a small amount. My";
+msgctxt "Roving Hair Dresser"
+msgid "such a small amount. My"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "art is priceless, after all.";
+msgctxt "Roving Hair Dresser"
+msgid "art is priceless, after all."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Alright, I will be taking my";
+msgctxt "Roving Hair Dresser"
+msgid "Alright, I will be taking my"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "199,800 zeny service charge now.";
+msgctxt "Roving Hair Dresser"
+msgid "199,800 zeny service charge now."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "If you don't wish to do";
+msgctxt "Roving Hair Dresser"
+msgid "If you don't wish to do"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "this right now, though I can't";
+msgctxt "Roving Hair Dresser"
+msgid "this right now, though I can't"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "imagine why, you may ask that";
+msgctxt "Roving Hair Dresser"
+msgid "imagine why, you may ask that"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "stupid hair dresser to";
+msgctxt "Roving Hair Dresser"
+msgid "stupid hair dresser to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "do her clumsy work on you...";
+msgctxt "Roving Hair Dresser"
+msgid "do her clumsy work on you..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# if(select("No, please do my hair.", "Umm, I changed my mind.") ==1 ) {
+msgctxt "Roving Hair Dresser"
+msgid "No, please do my hair."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# if(select("No, please do my hair.", "Umm, I changed my mind.") ==1 ) {
+msgctxt "Roving Hair Dresser"
+msgid "Umm, I changed my mind."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "O~k~a~y!";
+msgctxt "Roving Hair Dresser"
+msgid "O~k~a~y!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Now, let us begin~!";
+msgctxt "Roving Hair Dresser"
+msgid "Now, let us begin~!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Wooooo~oooohhhh!! Toohhhhh~oooohhhh!!";
+msgctxt "Roving Hair Dresser"
+msgid "Wooooo~oooohhhh!! Toohhhhh~oooohhhh!!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Woooooo~aaaaaaahhhhh!!";
+msgctxt "Roving Hair Dresser"
+msgid "Woooooo~aaaaaaahhhhh!!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Voila!";
+msgctxt "Roving Hair Dresser"
+msgid "Voila!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, great~ it's awesome!";
+msgctxt "Roving Hair Dresser"
+msgid "Oh, great~ it's awesome!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Another Vishop masterpiece~";
+msgctxt "Roving Hair Dresser"
+msgid "Another Vishop masterpiece~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Once more I've outdone myself.";
+msgctxt "Roving Hair Dresser"
+msgid "Once more I've outdone myself."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's such a unique and talented";
+msgctxt "Roving Hair Dresser"
+msgid "It's such a unique and talented"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "style! Yes, I am the best! Wooohahahahahaha!";
+msgctxt "Roving Hair Dresser"
+msgid "style! Yes, I am the best! Wooohahahahahaha!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Bah! Alright! It's your decision.";
+msgctxt "Roving Hair Dresser"
+msgid "Bah! Alright! It's your decision."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "But don't blame me later!";
+msgctxt "Roving Hair Dresser"
+msgid "But don't blame me later!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "One day you'll wake up, realize";
+msgctxt "Roving Hair Dresser"
+msgid "One day you'll wake up, realize"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you're ugly and regret not";
+msgctxt "Roving Hair Dresser"
+msgid "you're ugly and regret not"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "having my genius shape every lock";
+msgctxt "Roving Hair Dresser"
+msgid "having my genius shape every lock"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "of hair on your head.";
+msgctxt "Roving Hair Dresser"
+msgid "of hair on your head."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "What? What a shame!";
+msgctxt "Roving Hair Dresser"
+msgid "What? What a shame!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Will you let that...that";
+msgctxt "Roving Hair Dresser"
+msgid "Will you let that...that"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "charlatan of a hair dresser ruin";
+msgctxt "Roving Hair Dresser"
+msgid "charlatan of a hair dresser ruin"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "your hairstyle!? I'm sure the";
+msgctxt "Roving Hair Dresser"
+msgid "your hairstyle!? I'm sure the"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "heavens are crying tears of";
+msgctxt "Roving Hair Dresser"
+msgid "heavens are crying tears of"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "pity at mankind's ignorance...";
+msgctxt "Roving Hair Dresser"
+msgid "pity at mankind's ignorance..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "[Prince Shammi]";
+msgctxt "Hair Dresser#li"
+msgid "[Prince Shammi]"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Welcome to Prince Shammi's";
+msgctxt "Hair Dresser#li"
+msgid "Welcome to Prince Shammi's"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Beauty Shop, the place to go";
+msgctxt "Hair Dresser#li"
+msgid "Beauty Shop, the place to go"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "for faaabulous hair. Don't be";
+msgctxt "Hair Dresser#li"
+msgid "for faaabulous hair. Don't be"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "shy, tell me exactly how you";
+msgctxt "Hair Dresser#li"
+msgid "shy, tell me exactly how you"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "want me to make you glamorous~";
+msgctxt "Hair Dresser#li"
+msgid "want me to make you glamorous~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Check all hairstyles", "Change hairstyle", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Check all hairstyles"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Check all hairstyles", "Change hairstyle", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Change hairstyle"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Check all hairstyles", "Change hairstyle", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, would you like to";
+msgctxt "Hair Dresser#li"
+msgid "Oh, would you like to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "see all of the trendy new";
+msgctxt "Hair Dresser#li"
+msgid "see all of the trendy new"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hairstyles I offer?";
+msgctxt "Hair Dresser#li"
+msgid "hairstyles I offer?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Please, oh please, choose from the following styles and I will show you a preview.";
+msgctxt "Hair Dresser#li"
+msgid "Please, oh please, choose from the following styles and I will show you a preview."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Old Hairstyles", "New Hairstyles")) {
+msgctxt "Hair Dresser#li"
+msgid "Old Hairstyles"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Old Hairstyles", "New Hairstyles")) {
+msgctxt "Hair Dresser#li"
+msgid "New Hairstyles"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Petite Style", "Executioner Style", "Prince Style", "Deviace Style", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Petite Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Petite Style", "Executioner Style", "Prince Style", "Deviace Style", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Executioner Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Petite Style", "Executioner Style", "Prince Style", "Deviace Style", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Prince Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Petite Style", "Executioner Style", "Prince Style", "Deviace Style", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Deviace Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This is the ^3131FFPetite Style^000000,";
+msgctxt "Hair Dresser#li"
+msgid "This is the ^3131FFPetite Style^000000,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "which softens the gentleman's";
+msgctxt "Hair Dresser#li"
+msgid "which softens the gentleman's"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "appearance with long braids";
+msgctxt "Hair Dresser#li"
+msgid "appearance with long braids"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "for a fluffier appearance.";
+msgctxt "Hair Dresser#li"
+msgid "for a fluffier appearance."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, the ^3131FFExecutioner Style^000000!";
+msgctxt "Hair Dresser#li"
+msgid "Oh, the ^3131FFExecutioner Style^000000!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's a rugged, shaggy style";
+msgctxt "Hair Dresser#li"
+msgid "It's a rugged, shaggy style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "for that tough guy look that's";
+msgctxt "Hair Dresser#li"
+msgid "for that tough guy look that's"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "becoming popular these days.";
+msgctxt "Hair Dresser#li"
+msgid "becoming popular these days."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "And every girl loves a tough";
+msgctxt "Hair Dresser#li"
+msgid "And every girl loves a tough"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "guy, right? ^333333*Tee hee~*^000000";
+msgctxt "Hair Dresser#li"
+msgid "guy, right? ^333333*Tee hee~*^000000"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You certainly have an";
+msgctxt "Hair Dresser#li"
+msgid "You certainly have an"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "eye for fashion! Yes, this";
+msgctxt "Hair Dresser#li"
+msgid "eye for fashion! Yes, this"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "is the ^3131FFPrince Style^000000, the";
+msgctxt "Hair Dresser#li"
+msgid "is the ^3131FFPrince Style^000000, the"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "pinnacle of sexiness and";
+msgctxt "Hair Dresser#li"
+msgid "pinnacle of sexiness and"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "sophistication. Magnifique, no?";
+msgctxt "Hair Dresser#li"
+msgid "sophistication. Magnifique, no?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Yes, choose this one, this one!";
+msgctxt "Hair Dresser#li"
+msgid "Yes, choose this one, this one!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "A-ha~! The ^3131FFDeviace Style^000000!";
+msgctxt "Hair Dresser#li"
+msgid "A-ha~! The ^3131FFDeviace Style^000000!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This is much like the Prince";
+msgctxt "Hair Dresser#li"
+msgid "This is much like the Prince"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Style, but with shorter hair";
+msgctxt "Hair Dresser#li"
+msgid "Style, but with shorter hair"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "in the back. Yes, this look";
+msgctxt "Hair Dresser#li"
+msgid "in the back. Yes, this look"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "is very neat and dandy.";
+msgctxt "Hair Dresser#li"
+msgid "is very neat and dandy."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No? You didn't want";
+msgctxt "Hair Dresser#li"
+msgid "No? You didn't want"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "to take a look? Please,";
+msgctxt "Hair Dresser#li"
+msgid "to take a look? Please,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you're an adventurer, I know";
+msgctxt "Hair Dresser#li"
+msgid "you're an adventurer, I know"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you can be more daring than";
+msgctxt "Hair Dresser#li"
+msgid "you can be more daring than"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "that! Be fashionably adventurous, you fashionable adventurer~";
+msgctxt "Hair Dresser#li"
+msgid "that! Be fashionably adventurous, you fashionable adventurer~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Spring Rabbit Style", "Harpy Style", "Medusa Style", "Isis Style", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Spring Rabbit Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Spring Rabbit Style", "Harpy Style", "Medusa Style", "Isis Style", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Harpy Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Spring Rabbit Style", "Harpy Style", "Medusa Style", "Isis Style", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Medusa Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Spring Rabbit Style", "Harpy Style", "Medusa Style", "Isis Style", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Isis Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh yes, this is the ";
+msgctxt "Hair Dresser#li"
+msgid "Oh yes, this is the "
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3131FFSpring Rabbit Style^000000.";
+msgctxt "Hair Dresser#li"
+msgid "^3131FFSpring Rabbit Style^000000."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The bobbing forelock";
+msgctxt "Hair Dresser#li"
+msgid "The bobbing forelock"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "adds an aura of chic,";
+msgctxt "Hair Dresser#li"
+msgid "adds an aura of chic,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "cutsiness and playfulness.";
+msgctxt "Hair Dresser#li"
+msgid "cutsiness and playfulness."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Yes? No? Yes? No? Oh yes!";
+msgctxt "Hair Dresser#li"
+msgid "Yes? No? Yes? No? Oh yes!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Ooh, are you interested";
+msgctxt "Hair Dresser#li"
+msgid "Ooh, are you interested"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "in the ^3131FFHarpy Style^000000? The";
+msgctxt "Hair Dresser#li"
+msgid "in the ^3131FFHarpy Style^000000? The"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "natural curl coupled with";
+msgctxt "Hair Dresser#li"
+msgid "natural curl coupled with"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "the pony tail results in";
+msgctxt "Hair Dresser#li"
+msgid "the pony tail results in"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "a sophisticated, yet very";
+msgctxt "Hair Dresser#li"
+msgid "a sophisticated, yet very"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "natural and relaxed look~";
+msgctxt "Hair Dresser#li"
+msgid "natural and relaxed look~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Ahh, the ^3131FFMedusa Style^000000~";
+msgctxt "Hair Dresser#li"
+msgid "Ahh, the ^3131FFMedusa Style^000000~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "These boldy flowing locks";
+msgctxt "Hair Dresser#li"
+msgid "These boldy flowing locks"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "scream power and dominance";
+msgctxt "Hair Dresser#li"
+msgid "scream power and dominance"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "and is ideal for the big career";
+msgctxt "Hair Dresser#li"
+msgid "and is ideal for the big career"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "woman who wishes to be...";
+msgctxt "Hair Dresser#li"
+msgid "woman who wishes to be..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "irresistable to men~";
+msgctxt "Hair Dresser#li"
+msgid "irresistable to men~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Ooh, the ^3131FFIsis Style^000000~";
+msgctxt "Hair Dresser#li"
+msgid "Ooh, the ^3131FFIsis Style^000000~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Yes, you'll look very cute";
+msgctxt "Hair Dresser#li"
+msgid "Yes, you'll look very cute"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "with your hair in buns on";
+msgctxt "Hair Dresser#li"
+msgid "with your hair in buns on"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "on both sides of your head.";
+msgctxt "Hair Dresser#li"
+msgid "on both sides of your head."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It'll be very darling on you!";
+msgctxt "Hair Dresser#li"
+msgid "It'll be very darling on you!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Emergency Heal Perm", "Aura Blade Cut", "Power Swing", "Renovatio Cut", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Emergency Heal Perm"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Emergency Heal Perm", "Aura Blade Cut", "Power Swing", "Renovatio Cut", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Aura Blade Cut"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Emergency Heal Perm", "Aura Blade Cut", "Power Swing", "Renovatio Cut", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Power Swing"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Emergency Heal Perm", "Aura Blade Cut", "Power Swing", "Renovatio Cut", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Renovatio Cut"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This is the ^3131FFEmergency Heal Perm^000000";
+msgctxt "Hair Dresser#li"
+msgid "This is the ^3131FFEmergency Heal Perm^000000"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It is quite popular among the healing class.";
+msgctxt "Hair Dresser#li"
+msgid "It is quite popular among the healing class."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You must be after a lady yes?";
+msgctxt "Hair Dresser#li"
+msgid "You must be after a lady yes?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The ^3131FFAura Blade Cut^000000";
+msgctxt "Hair Dresser#li"
+msgid "The ^3131FFAura Blade Cut^000000"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "is known to make the ladies swoon, you tiger you!";
+msgctxt "Hair Dresser#li"
+msgid "is known to make the ladies swoon, you tiger you!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh you brute!";
+msgctxt "Hair Dresser#li"
+msgid "Oh you brute!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3131FFPower Swing Cut^000000";
+msgctxt "Hair Dresser#li"
+msgid "^3131FFPower Swing Cut^000000"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Flex your style muscles with this hairstyle. This is definitely your look.";
+msgctxt "Hair Dresser#li"
+msgid "Flex your style muscles with this hairstyle. This is definitely your look."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Ah! I see you're only interested in the latest trends.";
+msgctxt "Hair Dresser#li"
+msgid "Ah! I see you're only interested in the latest trends."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Straight from the runway is the ^3131FFRenovatio Cut^000000.";
+msgctxt "Hair Dresser#li"
+msgid "Straight from the runway is the ^3131FFRenovatio Cut^000000."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Assumptio Perm", "Soul Changer Cut", "X Tornado Cut", "Oratio Cut", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Assumptio Perm"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Assumptio Perm", "Soul Changer Cut", "X Tornado Cut", "Oratio Cut", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Soul Changer Cut"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Assumptio Perm", "Soul Changer Cut", "X Tornado Cut", "Oratio Cut", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "X Tornado Cut"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Assumptio Perm", "Soul Changer Cut", "X Tornado Cut", "Oratio Cut", "Cancel")) {
+msgctxt "Hair Dresser#li"
+msgid "Oratio Cut"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This is the ^3131FFAssumptio Perm^000000";
+msgctxt "Hair Dresser#li"
+msgid "This is the ^3131FFAssumptio Perm^000000"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's a shorter style perm that allows for maximum spellcasting.";
+msgctxt "Hair Dresser#li"
+msgid "It's a shorter style perm that allows for maximum spellcasting."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You must be a man killer no?";
+msgctxt "Hair Dresser#li"
+msgid "You must be a man killer no?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "The ^3131FFSoul Changer Cut^000000";
+msgctxt "Hair Dresser#li"
+msgid "The ^3131FFSoul Changer Cut^000000"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "will make any man open his wall... er heart to you!";
+msgctxt "Hair Dresser#li"
+msgid "will make any man open his wall... er heart to you!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This is a bit of a trendy style";
+msgctxt "Hair Dresser#li"
+msgid "This is a bit of a trendy style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3131FFX Tornado Cut^000000";
+msgctxt "Hair Dresser#li"
+msgid "^3131FFX Tornado Cut^000000"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It's for adventurous people who like change.";
+msgctxt "Hair Dresser#li"
+msgid "It's for adventurous people who like change."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Straight from the runway is the ^3131FFOratio Cut^000000.";
+msgctxt "Hair Dresser#li"
+msgid "Straight from the runway is the ^3131FFOratio Cut^000000."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You'll be the envy of all of your friends with this hairstyle.";
+msgctxt "Hair Dresser#li"
+msgid "You'll be the envy of all of your friends with this hairstyle."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, I'm so sorry, but";
+msgctxt "Hair Dresser#li"
+msgid "Oh, I'm so sorry, but"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I can only perform my";
+msgctxt "Hair Dresser#li"
+msgid "I can only perform my"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "services for clients that have";
+msgctxt "Hair Dresser#li"
+msgid "services for clients that have"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "matured enough to find their";
+msgctxt "Hair Dresser#li"
+msgid "matured enough to find their"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "true inner beauty. But please";
+msgctxt "Hair Dresser#li"
+msgid "true inner beauty. But please"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "come back once you do, okay?";
+msgctxt "Hair Dresser#li"
+msgid "come back once you do, okay?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "If you've already decided";
+msgctxt "Hair Dresser#li"
+msgid "If you've already decided"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "what hairstyle you'd like,";
+msgctxt "Hair Dresser#li"
+msgid "what hairstyle you'd like,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "please have my service charge";
+msgctxt "Hair Dresser#li"
+msgid "please have my service charge"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "ready, as well as the materials";
+msgctxt "Hair Dresser#li"
+msgid "ready, as well as the materials"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I will need in performing this";
+msgctxt "Hair Dresser#li"
+msgid "I will need in performing this"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "service, okay? Please bring...";
+msgctxt "Hair Dresser#li"
+msgid "service, okay? Please bring..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3355FF3 Counteragent^000000,";
+msgctxt "Hair Dresser#li"
+msgid "^3355FF3 Counteragent^000000,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3355FF3 Mixture^000000,";
+msgctxt "Hair Dresser#li"
+msgid "^3355FF3 Mixture^000000,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3355FF100 Daenggie^000000,";
+msgctxt "Hair Dresser#li"
+msgid "^3355FF100 Daenggie^000000,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3355FF100 Short Daenggie^000000...";
+msgctxt "Hair Dresser#li"
+msgid "^3355FF100 Short Daenggie^000000..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3355FF100 Black Hair^000000,";
+msgctxt "Hair Dresser#li"
+msgid "^3355FF100 Black Hair^000000,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3355FF100 Golden Hair^000000,";
+msgctxt "Hair Dresser#li"
+msgid "^3355FF100 Golden Hair^000000,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3355FF100 Glossy Hair^000000";
+msgctxt "Hair Dresser#li"
+msgid "^3355FF100 Glossy Hair^000000"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "and ^3355FF99,800 zeny^000000.";
+msgctxt "Hair Dresser#li"
+msgid "and ^3355FF99,800 zeny^000000."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Once you do that, I'll make";
+msgctxt "Hair Dresser#li"
+msgid "Once you do that, I'll make"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "a miracle out of your hair!";
+msgctxt "Hair Dresser#li"
+msgid "a miracle out of your hair!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Alright, please choose";
+msgctxt "Hair Dresser#li"
+msgid "Alright, please choose"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "which hairstyle you wish";
+msgctxt "Hair Dresser#li"
+msgid "which hairstyle you wish"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "to have from numbers 20 to 25.";
+msgctxt "Hair Dresser#li"
+msgid "to have from numbers 20 to 25."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Here's a list of the style names just in case you need them~";
+msgctxt "Hair Dresser#li"
+msgid "Here's a list of the style names just in case you need them~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 20: Petite Style";
+msgctxt "Hair Dresser#li"
+msgid "No. 20: Petite Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 21: Executioner Style";
+msgctxt "Hair Dresser#li"
+msgid "No. 21: Executioner Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 22: Prince Style";
+msgctxt "Hair Dresser#li"
+msgid "No. 22: Prince Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 23: Deviace Style";
+msgctxt "Hair Dresser#li"
+msgid "No. 23: Deviace Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 24: Emergency Heal Perm";
+msgctxt "Hair Dresser#li"
+msgid "No. 24: Emergency Heal Perm"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 25: Aura Blade Cut";
+msgctxt "Hair Dresser#li"
+msgid "No. 25: Aura Blade Cut"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 26: Power Swing and";
+msgctxt "Hair Dresser#li"
+msgid "No. 26: Power Swing and"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 27: Renovatio Cut.";
+msgctxt "Hair Dresser#li"
+msgid "No. 27: Renovatio Cut."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 20: Spring Rabbit Style";
+msgctxt "Hair Dresser#li"
+msgid "No. 20: Spring Rabbit Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 21: Harpy Style";
+msgctxt "Hair Dresser#li"
+msgid "No. 21: Harpy Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 22: Medusa Style";
+msgctxt "Hair Dresser#li"
+msgid "No. 22: Medusa Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 23: Isis Style";
+msgctxt "Hair Dresser#li"
+msgid "No. 23: Isis Style"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 24: Assumptio Perm";
+msgctxt "Hair Dresser#li"
+msgid "No. 24: Assumptio Perm"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 25: Soul Changer Cut";
+msgctxt "Hair Dresser#li"
+msgid "No. 25: Soul Changer Cut"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 26: X Tornado Cut and";
+msgctxt "Hair Dresser#li"
+msgid "No. 26: X Tornado Cut and"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "No. 27: Oratio Cut.";
+msgctxt "Hair Dresser#li"
+msgid "No. 27: Oratio Cut."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh...?";
+msgctxt "Hair Dresser#li"
+msgid "Oh...?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You decided to cancel?";
+msgctxt "Hair Dresser#li"
+msgid "You decided to cancel?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Well, you know what's";
+msgctxt "Hair Dresser#li"
+msgid "Well, you know what's"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "best for you, I suppose.";
+msgctxt "Hair Dresser#li"
+msgid "best for you, I suppose."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Still, I'm so disappointed~";
+msgctxt "Hair Dresser#li"
+msgid "Still, I'm so disappointed~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Dearie, please enter";
+msgctxt "Hair Dresser#li"
+msgid "Dearie, please enter"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "a number from ''20'' to";
+msgctxt "Hair Dresser#li"
+msgid "a number from ''20'' to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "''25,'' alright? Then I can";
+msgctxt "Hair Dresser#li"
+msgid "''25,'' alright? Then I can"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "get right to work at making";
+msgctxt "Hair Dresser#li"
+msgid "get right to work at making"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you soooooooo beautiful!";
+msgctxt "Hair Dresser#li"
+msgid "you soooooooo beautiful!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh dear me, you're not";
+msgctxt "Hair Dresser#li"
+msgid "Oh dear me, you're not"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "going to waste money for";
+msgctxt "Hair Dresser#li"
+msgid "going to waste money for"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "the same hairstyle that you";
+msgctxt "Hair Dresser#li"
+msgid "the same hairstyle that you"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "have now, are you? You can";
+msgctxt "Hair Dresser#li"
+msgid "have now, are you? You can"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "have someone else change";
+msgctxt "Hair Dresser#li"
+msgid "have someone else change"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "your hair color, you know.";
+msgctxt "Hair Dresser#li"
+msgid "your hair color, you know."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oooh! Now, is this the";
+msgctxt "Hair Dresser#li"
+msgid "Oooh! Now, is this the"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hairstyle that you wanted?";
+msgctxt "Hair Dresser#li"
+msgid "hairstyle that you wanted?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This is No. "+.@input+", by the way.";
+msgctxt "Hair Dresser#li"
+msgid "This is No. "
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "This is No. "+.@input+", by the way.";
+msgctxt "Hair Dresser#li"
+msgid ", by the way."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Yes.", "No.")) {
+msgctxt "Hair Dresser#li"
+msgid "Yes."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Yes.", "No.")) {
+msgctxt "Hair Dresser#li"
+msgid "No."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, Sweet Christmas,";
+msgctxt "Hair Dresser#li"
+msgid "Oh, Sweet Christmas,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I almost forgot! Would";
+msgctxt "Hair Dresser#li"
+msgid "I almost forgot! Would"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you like me to dye your";
+msgctxt "Hair Dresser#li"
+msgid "you like me to dye your"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hair, free of charge? It's";
+msgctxt "Hair Dresser#li"
+msgid "hair, free of charge? It's"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "a part of my service, so";
+msgctxt "Hair Dresser#li"
+msgid "a part of my service, so"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "please choose a color~";
+msgctxt "Hair Dresser#li"
+msgid "please choose a color~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red", "Yellow", "Purple", "Orange", "Green", "Blue", "White", "Dark Brown")) {
+msgctxt "Hair Dresser#li"
+msgid "Red"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red", "Yellow", "Purple", "Orange", "Green", "Blue", "White", "Dark Brown")) {
+msgctxt "Hair Dresser#li"
+msgid "Yellow"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red", "Yellow", "Purple", "Orange", "Green", "Blue", "White", "Dark Brown")) {
+msgctxt "Hair Dresser#li"
+msgid "Purple"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red", "Yellow", "Purple", "Orange", "Green", "Blue", "White", "Dark Brown")) {
+msgctxt "Hair Dresser#li"
+msgid "Orange"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red", "Yellow", "Purple", "Orange", "Green", "Blue", "White", "Dark Brown")) {
+msgctxt "Hair Dresser#li"
+msgid "Green"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red", "Yellow", "Purple", "Orange", "Green", "Blue", "White", "Dark Brown")) {
+msgctxt "Hair Dresser#li"
+msgid "Blue"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red", "Yellow", "Purple", "Orange", "Green", "Blue", "White", "Dark Brown")) {
+msgctxt "Hair Dresser#li"
+msgid "White"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Red", "Yellow", "Purple", "Orange", "Green", "Blue", "White", "Dark Brown")) {
+msgctxt "Hair Dresser#li"
+msgid "Dark Brown"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Okay, let's get";
+msgctxt "Hair Dresser#li"
+msgid "Okay, let's get"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "started, shall we?";
+msgctxt "Hair Dresser#li"
+msgid "started, shall we?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Keep your head still,";
+msgctxt "Hair Dresser#li"
+msgid "Keep your head still,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "now. Yes, that's good...";
+msgctxt "Hair Dresser#li"
+msgid "now. Yes, that's good..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^3355FF*Snip snip*";
+msgctxt "Hair Dresser#li"
+msgid "^3355FF*Snip snip*"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "*Rustle rustle*";
+msgctxt "Hair Dresser#li"
+msgid "*Rustle rustle*"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "*Clip clip clip clip*";
+msgctxt "Hair Dresser#li"
+msgid "*Clip clip clip clip*"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "*Bzzzzzzzzzzzzzzzzzzzz*^000000";
+msgctxt "Hair Dresser#li"
+msgid "*Bzzzzzzzzzzzzzzzzzzzz*^000000"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Well, we're all finished!";
+msgctxt "Hair Dresser#li"
+msgid "Well, we're all finished!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "And my, oh my, you look even";
+msgctxt "Hair Dresser#li"
+msgid "And my, oh my, you look even"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "more fabulous that I thought";
+msgctxt "Hair Dresser#li"
+msgid "more fabulous that I thought"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you would! Oh, I can't believe";
+msgctxt "Hair Dresser#li"
+msgid "you would! Oh, I can't believe"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "how tough and elegant you are~";
+msgctxt "Hair Dresser#li"
+msgid "how tough and elegant you are~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "So ruggedly manly and handsome!";
+msgctxt "Hair Dresser#li"
+msgid "So ruggedly manly and handsome!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "how graceful and elegant you";
+msgctxt "Hair Dresser#li"
+msgid "how graceful and elegant you"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "look! Absolutely gorgeous!";
+msgctxt "Hair Dresser#li"
+msgid "look! Absolutely gorgeous!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You love your new";
+msgctxt "Hair Dresser#li"
+msgid "You love your new"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hair, don't you? Feel";
+msgctxt "Hair Dresser#li"
+msgid "hair, don't you? Feel"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "free to come back anytime.";
+msgctxt "Hair Dresser#li"
+msgid "free to come back anytime."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I'll make you the best looking";
+msgctxt "Hair Dresser#li"
+msgid "I'll make you the best looking"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "person in the entire world!";
+msgctxt "Hair Dresser#li"
+msgid "person in the entire world!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, did you forget which";
+msgctxt "Hair Dresser#li"
+msgid "Oh, did you forget which"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hairstyle goes with which";
+msgctxt "Hair Dresser#li"
+msgid "hairstyle goes with which"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "number? By all means, please";
+msgctxt "Hair Dresser#li"
+msgid "number? By all means, please"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "check again! Find the one that";
+msgctxt "Hair Dresser#li"
+msgid "check again! Find the one that"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "is perfect just for you, okay?";
+msgctxt "Hair Dresser#li"
+msgid "is perfect just for you, okay?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Humm ? ";
+msgctxt "Hair Dresser#li"
+msgid "Humm ? "
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Maybe you don't understand";
+msgctxt "Hair Dresser#li"
+msgid "Maybe you don't understand"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "my futuristic styles.";
+msgctxt "Hair Dresser#li"
+msgid "my futuristic styles."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Goodbye! ";
+msgctxt "Hair Dresser#li"
+msgid "Goodbye! "
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "[Assistant Beautician]";
+msgctxt "Assistant Beautician#li"
+msgid "[Assistant Beautician]"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Wah?! Sweet Jiminy,";
+msgctxt "Assistant Beautician#li"
+msgid "Wah?! Sweet Jiminy,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you freaked me out!";
+msgctxt "Assistant Beautician#li"
+msgid "you freaked me out!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "What are you doing?!";
+msgctxt "Assistant Beautician#li"
+msgid "What are you doing?!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh! Um, a customer!";
+msgctxt "Assistant Beautician#li"
+msgid "Oh! Um, a customer!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "H-h-h-h-h-hello! Can";
+msgctxt "Assistant Beautician#li"
+msgid "H-h-h-h-h-hello! Can"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I help you with anything?";
+msgctxt "Assistant Beautician#li"
+msgid "I help you with anything?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("What do you do?", "Please change my hairstyle.", "Who is Prince Shammi?")) {
+msgctxt "Assistant Beautician#li"
+msgid "What do you do?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("What do you do?", "Please change my hairstyle.", "Who is Prince Shammi?")) {
+msgctxt "Assistant Beautician#li"
+msgid "Please change my hairstyle."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("What do you do?", "Please change my hairstyle.", "Who is Prince Shammi?")) {
+msgctxt "Assistant Beautician#li"
+msgid "Who is Prince Shammi?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh! Me...? I'm";
+msgctxt "Assistant Beautician#li"
+msgid "Oh! Me...? I'm"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "just an assistant";
+msgctxt "Assistant Beautician#li"
+msgid "just an assistant"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "beautician, but I'm";
+msgctxt "Assistant Beautician#li"
+msgid "beautician, but I'm"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "training hard everyday";
+msgctxt "Assistant Beautician#li"
+msgid "training hard everyday"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "so that I can become";
+msgctxt "Assistant Beautician#li"
+msgid "so that I can become"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "a real professional!";
+msgctxt "Assistant Beautician#li"
+msgid "a real professional!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Yeah, I do all sorts of";
+msgctxt "Assistant Beautician#li"
+msgid "Yeah, I do all sorts of"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "grunt work for the boss while";
+msgctxt "Assistant Beautician#li"
+msgid "grunt work for the boss while"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I'm in training. Sometimes, he";
+msgctxt "Assistant Beautician#li"
+msgid "I'm in training. Sometimes, he"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "makes me work pretty hard.";
+msgctxt "Assistant Beautician#li"
+msgid "makes me work pretty hard."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "In fact, I better get back to work before he gets angry at me!";
+msgctxt "Assistant Beautician#li"
+msgid "In fact, I better get back to work before he gets angry at me!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Me...? Oh no,";
+msgctxt "Assistant Beautician#li"
+msgid "Me...? Oh no,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "no I can't! I mean,";
+msgctxt "Assistant Beautician#li"
+msgid "no I can't! I mean,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I'd love to but, I'm";
+msgctxt "Assistant Beautician#li"
+msgid "I'd love to but, I'm"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "still in training and";
+msgctxt "Assistant Beautician#li"
+msgid "still in training and"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I can't take responsibility";
+msgctxt "Assistant Beautician#li"
+msgid "I can't take responsibility"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "if I mess up on a little kid!";
+msgctxt "Assistant Beautician#li"
+msgid "if I mess up on a little kid!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Well... I'm just an";
+msgctxt "Assistant Beautician#li"
+msgid "Well... I'm just an"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "assistant, but I have been";
+msgctxt "Assistant Beautician#li"
+msgid "assistant, but I have been"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "studying hairstyling after";
+msgctxt "Assistant Beautician#li"
+msgid "studying hairstyling after"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "work. If you want, just bring";
+msgctxt "Assistant Beautician#li"
+msgid "work. If you want, just bring"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "me 250,000 zeny and I'll try";
+msgctxt "Assistant Beautician#li"
+msgid "me 250,000 zeny and I'll try"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "my best to change your hair~";
+msgctxt "Assistant Beautician#li"
+msgid "my best to change your hair~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I'd appreciate it if you'd";
+msgctxt "Assistant Beautician#li"
+msgid "I'd appreciate it if you'd"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "give me this chance! The";
+msgctxt "Assistant Beautician#li"
+msgid "give me this chance! The"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "boss doesn't think I'm ready";
+msgctxt "Assistant Beautician#li"
+msgid "boss doesn't think I'm ready"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "for styling real people yet, so";
+msgctxt "Assistant Beautician#li"
+msgid "for styling real people yet, so"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I haven't had much practice!";
+msgctxt "Assistant Beautician#li"
+msgid "I haven't had much practice!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I just know I could";
+msgctxt "Assistant Beautician#li"
+msgid "I just know I could"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "do a good job on your";
+msgctxt "Assistant Beautician#li"
+msgid "do a good job on your"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "hair! Just... Just please";
+msgctxt "Assistant Beautician#li"
+msgid "hair! Just... Just please"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "understand if I mess up.";
+msgctxt "Assistant Beautician#li"
+msgid "understand if I mess up."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "It won't be too bad, I promise~";
+msgctxt "Assistant Beautician#li"
+msgid "It won't be too bad, I promise~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You're really going to";
+msgctxt "Assistant Beautician#li"
+msgid "You're really going to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "give me a chance to practice?";
+msgctxt "Assistant Beautician#li"
+msgid "give me a chance to practice?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, I love you so much! Okay,";
+msgctxt "Assistant Beautician#li"
+msgid "Oh, I love you so much! Okay,"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I'll need 250,000 zeny to make";
+msgctxt "Assistant Beautician#li"
+msgid "I'll need 250,000 zeny to make"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "up for the material expenses.";
+msgctxt "Assistant Beautician#li"
+msgid "up for the material expenses."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Is that okay with you?";
+msgctxt "Assistant Beautician#li"
+msgid "Is that okay with you?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Of course~", "On second thought...")) {
+msgctxt "Assistant Beautician#li"
+msgid "Of course~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Of course~", "On second thought...")) {
+msgctxt "Assistant Beautician#li"
+msgid "On second thought..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Great! Now, please";
+msgctxt "Assistant Beautician#li"
+msgid "Great! Now, please"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "choose a hairstyle";
+msgctxt "Assistant Beautician#li"
+msgid "choose a hairstyle"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "from ''1'' to ''23.''";
+msgctxt "Assistant Beautician#li"
+msgid "from ''1'' to ''23.''"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Um, if you need to";
+msgctxt "Assistant Beautician#li"
+msgid "Um, if you need to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "cancel, just enter ''0.''";
+msgctxt "Assistant Beautician#li"
+msgid "cancel, just enter ''0.''"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Awwww...";
+msgctxt "Assistant Beautician#li"
+msgid "Awwww..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I guess you don't";
+msgctxt "Assistant Beautician#li"
+msgid "I guess you don't"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "trust me after all...";
+msgctxt "Assistant Beautician#li"
+msgid "trust me after all..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Huh? I thought I asked";
+msgctxt "Assistant Beautician#li"
+msgid "Huh? I thought I asked"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you to enter a number from";
+msgctxt "Assistant Beautician#li"
+msgid "you to enter a number from"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "''1'' to ''23?'' What did I do";
+msgctxt "Assistant Beautician#li"
+msgid "''1'' to ''23?'' What did I do"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "wrong this time? Hmmm...";
+msgctxt "Assistant Beautician#li"
+msgid "wrong this time? Hmmm..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "So this is the";
+msgctxt "Assistant Beautician#li"
+msgid "So this is the"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "style you want me";
+msgctxt "Assistant Beautician#li"
+msgid "style you want me"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "to try to do for you?";
+msgctxt "Assistant Beautician#li"
+msgid "to try to do for you?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Yes, let's try it~", "Cancel.")) {
+msgctxt "Assistant Beautician#li"
+msgid "Yes, let's try it~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# switch(select("Yes, let's try it~", "Cancel.")) {
+msgctxt "Assistant Beautician#li"
+msgid "Cancel."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oooh, there must";
+msgctxt "Assistant Beautician#li"
+msgid "Oooh, there must"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "be some style that";
+msgctxt "Assistant Beautician#li"
+msgid "be some style that"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you like, right? Hmmm...";
+msgctxt "Assistant Beautician#li"
+msgid "you like, right? Hmmm..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Great, you finally";
+msgctxt "Assistant Beautician#li"
+msgid "Great, you finally"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "picked one! What, which";
+msgctxt "Assistant Beautician#li"
+msgid "picked one! What, which"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "one did you pick again?";
+msgctxt "Assistant Beautician#li"
+msgid "one did you pick again?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Ah, I found it, I found it!";
+msgctxt "Assistant Beautician#li"
+msgid "Ah, I found it, I found it!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Haha! No problem here!";
+msgctxt "Assistant Beautician#li"
+msgid "Haha! No problem here!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Now it's time to style!";
+msgctxt "Assistant Beautician#li"
+msgid "Now it's time to style!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Bwwwwaaaahhhh!";
+msgctxt "Assistant Beautician#li"
+msgid "Bwwwwaaaahhhh!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Yap! Pwwwaaattt!";
+msgctxt "Assistant Beautician#li"
+msgid "Yap! Pwwwaaattt!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Waaaah!";
+msgctxt "Assistant Beautician#li"
+msgid "Waaaah!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh crap!";
+msgctxt "Assistant Beautician#li"
+msgid "Oh crap!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Wait, I can...";
+msgctxt "Assistant Beautician#li"
+msgid "Wait, I can..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I can fix this!";
+msgctxt "Assistant Beautician#li"
+msgid "I can fix this!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "^333333*Pant Pant Pant*^000000";
+msgctxt "Assistant Beautician#li"
+msgid "^333333*Pant Pant Pant*^000000"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Bwahahaha! Success!";
+msgctxt "Assistant Beautician#li"
+msgid "Bwahahaha! Success!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "So... How do you like";
+msgctxt "Assistant Beautician#li"
+msgid "So... How do you like"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "your new style? I love it!";
+msgctxt "Assistant Beautician#li"
+msgid "your new style? I love it!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Wha...? This isn't what";
+msgctxt "Assistant Beautician#li"
+msgid "Wha...? This isn't what"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "you wanted? Uh oh... Um...";
+msgctxt "Assistant Beautician#li"
+msgid "you wanted? Uh oh... Um..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Well, next time I know I can";
+msgctxt "Assistant Beautician#li"
+msgid "Well, next time I know I can"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "do a much better job! Right!";
+msgctxt "Assistant Beautician#li"
+msgid "do a much better job! Right!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Oh, you're such a";
+msgctxt "Assistant Beautician#li"
+msgid "Oh, you're such a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "sweetheart for helping";
+msgctxt "Assistant Beautician#li"
+msgid "sweetheart for helping"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "me! Thank you for using";
+msgctxt "Assistant Beautician#li"
+msgid "me! Thank you for using"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "my service and come again~";
+msgctxt "Assistant Beautician#li"
+msgid "my service and come again~"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Huh? Oh no, you're";
+msgctxt "Assistant Beautician#li"
+msgid "Huh? Oh no, you're"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "quitting? Well, I guess";
+msgctxt "Assistant Beautician#li"
+msgid "quitting? Well, I guess"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I couldn't trust me to";
+msgctxt "Assistant Beautician#li"
+msgid "I couldn't trust me to"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "style my hair either...";
+msgctxt "Assistant Beautician#li"
+msgid "style my hair either..."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "You're... You're right.";
+msgctxt "Assistant Beautician#li"
+msgid "You're... You're right."
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "Prince Shammi?";
+msgctxt "Assistant Beautician#li"
+msgid "Prince Shammi?"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "He's only a genius when";
+msgctxt "Assistant Beautician#li"
+msgid "He's only a genius when"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "it comes to hairstyling!";
+msgctxt "Assistant Beautician#li"
+msgid "it comes to hairstyling!"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "I'm just his apprentice, but";
+msgctxt "Assistant Beautician#li"
+msgid "I'm just his apprentice, but"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "maybe someday, I can be a";
+msgctxt "Assistant Beautician#li"
+msgid "maybe someday, I can be a"
+msgstr ""
+
+#: npc/merchants/hair_style.txt
+# mes "force in the fashion world too!";
+msgctxt "Assistant Beautician#li"
+msgid "force in the fashion world too!"
+msgstr ""

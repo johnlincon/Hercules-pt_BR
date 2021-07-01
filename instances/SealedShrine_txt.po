@@ -1,0 +1,2359 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 12:02-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes("[Friar Patrick]");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "[Friar Patrick]"
+msgstr "[Frei Patrick]"
+
+# mes("The peace of this world cannot last forever... The hands of Evil are reaching into the world again...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"The peace of this world cannot last forever... The hands of Evil are "
+"reaching into the world again..."
+msgstr ""
+"A paz deste mundo não pode durar para sempre... As mãos do Mal estão "
+"chegando ao mundo novamente..."
+
+# mes("What brought you to this place?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "What brought you to this place?"
+msgstr "O que o trouxe a este lugar?"
+
+# .@selection = select("What is this place?", "I want to enter.", "About the Cursed Baphomet Doll.", "Cancel.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "What is this place?"
+msgstr "O que é este lugar?"
+
+# .@selection = select("What is this place?", "I want to enter.", "About the Cursed Baphomet Doll.", "Cancel.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "I want to enter."
+msgstr "Eu quero entrar."
+
+# .@selection = select("What is this place?", "I want to enter.", "About the Cursed Baphomet Doll.", "Cancel.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "About the Cursed Baphomet Doll."
+msgstr "Sobre a Boneca Baphomet Amaldiçoada."
+
+# .@selection = select("What is this place?", "I want to enter.", "About the Cursed Baphomet Doll.", "Cancel.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes("Huh... Don't you know? This is St. Capitolina Monastery where the Brothers who wish to become monks train and pray.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Huh... Don't you know? This is St. Capitolina Monastery where the Brothers "
+"who wish to become monks train and pray."
+msgstr ""
+"Huh... Você não sabe? Este é o Mosteiro St. Capitolina onde os Irmãos que "
+"desejam se tornar monges treinam e rezam."
+
+# mes("And this place is... What can I say... Yes. It's the grave of the Devil. Grave...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"And this place is... What can I say... Yes. It's the grave of the Devil. "
+"Grave..."
+msgstr ""
+"E este lugar é... O que posso dizer... Sim. É o túmulo do Diabo. Túmulo..."
+
+# mes("The very place where the great Devil who once demolished this world is sleeping.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"The very place where the great Devil who once demolished this world is "
+"sleeping."
+msgstr ""
+"O próprio lugar onde dorme o grande demônio que uma vez demoliu este mundo."
+
+# switch (select("Tell me more.", "Stop talking.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "Tell me more."
+msgstr "Conte-me mais."
+
+# switch (select("Tell me more.", "Stop talking.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "Stop talking."
+msgstr "Pare de falar."
+
+# mes("Baphomet... is the name of the Devil... I think you have heard of his name.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Baphomet... is the name of the Devil... I think you have heard of his name."
+msgstr ""
+"Baphomet... é o nome do Diabo... Acho que você já ouviu falar do nome dele."
+
+# mes("Numerous brave men and brothers have trained in this monastery...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "Numerous brave men and brothers have trained in this monastery..."
+msgstr "Numerosos homens corajosos e irmãos treinaram neste mosteiro..."
+
+# mes("Under this gravestone in front of you... Baphomet is sealed.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "Under this gravestone in front of you... Baphomet is sealed."
+msgstr "Sob esta lápide à sua frente... O Baphomet é selado."
+
+# mes("But... As we speak Satan Morocc is marshalling his powerful magic in order to affect all life on this continent.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"But... As we speak Satan Morocc is marshalling his powerful magic in order "
+"to affect all life on this continent."
+msgstr ""
+"Mas... Enquanto falamos, Satanás marroquino está reunindo sua poderosa magia "
+"a fim de afetar toda a vida neste continente."
+
+# mes("Baphomet also... has awakened and is preparing for his revival, into this world, by weakening the power of the seal through the power of Satan Morocc...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Baphomet also... has awakened and is preparing for his revival, into this "
+"world, by weakening the power of the seal through the power of Satan "
+"Morocc..."
+msgstr ""
+"Baphomet também... despertou e está se preparando para seu renascimento, "
+"neste mundo, enfraquecendo o poder do selo através do poder de Satanás "
+"marroquino..."
+
+# mes("Now... I'm looking for someone brave enough to reseal Baphomet in its shrine... as we once did many years ago...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Now... I'm looking for someone brave enough to reseal Baphomet in its "
+"shrine... as we once did many years ago..."
+msgstr ""
+"Agora... Estou procurando alguém corajoso o suficiente para resselar "
+"Baphomet em seu santuário... como já fizemos há muitos anos..."
+
+# mes("Anyone who fights for good will know, deep inside, that evil is threatening to conquer this world...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Anyone who fights for good will know, deep inside, that evil is threatening "
+"to conquer this world..."
+msgstr ""
+"Quem luta pelo bem saberá, no fundo, que o mal ameaça conquistar este "
+"mundo..."
+
+# mes("Train more and use your skills to protect the world from evil's looming presence...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Train more and use your skills to protect the world from evil's looming "
+"presence..."
+msgstr ""
+"Treine mais e use suas habilidades para proteger o mundo da presença do mal "
+"que se aproxima..."
+
+# mes("Do you mean you'll go to the shrine and reseal Baphomet?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "Do you mean you'll go to the shrine and reseal Baphomet?"
+msgstr ""
+"Você quer dizer que você irá ao santuário e selará novamente o Baphomet?"
+
+# mesf("Party name is %s...", getpartyname(.@party_id));
+#: npc/instances/SealedShrine.txt
+#, fuzzy, c-format
+msgctxt "Friar Patrick#edq"
+msgid "Party name is %s..."
+msgstr "O nome da festa é %s..."
+
+# mesf("Name of the leader is %s...", strcharinfo(PC_NAME));
+#: npc/instances/SealedShrine.txt
+#, fuzzy, c-format
+msgctxt "Friar Patrick#edq"
+msgid "Name of the leader is %s..."
+msgstr "O nome do líder é %s..."
+
+# .@instance = instance_create(_("Sealed Catacomb"), .@party_id);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "Sealed Catacomb"
+msgstr "Catacumba Selada"
+
+# mes("Umm... But it seems that there is a problem here... I'll check quickly. Please wait.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Umm... But it seems that there is a problem here... I'll check quickly. "
+"Please wait."
+msgstr ""
+"Umm... Mas parece que há um problema aqui... Vou verificar rapidamente. Por "
+"favor, espere."
+
+# mes("Okay... I'll adjust the shrine's seal so that you and your group can enter.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Okay... I'll adjust the shrine's seal so that you and your group can enter."
+msgstr ""
+"Certo... Eu vou ajustar o selo do santuário para que você e seu grupo possam "
+"entrar."
+
+# mes("You will see a sign when the seal has broken. Please wait until the sign appears...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"You will see a sign when the seal has broken. Please wait until the sign "
+"appears..."
+msgstr ""
+"Você verá um sinal quando o selo for quebrado. Por favor, aguarde até que o "
+"sinal apareça..."
+
+# mes("When you see the sign, put your hands on the gravestone... Then you can move inside.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"When you see the sign, put your hands on the gravestone... Then you can move "
+"inside."
+msgstr ""
+"Quando vir o sinal, ponha as mãos na lápide. Depois você pode se mover para "
+"dentro."
+
+# mes("One thing that you should remember is... Anyone who enters this shrine will be cursed by Baphomet and cannot enter or leave while they are cursed.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"One thing that you should remember is... Anyone who enters this shrine will "
+"be cursed by Baphomet and cannot enter or leave while they are cursed."
+msgstr ""
+"Uma coisa que você deve lembrar é... Quem entrar neste santuário será "
+"amaldiçoado por Baphomet e não poderá entrar ou sair enquanto estiver "
+"amaldiçoado."
+
+# mes("And one more thing... In this cursed area, some skills, which are protected by outer physical power are prohibited by the effect of the seal.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"And one more thing... In this cursed area, some skills, which are protected "
+"by outer physical power are prohibited by the effect of the seal."
+msgstr ""
+"E mais uma coisa... Nesta área amaldiçoada, algumas habilidades, que são "
+"protegidas pelo poder físico exterior, são proibidas pelo efeito do selo."
+
+# mes("For example, the skills like ^0000FFSafety Wall and Assumptio^000000... So you'd better prepare before entering the shrine.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"For example, the skills like ^0000FFSafety Wall and Assumptio^000000... So "
+"you'd better prepare before entering the shrine."
+msgstr ""
+"Por exemplo, as habilidades como ^0000FFSafety Wall e Assumptio^000000... "
+"Portanto, é melhor se preparar antes de entrar no santuário."
+
+# mes("Umm... I recognize your courage, but... I can't permit anyone to enter this place. I can only permit the leader of a party to enter first.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Umm... I recognize your courage, but... I can't permit anyone to enter this "
+"place. I can only permit the leader of a party to enter first."
+msgstr ""
+"Umm... Eu reconheço sua coragem, mas... Eu não posso permitir que ninguém "
+"entre neste lugar. Eu só posso permitir que o líder de um partido entre "
+"primeiro."
+
+# mes("Once the party leader is permitted, the rest of the party can enter. This is a rule of this monastery, so please understand.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Once the party leader is permitted, the rest of the party can enter. This is "
+"a rule of this monastery, so please understand."
+msgstr ""
+"Uma vez que o líder do partido é permitido, o resto do partido pode entrar. "
+"Esta é uma regra deste mosteiro, portanto, por favor, entenda."
+
+# mes("It seems you have entered this shrine recently... You cannot reenter because Baphomet's Curse still remains. Baphomet's Curse disappears only after a certain amount of time has passed.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"It seems you have entered this shrine recently... You cannot reenter because "
+"Baphomet's Curse still remains. Baphomet's Curse disappears only after a "
+"certain amount of time has passed."
+msgstr ""
+"Parece que entrou neste santuário recentemente... Você não pode reentrar "
+"porque a Maldição de Baphomet ainda permanece. A Maldição de Baphomet só "
+"desaparece depois de um certo período de tempo."
+
+# mes("Umm... It seems that Baphomet's Curse has weakened. I can remove it now.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Umm... It seems that Baphomet's Curse has weakened. I can remove it now."
+msgstr ""
+"Umm... Parece que a Maldição de Baphomet se enfraqueceu. Eu posso removê-la "
+"agora."
+
+# mes("Haaaaaaap... Hocus Pocus Wingardium Abracadabra!!!!!");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "Haaaaaaap... Hocus Pocus Wingardium Abracadabra!!!!!"
+msgstr "Haaaaaaap... Hocus Pocus Wingardium Abracadabra!!!!!"
+
+# mes("Huu... It's over. Now that I've released Baphomet's Curse, you can enter again.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Huu... It's over. Now that I've released Baphomet's Curse, you can enter "
+"again."
+msgstr ""
+"Huu... Acabou. Agora que liberei a Maldição de Baphomet, você pode entrar "
+"novamente."
+
+# mes("Umm... You should train more to enter this dangerous place... You should reach at least Lv 75 to enter here.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Umm... You should train more to enter this dangerous place... You should "
+"reach at least Lv 75 to enter here."
+msgstr ""
+"Umm... Você deveria treinar mais para entrar neste lugar perigoso... Você "
+"deve alcançar pelo menos a Lv 75 para entrar aqui."
+
+# mes("Please train more and come again.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "Please train more and come again."
+msgstr "Por favor, treine mais e venha novamente."
+
+# mes("That is... the villainous doll that you are holding... Let me see it.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "That is... the villainous doll that you are holding... Let me see it."
+msgstr "Isto é... o boneco vilão que você está segurando... Deixe-me vê-la."
+
+# mes("... ... ...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid "... ... ..."
+msgstr "... ... ..."
+
+# mes("That's correct... I can feel Baphomet's evil inside... So, what will you do with the doll?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"That's correct... I can feel Baphomet's evil inside... So, what will you do "
+"with the doll?"
+msgstr ""
+"Isso é correto... Eu posso sentir o mal de Baphomet por dentro... Então, o "
+"que você vai fazer com a boneca?"
+
+# mes("It is just a dangerous and useless thing if you do nothing with it... I'll introduce someone who can help you... Do you want to see him?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"It is just a dangerous and useless thing if you do nothing with it... I'll "
+"introduce someone who can help you... Do you want to see him?"
+msgstr ""
+"É uma coisa perigosa e inútil se você não fizer nada com ela... Apresentarei "
+"alguém que pode ajudá-lo... Você quer vê-lo?"
+
+# mes("Go to see ^0000FFRust Blackhand^000000 who is near the main building of the monastery... He will make this doll helpful to you.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Friar Patrick#edq"
+msgid ""
+"Go to see ^0000FFRust Blackhand^000000 who is near the main building of the "
+"monastery... He will make this doll helpful to you."
+msgstr ""
+"Vá ver ^0000FFRust Blackhand^000000 que está perto do edifício principal do "
+"mosteiro. Ele fará com que este boneco lhe seja útil."
+
+# mes("This gravestone has a carving of a wicked devil with large horns. It arouses an ominous feeling.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Grave of Baphomet#edq"
+msgid ""
+"This gravestone has a carving of a wicked devil with large horns. It arouses "
+"an ominous feeling."
+msgstr ""
+"Esta lápide tem um entalhe de um diabo malvado com grandes chifres. Ela "
+"desperta uma sensação sinistra."
+
+# if (select("Touch the stone.", "Step back.") == 2)
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Grave of Baphomet#edq"
+msgid "Touch the stone."
+msgstr "Toque a pedra."
+
+# if (select("Touch the stone.", "Step back.") == 2)
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Grave of Baphomet#edq"
+msgid "Step back."
+msgstr "Afaste-se."
+
+# mes("It's cold to the touch. It doesn't respond.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Grave of Baphomet#edq"
+msgid "It's cold to the touch. It doesn't respond."
+msgstr "Está frio ao toque. Não responde."
+
+# mapannounce("monk_test", sprintf(_$("[%s] member of the [%s] party has entered the Sealed Shrine."), strcharinfo(PC_NAME), getpartyname(.@party_id)), bc_map, C_SPRINGGREEN);
+#: npc/instances/SealedShrine.txt
+#, fuzzy, c-format
+msgctxt "Grave of Baphomet#edq"
+msgid "[%s] member of the [%s] party has entered the Sealed Shrine."
+msgstr "[%s] membro do partido [%s] entrou no Santuário Selado."
+
+# mes("[Friar Patrick]");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Grave of Baphomet#edq"
+msgid "[Friar Patrick]"
+msgstr "[Frei Patrick]"
+
+# mes("It seems you have entered this shrine recently... You cannot reenter because the curse of Baphomet still remains.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Grave of Baphomet#edq"
+msgid ""
+"It seems you have entered this shrine recently... You cannot reenter because "
+"the curse of Baphomet still remains."
+msgstr ""
+"Parece que entrou neste santuário recentemente... Você não pode reentrar "
+"porque a maldição de Baphomet ainda permanece."
+
+# mes("The curse of Baphomet disappears after a certain amount of time after you entered.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Grave of Baphomet#edq"
+msgid ""
+"The curse of Baphomet disappears after a certain amount of time after you "
+"entered."
+msgstr ""
+"A maldição de Baphomet desaparece após um certo período de tempo depois que "
+"você entrou."
+
+# mes("Umm... It seems the curse of Baphomet weakened. I'll clear the bad curse.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Grave of Baphomet#edq"
+msgid ""
+"Umm... It seems the curse of Baphomet weakened. I'll clear the bad curse."
+msgstr ""
+"Umm... Parece que a maldição de Baphomet se enfraqueceu. Vou acabar com a "
+"maldição ruim."
+
+# mes("Haaaaaaap... Wingardium Leviosa Expecto Patronum !!!!!");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Grave of Baphomet#edq"
+msgid "Haaaaaaap... Wingardium Leviosa Expecto Patronum !!!!!"
+msgstr "Haaaaaaap... Wingardium Leviosa Expecto Patronum !!!!!"
+
+# mes("Huu... It's over. Now I released all of the curses on you. You can enter again.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Grave of Baphomet#edq"
+msgid ""
+"Huu... It's over. Now I released all of the curses on you. You can enter "
+"again."
+msgstr ""
+"Huu... Acabou. Agora eu libero todas as maldições sobre você. Você pode "
+"entrar novamente."
+
+# mes("[Rust Blackhand]");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "[Rust Blackhand]"
+msgstr "[Mão Negra Ferrugem]"
+
+# mes("Who are you? What do you want me for?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "Who are you? What do you want me for?"
+msgstr "Quem é você? Para que você me quer?"
+
+# mes("You're not a monk, then what do you want?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "You're not a monk, then what do you want?"
+msgstr "Você não é um monge, então o que você quer?"
+
+# mes("Did you bring all of the ingredients?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "Did you bring all of the ingredients?"
+msgstr "Você trouxe todos os ingredientes?"
+
+# mes("kkk... You prepared the ingredients well. Why don't you leave it there and wait?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"kkk... You prepared the ingredients well. Why don't you leave it there and "
+"wait?"
+msgstr ""
+"kkk... Você preparou bem os ingredientes. Por que você não o deixa lá e "
+"espera?"
+
+# mes("Hmm... It's been such a long time since I last saw these wicked horns... kkk... Let me start...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"Hmm... It's been such a long time since I last saw these wicked horns... "
+"kkk... Let me start..."
+msgstr ""
+"Hmm... Faz tanto tempo desde a última vez que vi esses chifres malvados... "
+"kkk... Deixe-me começar..."
+
+# mes("...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "..."
+msgstr "..."
+
+# mes("... ...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "... ..."
+msgstr "... ..."
+
+# mes("... ... ...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "... ... ..."
+msgstr "... ... ..."
+
+# mes("It's done. You may be excited, of course. I understand...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "It's done. You may be excited, of course. I understand..."
+msgstr "Está feito. Você pode ficar entusiasmado, é claro. Eu entendo..."
+
+# mes("I don't accept complaints or A/S requests, so use it with care. I must go...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"I don't accept complaints or A/S requests, so use it with care. I must go..."
+msgstr ""
+"Eu não aceito reclamações ou pedidos A/S, portanto use-o com cuidado. Devo "
+"ir..."
+
+# mes("Huu... You don't understand what I said. You cannot make anything with these ingredients.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"Huu... You don't understand what I said. You cannot make anything with these "
+"ingredients."
+msgstr ""
+"Huu... Você não entende o que eu disse. Você não pode fazer nada com estes "
+"ingredientes."
+
+# mes("I'll tell you the ingredients one more time, so please gather them correctly.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"I'll tell you the ingredients one more time, so please gather them correctly."
+msgstr ""
+"Vou lhe dizer os ingredientes mais uma vez, portanto, por favor, junte-os "
+"corretamente."
+
+# mes("^0000FFCursed Baphomet Doll, Magestic Goat, 30 Crystal of Darkness, 50 Fragment of Darkness^000000, and the most important, production cost is ^0000FF990000^000000 Zeny.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"^0000FFCursed Baphomet Doll, Magestic Goat, 30 Crystal of Darkness, 50 "
+"Fragment of Darkness^000000, and the most important, production cost is "
+"^0000FF990000^000000 Zeny."
+msgstr ""
+"^0000FFCursed Baphomet Doll, Magestic Goat, 30 Cristal of Darkness, 50 "
+"Fragment of Darkness^000000, e o mais importante, o custo de produção é "
+"^0000FF990000^000000 Zeny."
+
+# switch (select("About the Cursed Baphomet Doll", "Stop talking.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "About the Cursed Baphomet Doll"
+msgstr "Sobre a Boneca Baphomet Amaldiçoada"
+
+# switch (select("About the Cursed Baphomet Doll", "Stop talking.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "Stop talking."
+msgstr "Pare de falar."
+
+# mes("What?... Hmmm... Did you get the doll? You're pretty good, unlike your appearance...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"What?... Hmmm... Did you get the doll? You're pretty good, unlike your "
+"appearance..."
+msgstr ""
+"O quê?... Hmmm... Você conseguiu a boneca? Você é muito bom, ao contrário de "
+"sua aparência..."
+
+# mes("Let me see... Needless to say, Patric must have sent you here to deal with the doll, right?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"Let me see... Needless to say, Patric must have sent you here to deal with "
+"the doll, right?"
+msgstr ""
+"Deixe-me ver... Escusado será dizer que Patric deve tê-lo enviado aqui para "
+"lidar com a boneca, certo?"
+
+# mes("Cool... I'll help you make the evil doll useful. What? What can I do?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "Cool... I'll help you make the evil doll useful. What? What can I do?"
+msgstr ""
+"Legal... Eu o ajudarei a tornar a boneca malvada útil. O quê? O que eu posso "
+"fazer?"
+
+# mes("I can make the strong and large horns of the wicked devil Baphomet for you. A helm that has his immense power.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"I can make the strong and large horns of the wicked devil Baphomet for you. "
+"A helm that has his immense power."
+msgstr ""
+"Eu posso fazer para você os chifres fortes e grandes do diabo malvado "
+"Baphomet. Um leme que tem seu imenso poder."
+
+# mes("It is called the ^4d4dffGigantic Magestic Goat^000000. You'll realize that the Magestic Goat you're familiar with is nothing in comparison.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"It is called the ^4d4dffGigantic Magestic Goat^000000. You'll realize that "
+"the Magestic Goat you're familiar with is nothing in comparison."
+msgstr ""
+"É chamado de ^4d4dffGigantic Magestic Goat^000000. Você vai perceber que o "
+"Bode Mágico que você conhece não é nada em comparação."
+
+# mes("The Cursed Baphomet Doll is the most important ingredient... I'll make you if you want. What would you like to do?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"The Cursed Baphomet Doll is the most important ingredient... I'll make you "
+"if you want. What would you like to do?"
+msgstr ""
+"A Boneca Maldita Baphomet é o ingrediente mais importante... Eu o farei, se "
+"você quiser. O que você gostaria de fazer?"
+
+# switch (select("I want to make one!", "I don't need one.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "I want to make one!"
+msgstr "Eu quero fazer um!"
+
+# switch (select("I want to make one!", "I don't need one.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "I don't need one."
+msgstr "Eu não preciso de um."
+
+# mes("kkk... Yes, wise men take their chances when the opportunity comes. I'll tell you the ingredients. Don't forget, and bring them all.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"kkk... Yes, wise men take their chances when the opportunity comes. I'll "
+"tell you the ingredients. Don't forget, and bring them all."
+msgstr ""
+"kkk... Sim, os sábios aproveitam suas chances quando a oportunidade chega. "
+"Eu lhe direi os ingredientes. Não se esqueça e traga todos eles."
+
+# mes("You can get the Magestic Goat from the weak Baphomet in the Labyrinth Forest. Crystal of Darkness and Fragment of Darkness are from the Incarnation of Morocc.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"You can get the Magestic Goat from the weak Baphomet in the Labyrinth "
+"Forest. Crystal of Darkness and Fragment of Darkness are from the "
+"Incarnation of Morocc."
+msgstr ""
+"Você pode obter o Bode Magestic da fraca Baphomet na Floresta do Labirinto. "
+"Cristal das Trevas e Fragmento das Trevas são da Encarnação de Marrocos."
+
+# mes("I'm sure that you can get the ingredients because you sealed the real Baphomet. Can't you? kkk...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"I'm sure that you can get the ingredients because you sealed the real "
+"Baphomet. Can't you? kkk..."
+msgstr ""
+"Tenho certeza de que você pode obter os ingredientes porque você selou o "
+"verdadeiro Baphomet. Você não pode? kkk..."
+
+# mes("You'll never know how great this hat is until you get one. If you understood, go and get the ingredients.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"You'll never know how great this hat is until you get one. If you "
+"understood, go and get the ingredients."
+msgstr ""
+"Você nunca saberá o quão grande é este chapéu até conseguir um. Se você "
+"entendeu, vá e pegue os ingredientes."
+
+# mes("Huh... Do you? Do whatever you want... Do you really want to let this opportunity go to waste?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"Huh... Do you? Do whatever you want... Do you really want to let this "
+"opportunity go to waste?"
+msgstr ""
+"Huh... E você? Faça o que você quiser... Você realmente quer desperdiçar "
+"esta oportunidade?"
+
+# mes("Tut, tut... I don't care if the wicked doll threatens your life all the time!");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"Tut, tut... I don't care if the wicked doll threatens your life all the time!"
+msgstr ""
+"Tut, tut... Não me importa se a boneca malvada ameaça sua vida o tempo todo!"
+
+# mes("What a dull boy he is... huh...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "What a dull boy he is... huh..."
+msgstr "Que menino chato ele é... huh..."
+
+# mes("If you don't have business with me, go away! As you see, I make equipment for the Brothers at the monastery, not for adventurers like you. Do you understand?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"If you don't have business with me, go away! As you see, I make equipment "
+"for the Brothers at the monastery, not for adventurers like you. Do you "
+"understand?"
+msgstr ""
+"Se você não tem negócios comigo, vá embora! Como você vê, eu faço "
+"equipamentos para os Irmãos no mosteiro, não para aventureiros como você. "
+"Você entendeu?"
+
+# mes("What?... You again? What do you want this time?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "What?... You again? What do you want this time?"
+msgstr "O quê?... Você novamente? O que você quer desta vez?"
+
+# mes("What? You got another doll from the wicked devil? Umm... You're much better than I thought...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"What? You got another doll from the wicked devil? Umm... You're much better "
+"than I thought..."
+msgstr ""
+"O quê? Você recebeu outra boneca do diabo malvado? Umm... Você é muito "
+"melhor do que eu pensava..."
+
+# mes("Alright... I'll help you again.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "Alright... I'll help you again."
+msgstr "Muito bem... Eu o ajudarei novamente."
+
+# mes("If you want to make the doll into a ^4d4dffGigantic Magestic Goat^000000 again, I can make you another.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"If you want to make the doll into a ^4d4dffGigantic Magestic Goat^000000 "
+"again, I can make you another."
+msgstr ""
+"Se você quiser transformar o boneco em um ^4d4dffGigantic Magestic "
+"Goat^000000 novamente, eu posso fazer outro para você."
+
+# mes("I'll tell you the ingredients again. So, do you want to make?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "I'll tell you the ingredients again. So, do you want to make?"
+msgstr "Vou lhe dizer novamente os ingredientes. Então, você quer fazer?"
+
+# switch (select("I want.", "No, I don't want.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "I want."
+msgstr "Eu quero."
+
+# switch (select("I want.", "No, I don't want.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid "No, I don't want."
+msgstr "Não, eu não quero."
+
+# mes("Why are you hanging around here? If you don't want a ^4d4dffGigantic Magestic Goat^000000, go away.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Rust Blackhand#edq"
+msgid ""
+"Why are you hanging around here? If you don't want a ^4d4dffGigantic "
+"Magestic Goat^000000, go away."
+msgstr ""
+"Por que você anda por aqui? Se você não quer um ^4d4dffGigantic Magestic "
+"Goat^000000, vá embora."
+
+# monster(.@map$, 0, 0, _("Apostle of Baphomet"), FLAME_SKULL, 1, .@label$);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_baphomet_lotto3"
+msgid "Apostle of Baphomet"
+msgstr "Apóstolo de Baphomet"
+
+# mapannounce(.@map$, _("All apostles of Baphomet are dead!"), bc_map, C_SPRINGGREEN);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_baphomet_lotto3"
+msgid "All apostles of Baphomet are dead!"
+msgstr "Todos os apóstolos de Baphomet estão mortos!"
+
+# mes("The gravestone is trembling...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "The gravestone is trembling..."
+msgstr "A lápide está tremendo..."
+
+# mes("When touching the gravestone, I hear a voice.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "When touching the gravestone, I hear a voice."
+msgstr "Ao tocar a lápide, eu ouço uma voz."
+
+# mes("[Voice of the Gravestone]");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "[Voice of the Gravestone]"
+msgstr "[Voz da Pedra Lápide]"
+
+# mes("I have waited and waited for a brave adventurer like you who will come back here again...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"I have waited and waited for a brave adventurer like you who will come back "
+"here again..."
+msgstr ""
+"Esperei e esperei por um aventureiro corajoso como você, que voltará aqui "
+"novamente..."
+
+# switch (select("Who are you?", "Waited for me?", "Cancel.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "Who are you?"
+msgstr "Quem é Você?"
+
+# switch (select("Who are you?", "Waited for me?", "Cancel.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "Waited for me?"
+msgstr "Esperou por mim?"
+
+# switch (select("Who are you?", "Waited for me?", "Cancel.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes("I was one of the warriors to stop Baphomet like you. Now, I'm dead and only my soul remains...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"I was one of the warriors to stop Baphomet like you. Now, I'm dead and only "
+"my soul remains..."
+msgstr ""
+"Eu fui um dos guerreiros para deter Baphomet como você. Agora, estou morto e "
+"só resta minha alma..."
+
+# mes("As you know... We don't have much time. You can't stop Baphomet by yourselves. The power of the devil has strengthened over the years.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"As you know... We don't have much time. You can't stop Baphomet by "
+"yourselves. The power of the devil has strengthened over the years."
+msgstr ""
+"Como você sabe... Não temos muito tempo. Vocês não podem parar Baphomet "
+"sozinhos. O poder do diabo tem se fortalecido ao longo dos anos."
+
+# mes("In the past, my companions and I sealed Baphomet at the altar located on the 2nd basement and blocked the entrance.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"In the past, my companions and I sealed Baphomet at the altar located on the "
+"2nd basement and blocked the entrance."
+msgstr ""
+"No passado, meus companheiros e eu selamos Baphomet no altar localizado no "
+"2º porão e bloqueamos a entrada."
+
+# mes("I moved my soul's essence to my pendant, so that I could remain in this world. That's when I became this grave's guardian.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"I moved my soul's essence to my pendant, so that I could remain in this "
+"world. That's when I became this grave's guardian."
+msgstr ""
+"Movi a essência da minha alma para o meu pingente, para que eu pudesse "
+"permanecer neste mundo. Foi então que me tornei o guardião deste túmulo."
+
+# mes("Baphomet's power is about to break the seal that we made. If you don't reactivate them... Baphomet's revival will only be a matter of time.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"Baphomet's power is about to break the seal that we made. If you don't "
+"reactivate them... Baphomet's revival will only be a matter of time."
+msgstr ""
+"O poder da Baphomet está prestes a quebrar o selo que fizemos. Se você não "
+"os reativar... O renascimento da Baphomet será apenas uma questão de tempo."
+
+# mes("To open the entrance, you must substantialize my soul. I'll open the entrance and reactivate the weakened seals after I am substantilized.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"To open the entrance, you must substantialize my soul. I'll open the "
+"entrance and reactivate the weakened seals after I am substantilized."
+msgstr ""
+"Para abrir a entrada, você deve fundamentar minha alma. Abrirei a entrada e "
+"reativarei os selos enfraquecidos depois de ter sido substantilizado."
+
+# mes("To substantialize my soul, you should find my pendant. You can find my body near a grave here.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"To substantialize my soul, you should find my pendant. You can find my body "
+"near a grave here."
+msgstr ""
+"Para fundamentar minha alma, você deve encontrar meu pingente. Você pode "
+"encontrar meu corpo perto de uma sepultura aqui."
+
+# mes("If your ^0000FFparty leader^000000 brings me the pendant, my soul can be substantialized. So, hurry up.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"If your ^0000FFparty leader^000000 brings me the pendant, my soul can be "
+"substantialized. So, hurry up."
+msgstr ""
+"Se seu ^0000FFlíder de partido^000000 me trouxer o pingente, minha alma pode "
+"ser substanciada. Então, apresse-se."
+
+# mes("I can feel the voice becoming faint.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "I can feel the voice becoming faint."
+msgstr "Eu posso sentir a voz se tornando fraca."
+
+# mes("Did you find the pendant?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "Did you find the pendant?"
+msgstr "Você encontrou o pingente?"
+
+# mes("Yes... This is... My pendant...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "Yes... This is... My pendant..."
+msgstr "Sim... Isto é... Meu pingente..."
+
+# mes("Now I can substantialize my soul. I'll wait for you in front of the altar of fire located at the center of this grave. Let's meet there.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"Now I can substantialize my soul. I'll wait for you in front of the altar of "
+"fire located at the center of this grave. Let's meet there."
+msgstr ""
+"Agora posso consubstanciar minha alma. Vou esperar por você em frente ao "
+"altar de fogo localizado no centro desta sepultura. Vamos nos encontrar lá."
+
+# mapannounce(instance_mapname("1@cata"), _("Ancient Hero's Soul : I'll wait for you in front of the altar of fire located at the center"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"Ancient Hero's Soul : I'll wait for you in front of the altar of fire "
+"located at the center"
+msgstr ""
+"Alma do Antigo Herói : Eu espero por você em frente ao altar de fogo "
+"localizado no centro"
+
+# mes("Are you still there? Bring back my pendant as soon as possible.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "Are you still there? Bring back my pendant as soon as possible."
+msgstr ""
+"Você ainda está aí? Traga meu pingente de volta o mais rápido possível."
+
+# mes("You can find my body near a grave here. Go and get my pendant there.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "You can find my body near a grave here. Go and get my pendant there."
+msgstr ""
+"Você pode encontrar meu corpo perto de uma cova aqui. Vá e pegue meu "
+"pingente lá."
+
+# mes("I want to talk to ^0000FFa representative among your party^000000. Everyone else, wait here.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"I want to talk to ^0000FFa representative among your party^000000. Everyone "
+"else, wait here."
+msgstr ""
+"Quero falar com o representante ^0000FFa de seu partido ^000000. Todos os "
+"outros, esperem aqui."
+
+# mes("'Krrrr... Krrrr...'");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid "'Krrrr... Krrrr...'"
+msgstr "'Krrrr... Krrrrrr.."
+
+# mes("I can feel something odd at the grave. It's like someone is calling out silently...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#"
+msgid ""
+"I can feel something odd at the grave. It's like someone is calling out "
+"silently..."
+msgstr ""
+"Eu posso sentir algo estranho na cova. É como se alguém estivesse chamando "
+"silenciosamente..."
+
+# mes("[Ancient Hero's Soul]");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "[Ancient Hero's Soul]"
+msgstr "[Alma do Antigo Herói]"
+
+# mes("With your help, my soul can be substantialized. I want to talk more, but we do not have enough time...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"With your help, my soul can be substantialized. I want to talk more, but we "
+"do not have enough time..."
+msgstr ""
+"Com sua ajuda, minha alma pode ser consubstanciada. Quero falar mais, mas "
+"não temos tempo suficiente..."
+
+# mes("I must be substantialized within the next hour. To reach the Main Altar underground, you must help me perform the ceremony for opening each seal.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"I must be substantialized within the next hour. To reach the Main Altar "
+"underground, you must help me perform the ceremony for opening each seal."
+msgstr ""
+"Devo ser fundamentado dentro da próxima hora. Para chegar ao Altar Principal "
+"subterrâneo, você deve me ajudar a realizar a cerimônia de abertura de cada "
+"selo."
+
+# mes("Now I'll tell you what should you do. First, collect ^0000FFEssence of Fire^000000 from the torches on the graves...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Now I'll tell you what should you do. First, collect ^0000FFEssence of "
+"Fire^000000 from the torches on the graves..."
+msgstr ""
+"Agora vou lhe dizer o que você deve fazer. Primeiro, recolher ^0000FFEssence "
+"of Fire^000000 das tochas nos túmulos..."
+
+# mes("Second, all members who will enter the underground must carry a symbol, called the Token of Apostle.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Second, all members who will enter the underground must carry a symbol, "
+"called the Token of Apostle."
+msgstr ""
+"Em segundo lugar, todos os membros que entrarão no subsolo devem levar um "
+"símbolo, chamado de Token de Apóstolo."
+
+# switch (select("What is Essence of Fire?", "What is a Token of Apostle?", "What should I do?", "I am ready.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "What is Essence of Fire?"
+msgstr "O que é Essência do Fogo?"
+
+# switch (select("What is Essence of Fire?", "What is a Token of Apostle?", "What should I do?", "I am ready.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "What is a Token of Apostle?"
+msgstr "O que é um Token de Apóstolo?"
+
+# switch (select("What is Essence of Fire?", "What is a Token of Apostle?", "What should I do?", "I am ready.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "What should I do?"
+msgstr "O que eu devo fazer?"
+
+# switch (select("What is Essence of Fire?", "What is a Token of Apostle?", "What should I do?", "I am ready.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "I am ready."
+msgstr "Estou pronto."
+
+# mes("You can see the torches here and there. These torches are the essence of Thor, the god of Thunder. They are inherited from our predecessors to stop the darkness of Baphomet...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"You can see the torches here and there. These torches are the essence of "
+"Thor, the god of Thunder. They are inherited from our predecessors to stop "
+"the darkness of Baphomet..."
+msgstr ""
+"Você pode ver as tochas aqui e ali. Estas tochas são a essência de Thor, o "
+"deus dos trovões. Elas são herdadas de nossos predecessores para deter a "
+"escuridão de Baphomet."
+
+# mes("To open the sealed underground gate, I must be purified by the ^0000FFEssence of Fire^000000 which has the power of Thor. Collect ^0000FF10 Essence of Fire^000000 from the torches.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"To open the sealed underground gate, I must be purified by the "
+"^0000FFEssence of Fire^000000 which has the power of Thor. Collect ^0000FF10 "
+"Essence of Fire^000000 from the torches."
+msgstr ""
+"Para abrir o portão subterrâneo selado, devo ser purificado pela "
+"^0000FFEssence of Fire^000000 que tem o poder de Thor. Recolher ^0000FF10 "
+"Essência de Fogo^000000 das tochas."
+
+# mes("One thing you must remember is... ^0000FFEssence of Fire^000000 can only be collected by the Inheritor of Faith.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"One thing you must remember is... ^0000FFEssence of Fire^000000 can only be "
+"collected by the Inheritor of Faith."
+msgstr ""
+"Uma coisa que você deve lembrar é... ^0000FFEssence of Fire^000000 só pode "
+"ser coletado pelo Ineritor da Fé."
+
+# mes("I'll give the token of the Inheritor of Faith to the party leader. Only the party leader can collect the ^0000FFEssence of Fire^000000.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"I'll give the token of the Inheritor of Faith to the party leader. Only the "
+"party leader can collect the ^0000FFEssence of Fire^000000."
+msgstr ""
+"Darei o símbolo do Ineridor da Fé ao líder do partido. Somente o líder do "
+"partido pode recolher o ^0000FFEssence of Fire^000000."
+
+# mes("At that time, it was impossible to get rid of Devil Baphomet by ourselves. After numerous heroes sacrificed their lives, we could barely seal him under this Abbey.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"At that time, it was impossible to get rid of Devil Baphomet by ourselves. "
+"After numerous heroes sacrificed their lives, we could barely seal him under "
+"this Abbey."
+msgstr ""
+"Naquela época, era impossível nos livrarmos do Devil Baphomet sozinhos. "
+"Depois que numerosos heróis sacrificaram suas vidas, mal podíamos selá-lo "
+"sob esta abadia."
+
+# mes("However, Baphomet never gave up. He continuously strengthened his power. And his power has brought new life to this shrine.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"However, Baphomet never gave up. He continuously strengthened his power. And "
+"his power has brought new life to this shrine."
+msgstr ""
+"No entanto, a Baphomet nunca desistiu. Ele fortaleceu continuamente seu "
+"poder. E seu poder trouxe nova vida a este santuário."
+
+# mes("Some of these monsters have magical powers. Baphomet calls them his 'Apostles'.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Some of these monsters have magical powers. Baphomet calls them his "
+"'Apostles'."
+msgstr ""
+"Alguns desses monstros têm poderes mágicos. Baphomet os chama de seus "
+"\"apóstolos\"."
+
+# mes("The apostles are cloning themselves to fill the shrine with their evil energy. They are the monsters here in this catacomb.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"The apostles are cloning themselves to fill the shrine with their evil "
+"energy. They are the monsters here in this catacomb."
+msgstr ""
+"Os apóstolos estão se clonando para encher o santuário com sua energia "
+"maligna. Eles são os monstros aqui nesta catacumba."
+
+# mes("Kill the Apostles. They can only be distinguished from their clones because they will possess a ^0000FFToken of Apostle^000000...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Kill the Apostles. They can only be distinguished from their clones because "
+"they will possess a ^0000FFToken of Apostle^000000..."
+msgstr ""
+"Matem os Apóstolos. Eles só podem ser distinguidos de seus clones porque "
+"possuirão um ^0000FFToken dos Apóstolos^000000..."
+
+# mes("If each party member possesses a ^0000FFToken of Apostle^000000, Baphomet will not be able to perceive your entrance to the Main Altar underground.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"If each party member possesses a ^0000FFToken of Apostle^000000, Baphomet "
+"will not be able to perceive your entrance to the Main Altar underground."
+msgstr ""
+"Se cada membro do partido possuir um ^0000FFToken de Apostle^000000, "
+"Baphomet não será capaz de perceber sua entrada no Altar Principal no "
+"subsolo."
+
+# mes("If Baphomet perceives you when you pass through the sealed gate, he may release his tremendous magical power. Then, this abbey will be demolished.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"If Baphomet perceives you when you pass through the sealed gate, he may "
+"release his tremendous magical power. Then, this abbey will be demolished."
+msgstr ""
+"Se Baphomet o perceber ao passar pelo portão selado, ele poderá liberar seu "
+"tremendo poder mágico. Então, esta abadia será demolida."
+
+# mes("Kill the apostles and get the ^0000FFToken of Apostle^000000.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "Kill the apostles and get the ^0000FFToken of Apostle^000000."
+msgstr "Matem os apóstolos e obtenham o ^0000FFToken of Apostle^000000."
+
+# mes("You look like the leader of this party. You need to go and get ^0000FF10 Essence of Fire^000000 from the torches.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"You look like the leader of this party. You need to go and get ^0000FF10 "
+"Essence of Fire^000000 from the torches."
+msgstr ""
+"Você se parece com o líder deste partido. Você precisa ir e obter ^0000FF10 "
+"Essence of Fire^000000 das tochas."
+
+# mes("Now I'll carve you the symbol which shows you're a inheritor of faith. Be aware that no one in your party but you can collect the Essence of Fire.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Now I'll carve you the symbol which shows you're a inheritor of faith. Be "
+"aware that no one in your party but you can collect the Essence of Fire."
+msgstr ""
+"Agora vou esculpir-lhe o símbolo que mostra que você é um herdeiro da fé. "
+"Esteja ciente de que ninguém em seu grupo, a não ser você, pode coletar a "
+"Essência do Fogo."
+
+# mes("You should also carry a ^0000FFToken of Apostle^000000, so find one for yourself too.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"You should also carry a ^0000FFToken of Apostle^000000, so find one for "
+"yourself too."
+msgstr ""
+"Você também deve levar um ^0000FFToken de Apostle^000000, então encontre um "
+"para você também."
+
+# mes("When all of you are ready to go, let me know. I'll open the sealed gate when you're ready.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"When all of you are ready to go, let me know. I'll open the sealed gate when "
+"you're ready."
+msgstr ""
+"Quando todos vocês estiverem prontos para ir, avisem-me. Eu abro o portão "
+"selado quando estiverem prontos."
+
+# mes("Make sure that your party leader has listened to my explanation of what you and your companions must do.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Make sure that your party leader has listened to my explanation of what you "
+"and your companions must do."
+msgstr ""
+"Certifique-se de que o líder de seu partido tenha ouvido minha explicação "
+"sobre o que você e seus companheiros devem fazer."
+
+# mes("Kill the Apostles of Baphomet and find their ^0000FFToken of Apostle^000000.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Kill the Apostles of Baphomet and find their ^0000FFToken of Apostle^000000."
+msgstr ""
+"Matem os Apóstolos de Baphomet e encontrem seu ^0000FFToken of "
+"Apostle^000000."
+
+# mes("It might be better to kill all of them because there is no way to differentiate them from their clones.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"It might be better to kill all of them because there is no way to "
+"differentiate them from their clones."
+msgstr ""
+"Talvez seja melhor matar todos eles porque não há maneira de diferenciá-los "
+"de seus clones."
+
+# mes("Are you ready?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "Are you ready?"
+msgstr "Você está pronto?"
+
+# mes("Make sure that you have listened to all that I have to say before saying that you are ready.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Make sure that you have listened to all that I have to say before saying "
+"that you are ready."
+msgstr ""
+"Certifique-se de ter escutado tudo o que tenho a dizer antes de dizer que "
+"você está pronto."
+
+# mes("Are you ready to go? Then I'll open this sealed gate now.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "Are you ready to go? Then I'll open this sealed gate now."
+msgstr "Você está pronto para ir? Então vou abrir este portão selado agora."
+
+# mes("It may be difficult but I wish you luck braving the perils of this catacomb.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"It may be difficult but I wish you luck braving the perils of this catacomb."
+msgstr ""
+"Pode ser difícil, mas desejo-lhe sorte para enfrentar os perigos desta "
+"catacumba."
+
+# mes("Remember, you need to collect ^0000FF10 Essence of Fire^000000 from the torches and the ^0000FFToken of Apostle^000000 from the Apostles of Baphomet.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Remember, you need to collect ^0000FF10 Essence of Fire^000000 from the "
+"torches and the ^0000FFToken of Apostle^000000 from the Apostles of Baphomet."
+msgstr ""
+"Lembre-se, você precisa recolher ^0000FF10 Essência do Fogo^0000000000 das "
+"tochas e ^0000FFToken of Apostle^000000 dos Apóstolos de Baphomet."
+
+# mes("To remind you again, I must be substantialized within the next hour. So everyone, finish your work within that time!");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"To remind you again, I must be substantialized within the next hour. So "
+"everyone, finish your work within that time!"
+msgstr ""
+"Para lembrá-lo novamente, devo ser fundamentado dentro da próxima hora. "
+"Portanto, todos, terminem seu trabalho dentro desse tempo!"
+
+# mes("To remind you again, I can be substantialized for the next hour. So everyone, finish your work within that time.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"To remind you again, I can be substantialized for the next hour. So "
+"everyone, finish your work within that time."
+msgstr ""
+"Para lembrá-lo novamente, eu posso ser fundamentado para a próxima hora. "
+"Portanto, todos, terminem seu trabalho dentro desse tempo."
+
+# mes("Did you get 10 ^0000FFEssence of Fire^000000 and ^0000FFToken of Apostle^000000?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Did you get 10 ^0000FFEssence of Fire^000000 and ^0000FFToken of "
+"Apostle^000000?"
+msgstr ""
+"Você recebeu 10 ^0000FFEssence of Fire^000000 e ^0000FFToken of "
+"Apostle^000000?"
+
+# mes("Okay. You've done your work. Now check your companions and tell me when everyone has finished their work.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Okay. You've done your work. Now check your companions and tell me when "
+"everyone has finished their work."
+msgstr ""
+"Pronto, você já fez seu trabalho. Agora verifique seus companheiros e me "
+"diga quando todos tiverem terminado seu trabalho."
+
+# mes("Not ready yet? You should prepare 10 ^0000FFEssence of Fire^000000 and ^0000FFToken of Apostle^000000.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Not ready yet? You should prepare 10 ^0000FFEssence of Fire^000000 and "
+"^0000FFToken of Apostle^000000."
+msgstr ""
+"Ainda não está pronto? Você deve preparar 10 ^0000FFEssence of Fire^000000 e "
+"^0000FFToken of Apostle^000000."
+
+# mes("Do you have a ^0000FFToken of Apostle^000000?");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "Do you have a ^0000FFToken of Apostle^000000?"
+msgstr "Você tem um ^0000FFToken de Apostle^000000?"
+
+# mes("Okay. You've done your work. Tell your representative to check your companions and come to me when everyone has finished their work.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Okay. You've done your work. Tell your representative to check your "
+"companions and come to me when everyone has finished their work."
+msgstr ""
+"Pronto, você já fez seu trabalho. Diga a seu representante para verificar "
+"seus companheiros e venha até mim quando todos tiverem terminado seu "
+"trabalho."
+
+# mes("Not ready yet? You should prepare ^0000FFToken of Apostle^000000.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "Not ready yet? You should prepare ^0000FFToken of Apostle^000000."
+msgstr ""
+"Ainda não está pronto? Você deve preparar ^0000FFToken of Apostle^000000."
+
+# mes("Are you ready? I opened the sealed gate. To pass the gate, you should carry a ^0000FFToken of Apostle^000000.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Are you ready? I opened the sealed gate. To pass the gate, you should carry "
+"a ^0000FFToken of Apostle^000000."
+msgstr ""
+"Você está pronto? Eu abri o portão selado. Para passar o portão, você deve "
+"levar um ^0000FFToken de Apostle^000000."
+
+# mes("Now you can go to the main altar. It is located in the bottom right corner of this floor.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Now you can go to the main altar. It is located in the bottom right corner "
+"of this floor."
+msgstr ""
+"Agora você pode ir até o altar principal. Ele está localizado no canto "
+"inferior direito deste andar."
+
+# mes("Your real battle will begin... I'll follow you soon and find a way to help you.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Your real battle will begin... I'll follow you soon and find a way to help "
+"you."
+msgstr ""
+"Sua verdadeira batalha começará... Eu o seguirei em breve e encontrarei uma "
+"maneira de ajudá-lo."
+
+# mes("Go ahead, warriors.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "Go ahead, warriors."
+msgstr "Vão em frente, guerreiros."
+
+# mapannounce(instance_mapname("1@cata"), _("Ancient Hero's Soul : Now you can go to the Main Altar's gate. It is located in the Southeast"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"Ancient Hero's Soul : Now you can go to the Main Altar's gate. It is located "
+"in the Southeast"
+msgstr ""
+"Alma do Antigo Herói : Agora você pode ir para o portão do Altar Principal. "
+"Ele está localizado no sudeste"
+
+# mes("I'll complete opening the sealed gate when your representative tells me that you're ready.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"I'll complete opening the sealed gate when your representative tells me that "
+"you're ready."
+msgstr ""
+"Vou completar a abertura do portão selado quando seu representante me disser "
+"que você está pronto."
+
+# mes("What are you doing? The entrance of the main altar is opened now, go and fight! The entrance is near the bottom right side of this floor.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid ""
+"What are you doing? The entrance of the main altar is opened now, go and "
+"fight! The entrance is near the bottom right side of this floor."
+msgstr ""
+"O que você está fazendo? A entrada do altar principal está aberta agora, vá "
+"e lute! A entrada fica perto do lado inferior direito deste andar."
+
+# mes("I have nothing to say to you...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#1F"
+msgid "I have nothing to say to you..."
+msgstr "Não tenho nada a dizer a você..."
+
+# mes("[Ancient Hero's Soul]");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_bapho_to_2f"
+msgid "[Ancient Hero's Soul]"
+msgstr "[Alma do Antigo Herói]"
+
+# mes("Where is your Token of Apostle? I said you should carry the Token of Apostle to pass this gate.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_bapho_to_2f"
+msgid ""
+"Where is your Token of Apostle? I said you should carry the Token of Apostle "
+"to pass this gate."
+msgstr ""
+"Onde está seu Token de Apóstolo? Eu disse que você deveria levar o Token de "
+"Apóstolo para passar por este portão."
+
+# mes("A small object is shining under a leaning grave.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#SS1"
+msgid "A small object is shining under a leaning grave."
+msgstr "Um pequeno objeto está brilhando sob uma cova inclinada."
+
+# mesf("[%s]", strcharinfo(PC_NAME));
+#: npc/instances/SealedShrine.txt
+#, fuzzy, c-format
+msgctxt "Gravestone#SS1"
+msgid "[%s]"
+msgstr "[%s]"
+
+# mes("I think this is the pendant...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#SS1"
+msgid "I think this is the pendant..."
+msgstr "Acho que este é o pingente..."
+
+# mes("I can only feel gloom from this Gravestone.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#SS1"
+msgid "I can only feel gloom from this Gravestone."
+msgstr "Só posso sentir a tristeza desta Pedra Lápide."
+
+# mes("I can only feel gloom from this Gravestone.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Gravestone#SS2"
+msgid "I can only feel gloom from this Gravestone."
+msgstr "Só posso sentir a tristeza desta Pedra Lápide."
+
+# mes("A huge torch appearing as if it can burn everything is bobbing up and down in front of me.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Bobbing Torch#SS"
+msgid ""
+"A huge torch appearing as if it can burn everything is bobbing up and down "
+"in front of me."
+msgstr ""
+"Uma enorme tocha aparecendo como se ela pudesse queimar tudo está balançando "
+"para cima e para baixo na minha frente."
+
+# mes("The grand appearance and heat of the fire makes me step back... But I pluck up my courage and reach out to pick up the torch.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Bobbing Torch#SS"
+msgid ""
+"The grand appearance and heat of the fire makes me step back... But I pluck "
+"up my courage and reach out to pick up the torch."
+msgstr ""
+"A grande aparência e o calor do fogo me fazem recuar... Mas eu arranco minha "
+"coragem e estendo a mão para pegar a tocha."
+
+# mes("The symbol of inheritor shines. Then a small crystal falls into my hand from the torch.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Bobbing Torch#SS"
+msgid ""
+"The symbol of inheritor shines. Then a small crystal falls into my hand from "
+"the torch."
+msgstr ""
+"O símbolo do herdeiro resplandece. Então, um pequeno cristal cai na minha "
+"mão da tocha."
+
+# mes("You have 10 Essence of Fire already, so you don't need to collect any more.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Bobbing Torch#SS"
+msgid ""
+"You have 10 Essence of Fire already, so you don't need to collect any more."
+msgstr "Você já tem 10 Essências de Fogo, portanto, não precisa mais coletar."
+
+# mes("You don't need to collect Essence of Fire anymore.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Bobbing Torch#SS"
+msgid "You don't need to collect Essence of Fire anymore."
+msgstr "Você não precisa mais coletar a Essência do Fogo."
+
+# mes("A huge torch appearing as if it can burn everything is bobbing up and down in front of me..");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Bobbing Torch#SS"
+msgid ""
+"A huge torch appearing as if it can burn everything is bobbing up and down "
+"in front of me.."
+msgstr ""
+"Uma enorme tocha aparecendo como se ela pudesse queimar tudo está balançando "
+"para cima e para baixo na minha frente."
+
+# mes("[Unknown Voice]");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Bobbing Torch#SS"
+msgid "[Unknown Voice]"
+msgstr "[Voz Desconhecida]"
+
+# mes("You are not a inheritor of faith. Do not desecrate the Essence of Fire with your disrespectful hands.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Bobbing Torch#SS"
+msgid ""
+"You are not a inheritor of faith. Do not desecrate the Essence of Fire with "
+"your disrespectful hands."
+msgstr ""
+"Você não é um herdeiro de fé. Não profane a Essência do Fogo com suas mãos "
+"desrespeitosas."
+
+# mapannounce(instance_mapname("1@cata"), _("Ancient Hero's Soul : We don't have enough time! Hurry up!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_baphomet_1f_timer"
+msgid "Ancient Hero's Soul : We don't have enough time! Hurry up!"
+msgstr "Alma do Antigo Herói : Não temos tempo suficiente! Apresse-se!"
+
+# mapannounce(instance_mapname("1@cata"), _("Ancient Hero's Soul : My body is disappearing... Hurry up!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_baphomet_1f_timer"
+msgid "Ancient Hero's Soul : My body is disappearing... Hurry up!"
+msgstr "Alma do Antigo Herói : Meu corpo está desaparecendo... Apresse-se!"
+
+# mapannounce(instance_mapname("1@cata"), _("Ancient Hero's Soul : Everything is over... There is no other way but to wait for the next chance..."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_baphomet_1f_timer"
+msgid ""
+"Ancient Hero's Soul : Everything is over... There is no other way but to "
+"wait for the next chance..."
+msgstr ""
+"Alma do Antigo Herói : Tudo acabou... Não há outra maneira senão esperar "
+"pela próxima oportunidade..."
+
+# mapannounce(instance_mapname("1@cata"), _("Ancient Hero's Soul : We failed... However... We still have a chance. I hope you will train yourselves until the time comes."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_baphomet_1f_timer"
+msgid ""
+"Ancient Hero's Soul : We failed... However... We still have a chance. I hope "
+"you will train yourselves until the time comes."
+msgstr ""
+"Alma do Antigo Herói : Falhamos... No entanto... Ainda temos uma chance. "
+"Espero que vocês se treinem até que chegue o momento."
+
+# mapannounce(instance_mapname("1@cata"), _("You've failed to open the seal of main altar."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_baphomet_1f_timer"
+msgid "You've failed to open the seal of main altar."
+msgstr "Você não conseguiu abrir o selo do altar principal."
+
+# mapannounce(instance_mapname("2@cata"), _("Baphomet : Humans... interfering again..."), bc_map, "0xdb7093");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_enter_broad"
+msgid "Baphomet : Humans... interfering again..."
+msgstr "Baphomet : Os seres humanos... interferindo novamente..."
+
+# mapannounce(instance_mapname("2@cata"), _("Apostle of Baphomet : Humans! Humans have invaded our sanctum!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_enter_broad"
+msgid "Apostle of Baphomet : Humans! Humans have invaded our sanctum!"
+msgstr ""
+"Apóstolo de Baphomet : Os humanos! Os seres humanos invadiram nosso "
+"santuário!"
+
+# mapannounce(instance_mapname("2@cata"), _("Apostle of Baphomet : Kill the humans! Do not stop the revival of our Master!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_enter_broad"
+msgid ""
+"Apostle of Baphomet : Kill the humans! Do not stop the revival of our Master!"
+msgstr ""
+"Apóstolo de Baphomet : Matem os humanos! Não impeça o renascimento de nosso "
+"Mestre!"
+
+# mapannounce(instance_mapname("2@cata"), _("Apostle of Baphomet : Hurry up and release the seals of the altars! Our Master's return is upon us!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_enter_broad"
+msgid ""
+"Apostle of Baphomet : Hurry up and release the seals of the altars! Our "
+"Master's return is upon us!"
+msgstr ""
+"Apóstolo de Baphomet : Apresse-se e solte os selos dos altares! O retorno de "
+"nosso Mestre está sobre nós!"
+
+# mapannounce(.@map$, _("Apostle of Baphomet : Kill the humans! Don't let them interrupt the revival of our Master!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "slave_left"
+msgid ""
+"Apostle of Baphomet : Kill the humans! Don't let them interrupt the revival "
+"of our Master!"
+msgstr ""
+"Apóstolo de Baphomet : Matem os humanos! Não os deixe interromper o "
+"renascimento de nosso Mestre!"
+
+# monster(.@map$, 55, 67, _("Apostle of Baphomet"), FLAME_SKULL, 1);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "slave_left"
+msgid "Apostle of Baphomet"
+msgstr "Apóstolo de Baphomet"
+
+# mapannounce(.@map$, _("Apostle of Baphomet : Kill the humans! Don't let them interrupt the revival of our Master!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "slave_right"
+msgid ""
+"Apostle of Baphomet : Kill the humans! Don't let them interrupt the revival "
+"of our Master!"
+msgstr ""
+"Apóstolo de Baphomet : Matem os humanos! Não os deixe interromper o "
+"renascimento de nosso Mestre!"
+
+# monster(.@map$, 105, 67, _("Apostle of Baphomet"), FLAME_SKULL, 1);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "slave_right"
+msgid "Apostle of Baphomet"
+msgstr "Apóstolo de Baphomet"
+
+# mapannounce(.@map$, _("Apostle of Baphomet : Kill the humans! Don't let them interrupt the revival of our Master!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "slave_down"
+msgid ""
+"Apostle of Baphomet : Kill the humans! Don't let them interrupt the revival "
+"of our Master!"
+msgstr ""
+"Apóstolo de Baphomet : Matem os humanos! Não os deixe interromper o "
+"renascimento de nosso Mestre!"
+
+# monster(.@map$, 78, 41, _("Apostle of Baphomet"), FLAME_SKULL, 1);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "slave_down"
+msgid "Apostle of Baphomet"
+msgstr "Apóstolo de Baphomet"
+
+# mes("Your SP has not recovered yet. You lost your SP on the altar, but it seems the power of the seal has returned.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Magical Seal#SS"
+msgid ""
+"Your SP has not recovered yet. You lost your SP on the altar, but it seems "
+"the power of the seal has returned."
+msgstr ""
+"Seu SP ainda não se recuperou. Você perdeu seu SP no altar, mas parece que o "
+"poder do selo voltou."
+
+# mapannounce(.@map$, _("The seal activated by putting magical power into the altar."), bc_map, "0x87ceeb");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Magical Seal#SS"
+msgid "The seal activated by putting magical power into the altar."
+msgstr "O selo é ativado ao colocar o poder mágico no altar."
+
+# mes("I can feel the power of the altar came back by adding magical power.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Magical Seal#SS"
+msgid "I can feel the power of the altar came back by adding magical power."
+msgstr "Eu posso sentir o poder do altar voltando adicionando poder mágico."
+
+# mes("But you can't use your magic for 3 minutes because you used your SP on the altar.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Magical Seal#SS"
+msgid ""
+"But you can't use your magic for 3 minutes because you used your SP on the "
+"altar."
+msgstr ""
+"Mas você não pode usar sua magia por 3 minutos porque usou seu SP no altar."
+
+# mes("An evil power, too terrible to describe, lies under the great altar radiating a violet color.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "The Main Altar#ss"
+msgid ""
+"An evil power, too terrible to describe, lies under the great altar "
+"radiating a violet color."
+msgstr ""
+"Um poder maligno, terrível demais para descrever, está sob o grande altar "
+"irradiando uma cor violeta."
+
+# mes("Complicated Magical Rune letters blink rapidly, attempting to suppress the dreadful power within.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "The Main Altar#ss"
+msgid ""
+"Complicated Magical Rune letters blink rapidly, attempting to suppress the "
+"dreadful power within."
+msgstr ""
+"Complicadas cartas da Magical Rune piscam rapidamente, tentando suprimir o "
+"terrível poder interno."
+
+# mes("The bottom of the Main Altar trembles furiously.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "The Main Altar#ss"
+msgid "The bottom of the Main Altar trembles furiously."
+msgstr "O fundo do Altar Principal treme furiosamente."
+
+# mesf("[%s]", strcharinfo(PC_NAME));
+#: npc/instances/SealedShrine.txt
+#, fuzzy, c-format
+msgctxt "The Main Altar#ss"
+msgid "[%s]"
+msgstr "[%s]"
+
+# mes("Watch out! Something... Something is coming.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "The Main Altar#ss"
+msgid "Watch out! Something... Something is coming."
+msgstr "Cuidado! Alguma coisa... Alguma coisa está chegando."
+
+# mes("[Ancient Hero's Soul]");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#2F"
+msgid "[Ancient Hero's Soul]"
+msgstr "[Alma do Antigo Herói]"
+
+# mes("Good job, my descendants... You've finished the long-cherished task that me and my bretheren could not complete.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#2F"
+msgid ""
+"Good job, my descendants... You've finished the long-cherished task that me "
+"and my bretheren could not complete."
+msgstr ""
+"Bom trabalho, meus descendentes... Vocês terminaram a longa tarefa que eu e "
+"meus irmãos não conseguimos concluir."
+
+# mes("I really appreciate your help.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#2F"
+msgid "I really appreciate your help."
+msgstr "Agradeço muito sua ajuda."
+
+# mes("Our souls can finally rest in peace...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#2F"
+msgid "Our souls can finally rest in peace..."
+msgstr "Nossas almas podem finalmente descansar em paz..."
+
+# mes("The struggle for peace on this world will never end. But... my role here is finally over because there are brave heroes like you.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#2F"
+msgid ""
+"The struggle for peace on this world will never end. But... my role here is "
+"finally over because there are brave heroes like you."
+msgstr ""
+"A luta pela paz neste mundo nunca terá fim. Mas... meu papel aqui finalmente "
+"acabou porque há heróis corajosos como você."
+
+# switch (select("Let me leave the shrine.", "Stop talking.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#2F"
+msgid "Let me leave the shrine."
+msgstr "Deixem-me deixar o santuário."
+
+# switch (select("Let me leave the shrine.", "Stop talking.")) {
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#2F"
+msgid "Stop talking."
+msgstr "Pare de falar."
+
+# mes("Okay. I'll let you and your group leave here safely.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#2F"
+msgid "Okay. I'll let you and your group leave here safely."
+msgstr "Está bem. Vou deixar você e seu grupo saírem daqui em segurança."
+
+# mes("If you leave, please say hello to Patrick for me.");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#2F"
+msgid "If you leave, please say hello to Patrick for me."
+msgstr "Se você sair, por favor, diga olá a Patrick por mim."
+
+# mes("Do you still have something to do here? If you're done I'll let you leave safely...");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "Ancient Hero's Soul#2F"
+msgid ""
+"Do you still have something to do here? If you're done I'll let you leave "
+"safely..."
+msgstr ""
+"Você ainda tem algo a fazer aqui? Se você terminou, vou deixá-lo sair em "
+"segurança..."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : My God! The seal of the Main Altar is weakening!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad"
+msgid "Ancient Hero's Soul : My God! The seal of the Main Altar is weakening!"
+msgstr ""
+"A Alma do Antigo Herói : Meu Deus! O selo do Altar Principal está se "
+"enfraquecendo!"
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : My descendants... Listen carefully to what I'm going to say."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad"
+msgid ""
+"Ancient Hero's Soul : My descendants... Listen carefully to what I'm going "
+"to say."
+msgstr ""
+"Alma do Herói Antigo : Meus descendentes... Ouçam com atenção o que vou "
+"dizer."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : The altars that control the Main Altar's power are located in the Northeast, Southeast, Southwest and Northwest corners of this room."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad"
+msgid ""
+"Ancient Hero's Soul : The altars that control the Main Altar's power are "
+"located in the Northeast, Southeast, Southwest and Northwest corners of this "
+"room."
+msgstr ""
+"Alma do Antigo Herói : Os altares que controlam o poder do Altar Principal "
+"estão localizados nos cantos Nordeste, Sudeste, Sudoeste e Noroeste desta "
+"sala."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : Find these altars and activate their seals before Baphomet revives."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad"
+msgid ""
+"Ancient Hero's Soul : Find these altars and activate their seals before "
+"Baphomet revives."
+msgstr ""
+"Alma do Antigo Herói : Encontre estes altares e ative seus selos antes que o "
+"Baphomet ressuscite."
+
+# mapannounce(instance_mapname("2@cata"), _("Baphomet : It's too late, weaklings... Now, you'll feel the despair of death!"), bc_map, "0xdb7093");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad"
+msgid ""
+"Baphomet : It's too late, weaklings... Now, you'll feel the despair of death!"
+msgstr ""
+"Baphomet : É tarde demais, fracos... Agora, vocês vão sentir o desespero da "
+"morte!"
+
+# mapannounce(instance_mapname("2@cata"), _("Baphomet : No one can harm me here. You will be my first sacrifice."), bc_map, "0xdb7093");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad"
+msgid "Baphomet : No one can harm me here. You will be my first sacrifice."
+msgstr ""
+"Baphomet : Ninguém pode me prejudicar aqui. Você será meu primeiro "
+"sacrifício."
+
+# mapannounce(.@map$, _("Baphomet : No! Nonono! How dare these weaklings defeat me!... No!!..."), bc_map, "0xdb7093");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "control_baphomet"
+msgid "Baphomet : No! Nonono! How dare these weaklings defeat me!... No!!..."
+msgstr ""
+"Baphomet : Não! Nonono! Como ousam estes fracos me derrotar!... Não!!..."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : Don't be discouraged, Baphomet can still be defeated!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad2"
+msgid ""
+"Ancient Hero's Soul : Don't be discouraged, Baphomet can still be defeated!"
+msgstr "Ancient Hero's Soul : Não desanime, Baphomet ainda pode ser derrotado!"
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : Go to the altars and activate their seals."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad2"
+msgid "Ancient Hero's Soul : Go to the altars and activate their seals."
+msgstr "Alma do Antigo Herói : Vá até os altares e ative seus selos."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : Once the seals recover their power, Baphomet will be vulnerable."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad2"
+msgid ""
+"Ancient Hero's Soul : Once the seals recover their power, Baphomet will be "
+"vulnerable."
+msgstr ""
+"Alma do Antigo Herói: Uma vez que os selos recuperem sua força, o Baphomet "
+"estará vulnerável."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : You should lure Baphomet to the unsealed Altars. Otherwise, your efforts will be futile."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad2"
+msgid ""
+"Ancient Hero's Soul : You should lure Baphomet to the unsealed Altars. "
+"Otherwise, your efforts will be futile."
+msgstr ""
+"Alma do Antigo Herói: Você deve atrair Baphomet para os altares não selados. "
+"Caso contrário, seus esforços serão inúteis."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : We have only 1 hour to stop Baphomet. If time runs out, the power of the seals will be useless."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad2"
+msgid ""
+"Ancient Hero's Soul : We have only 1 hour to stop Baphomet. If time runs "
+"out, the power of the seals will be useless."
+msgstr ""
+"Alma do Herói Antigo : Temos apenas 1 hora para parar o Baphomet. Se o tempo "
+"se esgotar, a força dos selos será inútil."
+
+# mapannounce(instance_mapname("2@cata"), _("Baphomet : It's useless. Make more seals. I'll crush them all. None of you will survive!"), bc_map, "0xdb7093");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad2"
+msgid ""
+"Baphomet : It's useless. Make more seals. I'll crush them all. None of you "
+"will survive!"
+msgstr ""
+"Baphomet : É inútil. Faça mais selos. Vou esmagá-los todos. Nenhum de vocês "
+"vai sobreviver!"
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : The magical power of the central seal is running out. Go to the central seal and put the magical power."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_broad2"
+msgid ""
+"Ancient Hero's Soul : The magical power of the central seal is running out. "
+"Go to the central seal and put the magical power."
+msgstr ""
+"Alma do Antigo Herói : O poder mágico do selo central está se esgotando. Vá "
+"até o selo central e coloque o poder mágico."
+
+# mapannounce(instance_mapname("2@cata"), _("Baphomet : krrrr... Now you can't stop me with the seals. All you can do is wait for death!"), bc_map, "0xdb7093");
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_pattern_c"
+msgid ""
+"Baphomet : krrrr... Now you can't stop me with the seals. All you can do is "
+"wait for death!"
+msgstr ""
+"Baphomet : krrrrrr... Agora você não pode me impedir com os selos. Tudo o "
+"que você pode fazer é esperar pela morte!"
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : We can't stop Baphomet with the magical power of the seals anymore. Now everything depends on God..."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_pattern_c"
+msgid ""
+"Ancient Hero's Soul : We can't stop Baphomet with the magical power of the "
+"seals anymore. Now everything depends on God..."
+msgstr ""
+"Alma do Herói Antigo : Não podemos mais parar o Baphomet com o poder mágico "
+"dos selos. Agora tudo depende de Deus..."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : The seal of the Main Altar is running out. Strengthen the Main Altar's seal!"), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_pattern"
+msgid ""
+"Ancient Hero's Soul : The seal of the Main Altar is running out. Strengthen "
+"the Main Altar's seal!"
+msgstr ""
+"Alma do Antigo Herói : O selo do Altar Principal está se esgotando. "
+"Fortaleça o selo do Altar Principal!"
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : The magical power of the seal at 2 o'clock is running out. Go to 2 o'clock and put the magical power in the seal."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_pattern"
+msgid ""
+"Ancient Hero's Soul : The magical power of the seal at 2 o'clock is running "
+"out. Go to 2 o'clock and put the magical power in the seal."
+msgstr ""
+"Alma do Antigo Herói : O poder mágico do selo às 2 horas está se esgotando. "
+"Vá até as 2 horas e coloque o poder mágico do selo."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : The magical power of the seal at 4 o'clock is running out. Go to 4 o'clock and put the magical power in the seal."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_pattern"
+msgid ""
+"Ancient Hero's Soul : The magical power of the seal at 4 o'clock is running "
+"out. Go to 4 o'clock and put the magical power in the seal."
+msgstr ""
+"Alma do Antigo Herói : O poder mágico do selo às 4 horas está se esgotando. "
+"Vá até as 4 horas e coloque o poder mágico do selo."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : The magical power of the seal at 8 o'clock is running out. Go to 8 o'clock and put the magical power in the seal."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_pattern"
+msgid ""
+"Ancient Hero's Soul : The magical power of the seal at 8 o'clock is running "
+"out. Go to 8 o'clock and put the magical power in the seal."
+msgstr ""
+"Alma do Antigo Herói : O poder mágico do selo às 8 horas está se esgotando. "
+"Vá até as 8 horas e coloque o poder mágico do selo."
+
+# mapannounce(instance_mapname("2@cata"), _("Ancient Hero's Soul : The magical power of the seal at 10 o'clock is running out. Go to 10 o'clock and put the magical power in the seal."), bc_map, C_YELLOW);
+#: npc/instances/SealedShrine.txt
+#, fuzzy
+msgctxt "ins_2f_hero_pattern"
+msgid ""
+"Ancient Hero's Soul : The magical power of the seal at 10 o'clock is running "
+"out. Go to 10 o'clock and put the magical power in the seal."
+msgstr ""
+"Alma do Antigo Herói : O poder mágico do selo às 10 horas está se esgotando. "
+"Vá até as 10 horas e coloque o poder mágico do selo."
+
+# monster(.@map$, 0, 0, _("Zombie Master"), ZOMBIE_MASTER, 10);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Zombie Master"
+msgstr "Zombie Master"
+
+# monster(.@map$, 0, 0, _("Wraith Dead"), WRAITH_DEAD, 10);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Wraith Dead"
+msgstr "Wraith Dead"
+
+# monster(.@map$, 0, 0, _("Flame Skull"), FLAME_SKULL, 10);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Flame Skull"
+msgstr "Flame Skull"
+
+# monster(.@map$, 0, 0, _("Skeleton General"), SKELETON_GENERAL, 10);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Skeleton General"
+msgstr "Skeleton General"
+
+# monster(.@map$, 0, 0, _("Khalitzburg"), KHALITZBURG, 10);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Khalitzburg"
+msgstr "Khalitzburg"
+
+# monster(.@map$, 0, 0, _("Ancient Mimic"), ANCIENT_MIMIC, 10);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Ancient Mimic"
+msgstr "Ancient Mimic"
+
+# monster(.@map$, 0, 0, _("Wind Ghost"), WIND_GHOST, 10);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Wind Ghost"
+msgstr "Wind Ghost"
+
+# monster(.@map$, 0, 0, _("Lude"), LUDE, 10);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Lude"
+msgstr "Lude"
+
+# monster(.@map$, 0, 0, _("Evil Druid"), EVIL_DRUID, 10);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Evil Druid"
+msgstr "Evil Druid"
+
+# monster(.@map$, 0, 0, _("Banshee"), BANSHEE, 10);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Banshee"
+msgstr "Banshee"
+
+# monster(.@map$, 0, 0, _("Dark Illusion"), DARK_ILLUSION, 1);
+#: npc/instances/SealedShrine.txt
+msgctxt "ins_1f_spawn_mobs"
+msgid "Dark Illusion"
+msgstr "Dark Illusion"

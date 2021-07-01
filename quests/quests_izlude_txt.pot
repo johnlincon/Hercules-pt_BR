@@ -1,0 +1,224 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/quests/quests_izlude.txt
+# mes "[Edgar]";
+msgctxt "::Edgar_izlude"
+msgid "[Edgar]"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "So are you heading to Alberta again? Let me give you the same discount and only charge 250 Zeny, just like the last time.";
+msgctxt "::Edgar_izlude"
+msgid "So are you heading to Alberta again? Let me give you the same discount and only charge 250 Zeny, just like the last time."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "How's that sound?";
+msgctxt "::Edgar_izlude"
+msgid "How's that sound?"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# if (select("Alrighty~!", "Why are you being so nice to me?!") == 1) {
+msgctxt "::Edgar_izlude"
+msgid "Alrighty~!"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# if (select("Alrighty~!", "Why are you being so nice to me?!") == 1) {
+msgctxt "::Edgar_izlude"
+msgid "Why are you being so nice to me?!"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "Um...";
+msgctxt "::Edgar_izlude"
+msgid "Um..."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "This isn't";
+msgctxt "::Edgar_izlude"
+msgid "This isn't"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "enough money.";
+msgctxt "::Edgar_izlude"
+msgid "enough money."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "Why don't you go";
+msgctxt "::Edgar_izlude"
+msgid "Why don't you go"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "get some more cash?";
+msgctxt "::Edgar_izlude"
+msgid "get some more cash?"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "It's just the way I am. That, and your devilish smile reminds me of my beloved blond haired son who left home years ago to become a Sailor on his own ship. Bless his soul, wherever he is.";
+msgctxt "::Edgar_izlude"
+msgid "It's just the way I am. That, and your devilish smile reminds me of my beloved blond haired son who left home years ago to become a Sailor on his own ship. Bless his soul, wherever he is."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "My town, Izlude, is connected to Alberta by the harbor in the West. There is so much traffic between us, I almost become an Albertian. Hehehe~";
+msgctxt "::Edgar_izlude"
+msgid "My town, Izlude, is connected to Alberta by the harbor in the West. There is so much traffic between us, I almost become an Albertian.  Hehehe~"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "There's this guy I know pretty well, Phelix, who lives in Alberta. That guy is really stingy... He charges for everything!";
+msgctxt "::Edgar_izlude"
+msgid "There's this guy I know pretty well, Phelix, who lives in Alberta. That guy is really stingy... He charges for everything!"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "But he's really a nice guy and likes helping other people. He has a good heart and will give you his support if you meet his price.";
+msgctxt "::Edgar_izlude"
+msgid "But he's really a nice guy and likes helping other people. He has a good heart and will give you his support if you meet his price."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "Lately, people in Alberta say that he is really trying to help folks and that his demand for Jellopies is just a coverup. Well, you should take a look at what he has to offer.";
+msgctxt "::Edgar_izlude"
+msgid "Lately, people in Alberta say that he is really trying to help folks and that his demand for Jellopies is just a coverup.  Well, you should take a look at what he has to offer."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# if (select("Can you tell me how to get to Alberta?", "End Conversation") == 1) {
+msgctxt "::Edgar_izlude"
+msgid "Can you tell me how to get to Alberta?"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# if (select("Can you tell me how to get to Alberta?", "End Conversation") == 1) {
+msgctxt "::Edgar_izlude"
+msgid "End Conversation"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "Huh? Well, you can use your feet and just walk. But if you have money, I'd like to suggest that you take a ship.";
+msgctxt "::Edgar_izlude"
+msgid "Huh? Well, you can use your feet and just walk.  But if you have money, I'd like to suggest that you take a ship."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# if (select("Okay, gotcha.", "But I'm sick of walking and I'm broke!") == 1) {
+msgctxt "::Edgar_izlude"
+msgid "Okay, gotcha."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# if (select("Okay, gotcha.", "But I'm sick of walking and I'm broke!") == 1) {
+msgctxt "::Edgar_izlude"
+msgid "But I'm sick of walking and I'm broke!"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "Alrighty, take care~";
+msgctxt "::Edgar_izlude"
+msgid "Alrighty, take care~"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "Okay...";
+msgctxt "::Edgar_izlude"
+msgid "Okay..."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "You don't want to walk AND you've got no cash, but you still want to go there? Oh geez...";
+msgctxt "::Edgar_izlude"
+msgid "You don't want to walk AND you've got no cash, but you still want to go there? Oh geez..."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "Fine fine. Me, being the captain of a ship, can afford to bring you there at a lower price. How does 250 Zeny sound?";
+msgctxt "::Edgar_izlude"
+msgid "Fine fine. Me, being the captain of a ship, can afford to bring you there at a lower price. How does 250 Zeny sound?"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# if (select("Alrighty~!", "Bah, what a rip off!!") == 1) {
+msgctxt "::Edgar_izlude"
+msgid "Bah, what a rip off!!"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "Go and get";
+msgctxt "::Edgar_izlude"
+msgid "Go and get"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "some more.";
+msgctxt "::Edgar_izlude"
+msgid "some more."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "Boy oh boy,";
+msgctxt "::Edgar_izlude"
+msgid "Boy oh boy,"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "if you think";
+msgctxt "::Edgar_izlude"
+msgid "if you think"
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "that's a rip off...";
+msgctxt "::Edgar_izlude"
+msgid "that's a rip off..."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "Yeah, alright.";
+msgctxt "::Edgar_izlude"
+msgid "Yeah, alright."
+msgstr ""
+
+#: npc/quests/quests_izlude.txt
+# mes "See you later~";
+msgctxt "::Edgar_izlude"
+msgid "See you later~"
+msgstr ""

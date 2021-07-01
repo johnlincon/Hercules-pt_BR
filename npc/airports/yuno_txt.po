@@ -1,0 +1,347 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 06:36-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes("[Airport Staff]");
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "[Airport Staff]"
+msgstr "[Equipe do Aeroplano]"
+
+# mes("Welcome to Juno Airport where we offer domestic flights to Einbroch, Lighthalzen and Hugel,\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid ""
+"Welcome to Juno Airport where we offer domestic flights to Einbroch, "
+"Lighthalzen and Hugel,\rand international flights to Izlude and Rachel."
+msgstr ""
+"Bem-vindo ao Aeroporto de Juno, onde oferecemos vôos domésticos para "
+"Einbroch, Lighthalzen e Hugel, e vôos internacionais para Izlude e Rachel."
+
+# mes("How may I be of service?");
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "How may I be of service?"
+msgstr "Como posso ser útil?"
+
+# if (select("Board the Airship.", "Cancel.") == 1) {
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Board the Airship."
+msgstr "Embarque na Aeronave."
+
+# if (select("Board the Airship.", "Cancel.") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes("The boarding fee for all\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid ""
+"The boarding fee for all\rflights is 1,200 zeny. If you\ruse a Free Ticket "
+"for Airship,\rthe boarding fee will be waived.So would you like to depart?"
+msgstr ""
+"A taxa de embarque para todos os vôos é de 1.200 zeny. Se você utilizar uma "
+"passagem aérea gratuita, a taxa de embarque será dispensada, então você "
+"gostaria de partir?"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "No"
+msgstr "Não"
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "I'm sorry, but you don't\rhave 1,200 zeny to pay\rfor the boarding fee."
+msgstr ""
+"Sinto muito, mas você não tem 1.200 zeny para pagar a taxa de embarque."
+
+# mes("Thank you and\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Thank you and\rhave a nice day."
+msgstr "Obrigado e tenha um bom dia."
+
+# mes("[Airport Staff]");
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "[Airport Staff]"
+msgstr "[Equipe do Aeroplano]"
+
+# mes("Welcome to Juno Airport. If you've just arrived from your\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid ""
+"Welcome to Juno Airport. If you've just arrived from your\rflight, let me "
+"guide you to the main terminal. Otherwise, please\rboard the departing "
+"Airship to reach your intended destination."
+msgstr ""
+"Bem-vindo ao Aeroporto de Juno. Se você acabou de chegar de seu vôo, deixe-"
+"me guiá-lo até o terminal principal. Caso contrário, favor embarcar na "
+"aeronave de partida para chegar ao destino pretendido."
+
+# if (select("Exit to main terminal", "Cancel") == 1) {
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Exit to main terminal"
+msgstr "Saída para o terminal principal"
+
+# if (select("Exit to main terminal", "Cancel") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("Once you're in the main terminal, you must pay the fee once again\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid ""
+"Once you're in the main terminal, you must pay the fee once again\rto board "
+"a departing Airship. You should only exit if your intended\rdestination is "
+"Juno. Proceed to\rexit to the main terminal?"
+msgstr ""
+"Uma vez no terminal principal, você deve pagar a taxa mais uma vez para "
+"embarcar em um dirigível de partida. Você só deve sair se seu destino "
+"pretendido for Juno. Proceder para sair para o terminal principal?"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "No"
+msgstr "Não"
+
+# mes("Alright, thank you\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid ""
+"Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant "
+"flight~"
+msgstr ""
+"Muito bem, obrigado por seu patrocínio e espero que você tenha um vôo "
+"agradável~"
+
+# mes("[Boarding Staff]");
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Domestic Boarding"
+msgid "[Boarding Staff]"
+msgstr "[Pessoal de embarque]"
+
+# mes("Would you like to board the\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Domestic Boarding"
+msgid ""
+"Would you like to board the\rAirship that flies to Einbroch,\rLighthalzen "
+"and Hugel? If so,\rplease let me guide you to that\rAirship's boarding area."
+msgstr ""
+"Você gostaria de embarcar no dirigível que voa para Einbroch, Lighthalzen e "
+"Hugel? Em caso afirmativo, por favor, deixe-me guiá-lo até a área de "
+"embarque daquele dirigível."
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Domestic Boarding"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "Domestic Boarding"
+msgid "No"
+msgstr "Não"
+
+# mes("Very well, then.");
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Domestic Boarding"
+msgid "Very well, then."
+msgstr "Muito bem, então."
+
+# mes("Thank you for your\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Domestic Boarding"
+msgid "Thank you for your\rpatronage, and I hope\ryou enjoy your travels~"
+msgstr "Obrigado por seu patrocínio, e espero que goste de suas viagens~"
+
+# mes("[Boarding Staff]");
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "International Boarding"
+msgid "[Boarding Staff]"
+msgstr "[Pessoal de embarque]"
+
+# mes("Would you like to board\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "International Boarding"
+msgid ""
+"Would you like to board\rthe Airship which flies to\rJuno, Izlude and Rachel?"
+msgstr ""
+"Você gostaria de embarcar no dirigível que voa para Juno, Izlude e Rachel?"
+
+# mes("If so, let me guide\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "International Boarding"
+msgid "If so, let me guide\ryou to the boarding area."
+msgstr "Se for o caso, deixe-me guiá-lo até a área de embarque."
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "International Boarding"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/yuno.txt
+msgctxt "International Boarding"
+msgid "No"
+msgstr "Não"
+
+# mes("Alright, then.");
+#: npc/airports/yuno.txt
+msgctxt "International Boarding"
+msgid "Alright, then."
+msgstr "Muito bem, então."
+
+# mes("Thank you for flying\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "International Boarding"
+msgid ""
+"Thank you for flying\rwith us, and I hope you\renjoy your travels on our"
+"\rstate of the art Airships."
+msgstr ""
+"Obrigado por voar conosco, e espero que gostem de suas viagens em nossas "
+"aeronaves de última geração."
+
+# mes("[Airship Staff]");
+#: npc/airports/yuno.txt
+msgctxt "Airship Staff#yuno01"
+msgid "[Airship Staff]"
+msgstr "[Equipe do Aeroplano]"
+
+# mes("Welcome to Juno Airport.");
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airship Staff#yuno01"
+msgid "Welcome to Juno Airport."
+msgstr "Bem-vindo ao Aeroporto de Juno."
+
+# mes("Please use this door to\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airship Staff#yuno01"
+msgid ""
+"Please use this door to\rboard the Airship that will\rbe flying all the way "
+"to Izlude\rin the Rune-Midgarts Kingdom,\rand to Rachel in the Arunafeltz"
+"\rRepublic."
+msgstr ""
+"Por favor, use esta porta para embarcar no dirigível que vai voar até Izlude "
+"no Reino Rune-Midgarts, e até Rachel na República de Arunafeltz."
+
+# mes("Otherwise, if Juno is\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airship Staff#yuno01"
+msgid ""
+"Otherwise, if Juno is\ryour intended destination,\rplease head down the "
+"stairs\rand ask the Arrival Staff to lead\ryou to the main terminal. Thank"
+"\ryou, and enjoy your travels."
+msgstr ""
+"Caso contrário, se Juno for seu destino pretendido, desça as escadas e peça "
+"ao Pessoal de Chegada que o conduza até o terminal principal. Obrigado, e "
+"aproveite suas viagens."
+
+# mes("[Airship Staff]");
+#: npc/airports/yuno.txt
+msgctxt "Airship Staff#yuno02"
+msgid "[Airship Staff]"
+msgstr "[Equipe do Aeroplano]"
+
+# mes("Welcome to Juno Airport.");
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airship Staff#yuno02"
+msgid "Welcome to Juno Airport."
+msgstr "Bem-vindo ao Aeroporto de Juno."
+
+# mes("Please use this door to\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airship Staff#yuno02"
+msgid ""
+"Please use this door to\rboard the Airship which stops\rover Einbroch, "
+"Lighthalzen and\rHugel in the Schwaltzvalt Republic."
+msgstr ""
+"Por favor, use esta porta para embarcar no dirigível que pára sobre "
+"Einbroch, Lighthalzen e Hugel na República de Schwaltzvalt."
+
+# mes("Otherwise, if Juno is\r"
+#: npc/airports/yuno.txt
+#, fuzzy
+msgctxt "Airship Staff#yuno02"
+msgid ""
+"Otherwise, if Juno is\ryour intended destination,\rplease head down the "
+"stairs\rand ask the Arrival Staff to lead\ryou to the main terminal. Thank"
+"\ryou, and enjoy your travels."
+msgstr ""
+"Caso contrário, se Juno for seu destino pretendido, desça as escadas e peça "
+"ao Pessoal de Chegada que o conduza até o terminal principal. Obrigado, e "
+"aproveite suas viagens."

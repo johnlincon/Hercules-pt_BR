@@ -1,0 +1,82 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 06:36-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes("To use the airship, you are required to pay 1,200 zeny or a Free Airship Ticket.");
+#: npc/airports/rachel.txt
+#, fuzzy
+msgctxt "toairplane#rachel"
+msgid ""
+"To use the airship, you are required to pay 1,200 zeny or a Free Airship "
+"Ticket."
+msgstr ""
+"Para utilizar o dirigível, você deve pagar 1.200 zeny ou uma passagem aérea "
+"gratuita."
+
+# mes("Would you like to use the service?");
+#: npc/airports/rachel.txt
+#, fuzzy
+msgctxt "toairplane#rachel"
+msgid "Would you like to use the service?"
+msgstr "Você gostaria de usar o serviço?"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/rachel.txt
+msgctxt "toairplane#rachel"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/rachel.txt
+msgctxt "toairplane#rachel"
+msgid "No"
+msgstr "Não"
+
+# mes("I am sorry, but you do not have enough money.");
+#: npc/airports/rachel.txt
+#, fuzzy
+msgctxt "toairplane#rachel"
+msgid "I am sorry, but you do not have enough money."
+msgstr "Sinto muito, mas você não tem dinheiro suficiente."
+
+# mes("Please remember, you are required to pay 1,200 zeny to use the service.");
+#: npc/airports/rachel.txt
+#, fuzzy
+msgctxt "toairplane#rachel"
+msgid "Please remember, you are required to pay 1,200 zeny to use the service."
+msgstr "Lembre-se, você deve pagar 1.200 zeny para usar o serviço."
+
+# mes("Thank you, please come again.");
+#: npc/airports/rachel.txt
+#, fuzzy
+msgctxt "toairplane#rachel"
+msgid "Thank you, please come again."
+msgstr "Obrigado, por favor, venha novamente."

@@ -1,0 +1,466 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("[Guillaume Mercenary Officer]");
+msgctxt "KVM Mercenary Officer#1"
+msgid "[Guillaume Mercenary Officer]"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("It seems you have recently participated in a KVM battle. You must wait 5 minutes before signing up again.");
+msgctxt "KVM Mercenary Officer#1"
+msgid "It seems you have recently participated in a KVM battle. You must wait 5 minutes before signing up again."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Let them know the real might of Guillaume!");
+msgctxt "KVM Mercenary Officer#1"
+msgid "Let them know the real might of Guillaume!"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("I will fight with you.", "End Conversation.")) {
+msgctxt "KVM Mercenary Officer#1"
+msgid "I will fight with you."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("I will fight with you.", "End Conversation.")) {
+msgctxt "KVM Mercenary Officer#1"
+msgid "End Conversation."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Show them how strong we are.");
+msgctxt "KVM Mercenary Officer#1"
+msgid "Show them how strong we are."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Today, everyone will hear the shout of triumph from Guillaume!");
+msgctxt "KVM Mercenary Officer#1"
+msgid "Today, everyone will hear the shout of triumph from Guillaume!"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("We will win!");
+msgctxt "KVM Mercenary Officer#1"
+msgid "We will win!"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("[Guillaume Knight]");
+msgctxt "Guillaume Knight#kvm"
+msgid "[Guillaume Knight]"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Hello.");
+msgctxt "Guillaume Knight#kvm"
+msgid "Hello."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("What do you want to know?");
+msgctxt "Guillaume Knight#kvm"
+msgid "What do you want to know?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+msgctxt "Guillaume Knight#kvm"
+msgid "Apply for KVM."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+msgctxt "Guillaume Knight#kvm"
+msgid "What is KVM?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+msgctxt "Guillaume Knight#kvm"
+msgid "How do I participate in KVM?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+msgctxt "Guillaume Knight#kvm"
+msgid "I want to know my Kreiger Points."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Applications are not available yet.");
+msgctxt "Guillaume Knight#kvm"
+msgid "Applications are not available yet."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("To apply, you need to go to a KVM Mercenary Officer.");
+msgctxt "Guillaume Knight#kvm"
+msgid "To apply, you need to go to a KVM Mercenary Officer."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("KVM is the abbreviation of Kreiger Von Midgard.");
+msgctxt "Guillaume Knight#kvm"
+msgid "KVM is the abbreviation of Kreiger Von Midgard."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Adventurer, are you aware that the way to the new world has been opened?");
+msgctxt "Guillaume Knight#kvm"
+msgid "Adventurer, are you aware that the way to the new world has been opened?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("We, the Guillaume Administration, have several plans to advance to the new world.");
+msgctxt "Guillaume Knight#kvm"
+msgid "We, the Guillaume Administration, have several plans to advance to the new world."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("And KVM is one of them.");
+msgctxt "Guillaume Knight#kvm"
+msgid "And KVM is one of them."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("It means that we, one of many countries in the Midgard continent,");
+msgctxt "Guillaume Knight#kvm"
+msgid "It means that we, one of many countries in the Midgard continent,"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("have decided to employ many adventurers for the immediate advance to the new world.");
+msgctxt "Guillaume Knight#kvm"
+msgid "have decided to employ many adventurers for the immediate advance to the new world."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Therefore, to select the best adventurers, we are holding the KVM.");
+msgctxt "Guillaume Knight#kvm"
+msgid "Therefore, to select the best adventurers, we are holding the KVM."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("We exspect responses from many adventurers.");
+msgctxt "Guillaume Knight#kvm"
+msgid "We exspect responses from many adventurers."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("And we will give them rewards for their participation!");
+msgctxt "Guillaume Knight#kvm"
+msgid "And we will give them rewards for their participation!"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("As for the rewards, please contact a KVM Logistic Officer.");
+msgctxt "Guillaume Knight#kvm"
+msgid "As for the rewards, please contact a KVM Logistic Officer."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Basically, KVM is a 5 on 5 battle.");
+msgctxt "Guillaume Knight#kvm"
+msgid "Basically, KVM is a 5 on 5 battle."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("First, you apply with a KVM receptionist, in a group or individually.");
+msgctxt "Guillaume Knight#kvm"
+msgid "First, you apply with a KVM receptionist, in a group or individually."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Group applications are for when you intend to enter the KVM with your party members,");
+msgctxt "Guillaume Knight#kvm"
+msgid "Group applications are for when you intend to enter the KVM with your party members,"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("and a personal application is for when you intend to enter the KVM individually.");
+msgctxt "Guillaume Knight#kvm"
+msgid "and a personal application is for when you intend to enter the KVM individually."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Please apply with a KVM officer, and he will contact you later when you are in Prontera.");
+msgctxt "Guillaume Knight#kvm"
+msgid "Please apply with a KVM officer, and he will contact you later when you are in Prontera."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Then you enter and follow the instructions in the battlefield.");
+msgctxt "Guillaume Knight#kvm"
+msgid "Then you enter and follow the instructions in the battlefield."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("However, please be advised that unless you are in the KVM office, he cannot contact you.");
+msgctxt "Guillaume Knight#kvm"
+msgid "However, please be advised that unless you are in the KVM office, he cannot contact you."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Your Kreiger Points are:");
+msgctxt "Guillaume Knight#kvm"
+msgid "Your Kreiger Points are:"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mesf("%d.", kvm_point);
+#, c-format
+msgctxt "Guillaume Knight#kvm"
+msgid "%d."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("[Croix Mercenary Officer]");
+msgctxt "KVM Mercenary Officer#2"
+msgid "[Croix Mercenary Officer]"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("It seems you have recently participated in a KVM battle. You must wait 5 minutes before signing up again.");
+msgctxt "KVM Mercenary Officer#2"
+msgid "It seems you have recently participated in a KVM battle. You must wait 5 minutes before signing up again."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Let them know the real might of Croix!");
+msgctxt "KVM Mercenary Officer#2"
+msgid "Let them know the real might of Croix!"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("I will fight with you.", "End Conversation.")) {
+msgctxt "KVM Mercenary Officer#2"
+msgid "I will fight with you."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("I will fight with you.", "End Conversation.")) {
+msgctxt "KVM Mercenary Officer#2"
+msgid "End Conversation."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Show them how strong we are.");
+msgctxt "KVM Mercenary Officer#2"
+msgid "Show them how strong we are."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Today, everyone will hear the shout of triumph from Croix!");
+msgctxt "KVM Mercenary Officer#2"
+msgid "Today, everyone will hear the shout of triumph from Croix!"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("We will win!");
+msgctxt "KVM Mercenary Officer#2"
+msgid "We will win!"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("[Croix Knight]");
+msgctxt "Croix Knight#kvm"
+msgid "[Croix Knight]"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Hello.");
+msgctxt "Croix Knight#kvm"
+msgid "Hello."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("What do you want to know?");
+msgctxt "Croix Knight#kvm"
+msgid "What do you want to know?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+msgctxt "Croix Knight#kvm"
+msgid "Apply for KVM."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+msgctxt "Croix Knight#kvm"
+msgid "What is KVM?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+msgctxt "Croix Knight#kvm"
+msgid "How do I participate in KVM?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# switch(select("Apply for KVM.", "What is KVM?", "How do I participate in KVM?", "I want to know my Kreiger Points.")) {
+msgctxt "Croix Knight#kvm"
+msgid "I want to know my Kreiger Points."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Applications are not available yet.");
+msgctxt "Croix Knight#kvm"
+msgid "Applications are not available yet."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("To apply, you need to go to a KVM Mercenary Officer.");
+msgctxt "Croix Knight#kvm"
+msgid "To apply, you need to go to a KVM Mercenary Officer."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("KVM is the abbreviation of Kreiger Von Midgard.");
+msgctxt "Croix Knight#kvm"
+msgid "KVM is the abbreviation of Kreiger Von Midgard."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Adventurer, are you aware that the way to the new world has been opened?");
+msgctxt "Croix Knight#kvm"
+msgid "Adventurer, are you aware that the way to the new world has been opened?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("We, the Croix Administration, have several plans to advance to the new world.");
+msgctxt "Croix Knight#kvm"
+msgid "We, the Croix Administration, have several plans to advance to the new world."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("And KVM is one of them.");
+msgctxt "Croix Knight#kvm"
+msgid "And KVM is one of them."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("It means that we, one of many countries in the Midgard continent,");
+msgctxt "Croix Knight#kvm"
+msgid "It means that we, one of many countries in the Midgard continent,"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("have decided to employ many adventurers for the immediate advance to the new world.");
+msgctxt "Croix Knight#kvm"
+msgid "have decided to employ many adventurers for the immediate advance to the new world."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Therefore, to select the best adventurers, we are holding the KVM.");
+msgctxt "Croix Knight#kvm"
+msgid "Therefore, to select the best adventurers, we are holding the KVM."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("We exspect responses from many adventurers.");
+msgctxt "Croix Knight#kvm"
+msgid "We exspect responses from many adventurers."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("And we will give them rewards for their participation!");
+msgctxt "Croix Knight#kvm"
+msgid "And we will give them rewards for their participation!"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("As for the rewards, please contact a KVM Logistic Officer.");
+msgctxt "Croix Knight#kvm"
+msgid "As for the rewards, please contact a KVM Logistic Officer."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Basically, KVM is a 5 on 5 battle.");
+msgctxt "Croix Knight#kvm"
+msgid "Basically, KVM is a 5 on 5 battle."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("First, you apply with a KVM receptionist, in a group or individually.");
+msgctxt "Croix Knight#kvm"
+msgid "First, you apply with a KVM receptionist, in a group or individually."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Group applications are for when you intend to enter the KVM with your party members,");
+msgctxt "Croix Knight#kvm"
+msgid "Group applications are for when you intend to enter the KVM with your party members,"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("and a personal application is for when you intend to enter the KVM individually.");
+msgctxt "Croix Knight#kvm"
+msgid "and a personal application is for when you intend to enter the KVM individually."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Please apply with a KVM officer, and he will contact you later when you are in Prontera.");
+msgctxt "Croix Knight#kvm"
+msgid "Please apply with a KVM officer, and he will contact you later when you are in Prontera."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Then you enter and follow the instructions in the battlefield.");
+msgctxt "Croix Knight#kvm"
+msgid "Then you enter and follow the instructions in the battlefield."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("However, please be advised that unless you are in the KVM office, he cannot contact you.");
+msgctxt "Croix Knight#kvm"
+msgid "However, please be advised that unless you are in the KVM office, he cannot contact you."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mes("Your Kreiger Points are:");
+msgctxt "Croix Knight#kvm"
+msgid "Your Kreiger Points are:"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_enter.txt
+# mesf("%d.", kvm_point);
+#, c-format
+msgctxt "Croix Knight#kvm"
+msgid "%d."
+msgstr ""

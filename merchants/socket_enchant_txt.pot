@@ -1,0 +1,1064 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/merchants/socket_enchant.txt
+# mes "- Wait a minute !! -";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "- Currently you're carrying -";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "- too many items with you. -";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "- Please try again -";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "- Please try again -"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "- after you lose some weight. -";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "- after you lose some weight. -"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "[Seiyablem]";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "[Seiyablem]"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "I'm an engineer that specializes in adding Slots to normal Weapons and Armor.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "I'm an engineer that specializes in adding Slots to normal Weapons and Armor."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "My service fee, the required materials and the chance of success all depend on the specific item I'm working on.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "My service fee, the required materials and the chance of success all depend on the specific item I'm working on."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Adding Slots may seem simple, but it's far more complicated than it looks.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Adding Slots may seem simple, but it's far more complicated than it looks."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "If you're interested in my service, let me know.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "If you're interested in my service, let me know."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Add Slot to Weapon", "Add Slot to Armor", "Slot Attempt Info", "Cancel"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Add Slot to Weapon"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Add Slot to Weapon", "Add Slot to Armor", "Slot Attempt Info", "Cancel"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Add Slot to Armor"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Add Slot to Weapon", "Add Slot to Armor", "Slot Attempt Info", "Cancel"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Slot Attempt Info"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Add Slot to Weapon", "Add Slot to Armor", "Slot Attempt Info", "Cancel"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "You want to add a Slot to a weapon?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "You want to add a Slot to a weapon?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "I categorize weapons by their difficulty in adding a Slot, C Class being easiest and S Class the most difficult.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "I categorize weapons by their difficulty in adding a Slot, C Class being easiest and S Class the most difficult."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Which class would you like to try?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Which class would you like to try?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("C Class", "B Class", "A Class", "S Class"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "C Class"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("C Class", "B Class", "A Class", "S Class"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "B Class"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("C Class", "B Class", "A Class", "S Class"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "A Class"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("C Class", "B Class", "A Class", "S Class"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "S Class"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "C Class, eh?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "C Class, eh?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Now, I can only upgrade certain equipment in that class, so please choose one of the following items, so we can try to add a Slot to it.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Now, I can only upgrade certain equipment in that class, so please choose one of the following items, so we can try to add a Slot to it."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Trident", "Rope", "Violin"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Trident"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Trident", "Rope", "Violin"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Rope"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Trident", "Rope", "Violin"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Violin"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "B Class?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "B Class?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Alright, this is the average equipment category.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Alright, this is the average equipment category."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Please choose the weapon to which you'd like me to try to add a Slot.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Please choose the weapon to which you'd like me to try to add a Slot."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Chain"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Gladius"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Gakkung Bow"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Pike"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Haedonggum"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Lute"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Wire"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Waghnakh"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Arbalest Bow"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Ooh, A Class.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Ooh, A Class."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "This is some high risk territory!";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "This is some high risk territory!"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Alright, which weapon would you like me to try adding a Slot?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Alright, which weapon would you like me to try adding a Slot?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Hunter Bow"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Survivor's Rod(INT)"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Zweihander"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Flamberge"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Infiltrator"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Ballista"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Stunner"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Berserk"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Claymore"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Whoa, whoa, whoa...";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Whoa, whoa, whoa..."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "S class? Alright...";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "S class? Alright..."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "It'd be a near miracle if I can actually pull this off.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "It'd be a near miracle if I can actually pull this off."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Okay... Which weapon shall we try adding a Slot to?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Okay... Which weapon shall we try adding a Slot to?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gungnir", "Poison Knife", "Ice Pick", "Sucsamad", "Ginnungagap", "Cutlas", "Crescent Scythe", "Survivor's Rod(DEX)"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Gungnir"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gungnir", "Poison Knife", "Ice Pick", "Sucsamad", "Ginnungagap", "Cutlas", "Crescent Scythe", "Survivor's Rod(DEX)"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Poison Knife"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gungnir", "Poison Knife", "Ice Pick", "Sucsamad", "Ginnungagap", "Cutlas", "Crescent Scythe", "Survivor's Rod(DEX)"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Ice Pick"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gungnir", "Poison Knife", "Ice Pick", "Sucsamad", "Ginnungagap", "Cutlas", "Crescent Scythe", "Survivor's Rod(DEX)"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Sucsamad"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gungnir", "Poison Knife", "Ice Pick", "Sucsamad", "Ginnungagap", "Cutlas", "Crescent Scythe", "Survivor's Rod(DEX)"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Ginnungagap"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gungnir", "Poison Knife", "Ice Pick", "Sucsamad", "Ginnungagap", "Cutlas", "Crescent Scythe", "Survivor's Rod(DEX)"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Cutlas"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gungnir", "Poison Knife", "Ice Pick", "Sucsamad", "Ginnungagap", "Cutlas", "Crescent Scythe", "Survivor's Rod(DEX)"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Crescent Scythe"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gungnir", "Poison Knife", "Ice Pick", "Sucsamad", "Ginnungagap", "Cutlas", "Crescent Scythe", "Survivor's Rod(DEX)"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Survivor's Rod(DEX)"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Armor, you said?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Armor, you said?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Sure, no problem.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Sure, no problem."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Armor is divided into 4 different classes, depending on the work difficulty.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Armor is divided into 4 different classes, depending on the work difficulty."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "C Class is the easiest one, and S Class is the hardest one.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "C Class is the easiest one, and S Class is the hardest one."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "C Class Armor, eh?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "C Class Armor, eh?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Sounds reasonable.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Sounds reasonable."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Which armor would you like to try adding a Slot?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Which armor would you like to try adding a Slot?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mantle", "Coat", "Circlet", "Biretta"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Mantle"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mantle", "Coat", "Circlet", "Biretta"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Coat"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mantle", "Coat", "Circlet", "Biretta"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Circlet"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mantle", "Coat", "Circlet", "Biretta"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Biretta"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "You have chosen average B Class.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "You have chosen average B Class."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "So, what kind of armor do you have?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "So, what kind of armor do you have?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Mirror Shield"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Chain Mail"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Saint Robe"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Silk Robe"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Boots"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Shoes"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Muffler"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Guard"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Buckler"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Shield"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Bongun Hat"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Alright, which armor would you like me to try adding a Slot?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Alright, which armor would you like me to try adding a Slot?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Gemmed Sallet"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Bucket Hat"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Memory Book"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Tights"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Legion Plate Armor"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Full Plate"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Thief Clothes"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Greaves"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Coif"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Manteau"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Helm"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Ninja Suit"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Orc Helm"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Ancient Cape"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Monk Hat"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Golden Gear"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Brooch"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Munak Hat"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Um... S Class?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Um... S Class?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "You sure about this?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "You sure about this?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Alright... Let me know the Armor to which you'd like to add a Slot, and I'll tell what I need to try it.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Alright... Let me know the Armor to which you'd like to add a Slot, and I'll tell what I need to try it."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Majestic Goat"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Spiky Band"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Bone Helm"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Corsair"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Crown"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Tiara"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Sphinx Hat"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Robe of Cast"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Earring"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Ring"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Bow Thimble"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Well, I haven't really refined the art of Slot Addition.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Well, I haven't really refined the art of Slot Addition."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "It's so complicated that I'd be lying if I told you that I knew every factor that affected the process.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "It's so complicated that I'd be lying if I told you that I knew every factor that affected the process."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Still, I do notice a few trends...";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Still, I do notice a few trends..."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "In some towns, Slot addition attempts are more successful for equipment with fewer upgrades.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "In some towns, Slot addition attempts are more successful for equipment with fewer upgrades."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "In other towns, the opposite is true.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "In other towns, the opposite is true."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Isn't that really peculiar?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Isn't that really peculiar?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Oh, there's also something really important that you should know.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Oh, there's also something really important that you should know."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "If you ask me to add a Slot to something, make sure that you don't have multiples of it in your inventory.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "If you ask me to add a Slot to something, make sure that you don't have multiples of it in your inventory."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Here's an example: if you have a +7 Manteau and a normal Manteau in your inventory, then I will randomly pick one of them for my Slot Addition attempt.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Here's an example: if you have a +7 Manteau and a normal Manteau in your inventory, then I will randomly pick one of them for my Slot Addition attempt."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Just remember to be careful.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Just remember to be careful."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Again, ^FF0000only carry one of the equipment to which you want me to add a Slot^000000.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Again, ^FF0000only carry one of the equipment to which you want me to add a Slot^000000."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "All other equipment with the same name should be placed in your Kafra Storage, got it?";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "All other equipment with the same name should be placed in your Kafra Storage, got it?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Take it easy, adventurer.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Take it easy, adventurer."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "If you ever want to try adding a Slot to some of your equipment, come back and let me know.";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "If you ever want to try adding a Slot to some of your equipment, come back and let me know."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Seeya~";
+msgctxt "Seiyablem#dummy::SocketEnchant"
+msgid "Seeya~"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "[Seiyablem]";
+msgctxt "Func_Socket"
+msgid "[Seiyablem]"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "You want to add a Slot to a " + getitemname(getarg(0)) + "?";
+msgctxt "Func_Socket"
+msgid "You want to add a Slot to a "
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Alright, please bring me ^FF0000" + getarg(6) + " " + getitemname(getarg(5)) + (getarg(6) > 1 && getarg(5) != 999 ? "s":"") + "^000000, " + (getarg(7,0) != 0 && getarg(8,0) != 0 ? ("^FF0000" + getarg(8,0) + " " + getitemname(getarg(7,0)) + (getarg(8,0) > 1 && getarg(7,0) != 999 ? "s":"") + "^000000 ") : "") + "and my ^FF0000" + (getarg(4) >= 1000 ? (getarg(4)/1000 + ",000") : getarg(4)) + ",000 zeny^000000 service fee.";
+msgctxt "Func_Socket"
+msgid "Alright, please bring me ^FF0000"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Ah, and don't forget to bring that " + getitemname(getarg(0)) + "!";
+msgctxt "Func_Socket"
+msgid "Ah, and don't forget to bring that "
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "I can try to add a slot now if you have the required items and zeny.";
+msgctxt "Func_Socket"
+msgid "I can try to add a slot now if you have the required items and zeny."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "However, you should know that there's a chance that I might fail.";
+msgctxt "Func_Socket"
+msgid "However, you should know that there's a chance that I might fail."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Therefore, I need to give you a fair warning...";
+msgctxt "Func_Socket"
+msgid "Therefore, I need to give you a fair warning..."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "If this attempt to add a Slot to your Weapon fails, then the ^FF0000Weapon^000000, ^FF0000and any Cards compounded to it will be destroyed^000000.";
+msgctxt "Func_Socket"
+msgid "If this attempt to add a Slot to your Weapon fails, then the ^FF0000Weapon^000000, ^FF0000and any Cards compounded to it will be destroyed^000000."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "If you have all the required materials, my zeny service fee and the Armor, then we can go ahead with the Slot Addition attempt.";
+msgctxt "Func_Socket"
+msgid "If you have all the required materials, my zeny service fee and the Armor, then we can go ahead with the Slot Addition attempt."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "But before that, I must warn you of the risk.";
+msgctxt "Func_Socket"
+msgid "But before that, I must warn you of the risk."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "If this attempt to add a Slot to your Armor fails, then the ^FF0000Armor^000000, ^FF0000it's upgrades^000000 ^FF0000and any Cards compounded to it will be destroyed^000000.";
+msgctxt "Func_Socket"
+msgid "If this attempt to add a Slot to your Armor fails, then the ^FF0000Armor^000000, ^FF0000it's upgrades^000000 ^FF0000and any Cards compounded to it will be destroyed^000000."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Do you still want to try to add a Slot?";
+msgctxt "Func_Socket"
+msgid "Do you still want to try to add a Slot?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Attempt Slot Addition", "Cancel"))
+msgctxt "Func_Socket"
+msgid "Attempt Slot Addition"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# switch(select("Attempt Slot Addition", "Cancel"))
+msgctxt "Func_Socket"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Alright then, let the work begin!";
+msgctxt "Func_Socket"
+msgid "Alright then, let the work begin!"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "You'd better pray for a successful result.";
+msgctxt "Func_Socket"
+msgid "You'd better pray for a successful result."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Great, it seems to be successful.";
+msgctxt "Func_Socket"
+msgid "Great, it seems to be successful."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "It looks pretty well done. Congratulations!";
+msgctxt "Func_Socket"
+msgid "It looks pretty well done. Congratulations!"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "See you again, buddy!";
+msgctxt "Func_Socket"
+msgid "See you again, buddy!"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Wah! ...I am so sorry, it failed.";
+msgctxt "Func_Socket"
+msgid "Wah! ...I am so sorry, it failed."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "However, I am completely innocent.";
+msgctxt "Func_Socket"
+msgid "However, I am completely innocent."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "This is your luck, and it is destined by god, okay?";
+msgctxt "Func_Socket"
+msgid "This is your luck, and it is destined by god, okay?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Don't be so disappointed, and try next time.";
+msgctxt "Func_Socket"
+msgid "Don't be so disappointed, and try next time."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "I wish you good luck next time!";
+msgctxt "Func_Socket"
+msgid "I wish you good luck next time!"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "I'd like to go ahead with this Slot Addition attempt, but you're missing a few things.";
+msgctxt "Func_Socket"
+msgid "I'd like to go ahead with this Slot Addition attempt, but you're missing a few things."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "You sure that you have the equipment, required materials and the zeny?";
+msgctxt "Func_Socket"
+msgid "You sure that you have the equipment, required materials and the zeny?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Need some time to think about it, huh?";
+msgctxt "Func_Socket"
+msgid "Need some time to think about it, huh?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Alright, I can understand.";
+msgctxt "Func_Socket"
+msgid "Alright, I can understand."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Just remember that life's no fun if you're always playing it safe~";
+msgctxt "Func_Socket"
+msgid "Just remember that life's no fun if you're always playing it safe~"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "[Young Man]";
+msgctxt "Young Man#dummy::SocketMan"
+msgid "[Young Man]"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "I'm considering becoming a Slotting Engineer.";
+msgctxt "Young Man#dummy::SocketMan"
+msgid "I'm considering becoming a Slotting Engineer."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "It's a new field where you can add Slots to equipment, and it'd be cool if I can work in such a lucrative career.";
+msgctxt "Young Man#dummy::SocketMan"
+msgid "It's a new field where you can add Slots to equipment, and it'd be cool if I can work in such a lucrative career."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "There's a huge element of luck involved in successfully adding Slots from what I can understand.";
+msgctxt "Young Man#dummy::SocketMan"
+msgid "There's a huge element of luck involved in successfully adding Slots from what I can understand."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "You fail sometimes, but if you're super lucky, you can add two Slots.";
+msgctxt "Young Man#dummy::SocketMan"
+msgid "You fail sometimes, but if you're super lucky, you can add two Slots."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Crazy. Huh?";
+msgctxt "Young Man#dummy::SocketMan"
+msgid "Crazy. Huh?"
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "But don't get too excited.";
+msgctxt "Young Man#dummy::SocketMan"
+msgid "But don't get too excited."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "Only certain equipment can handle the addition of two extra Slots.";
+msgctxt "Young Man#dummy::SocketMan"
+msgid "Only certain equipment can handle the addition of two extra Slots."
+msgstr ""
+
+#: npc/merchants/socket_enchant.txt
+# mes "There's so much more I have to learn before I can even be an apprentice...";
+msgctxt "Young Man#dummy::SocketMan"
+msgid "There's so much more I have to learn before I can even be an apprentice..."
+msgstr ""

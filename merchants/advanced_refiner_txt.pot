@@ -1,0 +1,296 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/merchants/advanced_refiner.txt
+# mes("[Suhnbi]");
+msgctxt "Suhnbi#cash"
+msgid "[Suhnbi]"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes("I am the Armsmith");
+msgctxt "Suhnbi#cash"
+msgid "I am the Armsmith"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes("I can refine all kinds of weapons,");
+msgctxt "Suhnbi#cash"
+msgid "I can refine all kinds of weapons,"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes("armor and equipment, so let me");
+msgctxt "Suhnbi#cash"
+msgid "armor and equipment, so let me"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes("know what you want to refine.");
+msgctxt "Suhnbi#cash"
+msgid "know what you want to refine."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "I don't think I can refine any items you have...";
+msgctxt "Suhnbi#cash"
+msgid "I don't think I can refine any items you have..."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Go find another Blacksmith. You can't refine this thing.";
+msgctxt "Suhnbi#cash"
+msgid "Go find another Blacksmith. You can't refine this thing."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Hmm... someone perfected this already. I don't think I can work on it further.";
+msgctxt "Suhnbi#cash"
+msgid "Hmm... someone perfected this already. I don't think I can work on it further."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Clang! Clang! Clang!";
+msgctxt "Suhnbi#cash"
+msgid "Clang! Clang! Clang!"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "There you go! It's done.";
+msgctxt "Suhnbi#cash"
+msgid "There you go! It's done."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "It's been a while since I've made such a fine "+((getequipweaponlv(.@part))?"weapon":"armor")+". You must be happy because it has become stronger!";
+msgctxt "Suhnbi#cash"
+msgid "It's been a while since I've made such a fine "
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Uuuuuuuuuummmmmph!!!";
+msgctxt "Suhnbi#cash"
+msgid "Uuuuuuuuuummmmmph!!!"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "...";
+msgctxt "Suhnbi#cash"
+msgid "..."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes ".....";
+msgctxt "Suhnbi#cash"
+msgid "....."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes ".......Huhuhuhuhu~";
+msgctxt "Suhnbi#cash"
+msgid ".......Huhuhuhuhu~"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "........It was your choice and my ability, no regret.";
+msgctxt "Suhnbi#cash"
+msgid "........It was your choice and my ability, no regret."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "You want to refine a level " + getarg(0) + " weapon?";
+msgctxt "Suhnbi#cash"
+msgid "You want to refine a level "
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "To refine that, you'll need to have one ^ff9999" + getitemname(getarg(1)) + "^000000 and " + getarg(2) + " zeny.";
+msgctxt "Suhnbi#cash"
+msgid "To refine that, you'll need to have one ^ff9999"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Would you like to continue?";
+msgctxt "Suhnbi#cash"
+msgid "Would you like to continue?"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# if(select("Yes", "No") == 1) {
+msgctxt "Suhnbi#cash"
+msgid "Yes"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# if(select("Yes", "No") == 1) {
+msgctxt "Suhnbi#cash"
+msgid "No"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Wow!!";
+msgctxt "Suhnbi#cash"
+msgid "Wow!!"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "This weapon probably";
+msgctxt "Suhnbi#cash"
+msgid "This weapon probably"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "looks like it's been refined...";
+msgctxt "Suhnbi#cash"
+msgid "looks like it's been refined..."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "many times...";
+msgctxt "Suhnbi#cash"
+msgid "many times..."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "It may break if";
+msgctxt "Suhnbi#cash"
+msgid "It may break if"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "you refine it again.";
+msgctxt "Suhnbi#cash"
+msgid "you refine it again."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "And if it breaks,";
+msgctxt "Suhnbi#cash"
+msgid "And if it breaks,"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "you can't use it anymore!";
+msgctxt "Suhnbi#cash"
+msgid "you can't use it anymore!"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "All the cards in it and the properties ^ff0000will be lost^000000!";
+msgctxt "Suhnbi#cash"
+msgid "All the cards in it and the properties ^ff0000will be lost^000000!"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "^ff0000Besides, the equipment will break!^000000";
+msgctxt "Suhnbi#cash"
+msgid "^ff0000Besides, the equipment will break!^000000"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Are you sure you still want to continue?";
+msgctxt "Suhnbi#cash"
+msgid "Are you sure you still want to continue?"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Good.";
+msgctxt "Suhnbi#cash"
+msgid "Good."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Because if the weapon breaks from unreasonable refining, then I get a bad mood, too.";
+msgctxt "Suhnbi#cash"
+msgid "Because if the weapon breaks from unreasonable refining, then I get a bad mood, too."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Giggle. Giggle. Oh, you have guts, daring to refine this.";
+msgctxt "Suhnbi#cash"
+msgid "Giggle. Giggle. Oh, you have guts, daring to refine this."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "You know it's pretty risky, don't you?";
+msgctxt "Suhnbi#cash"
+msgid "You know it's pretty risky, don't you?"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "If your defensive equipment is broken, you'll never be able to use it again.";
+msgctxt "Suhnbi#cash"
+msgid "If your defensive equipment is broken, you'll never be able to use it again."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Even your cards and your modifications will ^ff0000completely disappear^000000.";
+msgctxt "Suhnbi#cash"
+msgid "Even your cards and your modifications will ^ff0000completely disappear^000000."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Do you really wish to continue?";
+msgctxt "Suhnbi#cash"
+msgid "Do you really wish to continue?"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "What nonsense. You waste my precious time.";
+msgctxt "Suhnbi#cash"
+msgid "What nonsense. You waste my precious time."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Get lost, punk.";
+msgctxt "Suhnbi#cash"
+msgid "Get lost, punk."
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "Are these all you have?";
+msgctxt "Suhnbi#cash"
+msgid "Are these all you have?"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "I'm very sorry, but I can't do anything without all the materials. Besides, I deserve some payments for my work, don't I?";
+msgctxt "Suhnbi#cash"
+msgid "I'm very sorry, but I can't do anything without all the materials. Besides, I deserve some payments for my work, don't I?"
+msgstr ""
+
+#: npc/merchants/advanced_refiner.txt
+# mes "I can't help it even if you're not happy about it...";
+msgctxt "Suhnbi#cash"
+msgid "I can't help it even if you're not happy about it..."
+msgstr ""

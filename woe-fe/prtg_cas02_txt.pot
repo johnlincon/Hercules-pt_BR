@@ -1,0 +1,182 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "[ Edict of the Divine Rune-Midgarts Kingdom ]";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "[ Edict of the Divine Rune-Midgarts Kingdom ]"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes " ";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid " "
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "1. Follow the ordinance of The Divine Rune-Midgarts Kingdom, ";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "1. Follow the ordinance of The Divine Rune-Midgarts Kingdom, "
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "We declare that";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "We declare that"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "there is no formal master of this castle.";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "there is no formal master of this castle."
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "2. To the one who can ";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "2. To the one who can "
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "overcome all trials";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "overcome all trials"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "and destroy the Emperium,";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "and destroy the Emperium,"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "the king will endow the one with";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "the king will endow the one with"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "ownership of this castle.";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "ownership of this castle."
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "[ Echoing Voice ]";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "[ Echoing Voice ]"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "Brave ones...";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "Brave ones..."
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "Do you wish to return to your honorable place?";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "Do you wish to return to your honorable place?"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# if(select("Return to the guild castle.", "Quit.") == 1) {
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "Return to the guild castle."
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# if(select("Return to the guild castle.", "Quit.") == 1) {
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "Quit."
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "we approve that this place is in";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "we approve that this place is in"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "the private prossession of ^ff0000"+getguildinfo(GUILDINFO_NAME, .@GID)+"^000000 Guild.";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "the private prossession of ^ff0000"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "2. The guild Master of ^ff0000"+getguildinfo(GUILDINFO_NAME, .@GID)+"^000000 Guild is";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "2. The guild Master of ^ff0000"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "^ff0000"+getguildinfo(GUILDINFO_MASTER_NAME, .@GID)+"^000000";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "^ff0000"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "If there is anyone who objects to this,";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "If there is anyone who objects to this,"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "prove your strength and honor with a steel blade in your hand.";
+msgctxt "Swanhild#1::OutsideFlagsPR2"
+msgid "prove your strength and honor with a steel blade in your hand."
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes " ";
+msgctxt "#Lever_PR02"
+msgid " "
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# mes "There's a small lever. Will you pull it?";
+msgctxt "#Lever_PR02"
+msgid "There's a small lever. Will you pull it?"
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# if(select("Pull.", "Do not.") == 1) {
+msgctxt "#Lever_PR02"
+msgid "Pull."
+msgstr ""
+
+#: npc/woe-fe/prtg_cas02.txt
+# if(select("Pull.", "Do not.") == 1) {
+msgctxt "#Lever_PR02"
+msgid "Do not."
+msgstr ""

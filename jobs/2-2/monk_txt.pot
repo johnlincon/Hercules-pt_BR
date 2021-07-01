@@ -1,0 +1,3398 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Tohobu]";
+msgctxt "Guarding Monk#mk"
+msgid "[Tohobu]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm? What business do you have here?";
+msgctxt "Guarding Monk#mk"
+msgid "Hmm? What business do you have here?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you wish to enter this sacred area,";
+msgctxt "Guarding Monk#mk"
+msgid "If you wish to enter this sacred area,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "you must give me your name and job level!";
+msgctxt "Guarding Monk#mk"
+msgid "you must give me your name and job level!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "....Eh?";
+msgctxt "Guarding Monk#mk"
+msgid "....Eh?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Oh!^FF0000gosh^000000! I am sorry, I think I misunderstood you from someone I know.";
+msgctxt "Guarding Monk#mk"
+msgid "Oh!^FF0000gosh^000000! I am sorry, I think I misunderstood you from someone I know."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes ".......";
+msgctxt "Guarding Monk#mk"
+msgid "......."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "........";
+msgctxt "Guarding Monk#mk"
+msgid "........"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "It is odd...I never misunderstand people...oh, well. Have a good day.";
+msgctxt "Guarding Monk#mk"
+msgid "It is odd...I never misunderstand people...oh, well. Have a good day."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now, please tell me your name and job level.";
+msgctxt "Guarding Monk#mk"
+msgid "Now, please tell me your name and job level."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Ignore him.", "Tell him.") == 1) {
+msgctxt "Guarding Monk#mk"
+msgid "Ignore him."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Ignore him.", "Tell him.") == 1) {
+msgctxt "Guarding Monk#mk"
+msgid "Tell him."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "To ignore another is disrespectful, get out!";
+msgctxt "Guarding Monk#mk"
+msgid "To ignore another is disrespectful, get out!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm... " + strcharinfo(PC_NAME) + " is your name?";
+msgctxt "Guarding Monk#mk"
+msgid "Hmm... "
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...did I say it right?";
+msgctxt "Guarding Monk#mk"
+msgid "...did I say it right?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Okay, and your job level is " + JobLevel + " correct?";
+msgctxt "Guarding Monk#mk"
+msgid "Okay, and your job level is "
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Okay, and your job level is " + JobLevel + " correct?";
+msgctxt "Guarding Monk#mk"
+msgid " correct?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Very well... why have you come here";
+msgctxt "Guarding Monk#mk"
+msgid "Very well... why have you come here"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("To visit and learn about monks.", "I wish to become a monk...", "I'm tired and need to rest...")) {
+msgctxt "Guarding Monk#mk"
+msgid "To visit and learn about monks."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("To visit and learn about monks.", "I wish to become a monk...", "I'm tired and need to rest...")) {
+msgctxt "Guarding Monk#mk"
+msgid "I wish to become a monk..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("To visit and learn about monks.", "I wish to become a monk...", "I'm tired and need to rest...")) {
+msgctxt "Guarding Monk#mk"
+msgid "I'm tired and need to rest..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I see...";
+msgctxt "Guarding Monk#mk"
+msgid "I see..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We monks live our lives for spiritual enlightenment.";
+msgctxt "Guarding Monk#mk"
+msgid "We monks live our lives for spiritual enlightenment."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We improve our bodies as well as our minds to reach true inner peace.";
+msgctxt "Guarding Monk#mk"
+msgid "We improve our bodies as well as our minds to reach true inner peace."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "May you find your inner peace as well.";
+msgctxt "Guarding Monk#mk"
+msgid "May you find your inner peace as well."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm you seem as though you have been training for this...";
+msgctxt "Guarding Monk#mk"
+msgid "Hmm you seem as though you have been training for this..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "That is good. Go see our sensei Moohae. Speak with him.";
+msgctxt "Guarding Monk#mk"
+msgid "That is good. Go see our sensei Moohae. Speak with him."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "He will help you start your training.";
+msgctxt "Guarding Monk#mk"
+msgid "He will help you start your training."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm, you do not seem ready to become a monk.";
+msgctxt "Guarding Monk#mk"
+msgid "Hmm, you do not seem ready to become a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "To become a monk you must be,";
+msgctxt "Guarding Monk#mk"
+msgid "To become a monk you must be,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "at least a job level 40 Acolyte.";
+msgctxt "Guarding Monk#mk"
+msgid "at least a job level 40 Acolyte."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If not, you are not yet ready to become a monk.";
+msgctxt "Guarding Monk#mk"
+msgid "If not, you are not yet ready to become a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Come back to me when you have trained more";
+msgctxt "Guarding Monk#mk"
+msgid "Come back to me when you have trained more"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "and I will let you know if you are ready.";
+msgctxt "Guarding Monk#mk"
+msgid "and I will let you know if you are ready."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope that you will soon join us on our";
+msgctxt "Guarding Monk#mk"
+msgid "I hope that you will soon join us on our"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "path of inner peace and enlightenment.";
+msgctxt "Guarding Monk#mk"
+msgid "path of inner peace and enlightenment."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I'll be waiting here for you.";
+msgctxt "Guarding Monk#mk"
+msgid "I'll be waiting here for you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hahahha that was a good joke!";
+msgctxt "Guarding Monk#mk"
+msgid "Hahahha that was a good joke!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Yes, we all need to take a rest once in a while...";
+msgctxt "Guarding Monk#mk"
+msgid "Yes, we all need to take a rest once in a while..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "It is a good idea not to stress your self.";
+msgctxt "Guarding Monk#mk"
+msgid "It is a good idea not to stress your self."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Come in and make yourself comfortable.";
+msgctxt "Guarding Monk#mk"
+msgid "Come in and make yourself comfortable."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Rest as long as you need to.";
+msgctxt "Guarding Monk#mk"
+msgid "Rest as long as you need to."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope that you become energized";
+msgctxt "Guarding Monk#mk"
+msgid "I hope that you become energized"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "when observing our brothers in their";
+msgctxt "Guarding Monk#mk"
+msgid "when observing our brothers in their"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "pursuit of spiritual enlightenment.";
+msgctxt "Guarding Monk#mk"
+msgid "pursuit of spiritual enlightenment."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope you reach it too.";
+msgctxt "Guarding Monk#mk"
+msgid "I hope you reach it too."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "What do you think? Did your visit reveal anything to your spirit?";
+msgctxt "Guarding Monk#mk"
+msgid "What do you think? Did your visit reveal anything to your spirit?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("No...", "I wish to become a monk.", "I need to rest...")) {
+msgctxt "Guarding Monk#mk"
+msgid "No..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("No...", "I wish to become a monk.", "I need to rest...")) {
+msgctxt "Guarding Monk#mk"
+msgid "I wish to become a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("No...", "I wish to become a monk.", "I need to rest...")) {
+msgctxt "Guarding Monk#mk"
+msgid "I need to rest..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I see, there is no shame in that.";
+msgctxt "Guarding Monk#mk"
+msgid "I see, there is no shame in that."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope that your experience here with";
+msgctxt "Guarding Monk#mk"
+msgid "I hope that your experience here with"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "our brothers has helped you become one";
+msgctxt "Guarding Monk#mk"
+msgid "our brothers has helped you become one"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "step closer to true enlightenment.";
+msgctxt "Guarding Monk#mk"
+msgid "step closer to true enlightenment."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Come back to me when you have trained more on your own";
+msgctxt "Guarding Monk#mk"
+msgid "Come back to me when you have trained more on your own"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope that you will soon join us in our";
+msgctxt "Guarding Monk#mk"
+msgid "I hope that you will soon join us in our"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "path to inner peace and enlightenment.";
+msgctxt "Guarding Monk#mk"
+msgid "path to inner peace and enlightenment."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You must give me your name, job level, and level!";
+msgctxt "Guarding Monk#mk"
+msgid "You must give me your name, job level, and level!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now, please tell me your name as well as your job level!";
+msgctxt "Guarding Monk#mk"
+msgid "Now, please tell me your name as well as your job level!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Ignore.", "Tell him.") == 1) {
+msgctxt "Guarding Monk#mk"
+msgid "Ignore."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Okay, Now, why have you come here";
+msgctxt "Guarding Monk#mk"
+msgid "Okay, Now, why have you come here"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We monks live our lives for God and spiritual enlightenment.";
+msgctxt "Guarding Monk#mk"
+msgid "We monks live our lives for God and spiritual enlightenment."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "That is good. Go see our sensei Moohae, speak with him";
+msgctxt "Guarding Monk#mk"
+msgid "That is good. Go see our sensei Moohae, speak with him"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "and he will help you start new training.";
+msgctxt "Guarding Monk#mk"
+msgid "and he will help you start new training."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Listen carefully on your journey.";
+msgctxt "Guarding Monk#mk"
+msgid "Listen carefully on your journey."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "There is much to learn.";
+msgctxt "Guarding Monk#mk"
+msgid "There is much to learn."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm... would you like to meet sensei Moohae?";
+msgctxt "Guarding Monk#mk"
+msgid "Hmm... would you like to meet sensei Moohae?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "He is in the south east area in 'The Hall of Monks'.";
+msgctxt "Guarding Monk#mk"
+msgid "He is in the south east area in 'The Hall of Monks'."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope you do well in your training and I look forward to seeing you again.";
+msgctxt "Guarding Monk#mk"
+msgid "I hope you do well in your training and I look forward to seeing you again."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Welcome to the central chamber of our Church.";
+msgctxt "Guarding Monk#mk"
+msgid "Welcome to the central chamber of our Church."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Please, try not to disturb the other monks.";
+msgctxt "Guarding Monk#mk"
+msgid "Please, try not to disturb the other monks."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Even if you are a monk yourself.";
+msgctxt "Guarding Monk#mk"
+msgid "Even if you are a monk yourself."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "How dare you set foot in";
+msgctxt "Guarding Monk#mk"
+msgid "How dare you set foot in"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "this holy building! ! !";
+msgctxt "Guarding Monk#mk"
+msgid "this holy building! ! !"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Where is your respect?!";
+msgctxt "Guarding Monk#mk"
+msgid "Where is your respect?!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Leave this place ! ! !";
+msgctxt "Guarding Monk#mk"
+msgid "Leave this place ! ! !"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmmm... come in.";
+msgctxt "Guarding Monk#mk"
+msgid "Hmmm... come in."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You may learn something...";
+msgctxt "Guarding Monk#mk"
+msgid "You may learn something..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm.....you wish to see our sensei Moohae?";
+msgctxt "Guarding Monk#mk"
+msgid "Hmm.....you wish to see our sensei Moohae?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "He is in the south east section of this building.";
+msgctxt "Guarding Monk#mk"
+msgid "He is in the south east section of this building."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I look forward to seeing you become a monk and joining us.";
+msgctxt "Guarding Monk#mk"
+msgid "I look forward to seeing you become a monk and joining us."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Sensei Moohae]";
+msgctxt "Sensei Moohae#mk"
+msgid "[Sensei Moohae]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Greetings, you seem to be on a pure path.";
+msgctxt "Sensei Moohae#mk"
+msgid "Greetings, you seem to be on a pure path."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Come in, come in, what can I do for you today?";
+msgctxt "Sensei Moohae#mk"
+msgid "Come in, come in, what can I do for you today?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you have free skill points, you will lose them during a job change.";
+msgctxt "Sensei Moohae#mk"
+msgid "If you have free skill points, you will lose them during a job change."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Make sure to use any skill points you have.";
+msgctxt "Sensei Moohae#mk"
+msgid "Make sure to use any skill points you have."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I sense a fighting spirit, do you wish to become a monk? ";
+msgctxt "Sensei Moohae#mk"
+msgid "I sense a fighting spirit, do you wish to become a monk? "
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Yes.", "No.") == 2) {
+msgctxt "Sensei Moohae#mk"
+msgid "Yes."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Yes.", "No.") == 2) {
+msgctxt "Sensei Moohae#mk"
+msgid "No."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "My apologies... It has been some time since";
+msgctxt "Sensei Moohae#mk"
+msgid "My apologies... It has been some time since"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I have sensed someone with your strength.";
+msgctxt "Sensei Moohae#mk"
+msgid "I have sensed someone with your strength."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope you find your path young one.";
+msgctxt "Sensei Moohae#mk"
+msgid "I hope you find your path young one."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "There are still those who wish to follow the old ways.";
+msgctxt "Sensei Moohae#mk"
+msgid "There are still those who wish to follow the old ways."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "A strong young man. I am pleased of your will to join us.";
+msgctxt "Sensei Moohae#mk"
+msgid "A strong young man. I am pleased of your will to join us."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Such a delicate flower. I am pleased to see your will to join us.";
+msgctxt "Sensei Moohae#mk"
+msgid "Such a delicate flower. I am pleased to see your will to join us."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Oh, you are the new pupil that wishes to join us...";
+msgctxt "Sensei Moohae#mk"
+msgid "Oh, you are the new pupil that wishes to join us..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Well there are a few things that you should know prior to beginning your training.";
+msgctxt "Sensei Moohae#mk"
+msgid "Well there are a few things that you should know prior to beginning your training."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We monks are on a path of inner peace and enlightenment.";
+msgctxt "Sensei Moohae#mk"
+msgid "We monks are on a path of inner peace and enlightenment."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We strive to bring such peace to all others with great care.";
+msgctxt "Sensei Moohae#mk"
+msgid "We strive to bring such peace to all others with great care."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We monks achieve this from mental and physical training.";
+msgctxt "Sensei Moohae#mk"
+msgid "We monks achieve this from mental and physical training."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We search for enlightenment in our surroundings and in nature.";
+msgctxt "Sensei Moohae#mk"
+msgid "We search for enlightenment in our surroundings and in nature."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "It is, of course, important to always keep our original faith in God.";
+msgctxt "Sensei Moohae#mk"
+msgid "It is, of course, important to always keep our original faith in God."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "This is not an easy life and the true test of becoming a monk is having the ability to endure all of which I said...";
+msgctxt "Sensei Moohae#mk"
+msgid "This is not an easy life and the true test of becoming a monk is having the ability to endure all of which I said..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "The life of a monk is not for everybody, only those strong enough can become a monk.";
+msgctxt "Sensei Moohae#mk"
+msgid "The life of a monk is not for everybody, only those strong enough can become a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now, that you understand all of this,";
+msgctxt "Sensei Moohae#mk"
+msgid "Now, that you understand all of this,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "prepare yourself to train";
+msgctxt "Sensei Moohae#mk"
+msgid "prepare yourself to train"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "your strength and spirit.";
+msgctxt "Sensei Moohae#mk"
+msgid "your strength and spirit."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Let us start with a simple task.";
+msgctxt "Sensei Moohae#mk"
+msgid "Let us start with a simple task."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes .@items[1]+" "+getitemname(.@items[0])+",";
+msgctxt "Sensei Moohae#mk"
+msgid " "
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Find these items and return to me.";
+msgctxt "Sensei Moohae#mk"
+msgid "Find these items and return to me."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# case 3: mes "Why the face? This is a test of your abilities."; break;
+msgctxt "Sensei Moohae#mk"
+msgid "Why the face? This is a test of your abilities."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# case 4: mes "What's wrong? This is a test of your abilities."; break;
+msgctxt "Sensei Moohae#mk"
+msgid "What's wrong? This is a test of your abilities."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# case 5: mes "You do understand don't you? This is a test of your abilities."; break;
+msgctxt "Sensei Moohae#mk"
+msgid "You do understand don't you? This is a test of your abilities."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# case 6: mes "Don't look at me like that. This is a test of your abilities."; break;
+msgctxt "Sensei Moohae#mk"
+msgid "Don't look at me like that. This is a test of your abilities."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# case 7: mes "You don't seem concerned, this is a test of your abilities You should take this seriously."; break;
+msgctxt "Sensei Moohae#mk"
+msgid "You don't seem concerned, this is a test of your abilities You should take this seriously."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# case 8: mes "It is a test of your abilities so make sure you acquire these on your own."; break;
+msgctxt "Sensei Moohae#mk"
+msgid "It is a test of your abilities so make sure you acquire these on your own."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# case 9: mes "Don't be concerned, I believe you can do it. This is only to test your abilities."; break;
+msgctxt "Sensei Moohae#mk"
+msgid "Don't be concerned, I believe you can do it. This is only to test your abilities."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you are unable to return with these items, you are not yet ready to become a monk.";
+msgctxt "Sensei Moohae#mk"
+msgid "If you are unable to return with these items, you are not yet ready to become a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Be sure to collect all the items I listed.";
+msgctxt "Sensei Moohae#mk"
+msgid "Be sure to collect all the items I listed."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "May God be with you.";
+msgctxt "Sensei Moohae#mk"
+msgid "May God be with you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You are back, did you bring what I asked?";
+msgctxt "Sensei Moohae#mk"
+msgid "You are back, did you bring what I asked?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Well done, you found all the items.";
+msgctxt "Sensei Moohae#mk"
+msgid "Well done, you found all the items."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I will tell this to the elders.";
+msgctxt "Sensei Moohae#mk"
+msgid "I will tell this to the elders."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Let's see who is to see you next..";
+msgctxt "Sensei Moohae#mk"
+msgid "Let's see who is to see you next.."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Ah... go find elder Touha.";
+msgctxt "Sensei Moohae#mk"
+msgid "Ah... go find elder Touha."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "He is in the north west.";
+msgctxt "Sensei Moohae#mk"
+msgid "He is in the north west."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "How can you think to be done?";
+msgctxt "Sensei Moohae#mk"
+msgid "How can you think to be done?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You do not have what I asked for!";
+msgctxt "Sensei Moohae#mk"
+msgid "You do not have what I asked for!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "5 Sticky Mucus,";
+msgctxt "Sensei Moohae#mk"
+msgid "5 Sticky Mucus,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "10 Earthworm Peeling,";
+msgctxt "Sensei Moohae#mk"
+msgid "10 Earthworm Peeling,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "20 Green Herb.";
+msgctxt "Sensei Moohae#mk"
+msgid "20 Green Herb."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "These are the items I require, go find them all.";
+msgctxt "Sensei Moohae#mk"
+msgid "These are the items I require, go find them all."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...eh?";
+msgctxt "Sensei Moohae#mk"
+msgid "...eh?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Very good, you found all the items.";
+msgctxt "Sensei Moohae#mk"
+msgid "Very good, you found all the items."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Why did you return?";
+msgctxt "Sensei Moohae#mk"
+msgid "Why did you return?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "20 Yoyo Tail,";
+msgctxt "Sensei Moohae#mk"
+msgid "20 Yoyo Tail,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "5 Iron Ore,";
+msgctxt "Sensei Moohae#mk"
+msgid "5 Iron Ore,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "3 Blue Herb.";
+msgctxt "Sensei Moohae#mk"
+msgid "3 Blue Herb."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm?";
+msgctxt "Sensei Moohae#mk"
+msgid "Hmm?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "See, that wasn't so bad you real found all the items.";
+msgctxt "Sensei Moohae#mk"
+msgid "See, that wasn't so bad you real found all the items."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "The next step will be given";
+msgctxt "Sensei Moohae#mk"
+msgid "The next step will be given"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "to you by Touha.";
+msgctxt "Sensei Moohae#mk"
+msgid "to you by Touha."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "30 Stem,";
+msgctxt "Sensei Moohae#mk"
+msgid "30 Stem,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "5 Jellopy";
+msgctxt "Sensei Moohae#mk"
+msgid "5 Jellopy"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "10 Worm Peelings";
+msgctxt "Sensei Moohae#mk"
+msgid "10 Worm Peelings"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I have been waiting for you.";
+msgctxt "Sensei Moohae#mk"
+msgid "I have been waiting for you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Impressive, you really found all the items.";
+msgctxt "Sensei Moohae#mk"
+msgid "Impressive, you really found all the items."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Your next step will be with..";
+msgctxt "Sensei Moohae#mk"
+msgid "Your next step will be with.."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "elder Touha. Go find him.";
+msgctxt "Sensei Moohae#mk"
+msgid "elder Touha. Go find him."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "5 Solid Shell,";
+msgctxt "Sensei Moohae#mk"
+msgid "5 Solid Shell,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "20 Shell,";
+msgctxt "Sensei Moohae#mk"
+msgid "20 Shell,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "5 Zargon.";
+msgctxt "Sensei Moohae#mk"
+msgid "5 Zargon."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hello again. Back so soon?";
+msgctxt "Sensei Moohae#mk"
+msgid "Hello again. Back so soon?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Very nice, you found all the items.";
+msgctxt "Sensei Moohae#mk"
+msgid "Very nice, you found all the items."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Where are the items...?";
+msgctxt "Sensei Moohae#mk"
+msgid "Where are the items...?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "5 Cyfar,";
+msgctxt "Sensei Moohae#mk"
+msgid "5 Cyfar,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "10 White Herb,";
+msgctxt "Sensei Moohae#mk"
+msgid "10 White Herb,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "10 Yellow Herb.";
+msgctxt "Sensei Moohae#mk"
+msgid "10 Yellow Herb."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Excellent, all the items I asked for.";
+msgctxt "Sensei Moohae#mk"
+msgid "Excellent, all the items I asked for."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "10 Tooth of Bat,";
+msgctxt "Sensei Moohae#mk"
+msgid "10 Tooth of Bat,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "5 Bear's Foot skin";
+msgctxt "Sensei Moohae#mk"
+msgid "5 Bear's Foot skin"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "20 Poison Spore";
+msgctxt "Sensei Moohae#mk"
+msgid "20 Poison Spore"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Welcome back.";
+msgctxt "Sensei Moohae#mk"
+msgid "Welcome back."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Wow, you found all the items!!";
+msgctxt "Sensei Moohae#mk"
+msgid "Wow, you found all the items!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "5 Porcupine Quill,";
+msgctxt "Sensei Moohae#mk"
+msgid "5 Porcupine Quill,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "20 Cobweb,";
+msgctxt "Sensei Moohae#mk"
+msgid "20 Cobweb,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "10 Bug Leg.";
+msgctxt "Sensei Moohae#mk"
+msgid "10 Bug Leg."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I told you already.";
+msgctxt "Sensei Moohae#mk"
+msgid "I told you already."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Go find ^CC0000Touha^000000.";
+msgctxt "Sensei Moohae#mk"
+msgid "Go find ^CC0000Touha^000000."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "He is a little north west of here.";
+msgctxt "Sensei Moohae#mk"
+msgid "He is a little north west of here."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Oh, are you still in the process of training?";
+msgctxt "Sensei Moohae#mk"
+msgid "Oh, are you still in the process of training?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hurry and finish!";
+msgctxt "Sensei Moohae#mk"
+msgid "Hurry and finish!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hear good things coming from your training.";
+msgctxt "Sensei Moohae#mk"
+msgid "I hear good things coming from your training."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Good luck and work hard. You will do great things as a monk.";
+msgctxt "Sensei Moohae#mk"
+msgid "Good luck and work hard. You will do great things as a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes ".......Hmmm.....";
+msgctxt "Sensei Moohae#mk"
+msgid ".......Hmmm....."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Go to Tomoon, get a special potion from him. It will look like a green potion, but it isn't. Bring it to me...";
+msgctxt "Sensei Moohae#mk"
+msgid "Go to Tomoon, get a special potion from him. It will look like a green potion, but it isn't. Bring it to me..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Do you still have the medicine you were supposed to bring?";
+msgctxt "Sensei Moohae#mk"
+msgid "Do you still have the medicine you were supposed to bring?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You must drink that green potion to strengthen yourself for becoming a monk.";
+msgctxt "Sensei Moohae#mk"
+msgid "You must drink that green potion to strengthen yourself for becoming a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Have you finished the task? Good, so you do have what it takes to become a monk.";
+msgctxt "Sensei Moohae#mk"
+msgid "Have you finished the task? Good, so you do have what it takes to become a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You didn't throw away the precious potion did you?";
+msgctxt "Sensei Moohae#mk"
+msgid "You didn't throw away the precious potion did you?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "The potion you drank earlier must be taking its effect by now.";
+msgctxt "Sensei Moohae#mk"
+msgid "The potion you drank earlier must be taking its effect by now."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now that you drank the potion your training to become a monk will begin shortly...";
+msgctxt "Sensei Moohae#mk"
+msgid "Now that you drank the potion your training to become a monk will begin shortly..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "But first, answer me these questions.";
+msgctxt "Sensei Moohae#mk"
+msgid "But first, answer me these questions."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Do you dedicate the remainder of your life to the pursuit of purity?";
+msgctxt "Sensei Moohae#mk"
+msgid "Do you dedicate the remainder of your life to the pursuit of purity?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "....with that kind of reply...";
+msgctxt "Sensei Moohae#mk"
+msgid "....with that kind of reply..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Have you not enough heart to become a monk?";
+msgctxt "Sensei Moohae#mk"
+msgid "Have you not enough heart to become a monk?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Do you feel you have not suffered enough?";
+msgctxt "Sensei Moohae#mk"
+msgid "Do you feel you have not suffered enough?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Think about it a little more and return!";
+msgctxt "Sensei Moohae#mk"
+msgid "Think about it a little more and return!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We cannot accept a monk who is tainted with doubt...";
+msgctxt "Sensei Moohae#mk"
+msgid "We cannot accept a monk who is tainted with doubt..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Will you take advantage of the abilities gained through our training to use for personal benefit?";
+msgctxt "Sensei Moohae#mk"
+msgid "Will you take advantage of the abilities gained through our training to use for personal benefit?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...then we cannot accept you as a monk. We, monks do not practice for personal benefit.";
+msgctxt "Sensei Moohae#mk"
+msgid "...then we cannot accept you as a monk. We, monks do not practice for personal benefit."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We lead our lives honorably and as holy executioners to the damned.";
+msgctxt "Sensei Moohae#mk"
+msgid "We lead our lives honorably and as holy executioners to the damned."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Go back where you're from and reconsider what it means to be a monk...";
+msgctxt "Sensei Moohae#mk"
+msgid "Go back where you're from and reconsider what it means to be a monk..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "How you stand before me now, you will never last as a monk and will be tainted by that which is evil...";
+msgctxt "Sensei Moohae#mk"
+msgid "How you stand before me now, you will never last as a monk and will be tainted by that which is evil..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Will you punishing those who are against";
+msgctxt "Sensei Moohae#mk"
+msgid "Will you punishing those who are against"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "veritas and aequitas? ^CCCCCC(Truth and Justice)^000000";
+msgctxt "Sensei Moohae#mk"
+msgid "veritas and aequitas? ^CCCCCC(Truth and Justice)^000000"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Who do you think we, the monks are for!";
+msgctxt "Sensei Moohae#mk"
+msgid "Who do you think we, the monks are for!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Any creature that is against the will of such spawns from the dregs of the world!";
+msgctxt "Sensei Moohae#mk"
+msgid "Any creature that is against the will of such spawns from the dregs of the world!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "They are not worthy to exist!";
+msgctxt "Sensei Moohae#mk"
+msgid "They are not worthy to exist!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Return when you are ready to face and eliminate that which is evil.";
+msgctxt "Sensei Moohae#mk"
+msgid "Return when you are ready to face and eliminate that which is evil."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Then you will know what you have to do next without my instructions.";
+msgctxt "Sensei Moohae#mk"
+msgid "Then you will know what you have to do next without my instructions."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Will you cooperate with others who have the same goal as yours and sacrifice yourself as a means to an end?";
+msgctxt "Sensei Moohae#mk"
+msgid "Will you cooperate with others who have the same goal as yours and sacrifice yourself as a means to an end?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Did you say no...? This is unacceptable...";
+msgctxt "Sensei Moohae#mk"
+msgid "Did you say no...? This is unacceptable..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you can help your comrades by sacrificing yourself that is a true display of purity.";
+msgctxt "Sensei Moohae#mk"
+msgid "If you can help your comrades by sacrificing yourself that is a true display of purity."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Go back and contemplate upon what it means to sacrifice yourself for those you care for.";
+msgctxt "Sensei Moohae#mk"
+msgid "Go back and contemplate upon what it means to sacrifice yourself for those you care for."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Sacrificing yourself for others may seem easy, but it's the most difficult thing to do as a human being.";
+msgctxt "Sensei Moohae#mk"
+msgid "Sacrificing yourself for others may seem easy, but it's the most difficult thing to do as a human being."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Will you assist your comrades by gathering monsters to follow you?";
+msgctxt "Sensei Moohae#mk"
+msgid "Will you assist your comrades by gathering monsters to follow you?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "That is not acceptable. Purposely taunting monsters to follow you can be very dangerous and harmful to others. This is not the way of a monk.";
+msgctxt "Sensei Moohae#mk"
+msgid "That is not acceptable. Purposely taunting monsters to follow you can be very dangerous and harmful to others. This is not the way of a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "... that behavior is regarded as careless and is not tolerated.";
+msgctxt "Sensei Moohae#mk"
+msgid "... that behavior is regarded as careless and is not tolerated."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Even though you may be nearly invincible when hardening your body that skill is meant to be used for emergency situation not to be used for such disrespectful use!";
+msgctxt "Sensei Moohae#mk"
+msgid "Even though you may be nearly invincible when hardening your body that skill is meant to be used for emergency situation not to be used for such disrespectful use!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You might feel that's helping others, but it's not true.";
+msgctxt "Sensei Moohae#mk"
+msgid "You might feel that's helping others, but it's not true."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Consider what it is you must do as a monk for others again.";
+msgctxt "Sensei Moohae#mk"
+msgid "Consider what it is you must do as a monk for others again."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Will you yell and shout the same things over and over again in towns or in fields?";
+msgctxt "Sensei Moohae#mk"
+msgid "Will you yell and shout the same things over and over again in towns or in fields?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You are not allowed to do so. This doesn't apply only to monks but to everyone.";
+msgctxt "Sensei Moohae#mk"
+msgid "You are not allowed to do so. This doesn't apply only to monks but to everyone."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Nobody wants their peace disturbed!";
+msgctxt "Sensei Moohae#mk"
+msgid "Nobody wants their peace disturbed!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Even if you mean well by it, it is disrespectful and not allowed.";
+msgctxt "Sensei Moohae#mk"
+msgid "Even if you mean well by it, it is disrespectful and not allowed."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Are you willing to die for others on your monk's path of being a holy executioner?";
+msgctxt "Sensei Moohae#mk"
+msgid "Are you willing to die for others on your monk's path of being a holy executioner?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You cannot become a monk with such an attitude!!!";
+msgctxt "Sensei Moohae#mk"
+msgid "You cannot become a monk with such an attitude!!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If we can eliminate at least one more enemy of ours by sacrificing ourselves, that's what is expected of you as a holy executioner in whom we are trained to be.";
+msgctxt "Sensei Moohae#mk"
+msgid "If we can eliminate at least one more enemy of ours by sacrificing ourselves, that's what is expected of you as a holy executioner in whom we are trained to be."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you are unwilling to sacrifice yourself for those you care about,";
+msgctxt "Sensei Moohae#mk"
+msgid "If you are unwilling to sacrifice yourself for those you care about,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "how can you expect to reach true enlightenment?";
+msgctxt "Sensei Moohae#mk"
+msgid "how can you expect to reach true enlightenment?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Ponder upon the real meaning of life and death!!";
+msgctxt "Sensei Moohae#mk"
+msgid "Ponder upon the real meaning of life and death!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Lastly, make your oath that you will keep these vows.";
+msgctxt "Sensei Moohae#mk"
+msgid "Lastly, make your oath that you will keep these vows."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select(" I vow to keep these oaths.", "...eh...no...") == 2) {
+msgctxt "Sensei Moohae#mk"
+msgid " I vow to keep these oaths."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select(" I vow to keep these oaths.", "...eh...no...") == 2) {
+msgctxt "Sensei Moohae#mk"
+msgid "...eh...no..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "..............";
+msgctxt "Sensei Moohae#mk"
+msgid ".............."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Then your training isn't completed.";
+msgctxt "Sensei Moohae#mk"
+msgid "Then your training isn't completed."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You will not be accepted as a monk my boy.";
+msgctxt "Sensei Moohae#mk"
+msgid "You will not be accepted as a monk my boy."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You will not be accepted as a monk little girl.";
+msgctxt "Sensei Moohae#mk"
+msgid "You will not be accepted as a monk little girl."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "In light of this, your training will start again from the beginning....";
+msgctxt "Sensei Moohae#mk"
+msgid "In light of this, your training will start again from the beginning...."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Calm down yourself... I reconsidered... perhaps you are simply not ready for the commitment yet.";
+msgctxt "Sensei Moohae#mk"
+msgid "Calm down yourself... I reconsidered... perhaps you are simply not ready for the commitment yet."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Come back later when you're ready...";
+msgctxt "Sensei Moohae#mk"
+msgid "Come back later when you're ready..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope that you are able to realize what you are to become soon my boy...";
+msgctxt "Sensei Moohae#mk"
+msgid "I hope that you are able to realize what you are to become soon my boy..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope that you are able to realize what you are to become soon my girl...";
+msgctxt "Sensei Moohae#mk"
+msgid "I hope that you are able to realize what you are to become soon my girl..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Then your training is complete...";
+msgctxt "Sensei Moohae#mk"
+msgid "Then your training is complete..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Please come closer.";
+msgctxt "Sensei Moohae#mk"
+msgid "Please come closer."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We welcome you brother, in our holy battle against evil!";
+msgctxt "Sensei Moohae#mk"
+msgid "We welcome you brother, in our holy battle against evil!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We welcome you sister, in our holy battle against evil!";
+msgctxt "Sensei Moohae#mk"
+msgid "We welcome you sister, in our holy battle against evil!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "My brother, your oath has been heard by all around us.";
+msgctxt "Sensei Moohae#mk"
+msgid "My brother, your oath has been heard by all around us."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "My sister, your oath has been heard by all around us.";
+msgctxt "Sensei Moohae#mk"
+msgid "My sister, your oath has been heard by all around us."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I will now perform the ultimate techniques upon your body...";
+msgctxt "Sensei Moohae#mk"
+msgid "I will now perform the ultimate techniques upon your body..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I will use these ancient techniques to amplify your strength through the use of pressure points on your body.";
+msgctxt "Sensei Moohae#mk"
+msgid "I will use these ancient techniques to amplify your strength through the use of pressure points on your body."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Close your eyes.........";
+msgctxt "Sensei Moohae#mk"
+msgid "Close your eyes........."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "And relax your body.......";
+msgctxt "Sensei Moohae#mk"
+msgid "And relax your body......."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "["+ strcharinfo(PC_NAME) +"]";
+msgctxt "Sensei Moohae#mk"
+msgid "["
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "^00CCCC- You breathe in deeply -^000000";
+msgctxt "Sensei Moohae#mk"
+msgid "^00CCCC- You breathe in deeply -^000000"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "^CC0000- You feel fingers poking you all over your body with swiftness -^000000";
+msgctxt "Sensei Moohae#mk"
+msgid "^CC0000- You feel fingers poking you all over your body with swiftness -^000000"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Kiiii~~~Yahahhhhhhh!!!";
+msgctxt "Sensei Moohae#mk"
+msgid "Kiiii~~~Yahahhhhhhh!!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Ooooohaaa!!!";
+msgctxt "Sensei Moohae#mk"
+msgid "Ooooohaaa!!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Kiii~~~Yahahhhhhhh!!!";
+msgctxt "Sensei Moohae#mk"
+msgid "Kiii~~~Yahahhhhhhh!!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Haa~ Haa~ Haa~!!!!!";
+msgctxt "Sensei Moohae#mk"
+msgid "Haa~ Haa~ Haa~!!!!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes ".... now open your eyes......";
+msgctxt "Sensei Moohae#mk"
+msgid ".... now open your eyes......"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "....and see life through the eyes of a monk.";
+msgctxt "Sensei Moohae#mk"
+msgid "....and see life through the eyes of a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "....You are a monk.";
+msgctxt "Sensei Moohae#mk"
+msgid "....You are a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...heh.";
+msgctxt "Sensei Moohae#mk"
+msgid "...heh."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Well...I guess I am too old to do that anymore...I was better when I was younger...";
+msgctxt "Sensei Moohae#mk"
+msgid "Well...I guess I am too old to do that anymore...I was better when I was younger..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...anyways, you are a monk now.";
+msgctxt "Sensei Moohae#mk"
+msgid "...anyways, you are a monk now."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Welcome!";
+msgctxt "Sensei Moohae#mk"
+msgid "Welcome!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope you will keep your vow..";
+msgctxt "Sensei Moohae#mk"
+msgid "I hope you will keep your vow.."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "continue your training on your path and practice harder.";
+msgctxt "Sensei Moohae#mk"
+msgid "continue your training on your path and practice harder."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now...you may leave where the wind may take you.";
+msgctxt "Sensei Moohae#mk"
+msgid "Now...you may leave where the wind may take you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Oh and I have a gift for you before you leave.";
+msgctxt "Sensei Moohae#mk"
+msgid "Oh and I have a gift for you before you leave."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You are...an acolyte..?";
+msgctxt "Sensei Moohae#mk"
+msgid "You are...an acolyte..?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you seek consultation, go to the Sanctuary in Prontera. This place is for Monks, not for you.";
+msgctxt "Sensei Moohae#mk"
+msgid "If you seek consultation, go to the Sanctuary in Prontera. This place is for Monks, not for you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Unless you intend to become a monk....please leave.";
+msgctxt "Sensei Moohae#mk"
+msgid "Unless you intend to become a monk....please leave."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "How's your practice going?";
+msgctxt "Sensei Moohae#mk"
+msgid "How's your practice going?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope you are still training and keeping your vows.";
+msgctxt "Sensei Moohae#mk"
+msgid "I hope you are still training and keeping your vows."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We must always continue our training in life and stay true to our path.";
+msgctxt "Sensei Moohae#mk"
+msgid "We must always continue our training in life and stay true to our path."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Otherwise evil will come and taint our mind with impurities.";
+msgctxt "Sensei Moohae#mk"
+msgid "Otherwise evil will come and taint our mind with impurities."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Don't forget your vows, stay on your path and";
+msgctxt "Sensei Moohae#mk"
+msgid "Don't forget your vows, stay on your path and"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "do not let any evil taint your pure heart.";
+msgctxt "Sensei Moohae#mk"
+msgid "do not let any evil taint your pure heart."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you seek consultation, go to the Sanctuary in Prontera.";
+msgctxt "Sensei Moohae#mk"
+msgid "If you seek consultation, go to the Sanctuary in Prontera."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We do not have anything of interest to you here, please leave and do not disturb the other monks.";
+msgctxt "Sensei Moohae#mk"
+msgid "We do not have anything of interest to you here, please leave and do not disturb the other monks."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Touha]";
+msgctxt "Touha#mk"
+msgid "[Touha]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "What brings you to me.";
+msgctxt "Touha#mk"
+msgid "What brings you to me."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Do you wish to share a conversation with me?";
+msgctxt "Touha#mk"
+msgid "Do you wish to share a conversation with me?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Oh, I see. You're on the monk in training.";
+msgctxt "Touha#mk"
+msgid "Oh, I see. You're on the monk in training."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You already possess a similar spirit as a monk's.";
+msgctxt "Touha#mk"
+msgid "You already possess a similar spirit as a monk's."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "By the looks of you, it seems, you";
+msgctxt "Touha#mk"
+msgid "By the looks of you, it seems, you"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "have already visited Sensei Moohae. Good.";
+msgctxt "Touha#mk"
+msgid "have already visited Sensei Moohae. Good."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Let me inform you about certain things you must know as a monk.";
+msgctxt "Touha#mk"
+msgid "Let me inform you about certain things you must know as a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Then I will help you to strengthen your body so that you can bear your next training.";
+msgctxt "Touha#mk"
+msgid "Then I will help you to strengthen your body so that you can bear your next training."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Calm your mind.";
+msgctxt "Touha#mk"
+msgid "Calm your mind."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Relax your body...are you ready?";
+msgctxt "Touha#mk"
+msgid "Relax your body...are you ready?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Yes.", "No.") == 2) {
+msgctxt "Touha#mk"
+msgid "Yes."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Yes.", "No.") == 2) {
+msgctxt "Touha#mk"
+msgid "No."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Please come back when you're ready.";
+msgctxt "Touha#mk"
+msgid "Please come back when you're ready."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Ok...then.";
+msgctxt "Touha#mk"
+msgid "Ok...then."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Please repeat after me.";
+msgctxt "Touha#mk"
+msgid "Please repeat after me."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now, pay attention this time...";
+msgctxt "Touha#mk"
+msgid "Now, pay attention this time..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I seek the path";
+msgctxt "Touha#mk"
+msgid "I seek the path"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "of enlightenment.";
+msgctxt "Touha#mk"
+msgid "of enlightenment."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We monks";
+msgctxt "Touha#mk"
+msgid "We monks"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "shall hold true";
+msgctxt "Touha#mk"
+msgid "shall hold true"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "to what we believe";
+msgctxt "Touha#mk"
+msgid "to what we believe"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "and will help protect others";
+msgctxt "Touha#mk"
+msgid "and will help protect others"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "through the teachings";
+msgctxt "Touha#mk"
+msgid "through the teachings"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "we learn through our lives.";
+msgctxt "Touha#mk"
+msgid "we learn through our lives."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "In nomine Patris, et Filii";
+msgctxt "Touha#mk"
+msgid "In nomine Patris, et Filii"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "et Spiritus Sancti.";
+msgctxt "Touha#mk"
+msgid "et Spiritus Sancti."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I commit myself to";
+msgctxt "Touha#mk"
+msgid "I commit myself to"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "veritas and aequitas.";
+msgctxt "Touha#mk"
+msgid "veritas and aequitas."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I will follow my path";
+msgctxt "Touha#mk"
+msgid "I will follow my path"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "to enlightenment and purity.";
+msgctxt "Touha#mk"
+msgid "to enlightenment and purity."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I will protect my";
+msgctxt "Touha#mk"
+msgid "I will protect my"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "brothers with my life.";
+msgctxt "Touha#mk"
+msgid "brothers with my life."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Evil shall never be";
+msgctxt "Touha#mk"
+msgid "Evil shall never be"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "victorious while I breathe.";
+msgctxt "Touha#mk"
+msgid "victorious while I breathe."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "And shepherds we shall be,";
+msgctxt "Touha#mk"
+msgid "And shepherds we shall be,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "for thee my lord for thee.";
+msgctxt "Touha#mk"
+msgid "for thee my lord for thee."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Power hath descended forth";
+msgctxt "Touha#mk"
+msgid "Power hath descended forth"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "from the hand";
+msgctxt "Touha#mk"
+msgid "from the hand"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "so our feet may swiftly carry";
+msgctxt "Touha#mk"
+msgid "so our feet may swiftly carry"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "out thy command. And we shall";
+msgctxt "Touha#mk"
+msgid "out thy command. And we shall"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "flow a river forth to thee and";
+msgctxt "Touha#mk"
+msgid "flow a river forth to thee and"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "teeming with souls shall it ever be";
+msgctxt "Touha#mk"
+msgid "teeming with souls shall it ever be"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Ok, that is all. Now repeat what I have spoken.";
+msgctxt "Touha#mk"
+msgid "Ok, that is all. Now repeat what I have spoken."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[" + strcharinfo(PC_NAME) + "]";
+msgctxt "Touha#mk"
+msgid "["
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...";
+msgctxt "Touha#mk"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm...";
+msgctxt "Touha#mk"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...well done, that was perfect. You pay attention well...";
+msgctxt "Touha#mk"
+msgid "...well done, that was perfect. You pay attention well..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "However, now is not the time to relax. Your path is still long ahead of you.";
+msgctxt "Touha#mk"
+msgid "However, now is not the time to relax. Your path is still long ahead of you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now as I promised, I will help strengthen your body.";
+msgctxt "Touha#mk"
+msgid "Now as I promised, I will help strengthen your body."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Focus your mind and do not move.";
+msgctxt "Touha#mk"
+msgid "Focus your mind and do not move."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "^33CCFFYou feel wind all around your body.^000000";
+msgctxt "Touha#mk"
+msgid "^33CCFFYou feel wind all around your body.^000000"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "^33CCFFAn energy within you grows.^000000";
+msgctxt "Touha#mk"
+msgid "^33CCFFAn energy within you grows.^000000"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I feel what grows within you.";
+msgctxt "Touha#mk"
+msgid "I feel what grows within you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You may now continue on...";
+msgctxt "Touha#mk"
+msgid "You may now continue on..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...the next course will be with Boohae.";
+msgctxt "Touha#mk"
+msgid "...the next course will be with Boohae."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I wish you well on your journey.";
+msgctxt "Touha#mk"
+msgid "I wish you well on your journey."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Don't forget, his name is ^CC0000Boohae^000000.";
+msgctxt "Touha#mk"
+msgid "Don't forget, his name is ^CC0000Boohae^000000."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I see you did not pay attention.. If you wish to become a monk, you must take this seriously.";
+msgctxt "Touha#mk"
+msgid "I see you did not pay attention.. If you wish to become a monk, you must take this seriously."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Perhaps the path of a monk is too difficult for you?";
+msgctxt "Touha#mk"
+msgid "Perhaps the path of a monk is too difficult for you?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You must take this seriously if you wish to continue...";
+msgctxt "Touha#mk"
+msgid "You must take this seriously if you wish to continue..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I will give you another chance.";
+msgctxt "Touha#mk"
+msgid "I will give you another chance."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you cannot pay attention and repeat what I ask you to, I will not allow you to continue your training here..";
+msgctxt "Touha#mk"
+msgid "If you cannot pay attention and repeat what I ask you to, I will not allow you to continue your training here.."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm... did you forget who to visit?";
+msgctxt "Touha#mk"
+msgid "Hmm... did you forget who to visit?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I wonder about your abilities if you cannot remember such a simple thing.";
+msgctxt "Touha#mk"
+msgid "I wonder about your abilities if you cannot remember such a simple thing."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...are you testing my patience?";
+msgctxt "Touha#mk"
+msgid "...are you testing my patience?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You wear my patience thin...";
+msgctxt "Touha#mk"
+msgid "You wear my patience thin..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "... go visit Boohae.";
+msgctxt "Touha#mk"
+msgid "... go visit Boohae."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...do your best for the final test.";
+msgctxt "Touha#mk"
+msgid "...do your best for the final test."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Never shall innocent blood be shed.";
+msgctxt "Touha#mk"
+msgid "Never shall innocent blood be shed."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Yet the blood of the wicked shall flow like a river.";
+msgctxt "Touha#mk"
+msgid "Yet the blood of the wicked shall flow like a river."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We shall spread our blackened wings and be the vengeful striking hammer of god.";
+msgctxt "Touha#mk"
+msgid "We shall spread our blackened wings and be the vengeful striking hammer of god."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We shall flow a river forth to thee, and teeming with souls shall it ever be.";
+msgctxt "Touha#mk"
+msgid "We shall flow a river forth to thee, and teeming with souls shall it ever be."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "In nomine Patris, et Filii, et Spiritus Sancti.";
+msgctxt "Touha#mk"
+msgid "In nomine Patris, et Filii, et Spiritus Sancti."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...You don't have to be afraid of me...";
+msgctxt "Touha#mk"
+msgid "...You don't have to be afraid of me..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Boohae]";
+msgctxt "Boohae#mk"
+msgid "[Boohae]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...";
+msgctxt "Boohae#mk"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "......";
+msgctxt "Boohae#mk"
+msgid "......"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes ".........";
+msgctxt "Boohae#mk"
+msgid "........."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "............";
+msgctxt "Boohae#mk"
+msgid "............"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# select("...excuse me...?");
+msgctxt "Boohae#mk"
+msgid "...excuse me...?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You just interrupted my meditation, I should break your legs...";
+msgctxt "Boohae#mk"
+msgid "You just interrupted my meditation, I should break your legs..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "........";
+msgctxt "Boohae#mk"
+msgid "........"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I will give you a chance to explain why you interrupted me.";
+msgctxt "Boohae#mk"
+msgid "I will give you a chance to explain why you interrupted me."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes ".....";
+msgctxt "Boohae#mk"
+msgid "....."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Well, start explaining... or you'll be crawling soon...";
+msgctxt "Boohae#mk"
+msgid "Well, start explaining... or you'll be crawling soon..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Touha sent me.", "Sorry, nothing.") == 2) {
+msgctxt "Boohae#mk"
+msgid "Touha sent me."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Touha sent me.", "Sorry, nothing.") == 2) {
+msgctxt "Boohae#mk"
+msgid "Sorry, nothing."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...you must have a death wish to have interrupted me intentionally...";
+msgctxt "Boohae#mk"
+msgid "...you must have a death wish to have interrupted me intentionally..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I see...";
+msgctxt "Boohae#mk"
+msgid "I see..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Well then, let's see....";
+msgctxt "Boohae#mk"
+msgid "Well then, let's see...."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "....your body seems..";
+msgctxt "Boohae#mk"
+msgid "....your body seems.."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "strengthened. Good...";
+msgctxt "Boohae#mk"
+msgid "strengthened. Good..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "What did you do with Touha?";
+msgctxt "Boohae#mk"
+msgid "What did you do with Touha?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Umm... well...ah..", "We recited a holy pledge.", "He diagnosed my physical status.")) {
+msgctxt "Boohae#mk"
+msgid "Umm... well...ah.."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Umm... well...ah..", "We recited a holy pledge.", "He diagnosed my physical status.")) {
+msgctxt "Boohae#mk"
+msgid "We recited a holy pledge."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Umm... well...ah..", "We recited a holy pledge.", "He diagnosed my physical status.")) {
+msgctxt "Boohae#mk"
+msgid "He diagnosed my physical status."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You are not ready if you";
+msgctxt "Boohae#mk"
+msgid "You are not ready if you"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "cannot answer a simple question.";
+msgctxt "Boohae#mk"
+msgid "cannot answer a simple question."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Leave me to my prayers.";
+msgctxt "Boohae#mk"
+msgid "Leave me to my prayers."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "... I see...";
+msgctxt "Boohae#mk"
+msgid "... I see..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Didn't he do anything for you?";
+msgctxt "Boohae#mk"
+msgid "Didn't he do anything for you?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Umm... well...ah..", "He diagnosed my physical status.", "He taught me about being a monk.", "He modified my body.")) {
+msgctxt "Boohae#mk"
+msgid "He taught me about being a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Umm... well...ah..", "He diagnosed my physical status.", "He taught me about being a monk.", "He modified my body.")) {
+msgctxt "Boohae#mk"
+msgid "He modified my body."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "That is unimportant to me...";
+msgctxt "Boohae#mk"
+msgid "That is unimportant to me..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Stop disturbing me and go away!";
+msgctxt "Boohae#mk"
+msgid "Stop disturbing me and go away!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "The teachings of becoming a monk are learned after becoming one.";
+msgctxt "Boohae#mk"
+msgid "The teachings of becoming a monk are learned after becoming one."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "This is not what I am looking for...";
+msgctxt "Boohae#mk"
+msgid "This is not what I am looking for..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Very well, you seem to realize your body has something new inside.";
+msgctxt "Boohae#mk"
+msgid "Very well, you seem to realize your body has something new inside."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Well then, we shall move on to the next step...";
+msgctxt "Boohae#mk"
+msgid "Well then, we shall move on to the next step..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...You interrupted me to tell me that...?";
+msgctxt "Boohae#mk"
+msgid "...You interrupted me to tell me that...?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Get lost before I break your legs...";
+msgctxt "Boohae#mk"
+msgid "Get lost before I break your legs..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Alright... well we have two tests...";
+msgctxt "Boohae#mk"
+msgid "Alright... well we have two tests..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Choose which one you want to do...";
+msgctxt "Boohae#mk"
+msgid "Choose which one you want to do..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Gathering mushrooms", "Marathon") == 1) {
+msgctxt "Boohae#mk"
+msgid "Gathering mushrooms"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Gathering mushrooms", "Marathon") == 1) {
+msgctxt "Boohae#mk"
+msgid "Marathon"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm....gathering mushrooms. So you want to test your tolerance huh?";
+msgctxt "Boohae#mk"
+msgid "Hmm....gathering mushrooms. So you want to test your tolerance huh?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Go prepare and come back later when you're ready.";
+msgctxt "Boohae#mk"
+msgid "Go prepare and come back later when you're ready."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Good choice. Forcing your physical limits to their boundaries and grants a higher amount of self control.";
+msgctxt "Boohae#mk"
+msgid "Good choice. Forcing your physical limits to their boundaries and grants a higher amount of self control."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "So, are you ready? You won't need anything but a great deal of determination.";
+msgctxt "Boohae#mk"
+msgid "So, are you ready? You won't need anything but a great deal of determination."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "The gathering mushroom test is intended,";
+msgctxt "Boohae#mk"
+msgid "The gathering mushroom test is intended,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "to test your patience.";
+msgctxt "Boohae#mk"
+msgid "to test your patience."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Go inside the building near this abbey.";
+msgctxt "Boohae#mk"
+msgid "Go inside the building near this abbey."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Other monk candidates will be with you for the same test,";
+msgctxt "Boohae#mk"
+msgid "Other monk candidates will be with you for the same test,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "The more people that are there, the less mushrooms they'll find.";
+msgctxt "Boohae#mk"
+msgid "The more people that are there, the less mushrooms they'll find."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "So I hope you will understand that they are testing their patience, just like you.";
+msgctxt "Boohae#mk"
+msgid "So I hope you will understand that they are testing their patience, just like you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Welcome back, did you prepare? You won't need anything except strong legs.";
+msgctxt "Boohae#mk"
+msgid "Welcome back, did you prepare? You won't need anything except strong legs."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "The marathon is intended,";
+msgctxt "Boohae#mk"
+msgid "The marathon is intended,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "to test your self-control ability.";
+msgctxt "Boohae#mk"
+msgid "to test your self-control ability."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "All you have to do is run around the building as many times as you're required.";
+msgctxt "Boohae#mk"
+msgid "All you have to do is run around the building as many times as you're required."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Well... get going.";
+msgctxt "Boohae#mk"
+msgid "Well... get going."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now, go visit 'Tomoon'. How many times should I tell you this?";
+msgctxt "Boohae#mk"
+msgid "Now, go visit 'Tomoon'. How many times should I tell you this?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now you have a lot of chance to damage your body because you're so exhausted right now.";
+msgctxt "Boohae#mk"
+msgid "Now you have a lot of chance to damage your body because you're so exhausted right now."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "'Tomoon' is staying in a deepest place inside a building near this abbey.";
+msgctxt "Boohae#mk"
+msgid "'Tomoon' is staying in a deepest place inside a building near this abbey."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...........";
+msgctxt "Boohae#mk"
+msgid "..........."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "-He seems to be in meditation.-";
+msgctxt "Boohae#mk"
+msgid "-He seems to be in meditation.-"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmmmm....!!";
+msgctxt "Boohae#mk"
+msgid "Hmmmm....!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Keeper Chorip]";
+msgctxt "Door Keeper#mk"
+msgid "[Keeper Chorip]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "....this place is for those";
+msgctxt "Door Keeper#mk"
+msgid "....this place is for those"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes " in testing for becoming a monk.";
+msgctxt "Door Keeper#mk"
+msgid " in testing for becoming a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Huh? Did you just say Boohae?";
+msgctxt "Door Keeper#mk"
+msgid "Huh? Did you just say Boohae?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Boohae... tends to hide in some quite places, so you might not be able to find him. For instance... a corner...";
+msgctxt "Door Keeper#mk"
+msgid "Boohae... tends to hide in some quite places, so you might not be able to find him. For instance... a corner..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Is your name " + strcharinfo(PC_NAME) + "?";
+msgctxt "Door Keeper#mk"
+msgid "Is your name "
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Yes.", "No.") == 1) {
+msgctxt "Door Keeper#mk"
+msgid "Yes."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Yes.", "No.") == 1) {
+msgctxt "Door Keeper#mk"
+msgid "No."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Alright you're cool... go on in. Your test is waiting for you. Good luck.";
+msgctxt "Door Keeper#mk"
+msgid "Alright you're cool... go on in. Your test is waiting for you. Good luck."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Yeah right, I know who you are... get in there... your test is ready.";
+msgctxt "Door Keeper#mk"
+msgid "Yeah right, I know who you are... get in there... your test is ready."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...please be quiet inside.";
+msgctxt "Door Keeper#mk"
+msgid "...please be quiet inside."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Bashu]";
+msgctxt "Bashu#mk"
+msgid "[Bashu]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "So, which test do you want to do...?";
+msgctxt "Bashu#mk"
+msgid "So, which test do you want to do...?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "From what I've heard, you chose the mushroom test...";
+msgctxt "Bashu#mk"
+msgid "From what I've heard, you chose the mushroom test..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Oh well, it's still your choice.";
+msgctxt "Bashu#mk"
+msgid "Oh well, it's still your choice."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Which test hall do you wish to enter?";
+msgctxt "Bashu#mk"
+msgid "Which test hall do you wish to enter?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Well, as far as I've been told, you chose the marathon test...";
+msgctxt "Bashu#mk"
+msgid "Well, as far as I've been told, you chose the marathon test..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Oh well, it's your choice.";
+msgctxt "Bashu#mk"
+msgid "Oh well, it's your choice."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You can choose which one you want.";
+msgctxt "Bashu#mk"
+msgid "You can choose which one you want."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Tolerance - Gathering Mushrooms", "Self-Control - Marathon") == 1) {
+msgctxt "Bashu#mk"
+msgid "Tolerance - Gathering Mushrooms"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Tolerance - Gathering Mushrooms", "Self-Control - Marathon") == 1) {
+msgctxt "Bashu#mk"
+msgid "Self-Control - Marathon"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You have decided to take the test of tolerance by ^FF0000gathering mushrooms^000000.";
+msgctxt "Bashu#mk"
+msgid "You have decided to take the test of tolerance by ^FF0000gathering mushrooms^000000."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You have decided to take the test of self control by taking a ^FF0000marathon^000000.";
+msgctxt "Bashu#mk"
+msgid "You have decided to take the test of self control by taking a ^FF0000marathon^000000."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Welcome... this place is a training place for monks, Saint Capitolina Abbey.";
+msgctxt "Bashu#mk"
+msgid "Welcome... this place is a training place for monks, Saint Capitolina Abbey."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "When you go inside....you will meet Tomoon the oldest monk who succeeds to the predecessors,";
+msgctxt "Bashu#mk"
+msgid "When you go inside....you will meet Tomoon the oldest monk who succeeds to the predecessors,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Please be advised and do not touch anything.";
+msgctxt "Bashu#mk"
+msgid "Please be advised and do not touch anything."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "And please avoid talking loud in front of Tomoon.";
+msgctxt "Bashu#mk"
+msgid "And please avoid talking loud in front of Tomoon."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I hope you will have a great time in here.";
+msgctxt "Bashu#mk"
+msgid "I hope you will have a great time in here."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Monk Apprentice]";
+msgctxt "Apprentice Monk#mk"
+msgid "[Monk Apprentice]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "W... welcome!";
+msgctxt "Apprentice Monk#mk"
+msgid "W... welcome!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Th... this place is for testing the tolerance of monk candidates!";
+msgctxt "Apprentice Monk#mk"
+msgid "Th... this place is for testing the tolerance of monk candidates!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Ju... just run...";
+msgctxt "Apprentice Monk#mk"
+msgid "Ju... just run..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "until you're told to stop,";
+msgctxt "Apprentice Monk#mk"
+msgid "until you're told to stop,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Ru...ruu....run!";
+msgctxt "Apprentice Monk#mk"
+msgid "Ru...ruu....run!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "M... m... me? I'll run one of these days!";
+msgctxt "Apprentice Monk#mk"
+msgid "M... m... me? I'll run one of these days!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "M... monk... are you going to be... a... m...m...monk??";
+msgctxt "Apprentice Monk#mk"
+msgid "M... monk... are you going to be... a... m...m...monk??"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Ar...are...you...sure you are.. aren't... going to quit?";
+msgctxt "Apprentice Monk#mk"
+msgid "Ar...are...you...sure you are.. aren't... going to quit?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Quit.", "Keep running.") == 1) {
+msgctxt "Apprentice Monk#mk"
+msgid "Quit."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# if (select("Quit.", "Keep running.") == 1) {
+msgctxt "Apprentice Monk#mk"
+msgid "Keep running."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Until you're told to stop,";
+msgctxt "Apprentice Monk#mk"
+msgid "Until you're told to stop,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Supervisor]";
+msgctxt "Supervisor#race_monk"
+msgid "[Supervisor]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now...you may go visit Tomoon.";
+msgctxt "Supervisor#race_monk"
+msgid "Now...you may go visit Tomoon."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Tomoon is in the deepest room inside a building near this abbey.";
+msgctxt "Supervisor#race_monk"
+msgid "Tomoon is in the deepest room inside a building near this abbey."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Hyunmoo]";
+msgctxt "Hyunmoo#mk"
+msgid "[Hyunmoo]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You didn't bring enough mushrooms... go get some more.";
+msgctxt "Hyunmoo#mk"
+msgid "You didn't bring enough mushrooms... go get some more."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Or is it you want to quit... do you want to quit?";
+msgctxt "Hyunmoo#mk"
+msgid "Or is it you want to quit... do you want to quit?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("No.", "Yes.") == 1) {
+msgctxt "Hyunmoo#mk"
+msgid "No."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("No.", "Yes.") == 1) {
+msgctxt "Hyunmoo#mk"
+msgid "Yes."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Then move!";
+msgctxt "Hyunmoo#mk"
+msgid "Then move!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes ".....I figured as much....you don't have a spirit.";
+msgctxt "Hyunmoo#mk"
+msgid ".....I figured as much....you don't have a spirit."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Nice to meet you. My name is Hyunmoo. I am in charge of the mushroom test.";
+msgctxt "Hyunmoo#mk"
+msgid "Nice to meet you. My name is Hyunmoo. I am in charge of the mushroom test."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Your task will be to gather mushrooms.";
+msgctxt "Hyunmoo#mk"
+msgid "Your task will be to gather mushrooms."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Understand?";
+msgctxt "Hyunmoo#mk"
+msgid "Understand?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Picking the mushrooms is to train your tolerance.";
+msgctxt "Hyunmoo#mk"
+msgid "Picking the mushrooms is to train your tolerance."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We planted a garden in order to survive as well as to discipline our minds.";
+msgctxt "Hyunmoo#mk"
+msgid "We planted a garden in order to survive as well as to discipline our minds."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I believe there is no better way to find true inner peace then to be one with nature.";
+msgctxt "Hyunmoo#mk"
+msgid "I believe there is no better way to find true inner peace then to be one with nature."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "So we created our garden, however these mushrooms started sprouting up everywhere!";
+msgctxt "Hyunmoo#mk"
+msgid "So we created our garden, however these mushrooms started sprouting up everywhere!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "What we ask of you as part of your training is to remove these mushrooms.";
+msgctxt "Hyunmoo#mk"
+msgid "What we ask of you as part of your training is to remove these mushrooms."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Go help the others remove as many mushrooms as you can and bring me back";
+msgctxt "Hyunmoo#mk"
+msgid "Go help the others remove as many mushrooms as you can and bring me back"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "enough ^FF0000Orange Net Mushrooms^000000 and ^FF0000Orange Gooey Mushroom^000000 as proof.";
+msgctxt "Hyunmoo#mk"
+msgid "enough ^FF0000Orange Net Mushrooms^000000 and ^FF0000Orange Gooey Mushroom^000000 as proof."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now, go get some mushrooms.";
+msgctxt "Hyunmoo#mk"
+msgid "Now, go get some mushrooms."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Check back with me when you have picked some, I will tell you if it is enough.";
+msgctxt "Hyunmoo#mk"
+msgid "Check back with me when you have picked some, I will tell you if it is enough."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "And remember, find peace when gardening.";
+msgctxt "Hyunmoo#mk"
+msgid "And remember, find peace when gardening."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...or do you want to quit?";
+msgctxt "Hyunmoo#mk"
+msgid "...or do you want to quit?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Alright then, keep going.";
+msgctxt "Hyunmoo#mk"
+msgid "Alright then, keep going."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes ".....yeah I thought as much....you don't have the spirit needed to become a monk.";
+msgctxt "Hyunmoo#mk"
+msgid ".....yeah I thought as much....you don't have the spirit needed to become a monk."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "...hmm... not bad.";
+msgctxt "Hyunmoo#mk"
+msgid "...hmm... not bad."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Ok, you passed.";
+msgctxt "Hyunmoo#mk"
+msgid "Ok, you passed."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Go meet Tomoon for your next test.";
+msgctxt "Hyunmoo#mk"
+msgid "Go meet Tomoon for your next test."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Tomoon is staying in the deepest room inside a building near this abbey.";
+msgctxt "Hyunmoo#mk"
+msgid "Tomoon is staying in the deepest room inside a building near this abbey."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Didn't I tell you to go meet ^FF0000Tomoon^000000? Or do you want to pick some more mushrooms?";
+msgctxt "Hyunmoo#mk"
+msgid "Didn't I tell you to go meet ^FF0000Tomoon^000000? Or do you want to pick some more mushrooms?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Hyunmoo]";
+msgctxt "Hyunmoo#mk2"
+msgid "[Hyunmoo]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "As I see vegetables growing, I feel myself growing within.";
+msgctxt "Hyunmoo#mk2"
+msgid "As I see vegetables growing, I feel myself growing within."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "As I see other monks working hard on growing vegetables,";
+msgctxt "Hyunmoo#mk2"
+msgid "As I see other monks working hard on growing vegetables,"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "it warms my heart to see others enjoying gardening as I do.";
+msgctxt "Hyunmoo#mk2"
+msgid "it warms my heart to see others enjoying gardening as I do."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "To be honest with you, I think gardening is the greatest thing ever...";
+msgctxt "Hyunmoo#mk2"
+msgid "To be honest with you, I think gardening is the greatest thing ever..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We should give thanks to the brothers who prepare our food for us through their hard work.";
+msgctxt "Hyunmoo#mk2"
+msgid "We should give thanks to the brothers who prepare our food for us through their hard work."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Don't forget to thank them as you go by for their hard work.";
+msgctxt "Hyunmoo#mk2"
+msgid "Don't forget to thank them as you go by for their hard work."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Didn't I tell you to go meet Tomoon? Or do you want to pick more mushrooms?";
+msgctxt "Hyunmoo#mk2"
+msgid "Didn't I tell you to go meet Tomoon? Or do you want to pick more mushrooms?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Tomoon is staying in the deepest room inside a building near this abbey.";
+msgctxt "Hyunmoo#mk2"
+msgid "Tomoon is staying in the deepest room inside a building near this abbey."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Tomoon]";
+msgctxt "Tomoon#mk"
+msgid "[Tomoon]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Welcome young one.";
+msgctxt "Tomoon#mk"
+msgid "Welcome young one."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "My name is Tomoon, I am in charge of the last test of spiritual training!";
+msgctxt "Tomoon#mk"
+msgid "My name is Tomoon, I am in charge of the last test of spiritual training!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now you don't need to be instructed any more then this:";
+msgctxt "Tomoon#mk"
+msgid "Now you don't need to be instructed any more then this:"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "^990000Terminate every living thing in your way!^000000 That's all!";
+msgctxt "Tomoon#mk"
+msgid "^990000Terminate every living thing in your way!^000000 That's all!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "While you're wandering around within the maze, if you encounter any evil creatures, just kill them! Release their tortured souls!!";
+msgctxt "Tomoon#mk"
+msgid "While you're wandering around within the maze, if you encounter any evil creatures, just kill them! Release their tortured souls!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Do not compare us to the weakling priests! We are monks and we will always be the strongest!!";
+msgctxt "Tomoon#mk"
+msgid "Do not compare us to the weakling priests! We are monks and we will always be the strongest!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "We are not like priests who cower behind the strength of others!";
+msgctxt "Tomoon#mk"
+msgid "We are not like priests who cower behind the strength of others!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now, focus!! Keep your fists tight and your eyes open! It's time to show me what you got.";
+msgctxt "Tomoon#mk"
+msgid "Now, focus!! Keep your fists tight and your eyes open! It's time to show me what you got."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Let's see if you got what it takes to be a true monk!!";
+msgctxt "Tomoon#mk"
+msgid "Let's see if you got what it takes to be a true monk!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Hmm... you failed?";
+msgctxt "Tomoon#mk"
+msgid "Hmm... you failed?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Cheer up! Failure is but a process to success!";
+msgctxt "Tomoon#mk"
+msgid "Cheer up! Failure is but a process to success!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Go! Start again! Kill them all!!";
+msgctxt "Tomoon#mk"
+msgid "Go! Start again! Kill them all!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Excellent job!!";
+msgctxt "Tomoon#mk"
+msgid "Excellent job!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I knew you'd make it through!";
+msgctxt "Tomoon#mk"
+msgid "I knew you'd make it through!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Now...I will give you a secret potion which will double your physical strength.";
+msgctxt "Tomoon#mk"
+msgid "Now...I will give you a secret potion which will double your physical strength."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Drink this potion and you will be able to become a monk!!!";
+msgctxt "Tomoon#mk"
+msgid "Drink this potion and you will be able to become a monk!!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "... now go back to sensei Moohae!!!";
+msgctxt "Tomoon#mk"
+msgid "... now go back to sensei Moohae!!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I already told you, go back to sensei Moohae!!!";
+msgctxt "Tomoon#mk"
+msgid "I already told you, go back to sensei Moohae!!!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "....be quiet.";
+msgctxt "Tomoon#mk"
+msgid "....be quiet."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes ".....";
+msgctxt "Tomoon#mk"
+msgid "....."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I will not allow anyone to cause any trouble in this abbey.";
+msgctxt "Tomoon#mk"
+msgid "I will not allow anyone to cause any trouble in this abbey."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You'd better not be thinking about causing any trouble.";
+msgctxt "Tomoon#mk"
+msgid "You'd better not be thinking about causing any trouble."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Proctor]";
+msgctxt "Proctor#mk"
+msgid "[Proctor]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "So, are you ready to undergo the spiritual training?";
+msgctxt "Proctor#mk"
+msgid "So, are you ready to undergo the spiritual training?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Yes!", "No.", "What do I have to do?")) {
+msgctxt "Proctor#mk"
+msgid "Yes!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Yes!", "No.", "What do I have to do?")) {
+msgctxt "Proctor#mk"
+msgid "No."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Yes!", "No.", "What do I have to do?")) {
+msgctxt "Proctor#mk"
+msgid "What do I have to do?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Alright! I wish you luck. If you get lost and can't find a way out, simply log out and log back in.";
+msgctxt "Proctor#mk"
+msgid "Alright! I wish you luck. If you get lost and can't find a way out, simply log out and log back in."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Then you will return to your save point. What's that mean? Heck if I know, I'm just told to say that. Oh yes and also, please cooperate with your comrades.";
+msgctxt "Proctor#mk"
+msgid "Then you will return to your save point. What's that mean? Heck if I know, I'm just told to say that. Oh yes and also, please cooperate with your comrades."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I see. Take your time.";
+msgctxt "Proctor#mk"
+msgid "I see. Take your time."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Inside this test hall is the maze of spirits.";
+msgctxt "Proctor#mk"
+msgid "Inside this test hall is the maze of spirits."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "There are spirits inside which will block you from moving freely.";
+msgctxt "Proctor#mk"
+msgid "There are spirits inside which will block you from moving freely."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you want to exit the test hall, you must make your way to the warp portal located at the opposite side from the start point.";
+msgctxt "Proctor#mk"
+msgid "If you want to exit the test hall, you must make your way to the warp portal located at the opposite side from the start point."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "....Oh yes and also there are monsters wandering around in the maze, please clear them.";
+msgctxt "Proctor#mk"
+msgid "....Oh yes and also there are monsters wandering around in the maze, please clear them."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Good luck.";
+msgctxt "Proctor#mk"
+msgid "Good luck."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Proctor]";
+msgctxt "exit_monk#1"
+msgid "[Proctor]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You did well. Please return to Tomoon, he's waiting for you.";
+msgctxt "exit_monk#1"
+msgid "You did well. Please return to Tomoon, he's waiting for you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Proctor]";
+msgctxt "Proctor#mk2"
+msgid "[Proctor]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "So, are you ready to undergo this spiritual training?";
+msgctxt "Proctor#mk2"
+msgid "So, are you ready to undergo this spiritual training?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Yes!", "No.", "Check the caution for the test.")) {
+msgctxt "Proctor#mk2"
+msgid "Yes!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Yes!", "No.", "Check the caution for the test.")) {
+msgctxt "Proctor#mk2"
+msgid "No."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Yes!", "No.", "Check the caution for the test.")) {
+msgctxt "Proctor#mk2"
+msgid "Check the caution for the test."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Alright! I wish you luck. If you get lost and can't find a way out, simply log out and log back in.";
+msgctxt "Proctor#mk2"
+msgid "Alright! I wish you luck. If you get lost and can't find a way out, simply log out and log back in."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Then you will return to your save point. What's that mean? Heck if I know, I'm just told to say that. Oh yes and also, please cooperate with your comrades.";
+msgctxt "Proctor#mk2"
+msgid "Then you will return to your save point. What's that mean? Heck if I know, I'm just told to say that. Oh yes and also, please cooperate with your comrades."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I see. Take your time.";
+msgctxt "Proctor#mk2"
+msgid "I see. Take your time."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Inside this test hall is the maze of spirits.";
+msgctxt "Proctor#mk2"
+msgid "Inside this test hall is the maze of spirits."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "There are spirits inside which will block you from moving freely.";
+msgctxt "Proctor#mk2"
+msgid "There are spirits inside which will block you from moving freely."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you want to exit the test hall, you must make your way to the warp portal located at the opposite side from the start point.";
+msgctxt "Proctor#mk2"
+msgid "If you want to exit the test hall, you must make your way to the warp portal located at the opposite side from the start point."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "....Oh yes and also there are monsters wandering around in the maze, please clear them.";
+msgctxt "Proctor#mk2"
+msgid "....Oh yes and also there are monsters wandering around in the maze, please clear them."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Good luck.";
+msgctxt "Proctor#mk2"
+msgid "Good luck."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Proctor]";
+msgctxt "exit_monk#2"
+msgid "[Proctor]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You did well. Please return to Tomoon, he's waiting for you.";
+msgctxt "exit_monk#2"
+msgid "You did well. Please return to Tomoon, he's waiting for you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Proctor]";
+msgctxt "Proctor#btl#3"
+msgid "[Proctor]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "So, are you ready to undergo this spiritual training?";
+msgctxt "Proctor#btl#3"
+msgid "So, are you ready to undergo this spiritual training?"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Yes!", "No.", "Check the caution for the test.")) {
+msgctxt "Proctor#btl#3"
+msgid "Yes!"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Yes!", "No.", "Check the caution for the test.")) {
+msgctxt "Proctor#btl#3"
+msgid "No."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# switch(select("Yes!", "No.", "Check the caution for the test.")) {
+msgctxt "Proctor#btl#3"
+msgid "Check the caution for the test."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Alright! I wish you luck. If you get lost and can't find a way out, simply log out and log back in.";
+msgctxt "Proctor#btl#3"
+msgid "Alright! I wish you luck. If you get lost and can't find a way out, simply log out and log back in."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Then you will return to your save point. What's that mean? Heck if I know, I'm just told to say that. Oh yes and also, please cooperate with your comrades.";
+msgctxt "Proctor#btl#3"
+msgid "Then you will return to your save point. What's that mean? Heck if I know, I'm just told to say that. Oh yes and also, please cooperate with your comrades."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "I see. Take your time.";
+msgctxt "Proctor#btl#3"
+msgid "I see. Take your time."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Inside this test hall is the maze of spirits.";
+msgctxt "Proctor#btl#3"
+msgid "Inside this test hall is the maze of spirits."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "There are spirits inside which will block you from moving freely.";
+msgctxt "Proctor#btl#3"
+msgid "There are spirits inside which will block you from moving freely."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "If you want to exit the test hall, you must make your way to the warp portal located at the opposite side from the start point.";
+msgctxt "Proctor#btl#3"
+msgid "If you want to exit the test hall, you must make your way to the warp portal located at the opposite side from the start point."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "....Oh yes and also there are monsters wandering around in the maze, please clear them.";
+msgctxt "Proctor#btl#3"
+msgid "....Oh yes and also there are monsters wandering around in the maze, please clear them."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Good luck.";
+msgctxt "Proctor#btl#3"
+msgid "Good luck."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "[Proctor]";
+msgctxt "exit_monk#3"
+msgid "[Proctor]"
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "You did well. Please return to Tomoon, he's waiting for you.";
+msgctxt "exit_monk#3"
+msgid "You did well. Please return to Tomoon, he's waiting for you."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Grrrr...";
+msgctxt "switchreset#monkmonk"
+msgid "Grrrr..."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "All monsters in the monk job chance place have been reset.";
+msgctxt "switchreset#monkmonk"
+msgid "All monsters in the monk job chance place have been reset."
+msgstr ""
+
+#: npc/jobs/2-2/monk.txt
+# mes "Timer's activated.";
+msgctxt "switchreset#monkmonk"
+msgid "Timer's activated."
+msgstr ""

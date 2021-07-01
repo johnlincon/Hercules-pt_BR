@@ -1,0 +1,1136 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/quests/counteragent_mixture.txt
+# mes "[Merchant Louitz]";
+msgctxt "Louitz#cm"
+msgid "[Merchant Louitz]"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Oh, it's you again.";
+msgctxt "Louitz#cm"
+msgid "Oh, it's you again."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "So did you try finding";
+msgctxt "Louitz#cm"
+msgid "So did you try finding"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "that nutcase scientist";
+msgctxt "Louitz#cm"
+msgid "that nutcase scientist"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "who lives over in Geffen?";
+msgctxt "Louitz#cm"
+msgid "who lives over in Geffen?"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# if (select("Talk About Molgenstein", "Cancel") == 1) {
+msgctxt "Louitz#cm"
+msgid "Talk About Molgenstein"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# if (select("Talk About Molgenstein", "Cancel") == 1) {
+msgctxt "Louitz#cm"
+msgid "Cancel"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "You know where he lives";
+msgctxt "Louitz#cm"
+msgid "You know where he lives"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "but didn't check it out? Hey,";
+msgctxt "Louitz#cm"
+msgid "but didn't check it out? Hey,"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "he may be off his rocker, but";
+msgctxt "Louitz#cm"
+msgid "he may be off his rocker, but"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "I guess most geniuses are";
+msgctxt "Louitz#cm"
+msgid "I guess most geniuses are"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "like that. Still, I think it'd be^FFFFFFss^000000 a good idea if you see him.";
+msgctxt "Louitz#cm"
+msgid "like that. Still, I think it'd be^FFFFFFss^000000 a good idea if you see him."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "I mean...";
+msgctxt "Louitz#cm"
+msgid "I mean..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "It's only a matter";
+msgctxt "Louitz#cm"
+msgid "It's only a matter"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "of time until a smart guy";
+msgctxt "Louitz#cm"
+msgid "of time until a smart guy"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "like that creates something";
+msgctxt "Louitz#cm"
+msgid "like that creates something"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "truly miraculous, right?";
+msgctxt "Louitz#cm"
+msgid "truly miraculous, right?"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "...Hello?";
+msgctxt "Louitz#cm"
+msgid "...Hello?"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Hellooo? Hey.";
+msgctxt "Louitz#cm"
+msgid "Hellooo? Hey."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Hey! I'm talkin'";
+msgctxt "Louitz#cm"
+msgid "Hey! I'm talkin'"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "to you! Man, I hate";
+msgctxt "Louitz#cm"
+msgid "to you! Man, I hate"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "it when you adventurers";
+msgctxt "Louitz#cm"
+msgid "it when you adventurers"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "just shut up and space out...";
+msgctxt "Louitz#cm"
+msgid "just shut up and space out..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Heya.";
+msgctxt "Louitz#cm"
+msgid "Heya."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "What's up?";
+msgctxt "Louitz#cm"
+msgid "What's up?"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Talk", "Talk about the solutions.", "Cancel")) {
+msgctxt "Louitz#cm"
+msgid "Talk"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Talk", "Talk about the solutions.", "Cancel")) {
+msgctxt "Louitz#cm"
+msgid "Talk about the solutions."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "When I was in Geffen";
+msgctxt "Louitz#cm"
+msgid "When I was in Geffen"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "looking for magic items,";
+msgctxt "Louitz#cm"
+msgid "looking for magic items,"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "I heard rumors of this really";
+msgctxt "Louitz#cm"
+msgid "I heard rumors of this really"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "crazy scientist guy. So I got";
+msgctxt "Louitz#cm"
+msgid "crazy scientist guy. So I got"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "curious, asked around, and";
+msgctxt "Louitz#cm"
+msgid "curious, asked around, and"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "eventually found this guy.";
+msgctxt "Louitz#cm"
+msgid "eventually found this guy."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Boy, oh boy, this guy was";
+msgctxt "Louitz#cm"
+msgid "Boy, oh boy, this guy was"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "screwy. He didn't even know";
+msgctxt "Louitz#cm"
+msgid "screwy. He didn't even know"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "I was there the whole time and";
+msgctxt "Louitz#cm"
+msgid "I was there the whole time and"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "just kept mumbling this mumbo";
+msgctxt "Louitz#cm"
+msgid "just kept mumbling this mumbo"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "jumbo while working on his";
+msgctxt "Louitz#cm"
+msgid "jumbo while working on his"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "experiments. Words like, um...";
+msgctxt "Louitz#cm"
+msgid "experiments. Words like, um..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Yeah, he kept mumbling";
+msgctxt "Louitz#cm"
+msgid "Yeah, he kept mumbling"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "words like ''Karvodailnirol''";
+msgctxt "Louitz#cm"
+msgid "words like ''Karvodailnirol''"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "and ''Detrimindexta.'' The";
+msgctxt "Louitz#cm"
+msgid "and ''Detrimindexta.'' The"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "first time I heard it, I thought";
+msgctxt "Louitz#cm"
+msgid "first time I heard it, I thought"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "it was just crazy talk, you know?";
+msgctxt "Louitz#cm"
+msgid "it was just crazy talk, you know?"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "But it turns out,";
+msgctxt "Louitz#cm"
+msgid "But it turns out,"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "this Karvodailnirol";
+msgctxt "Louitz#cm"
+msgid "this Karvodailnirol"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "and Detrimindexta actually";
+msgctxt "Louitz#cm"
+msgid "and Detrimindexta actually"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "exist. I think they're special";
+msgctxt "Louitz#cm"
+msgid "exist. I think they're special"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "liquids that don't work quite";
+msgctxt "Louitz#cm"
+msgid "liquids that don't work quite"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "like any liquids we're used to.";
+msgctxt "Louitz#cm"
+msgid "like any liquids we're used to."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Hey, this is one of";
+msgctxt "Louitz#cm"
+msgid "Hey, this is one of"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "those solutions that";
+msgctxt "Louitz#cm"
+msgid "those solutions that"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "scientist kept mentioning.";
+msgctxt "Louitz#cm"
+msgid "scientist kept mentioning."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "You were able to get one";
+msgctxt "Louitz#cm"
+msgid "You were able to get one"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "of these? Huh. Now, I have";
+msgctxt "Louitz#cm"
+msgid "of these? Huh. Now, I have"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "no idea what to do with them... ";
+msgctxt "Louitz#cm"
+msgid "no idea what to do with them... "
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Ah, but that crazy";
+msgctxt "Louitz#cm"
+msgid "Ah, but that crazy"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "scientist would know.";
+msgctxt "Louitz#cm"
+msgid "scientist would know."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "I don't remember exactly";
+msgctxt "Louitz#cm"
+msgid "I don't remember exactly"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "where he lives, but I know";
+msgctxt "Louitz#cm"
+msgid "where he lives, but I know"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "he's in Geffen and that his";
+msgctxt "Louitz#cm"
+msgid "he's in Geffen and that his"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "name is ^0000FFMolgenstein^000000.";
+msgctxt "Louitz#cm"
+msgid "name is ^0000FFMolgenstein^000000."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Hmm... You better";
+msgctxt "Louitz#cm"
+msgid "Hmm... You better"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "go around Geffen and";
+msgctxt "Louitz#cm"
+msgid "go around Geffen and"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "ask around first. I know for";
+msgctxt "Louitz#cm"
+msgid "ask around first. I know for"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "sure that somebody knows";
+msgctxt "Louitz#cm"
+msgid "sure that somebody knows"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "where you can find Molgenstein.";
+msgctxt "Louitz#cm"
+msgid "where you can find Molgenstein."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Um...";
+msgctxt "Louitz#cm"
+msgid "Um..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Good talking";
+msgctxt "Louitz#cm"
+msgid "Good talking"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "to you pal. Uh,";
+msgctxt "Louitz#cm"
+msgid "to you pal. Uh,"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "see ya 'round. Take";
+msgctxt "Louitz#cm"
+msgid "see ya 'round. Take"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "care of yourself, 'kay?";
+msgctxt "Louitz#cm"
+msgid "care of yourself, 'kay?"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Talk", "Talk about Karvodailnirol", "Cancel")) {
+msgctxt "Louitz#cm"
+msgid "Talk about Karvodailnirol"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Oh hey, this is that";
+msgctxt "Louitz#cm"
+msgid "Oh hey, this is that"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Karvodailnirol that the";
+msgctxt "Louitz#cm"
+msgid "Karvodailnirol that the"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "old scientist was talking";
+msgctxt "Louitz#cm"
+msgid "old scientist was talking"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "about, huh? Of course, only";
+msgctxt "Louitz#cm"
+msgid "about, huh? Of course, only"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "someone like that guy would";
+msgctxt "Louitz#cm"
+msgid "someone like that guy would"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "know what to do with it...";
+msgctxt "Louitz#cm"
+msgid "know what to do with it..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Hey, why don't you go";
+msgctxt "Louitz#cm"
+msgid "Hey, why don't you go"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "and ask him about it?";
+msgctxt "Louitz#cm"
+msgid "and ask him about it?"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Talk", "Talk about Detrimindexta", "Cancel")) {
+msgctxt "Louitz#cm"
+msgid "Talk about Detrimindexta"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Detrimindexta that the";
+msgctxt "Louitz#cm"
+msgid "Detrimindexta that the"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "[Aure Dupon]";
+msgctxt "Aure Dupon#cm"
+msgid "[Aure Dupon]"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "It seems that our";
+msgctxt "Aure Dupon#cm"
+msgid "It seems that our"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "paths yet cross again.";
+msgctxt "Aure Dupon#cm"
+msgid "paths yet cross again."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Coincidence? It's more";
+msgctxt "Aure Dupon#cm"
+msgid "Coincidence? It's more"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "than that. This is ^0000FFfate^000000.";
+msgctxt "Aure Dupon#cm"
+msgid "than that. This is ^0000FFfate^000000."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# if (select("Talk About Molgenstein", "Cancel") == 1) {
+msgctxt "Aure Dupon#cm"
+msgid "Talk About Molgenstein"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# if (select("Talk About Molgenstein", "Cancel") == 1) {
+msgctxt "Aure Dupon#cm"
+msgid "Cancel"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Have you not met";
+msgctxt "Aure Dupon#cm"
+msgid "Have you not met"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Molgenstein yet? He";
+msgctxt "Aure Dupon#cm"
+msgid "Molgenstein yet? He"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "lives on the second floor";
+msgctxt "Aure Dupon#cm"
+msgid "lives on the second floor"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "of the Forge. Although we've";
+msgctxt "Aure Dupon#cm"
+msgid "of the Forge. Although we've"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "just met, I must warn you not";
+msgctxt "Aure Dupon#cm"
+msgid "just met, I must warn you not"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "to get too close to him...";
+msgctxt "Aure Dupon#cm"
+msgid "to get too close to him..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Go then, and";
+msgctxt "Aure Dupon#cm"
+msgid "Go then, and"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "may the tides of";
+msgctxt "Aure Dupon#cm"
+msgid "may the tides of"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "destiny carry you";
+msgctxt "Aure Dupon#cm"
+msgid "destiny carry you"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "to where you must go.";
+msgctxt "Aure Dupon#cm"
+msgid "to where you must go."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Time flows gently";
+msgctxt "Aure Dupon#cm"
+msgid "Time flows gently"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "and subtly, but no";
+msgctxt "Aure Dupon#cm"
+msgid "and subtly, but no"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "force in this world";
+msgctxt "Aure Dupon#cm"
+msgid "force in this world"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "can possibly stop it.";
+msgctxt "Aure Dupon#cm"
+msgid "can possibly stop it."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Mankind is not even a";
+msgctxt "Aure Dupon#cm"
+msgid "Mankind is not even a"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "mote in the grand scheme.";
+msgctxt "Aure Dupon#cm"
+msgid "mote in the grand scheme."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Talk", "Ask About Molgenstein", "Cancel")) {
+msgctxt "Aure Dupon#cm"
+msgid "Talk"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Talk", "Ask About Molgenstein", "Cancel")) {
+msgctxt "Aure Dupon#cm"
+msgid "Ask About Molgenstein"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "To have goals and focus";
+msgctxt "Aure Dupon#cm"
+msgid "To have goals and focus"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "is good, but to be obsessive";
+msgctxt "Aure Dupon#cm"
+msgid "is good, but to be obsessive"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "about one single thing can be";
+msgctxt "Aure Dupon#cm"
+msgid "about one single thing can be"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "quite destructive. Relax, empty";
+msgctxt "Aure Dupon#cm"
+msgid "quite destructive. Relax, empty"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "your mind, and let yourself be";
+msgctxt "Aure Dupon#cm"
+msgid "your mind, and let yourself be"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "carried by the tides of destiny.";
+msgctxt "Aure Dupon#cm"
+msgid "carried by the tides of destiny."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Molgenstein...?";
+msgctxt "Aure Dupon#cm"
+msgid "Molgenstein...?"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "The man is obsessed";
+msgctxt "Aure Dupon#cm"
+msgid "The man is obsessed"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "with conquering the forces";
+msgctxt "Aure Dupon#cm"
+msgid "with conquering the forces"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "that control our world. But";
+msgctxt "Aure Dupon#cm"
+msgid "that control our world. But"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "you seem to be curious about";
+msgctxt "Aure Dupon#cm"
+msgid "you seem to be curious about"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "him for some reason. Hmmm...";
+msgctxt "Aure Dupon#cm"
+msgid "him for some reason. Hmmm..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "It would be best if you";
+msgctxt "Aure Dupon#cm"
+msgid "It would be best if you"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "were to see Molgenstein";
+msgctxt "Aure Dupon#cm"
+msgid "were to see Molgenstein"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "and judge his character for";
+msgctxt "Aure Dupon#cm"
+msgid "and judge his character for"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "yourself. You may find him in";
+msgctxt "Aure Dupon#cm"
+msgid "yourself. You may find him in"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "the second floor of the Geffen";
+msgctxt "Aure Dupon#cm"
+msgid "the second floor of the Geffen"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Forge. Go: It is your destiny.";
+msgctxt "Aure Dupon#cm"
+msgid "Forge. Go: It is your destiny."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "- Wait a minute !! -";
+msgctxt "Molgenstein#cm"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "- Currently you're carrying -";
+msgctxt "Molgenstein#cm"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "- too many items with you. -";
+msgctxt "Molgenstein#cm"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "- Please try again -";
+msgctxt "Molgenstein#cm"
+msgid "- Please try again -"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "- after you loose some weight. -";
+msgctxt "Molgenstein#cm"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "[Chemist Molgenstein]";
+msgctxt "Molgenstein#cm"
+msgid "[Chemist Molgenstein]"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes ".....";
+msgctxt "Molgenstein#cm"
+msgid "....."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Welcome.";
+msgctxt "Molgenstein#cm"
+msgid "Welcome."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Hehehehe....";
+msgctxt "Molgenstein#cm"
+msgid "Hehehehe...."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Heeheeheeheehee....";
+msgctxt "Molgenstein#cm"
+msgid "Heeheeheeheehee...."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Ask about his research", "Ask him to make a new solution.", "Cancel")) {
+msgctxt "Molgenstein#cm"
+msgid "Ask about his research"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Ask about his research", "Ask him to make a new solution.", "Cancel")) {
+msgctxt "Molgenstein#cm"
+msgid "Ask him to make a new solution."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Ask about his research", "Ask him to make a new solution.", "Cancel")) {
+msgctxt "Molgenstein#cm"
+msgid "Cancel"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Heeheeheeheee...";
+msgctxt "Molgenstein#cm"
+msgid "Heeheeheeheee..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "You must have heard the rumors about my research. Yes! But since you probably know already, I'll tell you without hiding, I mean, there's nothing to hide.";
+msgctxt "Molgenstein#cm"
+msgid "You must have heard the rumors about my research. Yes! But since you probably know already, I'll tell you without hiding, I mean, there's nothing to hide."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Actually, you can say my research is complete! Nothing's impossible for my genius! Bwahaha, it's just a matter of time!";
+msgctxt "Molgenstein#cm"
+msgid "Actually, you can say my research is complete! Nothing's impossible for my genius! Bwahaha, it's just a matter of time!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Are you still here? Right, you wanted to know about my research. It's actually very simple. I was just trying to invent a super liquid that can melt everything!";
+msgctxt "Molgenstein#cm"
+msgid "Are you still here? Right, you wanted to know about my research. It's actually very simple. I was just trying to invent a super liquid that can melt everything!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Isn't it interesting? No matter how strong you are, you can't break apart stone or steel, but with my new liquid, you can melt those things, making them soft like puddy!";
+msgctxt "Molgenstein#cm"
+msgid "Isn't it interesting? No matter how strong you are, you can't break apart stone or steel, but with my new liquid, you can melt those things, making them soft like puddy!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "It can't melt everything yet, but I did find that you could combine things that you could never mix before with my invention. Heeheeheehee~!";
+msgctxt "Molgenstein#cm"
+msgid "It can't melt everything yet, but I did find that you could combine things that you could never mix before with my invention. Heeheeheehee~!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "You can make a whole lot of things that you'd never would have imagined possible! I can make you a lot of new things you never would have imagined using this method... as long as you want it!!";
+msgctxt "Molgenstein#cm"
+msgid "You can make a whole lot of things that you'd never would have imagined possible! I can make you a lot of new things you never would have imagined using this method... as long as you want it!!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "The endorphins are rushing to my face at least 2.1 times faster than the usual rate! Ah! I'm so excited! I... I just can't hide it!";
+msgctxt "Molgenstein#cm"
+msgid "The endorphins are rushing to my face at least 2.1 times faster than the usual rate! Ah! I'm so excited! I... I just can't hide it!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "So...";
+msgctxt "Molgenstein#cm"
+msgid "So..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "You want me to make something totally new, huh? Hehhehheh! I love your sense of scientific adventure!";
+msgctxt "Molgenstein#cm"
+msgid "You want me to make something totally new, huh? Hehhehheh! I love your sense of scientific adventure!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Counteragent", "Mixture")) {
+msgctxt "Molgenstein#cm"
+msgid "Counteragent"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# switch(select("Counteragent", "Mixture")) {
+msgctxt "Molgenstein#cm"
+msgid "Mixture"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Ooh...!";
+msgctxt "Molgenstein#cm"
+msgid "Ooh...!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "You want to make a Counteragent? Hohohohoho, let's see what we'll need...";
+msgctxt "Molgenstein#cm"
+msgid "You want to make a Counteragent? Hohohohoho, let's see what we'll need..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Oh, I remember, yes, Alcohol, and um, er, Detrimindexta and an Empty Bottle to put it it all in. Just these three items and 3000 zeny.";
+msgctxt "Molgenstein#cm"
+msgid "Oh, I remember, yes, Alcohol, and um, er, Detrimindexta and an Empty Bottle to put it it all in. Just these three items and 3000 zeny."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Bwahahahah!";
+msgctxt "Molgenstein#cm"
+msgid "Bwahahahah!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Oh, I just can't wait to make this! Are you ready to begin?";
+msgctxt "Molgenstein#cm"
+msgid "Oh, I just can't wait to make this! Are you ready to begin?"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# if (select("Make", "Cancel") == 1) {
+msgctxt "Molgenstein#cm"
+msgid "Make"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Heuheuheuheuh.... not enough... not enough.. Haah...Haah... Go..... get the rest of the materials!";
+msgctxt "Molgenstein#cm"
+msgid "Heuheuheuheuh.... not enough... not enough.. Haah...Haah... Go..... get the rest of the materials!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "We'll postpone the fun until then... Heuheuheuheuheuh.";
+msgctxt "Molgenstein#cm"
+msgid "We'll postpone the fun until then... Heuheuheuheuheuh."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Ooooooooh...... heeheeheeheehee...... yes... like that...... yes... more... more........ heeheeheehee.";
+msgctxt "Molgenstein#cm"
+msgid "Ooooooooh...... heeheeheeheehee...... yes... like that...... yes... more... more........ heeheeheehee."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes ".... Aaah.... ahah... ha....ahahooooooooohoh!";
+msgctxt "Molgenstein#cm"
+msgid ".... Aaah.... ahah... ha....ahahooooooooohoh!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Hohohoho.... not enough... not enough... haah...haah... go..... go get the rest of the materials!!";
+msgctxt "Molgenstein#cm"
+msgid "Hohohoho.... not enough... not enough... haah...haah... go..... go get the rest of the materials!!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Hee hee hee...";
+msgctxt "Molgenstein#cm"
+msgid "Hee hee hee..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Haaaaah......";
+msgctxt "Molgenstein#cm"
+msgid "Haaaaah......"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Oh? We're done already?!";
+msgctxt "Molgenstein#cm"
+msgid "Oh? We're done already?!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Hee hee hee...!";
+msgctxt "Molgenstein#cm"
+msgid "Hee hee hee...!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Come back when";
+msgctxt "Molgenstein#cm"
+msgid "Come back when"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "you're ready~";
+msgctxt "Molgenstein#cm"
+msgid "you're ready~"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "You want to make a Mixture? Hohohohoho, let's see what we'll need...";
+msgctxt "Molgenstein#cm"
+msgid "You want to make a Mixture? Hohohohoho, let's see what we'll need..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Ooh, I remember now, yes, Alcohol, and um, er, Karvodailnirol and an empty bottle to put all of it in. Just these three items and 4000 zeny.";
+msgctxt "Molgenstein#cm"
+msgid "Ooh, I remember now, yes, Alcohol, and um, er, Karvodailnirol and an empty bottle to put all of it in. Just these three items and 4000 zeny."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "We'll have to postpone the fun for later... Hehehehe";
+msgctxt "Molgenstein#cm"
+msgid "We'll have to postpone the fun for later... Hehehehe"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Ooooooooh... heehee...... yes... like that...... yes... more... more........ heeheeheehee";
+msgctxt "Molgenstein#cm"
+msgid "Ooooooooh... heehee...... yes... like that...... yes... more... more........ heeheeheehee"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes ".... Aaah.... ahah... ha....ahah...oooooooooooooooooh!!!...!!!!!!";
+msgctxt "Molgenstein#cm"
+msgid ".... Aaah.... ahah... ha....ahah...oooooooooooooooooh!!!...!!!!!!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Heh... heuheuheuheh....";
+msgctxt "Molgenstein#cm"
+msgid "Heh... heuheuheuheh...."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Heehee....heheheheh....";
+msgctxt "Molgenstein#cm"
+msgid "Heehee....heheheheh...."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Heeheeheehee.... welcome. Hehehehe.... heeheeheeheehee....";
+msgctxt "Molgenstein#cm"
+msgid "Heeheeheehee.... welcome. Hehehehe.... heeheeheeheehee...."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Ah...?!";
+msgctxt "Molgenstein#cm"
+msgid "Ah...?!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "So sorry if I weirded you out. It's just... I haven't seen a living person in soooo long. So, er, what can I do for you??";
+msgctxt "Molgenstein#cm"
+msgid "So sorry if I weirded you out. It's just... I haven't seen a living person in soooo long. So, er, what can I do for you??"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# if (select("Ask about his research.", "Cancel.") == 1) {
+msgctxt "Molgenstein#cm"
+msgid "Ask about his research."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# if (select("Ask about his research.", "Cancel.") == 1) {
+msgctxt "Molgenstein#cm"
+msgid "Cancel."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "It can't melt everything yet, but I did find that you could combine things that you could never mix before with my invention.";
+msgctxt "Molgenstein#cm"
+msgid "It can't melt everything yet, but I did find that you could combine things that you could never mix before with my invention."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "I can make you a lot of new things you never would have imagined using this method... as long as you want it!!";
+msgctxt "Molgenstein#cm"
+msgid "I can make you a lot of new things you never would have imagined using this method... as long as you want it!!"
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "Heeheeheehee...";
+msgctxt "Molgenstein#cm"
+msgid "Heeheeheehee..."
+msgstr ""
+
+#: npc/quests/counteragent_mixture.txt
+# mes "You're not here to be a test subject, are you? Probably not though. Not since my little 'accident.' Heeheeheeee~!";
+msgctxt "Molgenstein#cm"
+msgid "You're not here to be a test subject, are you? Probably not though. Not since my little 'accident.' Heeheeheeee~!"
+msgstr ""

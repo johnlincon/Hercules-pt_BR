@@ -1,0 +1,172 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 12:37-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Alora]";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "[Alora]"
+msgstr "[Alora]"
+
+# mes "Hello, I can change your headgear's color if you bring me a Mysterious Dyestuff.";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid ""
+"Hello, I can change your headgear's color if you bring me a Mysterious "
+"Dyestuff."
+msgstr ""
+"Olá, eu posso mudar a cor de seu capacete se você me trouxer um Misterioso "
+"Tinturão."
+
+# mes "Do you have a headgear that you would like to dye?";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "Do you have a headgear that you would like to dye?"
+msgstr "Você tem um capacete que gostaria de tingir?"
+
+# mes "Have a good journey adventurer!";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "Have a good journey adventurer!"
+msgstr "Tenha uma boa viagem aventureira!"
+
+# mes "If you ever are curious to try a new color on your Kafra headgear or the ones you found on your adventures please come to me!";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid ""
+"If you ever are curious to try a new color on your Kafra headgear or the "
+"ones you found on your adventures please come to me!"
+msgstr ""
+"Se você estiver curioso para experimentar uma nova cor em seu capacete "
+"Kafra ou as que você encontrou em suas aventuras, venha até mim!"
+
+# mes "Okay, what color do you want to change it to?";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "Okay, what color do you want to change it to?"
+msgstr "Muito bem, para que cor você quer mudar?"
+
+# mes "Oh, okay no problem!";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "Oh, okay no problem!"
+msgstr "Oh, tudo bem, sem problemas!"
+
+# mes "Oh I'm so excited aren't you?";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "Oh I'm so excited aren't you?"
+msgstr "Oh, estou tão entusiasmado, você não está?"
+
+# mes "And just to be sure, what color is the "+ .@hgn$[.@t] +" you want me to use?";
+#: npc/merchants/cashheadgear_dye.txt
+msgctxt "Alora"
+msgid "And just to be sure, what color is the "
+msgstr "E só para ter certeza, de que cor é o "
+
+# mes "And just to be sure, what color is the "+ .@hgn$[.@t] +" you want me to use?";
+#: npc/merchants/cashheadgear_dye.txt
+msgctxt "Alora"
+msgid " you want me to use?"
+msgstr " você quer que eu use?"
+
+# mes "Please understand that I'm going to use the ^FF00001st "+ .@hgn$[.@t] +" of that color in your inventory!^000000";
+#: npc/merchants/cashheadgear_dye.txt
+msgctxt "Alora"
+msgid "Please understand that I'm going to use the ^FF00001st "
+msgstr "Por favor, entenda que eu vou usar o ^FF00001st "
+
+# mes "Please understand that I'm going to use the ^FF00001st "+ .@hgn$[.@t] +" of that color in your inventory!^000000";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid " of that color in your inventory!^000000"
+msgstr " dessa cor em seu inventário! ^000000"
+
+# mes "Any upgrades and cards will be dissolved by the mysterious dye, so be sure you are ok with having a ^0000FF+0 "+ getitemname(.@dyHG) +" without any cards.^000000";
+#: npc/merchants/cashheadgear_dye.txt
+msgctxt "Alora"
+msgid ""
+"Any upgrades and cards will be dissolved by the mysterious dye, so be sure "
+"you are ok with having a ^0000FF+0 "
+msgstr ""
+"Quaisquer atualizações e cartões serão dissolvidos pelo corante "
+"misterioso, então certifique-se de que você está bem em ter um ^0000FF+0 "
+
+# mes "Ok, thanks for the warning, I think I'll give you my";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "Ok, thanks for the warning, I think I'll give you my"
+msgstr "Ok, obrigado pelo aviso, acho que vou lhe dar meu"
+
+# mes "It's best to be very sure, have a safe journey.";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "It's best to be very sure, have a safe journey."
+msgstr "É melhor ter muita certeza, ter uma viagem segura."
+
+# mes "Woah what happened?";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "Woah what happened?"
+msgstr "O que aconteceu?"
+
+# mes "Oh my, you seem to be missing something.";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "Oh my, you seem to be missing something."
+msgstr "Oh meu Deus, parece que está faltando algo."
+
+# mes "Looks great doesn't it?!";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "Looks great doesn't it?!"
+msgstr "Parece ótimo, não é mesmo?!"
+
+# mes "I hope you'll come back to dye more pretty headgears!";
+#: npc/merchants/cashheadgear_dye.txt
+#, fuzzy
+msgctxt "Alora"
+msgid "I hope you'll come back to dye more pretty headgears!"
+msgstr "Espero que você volte a tingir mais bonitos toucadores de cabeça!"

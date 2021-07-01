@@ -1,0 +1,662 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/merchants/buying_shops.txt
+# mes "[Mr. Jass]";
+msgctxt "Black Marketeer#Buying"
+msgid "[Mr. Jass]"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "You're too greedy, even compared to someone like me!";
+msgctxt "Black Marketeer#Buying"
+msgid "You're too greedy, even compared to someone like me!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Why don't you go lighten your bag first?";
+msgctxt "Black Marketeer#Buying"
+msgid "Why don't you go lighten your bag first?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Hey, you already made a contract with Hugh.";
+msgctxt "Black Marketeer#Buying"
+msgid "Hey, you already made a contract with Hugh."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I don't have any business with you.";
+msgctxt "Black Marketeer#Buying"
+msgid "I don't have any business with you."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "You must need something badly to come to find me.";
+msgctxt "Black Marketeer#Buying"
+msgid "You must need something badly to come to find me."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "What do you want?";
+msgctxt "Black Marketeer#Buying"
+msgid "What do you want?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# switch(select("Bulk Buyer Shop License", "Who are you?", "Nothing, nothing!")) {
+msgctxt "Black Marketeer#Buying"
+msgid "Bulk Buyer Shop License"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# switch(select("Bulk Buyer Shop License", "Who are you?", "Nothing, nothing!")) {
+msgctxt "Black Marketeer#Buying"
+msgid "Who are you?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# switch(select("Bulk Buyer Shop License", "Who are you?", "Nothing, nothing!")) {
+msgctxt "Black Marketeer#Buying"
+msgid "Nothing, nothing!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I knew it!";
+msgctxt "Black Marketeer#Buying"
+msgid "I knew it!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Sure, I can make it for you.";
+msgctxt "Black Marketeer#Buying"
+msgid "Sure, I can make it for you."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Mine looks just like the authentic one that Merchants get from that bastard Mr. Hugh!";
+msgctxt "Black Marketeer#Buying"
+msgid "Mine looks just like the authentic one that Merchants get from that bastard Mr. Hugh!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "And my license is better 'cuz you don't need ta' learn any skills.";
+msgctxt "Black Marketeer#Buying"
+msgid "And my license is better 'cuz you don't need ta' learn any skills."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "How many do you want?";
+msgctxt "Black Marketeer#Buying"
+msgid "How many do you want?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Just so you know, I can only make them in small quantities, up to 10 at a time.";
+msgctxt "Black Marketeer#Buying"
+msgid "Just so you know, I can only make them in small quantities, up to 10 at a time."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "It'll cost 500 zeny for each one.";
+msgctxt "Black Marketeer#Buying"
+msgid "It'll cost 500 zeny for each one."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Don't you need those licenses?";
+msgctxt "Black Marketeer#Buying"
+msgid "Don't you need those licenses?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I can only make up to 10 at a time, you know.";
+msgctxt "Black Marketeer#Buying"
+msgid "I can only make up to 10 at a time, you know."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "It'll cost "+(.@input*500)+" zeny.";
+msgctxt "Black Marketeer#Buying"
+msgid "It'll cost "
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "It'll cost "+(.@input*500)+" zeny.";
+msgctxt "Black Marketeer#Buying"
+msgid " zeny."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "but you don't have enough money.";
+msgctxt "Black Marketeer#Buying"
+msgid "but you don't have enough money."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Don't you know the basics of business? Everything has a price.";
+msgctxt "Black Marketeer#Buying"
+msgid "Don't you know the basics of business? Everything has a price."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "If you want something, you gotta pay for it.";
+msgctxt "Black Marketeer#Buying"
+msgid "If you want something, you gotta pay for it."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Ha... Ha ha ha!";
+msgctxt "Black Marketeer#Buying"
+msgid "Ha... Ha ha ha!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Mr. Hugh, I'll take over your license business. You'll see!";
+msgctxt "Black Marketeer#Buying"
+msgid "Mr. Hugh, I'll take over your license business. You'll see!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "*Giggle Giggle*";
+msgctxt "Black Marketeer#Buying"
+msgid "*Giggle Giggle*"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I left my hometown a long time ago.";
+msgctxt "Black Marketeer#Buying"
+msgid "I left my hometown a long time ago."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "It's meaningless to ask who I am because all I've got left now is my hatred.";
+msgctxt "Black Marketeer#Buying"
+msgid "It's meaningless to ask who I am because all I've got left now is my hatred."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "...";
+msgctxt "Black Marketeer#Buying"
+msgid "..."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Hugh is a corrupt merchant with no sense of business ethics.";
+msgctxt "Black Marketeer#Buying"
+msgid "Hugh is a corrupt merchant with no sense of business ethics."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "My sole purpose in life is to destroy Hugh.";
+msgctxt "Black Marketeer#Buying"
+msgid "My sole purpose in life is to destroy Hugh."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Aw, I drank too much... (*Hic*)";
+msgctxt "Black Marketeer#Buying"
+msgid "Aw, I drank too much... (*Hic*)"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "That's just the alohol talking.";
+msgctxt "Black Marketeer#Buying"
+msgid "That's just the alohol talking."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Please forget anything I said.";
+msgctxt "Black Marketeer#Buying"
+msgid "Please forget anything I said."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Alright, alright! You don't have to yell.";
+msgctxt "Black Marketeer#Buying"
+msgid "Alright, alright! You don't have to yell."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Just leave me alone if you've got no business with me.";
+msgctxt "Black Marketeer#Buying"
+msgid "Just leave me alone if you've got no business with me."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "- You cannot converse or perform the quest because you are carrying too many items. -";
+msgctxt "Purchasing Team#Buying"
+msgid "- You cannot converse or perform the quest because you are carrying too many items. -"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "[Mr. Hugh]";
+msgctxt "Purchasing Team#Buying"
+msgid "[Mr. Hugh]"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I'm Hugh from the Purchasing Team.";
+msgctxt "Purchasing Team#Buying"
+msgid "I'm Hugh from the Purchasing Team."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "How may I help you today?";
+msgctxt "Purchasing Team#Buying"
+msgid "How may I help you today?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# if(select("Purchase Bulk Buyer Shop License", "Quit") == 2) {
+msgctxt "Purchasing Team#Buying"
+msgid "Purchase Bulk Buyer Shop License"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# if(select("Purchase Bulk Buyer Shop License", "Quit") == 2) {
+msgctxt "Purchasing Team#Buying"
+msgid "Quit"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Please feel free to ask me if you need any Bulk Buyer Shop Licenses.";
+msgctxt "Purchasing Team#Buying"
+msgid "Please feel free to ask me if you need any Bulk Buyer Shop Licenses."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Come again~";
+msgctxt "Purchasing Team#Buying"
+msgid "Come again~"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "It's 200 zeny for each Bulk Buyer Shop License, and you may purchase up to 50 at a time.";
+msgctxt "Purchasing Team#Buying"
+msgid "It's 200 zeny for each Bulk Buyer Shop License, and you may purchase up to 50 at a time."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "How many licenses do you need?";
+msgctxt "Purchasing Team#Buying"
+msgid "How many licenses do you need?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "You have cancelled the trade.";
+msgctxt "Purchasing Team#Buying"
+msgid "You have cancelled the trade."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Have a good day.";
+msgctxt "Purchasing Team#Buying"
+msgid "Have a good day."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Please enter a value of 50 or less.";
+msgctxt "Purchasing Team#Buying"
+msgid "Please enter a value of 50 or less."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "It'll cost "+(.@input*200)+" zeny for "+.@input+" licenses.";
+msgctxt "Purchasing Team#Buying"
+msgid "It'll cost "
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "It'll cost "+(.@input*200)+" zeny for "+.@input+" licenses.";
+msgctxt "Purchasing Team#Buying"
+msgid " zeny for "
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "It'll cost "+(.@input*200)+" zeny for "+.@input+" licenses.";
+msgctxt "Purchasing Team#Buying"
+msgid " licenses."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "but you don't seem to have enough money.";
+msgctxt "Purchasing Team#Buying"
+msgid "but you don't seem to have enough money."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Thank you for your patronage.";
+msgctxt "Purchasing Team#Buying"
+msgid "Thank you for your patronage."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I'm Hugh from the Purchasing Team at the Alberta Merchant Guild.";
+msgctxt "Purchasing Team#Buying"
+msgid "I'm Hugh from the Purchasing Team at the Alberta Merchant Guild."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "You're...";
+msgctxt "Purchasing Team#Buying"
+msgid "You're..."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Did you know? Our guild has issued a license to allow individuals to buy goods from others.";
+msgctxt "Purchasing Team#Buying"
+msgid "Did you know? Our guild has issued a license to allow individuals to buy goods from others."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# select("I've never had problems buying items...");
+msgctxt "Purchasing Team#Buying"
+msgid "I've never had problems buying items..."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "You're right, but think about it:";
+msgctxt "Purchasing Team#Buying"
+msgid "You're right, but think about it:"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "haven't you had a hard time buying in bulk?";
+msgctxt "Purchasing Team#Buying"
+msgid "haven't you had a hard time buying in bulk?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "You'd have to find and talk to everyone that has an item you want.";
+msgctxt "Purchasing Team#Buying"
+msgid "You'd have to find and talk to everyone that has an item you want."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Pretty inconvenient, isn't it?";
+msgctxt "Purchasing Team#Buying"
+msgid "Pretty inconvenient, isn't it?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Since buying in bulk is an important issue to us Merchants,";
+msgctxt "Purchasing Team#Buying"
+msgid "Since buying in bulk is an important issue to us Merchants,"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I've proposed an innovative plan to our guild, based on my 10 years of experience in making purchases.";
+msgctxt "Purchasing Team#Buying"
+msgid "I've proposed an innovative plan to our guild, based on my 10 years of experience in making purchases."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "'Let Individuals Open";
+msgctxt "Purchasing Team#Buying"
+msgid "'Let Individuals Open"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "a Bulk Buyer Shop!'";
+msgctxt "Purchasing Team#Buying"
+msgid "a Bulk Buyer Shop!'"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "That's the title of my proposal.";
+msgctxt "Purchasing Team#Buying"
+msgid "That's the title of my proposal."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "You'll see, when you read it...";
+msgctxt "Purchasing Team#Buying"
+msgid "You'll see, when you read it..."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "...";
+msgctxt "Purchasing Team#Buying"
+msgid "..."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "...(Mr. Hugh yammers on and on with all the details.)";
+msgctxt "Purchasing Team#Buying"
+msgid "...(Mr. Hugh yammers on and on with all the details.)"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# select("Alright, what's your point?");
+msgctxt "Purchasing Team#Buying"
+msgid "Alright, what's your point?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Oh, yes. In summary,";
+msgctxt "Purchasing Team#Buying"
+msgid "Oh, yes. In summary,"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "you can buy certain items in bulk through Vending.";
+msgctxt "Purchasing Team#Buying"
+msgid "you can buy certain items in bulk through Vending."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "In order to open a Bulk Buyer Shop, you need a license issued from the Merchant Guild.";
+msgctxt "Purchasing Team#Buying"
+msgid "In order to open a Bulk Buyer Shop, you need a license issued from the Merchant Guild."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "You need it every time you open the shop. We're expecting a significant increase in profits through this new kind of licensing.";
+msgctxt "Purchasing Team#Buying"
+msgid "You need it every time you open the shop. We're expecting a significant increase in profits through this new kind of licensing."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "That's the point of my proposal!";
+msgctxt "Purchasing Team#Buying"
+msgid "That's the point of my proposal!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Our president was so happy to hear that we're going to make big bucks!";
+msgctxt "Purchasing Team#Buying"
+msgid "Our president was so happy to hear that we're going to make big bucks!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "["+strcharinfo(PC_NAME)+"]";
+msgctxt "Purchasing Team#Buying"
+msgid "["
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Please get to the point already!";
+msgctxt "Purchasing Team#Buying"
+msgid "Please get to the point already!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Don't be so impatient, alright?";
+msgctxt "Purchasing Team#Buying"
+msgid "Don't be so impatient, alright?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "My point is, we can let you open the Bulk Buyer Shop if you've learned Vending.";
+msgctxt "Purchasing Team#Buying"
+msgid "My point is, we can let you open the Bulk Buyer Shop if you've learned Vending."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Of course, we charge 10,000 zeny as a one-time registration fee.";
+msgctxt "Purchasing Team#Buying"
+msgid "Of course, we charge 10,000 zeny as a one-time registration fee."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "You will need the ^4A4AFFBulk Buyer Shop License^000000 every time you open the shop.";
+msgctxt "Purchasing Team#Buying"
+msgid "You will need the ^4A4AFFBulk Buyer Shop License^000000 every time you open the shop."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Say, would you like to register now?";
+msgctxt "Purchasing Team#Buying"
+msgid "Say, would you like to register now?"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "If you do, I'll teach you how to open the Bulk Buyer Shop.";
+msgctxt "Purchasing Team#Buying"
+msgid "If you do, I'll teach you how to open the Bulk Buyer Shop."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# if(select("Learn how to open Bulk Buyer Shop", "Cancel") == 2) {
+msgctxt "Purchasing Team#Buying"
+msgid "Learn how to open Bulk Buyer Shop"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# if(select("Learn how to open Bulk Buyer Shop", "Cancel") == 2) {
+msgctxt "Purchasing Team#Buying"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Man, that's disappointing!";
+msgctxt "Purchasing Team#Buying"
+msgid "Man, that's disappointing!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Using this bulk buyer option can benefit your business in many ways, but it's your call.";
+msgctxt "Purchasing Team#Buying"
+msgid "Using this bulk buyer option can benefit your business in many ways, but it's your call."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I'm always open for consultation!";
+msgctxt "Purchasing Team#Buying"
+msgid "I'm always open for consultation!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "The registration fee is 10,000 zeny.";
+msgctxt "Purchasing Team#Buying"
+msgid "The registration fee is 10,000 zeny."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Please have the fee ready first.";
+msgctxt "Purchasing Team#Buying"
+msgid "Please have the fee ready first."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "You've made a good decision.";
+msgctxt "Purchasing Team#Buying"
+msgid "You've made a good decision."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Please give me the registration fee, and sign right here....";
+msgctxt "Purchasing Team#Buying"
+msgid "Please give me the registration fee, and sign right here...."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes .@name$+"....";
+msgctxt "Purchasing Team#Buying"
+msgid "...."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I like your handwriting.";
+msgctxt "Purchasing Team#Buying"
+msgid "I like your handwriting."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Okay, you're now approved to open the Bulk Buyer Shop.";
+msgctxt "Purchasing Team#Buying"
+msgid "Okay, you're now approved to open the Bulk Buyer Shop."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Currently, only normal items ^8C2121EXCEPT^000000 equipment, certain potions, and hand-crafted items can be purchased in bulk, but this can still be very beneficial to you, depending on how you use it.";
+msgctxt "Purchasing Team#Buying"
+msgid "Currently, only normal items ^8C2121EXCEPT^000000 equipment, certain potions, and hand-crafted items can be purchased in bulk, but this can still be very beneficial to you, depending on how you use it."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Oh, and you need at least one of the item that you want to buy in your inventory because you have to show it to other through your shop.";
+msgctxt "Purchasing Team#Buying"
+msgid "Oh, and you need at least one of the item that you want to buy in your inventory because you have to show it to other through your shop."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Your skill should now be registered in your skill window. If you can't see it you probably have to minimize your Skill List and check the 3rd Job Tab.";
+msgctxt "Purchasing Team#Buying"
+msgid "Your skill should now be registered in your skill window. If you can't see it you probably have to minimize your Skill List and check the 3rd Job Tab."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I've given you 5 Bulk Buyer Shop Licenses for your trial.";
+msgctxt "Purchasing Team#Buying"
+msgid "I've given you 5 Bulk Buyer Shop Licenses for your trial."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "Enjoy shopping!";
+msgctxt "Purchasing Team#Buying"
+msgid "Enjoy shopping!"
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "I'd love to chat, but I'm too busy at the moment.";
+msgctxt "Purchasing Team#Buying"
+msgid "I'd love to chat, but I'm too busy at the moment."
+msgstr ""
+
+#: npc/merchants/buying_shops.txt
+# mes "My time is solely dedicated to our customers in the Merchant industry.";
+msgctxt "Purchasing Team#Buying"
+msgid "My time is solely dedicated to our customers in the Merchant industry."
+msgstr ""

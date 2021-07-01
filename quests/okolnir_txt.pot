@@ -1,0 +1,776 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/quests/okolnir.txt
+# mes "[Guide]";
+msgctxt "Guide#gq_main"
+msgid "[Guide]"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "This castle has a hidden secret.";
+msgctxt "Guide#gq_main"
+msgid "This castle has a hidden secret."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "That is the ^4d4dff'Okolnir'^000000.";
+msgctxt "Guide#gq_main"
+msgid "That is the ^4d4dff'Okolnir'^000000."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# switch(select("About Okolnir.", "Go to Okolnir.", "Cancel.")) {
+msgctxt "Guide#gq_main"
+msgid "About Okolnir."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# switch(select("About Okolnir.", "Go to Okolnir.", "Cancel.")) {
+msgctxt "Guide#gq_main"
+msgid "Go to Okolnir."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# switch(select("About Okolnir.", "Go to Okolnir.", "Cancel.")) {
+msgctxt "Guide#gq_main"
+msgid "Cancel."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Okolnir is a kind of virtual realm...";
+msgctxt "Guide#gq_main"
+msgid "Okolnir is a kind of virtual realm..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I don't know how Okolnir exists, but I guess only Valkyrie knows.";
+msgctxt "Guide#gq_main"
+msgid "I don't know how Okolnir exists, but I guess only Valkyrie knows."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "As you know this is a place to test the adventurers made by Valkyrie...";
+msgctxt "Guide#gq_main"
+msgid "As you know this is a place to test the adventurers made by Valkyrie..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "...you know the qualifications to enter Okolnir.";
+msgctxt "Guide#gq_main"
+msgid "...you know the qualifications to enter Okolnir."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# select("Qualifications?");
+msgctxt "Guide#gq_main"
+msgid "Qualifications?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Yes, Valkyrie definitely prefers strong adventurers.";
+msgctxt "Guide#gq_main"
+msgid "Yes, Valkyrie definitely prefers strong adventurers."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Only the qualified can enter Okolnir and Valhalla.";
+msgctxt "Guide#gq_main"
+msgid "Only the qualified can enter Okolnir and Valhalla."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "It only opens when everyone comes together to work it out.";
+msgctxt "Guide#gq_main"
+msgid "It only opens when everyone comes together to work it out."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "The key is in the castle.";
+msgctxt "Guide#gq_main"
+msgid "The key is in the castle."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "If a castle's ^4d4dffeconomy is over 65 and defense also over 30^000000, this will be acceptable to access Okolnir.";
+msgctxt "Guide#gq_main"
+msgid "If a castle's ^4d4dffeconomy is over 65 and defense also over 30^000000, this will be acceptable to access Okolnir."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "And, if you pass all of the tests given by Valkyrie in Okolnir!";
+msgctxt "Guide#gq_main"
+msgid "And, if you pass all of the tests given by Valkyrie in Okolnir!"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You will also receive a mysterious gift.";
+msgctxt "Guide#gq_main"
+msgid "You will also receive a mysterious gift."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Would you like to try to enter here?";
+msgctxt "Guide#gq_main"
+msgid "Would you like to try to enter here?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Great! Economy and Defense are OK.";
+msgctxt "Guide#gq_main"
+msgid "Great! Economy and Defense are OK."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You can enter Okolnir now....";
+msgctxt "Guide#gq_main"
+msgid "You can enter Okolnir now...."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Do you want to go there?";
+msgctxt "Guide#gq_main"
+msgid "Do you want to go there?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# switch(select("Sure let's go there.", "No.")) {
+msgctxt "Guide#gq_main"
+msgid "Sure let's go there."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# switch(select("Sure let's go there.", "No.")) {
+msgctxt "Guide#gq_main"
+msgid "No."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Ok......";
+msgctxt "Guide#gq_main"
+msgid "Ok......"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Please follow me...";
+msgctxt "Guide#gq_main"
+msgid "Please follow me..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You can try this anytime in the future...";
+msgctxt "Guide#gq_main"
+msgid "You can try this anytime in the future..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "If you are ready to protect this castle.";
+msgctxt "Guide#gq_main"
+msgid "If you are ready to protect this castle."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You are not qualified yet.";
+msgctxt "Guide#gq_main"
+msgid "You are not qualified yet."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Please develop your castle more...";
+msgctxt "Guide#gq_main"
+msgid "Please develop your castle more..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "... OK...";
+msgctxt "Guide#gq_main"
+msgid "... OK..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Good luck.";
+msgctxt "Guide#gq_main"
+msgid "Good luck."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# switch(select("Enter now.", "No.")) {
+msgctxt "Guide#gq_main"
+msgid "Enter now."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Hope you get everything you want...";
+msgctxt "Guide#gq_main"
+msgid "Hope you get everything you want..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Really?";
+msgctxt "Guide#gq_main"
+msgid "Really?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Sorry to hear that.";
+msgctxt "Guide#gq_main"
+msgid "Sorry to hear that."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Building Okolnir needs quite a long time.";
+msgctxt "Guide#gq_main"
+msgid "Building Okolnir needs quite a long time."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "....even though it's only virtual...";
+msgctxt "Guide#gq_main"
+msgid "....even though it's only virtual..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "It takes about 12 - 13 hours to create the virtual realm.";
+msgctxt "Guide#gq_main"
+msgid "It takes about 12 - 13 hours to create the virtual realm."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You'll have to wait.";
+msgctxt "Guide#gq_main"
+msgid "You'll have to wait."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "... I've never seen you before.";
+msgctxt "Guide#gq_main"
+msgid "... I've never seen you before."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You are strangers here. You'd better get out of here right now.";
+msgctxt "Guide#gq_main"
+msgid "You are strangers here. You'd better get out of here right now."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "[Wish Maiden]";
+msgctxt "Wish Maiden#gq_main"
+msgid "[Wish Maiden]"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I am... Wish maiden.";
+msgctxt "Wish Maiden#gq_main"
+msgid "I am... Wish maiden."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Mourning in this virtual realm, Okolnir.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Mourning in this virtual realm, Okolnir."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "On behalf of the humanbeings who defeated God here.";
+msgctxt "Wish Maiden#gq_main"
+msgid "On behalf of the humanbeings who defeated God here."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Are you ready to endure the trials to get the Goddess' glory?";
+msgctxt "Wish Maiden#gq_main"
+msgid "Are you ready to endure the trials to get the Goddess' glory?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# switch(select("Yes, I am", "Sorry, I'll try later")) {
+msgctxt "Wish Maiden#gq_main"
+msgid "Yes, I am"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# switch(select("Yes, I am", "Sorry, I'll try later")) {
+msgctxt "Wish Maiden#gq_main"
+msgid "Sorry, I'll try later"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I will test whether or not you deserve the Goddess shine...";
+msgctxt "Wish Maiden#gq_main"
+msgid "I will test whether or not you deserve the Goddess shine..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Isn't it simple?";
+msgctxt "Wish Maiden#gq_main"
+msgid "Isn't it simple?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Okolnir is a virtual place.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Okolnir is a virtual place."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "There is no room for error there.";
+msgctxt "Wish Maiden#gq_main"
+msgid "There is no room for error there."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "^ff0000You only have one hour.^000000";
+msgctxt "Wish Maiden#gq_main"
+msgid "^ff0000You only have one hour.^000000"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "If you have not finished in that time, Okolnir will be destroyed, and I will go to rest.";
+msgctxt "Wish Maiden#gq_main"
+msgid "If you have not finished in that time, Okolnir will be destroyed, and I will go to rest."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You will have to wait again...";
+msgctxt "Wish Maiden#gq_main"
+msgid "You will have to wait again..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Are you ready to go through?";
+msgctxt "Wish Maiden#gq_main"
+msgid "Are you ready to go through?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "^4d4dffYou need to have 16 to 20 members present^000000.";
+msgctxt "Wish Maiden#gq_main"
+msgid "^4d4dffYou need to have 16 to 20 members present^000000."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I will open the gate of Okolnir if your members are ready.";
+msgctxt "Wish Maiden#gq_main"
+msgid "I will open the gate of Okolnir if your members are ready."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# switch(select("We are ready.", "We need more time.")) {
+msgctxt "Wish Maiden#gq_main"
+msgid "We are ready."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# switch(select("We are ready.", "We need more time.")) {
+msgctxt "Wish Maiden#gq_main"
+msgid "We need more time."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Now I will open the gate of Okolnir where I am.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Now I will open the gate of Okolnir where I am."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I will wait for you on the top of Okolnir...";
+msgctxt "Wish Maiden#gq_main"
+msgid "I will wait for you on the top of Okolnir..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I hope that you can complete all of the trials before the virtual Okolnir is destroyed...";
+msgctxt "Wish Maiden#gq_main"
+msgid "I hope that you can complete all of the trials before the virtual Okolnir is destroyed..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Good luck.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Good luck."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You need to have 16 to 20 members present to open the gate of Okolnir.";
+msgctxt "Wish Maiden#gq_main"
+msgid "You need to have 16 to 20 members present to open the gate of Okolnir."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Come back when you are ready.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Come back when you are ready."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Don't hesitate to try.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Don't hesitate to try."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You should catch the chance when it comes to you.";
+msgctxt "Wish Maiden#gq_main"
+msgid "You should catch the chance when it comes to you."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Just gather your fellow members.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Just gather your fellow members."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "... Are you afraid of";
+msgctxt "Wish Maiden#gq_main"
+msgid "... Are you afraid of"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "the trials facing you?";
+msgctxt "Wish Maiden#gq_main"
+msgid "the trials facing you?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "....";
+msgctxt "Wish Maiden#gq_main"
+msgid "...."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Do you think that you can defeat the Goddess shine easily?";
+msgctxt "Wish Maiden#gq_main"
+msgid "Do you think that you can defeat the Goddess shine easily?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I feel disappointed by all of you.";
+msgctxt "Wish Maiden#gq_main"
+msgid "I feel disappointed by all of you."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Just go away...";
+msgctxt "Wish Maiden#gq_main"
+msgid "Just go away..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Do you wish to enter?";
+msgctxt "Wish Maiden#gq_main"
+msgid "Do you wish to enter?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Only those prepared may enter here.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Only those prepared may enter here."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You must bring several items to enter Okolnir.";
+msgctxt "Wish Maiden#gq_main"
+msgid "You must bring several items to enter Okolnir."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Dusk Glow";
+msgctxt "Wish Maiden#gq_main"
+msgid "Dusk Glow"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Dawn Essence";
+msgctxt "Wish Maiden#gq_main"
+msgid "Dawn Essence"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Cold Moonlight";
+msgctxt "Wish Maiden#gq_main"
+msgid "Cold Moonlight"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Hazy Starlight.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Hazy Starlight."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Please bring those four things, 10 Agate, 10 Rose Quartz, and 20 Elunium,";
+msgctxt "Wish Maiden#gq_main"
+msgid "Please bring those four things, 10 Agate, 10 Rose Quartz, and 20 Elunium,"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "a Heavenly Maiden's Robe, as well as 100 Soft feathers.";
+msgctxt "Wish Maiden#gq_main"
+msgid "a Heavenly Maiden's Robe, as well as 100 Soft feathers."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Goddess Tear";
+msgctxt "Wish Maiden#gq_main"
+msgid "Goddess Tear"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Valkyrie's Token";
+msgctxt "Wish Maiden#gq_main"
+msgid "Valkyrie's Token"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Brynhild Armor Piece";
+msgctxt "Wish Maiden#gq_main"
+msgid "Brynhild Armor Piece"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Hero Remains";
+msgctxt "Wish Maiden#gq_main"
+msgid "Hero Remains"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Valkyrie Armor";
+msgctxt "Wish Maiden#gq_main"
+msgid "Valkyrie Armor"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Andvari's Ring.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Andvari's Ring."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You must bring those six things, 10 Gold, and 20 Elunium.";
+msgctxt "Wish Maiden#gq_main"
+msgid "You must bring those six things, 10 Gold, and 20 Elunium."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Many Valhala's Flowers are also required as an offering.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Many Valhala's Flowers are also required as an offering."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Once all of those are prepared, the gate will open.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Once all of those are prepared, the gate will open."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes ".... ";
+msgctxt "Wish Maiden#gq_main"
+msgid ".... "
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "...........The Goddess shines brightly down on you, you should be stronger to deserve it...";
+msgctxt "Wish Maiden#gq_main"
+msgid "...........The Goddess shines brightly down on you, you should be stronger to deserve it..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Remember...";
+msgctxt "Wish Maiden#gq_main"
+msgid "Remember..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You need to collect many soft feathers.";
+msgctxt "Wish Maiden#gq_main"
+msgid "You need to collect many soft feathers."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I hope that your dreams come true.";
+msgctxt "Wish Maiden#gq_main"
+msgid "I hope that your dreams come true."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I will answer all your requests if you bring these to me.";
+msgctxt "Wish Maiden#gq_main"
+msgid "I will answer all your requests if you bring these to me."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Bring me the one who brought you to this place.";
+msgctxt "Wish Maiden#gq_main"
+msgid "Bring me the one who brought you to this place."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes ".. Deliver him to my will.";
+msgctxt "Wish Maiden#gq_main"
+msgid ".. Deliver him to my will."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "...You are not qualified.";
+msgctxt "Wish Maiden#gq_main"
+msgid "...You are not qualified."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "There are too many people, you can't enter.";
+msgctxt "Gate01#gq_main"
+msgid "There are too many people, you can't enter."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "The Warp Gate responds to the Crystal Key.";
+msgctxt "windpath01_main"
+msgid "The Warp Gate responds to the Crystal Key."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You need the Crystal Key to activate the Warp Gate.";
+msgctxt "windpath01_main"
+msgid "You need the Crystal Key to activate the Warp Gate."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "[Wish Maiden]";
+msgctxt "Wish Maiden#main_gift"
+msgid "[Wish Maiden]"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "As I declared, I will give the Goddess' shine to you.";
+msgctxt "Wish Maiden#main_gift"
+msgid "As I declared, I will give the Goddess' shine to you."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You have the requirements to carry it...";
+msgctxt "Wish Maiden#main_gift"
+msgid "You have the requirements to carry it..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "You will be granted the power of the great Valkyrie...";
+msgctxt "Wish Maiden#main_gift"
+msgid "You will be granted the power of the great Valkyrie..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I will give you some things for fun.";
+msgctxt "Wish Maiden#main_gift"
+msgid "I will give you some things for fun."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "All of you enjoy them together...";
+msgctxt "Wish Maiden#main_gift"
+msgid "All of you enjoy them together..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Go to Rachel and Juno to meet the Ravies sisters.";
+msgctxt "Wish Maiden#main_gift"
+msgid "Go to Rachel and Juno to meet the Ravies sisters."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "I will open the gate for you to come back here.";
+msgctxt "Wish Maiden#main_gift"
+msgid "I will open the gate for you to come back here."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "...Okolnir won't last forever...";
+msgctxt "Wish Maiden#main_gift"
+msgid "...Okolnir won't last forever..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "As I declared, you are worthy of holding the "+getitemname(.@rwd)+".";
+msgctxt "Wish Maiden#main_gift"
+msgid "As I declared, you are worthy of holding the "
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "However, you do not have the requirements on you...";
+msgctxt "Wish Maiden#main_gift"
+msgid "However, you do not have the requirements on you..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "...Did you forget something?";
+msgctxt "Wish Maiden#main_gift"
+msgid "...Did you forget something?"
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "All of you worked together as a team...";
+msgctxt "Wish Maiden#main_gift"
+msgid "All of you worked together as a team..."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Humans are strong when they are united, but are easily swayed by lust.";
+msgctxt "Wish Maiden#main_gift"
+msgid "Humans are strong when they are united, but are easily swayed by lust."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Humans are imperfect, so their chief god is there for them when they need help.";
+msgctxt "Wish Maiden#main_gift"
+msgid "Humans are imperfect, so their chief god is there for them when they need help."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "....";
+msgctxt "Wish Maiden#main_gift"
+msgid "...."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Always be real.";
+msgctxt "Wish Maiden#main_gift"
+msgid "Always be real."
+msgstr ""
+
+#: npc/quests/okolnir.txt
+# mes "Do not regret your actions...";
+msgctxt "Wish Maiden#main_gift"
+msgid "Do not regret your actions..."
+msgstr ""

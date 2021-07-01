@@ -1,0 +1,4740 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 09:28-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Mariner]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "[Mariner]"
+msgstr "[Mariner]"
+
+# mes "This ship";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "This ship"
+msgstr "Este navio"
+
+# mes "is heading";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "is heading"
+msgstr "é o título"
+
+# mes "towards ^666699Izlude^000000.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "towards ^666699Izlude^000000."
+msgstr "em direção a ^666699Izlude^000000."
+
+# mes "Have you enjoyed your time in Jawaii? You should check to see";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "Have you enjoyed your time in Jawaii? You should check to see"
+msgstr "Você já desfrutou de seu tempo em Jawaii? Você deve verificar para ver"
+
+# mes "if you forgot anything before we go.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "if you forgot anything before we go."
+msgstr "se você esqueceu alguma coisa antes de irmos."
+
+# mes "Well, then.";
+#: npc/cities/jawaii.txt
+msgctxt "Mariner#toizu"
+msgid "Well, then."
+msgstr "Bem, então."
+
+# mes "Would you like";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "Would you like"
+msgstr "Gostaria de"
+
+# mes "to go back to Izlude?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "to go back to Izlude?"
+msgstr "para voltar a Izlude?"
+
+# if (select("Go back.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "Go back."
+msgstr "Voltar."
+
+# if (select("Go back.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "Now, let me";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "Now, let me"
+msgstr "Agora, deixe-me"
+
+# mes "guide you to";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "guide you to"
+msgstr "guiá-lo para"
+
+# mes "Izlude.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "Izlude."
+msgstr "Izlude."
+
+# mes "Take your time";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "Take your time"
+msgstr "Leve seu tempo"
+
+# mes "and look around as";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "and look around as"
+msgstr "e olhar ao redor como"
+
+# mes "much as you like.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "much as you like."
+msgstr "por mais que você queira."
+
+# mes "Somehow, this is not";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "Somehow,  this is not"
+msgstr "De alguma forma, isto não é"
+
+# mes "a place that you can";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "a place that you can"
+msgstr "um lugar que você pode"
+
+# mes "visit often, you know?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toizu"
+msgid "visit often, you know?"
+msgstr "visita com freqüência, sabe?"
+
+# mes "[Mariner]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "[Mariner]"
+msgstr "[Mariner]"
+
+# mes "This ship";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "This ship"
+msgstr "Este navio"
+
+# mes "is headed back";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "is headed back"
+msgstr "está voltando"
+
+# mes "towards ^003399Alberta^000000.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "towards ^003399Alberta^000000."
+msgstr "em direção a ^003399Alberta^000000."
+
+# mes "Have you enjoyed your time in Jawaii? You should check to see";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "Have you enjoyed your time in Jawaii? You should check to see"
+msgstr "Você já desfrutou de seu tempo em Jawaii? Você deve verificar para ver"
+
+# mes "if you forgot anything before we go.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "if you forgot anything before we go."
+msgstr "se você esqueceu alguma coisa antes de irmos."
+
+# mes "Now, are you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "Now, are you"
+msgstr "Agora, você está"
+
+# mes "ready to go back";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "ready to go back"
+msgstr "pronto para voltar"
+
+# mes "to Alberta?";
+#: npc/cities/jawaii.txt
+msgctxt "Mariner#toalbe"
+msgid "to Alberta?"
+msgstr "para Alberta?"
+
+# if (select("Go back.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "Go back."
+msgstr "Voltar."
+
+# if (select("Go back.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "Now, let me";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "Now, let me"
+msgstr "Agora, deixe-me"
+
+# mes "take you back";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "take you back"
+msgstr "levá-lo de volta"
+
+# mes "to Alberta.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "to Alberta."
+msgstr "para Alberta."
+
+# mes "Yeah...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "Yeah..."
+msgstr "Sim..."
+
+# mes "Try to enjoy your";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "Try to enjoy your"
+msgstr "Tente desfrutar de seu"
+
+# mes "vacation as much";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "vacation as much"
+msgstr "férias tanto quanto"
+
+# mes "as you can. We'll be";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "as you can. We'll be"
+msgstr "como você puder. Nós seremos"
+
+# mes "ready to leave when";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "ready to leave when"
+msgstr "pronto para partir quando"
+
+# mes "you are.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Mariner#toalbe"
+msgid "you are."
+msgstr "você é."
+
+# mes "[Lady]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "[Lady]"
+msgstr "[Senhora]"
+
+# mes "Oh, dear!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "Oh, dear!"
+msgstr "Oh, meu Deus!"
+
+# mes "You're not going";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "You're not going"
+msgstr "Você não vai"
+
+# mes "to the tavern, are you?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "to the tavern, are you?"
+msgstr "para a taverna, você está?"
+
+# if (select("No, I am not.", "Hell yeah~") == 1) {
+#: npc/cities/jawaii.txt
+msgctxt "Tavern Lady#Jawaii"
+msgid "No, I am not."
+msgstr "Não, não estou."
+
+# if (select("No, I am not.", "Hell yeah~") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "Hell yeah~"
+msgstr "Claro que sim~"
+
+# mes "Whew~!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "Whew~!"
+msgstr "Whew~!"
+
+# mes "Thank goodness!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "Thank goodness!"
+msgstr "Graças a Deus!"
+
+# mes "It's just that...";
+#: npc/cities/jawaii.txt
+msgctxt "Tavern Lady#Jawaii"
+msgid "It's just that..."
+msgstr "É só que..."
+
+# mes "The tavern probably";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "The tavern probably"
+msgstr "A taverna provavelmente"
+
+# mes "isn't the best place for";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "isn't the best place for"
+msgstr "não é o melhor lugar para"
+
+# mes "you to enjoy yourself.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "you to enjoy yourself."
+msgstr "para você se divertir."
+
+# mes "Even though I work there, I still can't believe that kind of place exists! I mean, I thought alcohol was outlawed in the Rune-Midgarts Kingdom!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid ""
+"Even though I work there, I still can't believe that kind of place exists! I "
+"mean, I thought alcohol was outlawed in the Rune-Midgarts Kingdom!"
+msgstr ""
+"Mesmo trabalhando lá, ainda não consigo acreditar que esse tipo de lugar "
+"exista! Eu pensava que o álcool era proibido no Reino de Rune-Midgarts!"
+
+# mes "I have no idea how singles are";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "I have no idea how singles are"
+msgstr "Não tenho idéia de quão solteiros são"
+
+# mes "able to find this place. But I've heard that lots of different people come here for different reasons.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid ""
+"able to find this place. But I've heard that lots of different people come "
+"here for different reasons."
+msgstr ""
+"capaz de encontrar este lugar. Mas eu ouvi dizer que muitas pessoas "
+"diferentes vêm aqui por diferentes razões."
+
+# mes "I've even seen unmarried single people coming here just to get drunk! Oh! And for some reason, people have been disappearing";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid ""
+"I've even seen unmarried single people coming here just to get drunk! Oh! "
+"And for some reason, people have been disappearing"
+msgstr ""
+"Eu já vi até pessoas solteiras não casadas virem aqui só para se "
+"embebedarem! Oh! E por alguma razão, as pessoas têm desaparecido"
+
+# mes "from the tavern!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "from the tavern!"
+msgstr "da taverna!"
+
+# mes "I wonder what's going on?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid "I wonder what's going on?"
+msgstr "O que será que está acontecendo?"
+
+# mes "^666666*Sigh*^000000 I'm a waitress there, but still I just want to tell you not to go in there...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Tavern Lady#Jawaii"
+msgid ""
+"^666666*Sigh*^000000 I'm a waitress there, but still I just want to tell you "
+"not to go in there..."
+msgstr ""
+"^66666666*Sigh*000000 Sou uma garçonete lá, mas ainda assim só quero dizer "
+"para não entrar lá..."
+
+# mes "[Jawa Jawa]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "[Jawa Jawa]"
+msgstr "[Jawa Jawa]"
+
+# mes "You know what's";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "You know what's"
+msgstr "Você sabe o que é"
+
+# mes "the most beautiful";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "the most beautiful"
+msgstr "a mais bela"
+
+# mes "place in Jawaii?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "place in Jawaii?"
+msgstr "lugar em Jawaii?"
+
+# mes "It's 'Heart Island,' which is just a little north of here. The water surrounding Heart Island is not that deep, so you can just walk across if you're careful.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid ""
+"It's 'Heart Island,' which is just a little north of here. The water "
+"surrounding Heart Island is not that deep, so you can just walk across if "
+"you're careful."
+msgstr ""
+"É a 'Ilha do Coração', que fica apenas um pouco ao norte daqui. A água ao "
+"redor da Ilha do Coração não é tão profunda, então você pode simplesmente "
+"atravessar se tiver cuidado."
+
+# mes "That's the best place to share an intimate moment with the person";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "That's the best place to share an intimate moment with the person"
+msgstr "Esse é o melhor lugar para compartilhar um momento íntimo com a pessoa"
+
+# mes "you love. It's perfectly secluded and such a beautiful area.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "you love. It's perfectly secluded and such a beautiful area."
+msgstr "que você ama. É perfeitamente isolada e uma área tão bonita."
+
+# mes "Of course, it's probably not";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "Of course, it's probably not"
+msgstr "É claro, provavelmente não é"
+
+# mes "a good idea to go there by";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "a good idea to go there by"
+msgstr "uma boa idéia para ir lá por"
+
+# mes "yourself if you're single.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "yourself if you're single."
+msgstr "você mesmo se você for solteiro."
+
+# mes "You'd look like such";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "You'd look like such"
+msgstr "Você pareceria tal"
+
+# mes "a pathetic loser!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#heart"
+msgid "a pathetic loser!"
+msgstr "um patético perdedor!"
+
+# mes "[Waii Waii]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc1"
+msgid "[Waii Waii]"
+msgstr "[Waii Waii]"
+
+# mes "Welcome to Jawaii!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc1"
+msgid "Welcome to Jawaii!"
+msgstr "Bem-vindo ao Jawaii!"
+
+# mes "Here, you can enjoy your";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc1"
+msgid "Here, you can enjoy your"
+msgstr "Aqui, você pode desfrutar de seu"
+
+# mes "honeymoon without worrying about any interruptions. You don't even have to bother with that notorious Single Army!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc1"
+msgid ""
+"honeymoon without worrying about any interruptions. You don't even have to "
+"bother with that notorious Single Army!"
+msgstr ""
+"lua-de-mel sem se preocupar com qualquer interrupção. Você não precisa nem "
+"se preocupar com aquele notório Exército Único!"
+
+# mes "Well, there are a few monsters around, but you'll be okay as long as you don't attack them first. Think of them as the original residents of this island, another sight to enjoy.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc1"
+msgid ""
+"Well, there are a few monsters around, but you'll be okay as long as you "
+"don't attack them first. Think of them as the original residents of this "
+"island, another sight to enjoy."
+msgstr ""
+"Bem, há alguns monstros por aí, mas você ficará bem desde que não os ataque "
+"primeiro. Pense neles como os moradores originais desta ilha, outra visão a "
+"ser desfrutada."
+
+# mes "[Waja Waja]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc2"
+msgid "[Waja Waja]"
+msgstr "[Waja Waja Waja]"
+
+# mes "Ah, you must be a tourist.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc2"
+msgid "Ah, you must be a tourist."
+msgstr "Ah, você deve ser um turista."
+
+# mes "If you're lost, just head West. Accomodations for newlyweds";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc2"
+msgid "If you're lost, just head West. Accomodations for newlyweds"
+msgstr ""
+"Se você estiver perdido, vá para o Oeste. Acomodações para recém-casados"
+
+# mes "are located in the western part of Jawaii. The lodging here is";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc2"
+msgid "are located in the western part of Jawaii. The lodging here is"
+msgstr "estão localizados na parte ocidental do Jawaii. O alojamento aqui é"
+
+# mes "pretty amazing.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc2"
+msgid "pretty amazing."
+msgstr "bastante surpreendente."
+
+# mes "There are four different themed rooms, so you can choose one to your liking. There's a Guide around if you want to ask for more information.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc2"
+msgid ""
+"There are four different themed rooms, so you can choose one to your liking. "
+"There's a Guide around if you want to ask for more information."
+msgstr ""
+"Existem quatro salas temáticas diferentes, para que você possa escolher uma "
+"a seu gosto. Há um Guia ao redor, se você quiser pedir mais informações."
+
+# mes "When you want to go back, please head to the NorthWest to board";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc2"
+msgid "When you want to go back, please head to the NorthWest to board"
+msgstr "Quando você quiser voltar, dirija-se ao Noroeste para embarcar"
+
+# mes "a ship to Alberta. If you want to sail to Izlude, there's a ship waiting in the SouthEast.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc2"
+msgid ""
+"a ship to Alberta. If you want to sail to Izlude, there's a ship waiting in "
+"the SouthEast."
+msgstr ""
+"um navio para Alberta. Se você quiser navegar para Izlude, há um navio "
+"esperando no sudeste."
+
+# mes "[Iwa Iwa]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid "[Iwa Iwa]"
+msgstr "[Iwa Iwa Iwa]"
+
+# mes "Jawaii~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid "Jawaii~"
+msgstr "Jawaii~"
+
+# mes "Jawa~ii~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid "Jawa~ii~"
+msgstr "Jawa~ii~"
+
+# mes "Where you can";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid "Where you can"
+msgstr "Onde você pode"
+
+# mes "find happiness~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid "find happiness~"
+msgstr "encontrar a felicidade~"
+
+# mes "Oh, isn't it beautiful? You don't have to do anything other than relax and breathe in the peaceful atmosphere. That's one of the";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid ""
+"Oh, isn't it beautiful? You don't have to do anything other than relax and "
+"breathe in the peaceful atmosphere. That's one of the"
+msgstr ""
+"Oh, não é lindo? Você não precisa fazer nada além de relaxar e respirar na "
+"atmosfera pacífica. Essa é uma das"
+
+# mes "best things about Jawaii.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid "best things about Jawaii."
+msgstr "as melhores coisas sobre Jawaii."
+
+# mes "Ooh! Sometimes we hold";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid "Ooh! Sometimes we hold"
+msgstr "Ooh! Às vezes nós seguramos"
+
+# mes "concerts on this stage. If you're good at singing, why don't you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid "concerts on this stage. If you're good at singing, why don't you"
+msgstr "concertos neste palco. Se você é bom em cantar, por que você não"
+
+# mes "go up on stage and sing";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid "go up on stage and sing"
+msgstr "subir no palco e cantar"
+
+# mes "a song for us?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Jawaii Resident#desc3"
+msgid "a song for us?"
+msgstr "uma canção para nós?"
+
+# mes "[Alowa]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "[Alowa]"
+msgstr "[Alowa]"
+
+# mes "W-Welcome...?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "W-Welcome...?"
+msgstr "Bem-vindos...?"
+
+# mes "This is o-o-our";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "This is o-o-our"
+msgstr "Isto é o-o-our"
+
+# mes "s-sweet room.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "s-sweet room."
+msgstr "s-sweet room."
+
+# mes "We, we just c-cleaned";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "We, we just c-cleaned"
+msgstr "Nós, nós apenas limpamos"
+
+# mes "this r-room for you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "this r-room for you"
+msgstr "este r-room para você"
+
+# mes "o-of course.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "o-of course."
+msgstr "o de curso."
+
+# mes "Th-The charge is is";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "Th-The charge is is"
+msgstr "A taxa é de"
+
+# mes "1000 zeny p-p-per person?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "1000 zeny p-p-per person?"
+msgstr "1000 zeny p-p por pessoa?"
+
+# mes "P-please pay me the fee and";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "P-please pay me the fee and"
+msgstr "Por favor, pague-me a taxa e"
+
+# mes "I,I'll let you in. I ssss...swear!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "I,I'll let you in. I ssss...swear!"
+msgstr "Eu, eu o deixarei entrar. Eu ssss...juro!"
+
+# mes "I, I'll also ca-carry your luggage. B-but pay me first. Otherwise, my bo-boss will be unhappy and... ^666666*Gulp*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid ""
+"I, I'll also ca-carry your luggage. B-but pay me first. Otherwise, my bo-"
+"boss will be unhappy and... ^666666*Gulp*^000000"
+msgstr ""
+"Eu, eu também vou carregar sua bagagem. Mas pague-me primeiro. Caso "
+"contrário, meu chefe ficará infeliz e... ^66666666*Gulp*^000000"
+
+# mes "^333333Beat me to death...^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "^333333Beat me to death...^000000"
+msgstr "^33333333Bata-me até a morte...^000000"
+
+# if (select("Use.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "Use."
+msgstr "Utilização."
+
+# if (select("Use.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "T-Thank you ssso much!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "T-Thank you ssso much!"
+msgstr "Muito obrigado!"
+
+# mes "L-Let open the room door";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "L-Let open the room door"
+msgstr "L-Deixe abrir a porta do quarto"
+
+# mes "ffffor you. Thank y-you.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "ffffor you. Thank y-you."
+msgstr "fff para você. Obrigado a você."
+
+# mes "Ha-have a good time.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "Ha-have a good time."
+msgstr "Tenha um bom momento."
+
+# mes "Oh no! Oh no no no no no.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "Oh no! Oh no no no no no."
+msgstr "Oh não! Oh não, não, não, não, não."
+
+# mes "Th-This isn't enough money?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "Th-This isn't enough money?"
+msgstr "Isto não é dinheiro suficiente?"
+
+# mes "I-I'm ssssorry, but my b-boss w-will beat me if I l-let you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "I-I'm ssssorry, but my b-boss w-will beat me if I l-let you"
+msgstr "Eu estou arrependido, mas meu chefe me vencerá se eu deixar você"
+
+# mes "in without paying...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "in without paying..."
+msgstr "sem pagar..."
+
+# mes "^666666*Sniff*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid "^666666*Sniff*^000000"
+msgstr "^666666*Sniff*^000000"
+
+# mes "B-but I promise th-that this room is the nicest and cl-cleanest room! P-Please! C-come back!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#sroom"
+msgid ""
+"B-but I promise th-that this room is the nicest and cl-cleanest room! P-"
+"Please! C-come back!"
+msgstr ""
+"Mas prometo que esta sala é a mais agradável e a mais limpa! Por favor, por "
+"favor! Volte!"
+
+# mes "[Pine Oran]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "[Pine Oran]"
+msgstr "[Pine Oran]"
+
+# mes "Welcome to";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "Welcome to"
+msgstr "Bem-vindo ao"
+
+# mes "the Antique room.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "the Antique room."
+msgstr "a sala Antique."
+
+# mes "This room provides lovers with";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "This room provides lovers with"
+msgstr "Esta sala oferece aos amantes"
+
+# mes "an atmosphere of plush elegance.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "an atmosphere of plush elegance."
+msgstr "uma atmosfera de elegância de pelúcia."
+
+# mes "Every comfort is provided for";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "Every comfort is provided for"
+msgstr "Todo conforto é proporcionado para"
+
+# mes "young couples in this room.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "young couples in this room."
+msgstr "jovens casais nesta sala."
+
+# mes "All the rooms may have the same basic structure, but each of them has their own unqiue interior to suit the tastes of different people.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid ""
+"All the rooms may have the same basic structure, but each of them has their "
+"own unqiue interior to suit the tastes of different people."
+msgstr ""
+"Todas as salas podem ter a mesma estrutura básica, mas cada uma delas tem "
+"seu próprio interior unqiue para se adequar aos gostos de diferentes pessoas."
+
+# mes "If you would like to lodge here, it is required to pay a 1,000 zeny fee for each person before entering. Since you're here to make fond memories of your honeymoon,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid ""
+"If you would like to lodge here, it is required to pay a 1,000 zeny fee for "
+"each person before entering. Since you're here to make fond memories of your "
+"honeymoon,"
+msgstr ""
+"Se você quiser se hospedar aqui, é necessário pagar uma taxa zeny de 1.000 "
+"para cada pessoa antes de entrar. Já que você está aqui para fazer memórias "
+"carinhosas de sua lua-de-mel,"
+
+# mes "you should stay in the nicest room.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "you should stay in the nicest room."
+msgstr "você deve ficar no quarto mais agradável."
+
+# mes "Do not hesitate to let me know when you've decided on the Antique Room. Once you've made your choice,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid ""
+"Do not hesitate to let me know when you've decided on the Antique Room. Once "
+"you've made your choice,"
+msgstr ""
+"Não hesite em me avisar quando tiver decidido sobre o Salão de Antiguidades. "
+"Uma vez que tenha feito sua escolha,"
+
+# mes "I will guide you there.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "I will guide you there."
+msgstr "Eu o guiarei até lá."
+
+# if (select("Use.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "Use."
+msgstr "Utilização."
+
+# if (select("Use.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "Thank you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "Thank you"
+msgstr "Obrigado"
+
+# mes "for using";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "for using"
+msgstr "por usar"
+
+# mes "our services.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "our services."
+msgstr "nossos serviços."
+
+# mes "Please...";
+#: npc/cities/jawaii.txt
+msgctxt "Employee#antroom"
+msgid "Please..."
+msgstr "Por favor..."
+
+# mes "Make yourself";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "Make yourself"
+msgstr "Faça você mesmo"
+
+# mes "comfortable.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "comfortable."
+msgstr "confortável."
+
+# mes "I am sorry, but you don't seem to have enough money. If it's alright, why don't you check your current funds and see what you can do";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid ""
+"I am sorry, but you don't seem to have enough money. If it's alright, why "
+"don't you check your current funds and see what you can do"
+msgstr ""
+"Sinto muito, mas parece que você não tem dinheiro suficiente. Se estiver "
+"tudo bem, por que você não verifica seus fundos atuais e vê o que você pode "
+"fazer"
+
+# mes "about this situation?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "about this situation?"
+msgstr "sobre esta situação?"
+
+# mes "Take your time.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "Take your time."
+msgstr "Leve seu tempo."
+
+# mes "There should be no rush";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "There should be no rush"
+msgstr "Não deve haver pressa"
+
+# mes "when it comes to leisure.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#antroom"
+msgid "when it comes to leisure."
+msgstr "quando se trata de lazer."
+
+# mes "[Sharkie Rania]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "[Sharkie Rania]"
+msgstr "[Sharkie Rania]"
+
+# mes "I'll take you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "I'll take you"
+msgstr "Eu o levarei"
+
+# mes "to the Honey Room.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "to the Honey Room."
+msgstr "para a Sala do Mel."
+
+# mes "It costs 1,000 zeny.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "It costs 1,000 zeny."
+msgstr "Custa 1.000 zeny."
+
+# mes "So you wanna go?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "So you wanna go?"
+msgstr "Então você quer ir?"
+
+# if (select("Use.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "Use."
+msgstr "Utilização."
+
+# if (select("Use.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "Eh, alright.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "Eh, alright."
+msgstr "Eh, tudo bem."
+
+# mes "Let's get going.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "Let's get going."
+msgstr "Vamos andando."
+
+# mes "You...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "You..."
+msgstr "Você..."
+
+# mes "Don't have";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "Don't have"
+msgstr ""
+"Oh bem~! Se você não tem o dinheiro, então não podemos lhe dar as "
+"informações~"
+
+# mes "enough money.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "enough money."
+msgstr "dinheiro suficiente."
+
+# mes "C'mon, romance";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "C'mon, romance"
+msgstr "Vá lá, romance"
+
+# mes "takes zeny, got it?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "takes zeny, got it?"
+msgstr "leva zeny, entendeu?"
+
+# mes "No prob.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#horoom"
+msgid "No prob."
+msgstr "Nenhuma sonda."
+
+# mes "[Larks Rania]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "[Larks Rania]"
+msgstr "[Larks Rania]"
+
+# mes "Hello dear,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "Hello dear,"
+msgstr "Olá, querida,"
+
+# mes "how are you?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "how are you?"
+msgstr "como você está?"
+
+# mes "Are you looking for";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "Are you looking for"
+msgstr "Você está procurando por"
+
+# mes "a room to stay in?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "a room to stay in?"
+msgstr "um quarto para ficar em?"
+
+# mes "This is called the Villa Room.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "This is called the Villa Room."
+msgstr "Isto é chamado de Sala Villa."
+
+# mes "I recommend this room to people";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "I recommend this room to people"
+msgstr "Eu recomendo esta sala às pessoas"
+
+# mes "who prefer to stay in a place with";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "who prefer to stay in a place with"
+msgstr "que preferem ficar em um lugar com"
+
+# mes "a comfortable atmosphere";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "a comfortable atmosphere"
+msgstr "uma atmosfera confortável"
+
+# mes "much like home.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "much like home."
+msgstr "muito parecido com o lar."
+
+# mes "Just like all the other rooms,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "Just like all the other rooms,"
+msgstr "Assim como todas as outras salas,"
+
+# mes "the lodging charge is 1,000 zeny.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "the lodging charge is 1,000 zeny."
+msgstr "a taxa de acomodação é de 1.000 zeny."
+
+# mes "I can guide you to the Villa Room";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "I can guide you to the Villa Room"
+msgstr "Posso guiá-lo até o Villa Room"
+
+# mes "right now, if you wish. Would you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "right now, if you wish. Would you"
+msgstr "agora mesmo, se você desejar. Você gostaria de"
+
+# mes "like to stay?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "like to stay?"
+msgstr "gosta de ficar?"
+
+# if (select("Use.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "Use."
+msgstr "Utilização."
+
+# if (select("Use.", "Cancel.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "Thank you~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "Thank you~"
+msgstr "Obrigado~"
+
+# mes "Enjoy your stay.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "Enjoy your stay."
+msgstr "Aproveite sua estadia."
+
+# mes "Oh what a shame!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "Oh what a shame!"
+msgstr "Oh, que pena!"
+
+# mes "You don't seem";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "You don't seem"
+msgstr "Você não parece"
+
+# mes "to have enough money...?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "to have enough money...?"
+msgstr "para ter dinheiro suficiente...?"
+
+# mes "Why don't you ask your";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "Why don't you ask your"
+msgstr "Por que você não pergunta a sua"
+
+# mes "partner to help you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "partner to help you"
+msgstr "parceiro para ajudar você"
+
+# mes "with the charge?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "with the charge?"
+msgstr "com a carga?"
+
+# mes "No problem~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid "No problem~"
+msgstr "Sem problemas~"
+
+# mes "If you like, you may wish to check the Honey Room. Although the roomkeeper, Sharkie, is a shy girl, the room is really beautiful.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#villroom"
+msgid ""
+"If you like, you may wish to check the Honey Room. Although the roomkeeper, "
+"Sharkie, is a shy girl, the room is really beautiful."
+msgstr ""
+"Se você quiser, pode desejar verificar a Sala do Mel. Embora o guardião do "
+"quarto, Sharkie, seja uma garota tímida, o quarto é realmente lindo."
+
+# mes "[Helper]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "[Helper]"
+msgstr "[Ajudante]"
+
+# mes "There is no place";
+#: npc/cities/jawaii.txt
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "There is no place"
+msgstr "Não há lugar"
+
+# mes "better for having your";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "better for having your"
+msgstr "melhor para ter seu"
+
+# mes "honeymoon than Jawaii.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "honeymoon than Jawaii."
+msgstr "lua-de-mel do que Jawaii."
+
+# mes "Why don't you make the best of your time here, and make a lot of sweet memories that you will cherish for years to come?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid ""
+"Why don't you make the best of your time here, and make a lot of sweet "
+"memories that you will cherish for years to come?"
+msgstr ""
+"Por que você não faz o melhor de seu tempo aqui, e faz um monte de "
+"lembranças doces que você apreciará nos próximos anos?"
+
+# mes "Mementos that remind you of your happy times can be your most precious possessions. Like your wedding ring, for instance, or the tuxedo and wedding dress worn during your wedding ceremony...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid ""
+"Mementos that remind you of your happy times can be your most precious "
+"possessions. Like your wedding ring, for instance, or the tuxedo and wedding "
+"dress worn during your wedding ceremony..."
+msgstr ""
+"As lembranças que lembram seus momentos felizes podem ser seus bens mais "
+"preciosos. Como sua aliança de casamento, por exemplo, ou o smoking e o "
+"vestido de noiva usado durante sua cerimônia de casamento."
+
+# mes "Even if the wedding ceremony";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "Even if the wedding ceremony"
+msgstr "Mesmo que a cerimônia de casamento"
+
+# mes "is over, isn't it nice to look back upon the happy memories of your marriage ceremony? With the magical photo album at a cheap price, now you can!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid ""
+"is over, isn't it nice to look back upon the happy memories of your marriage "
+"ceremony? With the magical photo album at a cheap price, now you can!"
+msgstr ""
+"acabou, não é bom olhar para trás, para as lembranças felizes de sua "
+"cerimônia de casamento? Com o álbum mágico de fotos a um preço barato, agora "
+"você pode!"
+
+# mes "Its name is...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "Its name is..."
+msgstr "Seu nome é..."
+
+# mes "'Sweet Memory of Marriage'!!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "'Sweet Memory of Marriage'!!"
+msgstr "Doce Memória de Casamento'!!"
+
+# mes "It will instantly bring you to the wedding hall with magic power!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "It will instantly bring you to the wedding hall with magic power!"
+msgstr "Ele o trará instantaneamente ao salão de casamento com poder mágico!"
+
+# mes "And it only costs 50,000 zeny...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "And it only costs 50,000 zeny..."
+msgstr "E custa apenas 50.000 zeny..."
+
+# if (select("I shall buy it.", "No, thanks.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "I shall buy it."
+msgstr "Eu a comprarei."
+
+# if (select("I shall buy it.", "No, thanks.") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "No, thanks."
+msgstr "Não, obrigado."
+
+# mes "Thank you very much~!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "Thank you very much~!"
+msgstr "Muito obrigado~!"
+
+# mes "Please remember, you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "Please remember, you"
+msgstr "Por favor, lembre-se, você"
+
+# mes "should use this with your";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "should use this with your"
+msgstr "deve usar isto com seu"
+
+# mes "partner in a place that is";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "partner in a place that is"
+msgstr "parceiro em um lugar que é"
+
+# mes "special to the both of you.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "special to the both of you."
+msgstr "especial para os dois."
+
+# mes "'Sweet Memory of Marriage' is 50,000 zeny. But don't seem to have enough money with you right now. Maybe you and your partner could help each other to buy the Sweet Memory of Marriage?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid ""
+"'Sweet Memory of Marriage' is 50,000 zeny. But don't seem to have enough "
+"money with you right now. Maybe you and your partner could help each other "
+"to buy the Sweet Memory of Marriage?"
+msgstr ""
+"A \"doce memória do casamento\" é de 50.000 zeny. Mas parece não ter "
+"dinheiro suficiente com você neste momento. Talvez você e seu parceiro "
+"possam ajudar um ao outro a comprar a \"Doce Memória do Casamento\"?"
+
+# mes "Even if your relationship ends,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "Even if your relationship ends,"
+msgstr "Mesmo que seu relacionamento termine,"
+
+# mes "the memories the both of you have shared will remain forever...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Honeymoon Helper#Jawaii"
+msgid "the memories the both of you have shared will remain forever..."
+msgstr "as memórias que ambos compartilharam permanecerão para sempre..."
+
+# mes "[Employee Tryteh]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw1"
+msgid "[Employee Tryteh]"
+msgstr "[Empregado Tryteh]"
+
+# mes "Welcome to Jawaii Tavern~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw1"
+msgid "Welcome to Jawaii Tavern~"
+msgstr "Bem-vindo à Jawaii Tavern~"
+
+# mes "Anyway, I am so glad that you two have gotten married. I hope you both will live happily ever after~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw1"
+msgid ""
+"Anyway, I am so glad that you two have gotten married. I hope you both will "
+"live happily ever after~"
+msgstr ""
+"De qualquer forma, estou tão feliz que vocês dois tenham se casado. Espero "
+"que vocês dois vivam felizes para sempre~"
+
+# mes "Try to be a little careful if you bump into any rude customers.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw1"
+msgid "Try to be a little careful if you bump into any rude customers."
+msgstr ""
+"Tente ser um pouco cuidadoso ao esbarrar em qualquer cliente mal-educado."
+
+# mes "They might be drunk and do something stupid. You know";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw1"
+msgid "They might be drunk and do something stupid. You know"
+msgstr "Eles podem estar bêbados e fazer algo estúpido. Você sabe que"
+
+# mes "how it is...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw1"
+msgid "how it is..."
+msgstr "como é..."
+
+# mes "I hope you enjoy your stay";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw1"
+msgid "I hope you enjoy your stay"
+msgstr "Espero que você aproveite sua estadia"
+
+# mes "over here. But try not";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw1"
+msgid "over here. But try not"
+msgstr "por aqui. Mas tente não"
+
+# mes "to drink too much~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw1"
+msgid "to drink too much~"
+msgstr "para beber demais~"
+
+# mes "I hope you will have a good time.";
+#: npc/cities/jawaii.txt
+msgctxt "Employee#jaw1"
+msgid "I hope you will have a good time."
+msgstr "Espero que vocês se divirtam."
+
+# mes "[Employee Fey]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw2"
+msgid "[Employee Fey]"
+msgstr "[Empregado Fey]"
+
+# mes "Welcome to Jawaii Tavern~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw2"
+msgid "Welcome to Jawaii Tavern~"
+msgstr "Bem-vindo à Jawaii Tavern~"
+
+# mes "We hope that you enjoy your time here with the one that you love. Isn't this place nice and cozy,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw2"
+msgid ""
+"We hope that you enjoy your time here with the one that you love. Isn't this "
+"place nice and cozy,"
+msgstr ""
+"Esperamos que você aproveite seu tempo aqui com aquele que ama. Este lugar "
+"não é agradável e aconchegante,"
+
+# mes "a perfect romantic atmosphere?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw2"
+msgid "a perfect romantic atmosphere?"
+msgstr "uma atmosfera romântica perfeita?"
+
+# mes "It would be absolutely perfect if it weren't for those 'Invincible Single Army' weirdos. Somehow,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw2"
+msgid ""
+"It would be absolutely perfect if it weren't for those 'Invincible Single "
+"Army' weirdos. Somehow,"
+msgstr ""
+"Seria absolutamente perfeito se não fosse por aqueles esquisitos "
+"\"Invencível Exército Único\". De alguma forma,"
+
+# mes "a few of those dorks found their way here. To hell with them!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw2"
+msgid "a few of those dorks found their way here. To hell with them!"
+msgstr ""
+"alguns desses idiotas encontraram seu caminho até aqui. Ao diabo com eles!"
+
+# mes "Have a good time! But please,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw2"
+msgid "Have a good time! But please,"
+msgstr "Divirta-se! Mas, por favor,"
+
+# mes "try not to interrupt the happily married people here!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw2"
+msgid "try not to interrupt the happily married people here!"
+msgstr "tente não interromper as pessoas casadas e felizes aqui!"
+
+# mes "I hope you will have a good time~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw2"
+msgid "I hope you will have a good time~"
+msgstr "Espero que você se divirta~"
+
+# mes "[Employee Buffy]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "[Employee Buffy]"
+msgstr "[Empregado Buffy]"
+
+# mes "Welcome to Jawaii Tavern~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "Welcome to Jawaii Tavern~"
+msgstr "Bem-vindo à Jawaii Tavern~"
+
+# mes "Oh~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "Oh~"
+msgstr "Oh~"
+
+# mes "Look at you...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "Look at you..."
+msgstr "Olhe para você..."
+
+# mes "You look perfect";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "You look perfect"
+msgstr "Você parece perfeito"
+
+# mes "for your wife~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "for your wife~"
+msgstr "para sua esposa~"
+
+# mes "with your husband~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "with your husband~"
+msgstr "com seu marido~"
+
+# mes "Awwww, I want to";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "Awwww, I want to"
+msgstr "Awwwww, eu quero"
+
+# mes "get married soon~!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "get married soon~!"
+msgstr "casar logo~!"
+
+# mes "Hmm...?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "Hmm...?"
+msgstr "Hmm...?"
+
+# mes "You don't look like";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "You don't look like"
+msgstr "Você não se parece com"
+
+# mes "you're married, are you?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "you're married, are you?"
+msgstr "você é casado, não é?"
+
+# mes "I'm pretty good";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "I'm pretty good"
+msgstr "Eu sou muito bom"
+
+# mes "at cooking and cleaning";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "at cooking and cleaning"
+msgstr "na cozinha e limpeza"
+
+# mes "^666666*AHEM*^000000 I've got a ^FF0000nice body^000000.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "^666666*AHEM*^000000 I've got a ^FF0000nice body^000000."
+msgstr "^66666666*AHEM*^000000 Eu tenho um corpo ^FF0000nice^000000."
+
+# mes "So what do you think...?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw3"
+msgid "So what do you think...?"
+msgstr "Então, o que você acha...?"
+
+# mes "I hope you will have a good time.";
+#: npc/cities/jawaii.txt
+msgctxt "Employee#jaw3"
+msgid "I hope you will have a good time."
+msgstr "Espero que vocês se divirtam."
+
+# mes "[Employee Itere]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "[Employee Itere]"
+msgstr "[Empregado Itere]"
+
+# mes "Welcome to";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "Welcome to"
+msgstr "Bem-vindo ao"
+
+# mes "Jawaii Tavern~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "Jawaii Tavern~"
+msgstr "Jawaii Tavern~"
+
+# mes "Oh~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "Oh~"
+msgstr "Oh~"
+
+# mes "You look so happy";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "You look so happy"
+msgstr "Você parece tão feliz"
+
+# mes "to be here with your";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "to be here with your"
+msgstr "para estar aqui com seu"
+
+# mes "partner! How precious~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "partner! How precious~"
+msgstr "parceiro! Quão precioso~"
+
+# mes "I hope you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "I hope you"
+msgstr "Espero que você"
+
+# mes "enjoy your st--";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "enjoy your st--"
+msgstr "desfrute seu--"
+
+# mes "Wait a minute...!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "Wait a minute...!"
+msgstr "Espere um minuto...!"
+
+# mes "You're...";
+#: npc/cities/jawaii.txt
+msgctxt "Employee#jaw4"
+msgid "You're..."
+msgstr "Você está..."
+
+# mes "You better not be part of";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "You better not be part of"
+msgstr "É melhor que você não faça parte de"
+
+# mes "the Invincible Single Army!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "the Invincible Single Army!"
+msgstr "o Invencível Exército Único!"
+
+# mes "Well, whatever you do, don't despair, get drunk and then";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "Well, whatever you do, don't despair, get drunk and then"
+msgstr "Bem, o que quer que você faça, não se desespere, embebede e depois"
+
+# mes "bother the married couples!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw4"
+msgid "bother the married couples!"
+msgstr "incomodar os casais casados!"
+
+# mes "I hope you will have a good time.";
+#: npc/cities/jawaii.txt
+msgctxt "Employee#jaw4"
+msgid "I hope you will have a good time."
+msgstr "Espero que vocês se divirtam."
+
+# mes "[Employee Tonia]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw5"
+msgid "[Employee Tonia]"
+msgstr "[Empregado Tonia]"
+
+# mes "Welcome to Jawaii Tavern~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw5"
+msgid "Welcome to Jawaii Tavern~"
+msgstr "Bem-vindo à Jawaii Tavern~"
+
+# mes "Congratulations to both of you!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw5"
+msgid "Congratulations to both of you!"
+msgstr "Parabéns a vocês dois!"
+
+# mes "^666666*Sigh...*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw5"
+msgid "^666666*Sigh...*^000000"
+msgstr "^666666*Sigh...*^000000"
+
+# mes "^333333I hope those Single Army morons don't get drunk and do something stupid again...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw5"
+msgid ""
+"^333333I hope those Single Army morons don't get drunk and do something "
+"stupid again..."
+msgstr ""
+"^333333 Espero que esses idiotas do Exército Único não se embebedem e façam "
+"algo estúpido novamente..."
+
+# mes "Wait a sec. You're...!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw5"
+msgid "Wait a sec. You're...!"
+msgstr "Espere um segundo. Você está...!"
+
+# mes "Hey--!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw5"
+msgid "Hey--!"
+msgstr "Ei...!"
+
+# mes "You're not welcome here!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw5"
+msgid "You're not welcome here!"
+msgstr "Você não é bem-vindo aqui!"
+
+# mes "S-Stop drinking! Right this instant!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw5"
+msgid "S-Stop drinking! Right this instant!"
+msgstr "Pare de beber! Neste exato instante!"
+
+# mes "I hope you will have a good time.";
+#: npc/cities/jawaii.txt
+msgctxt "Employee#jaw5"
+msgid "I hope you will have a good time."
+msgstr "Espero que vocês se divirtam."
+
+# mes "[Employee Kay]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw6"
+msgid "[Employee Kay]"
+msgstr "[Empregado Kay]"
+
+# mes "Welcome to Jawaii Tavern~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw6"
+msgid "Welcome to Jawaii Tavern~"
+msgstr "Bem-vindo à Jawaii Tavern~"
+
+# mes "Oh gosh...!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw6"
+msgid "Oh gosh...!"
+msgstr "Oh meu Deus...!"
+
+# mes "Lately, I've been dealing with too many drunks in this place! It's been really hard for me to take care of it all...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw6"
+msgid ""
+"Lately, I've been dealing with too many drunks in this place! It's been "
+"really hard for me to take care of it all..."
+msgstr ""
+"Ultimamente, eu tenho lidado com muitos bêbados neste lugar! Tem sido muito "
+"difícil para mim cuidar de tudo isso..."
+
+# mes "I understand that you want to relax and take a break, but please be careful and don't drink too much.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw6"
+msgid ""
+"I understand that you want to relax and take a break, but please be careful "
+"and don't drink too much."
+msgstr ""
+"Entendo que você queira relaxar e fazer uma pausa, mas por favor, tenha "
+"cuidado e não beba muito."
+
+# mes "I hope you will have a good time.";
+#: npc/cities/jawaii.txt
+msgctxt "Employee#jaw6"
+msgid "I hope you will have a good time."
+msgstr "Espero que vocês se divirtam."
+
+# mes "[Employee Amy]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "[Employee Amy]"
+msgstr "[Funcionário Amy]"
+
+# mes "Welcome to Jawaii Tavern~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "Welcome to Jawaii Tavern~"
+msgstr "Bem-vindo à Jawaii Tavern~"
+
+# mes "Oh! You and your partner look perfect for each other. Like, um,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "Oh! You and your partner look perfect for each other. Like, um,"
+msgstr "Oh! você e seu parceiro parecem perfeitos um para o outro. Como, um,"
+
+# mes "a gun and a bullet! No...?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "a gun and a bullet! No...?"
+msgstr "uma arma e uma bala! Não...?"
+
+# mes "How about...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "How about..."
+msgstr "Que tal..."
+
+# mes "Milk and cookies?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "Milk and cookies?"
+msgstr "Leite e biscoitos?"
+
+# mes "Gin and tonic?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "Gin and tonic?"
+msgstr "Gin e tônico?"
+
+# mes "Jackie Tucker";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "Jackie Tucker"
+msgstr "Jackie Tucker"
+
+# mes "and Chris Chan...?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "and Chris Chan...?"
+msgstr "e Chris Chan...?"
+
+# mes "Ummmm....";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "Ummmm...."
+msgstr "Ummmm...."
+
+# mes "Hmm, I don't think this place is for you. But, I see no problem in letting you drink and have a good time, so long as you don't";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid ""
+"Hmm, I don't think this place is for you. But, I see no problem in letting "
+"you drink and have a good time, so long as you don't"
+msgstr ""
+"Hmm, eu não acho que este lugar seja para você. Mas, não vejo problema em "
+"deixá-lo beber e se divertir, desde que você não"
+
+# mes "make a fuss.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw7"
+msgid "make a fuss."
+msgstr "fazer um alarido."
+
+# mes "I hope you will have a good time.";
+#: npc/cities/jawaii.txt
+msgctxt "Employee#jaw7"
+msgid "I hope you will have a good time."
+msgstr "Espero que vocês se divirtam."
+
+# mes "[Employee Yasmine]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw8"
+msgid "[Employee Yasmine]"
+msgstr "[Empregado Yasmine]"
+
+# mes "Welcome to Jawaii Tavern~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw8"
+msgid "Welcome to Jawaii Tavern~"
+msgstr "Bem-vindo à Jawaii Tavern~"
+
+# mes "Just like the moon and the stars, you and your partner look perfect together. I'm really happy for you!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw8"
+msgid ""
+"Just like the moon and the stars, you and your partner look perfect "
+"together. I'm really happy for you!"
+msgstr ""
+"Assim como a lua e as estrelas, você e seu parceiro parecem perfeitos "
+"juntos. Estou muito feliz por você!"
+
+# mes "You don't look like you belong here, but I hope you find your perfect match one of these days. Have fun!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Employee#jaw8"
+msgid ""
+"You don't look like you belong here, but I hope you find your perfect match "
+"one of these days. Have fun!"
+msgstr ""
+"Você não parece pertencer aqui, mas espero que um dia destes você encontre "
+"seu par perfeito. Divirta-se!"
+
+# mes "I hope you will have a good time.";
+#: npc/cities/jawaii.txt
+msgctxt "Employee#jaw8"
+msgid "I hope you will have a good time."
+msgstr "Espero que vocês se divirtam."
+
+# mes "^3355FF * Wait a minute! *";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "^3355FF * Wait a minute! *"
+msgstr "^3355FF * Espere um minuto! *"
+
+# mes "You're carrying too many items with you right now. Please store some of your things into Kafra Storage and try again.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid ""
+"You're carrying too many items with you right now. Please store some of your "
+"things into Kafra Storage and try again.^000000"
+msgstr ""
+"Você está carregando muitos itens com você neste momento. Por favor, "
+"armazene algumas de suas coisas no Kafra Storage e tente novamente.^000000"
+
+# mes "[Waitress]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "[Waitress]"
+msgstr "[Garçonete]"
+
+# mes "Hello,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Hello,"
+msgstr "Olá,"
+
+# mes "how can I help you?";
+#: npc/cities/jawaii.txt
+msgctxt "Waitress#jawaii"
+msgid "how can I help you?"
+msgstr "como posso ajudá-lo?"
+
+# switch(select("Give me food.", "Bring me drink.", "Where's the bar?")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Give me food."
+msgstr "Dê-me comida."
+
+# switch(select("Give me food.", "Bring me drink.", "Where's the bar?")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Bring me drink."
+msgstr "Traga-me uma bebida."
+
+# switch(select("Give me food.", "Bring me drink.", "Where's the bar?")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Where's the bar?"
+msgstr "Onde está o bar?"
+
+# mes "You can have";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "You can have"
+msgstr "Você pode ter"
+
+# mes "1 Meat for 1,000 zeny.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "1 Meat for 1,000 zeny."
+msgstr "1 Carne para 1.000 zeny."
+
+# mes "Would you like one?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Would you like one?"
+msgstr "Você gostaria de ter um?"
+
+# if (select("Yes.", "Wha--! It's too expensive!") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Yes."
+msgstr "Sim."
+
+# if (select("Yes.", "Wha--! It's too expensive!") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Wha--! It's too expensive!"
+msgstr "O que...! É muito caro!"
+
+# mes "There you go~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "There you go~"
+msgstr "Aí está~"
+
+# mes "Enjoy your meal~!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Enjoy your meal~!"
+msgstr "Aproveite sua refeição~!"
+
+# mes "I'm sorry but...";
+#: npc/cities/jawaii.txt
+msgctxt "Waitress#jawaii"
+msgid "I'm sorry but..."
+msgstr "Sinto muito, mas..."
+
+# mes "This isn't enough money...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "This isn't enough money..."
+msgstr "Isto não é dinheiro suficiente..."
+
+# mes "If you";
+#: npc/cities/jawaii.txt
+msgctxt "Waitress#jawaii"
+msgid "If you"
+msgstr "Se você"
+
+# mes "need anything,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "need anything,"
+msgstr "precisam de qualquer coisa,"
+
+# mes "please let me know.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "please let me know."
+msgstr "por favor, me avisem."
+
+# mes "1 Yellow Potion";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "1 Yellow Potion"
+msgstr "1 Poção Amarela"
+
+# mes "at 1,000 zeny.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "at 1,000 zeny."
+msgstr "a 1.000 zeny."
+
+# mes "I am sorry but you don't have enough money?!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "I am sorry but you don't have enough money?!"
+msgstr "Desculpe-me, mas você não tem dinheiro suficiente?!"
+
+# mes "Oh, just go toward the center";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Oh, just go toward the center"
+msgstr "Oh, basta ir em direção ao centro"
+
+# mes "of the tavern. I hope you have";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "of the tavern. I hope you have"
+msgstr "da taverna. Espero que você tenha"
+
+# mes "a good time, but be careful and";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "a good time, but be careful and"
+msgstr "um bom momento, mas tenha cuidado e"
+
+# mes "don't drink too much! Have fun!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "don't drink too much! Have fun!"
+msgstr "não beba muito! Divirta-se!"
+
+# mes "Hey, hey...!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Hey, hey...!"
+msgstr "Ei, ei...!"
+
+# mes "I have no idea";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "I have no idea"
+msgstr "Eu não tenho a menor idéia"
+
+# mes "why you're here...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "why you're here..."
+msgstr "porque você está aqui..."
+
+# mes "But we don't tolerate singles messing around with the happily married couples around here.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid ""
+"But we don't tolerate singles messing around with the happily married "
+"couples around here."
+msgstr ""
+"Mas não toleramos que os solteiros se metam com os casais casados e felizes "
+"por aqui."
+
+# mes "Just have your drink";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Just have your drink"
+msgstr "Apenas tome sua bebida"
+
+# mes "and then leave!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "and then leave!"
+msgstr "e depois partir!"
+
+# if (select("I'm a member of Single Army!!", "...I just wanted to congratulate them...") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "I'm a member of Single Army!!"
+msgstr "Sou um membro do Exército Único!!"
+
+# if (select("I'm a member of Single Army!!", "...I just wanted to congratulate them...") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "...I just wanted to congratulate them..."
+msgstr "...só queria felicitá-los..."
+
+# mes "[Employee]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "[Employee]"
+msgstr "[Empregado]"
+
+# mes "Yeah, right.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Yeah, right."
+msgstr "Sim, certo."
+
+# mes "Knock it off already.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Knock it off already."
+msgstr "Pare com isso já."
+
+# mes "Why can't you be happy";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Why can't you be happy"
+msgstr "Por que você não pode ser feliz"
+
+# mes "for other people?!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "for other people?!"
+msgstr "para outras pessoas?!"
+
+# mes "^666666*Sigh*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "^666666*Sigh*^000000"
+msgstr "^66666666*Sigh*000000"
+
+# mes "You will be welcome";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "You will be welcome"
+msgstr "Você será bem-vindo"
+
+# mes "here when you visit";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "here when you visit"
+msgstr "aqui quando você visita"
+
+# mes "with your partner, okay?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "with your partner, okay?"
+msgstr "com seu parceiro, está bem?"
+
+# mes "Huh? Did you just";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Huh? Did you just"
+msgstr "O que é isso? Você acabou de"
+
+# mes "say you wanted to";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "say you wanted to"
+msgstr "dizer que você queria"
+
+# mes "congratulate them?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "congratulate them?"
+msgstr "parabenizá-los?"
+
+# mes "Oh, you must be close";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Oh, you must be close"
+msgstr "Oh, você deve estar perto"
+
+# mes "friends with one";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "friends with one"
+msgstr "amigos com um"
+
+# mes "of the couples...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "of the couples..."
+msgstr "dos casais..."
+
+# mes "I'm sorry!";
+#: npc/cities/jawaii.txt
+msgctxt "Waitress#jawaii"
+msgid "I'm sorry!"
+msgstr "Desculpe-me!"
+
+# mes "Let me apologize";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "Let me apologize"
+msgstr "Deixe-me pedir desculpas"
+
+# mes "for my rudeness.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "for my rudeness."
+msgstr "por minha rudeza."
+
+# mes "I hope you have";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "I hope you have"
+msgstr "Espero que você tenha"
+
+# mes "a good time.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Waitress#jawaii"
+msgid "a good time."
+msgstr "um bom momento."
+
+# mes "[Bartender]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "[Bartender]"
+msgstr "[Bartender]"
+
+# mes "Welcome to the";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Welcome to the"
+msgstr "Bem-vindo(a) a"
+
+# mes "Jawaii Tavern bar.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Jawaii Tavern bar."
+msgstr "Barra da Taverna Jawaii."
+
+# mes "What would you";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "What would you"
+msgstr "O que você faria"
+
+# mes "like to drink?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "like to drink?"
+msgstr "gosta de beber?"
+
+# mes "Hm, I'm sorry";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Hm, I'm sorry"
+msgstr "Hm, me desculpe"
+
+# mes "but you do not";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "but you do not"
+msgstr "mas você não"
+
+# mes "have enough";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "have enough"
+msgstr "tem zeny suficiente"
+
+# mes "money for a drink.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "money for a drink."
+msgstr "dinheiro para uma bebida."
+
+# mes "....Hmm...";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "....Hmm..."
+msgstr "....Hmm..."
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "["
+msgstr "["
+
+# mes "Hey...!";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Hey...!"
+msgstr "Ei...!"
+
+# mes "Bartender...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Bartender..."
+msgstr "Barman..."
+
+# mes "Gimmie one more.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Gimmie one more."
+msgstr "Dê mais um."
+
+# mes "Okay...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Okay..."
+msgstr "Certo..."
+
+# mes "It's on me.";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "It's on me."
+msgstr "É por minha conta."
+
+# mes "Have a drink.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Have a drink."
+msgstr "Tomar uma bebida."
+
+# mes "Thank you.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Thank you."
+msgstr "Obrigado por atualizar para a versão mais recente."
+
+# switch(select("Follow Bartender's Recommendation.", "I want a Gunslinger.", "I want a Cobo.", "I want a Bomb.", "I want a Boogieman.")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Follow Bartender's Recommendation."
+msgstr "Siga a recomendação de Bartender."
+
+# switch(select("Follow Bartender's Recommendation.", "I want a Gunslinger.", "I want a Cobo.", "I want a Bomb.", "I want a Boogieman.")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "I want a Gunslinger."
+msgstr "Eu quero um Gunslinger."
+
+# switch(select("Follow Bartender's Recommendation.", "I want a Gunslinger.", "I want a Cobo.", "I want a Bomb.", "I want a Boogieman.")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "I want a Cobo."
+msgstr "Eu quero uma Cobo."
+
+# switch(select("Follow Bartender's Recommendation.", "I want a Gunslinger.", "I want a Cobo.", "I want a Bomb.", "I want a Boogieman.")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "I want a Bomb."
+msgstr "Eu quero uma Bomba."
+
+# switch(select("Follow Bartender's Recommendation.", "I want a Gunslinger.", "I want a Cobo.", "I want a Bomb.", "I want a Boogieman.")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "I want a Boogieman."
+msgstr "Eu quero um Boogieman."
+
+# mes "Hmmm...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Hmmm..."
+msgstr "Hmmm..."
+
+# mes "You seem to have";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "You seem to have"
+msgstr "Você parece ter"
+
+# mes "had enough to drink.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "had enough to drink."
+msgstr "bebeu o suficiente."
+
+# mes "Are you sure you'll be okay?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Are you sure you'll be okay?"
+msgstr "Você tem certeza de que vai ficar bem?"
+
+# mes "Bartender,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Bartender,"
+msgstr "Barman,"
+
+# mes "I'm so depressed";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "I'm so depressed"
+msgstr "Estou tão deprimido"
+
+# mes "because of...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "because of..."
+msgstr "por causa de..."
+
+# mes .@inputstr$+"...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "..."
+msgstr "..."
+
+# mes "There you go...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "There you go..."
+msgstr "Aí está..."
+
+# mes "Let me make";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Let me make"
+msgstr "Deixe-me fazer"
+
+# mes "a ^0000FF'Special J&Z'^000000 for you.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "a ^0000FF'Special J&Z'^000000 for you."
+msgstr "a ^0000FF'Special J&Z'^000000 para você."
+
+# mes "And this is on me.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "And this is on me."
+msgstr "E isto é por minha conta."
+
+# mes "Thank you...";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "Thank you..."
+msgstr "Obrigado..."
+
+# mes "So much...";
+#: npc/cities/jawaii.txt
+msgctxt "Bartender#jaw"
+msgid "So much..."
+msgstr "Tanto..."
+
+# mes "Hmm...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Hmm..."
+msgstr "Hmm..."
+
+# mes "How about this cocktail?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "How about this cocktail?"
+msgstr "Que tal este coquetel?"
+
+# mes "I recommend";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "I recommend"
+msgstr "Eu recomendo"
+
+# mes "a '^0000FFBarcadie 150^000000.'";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "a '^0000FFBarcadie 150^000000.'"
+msgstr "um '^0000FFBarcadie 150^000000'"
+
+# mes "It's the drink of pirates!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "It's the drink of pirates!"
+msgstr "É a bebida dos piratas!"
+
+# mes "^3355FFYou examined";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou examined"
+msgstr "^3355FFVocê examinou"
+
+# mes "the small glass";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "the small glass"
+msgstr "o pequeno copo"
+
+# mes "containing a glossy";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "containing a glossy"
+msgstr "contendo um brilho"
+
+# mes "brown liquid...^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "brown liquid...^000000"
+msgstr "líquido marrom...^000000"
+
+# mes "^3355FFAlthough the glass is tiny and only holds a small amount, the liquid inside still smells pretty dangerous...^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFAlthough the glass is tiny and only holds a small amount, the liquid "
+"inside still smells pretty dangerous...^000000"
+msgstr ""
+"^3355FFEmbora o vidro seja minúsculo e contenha apenas uma pequena "
+"quantidade, o líquido dentro dele ainda cheira muito perigoso...^000000"
+
+# mes "It's strong and flammable,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "It's strong and flammable,"
+msgstr "É forte e inflamável,"
+
+# mes "so you might feel like your";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "so you might feel like your"
+msgstr "para que você possa se sentir como seu"
+
+# mes "throat is burning.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "throat is burning."
+msgstr "a garganta está queimando."
+
+# mes "^3355FFYou gulped it down.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou gulped it down.^000000"
+msgstr "^3355FF Você engoliu-o.^000000"
+
+# mes "I recommend a '^0000FFBlack Russian Double^000000.' It will make you dream of lying in a vast Russian field...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"I recommend a '^0000FFBlack Russian Double^000000.' It will make you dream "
+"of lying in a vast Russian field..."
+msgstr ""
+"Eu recomendo um '^0000FFBLack Russian Double^000000' Fará você sonhar em "
+"deitar-se em um vasto campo russo."
+
+# mes "^3355FFYou examined the large glass holding a dark brown liquid chilled with ice cubes. There's a faint sweetness in the aroma, as well";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFYou examined the large glass holding a dark brown liquid chilled with "
+"ice cubes. There's a faint sweetness in the aroma, as well"
+msgstr ""
+"^3355FF Você examinou o vidro grande segurando um líquido marrom escuro "
+"resfriado com cubos de gelo. Há uma doçura tênue no aroma, também"
+
+# mes "a musk that reminds you of an old, mustached man.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "a musk that reminds you of an old, mustached man.^000000"
+msgstr "um almíscar que lembra um homem velho e bigode.^000000"
+
+# mes "I suggest you take your time";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "I suggest you take your time"
+msgstr "Sugiro que você tome seu tempo"
+
+# mes "drinking this since it's very strong. The Black Russian Double is rumored to be the favorite drink of the Russian mafia.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"drinking this since it's very strong. The Black Russian Double is rumored to "
+"be the favorite drink of the Russian mafia."
+msgstr ""
+"bebendo isto, uma vez que é muito forte. Dizem que o Black Russian Double é "
+"a bebida favorita da máfia russa."
+
+# mes "^3355FFYou drank it sip by sip,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou drank it sip by sip,"
+msgstr "^3355FF Você o bebeu gole por gole,"
+
+# mes "savoring its rich,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "savoring its rich,"
+msgstr "saboreando sua riqueza,"
+
+# mes "robust flavor.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "robust flavor.^000000"
+msgstr "sabor robusto.^000000"
+
+# mes "So...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "So..."
+msgstr "Então..."
+
+# mes "How about this..?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "How about this..?"
+msgstr "Que tal isto...?"
+
+# mes "Why don't you try";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Why don't you try"
+msgstr "Por que você não tenta"
+
+# mes "a '^0000FFKiss of Fire";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "a '^0000FFKiss of Fire"
+msgstr "um '^0000FFKiss of Fire"
+
+# mes "the Spinbird Kick^000000?'";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "the Spinbird Kick^000000?'"
+msgstr "o pontapé de Spinbird^000000?'"
+
+# mes "Don't be fooled by its sweet scent or beautiful red color. This is one of the strongest drinks around.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"Don't be fooled by its sweet scent or beautiful red color. This is one of "
+"the strongest drinks around."
+msgstr ""
+"Não se deixe enganar por seu cheiro doce ou por sua bela cor vermelha. Esta "
+"é uma das bebidas mais fortes que existem."
+
+# mes "^3355FFYou receive a crystal cocktail glass with a little bit of sugar sprinkled around the rim. It has";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFYou receive a crystal cocktail glass with a little bit of sugar "
+"sprinkled around the rim. It has"
+msgstr ""
+"^3355FF Você recebe um copo de coquetel de cristal com um pouco de açúcar "
+"polvilhado ao redor da borda. Ele tem"
+
+# mes "a sweet fragrance that makes your mouth water. However, you can also feel that it is a dangerously strong cocktail.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"a sweet fragrance that makes your mouth water. However, you can also feel "
+"that it is a dangerously strong cocktail."
+msgstr ""
+"uma fragrância doce que faz sua boca ficar com água. Entretanto, você também "
+"pode sentir que se trata de um coquetel perigosamente forte."
+
+# mes "Lick the sugar before taking a sip. That will make it taste a little sweeter and will soften the taste.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"Lick the sugar before taking a sip. That will make it taste a little sweeter "
+"and will soften the taste."
+msgstr ""
+"Lamber o açúcar antes de tomar um gole. Isso fará com que o sabor seja um "
+"pouco mais doce e suavizará o sabor."
+
+# mes "^3355FFYou carefully took a sip.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou carefully took a sip.^000000"
+msgstr "^3355FF Você tomou cuidadosamente um gole.^000000"
+
+# mes "I see...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "I see..."
+msgstr "Entendo."
+
+# mes "Let me think";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Let me think"
+msgstr "Deixe-me pensar"
+
+# mes "of something";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "of something"
+msgstr "com alguma coisa"
+
+# mes "you might like.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "you might like."
+msgstr "que você talvez goste."
+
+# mes "Okay, how about";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Okay, how about"
+msgstr "Certo, que tal"
+
+# mes "a '^0000FFWhite Margarita'^000000?'";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "a '^0000FFWhite Margarita'^000000?'"
+msgstr "uma '^0000FFWhite Margarita'^000000?"
+
+# mes "You will smell a sourish lemon scent which makes your mouth water. As you taste it, you will be filled with a pleasant, comforting warmth that spreads throughout your body.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"You will smell a sourish lemon scent which makes your mouth water. As you "
+"taste it, you will be filled with a pleasant, comforting warmth that spreads "
+"throughout your body."
+msgstr ""
+"Você sentirá um cheiro amargo de limão que faz sua boca ficar com água. À "
+"medida que você o prova, você será preenchido com um calor agradável e "
+"reconfortante que se espalha pelo seu corpo."
+
+# mes "^3355FFYou receive a fancy cocktail glass with salt and lemon juice sprinkled on the rim. Its sour scent does make your mouth water. How could something so appetizing be dangerous?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFYou receive a fancy cocktail glass with salt and lemon juice "
+"sprinkled on the rim. Its sour scent does make your mouth water. How could "
+"something so appetizing be dangerous?"
+msgstr ""
+"^3355FF Você recebe um copo de coquetel extravagante com sal e suco de limão "
+"aspergido na borda. Seu cheiro azedo faz com que sua boca fique com água. "
+"Como algo tão apetitoso pode ser perigoso?"
+
+# mes "It has a sweet and sour taste so it's favored by female customers";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "It has a sweet and sour taste so it's favored by female customers"
+msgstr ""
+"Tem um sabor doce e azedo, por isso é favorecido por clientes do sexo "
+"feminino"
+
+# mes "as well. I guarantee that you will enjoy its flavor.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "as well. I guarantee that you will enjoy its flavor."
+msgstr "também. Garanto que você irá desfrutar de seu sabor."
+
+# mes "^3355FFYou gulp the delicious";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou gulp the delicious"
+msgstr "^3355FF Você engolir o delicioso"
+
+# mes "Margarita down in one sip.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Margarita down in one sip.^000000"
+msgstr "Margarita em um golinho.^000000"
+
+# mes "When you want to look super cool, this will be the best drink for you. It's a strong drink with a particular scent, so people who drink Gunslingers are usually seen as having impressive of taste.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"When you want to look super cool, this will be the best drink for you. It's "
+"a strong drink with a particular scent, so people who drink Gunslingers are "
+"usually seen as having impressive of taste."
+msgstr ""
+"Quando você quiser parecer super legal, esta será a melhor bebida para você. "
+"É uma bebida forte com um cheiro particular, por isso as pessoas que bebem "
+"Gunslingers são geralmente vistas como tendo um gosto impressionante."
+
+# mes "^3355FFYou received a simple glass containing a gray liquid. Although it smells faintly sweet, it looks like industrial strength liquor. It's time to summon your courage and take a sip~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFYou received a simple glass containing a gray liquid. Although it "
+"smells faintly sweet, it looks like industrial strength liquor. It's time to "
+"summon your courage and take a sip~"
+msgstr ""
+"^3355FF Você recebeu um vidro simples contendo um líquido cinzento. Embora "
+"tenha um cheiro levemente doce, parece um licor de força industrial. É hora "
+"de invocar sua coragem e tomar um gole~"
+
+# mes "That drink is bitter and sweet, just like life. Taste it with your tongue, don't drink it all at once.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"That drink is bitter and sweet, just like life. Taste it with your tongue, "
+"don't drink it all at once."
+msgstr ""
+"Essa bebida é amarga e doce, assim como a vida. Experimente com a língua, "
+"não a beba toda de uma vez."
+
+# mes "^3355FFYou slowly drank some";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou slowly drank some"
+msgstr "^3355FF Você lentamente bebeu um pouco"
+
+# mes "of your Gunslinger drink.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "of your Gunslinger drink.^000000"
+msgstr "de sua bebida Gunslinger.^000000"
+
+# mes "Yeeehaw~!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Yeeehaw~!"
+msgstr "Yeeehaw~!"
+
+# mes "I'm a cowboy hero!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "I'm a cowboy hero!"
+msgstr "Eu sou um herói cowboy!"
+
+# mes "Bang Bang Bang!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Bang Bang Bang!"
+msgstr "Bang Bang Bang Bang!"
+
+# mes "People say that the more you drink a mixed Cobo, the tastier it will be. It grows on you, kind of like the company of an old friend. This is a nice drink to have with anyone at anytime.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"People say that the more you drink a mixed Cobo, the tastier it will be. It "
+"grows on you, kind of like the company of an old friend. This is a nice "
+"drink to have with anyone at anytime."
+msgstr ""
+"As pessoas dizem que quanto mais você beber uma Cobo mista, mais saborosa "
+"ela será. Ela cresce em você, como a companhia de um velho amigo. Esta é uma "
+"bebida agradável de se tomar com qualquer pessoa a qualquer hora."
+
+# mes "^3355FFThe Bartender brought a beautifully engraved glass holding a cobalt blue liquid and placed it in front of you. It smells pleasantly sweet and sour.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFThe Bartender brought a beautifully engraved glass holding a cobalt "
+"blue liquid and placed it in front of you. It smells pleasantly sweet and "
+"sour."
+msgstr ""
+"^3355FFO barman trouxe um vidro lindamente gravado segurando um líquido azul "
+"cobalto e o colocou na sua frente. Ele tem um cheiro agradavelmente doce e "
+"azedo."
+
+# mes "Once you taste this once, you almost can't stop drinking. It tastes so smooth and goes";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"Once you taste this once, you almost can't stop drinking. It tastes so "
+"smooth and goes"
+msgstr ""
+"Uma vez provado isto uma vez, quase não se pode parar de beber. O sabor é "
+"tão suave e vai"
+
+# mes "down even smoother.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "down even smoother."
+msgstr "para baixo ainda mais suavemente."
+
+# mes "^3355FFYou finished";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou finished"
+msgstr "^3355FFVocê terminou"
+
+# mes "your drink in 3 sips.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "your drink in 3 sips."
+msgstr "sua bebida em 3 goles."
+
+# mes "Your mouth was filled";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Your mouth was filled"
+msgstr "Sua boca estava cheia"
+
+# mes "with a luxurious, sweet and";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "with a luxurious, sweet and"
+msgstr "com um luxuoso, doce e"
+
+# mes "sour flavor.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "sour flavor.^000000"
+msgstr "sabor azedo.^000000"
+
+# mes "Aaaaaahhhhhh~!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Aaaaaahhhhhh~!"
+msgstr "Aaaaaaahhhhhh~!"
+
+# mes "This drink is really good!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "This drink is really good!"
+msgstr "Esta bebida é muito boa!"
+
+# mes "This is for one who wants to relive wild, youthful days, honor those who have fought for justice and liberty, or just to drink alcohol until they vomit stomach acid.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"This is for one who wants to relive wild, youthful days, honor those who "
+"have fought for justice and liberty, or just to drink alcohol until they "
+"vomit stomach acid."
+msgstr ""
+"Isto é para quem quer reviver dias selvagens e jovens, honrar aqueles que "
+"lutaram pela justiça e liberdade, ou apenas para beber álcool até vomitar "
+"ácido estomacal."
+
+# mes "for one who wants to remember people fighting for liberty...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "for one who wants to remember people fighting for liberty..."
+msgstr "para quem quer lembrar as pessoas que lutam pela liberdade."
+
+# mes "^3355FFYou receive a tumbler filled with brown liquid. It a has a very thick, machine like smell. It kind of reminds you of gunpowder.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFYou receive a tumbler filled with brown liquid. It a has a very "
+"thick, machine like smell. It kind of reminds you of gunpowder.^000000"
+msgstr ""
+"^3355FF Você recebe um copo cheio de líquido marrom. Ele tem um cheiro de "
+"máquina muito espesso. Lembra-lhe a pólvora.^000000"
+
+# mes "It might look too big to drink at once, but I suggest that you finish it in one gulp. If you drink it slowly, you'll pass out.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"It might look too big to drink at once, but I suggest that you finish it in "
+"one gulp. If you drink it slowly, you'll pass out."
+msgstr ""
+"Pode parecer grande demais para beber de uma só vez, mas sugiro que você o "
+"termine de uma só vez. Se você beber devagar, vai desmaiar."
+
+# mes "^3355FFYou firmly grabbed";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou firmly grabbed"
+msgstr "^3355FFVocê agarrou firmemente"
+
+# mes "the tumbler and";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "the tumbler and"
+msgstr "o tambor e"
+
+# mes "gulped it down.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "gulped it down.^000000"
+msgstr "engoliu-o.^000000"
+
+# mes "^3355FFYou feel pretty hammered.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou feel pretty hammered.^000000"
+msgstr "^3355FF Você se sente muito martelado.^000000"
+
+# mes "There are not many people who like this drink. But the ones that do like this drink, love it.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"There are not many people who like this drink. But the ones that do like "
+"this drink, love it."
+msgstr ""
+"Não há muitas pessoas que gostam desta bebida. Mas as que gostam desta "
+"bebida, adoram-na."
+
+# mes "Although it has a beautiful, appetizing color, its appearance can be misleading. Most people feel cold and empty after having some";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"Although it has a beautiful, appetizing color, its appearance can be "
+"misleading. Most people feel cold and empty after having some"
+msgstr ""
+"Embora tenha uma cor bonita e apetitosa, sua aparência pode ser enganosa. A "
+"maioria das pessoas se sente fria e vazia depois de ter algum"
+
+# mes "of this.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "of this."
+msgstr "disto."
+
+# mes "^3355FFYou receive a crooked glass";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou receive a crooked glass"
+msgstr "^3355FF Você recebe um copo torto"
+
+# mes "filled with purple fluid. Although it smells pleasnt, you have a strange feeling of disgust as you draw it closer to your face.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"filled with purple fluid. Although it smells pleasnt, you have a strange "
+"feeling of disgust as you draw it closer to your face."
+msgstr ""
+"cheio de líquido púrpura. Embora tenha um cheiro agradável, você tem uma "
+"estranha sensação de nojo ao aproximá-lo de seu rosto."
+
+# mes "If you don't want to drink it, tell me now. But it might be good to try it once, just to experience it.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"If you don't want to drink it, tell me now. But it might be good to try it "
+"once, just to experience it."
+msgstr ""
+"Se você não quiser beber, me diga agora. Mas talvez seja bom experimentá-lo "
+"uma vez, apenas para experimentá-lo."
+
+# mes "^3355FFYou took a sip of it and sighed.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "^3355FFYou took a sip of it and sighed.^000000"
+msgstr "^3355FF Você tomou um gole dele e suspirou.^000000"
+
+# mes "^3355FFAnd promised yourself that you would never drink it ever again.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid ""
+"^3355FFAnd promised yourself that you would never drink it ever again.^000000"
+msgstr "^3355FF E prometeu a si mesmo que nunca mais o beberia.^000000"
+
+# mes "Master...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Master..."
+msgstr "Mestre..."
+
+# mes "One more please...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "One more please..."
+msgstr "Mais um, por favor..."
+
+# mes "Mr. Bartender...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "Mr. Bartender..."
+msgstr "Sr. Bartender..."
+
+# mes "There you go.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Bartender#jaw"
+msgid "There you go."
+msgstr "Aí está."
+
+# mes "[Buchi]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "[Buchi]"
+msgstr "[Buchi]"
+
+# mes "Grrrr...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "Grrrr..."
+msgstr "Grrrr..."
+
+# mes "Damn! I don't";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "Damn! I don't"
+msgstr "Maldição! Eu não"
+
+# mes "like this place!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "like this place!"
+msgstr "como este lugar!"
+
+# mes "I don't like this at all!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "I don't like this at all!"
+msgstr "Eu não gosto nada disso!"
+
+# mes "I can't believe my eyes! Everyone else looks disgustingly happy! It makes me feel so miserable!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid ""
+"I can't believe my eyes! Everyone else looks disgustingly happy! It makes me "
+"feel so miserable!"
+msgstr ""
+"Eu não posso acreditar nos meus olhos! Todos os outros parecem nojentamente "
+"felizes! Isso me faz sentir tão miserável!"
+
+# mes "You agree, don't you?!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "You agree, don't you?!"
+msgstr "Você concorda, não é mesmo?!"
+
+# mes "Bartender!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "Bartender!"
+msgstr "Bartender!"
+
+# mes "Give me one more!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "Give me one more!"
+msgstr "Dê-me mais um!"
+
+# mes "Hey, why aren't you drinking?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "Hey, why aren't you drinking?"
+msgstr "Ei, por que você não está bebendo?"
+
+# mes "I guess you're all out of dough.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "I guess you're all out of dough."
+msgstr "Acho que não há mais massa."
+
+# mes "But I know how you feel. Disgusted with all the lovey dovey around this place, aren't you?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid ""
+"But I know how you feel. Disgusted with all the lovey dovey around this "
+"place, aren't you?"
+msgstr ""
+"Mas eu sei como você se sente. Está enojado com todo o amor que existe por "
+"aqui, não está?"
+
+# mes "Heh.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "Heh."
+msgstr "Heh."
+
+# mes "Lemme buy";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "Lemme buy"
+msgstr "Lemme comprar"
+
+# mes "you a drink!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "you a drink!"
+msgstr "você uma bebida!"
+
+# mes "Drink this at once, and forget about your miserable life! Cheer up, you got the whole future ahead of you and a drink in front of you! Come on, now~!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid ""
+"Drink this at once, and forget about your miserable life! Cheer up, you got "
+"the whole future ahead of you and a drink in front of you! Come on, now~!"
+msgstr ""
+"Beba isso imediatamente e esqueça sua vida miserável! Anime-se, você tem "
+"todo o futuro à sua frente e uma bebida à sua frente! Vamos lá, agora~!"
+
+# mes "^3355FFHe ordered a JJ special for me.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "^3355FFHe ordered a JJ special for me.^000000"
+msgstr "^3355FFEle pediu um JJ especial para mim.^000000"
+
+# mes "["+ strcharinfo(PC_NAME) +"]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "["
+msgstr "["
+
+# mes "Damn...!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "Damn...!"
+msgstr "Maldição...!"
+
+# mes "Damn! I will be";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "Damn! I will be"
+msgstr "Maldição! Eu vou ser"
+
+# mes "the one who laughs last!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "the one who laughs last!"
+msgstr "aquele que ri por último!"
+
+# mes "^3355FFYou drank to your fill.^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "^3355FFYou drank to your fill.^000000"
+msgstr "^3355FF Você bebeu até encher.^000000"
+
+# mes "You look happy...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "You look happy..."
+msgstr "Você parece feliz..."
+
+# mes "I hope you'll be";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "I hope you'll be"
+msgstr "Espero que você seja"
+
+# mes "able to feel that";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "able to feel that"
+msgstr "capaz de sentir que"
+
+# mes "way forever...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "way forever..."
+msgstr "caminho para sempre..."
+
+# mes " ";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid " "
+msgstr " "
+
+# mes "^666666*Hiccup...!*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#jaw_1"
+msgid "^666666*Hiccup...!*^000000"
+msgstr "^666666*Hiccup...!*^000000"
+
+# mes "[Cage]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "[Cage]"
+msgstr "[Cage]"
+
+# mes "....Bah!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "....Bah!"
+msgstr "....Bah!"
+
+# mes "What are you so happy about?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "What are you so happy about?"
+msgstr "Com o que você está tão feliz?"
+
+# mes "After all, everyone knows marriage is a sham for desperate, lonely people!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid ""
+"After all, everyone knows marriage is a sham for desperate, lonely people!"
+msgstr ""
+"Afinal, todos sabem que o casamento é uma farsa para pessoas desesperadas e "
+"solitárias!"
+
+# mes "I don't trust anybody!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "I don't trust anybody!"
+msgstr "Eu não confio em ninguém!"
+
+# mes "You're a fool for chaining";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "You're a fool for chaining"
+msgstr "Você é um tolo por encadear"
+
+# mes "yourself to some gorgeous";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "yourself to some gorgeous"
+msgstr "você mesmo a algum lindo"
+
+# mes "woman for life!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "woman for life!"
+msgstr "mulher pela vida!"
+
+# mes "You hear me?!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "You hear me?!"
+msgstr "Você está me ouvindo?!"
+
+# mes "A FOOL!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "A FOOL!"
+msgstr "UM FOOL!"
+
+# mes "Look at you!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "Look at you!"
+msgstr "Olhe para você!"
+
+# mes "You're a fool for";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "You're a fool for"
+msgstr "Você é um idiota por"
+
+# mes "chaining yourself to";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "chaining yourself to"
+msgstr "se acorrentar a"
+
+# mes "some pretty boy for life!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "some pretty boy for life!"
+msgstr "um garoto bonito para a vida!"
+
+# mes "You hear me?! A FOOL!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "You hear me?! A FOOL!"
+msgstr "Você está me ouvindo?! UM FOOL!"
+
+# mes "The single life is";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "The single life is"
+msgstr "A única vida é"
+
+# mes "what it's all about!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "what it's all about!"
+msgstr "do que se trata!"
+
+# mes "Women may break my";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "Women may break my"
+msgstr "As mulheres podem quebrar meu"
+
+# mes "spirit, but they'll never take...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "spirit, but they'll never take..."
+msgstr "espírito, mas eles nunca levarão..."
+
+# mes "MY FREEDOM!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "MY FREEDOM!"
+msgstr "A MINHA LIBERDADE!"
+
+# mes "Drink, drink...!!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "Drink, drink...!!"
+msgstr "Beba, beba...!!"
+
+# mes "Eat, eat...!!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "Eat, eat...!!"
+msgstr "Coma, coma...!!"
+
+# mes "Join me,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "Join me,"
+msgstr "Junte-se a mim,"
+
+# mes "my brother";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "my brother"
+msgstr "meu irmão"
+
+# mes "in singlehood!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "in singlehood!"
+msgstr "em unicidade!"
+
+# mes "We are free...!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "We are free...!"
+msgstr "Estamos livres...!"
+
+# mes "We are free from";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "We are free from"
+msgstr "Estamos livres de"
+
+# mes "the hell of marriage...!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "the hell of marriage...!"
+msgstr "o inferno do casamento...!"
+
+# mes "We are the sincere and";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "We are the sincere and"
+msgstr "Nós somos os sinceros e"
+
+# mes "competent singles...!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Cage"
+msgid "competent singles...!"
+msgstr "solteiros competentes...!"
+
+# mes "[SoloHan]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "[SoloHan]"
+msgstr "[SoloHan]"
+
+# mes "Oh man...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Oh man..."
+msgstr "Oh cara…"
+
+# mes "I think I'm drunk~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "I think I'm drunk~"
+msgstr "Acho que estou bêbado~"
+
+# mes "^666666*Hiccup...!*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "^666666*Hiccup...!*^000000"
+msgstr "^666666*Hiccup...!*^000000"
+
+# mes "Hey, you...!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Hey, you...!"
+msgstr "Ei, você...!"
+
+# mes "You understand, don't you?!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "You understand, don't you?!"
+msgstr "Você entende, não é mesmo?!"
+
+# mes "Aren't you upset looking at all these happily married couples?!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Aren't you upset looking at all these happily married couples?!"
+msgstr "Você não está chateado com todos esses casais casados e felizes?!"
+
+# mes "Yeah~? Me too!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Yeah~? Me too!"
+msgstr "Sim.. Eu também!"
+
+# mes "How dare they show off their happiness in front of people like us--!! ^666666*Sniff*^000000 Just because they found everlasting love, they think they're better than we are?!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid ""
+"How dare they show off their happiness in front of people like us--!! "
+"^666666*Sniff*^000000 Just because they found everlasting love, they think "
+"they're better than we are?!"
+msgstr ""
+"Como eles ousam mostrar sua felicidade diante de pessoas como nós...! "
+"^66666666*Sniff*^000000 Só porque eles encontraram o amor eterno, eles "
+"pensam que são melhores do que nós?!"
+
+# mes "I remember when couples were polite and were lovey dovey behind closed doors. Nowadays they hold hands, and even cuddle in public. I mean, come on! Get a room!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid ""
+"I remember when couples were polite and were lovey dovey behind closed "
+"doors. Nowadays they hold hands, and even cuddle in public. I mean, come on! "
+"Get a room!"
+msgstr ""
+"Lembro-me de quando os casais eram educados e se apaixonavam à porta "
+"fechada. Hoje em dia, eles dão as mãos, e até se abraçam em público. Digo, "
+"vamos lá! Arranje um quarto!"
+
+# mes "I mean, ^666666*Sniff*^000000, it's not like,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "I mean, ^666666*Sniff*^000000, it's not like,"
+msgstr "Quer dizer, ^66666666*Sniff*^000000, não é como,"
+
+# mes "I'm lonely or anything. I don't neeeeeeeed a woman~!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "I'm lonely or anything. I don't neeeeeeeed a woman~!"
+msgstr "Sinto-me só ou qualquer coisa. Eu não sei o que é uma mulher~!"
+
+# mes "Right, Bachewcca!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Right, Bachewcca!"
+msgstr "Certo, Bachewcca!"
+
+# mes "[Bachewcca]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "[Bachewcca]"
+msgstr "[Bachewcca]"
+
+# mes "...!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "...!"
+msgstr "...!"
+
+# mes "It's doesn't really matter whether you're married";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "It's doesn't really matter whether you're married"
+msgstr "Não importa realmente se você é casado"
+
+# mes "or not, right buddy? Right?!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "or not, right buddy? Right?!"
+msgstr "ou não, certo amigo? Certo?!"
+
+# mes "Come on! Drink with me!!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Come on! Drink with me!!"
+msgstr "Vamos lá! Beba comigo!!"
+
+# mes "^3355FFSuddenly he treated me as a close friend. It's a little embarassing, but it's not a bad idea to accept";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid ""
+"^3355FFSuddenly he treated me as a close friend. It's a little embarassing, "
+"but it's not a bad idea to accept"
+msgstr ""
+"^3355FFSuddenly ele me tratou como um amigo íntimo. É um pouco embaraçoso, "
+"mas não é uma má idéia aceitar"
+
+# mes "a free drink...^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "a free drink...^000000"
+msgstr "uma bebida grátis...^000000"
+
+# mes "^3355FF* Gulp Gulp Gulp *^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "^3355FF* Gulp Gulp Gulp *^000000"
+msgstr "^3355FF* Gulp Gulp Gulp Gulp Gulp *^000000"
+
+# mes "So, what do you say?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "So, what do you say?"
+msgstr "Então, o que você diz?"
+
+# mes "Let's go somewhere";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Let's go somewhere"
+msgstr "Vamos a algum lugar"
+
+# mes "with some real liquor.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "with some real liquor."
+msgstr "com um licor de verdade."
+
+# if (select("...One more drink.", "...What kind of place is it?") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "...One more drink."
+msgstr "...Mais uma bebida."
+
+# if (select("...One more drink.", "...What kind of place is it?") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "...What kind of place is it?"
+msgstr "...Que tipo de lugar é esse?"
+
+# mes "Yeah~!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Yeah~!"
+msgstr "Sim!"
+
+# mes "That's the spirit!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "That's the spirit!"
+msgstr "Esse é o espírito!"
+
+# mes "Hey, Bachewcca...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Hey, Bachewcca..."
+msgstr "Ei, Bachewcca..."
+
+# mes "Let's drink!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Let's drink!"
+msgstr "Vamos beber!"
+
+# mes "^666666*Grunt!*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "^666666*Grunt!*^000000"
+msgstr "^666666*Grunt!*^000000"
+
+# mes "To...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "To..."
+msgstr "Até..."
+
+# mes "To being single!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "To being single!"
+msgstr "Ser solteiro!"
+
+# mes "F-Forever!!!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "F-Forever!!!"
+msgstr "F-Forever!!!"
+
+# mes "Whoa...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Whoa..."
+msgstr "Whoa..."
+
+# mes "You alright?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "You alright?"
+msgstr "Você está bem?"
+
+# mes "You seem kind of drunk...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "You seem kind of drunk..."
+msgstr "Você parece meio bêbado..."
+
+# mes "I guess now's the perfect time to have you sign this! Don't worry, I'll send you straight to paradise!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid ""
+"I guess now's the perfect time to have you sign this! Don't worry, I'll send "
+"you straight to paradise!"
+msgstr ""
+"Acho que agora é o momento perfeito para que você assine isto! Não se "
+"preocupe, eu o mandarei direto para o paraíso!"
+
+# if (select("Sign", "Refuse to Sign") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Sign"
+msgstr "Sinal"
+
+# if (select("Sign", "Refuse to Sign") == 1) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Refuse to Sign"
+msgstr "Recusar-se a assinar"
+
+# mes "Alright!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Alright!"
+msgstr "Muito bem!"
+
+# mes "Take care!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Take care!"
+msgstr "Cuide-se!"
+
+# mes "Hahaha!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Hahaha!"
+msgstr "Hahaha!"
+
+# mes "Oh...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Oh..."
+msgstr "Oh..."
+
+# mes "Man.";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Man."
+msgstr "Homem."
+
+# mes "So, you spoil parties";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "So, you spoil parties"
+msgstr "Então, você estraga festas"
+
+# mes "like this all the time, eh?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "like this all the time, eh?"
+msgstr "assim o tempo todo, eh?"
+
+# mes "^666666*Hiccup!*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "^666666*Hiccup!*^000000"
+msgstr "^666666*Hiccup!*^000000"
+
+# mes "So you feel like having some";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "So you feel like having some"
+msgstr "Então você tem vontade de ter alguns"
+
+# mes "real fun? Okay, then just sign over here. Count on me, I'll send you to paradise.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid ""
+"real fun? Okay, then just sign over here. Count on me, I'll send you to "
+"paradise."
+msgstr ""
+"divertido de verdade? Ok, então é só assinar aqui. Conte comigo, eu o "
+"mandarei para o paraíso."
+
+# mes "Alright~!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Alright~!"
+msgstr "Muito bem~!"
+
+# mes "Take care and have fun!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Take care and have fun!"
+msgstr "Cuide-se e divirta-se!"
+
+# mes "Harass some couples over there for me, will you?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Harass some couples over there for me, will you?"
+msgstr "Assediar alguns casais ali para mim, você vai?"
+
+# mes "No wonder you're single. You can't even recognize a good time when it's right in front of you.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid ""
+"No wonder you're single. You can't even recognize a good time when it's "
+"right in front of you."
+msgstr ""
+"Não é de se admirar que você seja solteiro. Você nem consegue reconhecer um "
+"bom momento quando ele está bem na sua frente."
+
+# mes "Drink, drink!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Drink, drink!"
+msgstr "Beba, beba!"
+
+# mes "That's not enough!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "That's not enough!"
+msgstr "Isso não é suficiente!"
+
+# mes "Drink more, buddy!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Drink more, buddy!"
+msgstr "Beba mais, amigo!"
+
+# mes "FOR EVER.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "FOR EVER."
+msgstr "PARA TODOS."
+
+# mes "^3355FF*Gulp Gulp Gulp*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "^3355FF*Gulp Gulp Gulp*^000000"
+msgstr "^3355FF*Gulp Gulp Gulp Gulp Gulp*^000000"
+
+# mes "*Hiccup!*";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "*Hiccup!*"
+msgstr "*Hiccup!*"
+
+# mes "...Wha!?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "...Wha!?"
+msgstr "...O quê!?"
+
+# mes "Oh man!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "Oh man!"
+msgstr "Oh cara!"
+
+# mes "Get outta my face!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Get outta my face!"
+msgstr "Saia da minha frente!"
+
+# mes "You smell like,";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "You smell like,"
+msgstr "Você cheira a,"
+
+# mes "whupped boyfriend";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "whupped boyfriend"
+msgstr "namorado espancado"
+
+# mes "or something!";
+#: npc/cities/jawaii.txt
+msgctxt "Customer#SoloHan"
+msgid "or something!"
+msgstr "ou algo assim!"
+
+# mes "I think I know a naggy wife";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "I think I know a naggy wife"
+msgstr "Acho que conheço uma esposa irritadiça"
+
+# mes "when I see one! Go boss your";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "when I see one! Go boss your"
+msgstr "quando eu vejo um! Vá mandar no seu"
+
+# mes "hubby around or something!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "hubby around or something!"
+msgstr "marido ou algo assim!"
+
+# mes "Leave me alone!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "Leave me alone!"
+msgstr "Deixe-me em paz!"
+
+# mes "I don't want any of your marital bliss to rub off on me. Come on, Bachewcca! Tell 'em their kind ain't welcome here!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid ""
+"I don't want any of your marital bliss to rub off on me. Come on, Bachewcca! "
+"Tell 'em their kind ain't welcome here!"
+msgstr ""
+"Eu não quero que nenhuma de suas bênçãos conjugais se esfregue em mim. Vamos "
+"lá, Bachewcca! Diga-lhes que a espécie deles não é bem-vinda aqui!"
+
+# mes "^666666*Grrr...!*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "^666666*Grrr...!*^000000"
+msgstr "^666666*Grrr...!*^000000"
+
+# mes "What is that...?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid "What is that...?"
+msgstr "O que é isso...?"
+
+# mes "Is this the third time this week I've gotten plastered? Bachewcca, help me count!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#SoloHan"
+msgid ""
+"Is this the third time this week I've gotten plastered? Bachewcca, help me "
+"count!"
+msgstr ""
+"É a terceira vez esta semana que sou rebocado? Bachewcca, me ajude a contar!"
+
+# mes "[Bachewcca]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Bachewcca"
+msgid "[Bachewcca]"
+msgstr "[Bachewcca]"
+
+# mes "..............";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Bachewcca"
+msgid ".............."
+msgstr ".............."
+
+# mes "^666666*Gulp....gulp...*^000000";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Bachewcca"
+msgid "^666666*Gulp....gulp...*^000000"
+msgstr "^666666*Gulp....gulp...*^000000"
+
+# mes "Grrrrr!! That hit the spot!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "Customer#Bachewcca"
+msgid "Grrrrr!! That hit the spot!"
+msgstr "Grrrrr!! Isso chegou ao ponto!"
+
+# mes "[Helper]";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "[Helper]"
+msgstr "[Ajudante]"
+
+# mes "Newlyweds and";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Newlyweds and"
+msgstr "Recém-casados e"
+
+# mes "long time couples...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "long time couples..."
+msgstr "casais de longa data..."
+
+# mes "We invite you to Jawaii,";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "We invite you to Jawaii,"
+msgstr "Nós o convidamos a ir a Jawaii,"
+
+# mes "the honeymoon resort!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "the honeymoon resort!"
+msgstr "o resort de lua-de-mel!"
+
+# switch(select("Jawaii?", "Let's go to Jawaii~!", "Cancel.")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Jawaii?"
+msgstr "Jawaii?"
+
+# switch(select("Jawaii?", "Let's go to Jawaii~!", "Cancel.")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Let's go to Jawaii~!"
+msgstr "Vamos para Jawaii~!"
+
+# switch(select("Jawaii?", "Let's go to Jawaii~!", "Cancel.")) {
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "There is an island far, far away from the Rune-Midgard continent.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "There is an island far, far away from the Rune-Midgard continent."
+msgstr "Há uma ilha distante, muito longe do continente Rune-Midgard."
+
+# mes "It is a very quiet and beautiful island resort that only opens";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "It is a very quiet and beautiful island resort that only opens"
+msgstr "É um resort insular muito tranqüilo e bonito que só abre"
+
+# mes "its doors to couples.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "its doors to couples."
+msgstr "suas portas para casais."
+
+# mes "This is an exclusive travel offer to the special honeymoon resort for Rune-Midgard's citizens. The price, 100,000 zeny, may be expensive, but you really get what you pay for.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid ""
+"This is an exclusive travel offer to the special honeymoon resort for Rune-"
+"Midgard's citizens. The price, 100,000 zeny, may be expensive, but you "
+"really get what you pay for."
+msgstr ""
+"Esta é uma oferta de viagem exclusiva para o resort especial de lua-de-mel "
+"para os cidadãos de Rune-Midgard. O preço, 100.000 zeny, pode ser caro, mas "
+"você realmente recebe pelo que paga."
+
+# mes "I guarantee you that some of";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "I guarantee you that some of"
+msgstr "Garanto-lhe que alguns dos"
+
+# mes "the happiest moments you can";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "the happiest moments you can"
+msgstr "os momentos mais felizes que você pode"
+
+# mes "experience in your marriage will be on this island. Can you really put a price on that?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid ""
+"experience in your marriage will be on this island. Can you really put a "
+"price on that?"
+msgstr ""
+"experiência em seu casamento será nesta ilha. Você pode realmente colocar um "
+"preço nisso?"
+
+# mes "Errm...";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Errm..."
+msgstr "Errm..."
+
+# mes "Unfortunately, singles are not allowed on the island. Why don't you go forget your loneliness in the Prontera pub?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid ""
+"Unfortunately, singles are not allowed on the island. Why don't you go "
+"forget your loneliness in the Prontera pub?"
+msgstr ""
+"Infelizmente, os solteiros não são permitidos na ilha. Por que você não vai "
+"esquecer sua solidão no pub Prontera?"
+
+# mes "Bon Voyage...!!";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Bon Voyage...!!"
+msgstr "Bon Voyage...!!"
+
+# mes "Let me guide";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "Let me guide"
+msgstr "Deixe-me guiar"
+
+# mes "you to 'Jawaii!'";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "you to 'Jawaii!'"
+msgstr "você para 'Jawaii!"
+
+# mes "As I explained, you must have 100,000 zeny in order to visit Jawaii. Why don't you ask your partner for help in gathering the zeny for this trip?";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid ""
+"As I explained, you must have 100,000 zeny in order to visit Jawaii. Why "
+"don't you ask your partner for help in gathering the zeny for this trip?"
+msgstr ""
+"Como expliquei, você deve ter 100.000 zeny para poder visitar Jawaii. Por "
+"que você não pede ajuda a seu parceiro para reunir o zeny para esta viagem?"
+
+# mes "There's there no better way to share special, secluded moments with your beloved than through";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid ""
+"There's there no better way to share special, secluded moments with your "
+"beloved than through"
+msgstr ""
+"Não há melhor maneira de compartilhar momentos especiais e isolados com sua "
+"amada do que através"
+
+# mes "a secret trip to a remote, exotic area.";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid "a secret trip to a remote, exotic area."
+msgstr "uma viagem secreta a uma área remota e exótica."
+
+# mes "A vacation in Jawaii could very well be the greatest gift that you could give to the one you love~";
+#: npc/cities/jawaii.txt
+#, fuzzy
+msgctxt "::Honeymoon_Helper_Izlude"
+msgid ""
+"A vacation in Jawaii could very well be the greatest gift that you could "
+"give to the one you love~"
+msgstr ""
+"Uma férias em Jawaii poderia muito bem ser o maior presente que você poderia "
+"dar àquele que você ama~"

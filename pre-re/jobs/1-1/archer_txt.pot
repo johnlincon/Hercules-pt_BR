@@ -1,0 +1,494 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "[Archer Guildsman]";
+msgctxt "Archer Guildsman#archer"
+msgid "[Archer Guildsman]"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Hey, I know you.";
+msgctxt "Archer Guildsman#archer"
+msgid "Hey, I know you."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "You took this test";
+msgctxt "Archer Guildsman#archer"
+msgid "You took this test"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "before, didn't you?";
+msgctxt "Archer Guildsman#archer"
+msgid "before, didn't you?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Ah, you must have been";
+msgctxt "Archer Guildsman#archer"
+msgid "Ah, you must have been"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "to Valhalla and been reborn.";
+msgctxt "Archer Guildsman#archer"
+msgid "to Valhalla and been reborn."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Wow, that's so impressive!";
+msgctxt "Archer Guildsman#archer"
+msgid "Wow, that's so impressive!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Err...";
+msgctxt "Archer Guildsman#archer"
+msgid "Err..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "You'd better learn all the Basic Skills first before you can become an Archer.";
+msgctxt "Archer Guildsman#archer"
+msgid "You'd better learn all the Basic Skills first before you can become an Archer."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Alright, see you later.";
+msgctxt "Archer Guildsman#archer"
+msgid "Alright, see you later."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Well then. I don't";
+msgctxt "Archer Guildsman#archer"
+msgid "Well then. I don't"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "need to say anything else.";
+msgctxt "Archer Guildsman#archer"
+msgid "need to say anything else."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "I know you'll make a great Archer...";
+msgctxt "Archer Guildsman#archer"
+msgid "I know you'll make a great Archer..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Although there's no special";
+msgctxt "Archer Guildsman#archer"
+msgid "Although there's no special"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "reward for you this time, I hope you understand. Take care of yourself.";
+msgctxt "Archer Guildsman#archer"
+msgid "reward for you this time, I hope you understand. Take care of yourself."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Oh...?";
+msgctxt "Archer Guildsman#archer"
+msgid "Oh...?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Hey, what are";
+msgctxt "Archer Guildsman#archer"
+msgid "Hey, what are"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "you doing here...?";
+msgctxt "Archer Guildsman#archer"
+msgid "you doing here...?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "I can tell that you're not cut out to be an Archer. It sort of feels like you're meant to do";
+msgctxt "Archer Guildsman#archer"
+msgid "I can tell that you're not cut out to be an Archer. It sort of feels like you're meant to do"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "something else...";
+msgctxt "Archer Guildsman#archer"
+msgid "something else..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Good day. How may I help you?";
+msgctxt "Archer Guildsman#archer"
+msgid "Good day. How may I help you?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# switch(select("I want to be an Archer.", "I need the requirements, please.", "Nothing, thanks.")) {
+msgctxt "Archer Guildsman#archer"
+msgid "I want to be an Archer."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# switch(select("I want to be an Archer.", "I need the requirements, please.", "Nothing, thanks.")) {
+msgctxt "Archer Guildsman#archer"
+msgid "I need the requirements, please."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# switch(select("I want to be an Archer.", "I need the requirements, please.", "Nothing, thanks.")) {
+msgctxt "Archer Guildsman#archer"
+msgid "Nothing, thanks."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "You've already become an Archer...";
+msgctxt "Archer Guildsman#archer"
+msgid "You've already become an Archer..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Hmm...";
+msgctxt "Archer Guildsman#archer"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "You don't look much like a Novice at all...";
+msgctxt "Archer Guildsman#archer"
+msgid "You don't look much like a Novice at all..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Anyway, whatever you are, you can't choose a job as an Archer because you have a job already.";
+msgctxt "Archer Guildsman#archer"
+msgid "Anyway, whatever you are, you can't choose a job as an Archer because you have a job already."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Do you want to be an Archer?";
+msgctxt "Archer Guildsman#archer"
+msgid "Do you want to be an Archer?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "If so, you need to fill out this application form.";
+msgctxt "Archer Guildsman#archer"
+msgid "If so, you need to fill out this application form."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# if (select("Apply.", "Cancel") == 1) {
+msgctxt "Archer Guildsman#archer"
+msgid "Apply."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# if (select("Apply.", "Cancel") == 1) {
+msgctxt "Archer Guildsman#archer"
+msgid "Cancel"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Okay, sign here. Alright, um, I'll promote you once you meet the requirements.";
+msgctxt "Archer Guildsman#archer"
+msgid "Okay, sign here. Alright, um, I'll promote you once you meet the requirements."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "If you think you've met them already, we can check that now.";
+msgctxt "Archer Guildsman#archer"
+msgid "If you think you've met them already, we can check that now."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Are you ready?";
+msgctxt "Archer Guildsman#archer"
+msgid "Are you ready?"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# if (select("Yes, I am.", "No, not yet.") == 1) {
+msgctxt "Archer Guildsman#archer"
+msgid "Yes, I am."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# if (select("Yes, I am.", "No, not yet.") == 1) {
+msgctxt "Archer Guildsman#archer"
+msgid "No, not yet."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Alright, let me check.";
+msgctxt "Archer Guildsman#archer"
+msgid "Alright, let me check."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "I understand. Be my guest if you want to look at the requirements.";
+msgctxt "Archer Guildsman#archer"
+msgid "I understand. Be my guest if you want to look at the requirements."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Well, alright.";
+msgctxt "Archer Guildsman#archer"
+msgid "Well, alright."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "See you next time.";
+msgctxt "Archer Guildsman#archer"
+msgid "See you next time."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Are you..." + strcharinfo(PC_NAME) + "?";
+msgctxt "Archer Guildsman#archer"
+msgid "Are you..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Well, you're not at the right job level. Please check the requirements again.";
+msgctxt "Archer Guildsman#archer"
+msgid "Well, you're not at the right job level. Please check the requirements again."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Your job level must be at least 10, and don't forget you should learn all of the Basic Skills. Once you've done that, come back.";
+msgctxt "Archer Guildsman#archer"
+msgid "Your job level must be at least 10, and don't forget you should learn all of the Basic Skills. Once you've done that, come back."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Excellent!";
+msgctxt "Archer Guildsman#archer"
+msgid "Excellent!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Now then,";
+msgctxt "Archer Guildsman#archer"
+msgid "Now then,"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "let's see...";
+msgctxt "Archer Guildsman#archer"
+msgid "let's see..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "I will appraise the value of the various types of Trunks, needed to produce a Bow, that you've brought.";
+msgctxt "Archer Guildsman#archer"
+msgid "I will appraise the value of the various types of Trunks, needed to produce a Bow, that you've brought."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Um...";
+msgctxt "Archer Guildsman#archer"
+msgid "Um..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Unfortunately you didn't bring any of the required items. There's nothing for me to appraise.";
+msgctxt "Archer Guildsman#archer"
+msgid "Unfortunately you didn't bring any of the required items. There's nothing for me to appraise."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# if (countitem(Tree_Of_Archer_1) != 0) mes " Grade S : " + countitem(Tree_Of_Archer_1) + " ea, Grade: " + .@archer_item1 + " . ";
+msgctxt "Archer Guildsman#archer"
+msgid " Grade S : "
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# if (countitem(Tree_Of_Archer_2) != 0) mes " Grade A : " + countitem(Tree_Of_Archer_2) + " ea, Grade : " + .@archer_item2 + " . ";
+msgctxt "Archer Guildsman#archer"
+msgid " Grade A : "
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# if (countitem(Tree_Of_Archer_3) != 0) mes " Grade B : " + countitem(Tree_Of_Archer_3) + " ea, Grade : " + .@archer_item3 + " . ";
+msgctxt "Archer Guildsman#archer"
+msgid " Grade B : "
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# if (countitem(Wooden_Block) != 0) mes " Grade C : " + countitem(Wooden_Block) + " ea, Grade : " + .@archer_item4 + " . ";
+msgctxt "Archer Guildsman#archer"
+msgid " Grade C : "
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Total Grades: ^FF0000" + .@total_archer + "^000000 / 40";
+msgctxt "Archer Guildsman#archer"
+msgid "Total Grades: ^FF0000"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Total Grades: ^FF0000" + .@total_archer + "^000000 / 40";
+msgctxt "Archer Guildsman#archer"
+msgid "^000000 / 40"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Less than 25!? You have to get a grade of at least 25! Come on, try harder!";
+msgctxt "Archer Guildsman#archer"
+msgid "Less than 25!? You have to get a grade of at least 25! Come on, try harder!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Total Grades: ^0000FF" + .@total_archer + "^000000 / 40";
+msgctxt "Archer Guildsman#archer"
+msgid "Total Grades: ^0000FF"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Wow! More than 40!";
+msgctxt "Archer Guildsman#archer"
+msgid "Wow! More than 40!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Excellent! Congratulations!";
+msgctxt "Archer Guildsman#archer"
+msgid "Excellent! Congratulations!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "More than 30! Nice job!";
+msgctxt "Archer Guildsman#archer"
+msgid "More than 30! Nice job!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Congratulations!";
+msgctxt "Archer Guildsman#archer"
+msgid "Congratulations!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "*Sigh* Well, you just barely passed... Anyway, well done.";
+msgctxt "Archer Guildsman#archer"
+msgid "*Sigh* Well, you just barely passed... Anyway, well done."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "I'll transfer these Trunks to our Bow Production Department. Now that you've met the requirements, let me promote you right away!";
+msgctxt "Archer Guildsman#archer"
+msgid "I'll transfer these Trunks to our Bow Production Department. Now that you've met the requirements, let me promote you right away!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "You are now an Archer!";
+msgctxt "Archer Guildsman#archer"
+msgid "You are now an Archer!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Of course, we expect that you will help contribute towards the future of the Archer Guild with your efforts.";
+msgctxt "Archer Guildsman#archer"
+msgid "Of course, we expect that you will help contribute towards the future of the Archer Guild with your efforts."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Ah, your bow has arrived from the Bow Production Department. Here, take it! It's yours~";
+msgctxt "Archer Guildsman#archer"
+msgid "Ah, your bow has arrived from the Bow Production Department. Here, take it! It's yours~"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Now, off you go. Hunt with pride, knowing you were trained by one of the best!";
+msgctxt "Archer Guildsman#archer"
+msgid "Now, off you go. Hunt with pride, knowing you were trained by one of the best!"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "I will explain the requirements for being an Archer.";
+msgctxt "Archer Guildsman#archer"
+msgid "I will explain the requirements for being an Archer."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "But...";
+msgctxt "Archer Guildsman#archer"
+msgid "But..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "You're already an Archer. You should know these already...";
+msgctxt "Archer Guildsman#archer"
+msgid "You're already an Archer. You should know these already..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "Wait a second. You've chosen a different job already. You don't need to know this~";
+msgctxt "Archer Guildsman#archer"
+msgid "Wait a second. You've chosen a different job already. You don't need to know this~"
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "So...Yeah...no real reason to tell you the requirements...";
+msgctxt "Archer Guildsman#archer"
+msgid "So...Yeah...no real reason to tell you the requirements..."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "First of all, you have to the Job Level 9 as a Novice, and know all of the Basic Skills.";
+msgctxt "Archer Guildsman#archer"
+msgid "First of all, you have to the Job Level 9 as a Novice, and know all of the Basic Skills."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "An Archer needs extremely high concentration and reflexes, so we do not accept those who have little patience.";
+msgctxt "Archer Guildsman#archer"
+msgid "An Archer needs extremely high concentration and reflexes, so we do not accept those who have little patience."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "You also have to gather ^FF0000Trunks^000000. There are 4 different types of Trunks, each of differing quality. You'll be given different grades for your Trunks, depending on their quality.";
+msgctxt "Archer Guildsman#archer"
+msgid "You also have to gather ^FF0000Trunks^000000. There are 4 different types of Trunks, each of differing quality. You'll be given different grades for your Trunks, depending on their quality."
+msgstr ""
+
+#: npc/pre-re/jobs/1-1/archer.txt
+# mes "In order to become an Archer, you must receive a grade of at least ^0000FF25^000000 points out of 40. You can get Trunks from 'Willow,' the tree. Be careful, though. They can be tough monsters.";
+msgctxt "Archer Guildsman#archer"
+msgid "In order to become an Archer, you must receive a grade of at least ^0000FF25^000000 points out of 40. You can get Trunks from 'Willow,' the tree. Be careful, though. They can be tough monsters."
+msgstr ""

@@ -1,0 +1,4494 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 08:33-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Nemuk]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "[Nemuk]"
+msgstr "[Nemuk]"
+
+# mes "You seem to be an";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "You seem to be an"
+msgstr "Você parece ser um"
+
+# mes "outsider, so let me";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "outsider, so let me"
+msgstr "forasteiro, então deixe-me"
+
+# mes "ask you something.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "ask you something."
+msgstr "pergunte algo a você."
+
+# mes "What do you think ";
+#: npc/cities/einbech.txt
+msgctxt "Nemuk#ein"
+msgid "What do you think "
+msgstr "O que você acha "
+
+# mes "of Einbech?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "of Einbech?"
+msgstr "de Einbech?"
+
+# switch(select("It's fine.", "It looks tough to live here.")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "It's fine."
+msgstr "Está tudo bem."
+
+# switch(select("It's fine.", "It looks tough to live here.")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "It looks tough to live here."
+msgstr "Parece difícil viver aqui."
+
+# mes "Huh...?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "Huh...?"
+msgstr "Huh...?"
+
+# mes "I'm not sure what";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "I'm not sure what"
+msgstr "Não tenho certeza do que"
+
+# mes "you've seen, but I'm";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "you've seen, but I'm"
+msgstr "você já viu, mas eu sou"
+
+# mes "surprised to hear you";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "surprised to hear you"
+msgstr "surpreso em ouvi-lo"
+
+# mes "say something like that.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "say something like that."
+msgstr "dizer algo assim."
+
+# mes "It's been ten years since";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "It's been ten years since"
+msgstr "Já se passaram dez anos desde"
+
+# mes "I've started to think about";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "I've started to think about"
+msgstr "Eu comecei a pensar em"
+
+# mes "moving out. However, I'm still";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "moving out. However, I'm still"
+msgstr "mudando-se para fora. No entanto, eu ainda estou"
+
+# mes "debating it. Now, if I were rich, I'd leave in no time, but it's hard getting the money to move out.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid ""
+"debating it. Now, if I were rich, I'd leave in no time, but it's hard "
+"getting the money to move out."
+msgstr ""
+"debatendo-o. Agora, se eu fosse rico, eu sairia em pouco tempo, mas é "
+"difícil conseguir o dinheiro para sair."
+
+# mes "^333333*Sigh...*^000000";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "^333333*Sigh...*^000000"
+msgstr "^333333*Sigh...*^000000"
+
+# mes "Maybe if I had been";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "Maybe if I had been"
+msgstr "Talvez se eu tivesse sido"
+
+# mes "an adventurer when I was";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "an adventurer when I was"
+msgstr "um aventureiro quando eu era"
+
+# mes "younger, I wouldn't have";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "younger, I wouldn't have"
+msgstr "mais jovem, eu não teria"
+
+# mes "these problems today...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "these problems today..."
+msgstr "estes problemas hoje..."
+
+# mes "I thought so.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "I thought so."
+msgstr "Foi o que eu pensei."
+
+# mes "Well, I apologize if";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "Well, I apologize if"
+msgstr "Bem, eu peço desculpas se"
+
+# mes "I put you on the spot.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "I put you on the spot."
+msgstr "Eu o coloquei na hora."
+
+# mes "Everyone here has been";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "Everyone here has been"
+msgstr "Todos aqui têm estado"
+
+# mes "having a tough time just";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "having a tough time just"
+msgstr "tendo um momento difícil apenas"
+
+# mes "living day to day for as long";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "living day to day for as long"
+msgstr "viver o dia-a-dia por tanto tempo"
+
+# mes "as I can remember. It's like";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "as I can remember. It's like"
+msgstr "como posso me lembrar. É como"
+
+# mes "things never seem to get any";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "things never seem to get any"
+msgstr "as coisas nunca parecem ter qualquer"
+
+# mes "better, no matter what we do.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "better, no matter what we do."
+msgstr "melhor, não importa o que façamos."
+
+# mes "I really want to leave,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "I really want to leave,"
+msgstr "Eu realmente quero ir embora,"
+
+# mes "but it's just an empty";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "but it's just an empty"
+msgstr "mas é apenas um vazio"
+
+# mes "wish. My body is trapped";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "wish. My body is trapped"
+msgstr "desejo. Meu corpo está preso"
+
+# mes "here while my heart longs";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "here while my heart longs"
+msgstr "aqui enquanto meu coração anseia"
+
+# mes "for a much better life. ^333333*Sigh*^000000";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "for a much better life. ^333333*Sigh*^000000"
+msgstr "para uma vida muito melhor. ^33333333*Sigh*^000000"
+
+# mes "Is it hopeless? What can I do?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Nemuk#ein"
+msgid "Is it hopeless? What can I do?"
+msgstr "É inútil? O que eu posso fazer?"
+
+# mes "[Heinz]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "[Heinz]"
+msgstr "[Heinz]"
+
+# mes "Wow...";
+#: npc/cities/einbech.txt
+msgctxt "Young Man#air2"
+msgid "Wow..."
+msgstr "Uau..."
+
+# mes "An adventurer from";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "An adventurer from"
+msgstr "Um aventureiro de"
+
+# mes "Rune-Midgarts, eh?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "Rune-Midgarts, eh?"
+msgstr "Rune-Midgarts, eh?"
+
+# mes "What brings you here?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "What brings you here?"
+msgstr "O que o traz aqui?"
+
+# mes "Einbech doesn't offer much";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "Einbech doesn't offer much"
+msgstr "Einbech não oferece muito"
+
+# mes "in terms of sight-seeing, but";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "in terms of sight-seeing, but"
+msgstr "em termos de visão, mas"
+
+# mes "have you come to see the mine?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "have you come to see the mine?"
+msgstr "você veio para ver a mina?"
+
+# mes "Right now, it's swarming with";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "Right now, it's swarming with"
+msgstr "Neste momento, está repleto de"
+
+# mes "monsters and we can't dig any";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "monsters and we can't dig any"
+msgstr "monstros e não podemos cavar nenhum"
+
+# mes "ores because it's so dangerous.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "ores because it's so dangerous."
+msgstr "minérios por ser tão perigoso."
+
+# mes "Now, if some adventurers were";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "Now, if some adventurers were"
+msgstr "Agora, se alguns aventureiros fossem"
+
+# mes "generous enough to hunt down";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "generous enough to hunt down"
+msgstr "generoso o suficiente para caçar"
+
+# mes "those evil creatures, we'd be able to mine again and they could earn some extra zeny. It's like killing two birds with one stone. Hahaha!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid ""
+"those evil creatures, we'd be able to mine again and they could earn some "
+"extra zeny. It's like killing two birds with one stone. Hahaha!"
+msgstr ""
+"essas criaturas malignas, nós poderíamos extrair novamente e elas poderiam "
+"ganhar um pouco mais de zeny. É como matar dois pássaros com uma cajadada "
+"só. Hahaha!"
+
+# mes "Oh wait... I'm sorry.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "Oh wait... I'm sorry."
+msgstr "Oh, espere... Sinto muito."
+
+# mes "I don't know what's wrong";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "I don't know what's wrong"
+msgstr "Eu não sei o que está errado"
+
+# mes "with me, asking complete";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "with me, asking complete"
+msgstr "comigo, pedindo para completar"
+
+# mes "strangers to do favors for";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "strangers to do favors for"
+msgstr "estranhos para fazer favores a"
+
+# mes "me. It's completely rude!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "me. It's completely rude!"
+msgstr "me. É completamente indelicado!"
+
+# mes "I mean, who would do that?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "I mean, who would do that?"
+msgstr "Quero dizer, quem faria isso?"
+
+# mes "But... I'm beyond caring";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "But... I'm beyond caring"
+msgstr "Mas... Eu estou além de me preocupar"
+
+# mes "about my pride. For the sake";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid "about my pride. For the sake"
+msgstr "sobre meu orgulho. Para o bem"
+
+# mes "of all that is good and holy, I'm begging you, please kill those foul and evil creatures. Please~!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Young Man#air2"
+msgid ""
+"of all that is good and holy, I'm begging you, please kill those foul and "
+"evil creatures. Please~!"
+msgstr ""
+"de tudo o que é bom e santo, peço-lhes, por favor, matem essas criaturas "
+"sujas e más. Por favor~!"
+
+# mes "[Mogan]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "[Mogan]"
+msgstr "[Mogan]"
+
+# mes "Recently, there were a few";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "Recently, there were a few"
+msgstr "Recentemente, houve alguns"
+
+# mes "cave-ins where many miners";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "cave-ins where many miners"
+msgstr "cavernas onde muitos mineiros"
+
+# mes "were injured. It was discussed";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "were injured. It was discussed"
+msgstr "foram feridos. Foi discutido"
+
+# mes "in the Town Council and in my";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "in the Town Council and in my"
+msgstr "na Câmara Municipal e no meu"
+
+# mes "opinion, I think the miners dug";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "opinion, I think the miners dug"
+msgstr "opinião, eu acho que os mineiros cavaram"
+
+# mes "too deep and disturbed... ^FF0000it^000000.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "too deep and disturbed... ^FF0000it^000000."
+msgstr "muito profundo e perturbado... ^FF0000it^000000."
+
+# mes "Yes, they awoke Ungoliant,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "Yes, they awoke Ungoliant,"
+msgstr "Sim, eles acordaram o Ungoliant,"
+
+# mes "the master of the caves that";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "the master of the caves that"
+msgstr "o mestre das cavernas que"
+
+# mes "has existed since ancient time.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "has existed since ancient time."
+msgstr "existe desde os tempos antigos."
+
+# mes "I don't know how many more will";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "I don't know how many more will"
+msgstr "Eu não sei quantos mais irão"
+
+# mes "be victimized by Ungoliant in the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "be victimized by Ungoliant in the"
+msgstr "ser vitimizado pelo Ungoliant no"
+
+# mes "future. There's no telling...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "future. There's no telling..."
+msgstr "futuro. Não há como dizer..."
+
+# mes "Adventurer, be careful";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "Adventurer, be careful"
+msgstr "Aventureiro, tenha cuidado"
+
+# mes "if you travel inside the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "if you travel inside the"
+msgstr "se você viajar dentro do"
+
+# mes "mines, lest your footsteps";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "mines, lest your footsteps"
+msgstr "minas, para que seus passos não"
+
+# mes "disturb Ungoliant's slumber.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mogan#ein"
+msgid "disturb Ungoliant's slumber."
+msgstr "perturbar o sono de Ungoliant."
+
+# mes "[Hander]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "[Hander]"
+msgstr "[Hander]"
+
+# mes "Those Einbroch bastards!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "Those Einbroch bastards!"
+msgstr "Esses bastardos do Einbroch!"
+
+# mes "Living off the resources we";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "Living off the resources we"
+msgstr "Viver com os recursos que nós"
+
+# mes "dig up while we keep working";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "dig up while we keep working"
+msgstr "desenterrar enquanto continuamos trabalhando"
+
+# mes "for them like suckers! Damn!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "for them like suckers! Damn!"
+msgstr "para eles como otários! Maldição!"
+
+# mes "Everyday, we risk our";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "Everyday, we risk our"
+msgstr "Todos os dias, arriscamos nosso"
+
+# mes "freakin' lives just so we";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "freakin' lives just so we"
+msgstr "vidas, só para que nós"
+
+# mes "can make a living! Why don't";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "can make a living! Why don't"
+msgstr "pode ganhar a vida! Por que não"
+
+# mes "the elders do something about";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "the elders do something about"
+msgstr "os anciãos fazem algo sobre"
+
+# mes "this, like raise our ore prices?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "this, like raise our ore prices?"
+msgstr "isto, como aumentar nossos preços de minério?"
+
+# mes "The work schedule's";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "The work schedule's"
+msgstr "O cronograma de trabalho é"
+
+# mes "unreasonable, Cavitar's";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "unreasonable, Cavitar's"
+msgstr "irrazoável, a Cavitar's"
+
+# mes "wife was attacked by a mine";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "wife was attacked by a mine"
+msgstr "a esposa foi atacada por uma mina"
+
+# mes "creature, the hospital's too";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "creature, the hospital's too"
+msgstr "criatura, a do hospital também"
+
+# mes "far away and we don't have";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "far away and we don't have"
+msgstr "muito longe e não temos"
+
+# mes "any food to eat! Why...?!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Hander#ein"
+msgid "any food to eat! Why...?!"
+msgstr "qualquer comida para comer! Por que...?!"
+
+# mes "[Gushenmu]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "[Gushenmu]"
+msgstr "[Gushenmu]"
+
+# mes "I've lived here a long time";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "I've lived here a long time"
+msgstr "Eu moro aqui há muito tempo"
+
+# mes "and, believe it or not, things";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "and, believe it or not, things"
+msgstr "e, acredite ou não, as coisas"
+
+# mes "weren't as tough in the past";
+#: npc/cities/einbech.txt
+msgctxt "Gushenmu#ein"
+msgid "weren't as tough in the past"
+msgstr "não eram tão duras no passado"
+
+# mes "as they are right now.";
+#: npc/cities/einbech.txt
+msgctxt "Gushenmu#ein"
+msgid "as they are right now."
+msgstr "como esta agora."
+
+# mes "For lots of different reasons,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "For lots of different reasons,"
+msgstr "Por muitas razões diferentes,"
+
+# mes "the work is more dangerous";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "the work is more dangerous"
+msgstr "o trabalho é mais perigoso"
+
+# mes "and we're running real low on";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "and we're running real low on"
+msgstr "e estamos com um nível muito baixo de"
+
+# mes "manpower. And the factories in";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "manpower. And the factories in"
+msgstr "mão-de-obra. E as fábricas em"
+
+# mes "Einbroch make so much smog,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "Einbroch make so much smog,"
+msgstr "O Einbroch faz tanto smog,"
+
+# mes "we can't even see sunlight here.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "we can't even see sunlight here."
+msgstr "não podemos nem mesmo ver a luz do sol aqui."
+
+# mes "The sad reality of mining";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "The sad reality of mining"
+msgstr "A triste realidade da mineração"
+
+# mes "life right now is that we";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "life right now is that we"
+msgstr "a vida neste momento é que nós"
+
+# mes "wake up, go to work, and at";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "wake up, go to work, and at"
+msgstr "acordar, ir trabalhar, e em"
+
+# mes "the end of the day, some of us";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "the end of the day, some of us"
+msgstr "no final do dia, alguns de nós"
+
+# mes "are injured while a few others never come to work the next day.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "are injured while a few others never come to work the next day."
+msgstr ""
+"são feridos enquanto alguns outros nunca vêm trabalhar no dia seguinte."
+
+# mes "And as Einbech and Einbroch";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "And as Einbech and Einbroch"
+msgstr "E como Einbech e Einbroch"
+
+# mes "have grown, I hear more and";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "have grown, I hear more and"
+msgstr "cresceram, ouço mais e"
+
+# mes "more rumors that unfamiliar";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "more rumors that unfamiliar"
+msgstr "mais rumores que não são familiares"
+
+# mes "monsters are beginning to";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "monsters are beginning to"
+msgstr "monstros estão começando a"
+
+# mes "swarm outside of town. This";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "swarm outside of town. This"
+msgstr "enxame fora da cidade. Este"
+
+# mes "is really Einbech's worst time...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Gushenmu#ein"
+msgid "is really Einbech's worst time..."
+msgstr "é realmente o pior momento de Einbech..."
+
+# mes "[Staff]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "[Staff]"
+msgstr "Equipe"
+
+# mes "Welcome to";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "Welcome to"
+msgstr "Bem-vindo ao"
+
+# mes "the Train Station.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "the Train Station."
+msgstr "a estação de trem."
+
+# mes "The fare to take the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "The fare to take the"
+msgstr "A tarifa para levar o"
+
+# mes "train to Einbroch is";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "train to Einbroch is"
+msgstr "trem para Einbroch é"
+
+# mes "200 zeny. Would";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "200 zeny. Would"
+msgstr "200 zeny. Seria"
+
+# mes "you like to ride?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "you like to ride?"
+msgstr "você gosta de montar?"
+
+# switch(select("Yes.", "No.")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "Yes."
+msgstr "Sim."
+
+# switch(select("Yes.", "No.")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "No."
+msgstr "Nº."
+
+# mes "Thank you and";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "Thank you and"
+msgstr "Obrigado por"
+
+# mes "we hope you enjoy";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "we hope you enjoy"
+msgstr "esperamos que você desfrute"
+
+# mes "the ride. All aboard!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "the ride. All aboard!"
+msgstr "o passeio. Todos a bordo!"
+
+# mes "I'm sorry,";
+#: npc/cities/einbech.txt
+msgctxt "Train Station Staff#ein3"
+msgid "I'm sorry,"
+msgstr "Sinto muito,"
+
+# mes "but you don't";
+#: npc/cities/einbech.txt
+msgctxt "Train Station Staff#ein3"
+msgid "but you don't"
+msgstr "mas você não"
+
+# mes "have enough zeny";
+#: npc/cities/einbech.txt
+msgctxt "Train Station Staff#ein3"
+msgid "have enough zeny"
+msgstr "tem zeny suficiente"
+
+# mes "to pay the train fare.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "to pay the train fare."
+msgstr "para pagar a tarifa do trem."
+
+# mes "Please enjoy";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "Please enjoy"
+msgstr "Por favor, aproveite"
+
+# mes "your stay here";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "your stay here"
+msgstr "sua estadia aqui"
+
+# mes "in Einbech.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Staff#ein3"
+msgid "in Einbech."
+msgstr "em Einbech."
+
+# mes "[Train Station Manager]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Manager#ei"
+msgid "[Train Station Manager]"
+msgstr "[Gerente da Estação de Trem]"
+
+# mes "This train station";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Manager#ei"
+msgid "This train station"
+msgstr "Esta estação de trem"
+
+# mes "is strictly for trains";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Manager#ei"
+msgid "is strictly for trains"
+msgstr "é estritamente para trens"
+
+# mes "running from Einbech";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Manager#ei"
+msgid "running from Einbech"
+msgstr "fugindo de Einbech"
+
+# mes "to Einbroch. Please speak";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Manager#ei"
+msgid "to Einbroch. Please speak"
+msgstr "à Einbroch. Por favor, fale"
+
+# mes "to the staff in the 11 'o clock direction if you'd like to board.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Train Station Manager#ei"
+msgid "to the staff in the 11 'o clock direction if you'd like to board."
+msgstr "para o pessoal na direção das 11 horas, se você quiser embarcar."
+
+# mes "[Tollaf]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "[Tollaf]"
+msgstr "[Tollaf]"
+
+# mes "Ah...!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "Ah...!"
+msgstr "Ah...!"
+
+# mes "This is killing me!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "This is killing me!"
+msgstr "Isto está me matando!"
+
+# mes "I don't have the money";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "I don't have the money"
+msgstr "Eu não tenho o dinheiro"
+
+# mes "to move, but I don't wanna";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "to move, but I don't wanna"
+msgstr "para me mudar, mas eu não quero"
+
+# mes "live in this town anymore!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "live in this town anymore!"
+msgstr "viver mais nesta cidade!"
+
+# mes "People everywhere else";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "People everywhere else"
+msgstr "Pessoas em todos os outros lugares"
+
+# mes "live so much better than we";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "live so much better than we"
+msgstr "viver muito melhor do que nós"
+
+# mes "do, especially those snobs in";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "do, especially those snobs in"
+msgstr "fazem, especialmente aqueles snobs em"
+
+# mes "Einbroch! Einbech must be the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "Einbroch! Einbech must be the"
+msgstr "Einbroch! Einbech deve ser o"
+
+# mes "worst town Schwaltzvalt Republic. No, it's the worst in the world!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tollaf#ein"
+msgid "worst town Schwaltzvalt Republic. No, it's the worst in the world!"
+msgstr "a pior cidade da República de Schwaltzvalt. Não, é a pior do mundo!"
+
+# mes "[Raust]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "[Raust]"
+msgstr "[Raust]"
+
+# mes "I don't get it!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "I don't get it!"
+msgstr "Eu não entendo!"
+
+# mes "Einbroch gets bigger";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "Einbroch gets bigger"
+msgstr "Einbroch fica maior"
+
+# mes "and fancier and our";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "and fancier and our"
+msgstr "e fancier e nosso"
+
+# mes "town gets dirtier and";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "town gets dirtier and"
+msgstr "cidade fica mais suja e"
+
+# mes "nastier. What the hell?!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "nastier. What the hell?!"
+msgstr "mais nojento. Mas que diabos?!"
+
+# mes "Not only do the people";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "Not only do the people"
+msgstr "Não só o povo"
+
+# mes "here look more ragged, we're";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "here look more ragged, we're"
+msgstr "aqui parece mais esfarrapado, estamos"
+
+# mes "more tired and older looking";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "more tired and older looking"
+msgstr "mais cansado e com aparência mais velha"
+
+# mes "even! It's dirty, it's crowded,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "even! It's dirty, it's crowded,"
+msgstr "até! Está sujo, está lotado,"
+
+# mes "everything in this city is total crap! What, you want a list?!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "everything in this city is total crap! What, you want a list?!"
+msgstr "tudo nesta cidade é uma porcaria total! O quê, você quer uma lista?!"
+
+# mes "The food, literally, is";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "The food, literally, is"
+msgstr "Os alimentos, literalmente, são"
+
+# mes "garbage! The jobs here have";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "garbage! The jobs here have"
+msgstr "lixo! Os trabalhos aqui têm"
+
+# mes "to be violations of human rights. There's barely any women here and the ones we do have are all stank anyway! Are you convinced yet?!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid ""
+"to be violations of human rights. There's barely any women here and the ones "
+"we do have are all stank anyway! Are you convinced yet?!"
+msgstr ""
+"ser violações dos direitos humanos. Quase não há mulheres aqui e as que "
+"temos são todas fedidas de qualquer maneira! Você já está convencido ?!"
+
+# mes "Why is everything";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "Why is everything"
+msgstr "Por que tudo é"
+
+# mes "that's good over in";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "that's good over in"
+msgstr "que é bom em"
+
+# mes "Einbroch?! I hate this!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "Einbroch?! I hate this!"
+msgstr "Einbroch?! Eu odeio isto!"
+
+# mes "^333333*Grumble*^000000";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Raust#ein"
+msgid "^333333*Grumble*^000000"
+msgstr "^333333*Grumble*^000000"
+
+# mes "[Mjunia]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "[Mjunia]"
+msgstr "[Mjunia]"
+
+# mes "It's hard being a woman";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "It's hard being a woman"
+msgstr "É difícil ser uma mulher"
+
+# mes "in this town. By being born";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "in this town. By being born"
+msgstr "nesta cidade. Por ter nascido"
+
+# mes "here, it's like fate just decided to be especially cruel to me.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "here, it's like fate just decided to be especially cruel to me."
+msgstr ""
+"aqui, é como se o destino tivesse decidido ser especialmente cruel comigo."
+
+# mes "My skin and hands are";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "My skin and hands are"
+msgstr "Minha pele e minhas mãos são"
+
+# mes "rough from all the work";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "rough from all the work"
+msgstr "rudimentar de todo o trabalho"
+
+# mes "I have to do. But worst of";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "I have to do. But worst of"
+msgstr "Eu tenho que fazer. Mas o pior de tudo é que"
+
+# mes "all... I... I... I've developed";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "all... I... I... I've developed"
+msgstr "todos... I... I... Eu desenvolvi"
+
+# mes "bigger muscles than most";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "bigger muscles than most"
+msgstr "músculos maiores do que a maioria"
+
+# mes "guys! Waaaaaah~!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "guys! Waaaaaah~!"
+msgstr "caras! Waaaaaah~!"
+
+# mes "I wish I could find";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "I wish I could find"
+msgstr "Eu gostaria de poder encontrar"
+
+# mes "a nice guy from Einbroch";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "a nice guy from Einbroch"
+msgstr "um cara legal da Einbroch"
+
+# mes "and get married so I can";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "and get married so I can"
+msgstr "e casar para que eu possa"
+
+# mes "get away from this town.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "get away from this town."
+msgstr "sair desta cidade."
+
+# mes "But it doesn't look like";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "But it doesn't look like"
+msgstr "Mas não parece que"
+
+# mes "that will happen...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "that will happen..."
+msgstr "que vai acontecer..."
+
+# mes "And I'd never marry";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "And I'd never marry"
+msgstr "E eu nunca me casaria"
+
+# mes "anyone from Einbech!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "anyone from Einbech!"
+msgstr "qualquer pessoa de Einbech!"
+
+# mes "I'd rather die cold and";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "I'd rather die cold and"
+msgstr "Eu prefiro morrer frio e"
+
+# mes "alone than cold and married";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "alone than cold and married"
+msgstr "sozinho do que frio e casado"
+
+# mes "to some Einbech hooligan.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "to some Einbech hooligan."
+msgstr "a algum hooligan de Einbech."
+
+# mes "Look at these";
+#: npc/cities/einbech.txt
+msgctxt "Mjunia#ein"
+msgid "Look at these"
+msgstr "Veja isso"
+
+# mes "muscles. What do";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "muscles. What do"
+msgstr "músculos. O que fazer"
+
+# mes "you think? Am I pretty?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "you think? Am I pretty?"
+msgstr "você acha? Eu sou bonita?"
+
+# mes "^333333*Sniff*^000000 I gave up trying";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "^333333*Sniff*^000000 I gave up trying"
+msgstr "^33333333*Sniff*^000000 Desisti de tentar"
+
+# mes "to be feminine years ago.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "to be feminine years ago."
+msgstr "para ser feminina há anos."
+
+# mes "I have to work so hard...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Mjunia#ein"
+msgid "I have to work so hard..."
+msgstr "Eu tenho que trabalhar tanto..."
+
+# mes "[Ekuri]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "[Ekuri]"
+msgstr "[Ekuri]"
+
+# mes "Yo-heave-ho!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "Yo-heave-ho!"
+msgstr "Yo-heave-ho!"
+
+# mes "Yo-heave-ho~!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "Yo-heave-ho~!"
+msgstr "Yo-heave-ho~!"
+
+# mes "What am I doing here?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "What am I doing here?"
+msgstr "O que eu estou fazendo aqui?"
+
+# mes "Heck, I'm scared to death";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "Heck, I'm scared to death"
+msgstr "Caramba, estou morrendo de medo"
+
+# mes "of entering the mine! But";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "of entering the mine! But"
+msgstr "de entrar na mina! Mas"
+
+# mes "I can make a living here at";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "I can make a living here at"
+msgstr "Eu posso ganhar a vida aqui em"
+
+# mes "the entrance by gathering";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "the entrance by gathering"
+msgstr "a entrada por reunião"
+
+# mes "scrap metal! Smart, huh?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "scrap metal! Smart, huh?"
+msgstr "sucatas metálicas! Inteligente, não é?"
+
+# mes "Sometimes, I get lucky";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "Sometimes, I get lucky"
+msgstr "Às vezes, eu tenho sorte"
+
+# mes "and score an entire ore!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "and score an entire ore!"
+msgstr "e marcar um minério inteiro!"
+
+# mes "Sure, I'm a coward, but";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "Sure, I'm a coward, but"
+msgstr "Claro, eu sou um covarde, mas"
+
+# mes "at least I'm alive. Well,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "at least I'm alive. Well,"
+msgstr "pelo menos eu estou vivo. Bem,"
+
+# mes "for the time being.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "for the time being."
+msgstr "por enquanto."
+
+# mes "Now you know what";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "Now you know what"
+msgstr "Agora você sabe o que"
+
+# mes "I'm doing here. So why";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "I'm doing here. So why"
+msgstr "Estou fazendo aqui. Então, por que"
+
+# mes "don't you leave me to";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "don't you leave me to"
+msgstr "não me deixe para"
+
+# mes "my work? Heave-ho!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "my work? Heave-ho!"
+msgstr "meu trabalho? Heave-ho!"
+
+# mes "Ores, come to me!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ekuri#ein"
+msgid "Ores, come to me!"
+msgstr "Ores, venha até mim!"
+
+# mes " ";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech11"
+msgid " "
+msgstr " "
+
+# mes " Mine Dungeon Entrance ";
+#: npc/cities/einbech.txt
+msgctxt "Bulletin Board#einbech11"
+msgid " Mine Dungeon Entrance "
+msgstr " Entrada do Calabouço da Mina "
+
+# mes " ";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech22"
+msgid " "
+msgstr " "
+
+# mes " Train Station ";
+#: npc/cities/einbech.txt
+msgctxt "Bulletin Board#einbech22"
+msgid " Train Station "
+msgstr " Estação de trem "
+
+# mes " ";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech33"
+msgid " "
+msgstr " "
+
+# mes " Freight Train Station ";
+#: npc/cities/einbech.txt
+msgctxt "Bulletin Board#einbech33"
+msgid " Freight Train Station "
+msgstr " Estação de trem de carga "
+
+# mes " ";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech44"
+msgid " "
+msgstr " "
+
+# mes " Tool Shop ";
+#: npc/cities/einbech.txt
+msgctxt "Bulletin Board#einbech44"
+msgid " Tool Shop "
+msgstr " Loja de ferramentas "
+
+# mes " ";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech55"
+msgid " "
+msgstr " "
+
+# mes " Tavern ";
+#: npc/cities/einbech.txt
+msgctxt "Bulletin Board#einbech55"
+msgid " Tavern "
+msgstr " Taberna "
+
+# mes "Welcome to 'Einbech'.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech01"
+msgid "Welcome to 'Einbech'."
+msgstr "Bem-vindo a 'Einbech'."
+
+# mes "East - Tavern, Tool Shop";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech01"
+msgid "East - Tavern, Tool Shop"
+msgstr "Leste - Taverna, Loja de ferramentas"
+
+# mes "North - Train Station, Mine Dungeon";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech01"
+msgid "North - Train Station, Mine Dungeon"
+msgstr "Norte - Estação de trem, Masmorra da Mina"
+
+# mes "Northwest - Train Station";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech03"
+msgid "Northwest - Train Station"
+msgstr "Noroeste - Estação de trem"
+
+# mes "South - Tavern";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech03"
+msgid "South - Tavern"
+msgstr "Sul - Taverna"
+
+# mes "North - Tool Shop, Mine Dungeon";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Bulletin Board#einbech03"
+msgid "North - Tool Shop, Mine Dungeon"
+msgstr "Norte - Loja de Ferramentas, Calabouço de Mina"
+
+# mes "[Tavern Lady]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "[Tavern Lady]"
+msgstr "[Senhora da Taverna]"
+
+# mes "Most Einbech men are";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "Most Einbech men are"
+msgstr "A maioria dos homens Einbech são"
+
+# mes "crude and primitive male";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "crude and primitive male"
+msgstr "macho bruto e primitivo"
+
+# mes "chauvinists! They disgust me!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "chauvinists! They disgust me!"
+msgstr "chauvinistas! Eles me enojam!"
+
+# mes "I mean, there's nothing";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "I mean, there's nothing"
+msgstr "Quero dizer, não há nada"
+
+# mes "good about them! They're";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "good about them! They're"
+msgstr "bom neles! Eles são"
+
+# mes "wild, violent, simple minded";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "wild, violent, simple minded"
+msgstr "selvagem, violento, de mente simples"
+
+# mes "and ignorant. They settle all";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "and ignorant. They settle all"
+msgstr "e ignorantes. Eles resolvem todos"
+
+# mes "their arguments with brawn";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "their arguments with brawn"
+msgstr "seus argumentos com músculos"
+
+# mes "and they're so... close minded!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "and they're so... close minded!"
+msgstr "e eles estão tão... de mente fechada!"
+
+# mes "How can they not know";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "How can they not know"
+msgstr "Como eles não podem saber"
+
+# mes "that women want gentle,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "that women want gentle,"
+msgstr "que as mulheres querem ter cuidado,"
+
+# mes "sensitive men with whom";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "sensitive men with whom"
+msgstr "homens sensíveis com os quais"
+
+# mes "they can share their feelings";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "they can share their feelings"
+msgstr "eles podem compartilhar seus sentimentos"
+
+# mes "and drink chamoille tea over";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "and drink chamoille tea over"
+msgstr "e beber chá de chamoille sobre"
+
+# mes "freshly knit doilies?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Tavern Lady#ein"
+msgid "freshly knit doilies?"
+msgstr "doilies recém tricotados?"
+
+# mes "[R.D. Kim]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "[R.D. Kim]"
+msgstr "[R.D. Kim]"
+
+# mes "Oooh...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "Oooh..."
+msgstr "Oooh..."
+
+# mes "Momma.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "Momma."
+msgstr "Mamãe."
+
+# mes "You are so...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "You are so..."
+msgstr "Você é tão..."
+
+# mes "^FF0000Hot^000000!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "^FF0000Hot^000000!"
+msgstr "^ FF0000Hot ^ 000000!"
+
+# mes "Why don't you take off";
+#: npc/cities/einbech.txt
+msgctxt "Ryan Danger#air#einbech"
+msgid "Why don't you take off"
+msgstr "Why don't you take off"
+
+# mes "those heavy, uncomfortable";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "those heavy, uncomfortable"
+msgstr "aqueles pesados, desconfortáveis"
+
+# mes "clothes? I'll buy you whatever";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "clothes? I'll buy you whatever"
+msgstr "roupas? Eu lhe comprarei o que quer que seja"
+
+# mes "you want, it's on me! C'mon~";
+#: npc/cities/einbech.txt
+msgctxt "Ryan Danger#air#einbech"
+msgid "you want, it's on me! C'mon~"
+msgstr "você quer, é por minha conta! Vá em frente~"
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "["
+msgstr "["
+
+# mes "N-no...!";
+#: npc/cities/einbech.txt
+msgctxt "Ryan Danger#air#einbech"
+msgid "N-no...!"
+msgstr "N-não...!"
+
+# mes "I-I-I-I...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "I-I-I-I..."
+msgstr "EU-EU-EU-EU..."
+
+# mes "^666666(This is the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "^666666(This is the"
+msgstr "^66666666(Este é o"
+
+# mes "shadiest guy";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "shadiest guy"
+msgstr "o cara mais sombrio"
+
+# mes "I've ever seen!)^000000";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "I've ever seen!)^000000"
+msgstr "Eu já vi!)^000000"
+
+# mes "Hm? No...?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "Hm? No...?"
+msgstr "Hm? Não...?"
+
+# mes "Absolutely no?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "Absolutely no?"
+msgstr "Absolutamente não?"
+
+# mes "Are you sure?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "Are you sure?"
+msgstr "Você tem certeza?"
+
+# mes "Alright, alright.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "Alright, alright."
+msgstr "Muito bem, muito bem."
+
+# mes "I'm sorry, I apologize.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "I'm sorry, I apologize."
+msgstr "Sinto muito, peço desculpas."
+
+# mes "I was totally out of line.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "I was totally out of line."
+msgstr "Eu estava totalmente fora de mim."
+
+# mes "...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "..."
+msgstr "..."
+
+# mes "Or am I?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "Or am I?"
+msgstr "Ou eu sou?"
+
+# mes "Bwahahahaha!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "Bwahahahaha!"
+msgstr "Bwahahahaha!"
+
+# mes "(Th-this guy";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "(Th-this guy"
+msgstr "(Este cara"
+
+# mes "must be drunk out";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "must be drunk out"
+msgstr "deve estar bêbado"
+
+# mes "of his freakin' mind!)";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Ryan Danger#air#einbech"
+msgid "of his freakin' mind!)"
+msgstr "de sua maldita mente!)"
+
+# mes "[Drunken Man]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Drunken Man#einbech"
+msgid "[Drunken Man]"
+msgstr "[Homem bêbado]"
+
+# mes "...^333333*Hiccup*^000000...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Drunken Man#einbech"
+msgid "...^333333*Hiccup*^000000..."
+msgstr "...^333333*Hiccup*^000000..."
+
+# mes "^333333*Hiccup*^000000...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Drunken Man#einbech"
+msgid "^333333*Hiccup*^000000..."
+msgstr "^333333*Hiccup*^000000..."
+
+# mes "^333333*Yawn*^000000.....";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Drunken Man#einbech"
+msgid "^333333*Yawn*^000000....."
+msgstr "^333333*Yawn*^000000....."
+
+# mes ".................";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Drunken Man#einbech"
+msgid "................."
+msgstr "................."
+
+# mes "..^333333*Hiccup*^000000.....";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Drunken Man#einbech"
+msgid "..^333333*Hiccup*^000000....."
+msgstr "..^333333*Hiccup*^000000....."
+
+# mes "^333333*Hiccup*^000000..";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Drunken Man#einbech"
+msgid "^333333*Hiccup*^000000.."
+msgstr "^333333*Hiccup*^000000.."
+
+# mes "[Shena]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "[Shena]"
+msgstr "[Shena]"
+
+# mes "I think it's weird!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "I think it's weird!"
+msgstr "Eu acho estranho!"
+
+# mes "How do you youngsters";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "How do you youngsters"
+msgstr "Como vocês jovens"
+
+# mes "not learn all of this?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "not learn all of this?"
+msgstr "não aprender tudo isso?"
+
+# mes "[Luda]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "[Luda]"
+msgstr "[Luda]"
+
+# mes "Well, I'm sure the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Well, I'm sure the"
+msgstr "Bem, tenho certeza de que o"
+
+# mes "generation gap has";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "generation gap has"
+msgstr "geração tem"
+
+# mes "something to do with it,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "something to do with it,"
+msgstr "algo a ver com isso,"
+
+# mes "but I'm surprised that elder";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "but I'm surprised that elder"
+msgstr "mas estou surpreso que o ancião"
+
+# mes "people would know so much~";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "people would know so much~"
+msgstr "as pessoas saberiam tanto~"
+
+# switch(select("What are you guys talking about?", "Pass on by")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "What are you guys talking about?"
+msgstr "Do que vocês estão falando?"
+
+# switch(select("What are you guys talking about?", "Pass on by")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Pass on by"
+msgstr "Passar por"
+
+# mes "Oh? Well, well!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Oh? Well, well!"
+msgstr "Ora, ora, ora!"
+
+# mes "Aren't you the most";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Aren't you the most"
+msgstr "Você não é o mais"
+
+# mes "adorable little girl?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "adorable little girl?"
+msgstr "adorável garotinha?"
+
+# mes "Hello, dearie~";
+#: npc/cities/einbech.txt
+msgctxt "Shena#ein::EinMonsters"
+msgid "Hello, dearie~"
+msgstr "Olá, querida~"
+
+# select("Excuse me, but I'm actually a guy.");
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Excuse me, but I'm actually a guy."
+msgstr "Desculpe-me, mas na verdade eu sou um cara."
+
+# mes "Oh, oh are you now?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Oh, oh are you now?"
+msgstr "Oh, oh, você está agora?"
+
+# mes "Perhaps my eyes are";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Perhaps my eyes are"
+msgstr "Talvez meus olhos estejam"
+
+# mes "getting bad in my old";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "getting bad in my old"
+msgstr "ficar mal na minha velha"
+
+# mes "age. Getting harder to";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "age. Getting harder to"
+msgstr "idade. Cada vez mais difícil de"
+
+# mes "tell the difference nowadays...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "tell the difference nowadays..."
+msgstr "dizer a diferença hoje em dia..."
+
+# mes "Anyway, me and Luda";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Anyway, me and Luda"
+msgstr "De qualquer forma, eu e Luda"
+
+# mes "were just having a little";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "were just having a little"
+msgstr "estavam apenas tendo um pouco de"
+
+# mes "chat about all the monsters";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "chat about all the monsters"
+msgstr "conversar sobre todos os monstros"
+
+# mes "near Einbroch. Apparently,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "near Einbroch. Apparently,"
+msgstr "perto de Einbroch. Aparentemente,"
+
+# mes "you youngsters don't know as";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "you youngsters don't know as"
+msgstr "vocês, jovens, não sabem como"
+
+# mes "much about them as you should.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "much about them as you should."
+msgstr "muito sobre eles como você deveria."
+
+# mes "If adventuring is your";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "If adventuring is your"
+msgstr "Se aventurar-se é seu"
+
+# mes "business, you should";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "business, you should"
+msgstr "negócios, você deve"
+
+# mes "know what you're up against.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "know what you're up against."
+msgstr "saiba o que você está enfrentando."
+
+# mes "Did you have any questions";
+#: npc/cities/einbech.txt
+msgctxt "Shena#ein::EinMonsters"
+msgid "Did you have any questions"
+msgstr "Você tinha alguma dúvida"
+
+# mes "about the monsters around";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "about the monsters around"
+msgstr "sobre os monstros ao redor"
+
+# mes "here, young lady?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "here, young lady?"
+msgstr "aqui, mocinha?"
+
+# select("I told you, I'm a dude...!");
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "I told you, I'm a dude...!"
+msgstr "Já lhe disse, sou um cara...!"
+
+# mes "Hmm. ''Dude.'' I think";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Hmm. ''Dude.'' I think"
+msgstr "Hmm. \"Cara\" Eu acho que"
+
+# mes "I've heard that before.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "I've heard that before."
+msgstr "Eu já ouvi isso antes."
+
+# mes "Ho ho~ You'll have to ";
+#: npc/cities/einbech.txt
+msgctxt "Shena#ein::EinMonsters"
+msgid "Ho ho~ You'll have to "
+msgstr "Ho ho~ Você terá que "
+
+# mes "forgive this old biddy. ";
+#: npc/cities/einbech.txt
+msgctxt "Shena#ein::EinMonsters"
+msgid "forgive this old biddy. "
+msgstr "perdoe esta velha senhora. "
+
+# mes "I don't quite have a grasp";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "I don't quite have a grasp"
+msgstr "Eu não tenho muito jeito"
+
+# mes "on all the words you kids use.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "on all the words you kids use."
+msgstr "em todas as palavras que as crianças usam."
+
+# mes "So dearie,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "So dearie,"
+msgstr "Tão querido,"
+
+# mes "which monster";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "which monster"
+msgstr "que monstro"
+
+# mes "would you like";
+#: npc/cities/einbech.txt
+msgctxt "Shena#ein::EinMonsters"
+msgid "would you like"
+msgstr "você gostaria de"
+
+# mes "to hear about?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "to hear about?"
+msgstr "para ouvir falar?"
+
+# switch(select("Metalling", "Mineral", "Pit Man", "Old Stove", "Quit")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Metalling"
+msgstr "Metalling"
+
+# switch(select("Metalling", "Mineral", "Pit Man", "Old Stove", "Quit")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Mineral"
+msgstr "Mineral"
+
+# switch(select("Metalling", "Mineral", "Pit Man", "Old Stove", "Quit")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Pit Man"
+msgstr "Homem das boxes"
+
+# switch(select("Metalling", "Mineral", "Pit Man", "Old Stove", "Quit")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Old Stove"
+msgstr "Fogão antigo"
+
+# switch(select("Metalling", "Mineral", "Pit Man", "Old Stove", "Quit")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Quit"
+msgstr "Sair"
+
+# mes "Well, the Metallings";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Well, the Metallings"
+msgstr "Bem, os Metallings"
+
+# mes "were created during";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "were created during"
+msgstr "foram criados durante"
+
+# mes "the time when the gods";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "the time when the gods"
+msgstr "o tempo em que os deuses"
+
+# mes "ruled over this world.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "ruled over this world."
+msgstr "governou sobre este mundo."
+
+# mes "I'm not sure if you knew";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "I'm not sure if you knew"
+msgstr "Não tenho certeza se você sabia"
+
+# mes "this or not, but according";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "this or not, but according"
+msgstr "isto ou não, mas de acordo com"
+
+# mes "to myth, Porings and Drops";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "to myth, Porings and Drops"
+msgstr "ao mito, Porings and Drops"
+
+# mes "were created from Odin's";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "were created from Odin's"
+msgstr "foram criados a partir de Odin's"
+
+# mes "saliva. You might not want";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "saliva. You might not want"
+msgstr "saliva. Talvez você não queira"
+
+# mes "to know about Poporing...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "to know about Poporing..."
+msgstr "para saber sobre Poporing..."
+
+# mes "Metallings, on the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Metallings, on the"
+msgstr "Metallings, no"
+
+# mes "other hand, were made";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "other hand, were made"
+msgstr "por outro lado, foram feitos"
+
+# mes "from the blood of living";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "from the blood of living"
+msgstr "do sangue da vida"
+
+# mes "machines that I believe";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "machines that I believe"
+msgstr "máquinas que eu acredito"
+
+# mes "were called ''Gigantes.''";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "were called ''Gigantes.''"
+msgstr "foram chamados de \"Gigantes\""
+
+# mes "Metalling is still like";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Metalling is still like"
+msgstr "A metalização ainda é como"
+
+# mes "those other hopping";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "those other hopping"
+msgstr "aqueles outros saltitões"
+
+# mes "blobs of gelatin in that";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "blobs of gelatin in that"
+msgstr "manchas de gelatina naquele"
+
+# mes "they'll swallow whatever";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "they'll swallow whatever"
+msgstr "eles vão engolir o que quer que seja"
+
+# mes "might be lying on the ground.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "might be lying on the ground."
+msgstr "pode estar deitado no chão."
+
+# mes "If you defeat a Metalling,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "If you defeat a Metalling,"
+msgstr "Se você derrotar uma Metalling,"
+
+# mes "it could drop Large Jellopy,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "it could drop Large Jellopy,"
+msgstr "poderia deixar cair o Grande Jellopy,"
+
+# mes "Iron Ore or even Iron. That";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Iron Ore or even Iron. That"
+msgstr "Minério de ferro ou mesmo ferro. Que"
+
+# mes "might be good to know, right?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "might be good to know, right?"
+msgstr "poderia ser bom saber, certo?"
+
+# mes "Is there";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Is there"
+msgstr "Existe"
+
+# mes "anything else";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "anything else"
+msgstr "qualquer outra coisa"
+
+# mes "you'd like to";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "you'd like to"
+msgstr "você gostaria de"
+
+# mes "ask, dearie?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "ask, dearie?"
+msgstr "perguntar, querida?"
+
+# mes "Did you know that";
+#: npc/cities/einbech.txt
+msgctxt "Shena#ein::EinMonsters"
+msgid "Did you know that"
+msgstr "Você sabia que"
+
+# mes "stalactites and cave";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "stalactites and cave"
+msgstr "estalactites e cavernas"
+
+# mes "crystals grow for thousands";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "crystals grow for thousands"
+msgstr "os cristais crescem para milhares"
+
+# mes "and thousands of years?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "and thousands of years?"
+msgstr "e milhares de anos?"
+
+# mes "Now, if something's been";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Now, if something's been"
+msgstr "Agora, se algo tem sido"
+
+# mes "growing for thousands of";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "growing for thousands of"
+msgstr "crescendo para milhares de"
+
+# mes "years, it would make sense";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "years, it would make sense"
+msgstr "anos, faria sentido"
+
+# mes "if it were actually alive. Now,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "if it were actually alive. Now,"
+msgstr "se estivesse realmente vivo. Agora,"
+
+# mes "Mineral monsters are actually living stalactites.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Mineral monsters are actually living stalactites."
+msgstr "Os monstros minerais são na verdade estalactites vivas."
+
+# mes "It's rumored that they";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "It's rumored that they"
+msgstr "Há rumores de que eles"
+
+# mes "are grown in a dark cave";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "are grown in a dark cave"
+msgstr "são cultivados em uma caverna escura"
+
+# mes "in which something inside";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "in which something inside"
+msgstr "em que algo dentro"
+
+# mes "has some sort of malicious";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "has some sort of malicious"
+msgstr "tem algum tipo de malicioso"
+
+# mes "influence over them.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "influence over them."
+msgstr "influência sobre eles."
+
+# mes "Minerals can defend themselves,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Minerals can defend themselves,"
+msgstr "Os minerais podem se defender,"
+
+# mes "but they might drop Crystal Piece, Topaz or Emvertacon if you defeat one. There's also a slim chance that they may drop a rare jewel, but I'm not quite sure.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid ""
+"but they might drop Crystal Piece, Topaz or Emvertacon if you defeat one. "
+"There's also a slim chance that they may drop a rare jewel, but I'm not "
+"quite sure."
+msgstr ""
+"mas eles podem deixar cair Crystal Piece, Topaz ou Emvertacon se você "
+"derrotar um. Há também uma pequena chance de que eles deixem cair uma jóia "
+"rara, mas não tenho bem certeza."
+
+# mes "Are there any";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Are there any"
+msgstr "Se alguma dessas coisas"
+
+# mes "other monsters";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "other monsters"
+msgstr "outros monstros"
+
+# mes "around here that";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "around here that"
+msgstr "por aqui que"
+
+# mes "you'd want to learn";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "you'd want to learn"
+msgstr "você gostaria de aprender"
+
+# mes "more about?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "more about?"
+msgstr "mais sobre?"
+
+# mes "Pit Men are the ghosts";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Pit Men are the ghosts"
+msgstr "Os homens do fosso são os fantasmas"
+
+# mes "of dead miners that haunt";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "of dead miners that haunt"
+msgstr "de mineiros mortos que assombram"
+
+# mes "old and rusted mine cars.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "old and rusted mine cars."
+msgstr "carros velhos e enferrujados da mina."
+
+# mes "For some reason, they can't";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "For some reason, they can't"
+msgstr "Por alguma razão, eles não podem"
+
+# mes "leave this world so they just";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "leave this world so they just"
+msgstr "deixar este mundo para que eles apenas"
+
+# mes "wander around the mines.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "wander around the mines."
+msgstr "vagueiam pelas minas."
+
+# mes "If you can defeat";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "If you can defeat"
+msgstr "Se você pode derrotar"
+
+# mes "them, they'll drop";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "them, they'll drop"
+msgstr "eles, eles vão cair"
+
+# mes "Old Pick, Lantern, Iron,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Old Pick, Lantern, Iron,"
+msgstr "Palheta velha, Lanterna, Ferro,"
+
+# mes "Steel, Coal, Flashlight";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Steel, Coal, Flashlight"
+msgstr "Aço, Carvão, Lanterna"
+
+# mes "and Old Iron Plate.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "and Old Iron Plate."
+msgstr "e a antiga chapa de ferro."
+
+# mes "Did you want";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Did you want"
+msgstr "Você queria"
+
+# mes "to ask me about";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "to ask me about"
+msgstr "para me perguntar sobre"
+
+# mes "any other of the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "any other of the"
+msgstr "qualquer outro do"
+
+# mes "local monsters?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "local monsters?"
+msgstr "monstros locais?"
+
+# mes "It's just an evil,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "It's just an evil,"
+msgstr "É apenas um mal,"
+
+# mes "man-eating stove.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "man-eating stove."
+msgstr "fogão comedor de homem."
+
+# switch(select("...That's it?", "H-horrifying!")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "...That's it?"
+msgstr "...É só isso?"
+
+# switch(select("...That's it?", "H-horrifying!")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "H-horrifying!"
+msgstr "H-horrorizante!"
+
+# mes "Now, you know the importance";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Now, you know the importance"
+msgstr "Agora, você sabe a importância"
+
+# mes "of recycling and preserving our";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "of recycling and preserving our"
+msgstr "de reciclagem e preservação de nosso"
+
+# mes "natural resources, right? Now,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "natural resources, right? Now,"
+msgstr "recursos naturais, certo? Agora,"
+
+# mes "it would do my heart good if you were to recycle the scrap iron";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "it would do my heart good if you were to recycle the scrap iron"
+msgstr "faria bem ao meu coração se você reciclasse a sucata de ferro"
+
+# mes "from those Old Stove monsters.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "from those Old Stove monsters."
+msgstr "daqueles monstros do velho fogão."
+
+# mes "Old Stoves will usually";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Old Stoves will usually"
+msgstr "Os fogões antigos geralmente"
+
+# mes "drop Battered Pot, Burnt Tree,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "drop Battered Pot, Burnt Tree,"
+msgstr "gota Battered Pot, Árvore Queimada,"
+
+# mes "Iron, Iron Ore and Old Iron Plate. But once in a while they might drop interesting items like Rusty Iron or even Dead Branch.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid ""
+"Iron, Iron Ore and Old Iron Plate. But once in a while they might drop "
+"interesting items like Rusty Iron or even Dead Branch."
+msgstr ""
+"Ferro, minério de ferro e placa de ferro antiga. Mas de vez em quando eles "
+"podem deixar cair itens interessantes como ferro ferrugento ou até mesmo um "
+"ramo morto."
+
+# mes "Yes. God's creation,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Yes. God's creation,"
+msgstr "Sim. A criação de Deus,"
+
+# mes "that creature is cruel";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "that creature is cruel"
+msgstr "essa criatura é cruel"
+
+# mes "and merciless, perhaps";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "and merciless, perhaps"
+msgstr "e impiedosa, talvez"
+
+# mes "a symbol of purest evil";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "a symbol of purest evil"
+msgstr "um símbolo do mais puro mal"
+
+# mes "if I ever saw one.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "if I ever saw one."
+msgstr "se é que alguma vez vi um."
+
+# mes "Unlike newer appliances,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Unlike newer appliances,"
+msgstr "Ao contrário dos aparelhos mais novos,"
+
+# mes "Old Stoves were hand made by";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Old Stoves were hand made by"
+msgstr "Os fogões antigos eram feitos à mão por"
+
+# mes "master craftsmen that, I guess,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "master craftsmen that, I guess,"
+msgstr "mestres artesãos que, suponho eu,"
+
+# mes "developed their own souls. They";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "developed their own souls. They"
+msgstr "desenvolveram suas próprias almas. Eles"
+
+# mes "used to be benevolent machines, content to provide loving warmth.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "used to be benevolent machines, content to provide loving warmth."
+msgstr ""
+"costumavam ser máquinas benevolentes, contentes de proporcionar um calor "
+"amoroso."
+
+# mes "For years they would serve";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "For years they would serve"
+msgstr "Durante anos, eles serviriam"
+
+# mes "their owners with loyalty. But";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "their owners with loyalty. But"
+msgstr "seus proprietários com lealdade. Mas"
+
+# mes "as technology advanced and";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "as technology advanced and"
+msgstr "como tecnologia avançada e"
+
+# mes "they became obsolete, they were";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "they became obsolete, they were"
+msgstr "se tornaram obsoletos, eles eram"
+
+# mes "discarded like pieces of trash. This twisted their hearts to ^FF0000evil^000000.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid ""
+"discarded like pieces of trash. This twisted their hearts to "
+"^FF0000evil^000000."
+msgstr ""
+"descartados como pedaços de lixo. Isto torceu seus corações para "
+"^FF0000evil^000000."
+
+# mes "So, is there";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "So, is there"
+msgstr "Então, existe"
+
+# mes "you'd like me to";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "you'd like me to"
+msgstr "você gostaria que eu"
+
+# mes "share with you?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "share with you?"
+msgstr "compartilhar com você?"
+
+# mes "Alright then.";
+#: npc/cities/einbech.txt
+msgctxt "Shena#ein::EinMonsters"
+msgid "Alright then."
+msgstr "Muito bem, então."
+
+# mes "Have a good";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Have a good"
+msgstr "Tenha um bom"
+
+# mes "day, young lady.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "day, young lady."
+msgstr "dia, mocinha."
+
+# mes "I'm sorry about my";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "I'm sorry about my"
+msgstr "Sinto muito pelo meu"
+
+# mes "mother! She can be";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "mother! She can be"
+msgstr "mãe! Ela pode ser"
+
+# mes "overly friendly, I suppose.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "overly friendly, I suppose."
+msgstr "excessivamente amigável, eu suponho."
+
+# mes "But if you're bored, please";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "But if you're bored, please"
+msgstr "Mas se você estiver entediado, por favor"
+
+# mes "feel free to visit. Be safe";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "feel free to visit. Be safe"
+msgstr "sinta-se à vontade para visitar. Esteja seguro"
+
+# mes "on your travels, adventurer~";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "on your travels, adventurer~"
+msgstr "em suas viagens, aventureiro~"
+
+# mes "Luda...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "Luda..."
+msgstr "Luda..."
+
+# mes "You don't live";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "You don't live"
+msgstr "Você não vive"
+
+# mes "to be as old as";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "to be as old as"
+msgstr "para ser tão velho quanto"
+
+# mes "I am and not learn";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "I am and not learn"
+msgstr "Eu sou e não aprendo"
+
+# mes "a little something";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "a little something"
+msgstr "um pouco de algo"
+
+# mes "about this world of ours~";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Shena#ein::EinMonsters"
+msgid "about this world of ours~"
+msgstr "sobre este nosso mundo~"
+
+# mes "[Jung]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "[Jung]"
+msgstr "[Jung]"
+
+# mes "I'm one of the few";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "I'm one of the few"
+msgstr "Eu sou um dos poucos"
+
+# mes "people who's lived";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "people who's lived"
+msgstr "pessoas que já viveram"
+
+# mes "in both Einbech and";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "in both Einbech and"
+msgstr "tanto em Einbech como em"
+
+# mes "Einbrock for a long time.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Einbrock for a long time."
+msgstr "Einbrock por um longo tempo."
+
+# mes "So I guess I'm one of the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "So I guess I'm one of the"
+msgstr "Então eu acho que sou um dos"
+
+# mes "best guides of this area.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "best guides of this area."
+msgstr "melhores guias desta área."
+
+# mes "Say, if you're thinking of";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Say, if you're thinking of"
+msgstr "Digamos, se você estiver pensando em"
+
+# mes "entering the Mine Dungeon,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "entering the Mine Dungeon,"
+msgstr "entrando na Masmorra da Mina,"
+
+# mes "I can tell you all I know about";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "I can tell you all I know about"
+msgstr "Posso lhes dizer tudo o que sei sobre"
+
+# mes "the monsters in that place so";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "the monsters in that place so"
+msgstr "os monstros daquele lugar assim"
+
+# mes "that you'll be better prepared.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "that you'll be better prepared."
+msgstr "que você estará melhor preparado."
+
+# switch(select("Sure, why not?", "No, thanks.")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Sure, why not?"
+msgstr "Claro, por que não?"
+
+# switch(select("Sure, why not?", "No, thanks.")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "No, thanks."
+msgstr "Não, obrigado."
+
+# mes "Let's see. Ah, the monsters that are unique to the Mine Dungeon";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Let's see. Ah, the monsters that are unique to the Mine Dungeon"
+msgstr "Vamos ver. Ah, os monstros que são exclusivos da Masmorra da Mina"
+
+# mes "are Noxious, Venomous, Pollcellio and Obsidian. Which one do you";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "are Noxious, Venomous, Pollcellio and Obsidian. Which one do you"
+msgstr "são Noxious, Venomous, Pollcellio e Obsidian. Qual deles você"
+
+# mes "want to know more about?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "want to know more about?"
+msgstr "quer saber mais sobre?"
+
+# switch(select("Noxious and Venomous", "Pollcellio", "Obsidian")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Noxious and Venomous"
+msgstr "Nóxicos e Venenosos"
+
+# switch(select("Noxious and Venomous", "Pollcellio", "Obsidian")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Pollcellio"
+msgstr "Pollcellio"
+
+# switch(select("Noxious and Venomous", "Pollcellio", "Obsidian")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Obsidian"
+msgstr "Obsidiana"
+
+# mes "You know, no one seems";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "You know, no one seems"
+msgstr "Você sabe, ninguém parece"
+
+# mes "to know where Noxious and";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "to know where Noxious and"
+msgstr "para saber onde Noxious e"
+
+# mes "Venomous have come from.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Venomous have come from."
+msgstr "Os venenos vieram de."
+
+# mes "It's like they appeared out of";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "It's like they appeared out of"
+msgstr "É como se tivessem saído de"
+
+# mes "nowhere when Einbroch";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "nowhere when Einbroch"
+msgstr "em nenhum lugar quando Einbroch"
+
+# mes "started to industrialize.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "started to industrialize."
+msgstr "começou a industrializar."
+
+# mes "Now that I think about it,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Now that I think about it,"
+msgstr "Agora que penso sobre isso,"
+
+# mes "I don't think they're naturally created monsters. They have";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "I don't think they're naturally created monsters. They have"
+msgstr "Eu não acho que eles sejam monstros criados naturalmente. Eles têm"
+
+# mes "this fixed look of despair and";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "this fixed look of despair and"
+msgstr "este olhar fixo de desespero e"
+
+# mes "suffering and tend to act like they want their enemies to kill them.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "suffering and tend to act like they want their enemies to kill them."
+msgstr ""
+"sofrem e tendem a agir como se quisessem que seus inimigos os matassem."
+
+# mes "Still, you'd better be careful!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Still, you'd better be careful!"
+msgstr "Mesmo assim, é melhor você ter cuidado!"
+
+# mes "careful! Noxious and Venomous";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "careful! Noxious and Venomous"
+msgstr "cuidado! Nóxicos e Venenosos"
+
+# mes "are stealthy monsters that can";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "are stealthy monsters that can"
+msgstr "são monstros furtivos que podem"
+
+# mes "glide quietly through the air";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "glide quietly through the air"
+msgstr "deslizar silenciosamente pelo ar"
+
+# mes "and attack you before";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "and attack you before"
+msgstr "e atacá-lo antes"
+
+# mes "you even notice...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "you even notice..."
+msgstr "você até percebe..."
+
+# mes "You should know that";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "You should know that"
+msgstr "Você deve saber que"
+
+# mes "Noxious is Ghost property";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Noxious is Ghost property"
+msgstr "Noxious é propriedade de Fantasmas"
+
+# mes "and Venomous is Poison.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "and Venomous is Poison."
+msgstr "e Veneno é Veneno."
+
+# mes "Both are medium sized,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Both are medium sized,"
+msgstr "Ambos são de médio porte,"
+
+# mes "formless monsters.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "formless monsters."
+msgstr "monstros sem forma."
+
+# mes "Both of them drop Apple,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Both of them drop Apple,"
+msgstr "Os dois deixam cair a maçã,"
+
+# mes "Dust Pollutant, Toxic Gas,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Dust Pollutant, Toxic Gas,"
+msgstr "Poluente do pó, Gás Tóxico,"
+
+# mes "Poisonous Powder, Bacillus,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Poisonous Powder, Bacillus,"
+msgstr "Pó Venenoso, Bacillus,"
+
+# mes "Mold Powder and Anodyne.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Mold Powder and Anodyne."
+msgstr "Mold Powder e Anodyne."
+
+# mes "That's all for now.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "That's all for now."
+msgstr "Isso é tudo por enquanto."
+
+# mes "Feel free to ask me";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Feel free to ask me"
+msgstr "Sinta-se à vontade para me perguntar"
+
+# mes "if you have any questions";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "if you have any questions"
+msgstr "se você tiver alguma dúvida"
+
+# mes "about monsters in the Mine";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "about monsters in the Mine"
+msgstr "sobre monstros na Mina"
+
+# mes "Dungeon. Be safe, adventurer.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Dungeon. Be safe, adventurer."
+msgstr "Masmorra. Seja seguro, aventureiro."
+
+# mes "Pollcellio is an insect that";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Pollcellio is an insect that"
+msgstr "O Pollcellio é um inseto que"
+
+# mes "lives in caves and drinks water";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "lives in caves and drinks water"
+msgstr "vive em cavernas e bebe água"
+
+# mes "dripped from stalactites. It's";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "dripped from stalactites. It's"
+msgstr "gotejado de estalactites. É"
+
+# mes "different from Ungoliant since";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "different from Ungoliant since"
+msgstr "diferente do Ungoliant desde"
+
+# mes "it likes to be near different";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "it likes to be near different"
+msgstr "gosta de estar perto de diferentes"
+
+# mes "kinds of minerals and ores.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "kinds of minerals and ores."
+msgstr "tipos de minerais e minérios."
+
+# mes "Pollcellio drops Jubilee,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Pollcellio drops Jubilee,"
+msgstr "A Pollcellio cai o Jubileu,"
+
+# mes "Insect Antenna, Single Cell,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Insect Antenna, Single Cell,"
+msgstr "Antena de inseto, célula única,"
+
+# mes "Moss of Morning Dew, Neon";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Moss of Morning Dew, Neon"
+msgstr "Moss of Morning Dew, Neon"
+
+# mes "Liquid and a few other things";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Liquid and a few other things"
+msgstr "Líquido e algumas outras coisas"
+
+# mes "I can't quite remember.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "I can't quite remember."
+msgstr "Não consigo me lembrar bem."
+
+# mes "Lastly, Pollcellio is an";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Lastly, Pollcellio is an"
+msgstr "Finalmente, o Pollcellio é um"
+
+# mes "Earth property monster.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Earth property monster."
+msgstr "Monstro da propriedade da Terra."
+
+# mes "That's all I know about it.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "That's all I know about it."
+msgstr "Isso é tudo o que sei sobre isso."
+
+# mes "But if you want to know more";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "But if you want to know more"
+msgstr "Mas se você quiser saber mais"
+
+# mes "about some other monster in the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "about some other monster in the"
+msgstr "sobre algum outro monstro no"
+
+# mes "Mine Dungeon, feel free to ask.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Mine Dungeon, feel free to ask."
+msgstr "Mineira Masmorra, sinta-se à vontade para perguntar."
+
+# mes "Do you know about the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Do you know about the"
+msgstr "Você sabe sobre o"
+
+# mes "belief that underground";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "belief that underground"
+msgstr "crença de que o subsolo"
+
+# mes "minerals that contain huge";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "minerals that contain huge"
+msgstr "minerais que contêm enormes"
+
+# mes "amounts of energy actually";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "amounts of energy actually"
+msgstr "quantidades de energia de fato"
+
+# mes "have souls? Obsidian is";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "have souls? Obsidian is"
+msgstr "tem almas? Obsidiana é"
+
+# mes "one of these living rocks.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "one of these living rocks."
+msgstr "uma dessas rochas vivas."
+
+# mes "Supposedly, just a piece of an Obsidian in a Jung Processor has enough energy to light up the night sky. Unfortunately, it's impossible to capture one alive and hunting them isn't so easy.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid ""
+"Supposedly, just a piece of an Obsidian in a Jung Processor has enough "
+"energy to light up the night sky. Unfortunately, it's impossible to capture "
+"one alive and hunting them isn't so easy."
+msgstr ""
+"Supostamente, apenas um pedaço de um obsidiana em um Processador Jung tem "
+"energia suficiente para iluminar o céu noturno. Infelizmente, é impossível "
+"capturar um vivo e caçá-lo não é tão fácil."
+
+# mes "Obsidian is a small,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Obsidian is a small,"
+msgstr "Obsidiana é uma pequena,"
+
+# mes "shapeless monster that";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "shapeless monster that"
+msgstr "monstro sem forma que"
+
+# mes "drops Clear Jewel, Piece of";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "drops Clear Jewel, Piece of"
+msgstr "jóia Transparente, Pedaço de"
+
+# mes "Black Crystal, Coal, Elunium,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Black Crystal, Coal, Elunium,"
+msgstr "Cristal Preto, Carvão, Elunium,"
+
+# mes "Iron and Steel.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Iron and Steel."
+msgstr "Ferro e aço."
+
+# mes "That's all for Obsidian.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "That's all for Obsidian."
+msgstr "Isso é tudo para Obsidiana."
+
+# mes "If you have any questions";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "If you have any questions"
+msgstr "Se você tiver alguma dúvida"
+
+# mes "about other monsters living";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "about other monsters living"
+msgstr "sobre outros monstros que vivem"
+
+# mes "in the Mine Dungeon, feel";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "in the Mine Dungeon, feel"
+msgstr "na Masmorra da Mina, sinta"
+
+# mes "free to ask me.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "free to ask me."
+msgstr "livre para me perguntar."
+
+# mes "I understand if you're";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "I understand if you're"
+msgstr "Eu entendo se você for"
+
+# mes "kind of in a hurry. Still,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "kind of in a hurry. Still,"
+msgstr "com um pouco de pressa. Ainda assim,"
+
+# mes "if you're pretty new around";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "if you're pretty new around"
+msgstr "se você é muito novo por perto"
+
+# mes "here, you should learn as";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "here, you should learn as"
+msgstr "aqui, você deve aprender como"
+
+# mes "much as you can before";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "much as you can before"
+msgstr "o máximo que você puder antes"
+
+# mes "entering any dungeons.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "entering any dungeons."
+msgstr "entrando em qualquer calabouço."
+
+# mes "Alright then,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "Alright then,"
+msgstr "Muito bem, então,"
+
+# mes "be safe on your";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "be safe on your"
+msgstr "esteja seguro em seu"
+
+# mes "adventures, alright?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Jung#ein"
+msgid "adventures, alright?"
+msgstr "aventuras, certo?"
+
+# mes "[Franz]";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "[Franz]"
+msgstr "[Franz]"
+
+# mes "So bored...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "So bored..."
+msgstr "Tão entediado..."
+
+# mes "Starving for...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Starving for..."
+msgstr "Esfomeado por..."
+
+# mes "Conversation.";
+#: npc/cities/einbech.txt
+msgctxt "Franz#ein"
+msgid "Conversation."
+msgstr "Conversação."
+
+# mes "S-somebody...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "S-somebody..."
+msgstr "Alguém..."
+
+# mes "Hey, a traveller!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Hey, a traveller!"
+msgstr "Ei, um viajante!"
+
+# mes "Are you planning to explore";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Are you planning to explore"
+msgstr "Você está planejando explorar"
+
+# mes "the Mine Dungeon or the fields";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "the Mine Dungeon or the fields"
+msgstr "a Masmorra da Mina ou os campos"
+
+# mes "around here? Let's chat for a bit and maybe you'll learn something.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "around here? Let's chat for a bit and maybe you'll learn something."
+msgstr "por aqui? Vamos conversar um pouco e talvez você aprenda alguma coisa."
+
+# switch(select("Okay, fine.", "No, thanks.")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Okay, fine."
+msgstr "Certo, tudo bem."
+
+# switch(select("Okay, fine.", "No, thanks.")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "No, thanks."
+msgstr "Não, obrigado."
+
+# mes "Ooh, have you heard";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Ooh, have you heard"
+msgstr "Ooh, você já ouviu falar"
+
+# mes "about the creature in the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "about the creature in the"
+msgstr "sobre a criatura no"
+
+# mes "Mine Dungeon or what's";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Mine Dungeon or what's"
+msgstr "Calabouço da mina ou o que é"
+
+# mes "happened in town recently?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "happened in town recently?"
+msgstr "aconteceu na cidade recentemente?"
+
+# mes "Which would you like to";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Which would you like to"
+msgstr "O que você gostaria de"
+
+# mes "know more about?";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "know more about?"
+msgstr "saiba mais sobre?"
+
+# switch(select("Creature of Mine Dungeon", "Town Incident")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Creature of Mine Dungeon"
+msgstr "Criatura do Calabouço da Mina"
+
+# switch(select("Creature of Mine Dungeon", "Town Incident")) {
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Town Incident"
+msgstr "Incidente na cidade"
+
+# mes "The creature I'm talking about is Ungoliant, which also called the Master of the Caves around here.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid ""
+"The creature I'm talking about is Ungoliant, which also called the Master of "
+"the Caves around here."
+msgstr ""
+"A criatura de que estou falando é o Ungoliant, que também chamou o Mestre "
+"das Cavernas por aqui."
+
+# mes "It's said to live deep in the caves where it guards peculiar ores and minerals with strange powers.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid ""
+"It's said to live deep in the caves where it guards peculiar ores and "
+"minerals with strange powers."
+msgstr ""
+"Diz-se que vive nas profundezas das cavernas onde guarda minérios peculiares "
+"e minerais com poderes estranhos."
+
+# mes "At first I thought it was";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "At first I thought it was"
+msgstr "No início eu pensei que era"
+
+# mes "just an old fairy tale, but it";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "just an old fairy tale, but it"
+msgstr "apenas um velho conto de fadas, mas ele"
+
+# mes "actually started appearing";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "actually started appearing"
+msgstr "realmente começou a aparecer"
+
+# mes "again about ten years ago";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "again about ten years ago"
+msgstr "novamente há cerca de dez anos"
+
+# mes "when the tunnel cave-ins";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "when the tunnel cave-ins"
+msgstr "quando as cavernas do túnel"
+
+# mes "started to happen.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "started to happen."
+msgstr "começou a acontecer."
+
+# mes "As sightings of Ungoliant";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "As sightings of Ungoliant"
+msgstr "Como avistamentos de Ungoliant"
+
+# mes "increased, more and more";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "increased, more and more"
+msgstr "cada vez mais, mais e mais"
+
+# mes "tunnel cave-ins occurred.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "tunnel cave-ins occurred."
+msgstr "ocorreram cavernas em túneis."
+
+# mes "I guess the miners have";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "I guess the miners have"
+msgstr "Acho que os mineiros têm"
+
+# mes "inadvertently intruded";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "inadvertently intruded"
+msgstr "inadvertidamente intrudido"
+
+# mes "into its territory.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "into its territory."
+msgstr "em seu território."
+
+# mes "According to legend,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "According to legend,"
+msgstr "De acordo com a lenda,"
+
+# mes "ancient giants snuck into";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "ancient giants snuck into"
+msgstr "antigos gigantes se infiltraram em"
+
+# mes "a mine to steal coal from";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "a mine to steal coal from"
+msgstr "uma mina para roubar carvão de"
+
+# mes "humans. But they made too";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "humans. But they made too"
+msgstr "humanos. Mas eles também fizeram"
+
+# mes "much noise while they were";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "much noise while they were"
+msgstr "muito barulho enquanto eles estavam"
+
+# mes "digging and awoke Ungoliant.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "digging and awoke Ungoliant."
+msgstr "escavação e despertou o Ungoliant."
+
+# mes "When the miners went to work";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "When the miners went to work"
+msgstr "Quando os mineiros foram para o trabalho"
+
+# mes "the next morning, they found the bloodied bodies of those giants.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "the next morning, they found the bloodied bodies of those giants."
+msgstr ""
+"na manhã seguinte, eles encontraram os corpos ensanguentados desses gigantes."
+
+# mes "After that, people have feared";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "After that, people have feared"
+msgstr "Depois disso, as pessoas temeram"
+
+# mes "the threat that Ungoliant poses";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "the threat that Ungoliant poses"
+msgstr "a ameaça que o Ungoliant representa"
+
+# mes "to anyone entering the mines.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "to anyone entering the mines."
+msgstr "a qualquer pessoa que entre nas minas."
+
+# mes "Now, an adventurer that";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Now, an adventurer that"
+msgstr "Agora, um aventureiro que"
+
+# mes "managed to kill an Ungoliant";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "managed to kill an Ungoliant"
+msgstr "conseguiu matar um Ungoliant"
+
+# mes "has told me that it drops Ant's";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "has told me that it drops Ant's"
+msgstr "me disse que deixa cair as formigas"
+
+# mes "Jaw, Colorful Shell, Very Hard";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Jaw, Colorful Shell, Very Hard"
+msgstr "Mandíbula, concha colorida, muito dura"
+
+# mes "Shell, Long Leg, Neon Liquid";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Shell, Long Leg, Neon Liquid"
+msgstr "Shell, Perna Longa, Líquido Neon"
+
+# mes "and Zilcon.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "and Zilcon."
+msgstr "e Zilcon."
+
+# mes "In Einbroch, there was";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "In Einbroch, there was"
+msgstr "Em Einbroch, havia"
+
+# mes "a short lived teddy bear";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "a short lived teddy bear"
+msgstr "um ursinho de pelúcia de curta duração"
+
+# mes "fad. However, a series of";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "fad. However, a series of"
+msgstr "moda. No entanto, uma série de"
+
+# mes "mysterious accidents and";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "mysterious accidents and"
+msgstr "acidentes misteriosos e"
+
+# mes "murders where entire familes";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "murders where entire familes"
+msgstr "assassinatos em que famílias inteiras"
+
+# mes "were killed also occurred.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "were killed also occurred."
+msgstr "foram mortos também ocorreram."
+
+# mes "It turns out that every family";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "It turns out that every family"
+msgstr "Acontece que cada família"
+
+# mes "that had been murdered had";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "that had been murdered had"
+msgstr "que tinha sido assassinado tinha"
+
+# mes "bought one of these teddy bears. There were even rumors that these teddy bears were coming to life.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid ""
+"bought one of these teddy bears. There were even rumors that these teddy "
+"bears were coming to life."
+msgstr ""
+"comprou um desses ursinhos de pelúcia. Havia até rumores de que estes "
+"ursinhos de pelúcia estavam ganhando vida."
+
+# mes "After an investigation, the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "After an investigation, the"
+msgstr "Após uma investigação, o"
+
+# mes "authorities learned that all the merchants who sold these bears";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "authorities learned that all the merchants who sold these bears"
+msgstr ""
+"autoridades souberam que todos os comerciantes que venderam estes ursos"
+
+# mes "had purchased them from the";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "had purchased them from the"
+msgstr "os tinha adquirido do"
+
+# mes "same wholesaler, an outsider";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "same wholesaler, an outsider"
+msgstr "mesmo atacadista, um forasteiro"
+
+# mes "no one knew anything about.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "no one knew anything about."
+msgstr "ninguém sabia de nada."
+
+# mes "Since the teddy bears were";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Since the teddy bears were"
+msgstr "Como os ursinhos de pelúcia eram"
+
+# mes "clearly not made to be mere,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "clearly not made to be mere,"
+msgstr "claramente não foi feito para ser mero,"
+
+# mes "harmless toys, troops were";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "harmless toys, troops were"
+msgstr "brinquedos inofensivos, as tropas eram"
+
+# mes "sent to secure all the teddy";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "sent to secure all the teddy"
+msgstr "enviado para garantir todos os ursinhos de pelúcia"
+
+# mes "bears and dispose of them";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "bears and dispose of them"
+msgstr "ursos e descarte-os"
+
+# mes "outside of town.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "outside of town."
+msgstr "fora da cidade."
+
+# mes "But as soon as the teddy";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "But as soon as the teddy"
+msgstr "Mas assim que o ursinho de pelúcia"
+
+# mes "bears were set outside of";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "bears were set outside of"
+msgstr "ursos foram colocados fora de"
+
+# mes "town, they sprang to life and";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "town, they sprang to life and"
+msgstr "cidade, eles ganharam vida e"
+
+# mes "started rioting! This is clear";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "started rioting! This is clear"
+msgstr "começaram os tumultos! Isto é claro"
+
+# mes "proof that these bears are";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "proof that these bears are"
+msgstr "prova de que estes ursos são"
+
+# mes "controlled by some evil force. ";
+#: npc/cities/einbech.txt
+msgctxt "Franz#ein"
+msgid "controlled by some evil force. "
+msgstr "controlada por alguma força maligna. "
+
+# mes "Now those aggressive teddy";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Now those aggressive teddy"
+msgstr "Agora aqueles peluches agressivos"
+
+# mes "bears are scattered all over";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "bears are scattered all over"
+msgstr "ursos estão espalhados por toda parte"
+
+# mes "the place and the government";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "the place and the government"
+msgstr "o lugar e o governo"
+
+# mes "has classified them as monsters. Kill with extreme prejudice!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "has classified them as monsters. Kill with extreme prejudice!"
+msgstr "os classificou como monstros. Matem com extremo preconceito!"
+
+# mes "According to adventurers";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "According to adventurers"
+msgstr "De acordo com os aventureiros"
+
+# mes "who have caught these bears,";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "who have caught these bears,"
+msgstr "que apanharam esses ursos,"
+
+# mes "they're small, neutral monsters";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "they're small, neutral monsters"
+msgstr "eles são monstros pequenos e neutros"
+
+# mes "which drop Honey, Screw, Well-baked Cookie and Oridecon Hammer.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "which drop Honey, Screw, Well-baked Cookie and Oridecon Hammer."
+msgstr "que deixam cair Mel, Parafuso, Cookie bem assado e Martelo Oridecon."
+
+# mes "That's all I know";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "That's all I know"
+msgstr "Isso é tudo que eu sei"
+
+# mes "about it. Watch out";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "about it. Watch out"
+msgstr "sobre isso. Cuidado"
+
+# mes "for those bears if you";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "for those bears if you"
+msgstr "para esses ursos, se você"
+
+# mes "go exploring, okay? They";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "go exploring, okay? They"
+msgstr "ir explorar, certo? Eles"
+
+# mes "may be cute, but they're";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "may be cute, but they're"
+msgstr "podem ser bonitinhos, mas eles são"
+
+# mes "known to be extremely vicious!";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "known to be extremely vicious!"
+msgstr "conhecido por ser extremamente vicioso!"
+
+# mes "Oh, okay.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Oh, okay."
+msgstr "Está bem."
+
+# mes "You're busy and you have";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "You're busy and you have"
+msgstr "Você está ocupado e tem"
+
+# mes "things to do, I understand.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "things to do, I understand."
+msgstr "coisas para fazer, eu entendo."
+
+# mes "You probably have to head";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "You probably have to head"
+msgstr "Você provavelmente tem que dirigir"
+
+# mes "off somewhere right away.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "off somewhere right away."
+msgstr "em algum lugar de imediato."
+
+# mes "Right. Got it.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "Right. Got it."
+msgstr "Certo. Entendi."
+
+# mes "I...";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "I..."
+msgstr "I..."
+
+# mes "I've got stuff";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "I've got stuff"
+msgstr "Eu tenho coisas"
+
+# mes "I should be working";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "I should be working"
+msgstr "Eu deveria estar trabalhando"
+
+# mes "on. Yes. So very busy.";
+#: npc/cities/einbech.txt
+#, fuzzy
+msgctxt "Franz#ein"
+msgid "on. Yes. So very busy."
+msgstr "em. Sim. Muito ocupado."

@@ -1,0 +1,374 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/merchants/dye_maker.txt
+# mes "- Wait a moment! -";
+msgctxt "Java Dullihan"
+msgid "- Wait a moment! -"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "- Currently you're carrying -";
+msgctxt "Java Dullihan"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "- too many items with you. -";
+msgctxt "Java Dullihan"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "- Please come back later -";
+msgctxt "Java Dullihan"
+msgid "- Please come back later -"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "- after you put some items into kafra storage. -";
+msgctxt "Java Dullihan"
+msgid "- after you put some items into kafra storage. -"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "[Dye Maker Java Dullihan]";
+msgctxt "Java Dullihan"
+msgid "[Dye Maker Java Dullihan]"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Wow...";
+msgctxt "Java Dullihan"
+msgid "Wow..."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Such a nice day. Days like this are perfect to make dyes.";
+msgctxt "Java Dullihan"
+msgid "Such a nice day. Days like this are perfect to make dyes."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Talk", "Make Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "Talk"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Talk", "Make Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "Make Dyestuffs"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Talk", "Make Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Erm, I don't really have much to say to you. But, if you would like me to tell you about my life, I can do that. It's a little long and boring, but would you like to listen?";
+msgctxt "Java Dullihan"
+msgid "Erm, I don't really have much to say to you. But, if you would like me to tell you about my life, I can do that. It's a little long and boring, but would you like to listen?"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# if (select("Listen", "Don't Listen") == 1) {
+msgctxt "Java Dullihan"
+msgid "Listen"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# if (select("Listen", "Don't Listen") == 1) {
+msgctxt "Java Dullihan"
+msgid "Don't Listen"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "As long as I can remember, my father has been making dyes. He used to spend countless hours making dyes of different colors. Even when my mother passed away, he never stopped.";
+msgctxt "Java Dullihan"
+msgid "As long as I can remember, my father has been making dyes. He used to spend countless hours making dyes of different colors. Even when my mother passed away, he never stopped."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "At one point in my life, I became rebellious and ran away from home. I didn't want to be stuck to the family business and wanted to try other things.";
+msgctxt "Java Dullihan"
+msgid "At one point in my life, I became rebellious and ran away from home. I didn't want to be stuck to the family business and wanted to try other things."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Anyways...";
+msgctxt "Java Dullihan"
+msgid "Anyways..."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "I eventually wound up back home to carry on the family tradition, making dyes for 15 years already. I guess it was really in my blood.";
+msgctxt "Java Dullihan"
+msgid "I eventually wound up back home to carry on the family tradition, making dyes for 15 years already. I guess it was really in my blood."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Something I realized these days is that now I can understand my father. Why my father devoted everything to making dyes...";
+msgctxt "Java Dullihan"
+msgid "Something I realized these days is that now I can understand my father. Why my father devoted everything to making dyes..."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "In the middle of all that tedious and hard work, he probably felt the magic of those colors passing on so many dreams for other people.";
+msgctxt "Java Dullihan"
+msgid "In the middle of all that tedious and hard work, he probably felt the magic of those colors passing on so many dreams for other people."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "It was probably for those dreams that he tried so hard to make dyes for his customers...";
+msgctxt "Java Dullihan"
+msgid "It was probably for those dreams that he tried so hard to make dyes for his customers..."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Heh... How do I know this? Well, that's the way I feel right now. Since a couple years ago, I've been able to hear what the colors were saying...";
+msgctxt "Java Dullihan"
+msgid "Heh... How do I know this? Well, that's the way I feel right now. Since a couple years ago, I've been able to hear what the colors were saying..."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "[Dye Maker Java Dullian]";
+msgctxt "Java Dullihan"
+msgid "[Dye Maker Java Dullian]"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Just watch. Someday, I'm going to succeed in making the color my father wanted to, but never got the chance to make.";
+msgctxt "Java Dullihan"
+msgid "Just watch. Someday, I'm going to succeed in making the color my father wanted to, but never got the chance to make."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Ahahahaha...";
+msgctxt "Java Dullihan"
+msgid "Ahahahaha..."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Well, I guess no one would want to listen to a measly dyemaker's story anyway. Hahaha....";
+msgctxt "Java Dullihan"
+msgid "Well, I guess no one would want to listen to a measly dyemaker's story anyway. Hahaha...."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Great! If you want it, I'll make it for you. I promise I'll make you the color you want. But what color dye would you like to make? The fee is different depending on the color.";
+msgctxt "Java Dullihan"
+msgid "Great! If you want it, I'll make it for you. I promise I'll make you the color you want. But what color dye would you like to make? The fee is different depending on the color."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Why, do you ask? Just remember that there are colors that are easy to make, and those that require more effort and work. Please don't think the fee is too expensive.";
+msgctxt "Java Dullihan"
+msgid "Why, do you ask? Just remember that there are colors that are easy to make, and those that require more effort and work. Please don't think the fee is too expensive."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "The color of the dye is special, made with all my heart and soul.";
+msgctxt "Java Dullihan"
+msgid "The color of the dye is special, made with all my heart and soul."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Scarlet Dyestuffs", "Lemon Dyestuffs", "Cobaltblue Dyestuffs", "Darkgreen Dyestuffs", "Orange Dyestuffs", "Violet Dyestuffs", "White Dyestuffs", "Black Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "Scarlet Dyestuffs"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Scarlet Dyestuffs", "Lemon Dyestuffs", "Cobaltblue Dyestuffs", "Darkgreen Dyestuffs", "Orange Dyestuffs", "Violet Dyestuffs", "White Dyestuffs", "Black Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "Lemon Dyestuffs"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Scarlet Dyestuffs", "Lemon Dyestuffs", "Cobaltblue Dyestuffs", "Darkgreen Dyestuffs", "Orange Dyestuffs", "Violet Dyestuffs", "White Dyestuffs", "Black Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "Cobaltblue Dyestuffs"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Scarlet Dyestuffs", "Lemon Dyestuffs", "Cobaltblue Dyestuffs", "Darkgreen Dyestuffs", "Orange Dyestuffs", "Violet Dyestuffs", "White Dyestuffs", "Black Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "Darkgreen Dyestuffs"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Scarlet Dyestuffs", "Lemon Dyestuffs", "Cobaltblue Dyestuffs", "Darkgreen Dyestuffs", "Orange Dyestuffs", "Violet Dyestuffs", "White Dyestuffs", "Black Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "Orange Dyestuffs"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Scarlet Dyestuffs", "Lemon Dyestuffs", "Cobaltblue Dyestuffs", "Darkgreen Dyestuffs", "Orange Dyestuffs", "Violet Dyestuffs", "White Dyestuffs", "Black Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "Violet Dyestuffs"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Scarlet Dyestuffs", "Lemon Dyestuffs", "Cobaltblue Dyestuffs", "Darkgreen Dyestuffs", "Orange Dyestuffs", "Violet Dyestuffs", "White Dyestuffs", "Black Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "White Dyestuffs"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# switch(select("Scarlet Dyestuffs", "Lemon Dyestuffs", "Cobaltblue Dyestuffs", "Darkgreen Dyestuffs", "Orange Dyestuffs", "Violet Dyestuffs", "White Dyestuffs", "Black Dyestuffs", "Cancel")) {
+msgctxt "Java Dullihan"
+msgid "Black Dyestuffs"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Eeeehhhh!! What's this? You change your mind now!? So disappointing...";
+msgctxt "Java Dullihan"
+msgid "Eeeehhhh!! What's this? You change your mind now!? So disappointing..."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "I'm not bragging or anything. But I have the skills to make dyestuff. If you ever need dyestuff, please come to me. I'll make them for you at a reasonable price.";
+msgctxt "Java Dullihan"
+msgid "I'm not bragging or anything. But I have the skills to make dyestuff. If you ever need dyestuff, please come to me. I'll make them for you at a reasonable price."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Mmm... I need 30 Red Herbs, 1 Counteragent, and 1 Empty Bottle to make Red Dyestuffs. The fee is only 3000 zeny to make it.";
+msgctxt "Java Dullihan"
+msgid "Mmm... I need 30 Red Herbs, 1 Counteragent, and 1 Empty Bottle to make Red Dyestuffs. The fee is only 3000 zeny to make it."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Mmm... I need 30 Yellow Herbs, 1 Couneragent, and 1 Empty Bottle to make Lemon Dyestuffs. The fee is only 3000 zeny to make it.";
+msgctxt "Java Dullihan"
+msgid "Mmm... I need 30 Yellow Herbs, 1 Couneragent, and 1 Empty Bottle to make Lemon Dyestuffs. The fee is only 3000 zeny to make it."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Mmm... I need 20 Blue Herbs, 1 Counteragent, and 1 Empty Bottle to make Cobaltblue Dyestuff. It's hard to use the Blue Herb, so the fee is going to be 3500 zeny.";
+msgctxt "Java Dullihan"
+msgid "Mmm... I need 20 Blue Herbs, 1 Counteragent, and 1 Empty Bottle to make Cobaltblue Dyestuff. It's hard to use the Blue Herb, so the fee is going to be 3500 zeny."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Mmm... I need 5 Blue Herbs, 20 Green Herbs, 20 Yellow Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle to make Darkgreen Dyestuffs. Don't get all of the materials confused. The fee is only 5000 zeny.";
+msgctxt "Java Dullihan"
+msgid "Mmm... I need 5 Blue Herbs, 20 Green Herbs, 20 Yellow Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle to make Darkgreen Dyestuffs. Don't get all of the materials confused. The fee is only 5000 zeny."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Mmm... I need 20 Red Herbs, 20 Yellow Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle to make Orange Dyestuff. The fee is going to be 5000 zeny.";
+msgctxt "Java Dullihan"
+msgid "Mmm... I need 20 Red Herbs, 20 Yellow Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle to make Orange Dyestuff. The fee is going to be 5000 zeny."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Mmm... I need 10 Blue Herbs, 30 Red Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle to make Violet Dyestuffs. The fee will be 5000 zeny.";
+msgctxt "Java Dullihan"
+msgid "Mmm... I need 10 Blue Herbs, 30 Red Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle to make Violet Dyestuffs. The fee will be 5000 zeny."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Mmm... I need 30 White Herbs, 1 Counteragent, and 1 Empty bottle to make White Dyestuffs. The fee will be 3000 zeny.";
+msgctxt "Java Dullihan"
+msgid "Mmm... I need 30 White Herbs, 1 Counteragent, and 1 Empty bottle to make White Dyestuffs. The fee will be 3000 zeny."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Mmm... I need 30 of each Red, Yellow, and Green Herb, 5 Blue Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle. The process takes longer and more effort than the others, so it is going to be 7000 zeny.";
+msgctxt "Java Dullihan"
+msgid "Mmm... I need 30 of each Red, Yellow, and Green Herb, 5 Blue Herbs, 1 Counteragent, 1 Mixture, and 1 Empty Bottle. The process takes longer and more effort than the others, so it is going to be 7000 zeny."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# case 1: mes "Ah! I think you would have everything ready. Would you like to start the process?"; break;
+msgctxt "Java Dullihan"
+msgid "Ah! I think you would have everything ready. Would you like to start the process?"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# case 2: mes "Okay! I believe you would have everything ready. Would you like to start the process?"; break;
+msgctxt "Java Dullihan"
+msgid "Okay! I believe you would have everything ready. Would you like to start the process?"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# case 3: mes "Okay! I believe you would have everything ready. Shall we begin the process?"; break;
+msgctxt "Java Dullihan"
+msgid "Okay! I believe you would have everything ready. Shall we begin the process?"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# case 4: mes "Okay! I believe you would have everything prepared. Would you like to start the process?"; break;
+msgctxt "Java Dullihan"
+msgid "Okay! I believe you would have everything prepared. Would you like to start the process?"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Hmmm. Not enough...";
+msgctxt "Java Dullihan"
+msgid "Hmmm. Not enough..."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "I don't think I'll be able to make the color you want with those materials. Why don't you go get some more materials...?";
+msgctxt "Java Dullihan"
+msgid "I don't think I'll be able to make the color you want with those materials. Why don't you go get some more materials...?"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Hmm... It came out pretty well. A very rich color. Of course I'll be trying harder to make a more charming color...";
+msgctxt "Java Dullihan"
+msgid "Hmm... It came out pretty well. A very rich color. Of course I'll be trying harder to make a more charming color..."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Well, then. Stop by whenever you need more dyes.";
+msgctxt "Java Dullihan"
+msgid "Well, then. Stop by whenever you need more dyes."
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "Eeeehhhh!! What's this?";
+msgctxt "Java Dullihan"
+msgid "Eeeehhhh!! What's this?"
+msgstr ""
+
+#: npc/merchants/dye_maker.txt
+# mes "You change your mind now!? So disappointing...";
+msgctxt "Java Dullihan"
+msgid "You change your mind now!? So disappointing..."
+msgstr ""

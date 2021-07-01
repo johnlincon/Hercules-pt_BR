@@ -1,0 +1,1298 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/merchants/novice_exchange.txt
+# mes "[Merchant]";
+msgctxt "Merchant#pron"
+msgid "[Merchant]"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Haha!";
+msgctxt "Merchant#pron"
+msgid "Haha!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What are you, superhuman?";
+msgctxt "Merchant#pron"
+msgid "What are you, superhuman?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You're carrying so much stuff!";
+msgctxt "Merchant#pron"
+msgid "You're carrying so much stuff!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You better put some of that";
+msgctxt "Merchant#pron"
+msgid "You better put some of that"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "into Kafra Storage~";
+msgctxt "Merchant#pron"
+msgid "into Kafra Storage~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Good day!";
+msgctxt "Merchant#pron"
+msgid "Good day!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Have you collected any";
+msgctxt "Merchant#pron"
+msgid "Have you collected any"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "items like Shells or Fluff?";
+msgctxt "Merchant#pron"
+msgid "items like Shells or Fluff?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What about Jellopies? Oh yeah,";
+msgctxt "Merchant#pron"
+msgid "What about Jellopies? Oh yeah,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "I need those for something.";
+msgctxt "Merchant#pron"
+msgid "I need those for something."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Of course, I won't ask you";
+msgctxt "Merchant#pron"
+msgid "Of course, I won't ask you"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "to give me that stuff for free. What about if I trade a Red Potion for 5 Shells, 10 Fluff,";
+msgctxt "Merchant#pron"
+msgid "to give me that stuff for free. What about if I trade a Red Potion for 5 Shells, 10 Fluff,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "or 10 Jellopies?";
+msgctxt "Merchant#pron"
+msgid "or 10 Jellopies?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#pron"
+msgid "Sure!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#pron"
+msgid "I think it's a rip-off!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#pron"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "So which item do";
+msgctxt "Merchant#pron"
+msgid "So which item do"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "you want to bring me?";
+msgctxt "Merchant#pron"
+msgid "you want to bring me?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Shells, Fluffs, or Jellopies?";
+msgctxt "Merchant#pron"
+msgid "Shells, Fluffs, or Jellopies?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Jellopies", "Fluff", "Cancel")) {
+msgctxt "Merchant#pron"
+msgid "Shells"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Jellopies", "Fluff", "Cancel")) {
+msgctxt "Merchant#pron"
+msgid "Jellopies"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Jellopies", "Fluff", "Cancel")) {
+msgctxt "Merchant#pron"
+msgid "Fluff"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Jellopies", "Fluff", "Cancel")) {
+msgctxt "Merchant#pron"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Sure~";
+msgctxt "Merchant#pron"
+msgid "Sure~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "No problem.";
+msgctxt "Merchant#pron"
+msgid "No problem."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "A rip-off...?";
+msgctxt "Merchant#pron"
+msgid "A rip-off...?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "If you check the market value";
+msgctxt "Merchant#pron"
+msgid "If you check the market value"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "of the items being traded, I'm actually the one getting";
+msgctxt "Merchant#pron"
+msgid "of the items being traded, I'm actually the one getting"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "ripped off here.";
+msgctxt "Merchant#pron"
+msgid "ripped off here."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Alright,";
+msgctxt "Merchant#pron"
+msgid "Alright,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "no problem.";
+msgctxt "Merchant#pron"
+msgid "no problem."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "But come back to me";
+msgctxt "Merchant#pron"
+msgid "But come back to me"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "if you change your mind.";
+msgctxt "Merchant#pron"
+msgid "if you change your mind."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "[Merchant]";
+msgctxt "Merchant#morroc"
+msgid "[Merchant]"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Haha!";
+msgctxt "Merchant#morroc"
+msgid "Haha!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What are you, superhuman?";
+msgctxt "Merchant#morroc"
+msgid "What are you, superhuman?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You're carrying so much stuff!";
+msgctxt "Merchant#morroc"
+msgid "You're carrying so much stuff!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You better put some of that";
+msgctxt "Merchant#morroc"
+msgid "You better put some of that"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "into Kafra Storage~";
+msgctxt "Merchant#morroc"
+msgid "into Kafra Storage~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Good day!";
+msgctxt "Merchant#morroc"
+msgid "Good day!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Have you collected any";
+msgctxt "Merchant#morroc"
+msgid "Have you collected any"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Shells or Feathers of Bird?";
+msgctxt "Merchant#morroc"
+msgid "Shells or Feathers of Bird?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What about Jellopies? Oh yeah,";
+msgctxt "Merchant#morroc"
+msgid "What about Jellopies? Oh yeah,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "I need those for something.";
+msgctxt "Merchant#morroc"
+msgid "I need those for something."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Of course, I won't ask you";
+msgctxt "Merchant#morroc"
+msgid "Of course, I won't ask you"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "to give me that stuff for free. What about if I trade a Red Potion for 5 Shells, 7 Feathers of Bird";
+msgctxt "Merchant#morroc"
+msgid "to give me that stuff for free. What about if I trade a Red Potion for 5 Shells, 7 Feathers of Bird"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "or 10 Jellopies?";
+msgctxt "Merchant#morroc"
+msgid "or 10 Jellopies?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#morroc"
+msgid "Sure!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#morroc"
+msgid "I think it's a rip-off!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#morroc"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "So which item do";
+msgctxt "Merchant#morroc"
+msgid "So which item do"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "you want to bring me?";
+msgctxt "Merchant#morroc"
+msgid "you want to bring me?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Shells, Feathers of Birds,";
+msgctxt "Merchant#morroc"
+msgid "Shells, Feathers of Birds,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "or Jellopies?";
+msgctxt "Merchant#morroc"
+msgid "or Jellopies?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Feathers of Birds", "Jellopies", "Cancel")) {
+msgctxt "Merchant#morroc"
+msgid "Shells"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Feathers of Birds", "Jellopies", "Cancel")) {
+msgctxt "Merchant#morroc"
+msgid "Feathers of Birds"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Feathers of Birds", "Jellopies", "Cancel")) {
+msgctxt "Merchant#morroc"
+msgid "Jellopies"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Feathers of Birds", "Jellopies", "Cancel")) {
+msgctxt "Merchant#morroc"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Sure~";
+msgctxt "Merchant#morroc"
+msgid "Sure~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "No problem.";
+msgctxt "Merchant#morroc"
+msgid "No problem."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "A rip-off...?";
+msgctxt "Merchant#morroc"
+msgid "A rip-off...?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "If you check the market value";
+msgctxt "Merchant#morroc"
+msgid "If you check the market value"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "of the items being traded, I'm actually the one getting";
+msgctxt "Merchant#morroc"
+msgid "of the items being traded, I'm actually the one getting"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "ripped off here.";
+msgctxt "Merchant#morroc"
+msgid "ripped off here."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Alright,";
+msgctxt "Merchant#morroc"
+msgid "Alright,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "no problem.";
+msgctxt "Merchant#morroc"
+msgid "no problem."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "But come back to me";
+msgctxt "Merchant#morroc"
+msgid "But come back to me"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "if you change your mind.";
+msgctxt "Merchant#morroc"
+msgid "if you change your mind."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "[Merchant]";
+msgctxt "Merchant#pay"
+msgid "[Merchant]"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Haha!";
+msgctxt "Merchant#pay"
+msgid "Haha!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What are you, superhuman?";
+msgctxt "Merchant#pay"
+msgid "What are you, superhuman?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You're carrying so much stuff!";
+msgctxt "Merchant#pay"
+msgid "You're carrying so much stuff!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You better put some of that";
+msgctxt "Merchant#pay"
+msgid "You better put some of that"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "into Kafra Storage~";
+msgctxt "Merchant#pay"
+msgid "into Kafra Storage~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Good day!";
+msgctxt "Merchant#pay"
+msgid "Good day!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Have you collected";
+msgctxt "Merchant#pay"
+msgid "Have you collected"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "items like Tree Roots?";
+msgctxt "Merchant#pay"
+msgid "items like Tree Roots?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What about Jellopies? Oh yeah,";
+msgctxt "Merchant#pay"
+msgid "What about Jellopies? Oh yeah,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "I need those for something.";
+msgctxt "Merchant#pay"
+msgid "I need those for something."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Of course, I won't ask you";
+msgctxt "Merchant#pay"
+msgid "Of course, I won't ask you"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "to give me that stuff for free. What about if I trade a Red Potion for 6 Tree Roots or 10 Jellopies?";
+msgctxt "Merchant#pay"
+msgid "to give me that stuff for free. What about if I trade a Red Potion for 6 Tree Roots or 10 Jellopies?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#pay"
+msgid "Sure!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#pay"
+msgid "I think it's a rip-off!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#pay"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "So which item do";
+msgctxt "Merchant#pay"
+msgid "So which item do"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "you want to bring me?";
+msgctxt "Merchant#pay"
+msgid "you want to bring me?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Tree Roots, or Jellopies?";
+msgctxt "Merchant#pay"
+msgid "Tree Roots, or Jellopies?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Tree Roots", "Jellopies", "Cancel")) {
+msgctxt "Merchant#pay"
+msgid "Tree Roots"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Tree Roots", "Jellopies", "Cancel")) {
+msgctxt "Merchant#pay"
+msgid "Jellopies"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Tree Roots", "Jellopies", "Cancel")) {
+msgctxt "Merchant#pay"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Sure~";
+msgctxt "Merchant#pay"
+msgid "Sure~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "No problem.";
+msgctxt "Merchant#pay"
+msgid "No problem."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "A rip-off...?";
+msgctxt "Merchant#pay"
+msgid "A rip-off...?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "If you check the market value";
+msgctxt "Merchant#pay"
+msgid "If you check the market value"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "of the items being traded, I'm actually the one getting";
+msgctxt "Merchant#pay"
+msgid "of the items being traded, I'm actually the one getting"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "ripped off here.";
+msgctxt "Merchant#pay"
+msgid "ripped off here."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Alright,";
+msgctxt "Merchant#pay"
+msgid "Alright,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "no problem.";
+msgctxt "Merchant#pay"
+msgid "no problem."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "But come back to me";
+msgctxt "Merchant#pay"
+msgid "But come back to me"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "if you change your mind.";
+msgctxt "Merchant#pay"
+msgid "if you change your mind."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "[Merchant]";
+msgctxt "Merchant#alde"
+msgid "[Merchant]"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Haha!";
+msgctxt "Merchant#alde"
+msgid "Haha!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What are you, superhuman?";
+msgctxt "Merchant#alde"
+msgid "What are you, superhuman?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You're carrying so much stuff!";
+msgctxt "Merchant#alde"
+msgid "You're carrying so much stuff!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You better put some of that";
+msgctxt "Merchant#alde"
+msgid "You better put some of that"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "into Kafra Storage~";
+msgctxt "Merchant#alde"
+msgid "into Kafra Storage~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Good day!";
+msgctxt "Merchant#alde"
+msgid "Good day!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Have you collected any";
+msgctxt "Merchant#alde"
+msgid "Have you collected any"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Worm Peelings or Feather of Birds?";
+msgctxt "Merchant#alde"
+msgid "Worm Peelings or Feather of Birds?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "How about Jellopies? Oh yeah,";
+msgctxt "Merchant#alde"
+msgid "How about Jellopies? Oh yeah,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "I need those for something.";
+msgctxt "Merchant#alde"
+msgid "I need those for something."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Of course, I won't ask you";
+msgctxt "Merchant#alde"
+msgid "Of course, I won't ask you"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "to give me that stuff for free. What about if I trade a Red Potion for 1 Worm Peeling, 7 Feather of Birds, or 10 Jellopies?";
+msgctxt "Merchant#alde"
+msgid "to give me that stuff for free. What about if I trade a Red Potion for 1 Worm Peeling, 7 Feather of Birds, or 10 Jellopies?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#alde"
+msgid "Sure!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#alde"
+msgid "I think it's a rip-off!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#alde"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "So which item do";
+msgctxt "Merchant#alde"
+msgid "So which item do"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "you want to bring me?";
+msgctxt "Merchant#alde"
+msgid "you want to bring me?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Feathers of Birds?";
+msgctxt "Merchant#alde"
+msgid "Feathers of Birds?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Worm Peelings?";
+msgctxt "Merchant#alde"
+msgid "Worm Peelings?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Or Jellopies?";
+msgctxt "Merchant#alde"
+msgid "Or Jellopies?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Worm Peelings", "Feathers of Birds", "Jellopies", "Cancel")) {
+msgctxt "Merchant#alde"
+msgid "Worm Peelings"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Worm Peelings", "Feathers of Birds", "Jellopies", "Cancel")) {
+msgctxt "Merchant#alde"
+msgid "Feathers of Birds"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Worm Peelings", "Feathers of Birds", "Jellopies", "Cancel")) {
+msgctxt "Merchant#alde"
+msgid "Jellopies"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Worm Peelings", "Feathers of Birds", "Jellopies", "Cancel")) {
+msgctxt "Merchant#alde"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Sure~";
+msgctxt "Merchant#alde"
+msgid "Sure~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "No problem.";
+msgctxt "Merchant#alde"
+msgid "No problem."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "A rip-off...?";
+msgctxt "Merchant#alde"
+msgid "A rip-off...?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "If you check the market value";
+msgctxt "Merchant#alde"
+msgid "If you check the market value"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "of the items being traded, I'm actually the one getting";
+msgctxt "Merchant#alde"
+msgid "of the items being traded, I'm actually the one getting"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "ripped off here.";
+msgctxt "Merchant#alde"
+msgid "ripped off here."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Alright,";
+msgctxt "Merchant#alde"
+msgid "Alright,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "no problem.";
+msgctxt "Merchant#alde"
+msgid "no problem."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "But come back to me";
+msgctxt "Merchant#alde"
+msgid "But come back to me"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "if you change your mind.";
+msgctxt "Merchant#alde"
+msgid "if you change your mind."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "[Merchant]";
+msgctxt "Merchant#geff"
+msgid "[Merchant]"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Haha!";
+msgctxt "Merchant#geff"
+msgid "Haha!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What are you, superhuman?";
+msgctxt "Merchant#geff"
+msgid "What are you, superhuman?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You're carrying so much stuff!";
+msgctxt "Merchant#geff"
+msgid "You're carrying so much stuff!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You better put some of that";
+msgctxt "Merchant#geff"
+msgid "You better put some of that"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "into Kafra Storage~";
+msgctxt "Merchant#geff"
+msgid "into Kafra Storage~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Good day!";
+msgctxt "Merchant#geff"
+msgid "Good day!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Have you collected any";
+msgctxt "Merchant#geff"
+msgid "Have you collected any"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "items like Shells or Chrysalises?";
+msgctxt "Merchant#geff"
+msgid "items like Shells or Chrysalises?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What about Jellopies? Oh yeah,";
+msgctxt "Merchant#geff"
+msgid "What about Jellopies? Oh yeah,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "I need those for something.";
+msgctxt "Merchant#geff"
+msgid "I need those for something."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Of course, I won't ask you";
+msgctxt "Merchant#geff"
+msgid "Of course, I won't ask you"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "to give me that stuff for free. What about if I trade a Red Potion for 5 Shells or 6 Chrysalises, or 10 Jellopies?";
+msgctxt "Merchant#geff"
+msgid "to give me that stuff for free. What about if I trade a Red Potion for 5 Shells or 6 Chrysalises, or 10 Jellopies?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#geff"
+msgid "Sure!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#geff"
+msgid "I think it's a rip-off!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Sure!", "I think it's a rip-off!", "No, thanks.")) {
+msgctxt "Merchant#geff"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "So which item do";
+msgctxt "Merchant#geff"
+msgid "So which item do"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "you want to bring me?";
+msgctxt "Merchant#geff"
+msgid "you want to bring me?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Shells, Chrysalises, or Jellopies?";
+msgctxt "Merchant#geff"
+msgid "Shells, Chrysalises, or Jellopies?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Chrysalises", "Jellopies", "Cancel")) {
+msgctxt "Merchant#geff"
+msgid "Shells"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Chrysalises", "Jellopies", "Cancel")) {
+msgctxt "Merchant#geff"
+msgid "Chrysalises"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Chrysalises", "Jellopies", "Cancel")) {
+msgctxt "Merchant#geff"
+msgid "Jellopies"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# switch(select("Shells", "Chrysalises", "Jellopies", "Cancel")) {
+msgctxt "Merchant#geff"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Sure~";
+msgctxt "Merchant#geff"
+msgid "Sure~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "No problem.";
+msgctxt "Merchant#geff"
+msgid "No problem."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "A rip-off...?";
+msgctxt "Merchant#geff"
+msgid "A rip-off...?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "If you check the market value";
+msgctxt "Merchant#geff"
+msgid "If you check the market value"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "of the items being traded, I'm actually the one getting";
+msgctxt "Merchant#geff"
+msgid "of the items being traded, I'm actually the one getting"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "ripped off here.";
+msgctxt "Merchant#geff"
+msgid "ripped off here."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Alright,";
+msgctxt "Merchant#geff"
+msgid "Alright,"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "no problem.";
+msgctxt "Merchant#geff"
+msgid "no problem."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "But come back to me";
+msgctxt "Merchant#geff"
+msgid "But come back to me"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "if you change your mind.";
+msgctxt "Merchant#geff"
+msgid "if you change your mind."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "[Merchant]";
+msgctxt "F_PotExchange"
+msgid "[Merchant]"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Hey, where are";
+msgctxt "F_PotExchange"
+msgid "Hey, where are"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "all those "+getitemname(getarg(0))+"";
+msgctxt "F_PotExchange"
+msgid "all those "
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "that you promised?";
+msgctxt "F_PotExchange"
+msgid "that you promised?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Give me "+getitemname(getarg(0))+"!";
+msgctxt "F_PotExchange"
+msgid "Give me "
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Okay, let me check";
+msgctxt "F_PotExchange"
+msgid "Okay, let me check"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "how many "+getitemname(getarg(0))+" you";
+msgctxt "F_PotExchange"
+msgid "how many "
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "have on you. Hmm...";
+msgctxt "F_PotExchange"
+msgid "have on you. Hmm..."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You have";
+msgctxt "F_PotExchange"
+msgid "You have"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "a total of " + countitem(getarg(0)) + " "+getitemname(getarg(0))+".";
+msgctxt "F_PotExchange"
+msgid "a total of "
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "I can give you a total";
+msgctxt "F_PotExchange"
+msgid "I can give you a total"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "of " + (countitem(getarg(0))/getarg(1)) + " Red Potions for those.";
+msgctxt "F_PotExchange"
+msgid "of "
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What do you say?";
+msgctxt "F_PotExchange"
+msgid "What do you say?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Do we have a deal?";
+msgctxt "F_PotExchange"
+msgid "Do we have a deal?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# if (select("Deal.", "No deal.") == 1) {
+msgctxt "F_PotExchange"
+msgid "Deal."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# if (select("Deal.", "No deal.") == 1) {
+msgctxt "F_PotExchange"
+msgid "No deal."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "You know the exact";
+msgctxt "F_PotExchange"
+msgid "You know the exact"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "number of Red Potions";
+msgctxt "F_PotExchange"
+msgid "number of Red Potions"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "you want to receive for";
+msgctxt "F_PotExchange"
+msgid "you want to receive for"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "those "+getitemname(getarg(0))+", don't you?";
+msgctxt "F_PotExchange"
+msgid "those "
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Now, I can trade you";
+msgctxt "F_PotExchange"
+msgid "Now, I can trade you"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "a minimum of 1 Red Potion";
+msgctxt "F_PotExchange"
+msgid "a minimum of 1 Red Potion"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "and a maximum of 100 Red Potions";
+msgctxt "F_PotExchange"
+msgid "and a maximum of 100 Red Potions"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "at one time. If you change your";
+msgctxt "F_PotExchange"
+msgid "at one time. If you change your"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "mind, just enter '0' to cancel.";
+msgctxt "F_PotExchange"
+msgid "mind, just enter '0' to cancel."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "What...?";
+msgctxt "F_PotExchange"
+msgid "What...?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Why the hell do you";
+msgctxt "F_PotExchange"
+msgid "Why the hell do you"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "even bother to talk to me?";
+msgctxt "F_PotExchange"
+msgid "even bother to talk to me?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Pretty indecisive, aren't you?";
+msgctxt "F_PotExchange"
+msgid "Pretty indecisive, aren't you?"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "I can't give you more";
+msgctxt "F_PotExchange"
+msgid "I can't give you more"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "than 100 Red Potions";
+msgctxt "F_PotExchange"
+msgid "than 100 Red Potions"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "at once. Let's try";
+msgctxt "F_PotExchange"
+msgid "at once. Let's try"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "this again.";
+msgctxt "F_PotExchange"
+msgid "this again."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Uh oh, the number you entered doesn't seem right. You better check the number of Red Potions that you can trade for again.";
+msgctxt "F_PotExchange"
+msgid "Uh oh, the number you entered doesn't seem right. You better check the number of Red Potions that you can trade for again."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "There you go!";
+msgctxt "F_PotExchange"
+msgid "There you go!"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Check how many Red Potions";
+msgctxt "F_PotExchange"
+msgid "Check how many Red Potions"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "I've given you, it should be good. Thanks, that was a good deal~";
+msgctxt "F_PotExchange"
+msgid "I've given you, it should be good. Thanks, that was a good deal~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Huh~";
+msgctxt "F_PotExchange"
+msgid "Huh~"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Alright.";
+msgctxt "F_PotExchange"
+msgid "Alright."
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Though aren't";
+msgctxt "F_PotExchange"
+msgid "Though aren't"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "Red Potions more useful";
+msgctxt "F_PotExchange"
+msgid "Red Potions more useful"
+msgstr ""
+
+#: npc/merchants/novice_exchange.txt
+# mes "to an adventurer like you?";
+msgctxt "F_PotExchange"
+msgid "to an adventurer like you?"
+msgstr ""

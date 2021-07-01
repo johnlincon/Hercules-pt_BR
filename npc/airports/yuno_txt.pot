@@ -1,0 +1,266 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/airports/yuno.txt
+# mes("[Airport Staff]");
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "[Airport Staff]"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Welcome to Juno Airport where we offer domestic flights to Einbroch, Lighthalzen and Hugel,\r"
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Welcome to Juno Airport where we offer domestic flights to Einbroch, Lighthalzen and Hugel,\rand international flights to Izlude and Rachel."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("How may I be of service?");
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "How may I be of service?"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Board the Airship.", "Cancel.") == 1) {
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Board the Airship."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Board the Airship.", "Cancel.") == 1) {
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Cancel."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("The boarding fee for all\r"
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "The boarding fee for all\rflights is 1,200 zeny. If you\ruse a Free Ticket for Airship,\rthe boarding fee will be waived.So would you like to depart?"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Yes"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "No"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("I'm sorry, but you don't\r"
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "I'm sorry, but you don't\rhave 1,200 zeny to pay\rfor the boarding fee."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Thank you and\r"
+msgctxt "Airport Staff#y_air1a::y_airport1"
+msgid "Thank you and\rhave a nice day."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("[Airport Staff]");
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "[Airport Staff]"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Welcome to Juno Airport. If you've just arrived from your\r"
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Welcome to Juno Airport. If you've just arrived from your\rflight, let me guide you to the main terminal. Otherwise, please\rboard the departing Airship to reach your intended destination."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Exit to main terminal", "Cancel") == 1) {
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Exit to main terminal"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Exit to main terminal", "Cancel") == 1) {
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Cancel"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Once you're in the main terminal, you must pay the fee once again\r"
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Once you're in the main terminal, you must pay the fee once again\rto board a departing Airship. You should only exit if your intended\rdestination is Juno. Proceed to\rexit to the main terminal?"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Yes"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "No"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Alright, thank you\r"
+msgctxt "Arrival Staff#y_air2a::y_airport2"
+msgid "Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant flight~"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("[Boarding Staff]");
+msgctxt "Domestic Boarding"
+msgid "[Boarding Staff]"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Would you like to board the\r"
+msgctxt "Domestic Boarding"
+msgid "Would you like to board the\rAirship that flies to Einbroch,\rLighthalzen and Hugel? If so,\rplease let me guide you to that\rAirship's boarding area."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Domestic Boarding"
+msgid "Yes"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Domestic Boarding"
+msgid "No"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Very well, then.");
+msgctxt "Domestic Boarding"
+msgid "Very well, then."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Thank you for your\r"
+msgctxt "Domestic Boarding"
+msgid "Thank you for your\rpatronage, and I hope\ryou enjoy your travels~"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("[Boarding Staff]");
+msgctxt "International Boarding"
+msgid "[Boarding Staff]"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Would you like to board\r"
+msgctxt "International Boarding"
+msgid "Would you like to board\rthe Airship which flies to\rJuno, Izlude and Rachel?"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("If so, let me guide\r"
+msgctxt "International Boarding"
+msgid "If so, let me guide\ryou to the boarding area."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "International Boarding"
+msgid "Yes"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "International Boarding"
+msgid "No"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Alright, then.");
+msgctxt "International Boarding"
+msgid "Alright, then."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Thank you for flying\r"
+msgctxt "International Boarding"
+msgid "Thank you for flying\rwith us, and I hope you\renjoy your travels on our\rstate of the art Airships."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("[Airship Staff]");
+msgctxt "Airship Staff#yuno01"
+msgid "[Airship Staff]"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Welcome to Juno Airport.");
+msgctxt "Airship Staff#yuno01"
+msgid "Welcome to Juno Airport."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Please use this door to\r"
+msgctxt "Airship Staff#yuno01"
+msgid "Please use this door to\rboard the Airship that will\rbe flying all the way to Izlude\rin the Rune-Midgarts Kingdom,\rand to Rachel in the Arunafeltz\rRepublic."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Otherwise, if Juno is\r"
+msgctxt "Airship Staff#yuno01"
+msgid "Otherwise, if Juno is\ryour intended destination,\rplease head down the stairs\rand ask the Arrival Staff to lead\ryou to the main terminal. Thank\ryou, and enjoy your travels."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("[Airship Staff]");
+msgctxt "Airship Staff#yuno02"
+msgid "[Airship Staff]"
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Welcome to Juno Airport.");
+msgctxt "Airship Staff#yuno02"
+msgid "Welcome to Juno Airport."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Please use this door to\r"
+msgctxt "Airship Staff#yuno02"
+msgid "Please use this door to\rboard the Airship which stops\rover Einbroch, Lighthalzen and\rHugel in the Schwaltzvalt Republic."
+msgstr ""
+
+#: npc/airports/yuno.txt
+# mes("Otherwise, if Juno is\r"
+msgctxt "Airship Staff#yuno02"
+msgid "Otherwise, if Juno is\ryour intended destination,\rplease head down the stairs\rand ask the Arrival Staff to lead\ryou to the main terminal. Thank\ryou, and enjoy your travels."
+msgstr ""

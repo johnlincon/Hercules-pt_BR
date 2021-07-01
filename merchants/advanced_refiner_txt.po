@@ -1,0 +1,357 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 12:27-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes("[Suhnbi]");
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "[Suhnbi]"
+msgstr "[Suhnbi]"
+
+# mes("I am the Armsmith");
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "I am the Armsmith"
+msgstr "Eu sou o Armsmith"
+
+# mes("I can refine all kinds of weapons,");
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "I can refine all kinds of weapons,"
+msgstr "Eu posso refinar todos os tipos de armas,"
+
+# mes("armor and equipment, so let me");
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "armor and equipment, so let me"
+msgstr "armadura e equipamentos, então deixe-me"
+
+# mes("know what you want to refine.");
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "know what you want to refine."
+msgstr "saiba o que você quer refinar."
+
+# mes "I don't think I can refine any items you have...";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "I don't think I can refine any items you have..."
+msgstr "Acho que não posso refinar nenhum item que você tenha..."
+
+# mes "Go find another Blacksmith. You can't refine this thing.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Go find another Blacksmith. You can't refine this thing."
+msgstr "Vá procurar outro ferreiro. Você não pode refinar esta coisa."
+
+# mes "Hmm... someone perfected this already. I don't think I can work on it further.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid ""
+"Hmm... someone perfected this already. I don't think I can work on it "
+"further."
+msgstr ""
+"Hmm... alguém já aperfeiçoou isto. Acho que não posso trabalhar mais nisso."
+
+# mes "Clang! Clang! Clang!";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Clang! Clang! Clang!"
+msgstr "Clang! Clang! Clang!"
+
+# mes "There you go! It's done.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "There you go! It's done."
+msgstr "Aí está! Está feito."
+
+# mes "It's been a while since I've made such a fine "+((getequipweaponlv(.@part))?"weapon":"armor")+". You must be happy because it has become stronger!";
+#: npc/merchants/advanced_refiner.txt
+msgctxt "Suhnbi#cash"
+msgid "It's been a while since I've made such a fine "
+msgstr "Já faz um tempo desde a última vez que fiz isso "
+
+# mes "Uuuuuuuuuummmmmph!!!";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Uuuuuuuuuummmmmph!!!"
+msgstr "Uuuuuuuuuuuummmmmph!!!"
+
+# mes "...";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "..."
+msgstr "..."
+
+# mes ".....";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "....."
+msgstr "....."
+
+# mes ".......Huhuhuhuhu~";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid ".......Huhuhuhuhu~"
+msgstr ".......Huhuhuhuhuhu~"
+
+# mes "........It was your choice and my ability, no regret.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "........It was your choice and my ability, no regret."
+msgstr "........ A escolha foi sua e minha capacidade, sem arrependimento."
+
+# mes "You want to refine a level " + getarg(0) + " weapon?";
+#: npc/merchants/advanced_refiner.txt
+msgctxt "Suhnbi#cash"
+msgid "You want to refine a level "
+msgstr "Você quer refinar um nível "
+
+# mes "To refine that, you'll need to have one ^ff9999" + getitemname(getarg(1)) + "^000000 and " + getarg(2) + " zeny.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "To refine that, you'll need to have one ^ff9999"
+msgstr "Para refinar isso, você precisará ter um ^ff9999"
+
+# mes "Would you like to continue?";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Would you like to continue?"
+msgstr "Você gostaria de continuar?"
+
+# if(select("Yes", "No") == 1) {
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Yes"
+msgstr "Sim"
+
+# if(select("Yes", "No") == 1) {
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "No"
+msgstr "Não"
+
+# mes "Wow!!";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Wow!!"
+msgstr "Uau!!"
+
+# mes "This weapon probably";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "This weapon probably"
+msgstr "Esta arma provavelmente"
+
+# mes "looks like it's been refined...";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "looks like it's been refined..."
+msgstr "parece ter sido refinado..."
+
+# mes "many times...";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "many times..."
+msgstr "muitas vezes..."
+
+# mes "It may break if";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "It may break if"
+msgstr "Ela pode quebrar se"
+
+# mes "you refine it again.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "you refine it again."
+msgstr "você o refina novamente."
+
+# mes "And if it breaks,";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "And if it breaks,"
+msgstr "E se ela quebrar,"
+
+# mes "you can't use it anymore!";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "you can't use it anymore!"
+msgstr "você não pode mais usá-lo!"
+
+# mes "All the cards in it and the properties ^ff0000will be lost^000000!";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "All the cards in it and the properties ^ff0000will be lost^000000!"
+msgstr ""
+"Todos os cartões nele contidos e as propriedades ^ff0000 serão "
+"perdidos^000000!"
+
+# mes "^ff0000Besides, the equipment will break!^000000";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "^ff0000Besides, the equipment will break!^000000"
+msgstr "^ff0000Besides, o equipamento vai quebrar! ^000000"
+
+# mes "Are you sure you still want to continue?";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Are you sure you still want to continue?"
+msgstr "Você tem certeza de que ainda quer continuar?"
+
+# mes "Good.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Good."
+msgstr "Bom."
+
+# mes "Because if the weapon breaks from unreasonable refining, then I get a bad mood, too.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid ""
+"Because if the weapon breaks from unreasonable refining, then I get a bad "
+"mood, too."
+msgstr ""
+"Porque se a arma se rompe devido a uma refinação pouco razoável, então eu "
+"também fico de mau humor."
+
+# mes "Giggle. Giggle. Oh, you have guts, daring to refine this.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Giggle. Giggle. Oh, you have guts, daring to refine this."
+msgstr "Agitar. Balançar. Oh, você tem coragem, ousando refinar isto."
+
+# mes "You know it's pretty risky, don't you?";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "You know it's pretty risky, don't you?"
+msgstr "Você sabe que é muito arriscado, não sabe?"
+
+# mes "If your defensive equipment is broken, you'll never be able to use it again.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid ""
+"If your defensive equipment is broken, you'll never be able to use it again."
+msgstr ""
+"Se seu equipamento defensivo estiver quebrado, você nunca mais poderá usá-"
+"lo novamente."
+
+# mes "Even your cards and your modifications will ^ff0000completely disappear^000000.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid ""
+"Even your cards and your modifications will ^ff0000completely "
+"disappear^000000."
+msgstr ""
+"Mesmo seus cartões e suas modificações desaparecerão completamente "
+"^ff0000000000."
+
+# mes "Do you really wish to continue?";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Do you really wish to continue?"
+msgstr "Você realmente deseja continuar?"
+
+# mes "What nonsense. You waste my precious time.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "What nonsense. You waste my precious time."
+msgstr "Que bobagem. Vocês desperdiçam meu precioso tempo."
+
+# mes "Get lost, punk.";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Get lost, punk."
+msgstr "Desapareça, punk."
+
+# mes "Are these all you have?";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "Are these all you have?"
+msgstr "Isso é tudo o que você tem?"
+
+# mes "I'm very sorry, but I can't do anything without all the materials. Besides, I deserve some payments for my work, don't I?";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid ""
+"I'm very sorry, but I can't do anything without all the materials. Besides, "
+"I deserve some payments for my work, don't I?"
+msgstr ""
+"Lamento muito, mas não posso fazer nada sem todos os materiais. Além disso, "
+"eu mereço alguns pagamentos pelo meu trabalho, não é mesmo?"
+
+# mes "I can't help it even if you're not happy about it...";
+#: npc/merchants/advanced_refiner.txt
+#, fuzzy
+msgctxt "Suhnbi#cash"
+msgid "I can't help it even if you're not happy about it..."
+msgstr "Não posso ajudar mesmo que não esteja satisfeito com isso..."

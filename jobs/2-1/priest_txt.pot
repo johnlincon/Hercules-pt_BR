@@ -1,0 +1,3158 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Bishop Paul]";
+msgctxt "High Bishop#prst"
+msgid "[Bishop Paul]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hm...?";
+msgctxt "High Bishop#prst"
+msgid "Hm...?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Ah, I sense that you are a warrior that has been to Valhalla. You who have been reborn... We are here to look after you.";
+msgctxt "High Bishop#prst"
+msgid "Ah, I sense that you are a warrior that has been to Valhalla. You who have been reborn... We are here to look after you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Do not let evil conquer your soul. You have enough courage and power to overcome the hardest situation. May God bless you...";
+msgctxt "High Bishop#prst"
+msgid "Do not let evil conquer your soul. You have enough courage and power to overcome the hardest situation. May God bless you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Ah...";
+msgctxt "High Bishop#prst"
+msgid "Ah..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "It is good to see you again, Brother " + strcharinfo(PC_NAME) + ". Once again, God's grace has caused our paths to cross.";
+msgctxt "High Bishop#prst"
+msgid "It is good to see you again, Brother "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "It is good to see you once again, Sister " + strcharinfo(PC_NAME) + ". The grace of God has brought you once more before me.";
+msgctxt "High Bishop#prst"
+msgid "It is good to see you once again, Sister "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I'm pleased to see that you are continuing to lead the children of God on the right path. Is there anything I can help you with today?";
+msgctxt "High Bishop#prst"
+msgid "I'm pleased to see that you are continuing to lead the children of God on the right path. Is there anything I can help you with today?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("How is your health?", "I want to help this Acolyte.", "Father, I need your help.")) {
+msgctxt "High Bishop#prst"
+msgid "How is your health?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("How is your health?", "I want to help this Acolyte.", "Father, I need your help.")) {
+msgctxt "High Bishop#prst"
+msgid "I want to help this Acolyte."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("How is your health?", "I want to help this Acolyte.", "Father, I need your help.")) {
+msgctxt "High Bishop#prst"
+msgid "Father, I need your help."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Thank you for your concern. I'm doing fine and am in good health. Please give my regards to your brothers and sisters.";
+msgctxt "High Bishop#prst"
+msgid "Thank you for your concern. I'm doing fine and am in good health. Please give my regards to your brothers and sisters."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Keep in mind that we are God's messengers on this Earth. Always remember that we must always help others.";
+msgctxt "High Bishop#prst"
+msgid "Keep in mind that we are God's messengers on this Earth. Always remember that we must always help others."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Ah, that's a good idea. Helping young Acolytes should also be one of a Priest's priorities.";
+msgctxt "High Bishop#prst"
+msgid "Ah, that's a good idea. Helping young Acolytes should also be one of a Priest's priorities."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "However, there are certain things that an Acolyte must do alone. All Acolytes must complete their divine test by themselves.";
+msgctxt "High Bishop#prst"
+msgid "However, there are certain things that an Acolyte must do alone. All Acolytes must complete their divine test by themselves."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I hope you will assist your Acolyte friend in the second test, the spiritual training.";
+msgctxt "High Bishop#prst"
+msgid "I hope you will assist your Acolyte friend in the second test, the spiritual training."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You need to bring ^0000FF1 Rosary^000000 in order to accompany an Acolyte in spiritual training. If you have one of those, I can send you to the test area now.";
+msgctxt "High Bishop#prst"
+msgid "You need to bring ^0000FF1 Rosary^000000 in order to accompany an Acolyte in spiritual training. If you have one of those, I can send you to the test area now."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Do you wish to help him out during the spiritual training?";
+msgctxt "High Bishop#prst"
+msgid "Do you wish to help him out during the spiritual training?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Yes, I do.", "Give me a second.") == 1) {
+msgctxt "High Bishop#prst"
+msgid "Yes, I do."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Yes, I do.", "Give me a second.") == 1) {
+msgctxt "High Bishop#prst"
+msgid "Give me a second."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I will now send you to the training place for Acolytes. Please send my regards to Brother Peter...";
+msgctxt "High Bishop#prst"
+msgid "I will now send you to the training place for Acolytes. Please send my regards to Brother Peter..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I hope you will assist this Acolyte in becoming a Priest.";
+msgctxt "High Bishop#prst"
+msgid "I hope you will assist this Acolyte in becoming a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Unfortunately you didn't bring a ^0000FFRosary^000000. You need one of those in order to be in the testing area.";
+msgctxt "High Bishop#prst"
+msgid "Unfortunately you didn't bring a ^0000FFRosary^000000. You need one of those in order to be in the testing area."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I see, take your time. Don't forget to bring a ^0000FFRosary^000000...";
+msgctxt "High Bishop#prst"
+msgid "I see, take your time. Don't forget to bring a ^0000FFRosary^000000..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You must be strong. Have faith, as you are loved by God. I pray the wounds of the body are healed soon...";
+msgctxt "High Bishop#prst"
+msgid "You must be strong. Have faith, as you are loved by God. I pray the wounds of the body are healed soon..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "God, please look after your poor children. Help them overcome their hardships and difficulties. Refresh their spirits...";
+msgctxt "High Bishop#prst"
+msgid "God, please look after your poor children. Help them overcome their hardships and difficulties. Refresh their spirits..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I hope my invocation has eased your pain. Now please go forth and spread God's message. May God be with you...";
+msgctxt "High Bishop#prst"
+msgid "I hope my invocation has eased your pain. Now please go forth and spread God's message. May God be with you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God be";
+msgctxt "High Bishop#prst"
+msgid "May God be"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "with you, brother.";
+msgctxt "High Bishop#prst"
+msgid "with you, brother."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "with you, sister.";
+msgctxt "High Bishop#prst"
+msgid "with you, sister."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You are in";
+msgctxt "High Bishop#prst"
+msgid "You are in"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "the Sanctuary.";
+msgctxt "High Bishop#prst"
+msgid "the Sanctuary."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "What brings you here?";
+msgctxt "High Bishop#prst"
+msgid "What brings you here?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("I want to be an Acolyte.", "I want to be a Priest.", "Nothing, really.")) {
+msgctxt "High Bishop#prst"
+msgid "I want to be an Acolyte."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("I want to be an Acolyte.", "I want to be a Priest.", "Nothing, really.")) {
+msgctxt "High Bishop#prst"
+msgid "I want to be a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("I want to be an Acolyte.", "I want to be a Priest.", "Nothing, really.")) {
+msgctxt "High Bishop#prst"
+msgid "Nothing, really."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh I see...";
+msgctxt "High Bishop#prst"
+msgid "Oh I see..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "If you wish to become an Acolyte, please visit the other room.";
+msgctxt "High Bishop#prst"
+msgid "If you wish to become an Acolyte, please visit the other room."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh I see. However, you must first become an Acolyte before becoming a Priest. Please visit the other room.";
+msgctxt "High Bishop#prst"
+msgid "Oh I see. However, you must first become an Acolyte before becoming a Priest. Please visit the other room."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Please make yourself at home. On Earth, nowhere is safer than this Sanctuary.";
+msgctxt "High Bishop#prst"
+msgid "Please make yourself at home. On Earth, nowhere is safer than this Sanctuary."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God bless you.";
+msgctxt "High Bishop#prst"
+msgid "May God bless you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "What brings you here";
+msgctxt "High Bishop#prst"
+msgid "What brings you here"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "to Prontera Sanctuary?";
+msgctxt "High Bishop#prst"
+msgid "to Prontera Sanctuary?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("Information about Priests.", "Nothing.")) {
+msgctxt "High Bishop#prst"
+msgid "Information about Priests."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("Information about Priests.", "Nothing.")) {
+msgctxt "High Bishop#prst"
+msgid "Nothing."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Priests have the authority to perform and administer religious rites.";
+msgctxt "High Bishop#prst"
+msgid "Priests have the authority to perform and administer religious rites."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You must first be thoroughly disciplined as an Acolyte before you can be promoted to the position of Priest.";
+msgctxt "High Bishop#prst"
+msgid "You must first be thoroughly disciplined as an Acolyte before you can be promoted to the position of Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "When you reach Acolyte Job level 40, you will be able to apply for the Priest test.";
+msgctxt "High Bishop#prst"
+msgid "When you reach Acolyte Job level 40, you will be able to apply for the Priest test."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "If you pass the test, you will be able to use more powerful skills that will be effective against Demon and Undead creatures...";
+msgctxt "High Bishop#prst"
+msgid "If you pass the test, you will be able to use more powerful skills that will be effective against Demon and Undead creatures..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "With all of your ability, you will play an important role in towns and dungeons.";
+msgctxt "High Bishop#prst"
+msgid "With all of your ability, you will play an important role in towns and dungeons."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Our duty and obligation as Priests is to devote ourselves to helping others without expecting reward.";
+msgctxt "High Bishop#prst"
+msgid "Our duty and obligation as Priests is to devote ourselves to helping others without expecting reward."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "As we help others, we must not expect to treat us in a similar fashion. To be a great Priest is your choice and responsibility, not anyone else's.";
+msgctxt "High Bishop#prst"
+msgid "As we help others, we must not expect to treat us in a similar fashion. To be a great Priest is your choice and responsibility, not anyone else's."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "However, those who receive should be polite. You should give an outstanding example, but you should also have your limits as a human.";
+msgctxt "High Bishop#prst"
+msgid "However, those who receive should be polite. You should give an outstanding example, but you should also have your limits as a human."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I hope I explained enough of the class. Why don't you go outside and talk to some of the other Priests if you want to learn more about our way of life?";
+msgctxt "High Bishop#prst"
+msgid "I hope I explained enough of the class. Why don't you go outside and talk to some of the other Priests if you want to learn more about our way of life?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Please make yourself at home. Nowhere on Earth is safer than the Prontera Sanctuary.";
+msgctxt "High Bishop#prst"
+msgid "Please make yourself at home. Nowhere on Earth is safer than the Prontera Sanctuary."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well...";
+msgctxt "High Bishop#prst"
+msgid "Well..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God";
+msgctxt "High Bishop#prst"
+msgid "May God"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "bless you.";
+msgctxt "High Bishop#prst"
+msgid "bless you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God bless";
+msgctxt "High Bishop#prst"
+msgid "May God bless"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "you, Brother.";
+msgctxt "High Bishop#prst"
+msgid "you, Brother."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "you, Sister.";
+msgctxt "High Bishop#prst"
+msgid "you, Sister."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "What brings";
+msgctxt "High Bishop#prst"
+msgid "What brings"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "you to me?";
+msgctxt "High Bishop#prst"
+msgid "you to me?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("I want to be a Priest.", "How are you, Father?")) {
+msgctxt "High Bishop#prst"
+msgid "How are you, Father?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I see. So you wish to be a Priest. God will be delighted by your decision and will bless you.";
+msgctxt "High Bishop#prst"
+msgid "I see. So you wish to be a Priest. God will be delighted by your decision and will bless you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I am Bishop Paul Cervantes, and am in charge of the Prontera Parish.";
+msgctxt "High Bishop#prst"
+msgid "I am Bishop Paul Cervantes, and am in charge of the Prontera Parish."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I am glad to meet a person as eager and devoted to God such as yourself.";
+msgctxt "High Bishop#prst"
+msgid "I am glad to meet a person as eager and devoted to God such as yourself."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "If you set your mind on becoming a Priest, you must undergo several tests. Only Acolytes who reach job level 40 are qualified for testing.";
+msgctxt "High Bishop#prst"
+msgid "If you set your mind on becoming a Priest, you must undergo several tests. Only Acolytes who reach job level 40 are qualified for testing."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "If you satisfy the requirements, I suggest that you apply for the Priest job first. Do you wish to apply now?";
+msgctxt "High Bishop#prst"
+msgid "If you satisfy the requirements, I suggest that you apply for the Priest job first. Do you wish to apply now?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Yes, I do.", "I need some time to think about it...") == 1) {
+msgctxt "High Bishop#prst"
+msgid "I need some time to think about it..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You are not yet qualified to be a Priest. Please go out into the world and broaden your experiences.";
+msgctxt "High Bishop#prst"
+msgid "You are not yet qualified to be a Priest. Please go out into the world and broaden your experiences."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "There are still things that you must learn as an Acolyte. However, I look forward to meeting you again very soon.";
+msgctxt "High Bishop#prst"
+msgid "There are still things that you must learn as an Acolyte. However, I look forward to meeting you again very soon."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You have skill points left.";
+msgctxt "High Bishop#prst"
+msgid "You have skill points left."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I strongly recommend that you use all of these skill points before you apply for the Priest job change test.";
+msgctxt "High Bishop#prst"
+msgid "I strongly recommend that you use all of these skill points before you apply for the Priest job change test."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now I will explain the Three Trials of Priesthood. These tribulations will bring you much suffering, but I hope you can complete them, Brother " + strcharinfo(PC_NAME) + ".";
+msgctxt "High Bishop#prst"
+msgid "Now I will explain the Three Trials of Priesthood. These tribulations will bring you much suffering, but I hope you can complete them, Brother "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now I will explain the Three Trials of Priesthood. These tribulations will bring you much suffering, but I hope you can complete them, Sister " + strcharinfo(PC_NAME) + ".";
+msgctxt "High Bishop#prst"
+msgid "Now I will explain the Three Trials of Priesthood. These tribulations will bring you much suffering, but I hope you can complete them, Sister "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "For the First Trial, you will make a pilgrimage, and visit three acscetic Priests in a specific order.";
+msgctxt "High Bishop#prst"
+msgid "For the First Trial, you will make a pilgrimage, and visit three acscetic Priests in a specific order."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "The Second Trial will consist of spiritual training. You must resist the temptations of Demons and the Undead.";
+msgctxt "High Bishop#prst"
+msgid "The Second Trial will consist of spiritual training. You must resist the temptations of Demons and the Undead."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "In the Final Trial, you will promise your devotion to God. Your willingness to sacrifice yourself will also be questioned.";
+msgctxt "High Bishop#prst"
+msgid "In the Final Trial, you will promise your devotion to God. Your willingness to sacrifice yourself will also be questioned."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Acolytes that have reached Job Level 50 will be exempt from the First Trial, the pilgrimage, as they have already demonstrated their enthusiasm and devotion.";
+msgctxt "High Bishop#prst"
+msgid "Acolytes that have reached Job Level 50 will be exempt from the First Trial, the pilgrimage, as they have already demonstrated their enthusiasm and devotion."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I can see the great effort you have exerted to reach job level 50. You have been a loyal servant to God.";
+msgctxt "High Bishop#prst"
+msgid "I can see the great effort you have exerted to reach job level 50. You have been a loyal servant to God."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now, you may go directly go to the Second Trial: Spiritual Training. For this training, you may bring a Priest with you.";
+msgctxt "High Bishop#prst"
+msgid "Now, you may go directly go to the Second Trial: Spiritual Training. For this training, you may bring a Priest with you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I have no doubt that you will do a good job by yourself. However, it will be easier with the aid of a Brother or Sister that has already become a Priest.";
+msgctxt "High Bishop#prst"
+msgid "I have no doubt that you will do a good job by yourself. However, it will be easier with the aid of a Brother or Sister that has already become a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well, are you ready for the Spiritual Training?";
+msgctxt "High Bishop#prst"
+msgid "Well, are you ready for the Spiritual Training?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I am ready.", "Give me a minute.") == 1) {
+msgctxt "High Bishop#prst"
+msgid "I am ready."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I am ready.", "Give me a minute.") == 1) {
+msgctxt "High Bishop#prst"
+msgid "Give me a minute."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Good. I will send you to the training ground. When you get there, please speak to Brother Peter who is in charge of the training.";
+msgctxt "High Bishop#prst"
+msgid "Good. I will send you to the training ground. When you get there, please speak to Brother Peter who is in charge of the training."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "No problem, take your time.";
+msgctxt "High Bishop#prst"
+msgid "No problem, take your time."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God give you the strength to overcome your fears...";
+msgctxt "High Bishop#prst"
+msgid "May God give you the strength to overcome your fears..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well, let me tell you the order of the ascetic Priests that you must visit for your pilgrimage.";
+msgctxt "High Bishop#prst"
+msgid "Well, let me tell you the order of the ascetic Priests that you must visit for your pilgrimage."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "First, please visit Father";
+msgctxt "High Bishop#prst"
+msgid "First, please visit Father"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Rubalkabara who is Northeast";
+msgctxt "High Bishop#prst"
+msgid "Rubalkabara who is Northeast"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "of the Prontera Ruins.";
+msgctxt "High Bishop#prst"
+msgid "of the Prontera Ruins."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Second, please visit Sister Mathilda. She is located in";
+msgctxt "High Bishop#prst"
+msgid "Second, please visit Sister Mathilda. She is located in"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "an area near Morroc, Southwest of Prontera.";
+msgctxt "High Bishop#prst"
+msgid "an area near Morroc, Southwest of Prontera."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "The third Priest you must visit is Father Yosuke. He is in a field Northwest of Prontera.";
+msgctxt "High Bishop#prst"
+msgid "The third Priest you must visit is Father Yosuke. He is in a field Northwest of Prontera."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well then, I wish you a safe journey. If you have any questions, please ask Sister Cecilia.";
+msgctxt "High Bishop#prst"
+msgid "Well then, I wish you a safe journey. If you have any questions, please ask Sister Cecilia."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "When you return from your pilgrimage, I will let you know";
+msgctxt "High Bishop#prst"
+msgid "When you return from your pilgrimage, I will let you know"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "of the next test.";
+msgctxt "High Bishop#prst"
+msgid "of the next test."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "bless you...";
+msgctxt "High Bishop#prst"
+msgid "bless you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Please take your time.";
+msgctxt "High Bishop#prst"
+msgid "Please take your time."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You are always welcomed.";
+msgctxt "High Bishop#prst"
+msgid "You are always welcomed."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God bless you...";
+msgctxt "High Bishop#prst"
+msgid "May God bless you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I see...";
+msgctxt "High Bishop#prst"
+msgid "I see..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I am doing fine";
+msgctxt "High Bishop#prst"
+msgid "I am doing fine"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "and am in good health.";
+msgctxt "High Bishop#prst"
+msgid "and am in good health."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Thank you for asking.";
+msgctxt "High Bishop#prst"
+msgid "Thank you for asking."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I hope you will continue to go on your mission as God's servant, brother.";
+msgctxt "High Bishop#prst"
+msgid "I hope you will continue to go on your mission as God's servant, brother."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I hope you will continue to go on your mission as God's servant, sister.";
+msgctxt "High Bishop#prst"
+msgid "I hope you will continue to go on your mission as God's servant, sister."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hopefully, our paths";
+msgctxt "High Bishop#prst"
+msgid "Hopefully, our paths"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "will cross again.";
+msgctxt "High Bishop#prst"
+msgid "will cross again."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May I ask you the reason you're still here? You didn't forget your pilgrimage, did you?";
+msgctxt "High Bishop#prst"
+msgid "May I ask you the reason you're still here? You didn't forget your pilgrimage, did you?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Sorry father, I need to check the order.", "No no no, not at all.") == 1) {
+msgctxt "High Bishop#prst"
+msgid "Sorry father, I need to check the order."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Sorry father, I need to check the order.", "No no no, not at all.") == 1) {
+msgctxt "High Bishop#prst"
+msgid "No no no, not at all."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Ah, I see. I will let you know the order of pilgrimage again, and hope that you will have a safe journey.";
+msgctxt "High Bishop#prst"
+msgid "Ah, I see. I will let you know the order of pilgrimage again, and hope that you will have a safe journey."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "First, meet Father Rubalkabara. He's at the Northeast of the Prontera ruins.";
+msgctxt "High Bishop#prst"
+msgid "First, meet Father Rubalkabara. He's at the Northeast of the Prontera ruins."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Then, remember to meet Sister Mathilda. She's somewhere near the town of Morroc, Southwest of Prontera.";
+msgctxt "High Bishop#prst"
+msgid "Then, remember to meet Sister Mathilda. She's somewhere near the town of Morroc, Southwest of Prontera."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "And lastly, please seek out Father Yosuke. He is in the a field Northwest of Prontera.";
+msgctxt "High Bishop#prst"
+msgid "And lastly, please seek out Father Yosuke. He is in the a field Northwest of Prontera."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well then, I shall pray for your safe journey. If you want more information, please ask Sister Cecilia.";
+msgctxt "High Bishop#prst"
+msgid "Well then, I shall pray for your safe journey. If you want more information, please ask Sister Cecilia."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "When you get back from the pilgrimage, I will let you know the next test.";
+msgctxt "High Bishop#prst"
+msgid "When you get back from the pilgrimage, I will let you know the next test."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I see. But still, if you have any questions, you may wish to ask Sister Cecilia. She will address any of your concerns.";
+msgctxt "High Bishop#prst"
+msgid "I see. But still, if you have any questions, you may wish to ask Sister Cecilia. She will address any of your concerns."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well then, I shall pray for your safe journey. May God bless you...";
+msgctxt "High Bishop#prst"
+msgid "Well then, I shall pray for your safe journey. May God bless you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I see you have returned from your meeting with Father Rubalkabara. How is he doing? I am worried about his health, since he's been there all alone... ";
+msgctxt "High Bishop#prst"
+msgid "I see you have returned from your meeting with Father Rubalkabara. How is he doing? I am worried about his health, since he's been there all alone... "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "For your next quest, you should meet Sister Mathilda. I shall be awaiting your safe return.";
+msgctxt "High Bishop#prst"
+msgid "For your next quest, you should meet Sister Mathilda. I shall be awaiting your safe return."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I see that you have returned from your journey to meet Sister Mathilda. She has been meditating in the hot, dry desert for a long time.";
+msgctxt "High Bishop#prst"
+msgid "I see that you have returned from your journey to meet Sister Mathilda. She has been meditating in the hot, dry desert for a long time."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Finally, it is now time for you to meet Father Yosuke. He is doing penance somewhere around a field Northwest of Prontera. Please seek him out, and then return here to me.";
+msgctxt "High Bishop#prst"
+msgid "Finally, it is now time for you to meet Father Yosuke. He is doing penance somewhere around a field Northwest of Prontera. Please seek him out, and then return here to me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You've accomplished";
+msgctxt "High Bishop#prst"
+msgid "You've accomplished"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "your pilgrimage.";
+msgctxt "High Bishop#prst"
+msgid "your pilgrimage."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Congratulations.";
+msgctxt "High Bishop#prst"
+msgid "Congratulations."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now it is time to begin your spiritual training. As I mentioned before, you may bring a Priest to help you during this training.";
+msgctxt "High Bishop#prst"
+msgid "Now it is time to begin your spiritual training. As I mentioned before, you may bring a Priest to help you during this training."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Although you cannot receive their help throughout all of the testing, they can at least help you during the spiritual training.";
+msgctxt "High Bishop#prst"
+msgid "Although you cannot receive their help throughout all of the testing, they can at least help you during the spiritual training."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well, are you ready for";
+msgctxt "High Bishop#prst"
+msgid "Well, are you ready for"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "the spiritual training?";
+msgctxt "High Bishop#prst"
+msgid "the spiritual training?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I'm ready.", "Give me a minute.") == 1) {
+msgctxt "High Bishop#prst"
+msgid "I'm ready."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "No problem,";
+msgctxt "High Bishop#prst"
+msgid "No problem,"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "take your time.";
+msgctxt "High Bishop#prst"
+msgid "take your time."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God grant you";
+msgctxt "High Bishop#prst"
+msgid "May God grant you"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "the strength to";
+msgctxt "High Bishop#prst"
+msgid "the strength to"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "overcome your fears...";
+msgctxt "High Bishop#prst"
+msgid "overcome your fears..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You seem confident about the spiritual training. Shall we begin?";
+msgctxt "High Bishop#prst"
+msgid "You seem confident about the spiritual training. Shall we begin?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You look tired and exhausted. However, you must endure even more suffering once you become a Priest.";
+msgctxt "High Bishop#prst"
+msgid "You look tired and exhausted. However, you must endure even more suffering once you become a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Please endure these trials for the sake of your dream. Why don't you challenge the spiritual training again?";
+msgctxt "High Bishop#prst"
+msgid "Please endure these trials for the sake of your dream. Why don't you challenge the spiritual training again?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I'll try again.", "Give me a minute.") == 1) {
+msgctxt "High Bishop#prst"
+msgid "I'll try again."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Good. I will send you to the training ground. Please ask for help from Brother Peter.";
+msgctxt "High Bishop#prst"
+msgid "Good. I will send you to the training ground. Please ask for help from Brother Peter."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I am glad that you've done well with the spiritual training. Congratulations. You are now qualified to be called a Priest.";
+msgctxt "High Bishop#prst"
+msgid "I am glad that you've done well with the spiritual training. Congratulations. You are now qualified to be called a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now, you must go and swear your devotion to God with Sister Cecilia. Don't be nervous...";
+msgctxt "High Bishop#prst"
+msgid "Now, you must go and swear your devotion to God with Sister Cecilia. Don't be nervous..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Just answer honestly, and listen to the voice of God that speaks quietly in your heart.";
+msgctxt "High Bishop#prst"
+msgid "Just answer honestly, and listen to the voice of God that speaks quietly in your heart."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well then...";
+msgctxt "High Bishop#prst"
+msgid "Well then..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I will be here";
+msgctxt "High Bishop#prst"
+msgid "I will be here"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "waiting for you.";
+msgctxt "High Bishop#prst"
+msgid "waiting for you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hmm? You haven't made your oath yet...? Without the conviction of an oath to God, you may be tempted by evil at anytime.";
+msgctxt "High Bishop#prst"
+msgid "Hmm? You haven't made your oath yet...? Without the conviction of an oath to God, you may be tempted by evil at anytime."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You should go to sister Cecilia and promise your devotion to God. Return here with honor, and listen to the voice of God that speaks quietly in your heart.";
+msgctxt "High Bishop#prst"
+msgid "You should go to sister Cecilia and promise your devotion to God. Return here with honor, and listen to the voice of God that speaks quietly in your heart."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You have remaining skills points. Please use these skill points to upgrade your skills, and then return to me.";
+msgctxt "High Bishop#prst"
+msgid "You have remaining skills points. Please use these skill points to upgrade your skills, and then return to me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Congratulations, you have completed the trials required of all Priests. Let me promote you to the position of Priest right away.";
+msgctxt "High Bishop#prst"
+msgid "Congratulations, you have completed the trials required of all Priests. Let me promote you to the position of Priest right away."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "God, grant your power to your servant standing before you.";
+msgctxt "High Bishop#prst"
+msgid "God, grant your power to your servant standing before you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Let him send your message throughout the ends of the earth.";
+msgctxt "High Bishop#prst"
+msgid "Let him send your message throughout the ends of the earth."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Let her send your message throughout the ends of the earth.";
+msgctxt "High Bishop#prst"
+msgid "Let her send your message throughout the ends of the earth."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Make this servant of yours an instrument of your miraculous works...";
+msgctxt "High Bishop#prst"
+msgid "Make this servant of yours an instrument of your miraculous works..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now you are born again as a Priest. I congratulate you, and hope you will greatly help other people for the rest of your life.";
+msgctxt "High Bishop#prst"
+msgid "Now you are born again as a Priest. I congratulate you, and hope you will greatly help other people for the rest of your life."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "This book is for you. I hope it will aid you in spreading God's message on earth.";
+msgctxt "High Bishop#prst"
+msgid "This book is for you. I hope it will aid you in spreading God's message on earth."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "In commemoration of your job change, I am giving you a bible. This will lighten your way to the path of righteousness.";
+msgctxt "High Bishop#prst"
+msgid "In commemoration of your job change, I am giving you a bible. This will lighten your way to the path of righteousness."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You've shown great effort, and have made admirable progress in your personal quest for holiness. Please lead your life as a sincere Priest...";
+msgctxt "High Bishop#prst"
+msgid "You've shown great effort, and have made admirable progress in your personal quest for holiness. Please lead your life as a sincere Priest..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Sister Cecilia]";
+msgctxt "Sister Cecilia"
+msgid "[Sister Cecilia]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May god bless you, "+ (Sex == SEX_MALE ? "brother":"sister") +". It brings my heart joy to see that you working hard to carry out the will of God.";
+msgctxt "Sister Cecilia"
+msgid "May god bless you, "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May god bless you, "+ (Sex == SEX_MALE ? "brother":"sister") +". It brings my heart joy to see that you working hard to carry out the will of God.";
+msgctxt "Sister Cecilia"
+msgid "brother"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May god bless you, "+ (Sex == SEX_MALE ? "brother":"sister") +". It brings my heart joy to see that you working hard to carry out the will of God.";
+msgctxt "Sister Cecilia"
+msgid "sister"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May god bless you, "+ (Sex == SEX_MALE ? "brother":"sister") +". It brings my heart joy to see that you working hard to carry out the will of God.";
+msgctxt "Sister Cecilia"
+msgid ". It brings my heart joy to see that you working hard to carry out the will of God."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May god bless you, "+ (Sex == SEX_MALE ? "brother":"sister") +".";
+msgctxt "Sister Cecilia"
+msgid "."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Prontera parish welcomes you.";
+msgctxt "Sister Cecilia"
+msgid "Prontera parish welcomes you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh, you haven't chosen a job yet? Why don't you consider devoting your life to God?";
+msgctxt "Sister Cecilia"
+msgid "Oh, you haven't chosen a job yet? Why don't you consider devoting your life to God?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You can lead a fulfilling life as an Acolyte, helping out other people in need.";
+msgctxt "Sister Cecilia"
+msgid "You can lead a fulfilling life as an Acolyte, helping out other people in need."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "If you're interested, please ask the Priest in the other room. You won't ever regret the choice to become an Acolyte.";
+msgctxt "Sister Cecilia"
+msgid "If you're interested, please ask the Priest in the other room. You won't ever regret the choice to become an Acolyte."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "When you reach Job level 40 as an Acolyte, you can be promoted to a Priest.";
+msgctxt "Sister Cecilia"
+msgid "When you reach Job level 40 as an Acolyte, you can be promoted to a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "But please...";
+msgctxt "Sister Cecilia"
+msgid "But please..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Take your time, and decide what job will be the best for you.";
+msgctxt "Sister Cecilia"
+msgid "Take your time, and decide what job will be the best for you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Welcome to Prontera parish. How may I help you?";
+msgctxt "Sister Cecilia"
+msgid "Welcome to Prontera parish. How may I help you?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Tell me more about Priests.", "Nothing.") == 1) {
+msgctxt "Sister Cecilia"
+msgid "Tell me more about Priests."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Tell me more about Priests.", "Nothing.") == 1) {
+msgctxt "Sister Cecilia"
+msgid "Nothing."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Messengers of God are usually known as Priests. After becoming an Acolyte, you can train with the goal of becoming a Priest.";
+msgctxt "Sister Cecilia"
+msgid "Messengers of God are usually known as Priests. After becoming an Acolyte, you can train with the goal of becoming a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Servants of God are prohibited to use weapons based on blades. For us, the meaning of battle with monsters is not in the killing, but in the enlightening of their souls.";
+msgctxt "Sister Cecilia"
+msgid "Servants of God are prohibited to use weapons based on blades. For us, the meaning of battle with monsters is not in the killing, but in the enlightening of their souls."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I see. Well, feel free to relax and make yourself at home. Nowhere on earth is safer than the Prontera Sanctuary.";
+msgctxt "Sister Cecilia"
+msgid "I see. Well, feel free to relax and make yourself at home. Nowhere on earth is safer than the Prontera Sanctuary."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God bless you...";
+msgctxt "Sister Cecilia"
+msgid "May God bless you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God bless you, brother.";
+msgctxt "Sister Cecilia"
+msgid "May God bless you, brother."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God bless you, sister.";
+msgctxt "Sister Cecilia"
+msgid "May God bless you, sister."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May I ask what brings you here?";
+msgctxt "Sister Cecilia"
+msgid "May I ask what brings you here?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("I wish to become a Priest.", "Nothing.")) {
+msgctxt "Sister Cecilia"
+msgid "I wish to become a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I see. You've devoted yourself to God. Many Acolytes wish to become Priests to continue on their personal journey towards holiness.";
+msgctxt "Sister Cecilia"
+msgid "I see. You've devoted yourself to God. Many Acolytes wish to become Priests to continue on their personal journey towards holiness."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Let me introduce myself. I am Cecilia Margarita, and I am in charge of part of the Priest job change process.";
+msgctxt "Sister Cecilia"
+msgid "Let me introduce myself. I am Cecilia Margarita, and I am in charge of part of the Priest job change process."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I've been supporting many people in becoming Priests ever since I joined the Prontera Parish. That is one of my main responsibilities.";
+msgctxt "Sister Cecilia"
+msgid "I've been supporting many people in becoming Priests ever since I joined the Prontera Parish. That is one of my main responsibilities."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "In order to become a Priest, you must complete 3 trials. A pilgrimage, a session of spiritual training, and an oath of devotion to God.";
+msgctxt "Sister Cecilia"
+msgid "In order to become a Priest, you must complete 3 trials. A pilgrimage, a session of spiritual training, and an oath of devotion to God."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "If you wish to become a servant of God, please apply for the Priest job with Bishop Paul, and complete all 3 trials.";
+msgctxt "Sister Cecilia"
+msgid "If you wish to become a servant of God, please apply for the Priest job with Bishop Paul, and complete all 3 trials."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "If you experience a problem during any of your trials, feel free to visit me. I will help you as much as I can.";
+msgctxt "Sister Cecilia"
+msgid "If you experience a problem during any of your trials, feel free to visit me. I will help you as much as I can."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Make yourself at home. I insist that you recover and take a rest in this Sanctuary. May God bless you...";
+msgctxt "Sister Cecilia"
+msgid "Make yourself at home. I insist that you recover and take a rest in this Sanctuary. May God bless you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Ah, you've started your pilgrimage. Please do your best to accomplish this first trial.";
+msgctxt "Sister Cecilia"
+msgid "Ah, you've started your pilgrimage. Please do your best to accomplish this first trial."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "The first Priest you must meet is Father Rubalkabara. He is in the ruins Northeast of Prontera.";
+msgctxt "Sister Cecilia"
+msgid "The first Priest you must meet is Father Rubalkabara. He is in the ruins Northeast of Prontera."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Travel one field North from Prontera, and then three fields East, and you will arrive at the ruins.";
+msgctxt "Sister Cecilia"
+msgid "Travel one field North from Prontera, and then three fields East, and you will arrive at the ruins."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Of course, you can also head 1 field East from Prontera, then go 1 field north, and then go 2 fields East...";
+msgctxt "Sister Cecilia"
+msgid "Of course, you can also head 1 field East from Prontera, then go 1 field north, and then go 2 fields East..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Father Rubalkabara will be at the entrance of the Prontera Ruins. Be careful. That place is a habitat for aggressive Chocos.";
+msgctxt "Sister Cecilia"
+msgid "Father Rubalkabara will be at the entrance of the Prontera Ruins. Be careful. That place is a habitat for aggressive Chocos."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "After meeting Father Rubalkabara, please visit Sister Mathilda and Father Yosuke. You can check your quest progress with me if you have any questions later.";
+msgctxt "Sister Cecilia"
+msgid "After meeting Father Rubalkabara, please visit Sister Mathilda and Father Yosuke. You can check your quest progress with me if you have any questions later."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well then, have a good journey. Please don't give up to short lived tribulations, and I hope that you accomplish your goals.";
+msgctxt "Sister Cecilia"
+msgid "Well then, have a good journey. Please don't give up to short lived tribulations, and I hope that you accomplish your goals."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh, you've met Father Rubalkabara. Now it's time for you to visit Sister Mathilda. She is near a town named Morroc.";
+msgctxt "Sister Cecilia"
+msgid "Oh, you've met Father Rubalkabara. Now it's time for you to visit Sister Mathilda. She is near a town named Morroc."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "She has been training her religious discipline somewhere in a field North of Morroc. If you look around that field, you will be able to find her.";
+msgctxt "Sister Cecilia"
+msgid "She has been training her religious discipline somewhere in a field North of Morroc. If you look around that field, you will be able to find her."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Of course, sometimes I want to devote myself to training like those other Priests, but I have my duty to assist those Acolytes applying for the Priest job.";
+msgctxt "Sister Cecilia"
+msgid "Of course, sometimes I want to devote myself to training like those other Priests, but I have my duty to assist those Acolytes applying for the Priest job."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "But I believe this is God's will, and that this is the work he has intended me to do as his servant. Have a safe journey, and come back safely.";
+msgctxt "Sister Cecilia"
+msgid "But I believe this is God's will, and that this is the work he has intended me to do as his servant. Have a safe journey, and come back safely."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now, the final Priest that you must meet is Father Yosuke. I've heard that he is training near a lake located Northwest of Prontera.";
+msgctxt "Sister Cecilia"
+msgid "Now, the final Priest that you must meet is Father Yosuke. I've heard that he is training near a lake located Northwest of Prontera."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "From Prontera, travel one field North, and then two fields towards the West. You may also travel two fields West first, and then travel one field to the North.";
+msgctxt "Sister Cecilia"
+msgid "From Prontera, travel one field North, and then two fields towards the West. You may also travel two fields West first, and then travel one field to the North."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Although there are still two trials awaiting you, I have faith that you will be able to accomplish your goal of becoming a Priest...";
+msgctxt "Sister Cecilia"
+msgid "Although there are still two trials awaiting you, I have faith that you will be able to accomplish your goal of becoming a Priest..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Welcome. You demonstrated great effort to accomplish your first trial. Now, speak to Bishop Paul so that you can begin your next trial on your path to Priesthood.";
+msgctxt "Sister Cecilia"
+msgid "Welcome. You demonstrated great effort to accomplish your first trial. Now, speak to Bishop Paul so that you can begin your next trial on your path to Priesthood."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Brother "+ strcharinfo(PC_NAME) +"...";
+msgctxt "Sister Cecilia"
+msgid "Brother "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Sister "+ strcharinfo(PC_NAME) +"...";
+msgctxt "Sister Cecilia"
+msgid "Sister "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "The spiritual training is much more difficult than the pilgrimage, but I believe in you.";
+msgctxt "Sister Cecilia"
+msgid "The spiritual training is much more difficult than the pilgrimage, but I believe in you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I hope that you find someone who has already become a Priest to help during the spiritual training. Good luck, and have faith.";
+msgctxt "Sister Cecilia"
+msgid "I hope that you find someone who has already become a Priest to help during the spiritual training. Good luck, and have faith."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh, you haven't finished the spiritual training yet?";
+msgctxt "Sister Cecilia"
+msgid "Oh, you haven't finished the spiritual training yet?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I cannot let you know the specific details, but as long as you believe in yourself and have faith in all that is good, you will succeed.";
+msgctxt "Sister Cecilia"
+msgid "I cannot let you know the specific details, but as long as you believe in yourself and have faith in all that is good, you will succeed."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Please speak to Father Peter in the test hall for more details. He is a close friend of Bishop Paul and may give you some useful tips for the spiritual training.";
+msgctxt "Sister Cecilia"
+msgid "Please speak to Father Peter in the test hall for more details. He is a close friend of Bishop Paul and may give you some useful tips for the spiritual training."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Yes, I understand that you've been through a really difficult situation. However, do not give up and succumb to temptation. You must be able to resist evil to become a Priest.";
+msgctxt "Sister Cecilia"
+msgid "Yes, I understand that you've been through a really difficult situation. However, do not give up and succumb to temptation. You must be able to resist evil to become a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "If you know somebody who has already become a Priest, ask them to help you during your spiritual training.";
+msgctxt "Sister Cecilia"
+msgid "If you know somebody who has already become a Priest, ask them to help you during your spiritual training."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God give you guidance and protection. When you complete your training, please come back to me.";
+msgctxt "Sister Cecilia"
+msgid "May God give you guidance and protection. When you complete your training, please come back to me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Welcome! I'm so glad to see you've come back! Now, there is one last trial left for you to complete.";
+msgctxt "Sister Cecilia"
+msgid "Welcome! I'm so glad to see you've come back! Now, there is one last trial left for you to complete."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Welcome back.";
+msgctxt "Sister Cecilia"
+msgid "Welcome back."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I hope that you've reflected on what you've said last time, and that you now have the attitude to become a Priest.";
+msgctxt "Sister Cecilia"
+msgid "I hope that you've reflected on what you've said last time, and that you now have the attitude to become a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "We will now begin your formal oath for the Priesthood. Make yourself comfortable, and just answer with your heart.";
+msgctxt "Sister Cecilia"
+msgid "We will now begin your formal oath for the Priesthood. Make yourself comfortable, and just answer with your heart."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Are you willing";
+msgctxt "Sister Cecilia"
+msgid "Are you willing"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "to give your life to God?";
+msgctxt "Sister Cecilia"
+msgid "to give your life to God?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Yes.", "No!") == 2) {
+msgctxt "Sister Cecilia"
+msgid "Yes."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Yes.", "No!") == 2) {
+msgctxt "Sister Cecilia"
+msgid "No!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Aw...? How could you give me that kind of answer? I assume you're not ready to be a Priest yet...";
+msgctxt "Sister Cecilia"
+msgid "Aw...? How could you give me that kind of answer? I assume you're not ready to be a Priest yet..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You should reflect a little more on the teachings of holiness and come back later. You can't be a Priest if your spirit is weak.";
+msgctxt "Sister Cecilia"
+msgid "You should reflect a little more on the teachings of holiness and come back later. You can't be a Priest if your spirit is weak."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Will you take advantage of the holy abilities given by God for selfish, destructive or greedy ends?";
+msgctxt "Sister Cecilia"
+msgid "Will you take advantage of the holy abilities given by God for selfish, destructive or greedy ends?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Yes.", "No.") == 1) {
+msgctxt "Sister Cecilia"
+msgid "No."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Aw...? God won't grant you the power of holiness if your goals aren't just and pure. Meditate on your motivations for a while, and then come back to me.";
+msgctxt "Sister Cecilia"
+msgid "Aw...? God won't grant you the power of holiness if your goals aren't just and pure. Meditate on your motivations for a while, and then come back to me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Think about the qualities that make Priests people of respect. You can't be a Priest if your spirit is not in accordance with God.";
+msgctxt "Sister Cecilia"
+msgid "Think about the qualities that make Priests people of respect. You can't be a Priest if your spirit is not in accordance with God."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Will you help aid others, even complete strangers, in battles by easing their suffering?";
+msgctxt "Sister Cecilia"
+msgid "Will you help aid others, even complete strangers, in battles by easing their suffering?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "No, no. You've got the wrong idea. God authorizes us to use his power to support his children. You must help people in danger: it is your obligation.";
+msgctxt "Sister Cecilia"
+msgid "No, no. You've got the wrong idea. God authorizes us to use his power to support his children. You must help people in danger: it is your obligation."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Go and observe the adventurers that are fighting for peace in this world. They will teach you what you must do in order to help them.";
+msgctxt "Sister Cecilia"
+msgid "Go and observe the adventurers that are fighting for peace in this world. They will teach you what you must do in order to help them."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Are you willing to sacrifice yourself for the sake of others?";
+msgctxt "Sister Cecilia"
+msgid "Are you willing to sacrifice yourself for the sake of others?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "How can you say no...? That's one of the basic principles of Priesthood. You must value the welfare of others over your own safety.";
+msgctxt "Sister Cecilia"
+msgid "How can you say no...? That's one of the basic principles of Priesthood. You must value the welfare of others over your own safety."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Go and think about the value of suffering and the meaning of sacrifice. When you think you understand more about helping those in need, come back to me.";
+msgctxt "Sister Cecilia"
+msgid "Go and think about the value of suffering and the meaning of sacrifice. When you think you understand more about helping those in need, come back to me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Will you repeatly say the same phrase in public in order to send God's message to his children?";
+msgctxt "Sister Cecilia"
+msgid "Will you repeatly say the same phrase in public in order to send God's message to his children?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "No no no... You've got it wrong. Even though your purpose is to spread God's message, no one will eagerly accept what you say when you spam text.";
+msgctxt "Sister Cecilia"
+msgid "No no no... You've got it wrong. Even though your purpose is to spread God's message, no one will eagerly accept what you say when you spam text."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Remember...";
+msgctxt "Sister Cecilia"
+msgid "Remember..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You must be a moral person, and display maturity and respect to other players. This kind of attitude applies for all classes,";
+msgctxt "Sister Cecilia"
+msgid "You must be a moral person, and display maturity and respect to other players. This kind of attitude applies for all classes,"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I believe.";
+msgctxt "Sister Cecilia"
+msgid "I believe."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Will you lure many monsters to help your party members level up?";
+msgctxt "Sister Cecilia"
+msgid "Will you lure many monsters to help your party members level up?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "No, you won't. Luring many monsters does more harm than good. There is no exception. That behavior is totally unacceptable.";
+msgctxt "Sister Cecilia"
+msgid "No, you won't. Luring many monsters does more harm than good. There is no exception. That behavior is totally unacceptable."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Even if it looks like you are aiding your party members, such action results in bad karma. Please reflect on that for a while.";
+msgctxt "Sister Cecilia"
+msgid "Even if it looks like you are aiding your party members, such action results in bad karma. Please reflect on that for a while."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Will you follow God, no matter what it takes, even if he demands you to kill yourself?";
+msgctxt "Sister Cecilia"
+msgid "Will you follow God, no matter what it takes, even if he demands you to kill yourself?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "With that spirit, you can't be a Priest. If it is God's will to sacrifice yourself for a good purpose, you must carry out God's will as his servant.";
+msgctxt "Sister Cecilia"
+msgid "With that spirit, you can't be a Priest. If it is God's will to sacrifice yourself for a good purpose, you must carry out God's will as his servant."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Besides, God has also given Priests the resurrection power. Think about the meaning of life and death again, and then come back to me.";
+msgctxt "Sister Cecilia"
+msgid "Besides, God has also given Priests the resurrection power. Think about the meaning of life and death again, and then come back to me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You have demonstrated your devotion to God. Will you swear to adhere to his teachings for the rest of your days?";
+msgctxt "Sister Cecilia"
+msgid "You have demonstrated your devotion to God. Will you swear to adhere to his teachings for the rest of your days?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I do.", "No.") == 1) {
+msgctxt "Sister Cecilia"
+msgid "I do."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now, you have completed your oath of Priesthood and accomplished all three trials required to become a Priest.";
+msgctxt "Sister Cecilia"
+msgid "Now, you have completed your oath of Priesthood and accomplished all three trials required to become a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now go to Bishop Paul. And remember, we are all brothers and sisters in the eyes of God. Peace be with you...";
+msgctxt "Sister Cecilia"
+msgid "Now go to Bishop Paul. And remember, we are all brothers and sisters in the eyes of God. Peace be with you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "......";
+msgctxt "Sister Cecilia"
+msgid "......"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You've come so far...";
+msgctxt "Sister Cecilia"
+msgid "You've come so far..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Why would you want";
+msgctxt "Sister Cecilia"
+msgid "Why would you want"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "to throw this all away...?";
+msgctxt "Sister Cecilia"
+msgid "to throw this all away...?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Congratulations.";
+msgctxt "Sister Cecilia"
+msgid "Congratulations."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You've completed all three trials required for the Priesthood. Bishop Paul is now waiting for you.";
+msgctxt "Sister Cecilia"
+msgid "You've completed all three trials required for the Priesthood. Bishop Paul is now waiting for you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Peace be with you...";
+msgctxt "Sister Cecilia"
+msgid "Peace be with you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Father Peter]";
+msgctxt "Peter S. Alberto"
+msgid "[Father Peter]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Welcome!";
+msgctxt "Peter S. Alberto"
+msgid "Welcome!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Brother "+ strcharinfo(PC_NAME) +"!";
+msgctxt "Peter S. Alberto"
+msgid "Brother "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Sister "+ strcharinfo(PC_NAME) +"!";
+msgctxt "Peter S. Alberto"
+msgid "Sister "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "So good to see you again!";
+msgctxt "Peter S. Alberto"
+msgid "So good to see you again!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Are you here to help an Acolyte friend for the spiritual training? That's great~ I think you'll do a good job.";
+msgctxt "Peter S. Alberto"
+msgid "Are you here to help an Acolyte friend for the spiritual training? That's great~ I think you'll do a good job."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Remember, no matter how much you want to help this Acolyte, this is not your quest.";
+msgctxt "Peter S. Alberto"
+msgid "Remember, no matter how much you want to help this Acolyte, this is not your quest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You may assist and lighten your friend's burden, but you take upon this task for yourself.";
+msgctxt "Peter S. Alberto"
+msgid "You may assist and lighten your friend's burden, but you take upon this task for yourself."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "So...";
+msgctxt "Peter S. Alberto"
+msgid "So..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Are you gonna help him right now?";
+msgctxt "Peter S. Alberto"
+msgid "Are you gonna help him right now?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("Yes, I am.", "Give me a minute.", "I changed my mind.")) {
+msgctxt "Peter S. Alberto"
+msgid "Yes, I am."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("Yes, I am.", "Give me a minute.", "I changed my mind.")) {
+msgctxt "Peter S. Alberto"
+msgid "Give me a minute."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("Yes, I am.", "Give me a minute.", "I changed my mind.")) {
+msgctxt "Peter S. Alberto"
+msgid "I changed my mind."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Go for it! As your Acolyte enters, the test will begin. Now, I will send you to the testing area.";
+msgctxt "Peter S. Alberto"
+msgid "Go for it! As your Acolyte enters, the test will begin. Now, I will send you to the testing area."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hm...?";
+msgctxt "Peter S. Alberto"
+msgid "Hm...?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "What for?";
+msgctxt "Peter S. Alberto"
+msgid "What for?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well, so long as you arrive in time to help your friend, it will be okay.";
+msgctxt "Peter S. Alberto"
+msgid "Well, so long as you arrive in time to help your friend, it will be okay."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh...?";
+msgctxt "Peter S. Alberto"
+msgid "Oh...?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Then please,";
+msgctxt "Peter S. Alberto"
+msgid "Then please,"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "go ahead. God bless";
+msgctxt "Peter S. Alberto"
+msgid "go ahead. God bless"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "you, and take care!";
+msgctxt "Peter S. Alberto"
+msgid "you, and take care!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Welcome~!";
+msgctxt "Peter S. Alberto"
+msgid "Welcome~!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I congratulate you";
+msgctxt "Peter S. Alberto"
+msgid "I congratulate you"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "for passing the first trail.";
+msgctxt "Peter S. Alberto"
+msgid "for passing the first trail."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "My name is";
+msgctxt "Peter S. Alberto"
+msgid "My name is"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Peter S. Alberto.";
+msgctxt "Peter S. Alberto"
+msgid "Peter S. Alberto."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "How is my buddy Paul?";
+msgctxt "Peter S. Alberto"
+msgid "How is my buddy Paul?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Is he doing alright";
+msgctxt "Peter S. Alberto"
+msgid "Is he doing alright"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "these days?";
+msgctxt "Peter S. Alberto"
+msgid "these days?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh, I keep forgetting that he was promoted to Bishop. I think I'm supposed to call him Bishop Paul, or 'His Excellency.' Haha~";
+msgctxt "Peter S. Alberto"
+msgid "Oh, I keep forgetting that he was promoted to Bishop. I think I'm supposed to call him Bishop Paul, or 'His Excellency.' Haha~"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Anyway, let me give you a brief explanation of the spiritual training. Are you familiar with what the spiritual training is for Priests?";
+msgctxt "Peter S. Alberto"
+msgid "Anyway, let me give you a brief explanation of the spiritual training. Are you familiar with what the spiritual training is for Priests?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("Yes, I do.", "Sorry...")) {
+msgctxt "Peter S. Alberto"
+msgid "Yes, I do."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("Yes, I do.", "Sorry...")) {
+msgctxt "Peter S. Alberto"
+msgid "Sorry..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Haha, I like you! But it never hurts to have too much information. The more well informed you are, the more easily you'll pass the test!";
+msgctxt "Peter S. Alberto"
+msgid "Haha, I like you! But it never hurts to have too much information. The more well informed you are, the more easily you'll pass the test!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh, no need to be sorry. I'm here to give you the information you need anyway. So, don't worry.";
+msgctxt "Peter S. Alberto"
+msgid "Oh, no need to be sorry. I'm here to give you the information you need anyway. So, don't worry."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "In spiritual training, you will be defeating evil creatures. Creatures of the Undead and Demons are all evil. In choosing to serve darkness, they are our enemies!";
+msgctxt "Peter S. Alberto"
+msgid "In spiritual training, you will be defeating evil creatures. Creatures of the Undead and Demons are all evil. In choosing to serve darkness, they are our enemies!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "There are too many evil creatures that roam this world against the will of God. Innocents suffer as a result of their malignance.";
+msgctxt "Peter S. Alberto"
+msgid "There are too many evil creatures that roam this world against the will of God. Innocents suffer as a result of their malignance."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "We, as Priests, are obligated to exterminate all those creatures, thus spreading love and peace.";
+msgctxt "Peter S. Alberto"
+msgid "We, as Priests, are obligated to exterminate all those creatures, thus spreading love and peace."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "This training will test your ability to eliminate evil. Since this trial is pretty difficult to be accomplished by yourself,";
+msgctxt "Peter S. Alberto"
+msgid "This training will test your ability to eliminate evil. Since this trial is pretty difficult to be accomplished by yourself,"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I recommend getting help from a Priest if you can.";
+msgctxt "Peter S. Alberto"
+msgid "I recommend getting help from a Priest if you can."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "If you are close to a Priest, you'd better ask him to assist you during this trial. Now, are you ready?";
+msgctxt "Peter S. Alberto"
+msgid "If you are close to a Priest, you'd better ask him to assist you during this trial. Now, are you ready?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("I'm ready.", "Please hold on.", "I want to go back.")) {
+msgctxt "Peter S. Alberto"
+msgid "I'm ready."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("I'm ready.", "Please hold on.", "I want to go back.")) {
+msgctxt "Peter S. Alberto"
+msgid "Please hold on."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# switch(select("I'm ready.", "Please hold on.", "I want to go back.")) {
+msgctxt "Peter S. Alberto"
+msgid "I want to go back."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now, let the spiritual training begin. It's simple. Just kill them all. Show no mercy to the creatures of darkness!";
+msgctxt "Peter S. Alberto"
+msgid "Now, let the spiritual training begin. It's simple. Just kill them all. Show no mercy to the creatures of darkness!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now...";
+msgctxt "Peter S. Alberto"
+msgid "Now..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Go for it!";
+msgctxt "Peter S. Alberto"
+msgid "Go for it!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hm? What is it you need?";
+msgctxt "Peter S. Alberto"
+msgid "Hm? What is it you need?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well, no problem. You can";
+msgctxt "Peter S. Alberto"
+msgid "Well, no problem. You can"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "afford to take your time.";
+msgctxt "Peter S. Alberto"
+msgid "afford to take your time."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "What...?";
+msgctxt "Peter S. Alberto"
+msgid "What...?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You wanna go back??";
+msgctxt "Peter S. Alberto"
+msgid "You wanna go back??"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I understand. I suppose you have some important reason or business that you must attend to. Come back whenever you can.";
+msgctxt "Peter S. Alberto"
+msgid "I understand. I suppose you have some important reason or business that you must attend to. Come back whenever you can."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Are you ready this time?";
+msgctxt "Peter S. Alberto"
+msgid "Are you ready this time?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Complete this trial quickly,";
+msgctxt "Peter S. Alberto"
+msgid "Complete this trial quickly,"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "and become a Priest!";
+msgctxt "Peter S. Alberto"
+msgid "and become a Priest!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Are you ready then?";
+msgctxt "Peter S. Alberto"
+msgid "Are you ready then?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now, let the spiritual training begin. For the glory of God, for peace on earth, and goodwill towards all men...";
+msgctxt "Peter S. Alberto"
+msgid "Now, let the spiritual training begin. For the glory of God, for peace on earth, and goodwill towards all men..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Go...";
+msgctxt "Peter S. Alberto"
+msgid "Go..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Kill those";
+msgctxt "Peter S. Alberto"
+msgid "Kill those"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "misbegotten creatures!";
+msgctxt "Peter S. Alberto"
+msgid "misbegotten creatures!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Go back!";
+msgctxt "Peter S. Alberto"
+msgid "Go back!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Father Peter]";
+msgctxt "Peter S. Alberto#2"
+msgid "[Father Peter]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Welcome!";
+msgctxt "Peter S. Alberto#2"
+msgid "Welcome!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Brother "+ strcharinfo(PC_NAME) +"!";
+msgctxt "Peter S. Alberto#2"
+msgid "Brother "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Sister "+ strcharinfo(PC_NAME) +"!";
+msgctxt "Peter S. Alberto#2"
+msgid "Sister "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "So good to see you!";
+msgctxt "Peter S. Alberto#2"
+msgid "So good to see you!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Are you here to help an Acolyte friend for the spiritual training? That's great~ I think you'll do a good job.";
+msgctxt "Peter S. Alberto#2"
+msgid "Are you here to help an Acolyte friend for the spiritual training? That's great~ I think you'll do a good job."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well, another Acolyte is in the training ground right now. You'll need to wait a little bit longer...";
+msgctxt "Peter S. Alberto#2"
+msgid "Well, another Acolyte is in the training ground right now. You'll need to wait a little bit longer..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Please come back a little later. If this acolyte's done with the training, I will send you to the training area.";
+msgctxt "Peter S. Alberto#2"
+msgid "Please come back a little later. If this acolyte's done with the training, I will send you to the training area."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Please hold on for a while. Another acolyte is in the training ground right now.";
+msgctxt "Peter S. Alberto#2"
+msgid "Please hold on for a while. Another acolyte is in the training ground right now."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "If you want to take the test, please wait a while and talk to me again.";
+msgctxt "Peter S. Alberto#2"
+msgid "If you want to take the test, please wait a while and talk to me again."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Peace...";
+msgctxt "Peter S. Alberto#2"
+msgid "Peace..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Be with you.";
+msgctxt "Peter S. Alberto#2"
+msgid "Be with you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Father Peter]";
+msgctxt "Zombie Info"
+msgid "[Father Peter]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "When the Priest applicant enters, 5 minutes will be given to complete this trial. Proceed slowly and help your Acolyte.";
+msgctxt "Zombie Info"
+msgid "When the Priest applicant enters, 5 minutes will be given to complete this trial. Proceed slowly and help your Acolyte."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Enter through the warp at the end of the hall, where you will be lead to the next test hall.";
+msgctxt "Zombie Info"
+msgid "Enter through the warp at the end of the hall, where you will be lead to the next test hall."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Remember...";
+msgctxt "Zombie Info"
+msgid "Remember..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "This trial must be";
+msgctxt "Zombie Info"
+msgid "This trial must be"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "completed within";
+msgctxt "Zombie Info"
+msgid "completed within"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "5 minutes. Best of luck~";
+msgctxt "Zombie Info"
+msgid "5 minutes. Best of luck~"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I will give you exactly 5 minutes! You must proceed slowly and eliminate the Zombies.";
+msgctxt "Zombie Info"
+msgid "I will give you exactly 5 minutes! You must proceed slowly and eliminate the Zombies."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Slay all the zombies and go through the warp at the end of the hall. Make sure that you kill them all.";
+msgctxt "Zombie Info"
+msgid "Slay all the zombies and go through the warp at the end of the hall. Make sure that you kill them all."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Deviruchi]";
+msgctxt "Deviruchi#prst"
+msgid "[Deviruchi]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Whaaaaat...?";
+msgctxt "Deviruchi#prst"
+msgid "Whaaaaat...?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "What are you";
+msgctxt "Deviruchi#prst"
+msgid "What are you"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "doing back here?";
+msgctxt "Deviruchi#prst"
+msgid "doing back here?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well, look who's the ^660000BMOC^000000 now. That's '^660000B^000000ig ^660000M^000000an ^660000O^000000n ^660000C^000000ampus,' if you didn't know. By the way, I was being sarcastic. You know, if you didn't notice.";
+msgctxt "Deviruchi#prst"
+msgid "Well, look who's the ^660000BMOC^000000 now. That's '^660000B^000000ig ^660000M^000000an ^660000O^000000n ^660000C^000000ampus,' if you didn't know. By the way, I was being sarcastic. You know, if you didn't notice."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Are you really";
+msgctxt "Deviruchi#prst"
+msgid "Are you really"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "happy being a Priest?";
+msgctxt "Deviruchi#prst"
+msgid "happy being a Priest?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "There's no possible way.";
+msgctxt "Deviruchi#prst"
+msgid "There's no possible way."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Alright, alright, for old time's sake, I'll let you pass me. But only this once. But I better not catch you again! This is evil turf, you hear?!";
+msgctxt "Deviruchi#prst"
+msgid "Alright, alright, for old time's sake, I'll let you pass me. But only this once. But I better not catch you again! This is evil turf, you hear?!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Why...";
+msgctxt "Deviruchi#prst"
+msgid "Why..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hello little Aco.";
+msgctxt "Deviruchi#prst"
+msgid "Hello little Aco."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You must be here training hard to be a Priest. Funny, I know a lot of God's servants, actually. They tell me that it's really tough serving that God guy all the time. So... So ^666666tiring^000000 and ^666666unrewarding^000000.";
+msgctxt "Deviruchi#prst"
+msgid "You must be here training hard to be a Priest. Funny, I know a lot of God's servants, actually. They tell me that it's really tough serving that God guy all the time. So... So ^666666tiring^000000 and ^666666unrewarding^000000."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I mean, people are always crying to Priests for help no matter where they are. And Priests never get anything in return...";
+msgctxt "Deviruchi#prst"
+msgid "I mean, people are always crying to Priests for help no matter where they are. And Priests never get anything in return..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "It's tragic really, how unappreciated Priests are.";
+msgctxt "Deviruchi#prst"
+msgid "It's tragic really, how unappreciated Priests are."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "It's so clear that any job is better. Anything at all...";
+msgctxt "Deviruchi#prst"
+msgid "It's so clear that any job is better. Anything at all..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Wouldn't life be so much easier if you weren't a Priest? And it'd be so easy. All you'd have to do is quit right now...";
+msgctxt "Deviruchi#prst"
+msgid "Wouldn't life be so much easier if you weren't a Priest? And it'd be so easy. All you'd have to do is quit right now..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("You're right, I quit!", "Out of my sight, demon!") == 1) {
+msgctxt "Deviruchi#prst"
+msgid "You're right, I quit!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("You're right, I quit!", "Out of my sight, demon!") == 1) {
+msgctxt "Deviruchi#prst"
+msgid "Out of my sight, demon!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^660000YES~!^000000 I mean...";
+msgctxt "Deviruchi#prst"
+msgid "^660000YES~!^000000 I mean..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Good for you!";
+msgctxt "Deviruchi#prst"
+msgid "Good for you!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh...?";
+msgctxt "Deviruchi#prst"
+msgid "Oh...?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Look at the ^660000time^000000.";
+msgctxt "Deviruchi#prst"
+msgid "Look at the ^660000time^000000."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You better get going.";
+msgctxt "Deviruchi#prst"
+msgid "You better get going."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "BWAHAHAHAHAHAH!";
+msgctxt "Deviruchi#prst"
+msgid "BWAHAHAHAHAHAH!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "GET THE JOKE!?";
+msgctxt "Deviruchi#prst"
+msgid "GET THE JOKE!?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Out of your sight?";
+msgctxt "Deviruchi#prst"
+msgid "Out of your sight?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I guess I'm not the";
+msgctxt "Deviruchi#prst"
+msgid "I guess I'm not the"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "cutest thing you've";
+msgctxt "Deviruchi#prst"
+msgid "cutest thing you've"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "ever seen, huh?";
+msgctxt "Deviruchi#prst"
+msgid "ever seen, huh?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "But how about this...? Now, isn't this an attractive sight? A nice, shiny new card. Mint condition. Not too many people have this you know. But I happen to have soooo many, my pockets hurt.";
+msgctxt "Deviruchi#prst"
+msgid "But how about this...? Now, isn't this an attractive sight? A nice, shiny new card. Mint condition. Not too many people have this you know. But I happen to have soooo many, my pockets hurt."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Isn't it everyone's dream to have one of these? Think about it, being a Priest can only bring you suffering...";
+msgctxt "Deviruchi#prst"
+msgid "Isn't it everyone's dream to have one of these? Think about it, being a Priest can only bring you suffering..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("You're right, I'll take it!", "Silence!") == 1) {
+msgctxt "Deviruchi#prst"
+msgid "You're right, I'll take it!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("You're right, I'll take it!", "Silence!") == 1) {
+msgctxt "Deviruchi#prst"
+msgid "Silence!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Good choice!";
+msgctxt "Deviruchi#prst"
+msgid "Good choice!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "This card can";
+msgctxt "Deviruchi#prst"
+msgid "This card can"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "can be yours...";
+msgctxt "Deviruchi#prst"
+msgid "can be yours..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Theoretically!";
+msgctxt "Deviruchi#prst"
+msgid "Theoretically!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "BWAHAHAHAHAHAHAHA!";
+msgctxt "Deviruchi#prst"
+msgid "BWAHAHAHAHAHAHAHA!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Go and earn it yourself!";
+msgctxt "Deviruchi#prst"
+msgid "Go and earn it yourself!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Did...";
+msgctxt "Deviruchi#prst"
+msgid "Did..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Did you just tell";
+msgctxt "Deviruchi#prst"
+msgid "Did you just tell"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "me to shut up?";
+msgctxt "Deviruchi#prst"
+msgid "me to shut up?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh my God...";
+msgctxt "Deviruchi#prst"
+msgid "Oh my God..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Sorry...";
+msgctxt "Deviruchi#prst"
+msgid "Sorry..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Oh ^660000your^000000 God.";
+msgctxt "Deviruchi#prst"
+msgid "Oh ^660000your^000000 God."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Fine, get going.";
+msgctxt "Deviruchi#prst"
+msgid "Fine, get going."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "But you'll regret";
+msgctxt "Deviruchi#prst"
+msgid "But you'll regret"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "your decision later!";
+msgctxt "Deviruchi#prst"
+msgid "your decision later!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Doppelganger]";
+msgctxt "Doppelganger#prst"
+msgid "[Doppelganger]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "What are you doing here? You've already made your choice, there's no going back... Priest.";
+msgctxt "Doppelganger#prst"
+msgid "What are you doing here? You've already made your choice, there's no going back... Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Besides, this is none of your business. Whether or not this Acolyte becomes a Priest isn't up to you. Now get out of here, before I get violent.";
+msgctxt "Doppelganger#prst"
+msgid "Besides, this is none of your business. Whether or not this Acolyte becomes a Priest isn't up to you. Now get out of here, before I get violent."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hold on there, Acolyte.";
+msgctxt "Doppelganger#prst"
+msgid "Hold on there, Acolyte."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I'm not like Deviruchi,";
+msgctxt "Doppelganger#prst"
+msgid "I'm not like Deviruchi,"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "so I won't mince";
+msgctxt "Doppelganger#prst"
+msgid "so I won't mince"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "words with you.";
+msgctxt "Doppelganger#prst"
+msgid "words with you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now, why would you want to become a Priest? It's such a worthless, thankless job. If you want, I'll give you the chance to become a Novice. Then you can become something much better!";
+msgctxt "Doppelganger#prst"
+msgid "Now, why would you want to become a Priest? It's such a worthless, thankless job. If you want, I'll give you the chance to become a Novice. Then you can become something much better!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Of course, I'll let you redistribute your stat points by your base level. Now, isn't that a sweet deal...?";
+msgctxt "Doppelganger#prst"
+msgid "Of course, I'll let you redistribute your stat points by your base level. Now, isn't that a sweet deal...?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Deal, Deal!", "No deal... Doppelganger.") == 1) {
+msgctxt "Doppelganger#prst"
+msgid "Deal, Deal!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Deal, Deal!", "No deal... Doppelganger.") == 1) {
+msgctxt "Doppelganger#prst"
+msgid "No deal... Doppelganger."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Good choice~";
+msgctxt "Doppelganger#prst"
+msgid "Good choice~"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I shall return your";
+msgctxt "Doppelganger#prst"
+msgid "I shall return your"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "job to a Novice";
+msgctxt "Doppelganger#prst"
+msgid "job to a Novice"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "as you wish.";
+msgctxt "Doppelganger#prst"
+msgid "as you wish."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now go!!";
+msgctxt "Doppelganger#prst"
+msgid "Now go!!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Never step into";
+msgctxt "Doppelganger#prst"
+msgid "Never step into"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "the light again!";
+msgctxt "Doppelganger#prst"
+msgid "the light again!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I don't think you understood what I just offered. Think about it again. I mean, this is your one and only chance to undo your life mistakes. I mean, becoming an Acolyte?";
+msgctxt "Doppelganger#prst"
+msgid "I don't think you understood what I just offered. Think about it again. I mean, this is your one and only chance to undo your life mistakes. I mean, becoming an Acolyte?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Just don't become a Priest. I won't ask you more than once. Then you can choose a better job... perhaps a Swordman like me.";
+msgctxt "Doppelganger#prst"
+msgid "Just don't become a Priest. I won't ask you more than once. Then you can choose a better job... perhaps a Swordman like me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I don't want to be a Priest!", "I'll never listen to you!") == 1) {
+msgctxt "Doppelganger#prst"
+msgid "I don't want to be a Priest!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I don't want to be a Priest!", "I'll never listen to you!") == 1) {
+msgctxt "Doppelganger#prst"
+msgid "I'll never listen to you!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Excellent choice. Now, never return to this place. I shall return your job to Novice as you wish.";
+msgctxt "Doppelganger#prst"
+msgid "Excellent choice. Now, never return to this place. I shall return your job to Novice as you wish."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hmpf. I admire";
+msgctxt "Doppelganger#prst"
+msgid "Hmpf. I admire"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "your determination.";
+msgctxt "Doppelganger#prst"
+msgid "your determination."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Okay, you can pass.";
+msgctxt "Doppelganger#prst"
+msgid "Okay, you can pass."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "For now.";
+msgctxt "Doppelganger#prst"
+msgid "For now."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "But if by chance we meet again,";
+msgctxt "Doppelganger#prst"
+msgid "But if by chance we meet again,"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I assure you... You won't be happy at all to see me.";
+msgctxt "Doppelganger#prst"
+msgid "I assure you... You won't be happy at all to see me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Dark Lord]";
+msgctxt "Dark Lord#prst"
+msgid "[Dark Lord]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^330033All is doom, darkness and despair! Those who love you will betray you, and all that will be left is grieving and fury!^000000";
+msgctxt "Dark Lord#prst"
+msgid "^330033All is doom, darkness and despair! Those who love you will betray you, and all that will be left is grieving and fury!^000000"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^330033To choose to become a servant of God is to choose eternal pain!";
+msgctxt "Dark Lord#prst"
+msgid "^330033To choose to become a servant of God is to choose eternal pain!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I shall personally see to that, mortal.^000000";
+msgctxt "Dark Lord#prst"
+msgid "I shall personally see to that, mortal.^000000"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^330033Halt, human.";
+msgctxt "Dark Lord#prst"
+msgid "^330033Halt, human."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Who has granted";
+msgctxt "Dark Lord#prst"
+msgid "Who has granted"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "you passage?^000000";
+msgctxt "Dark Lord#prst"
+msgid "you passage?^000000"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^330033You still wish to become a Priest?! Fool! Then, I shall not let you pass. Go back. Otherwise, you will not survive.^000000";
+msgctxt "Dark Lord#prst"
+msgid "^330033You still wish to become a Priest?! Fool! Then, I shall not let you pass. Go back. Otherwise, you will not survive.^000000"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^330033It would be so easy for me to snap your fragile body in twain and grind your bones to dust.";
+msgctxt "Dark Lord#prst"
+msgid "^330033It would be so easy for me to snap your fragile body in twain and grind your bones to dust."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now, go back mortal!^000000";
+msgctxt "Dark Lord#prst"
+msgid "Now, go back mortal!^000000"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I'm so sorry. Spare me!", "God will protect me.") == 1) {
+msgctxt "Dark Lord#prst"
+msgid "I'm so sorry. Spare me!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I'm so sorry. Spare me!", "God will protect me.") == 1) {
+msgctxt "Dark Lord#prst"
+msgid "God will protect me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^330033Don't ever come back!^000000";
+msgctxt "Dark Lord#prst"
+msgid "^330033Don't ever come back!^000000"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^330033It is no use to feign strength and courage. You are completely helpless before me. Your skills are laughable, and your weapons are but mere toys compared to my power.^000000";
+msgctxt "Dark Lord#prst"
+msgid "^330033It is no use to feign strength and courage. You are completely helpless before me. Your skills are laughable, and your weapons are but mere toys compared to my power.^000000"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^330033With just a wave of my hand, you will cease to exist. And no one will remember you. Tremble before the might of my infinite magic!^000000";
+msgctxt "Dark Lord#prst"
+msgid "^330033With just a wave of my hand, you will cease to exist. And no one will remember you. Tremble before the might of my infinite magic!^000000"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I beg you, don't...!", "Begone, vile fiend!") == 1) {
+msgctxt "Dark Lord#prst"
+msgid "I beg you, don't...!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("I beg you, don't...!", "Begone, vile fiend!") == 1) {
+msgctxt "Dark Lord#prst"
+msgid "Begone, vile fiend!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^330033Why...";
+msgctxt "Dark Lord#prst"
+msgid "^330033Why..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Why don't you fear me?!";
+msgctxt "Dark Lord#prst"
+msgid "Why don't you fear me?!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "For a frail mortal, you";
+msgctxt "Dark Lord#prst"
+msgid "For a frail mortal, you"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "are quite annoying.^000000";
+msgctxt "Dark Lord#prst"
+msgid "are quite annoying.^000000"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "^330033When next we meet, I will shall escort you to a realm of suffering where you shall spend years immersed in excruciating pain.";
+msgctxt "Dark Lord#prst"
+msgid "^330033When next we meet, I will shall escort you to a realm of suffering where you shall spend years immersed in excruciating pain."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Mark my words...^000000";
+msgctxt "Dark Lord#prst"
+msgid "Mark my words...^000000"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Baphomet]";
+msgctxt "Baphomet#prst"
+msgid "[Baphomet]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I hate";
+msgctxt "Baphomet#prst"
+msgid "I hate"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Priests...";
+msgctxt "Baphomet#prst"
+msgid "Priests..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I don't have any business with you, servant of God. Just pass through.";
+msgctxt "Baphomet#prst"
+msgid "I don't have any business with you, servant of God. Just pass through."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Greetings.";
+msgctxt "Baphomet#prst"
+msgid "Greetings."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "..."+ strcharinfo(PC_NAME) +".";
+msgctxt "Baphomet#prst"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Yes, human,";
+msgctxt "Baphomet#prst"
+msgid "Yes, human,"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I know who you are.";
+msgctxt "Baphomet#prst"
+msgid "I know who you are."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I also know that Deviruchi, Doppelganger and the Dark Lord have all failed to convince you to turn away from the Priesthood.";
+msgctxt "Baphomet#prst"
+msgid "I also know that Deviruchi, Doppelganger and the Dark Lord have all failed to convince you to turn away from the Priesthood."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now, I stand before";
+msgctxt "Baphomet#prst"
+msgid "Now, I stand before"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "you to offer a deal.";
+msgctxt "Baphomet#prst"
+msgid "you to offer a deal."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I can grant you any treasure you desire and infinite power at your fingertips. Powerful weapons that humans have never before seen...";
+msgctxt "Baphomet#prst"
+msgid "I can grant you any treasure you desire and infinite power at your fingertips. Powerful weapons that humans have never before seen..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Mountains of zeny that you cannot possibly hope to spend in a lifetime. Though, who's to say that your lifespan should be limited? Fame, power, immortality: It can all be yours.";
+msgctxt "Baphomet#prst"
+msgid "Mountains of zeny that you cannot possibly hope to spend in a lifetime. Though, who's to say that your lifespan should be limited? Fame, power, immortality: It can all be yours."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I will be yours to summon at anytime. All other humans will dread making you their enemy. You will become the most powerful person in all of history!";
+msgctxt "Baphomet#prst"
+msgid "I will be yours to summon at anytime. All other humans will dread making you their enemy. You will become the most powerful person in all of history!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Cease this foolishness of pursuing the Priesthood. Make a contract with me. The entire world is yours for the taking.";
+msgctxt "Baphomet#prst"
+msgid "Cease this foolishness of pursuing the Priesthood. Make a contract with me. The entire world is yours for the taking."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Deal.", "No, Baphomet. You lose.") == 1) {
+msgctxt "Baphomet#prst"
+msgid "Deal."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# if (select("Deal.", "No, Baphomet. You lose.") == 1) {
+msgctxt "Baphomet#prst"
+msgid "No, Baphomet. You lose."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Then we shall form a contract. You won't ever regret this moment...";
+msgctxt "Baphomet#prst"
+msgid "Then we shall form a contract. You won't ever regret this moment..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Follow me.";
+msgctxt "Baphomet#prst"
+msgid "Follow me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "We will make the";
+msgctxt "Baphomet#prst"
+msgid "We will make the"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "contract in my";
+msgctxt "Baphomet#prst"
+msgid "contract in my"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "sanctum of darkness.";
+msgctxt "Baphomet#prst"
+msgid "sanctum of darkness."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Foolish human...";
+msgctxt "Baphomet#prst"
+msgid "Foolish human..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "You have made your choice. I will leave you alone for now, then. However, your training won't be as easy as you think.";
+msgctxt "Baphomet#prst"
+msgid "You have made your choice. I will leave you alone for now, then. However, your training won't be as easy as you think."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I shall be preparing my troops for you. The day will come when I shall enjoy watching you writhe in agony as my fiends slowly devour you.";
+msgctxt "Baphomet#prst"
+msgid "I shall be preparing my troops for you. The day will come when I shall enjoy watching you writhe in agony as my fiends slowly devour you."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Ah yes, so you're the young Acolyte who wishes to become a Priest.";
+msgctxt "F_FatherRub"
+msgid "Ah yes, so you're the young Acolyte who wishes to become a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Father Rubalkabara]";
+msgctxt "F_FatherRub"
+msgid "[Father Rubalkabara]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I've received the message from Bishop Paul. Since you made the pilgrimage, I hope you accomplish your goal of becoming a Priest.";
+msgctxt "F_FatherRub"
+msgid "I've received the message from Bishop Paul. Since you made the pilgrimage, I hope you accomplish your goal of becoming a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Also, if you have a chance, please visit this abbey again. It's a sacred place for our Church.";
+msgctxt "F_FatherRub"
+msgid "Also, if you have a chance, please visit this abbey again. It's a sacred place for our Church."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well then, please head to your next destination for your pilgrimage. Be safe in your travels.";
+msgctxt "F_FatherRub"
+msgid "Well then, please head to your next destination for your pilgrimage. Be safe in your travels."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Please be hurry to the next destination for your pilgrimage. I hope you become a Priest soon.";
+msgctxt "F_FatherRub"
+msgid "Please be hurry to the next destination for your pilgrimage. I hope you become a Priest soon."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May I ask why you have returned? Please go back and continue your religious practice.";
+msgctxt "F_FatherRub"
+msgid "May I ask why you have returned? Please go back and continue your religious practice."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I have no idea what brought you here, but please excuse me.";
+msgctxt "F_FatherRub"
+msgid "I have no idea what brought you here, but please excuse me."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hmm...";
+msgctxt "F_MotherMart"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "It seems you're";
+msgctxt "F_MotherMart"
+msgid "It seems you're"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "training to become";
+msgctxt "F_MotherMart"
+msgid "training to become"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "a Priest.";
+msgctxt "F_MotherMart"
+msgid "a Priest."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Mother Mathilda]";
+msgctxt "F_MotherMart"
+msgid "[Mother Mathilda]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "However, at this point in your pilgrimage, I am not the person that you should be visiting.";
+msgctxt "F_MotherMart"
+msgid "However, at this point in your pilgrimage, I am not the person that you should be visiting."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Perhaps you should ask Bishop Paul or Sister Cecilia once again. Well, may God be with you...";
+msgctxt "F_MotherMart"
+msgid "Perhaps you should ask Bishop Paul or Sister Cecilia once again. Well, may God be with you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Ah, are you";
+msgctxt "F_MotherMart"
+msgid "Ah, are you"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "a Priest trainee...?";
+msgctxt "F_MotherMart"
+msgid "a Priest trainee...?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Welcome!";
+msgctxt "F_MotherMart"
+msgid "Welcome!"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "We Priests are obliged to spread the message of God to";
+msgctxt "F_MotherMart"
+msgid "We Priests are obliged to spread the message of God to"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "the peoples of the Earth.";
+msgctxt "F_MotherMart"
+msgid "the peoples of the Earth."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "After you become a Priest, your travels may take you to the Morroc Pyramids. I hope that you may release the Undead there from the evil to which they are bound.";
+msgctxt "F_MotherMart"
+msgid "After you become a Priest, your travels may take you to the Morroc Pyramids. I hope that you may release the Undead there from the evil to which they are bound."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well then...";
+msgctxt "F_MotherMart"
+msgid "Well then..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I shall pray to";
+msgctxt "F_MotherMart"
+msgid "I shall pray to"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "God for safety";
+msgctxt "F_MotherMart"
+msgid "God for safety"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "on your journey.";
+msgctxt "F_MotherMart"
+msgid "on your journey."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Please leave soon, and";
+msgctxt "F_MotherMart"
+msgid "Please leave soon, and"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "continue your training.";
+msgctxt "F_MotherMart"
+msgid "continue your training."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May I ask you the reason you came back? Please continue your training.";
+msgctxt "F_MotherMart"
+msgid "May I ask you the reason you came back? Please continue your training."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "May God";
+msgctxt "F_MotherMart"
+msgid "May God"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "be with you...";
+msgctxt "F_MotherMart"
+msgid "be with you..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hmm...";
+msgctxt "F_FatherYos"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "A Priest trainee, eh?";
+msgctxt "F_FatherYos"
+msgid "A Priest trainee, eh?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "[Father Yosuke]";
+msgctxt "F_FatherYos"
+msgid "[Father Yosuke]"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Well, you got the wrong person. If you're supposed to meet up with me at all, it'd be later.";
+msgctxt "F_FatherYos"
+msgid "Well, you got the wrong person. If you're supposed to meet up with me at all, it'd be later."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "But that's your own fault.";
+msgctxt "F_FatherYos"
+msgid "But that's your own fault."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now, go back to Church, kid.";
+msgctxt "F_FatherYos"
+msgid "Now, go back to Church, kid."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "But that's your own fault. Go back to Church.";
+msgctxt "F_FatherYos"
+msgid "But that's your own fault. Go back to Church."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hmm.";
+msgctxt "F_FatherYos"
+msgid "Hmm."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "A Priest";
+msgctxt "F_FatherYos"
+msgid "A Priest"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "trainee, eh? ";
+msgctxt "F_FatherYos"
+msgid "trainee, eh? "
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Welcome.";
+msgctxt "F_FatherYos"
+msgid "Welcome."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I won't say";
+msgctxt "F_FatherYos"
+msgid "I won't say"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "anything more.";
+msgctxt "F_FatherYos"
+msgid "anything more."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Just devote your";
+msgctxt "F_FatherYos"
+msgid "Just devote your"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "life to God.";
+msgctxt "F_FatherYos"
+msgid "life to God."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Now go back to church.";
+msgctxt "F_FatherYos"
+msgid "Now go back to church."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Hereby, the first of";
+msgctxt "F_FatherYos"
+msgid "Hereby, the first of"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "your trials is now";
+msgctxt "F_FatherYos"
+msgid "your trials is now"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "completed.";
+msgctxt "F_FatherYos"
+msgid "completed."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "I told you to go back to church.";
+msgctxt "F_FatherYos"
+msgid "I told you to go back to church."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Or do you want to live with me here for the rest of your life...?";
+msgctxt "F_FatherYos"
+msgid "Or do you want to live with me here for the rest of your life...?"
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "Just go be a Priest. This isn't a playground for kids.";
+msgctxt "F_FatherYos"
+msgid "Just go be a Priest. This isn't a playground for kids."
+msgstr ""
+
+#: npc/jobs/2-1/priest.txt
+# mes "...Acolyte, you don't have any business with me here.";
+msgctxt "F_FatherYos"
+msgid "...Acolyte, you don't have any business with me here."
+msgstr ""

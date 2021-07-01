@@ -1,0 +1,242 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "[Staff]";
+msgctxt "Staff#60-1"
+msgid "[Staff]"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "You did a good job.";
+msgctxt "Staff#60-1"
+msgid "You did a good job."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Even if you have failed to clear a time attack battle, I will reward you with a small amount of arena points.";
+msgctxt "Staff#60-1"
+msgid "Even if you have failed to clear a time attack battle, I will reward you with a small amount of arena points."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Uh huh!";
+msgctxt "Staff#60-1"
+msgid "Uh huh!"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "You already have enough arena points.";
+msgctxt "Staff#60-1"
+msgid "You already have enough arena points."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Please spend some arena points later. When I see you next time, I will make sure to give you some reward.";
+msgctxt "Staff#60-1"
+msgid "Please spend some arena points later. When I see you next time, I will make sure to give you some reward."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Let me guide you outside. I hope you had a good time.";
+msgctxt "Staff#60-1"
+msgid "Let me guide you outside. I hope you had a good time."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "[Staff]";
+msgctxt "Staff#60-2"
+msgid "[Staff]"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Wow, you did a good job~ ";
+msgctxt "Staff#60-2"
+msgid "Wow, you did a good job~ "
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Your name is...^3131FF" + strcharinfo(PC_NAME) +"^000000, isn't it?";
+msgctxt "Staff#60-2"
+msgid "Your name is...^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "^3131FF"+ strcharinfo(PC_NAME) +"^000000, total time you spent to pass the battle..";
+msgctxt "Staff#60-2"
+msgid "^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "is "+@record_min60+"minutes "+@record_sec60+"seconds.";
+msgctxt "Staff#60-2"
+msgid "is "
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "is "+@record_min60+"minutes "+@record_sec60+"seconds.";
+msgctxt "Staff#60-2"
+msgid "minutes "
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "is "+@record_min60+"minutes "+@record_sec60+"seconds.";
+msgctxt "Staff#60-2"
+msgid "seconds."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Congratulations!";
+msgctxt "Staff#60-2"
+msgid "Congratulations!"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "The fastest player among people who cleared Lv60 arena time force battle is ^3131FF"+$arena_60topn$+"^000000.";
+msgctxt "Staff#60-2"
+msgid "The fastest player among people who cleared Lv60 arena time force battle is ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "The fastest player among people who cleared Lv60 arena time force battle is ^3131FF"+$arena_60topn$+"^000000.";
+msgctxt "Staff#60-2"
+msgid "^000000."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "^3131FF"+$arena_60topn$+"^000000's running time was ^3131FF"+$top_60min+"^000000minutes ^3131FF"+$top_60sec+"^000000seconds.";
+msgctxt "Staff#60-2"
+msgid "^000000's running time was ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "^3131FF"+$arena_60topn$+"^000000's running time was ^3131FF"+$top_60min+"^000000minutes ^3131FF"+$top_60sec+"^000000seconds.";
+msgctxt "Staff#60-2"
+msgid "^000000minutes ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "^3131FF"+$arena_60topn$+"^000000's running time was ^3131FF"+$top_60min+"^000000minutes ^3131FF"+$top_60sec+"^000000seconds.";
+msgctxt "Staff#60-2"
+msgid "^000000seconds."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Although you failed to make a new record, I hope you will succeed next time.";
+msgctxt "Staff#60-2"
+msgid "Although you failed to make a new record, I hope you will succeed next time."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Then let me reward you with some arena points....eh?";
+msgctxt "Staff#60-2"
+msgid "Then let me reward you with some arena points....eh?"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Your arena points have exceeded the maximum amount. I cannot give you more points until you spend some points.";
+msgctxt "Staff#60-2"
+msgid "Your arena points have exceeded the maximum amount. I cannot give you more points until you spend some points."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "You can check the amount of arena points you have in the arena waiting room.";
+msgctxt "Staff#60-2"
+msgid "You can check the amount of arena points you have in the arena waiting room."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "I hope you had a good time and let me guide you to the entrance of arena.";
+msgctxt "Staff#60-2"
+msgid "I hope you had a good time and let me guide you to the entrance of arena."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Thank you.";
+msgctxt "Staff#60-2"
+msgid "Thank you."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Let me reward you some arena points.";
+msgctxt "Staff#60-2"
+msgid "Let me reward you some arena points."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "If you wish to check the amount of arena points you have, please go talk to ^3131FFVendigos^000000 at the arena entrance.";
+msgctxt "Staff#60-2"
+msgid "If you wish to check the amount of arena points you have, please go talk to ^3131FFVendigos^000000 at the arena entrance."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Let me guide you to the entrance of arena.";
+msgctxt "Staff#60-2"
+msgid "Let me guide you to the entrance of arena."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "See you later~";
+msgctxt "Staff#60-2"
+msgid "See you later~"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Wow! You have renewed the record!";
+msgctxt "Staff#60-2"
+msgid "Wow! You have renewed the record!"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "What a great job!";
+msgctxt "Staff#60-2"
+msgid "What a great job!"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "You have been recorded as the fastest player among people who cleared ^FF0000Arena Time Force Battle lvl 60s^000000, ^3131FF"+strcharinfo(PC_NAME)+"^000000.";
+msgctxt "Staff#60-2"
+msgid "You have been recorded as the fastest player among people who cleared ^FF0000Arena Time Force Battle lvl 60s^000000, ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "Let me reward you with some arena points.";
+msgctxt "Staff#60-2"
+msgid "Let me reward you with some arena points."
+msgstr ""
+
+#: npc/other/arena/arena_lvl60.txt
+# mes "At the same time, since you have renewed the record you will receive an extra amount of the points this time.";
+msgctxt "Staff#60-2"
+msgid "At the same time, since you have renewed the record you will receive an extra amount of the points this time."
+msgstr ""

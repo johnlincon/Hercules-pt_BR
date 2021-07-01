@@ -1,0 +1,1237 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 11:15-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Dwarf]";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "[Dwarf]"
+msgstr "[Anão]"
+
+# mes "Hey did you see an ugly Goblin come by? He stole something from me!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Hey did you see an ugly Goblin come by? He stole something from me!"
+msgstr "Você viu um Goblin feio passar por aqui? Ele roubou algo de mim!"
+
+# mes "Help me!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Help me!"
+msgstr "Ajude-me!"
+
+# mes "Please, help me!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Please, help me!"
+msgstr "Por favor, me ajude!"
+
+# switch(select("What happened?", "Nevermind.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "What happened?"
+msgstr "O que houve?"
+
+# switch(select("What happened?", "Nevermind.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Nevermind."
+msgstr "Não se preocupe."
+
+# mes "I am Morestone and I collect rare gems.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "I am Morestone and I collect rare gems."
+msgstr "Eu sou Morestone e coleciono jóias raras."
+
+# mes "[Morestone]";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "[Morestone]"
+msgstr "[Morestone]"
+
+# mes "In my travels, I was told that there were alot of gems in Valfreyja and Nidhoggur, so I came down here.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"In my travels, I was told that there were alot of gems in Valfreyja and "
+"Nidhoggur, so I came down here."
+msgstr ""
+"Em minhas viagens, me disseram que havia muitas gemas em Valfreyja e "
+"Nidhoggur, por isso vim até aqui."
+
+# mes "But here, the soil is very hard to dig into. Fortunately, my ^3131FFPickaxe^000000 never lets me down!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"But here, the soil is very hard to dig into. Fortunately, my "
+"^3131FFPickaxe^000000 never lets me down!"
+msgstr ""
+"Mas aqui, o solo é muito difícil de ser cavado. Felizmente, meu "
+"^3131FFPickaxe^000000 nunca me decepciona!"
+
+# select("Pickaxe!");
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Pickaxe!"
+msgstr "Picareta!"
+
+# mes "Yes, my beloved pickaxe!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Yes, my beloved pickaxe!"
+msgstr "Sim, minha querida picareta!"
+
+# mes "I always carry it with me, you know?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "I always carry it with me, you know?"
+msgstr "Sempre carrego isso comigo, sabe?"
+
+# mes "We started working here together.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "We started working here together."
+msgstr "Começamos a trabalhar aqui juntos."
+
+# mes "After a few days, we finally found something!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "After a few days, we finally found something!"
+msgstr "Depois de alguns dias, finalmente encontramos algo!"
+
+# select("Something strange??");
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Something strange??"
+msgstr "Algo estranho?"
+
+# mes "No, but it was worth quite alot.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "No, but it was worth quite alot."
+msgstr "Não, mas valeu muito a pena."
+
+# mes "But we did not have much time to celebrate. Suddenly, a monster appeared that stole my pickaxe.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"But we did not have much time to celebrate. Suddenly, a monster appeared "
+"that stole my pickaxe."
+msgstr ""
+"Mas não tivemos muito tempo para comemorar. De repente, apareceu um monstro "
+"que roubou minha picareta."
+
+# mes "His name was^3131FFKublin^000000!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "His name was^3131FFKublin^000000!"
+msgstr "Seu nome era^3131FFKublin^000000!"
+
+# mes "He stole my Pickaxe!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "He stole my Pickaxe!"
+msgstr "Ele roubou minha Picareta!"
+
+# mes "I can't live without it...";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "I can't live without it..."
+msgstr "Não posso viver sem ele..."
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "["
+msgstr "["
+
+# mes "Is this the pickaxe that you've been looking for?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Is this the pickaxe that you've been looking for?"
+msgstr "É esta a picareta que você tem procurado?"
+
+# mes "You found my Pickaxe?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "You found my Pickaxe?"
+msgstr "Você encontrou minha Picareta?"
+
+# mes "Show me, please!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Show me, please!"
+msgstr "Mostre-me, por favor!"
+
+# mes "Oh, my! You've returned it to me!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Oh, my! You've returned it to me!"
+msgstr "Oh, meu Deus! Você me devolveu!"
+
+# mes "My precious pickaxe, I thought I lost you forever.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "My precious pickaxe, I thought I lost you forever."
+msgstr "Minha preciosa picareta, pensei que te tinha perdido para sempre."
+
+# mes "You are great! What guild are you from?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "You are great! What guild are you from?"
+msgstr "Você é ótimo! De que guilda você é?"
+
+# mes "Could it be Gravity or Mercury?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Could it be Gravity or Mercury?"
+msgstr "Poderia ser Gravidade ou Mercúrio?"
+
+# mes "I am a member of the ^3131FF"+.@chk_yourgdname$+"^.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "I am a member of the ^3131FF"
+msgstr "Eu sou membro do ^3131FF"
+
+# mes "I am a member of the ^3131FF"+.@chk_yourgdname$+"^.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "^."
+msgstr "^."
+
+# mes "Oh... That guild will receive my greatest respect.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Oh... That guild will receive my greatest respect."
+msgstr "Oh... Essa guilda receberá meu maior respeito."
+
+# mes "Oh! My friend, I am very grateful for your help.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Oh! My friend, I am very grateful for your help."
+msgstr "Oh! meu amigo, estou muito grato por sua ajuda."
+
+# mes "As a reward, I will tell you about a mysterious area I have discovered recently.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"As a reward, I will tell you about a mysterious area I have discovered "
+"recently."
+msgstr ""
+"Como recompensa, vou falar-lhes de uma área misteriosa que descobri "
+"recentemente."
+
+# select("A mysterious area?");
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "A mysterious area?"
+msgstr "Uma área misteriosa?"
+
+# mes "That's right. I found it when I was digging around here.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "That's right. I found it when I was digging around here."
+msgstr "É isso mesmo. Encontrei-o quando estava cavando por aqui."
+
+# mes "It looks like it was made for some special purpose, but since there are no gems around there, I have no interest in it.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"It looks like it was made for some special purpose, but since there are no "
+"gems around there, I have no interest in it."
+msgstr ""
+"Parece que foi feito para algum propósito especial, mas como não há pedras "
+"preciosas por aí, não tenho interesse nelas."
+
+# mes "Instead of going there alone, I think it would be more fun to go with your friends...";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"Instead of going there alone, I think it would be more fun to go with your "
+"friends..."
+msgstr ""
+"Em vez de ir lá sozinho, acho que seria mais divertido ir com seus amigos..."
+
+# mes "If you want, I can take ^3131FFyou and your guild members^000000 to explore that area.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"If you want, I can take ^3131FFyou and your guild members^000000 to explore "
+"that area."
+msgstr ""
+"Se você quiser, eu posso levar ^3131FF você e seus membros da guilda "
+"^000000 para explorar essa área."
+
+# mes "Do you want to go there now?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Do you want to go there now?"
+msgstr "Você quer ir lá agora?"
+
+# switch(select("Wait! I'm not ready yet.", "Let's go!")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Wait! I'm not ready yet."
+msgstr "Espere! Eu ainda não estou pronto."
+
+# switch(select("Wait! I'm not ready yet.", "Let's go!")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Let's go!"
+msgstr "Vamos!"
+
+# mes "Take your time, and find a place to gather your friends.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Take your time, and find a place to gather your friends."
+msgstr "Leve seu tempo, e encontre um lugar para reunir seus amigos."
+
+# mes "Alright! Let's go.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Alright! Let's go."
+msgstr "Muito bem! Vamos lá."
+
+# mes "If your friends visit me again later, I will guide them to that area again.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"If your friends visit me again later, I will guide them to that area again."
+msgstr ""
+"Se seus amigos me visitarem novamente mais tarde, eu os guiarei para aquela "
+"área novamente."
+
+# mes "Don't forget, dwarves are grateful beings! Hahaha!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Don't forget, dwarves are grateful beings! Hahaha!"
+msgstr "Não se esqueça que os anões são seres agradecidos! Hahaha!"
+
+# mes "I will tell you how to find him.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "I will tell you how to find him."
+msgstr "Eu lhe direi como encontrá-lo."
+
+# mes "Kublin wears a ridiculous golden hat, It should be easy to recognise him by that.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"Kublin wears a ridiculous golden hat, It should be easy to recognise him by "
+"that."
+msgstr ""
+"Kublin usa um chapéu de ouro ridículo, deve ser fácil reconhecê-lo por isso."
+
+# mes "Ahhh...";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Ahhh..."
+msgstr "Ahhh..."
+
+# mes "I, Morestone, have made an alliance with the "+$@gdevents_s$+" guild.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "I, Morestone, have made an alliance with the "
+msgstr "Eu, Morestone, fiz uma aliança com a "
+
+# mes "I, Morestone, have made an alliance with the "+$@gdevents_s$+" guild.";
+#: npc/events/gdevent_sch.txt
+msgctxt "Dwarf#sch_gd"
+msgid " guild."
+msgstr " guilda."
+
+# mes "Oh, you are a member.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Oh, you are a member."
+msgstr "Oh, você é um membro."
+
+# mes "Would you like to go to the mysterious area?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Would you like to go to the mysterious area?"
+msgstr "Você gostaria de ir para a área misteriosa?"
+
+# switch(select("Let's go.", "No, thanks.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Let's go."
+msgstr "Vamos."
+
+# switch(select("Let's go.", "No, thanks.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "No, thanks."
+msgstr "Não, obrigado."
+
+# mes "I hope you enjoy yourself, my friend.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "I hope you enjoy yourself, my friend."
+msgstr "Espero que você se divirta, meu amigo."
+
+# mes "If you need my assistance, just ask.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "If you need my assistance, just ask."
+msgstr "Se você precisar de minha ajuda, basta pedir."
+
+# mes "Ah! Dont forget, I hate monsters! So I don't want to see them. It will be better if you ask for another favour.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid ""
+"Ah! Dont forget, I hate monsters! So I don't want to see them. It will be "
+"better if you ask for another favour."
+msgstr ""
+"Ah! Não esqueça, eu odeio monstros! Por isso, eu não quero vê-los. Será "
+"melhor se você pedir outro favor."
+
+# mes "Ah....";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Ah...."
+msgstr "Ah...."
+
+# mes "Hm, you're not a member.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Hm, you're not a member."
+msgstr "Hm, você não é um membro."
+
+# mes "Could you please give them my greetings?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Could you please give them my greetings?"
+msgstr "Poderia, por favor, dar-lhes minhas saudações?"
+
+# mes "Take your time, and find a place to gather you friends.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Dwarf#sch_gd"
+msgid "Take your time, and find a place to gather you friends."
+msgstr "Leve seu tempo, e encontre um lugar para reunir seus amigos."
+
+# mes "- Wait!! -";
+#: npc/events/gdevent_sch.txt
+msgctxt "Pierrot Pier#sch_gd"
+msgid "- Wait!! -"
+msgstr "- Espere!! -"
+
+# mes "- You're carrying too many items, -";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "- You're carrying too many items, -"
+msgstr "- Você está carregando muitos itens, -"
+
+# mes "- you can't receive the materials. -";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "- you can't receive the materials. -"
+msgstr "- você não pode receber os materiais. -"
+
+# mes "- Please use the Kafra Services, -";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "- Please use the Kafra Services, -"
+msgstr "- Por favor, use os Serviços Kafra, -"
+
+# mes "- and come back later. -";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "- and come back later. -"
+msgstr "- e voltaremos mais tarde. -"
+
+# mes "A lonely clown is juggling.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "A lonely clown is juggling."
+msgstr "Um palhaço solitário está fazendo malabarismos."
+
+# mes "When looked at closely, the clown is just a puppet that looks like a human.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"When looked at closely, the clown is just a puppet that looks like a human."
+msgstr ""
+"Quando observado de perto, o palhaço é apenas um boneco que se parece com "
+"um humano."
+
+# mes "The clown stops, then starts moving in accordance to your movements, noises start to emit from it's mouth.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"The clown stops, then starts moving in accordance to your movements, noises "
+"start to emit from it's mouth."
+msgstr ""
+"O palhaço pára, depois começa a se mover de acordo com seus movimentos, "
+"ruídos começam a emitir de sua boca."
+
+# mes "[Pierrot Pier]";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "[Pierrot Pier]"
+msgstr "[Cais Pierrot Pier]"
+
+# mes "Beep beep beep.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Beep beep beep."
+msgstr "Bip bip bip bip."
+
+# mes "Hello, my friends!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Hello, my friends!"
+msgstr "Olá, meus amigos!"
+
+# mes "I am the loyal servant of Gergath, and I have finally received my orders.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"I am the loyal servant of Gergath, and I have finally received my orders."
+msgstr "Sou o servo leal de Gergath e finalmente recebi minhas ordens."
+
+# mes "I am happy to hear all the laughter, but without my master's permission, I can't do anything.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"I am happy to hear all the laughter, but without my master's permission, I "
+"can't do anything."
+msgstr ""
+"Estou feliz em ouvir todas as risadas, mas sem a permissão do meu mestre, "
+"não posso fazer nada."
+
+# mes "Did you get permission from Gergath?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Did you get permission from Gergath?"
+msgstr "Você obteve permissão de Gergath?"
+
+# switch(select("I need to check that.", "No.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I need to check that."
+msgstr "Preciso verificar isso."
+
+# switch(select("I need to check that.", "No.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "No."
+msgstr "Nº."
+
+# mes "Please give me the palm of your hand.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Please give me the palm of your hand."
+msgstr "Por favor, dê-me a palma de sua mão."
+
+# mes "Let me see...";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Let me see..."
+msgstr "Deixe-me ver..."
+
+# mes "Hm...";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Hm..."
+msgstr "Hm..."
+
+# mes "Okay, I see...";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Okay, I see..."
+msgstr "Certo, estou vendo..."
+
+# mes "Indeed...";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Indeed..."
+msgstr "De fato..."
+
+# mes "Verification completed!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Verification completed!"
+msgstr "Verificação concluída!"
+
+# mes "Hm? that's right.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Hm? that's right."
+msgstr "Hm? isso mesmo."
+
+# mes "When is that person coming? I am very bored~!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "When is that person coming? I am very bored~!"
+msgstr "Quando essa pessoa vem? Estou muito entediado~!"
+
+# mes "^3131FF<You're someone who can only think about nonsense everyday, you have no focus at all.>^000000";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"^3131FF<You're someone who can only think about nonsense everyday, you have "
+"no focus at all.>^000000"
+msgstr ""
+"^3131FF<Você é alguém que só consegue pensar em bobagens todos os dias, "
+"você não tem foco em nada.>^000000"
+
+# mes "Hm? You don't think so?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Hm? You don't think so?"
+msgstr "Hm? Você não acha que sim?"
+
+# mes "Haha, I'm just kidding. Beep beep.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Haha, I'm just kidding. Beep beep."
+msgstr "Haha, estou só brincando. Beep beep."
+
+# mes "Ah, you are the one my master speaks of.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Ah, you are the one my master speaks of."
+msgstr "Ah, é de você que meu mestre fala."
+
+# mes "Come, the Gergath has left a message for you.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Come, the Gergath has left a message for you."
+msgstr "Venha, o Gergath deixou uma mensagem para você."
+
+# mes "It's a bit old, but it should still be legible.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "It's a bit old, but it should still be legible."
+msgstr "É um pouco antigo, mas ainda deve ser legível."
+
+# mes "Alright, let's begin!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Alright, let's begin!"
+msgstr "Muito bem, vamos começar!"
+
+# mes "Let's talk after I finished reading my master's message. Beep beep.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Let's talk after I finished reading my master's message. Beep beep."
+msgstr ""
+"Vamos conversar depois que eu terminar de ler a mensagem de meu mestre. "
+"Beep beep."
+
+# mes "My master Gergath sincerely wishes you joy for you and your family everyday.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"My master Gergath sincerely wishes you joy for you and your family everyday."
+msgstr ""
+"Meu mestre Gergath deseja sinceramente que você e sua família se alegrem "
+"todos os dias."
+
+# mes "Alright, would you like to play the game Gergath has prepared for you?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Alright, would you like to play the game Gergath has prepared for you?"
+msgstr ""
+"Muito bem, você gostaria de jogar o jogo que Gergath preparou para você?"
+
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Game instructions."
+msgstr "Instruções do jogo."
+
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Skip instructions."
+msgstr "Ignorar instruções."
+
+# switch(select("Game instructions.", "Skip instructions.", "Refuse game.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Refuse game."
+msgstr "Recuse o jogo."
+
+# mes "The game prepared by my master is very unique, yet simple and fun!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "The game prepared by my master is very unique, yet simple and fun!"
+msgstr ""
+"O jogo preparado pelo meu mestre é muito único, mas simples e divertido!"
+
+# mes "It's called \"Find the Treasure Map\"!!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "It's called \"Find the Treasure Map\"!!"
+msgstr "É chamado de \"Encontre o Mapa do Tesouro\"!"
+
+# mes "Do you see this large and green field? Beep, beep?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Do you see this large and green field? Beep, beep?"
+msgstr "Você vê este campo grande e verde? Bip, bip?"
+
+# mes "I will show you the most incredible magic here.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I will show you the most incredible magic here."
+msgstr "Mostrarei aqui a magia mais incrível."
+
+# mes "I will turn this place very white. Veeery white!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I will turn this place very white. Veeery white!"
+msgstr "Eu vou tornar este lugar muito branco. Veeery branco!"
+
+# mes "The game instruction is just to find the treasure map within the time limit.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"The game instruction is just to find the treasure map within the time limit."
+msgstr ""
+"A instrução do jogo é apenas para encontrar o mapa do tesouro dentro do "
+"limite de tempo."
+
+# mes "Sounds easy, right?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Sounds easy, right?"
+msgstr "Parece fácil, certo?"
+
+# mes "Oh, you don't want to play?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Oh, you don't want to play?"
+msgstr "Oh, você não quer brincar?"
+
+# mes "Okay, I'm ready to begin.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Okay, I'm ready to begin."
+msgstr "Muito bem, estou pronto para começar."
+
+# mes "Shall we start? Beep, beep?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Shall we start? Beep, beep?"
+msgstr "Vamos começar? Bip, bip?"
+
+# switch(select("No.", "Start.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Start."
+msgstr "Comece."
+
+# mes "Let me know when you are ready.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Let me know when you are ready."
+msgstr "Informe-me quando estiver pronto."
+
+# mes "Alright! Let us begin!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Alright! Let us begin!"
+msgstr "Muito bem! Vamos começar!"
+
+# mes "Ladies, and gentlemen.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Ladies, and gentlemen."
+msgstr "Senhoras e senhores."
+
+# mes "Who will find the treasure map in this white world?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Who will find the treasure map in this white world?"
+msgstr "Quem vai encontrar o mapa do tesouro neste mundo branco?"
+
+# mes "Amongst all of you, who shall be the lucky one?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Amongst all of you, who shall be the lucky one?"
+msgstr "Entre todos vocês, quem será o sortudo?"
+
+# mes "Let the game.. Begin!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Let the game.. Begin!"
+msgstr "Deixe o jogo... Comece!"
+
+# mes "Did you find the treasure map?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Did you find the treasure map?"
+msgstr "Você encontrou o mapa do tesouro?"
+
+# mes "Show me what you have in your hands! Beep, beep!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Show me what you have in your hands! Beep, beep!"
+msgstr "Mostre-me o que você tem em suas mãos! Beep, beep!"
+
+# mes "Wow~~!!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Wow~~!!"
+msgstr "Ual, mãe!"
+
+# mes "Success~!!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Success~!!"
+msgstr "Sucesso~!!"
+
+# mes "What a success~!!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "What a success~!!"
+msgstr "Que sucesso~!!"
+
+# mes "Ahh, what a shame, it seems like you haven't found the treasure map yet.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"Ahh, what a shame, it seems like you haven't found the treasure map yet."
+msgstr "Ahh, que pena, parece que você ainda não encontrou o mapa do tesouro."
+
+# mes "Quickly! Your time is running out! Hurry up!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Quickly! Your time is running out! Hurry up!"
+msgstr "Rápido! Seu tempo está acabando! Apresse-se!"
+
+# mes "I don't see anything. Have you even started yet? Beep?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I don't see anything. Have you even started yet? Beep?"
+msgstr "Eu não vejo nada. Você já começou sequer? Bipou?"
+
+# mes "Hehe, while you're talking to me, the time is slowly ticking away~";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Hehe, while you're talking to me, the time is slowly ticking away~"
+msgstr ""
+"Hehe, enquanto você está falando comigo, o tempo está passando lentamente~"
+
+# mes "Wah, why is it like this~!!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Wah, why is it like this~!!"
+msgstr "Wah, por que é assim~!!"
+
+# mes "Not enough? But this makes the game fun, no? Hahaha!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Not enough? But this makes the game fun, no? Hahaha!"
+msgstr "Não é suficiente? Mas isto torna o jogo divertido, não? Hahaha!"
+
+# mes "What did you think?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "What did you think?"
+msgstr "O que você achou?"
+
+# switch(select("It was pretty hard.", "I should've been successful...")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "It was pretty hard."
+msgstr "Foi muito difícil."
+
+# switch(select("It was pretty hard.", "I should've been successful...")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I should've been successful..."
+msgstr "Eu deveria ter tido sucesso..."
+
+# mes "It's like trying to find a needle in a haystack!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "It's like trying to find a needle in a haystack!"
+msgstr "É como tentar encontrar uma agulha em um palheiro!"
+
+# mes "It's hard, but if you find it, it's worth ten times the effort. Beep, beep.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"It's hard, but if you find it, it's worth ten times the effort. Beep, beep."
+msgstr ""
+"É difícil, mas se você o encontrar, vale dez vezes mais o esforço. Beep, "
+"beep."
+
+# mes "Aaah~! Time is gold.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Aaah~! Time is gold."
+msgstr "Aaah~! O tempo é ouro."
+
+# mes "Precious time goes by so fast.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Precious time goes by so fast."
+msgstr "O tempo precioso passa tão rápido."
+
+# mes "I, Pierrot Piere, am not a heartless clown! Beep beep.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I, Pierrot Piere, am not a heartless clown! Beep beep."
+msgstr "Eu, Pierrot Piere, não sou um palhaço sem coração! Bip bip bip."
+
+# mes "Your success is my happiness!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Your success is my happiness!"
+msgstr "Seu sucesso é minha felicidade!"
+
+# mes "I'll give you one more chance. How's that? Beep?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I'll give you one more chance. How's that? Beep?"
+msgstr "Vou lhe dar mais uma chance. Como assim? Bip?"
+
+# mes "How did you do it?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "How did you do it?"
+msgstr "Como você fez isso?"
+
+# mes "You managed to find a needle in a haystack!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "You managed to find a needle in a haystack!"
+msgstr "Você conseguiu encontrar uma agulha em um palheiro!"
+
+# mes "Amazing!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Amazing!"
+msgstr "Incrível!"
+
+# mes "You've completeled an unbelievable task, I will give you the wonderful gift master has prepared!! Ha!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"You've completeled an unbelievable task, I will give you the wonderful gift "
+"master has prepared!! Ha!"
+msgstr ""
+"Você completou uma tarefa inacreditável, eu lhe darei o maravilhoso "
+"presente que o mestre preparou!! Ha!"
+
+# mes "Incredible! Unbelievable! Beep beep!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Incredible! Unbelievable! Beep beep!"
+msgstr "Incrível! Inacreditável! Bip bip bip!"
+
+# mes "Did you have fun?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Did you have fun?"
+msgstr "Você se divertiu?"
+
+# mes "Seeing your smiles, makes Pierrot feel very happy~";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Seeing your smiles, makes Pierrot feel very happy~"
+msgstr "Ver seus sorrisos, faz Pierrot se sentir muito feliz~"
+
+# mes "I hope to see you again very soon, I must go back to being a doll now.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I hope to see you again very soon, I must go back to being a doll now."
+msgstr ""
+"Espero vê-lo novamente muito em breve, devo voltar a ser uma boneca agora."
+
+# mes "See you next time!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "See you next time!"
+msgstr "Nos vemos da próxima vez!"
+
+# mes "Let me see.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Let me see."
+msgstr "Deixe-me ver."
+
+# mes "Did you get permission from the Gergath?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Did you get permission from the Gergath?"
+msgstr "Você obteve permissão da Gergath?"
+
+# mes "^3131FF<Although you're a weirdo, you seem to be very dedicated>^000000. Beep beep.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"^3131FF<Although you're a weirdo, you seem to be very dedicated>^000000. "
+"Beep beep."
+msgstr ""
+"^3131FF<Embora você seja um esquisito, parece ser muito dedicado>^000000. "
+"Beep beep."
+
+# mes "The one my lord appointed is ^3131FF< someone who leads many people >^000000. Beep.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid ""
+"The one my lord appointed is ^3131FF< someone who leads many people "
+">^000000. Beep."
+msgstr ""
+"O que meu senhor nomeou é ^3131FF< alguém que lidera muitas pessoas "
+">^000000. Bip."
+
+# mes "Pierrot wants to be someone like that, too. Beep.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Pierrot wants to be someone like that, too. Beep."
+msgstr "Pierrot quer ser alguém assim, também. Bip."
+
+# mes "Congratulations, you have succeeded!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Congratulations, you have succeeded!"
+msgstr "Parabéns, você foi bem sucedido!"
+
+# mes "I will talk to your leader about other details.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "I will talk to your leader about other details."
+msgstr "Vou falar com seu líder sobre outros detalhes."
+
+# mes "Did you find the treasure?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Did you find the treasure?"
+msgstr "Você encontrou o tesouro?"
+
+# mes "Show me that thing you are holding, now!";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Pierrot Pier#sch_gd"
+msgid "Show me that thing you are holding, now!"
+msgstr "Mostre-me essa coisa que você está segurando, agora!"
+
+# mes "Incorrect password.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Event controller#sch_gd"
+msgid "Incorrect password."
+msgstr "Senha incorreta."
+
+# mes "How can I help you?";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Event controller#sch_gd"
+msgid "How can I help you?"
+msgstr "Como posso ajudá-lo?"
+
+# switch(select("Reset.", "No, thanks.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Event controller#sch_gd"
+msgid "Reset."
+msgstr "Reset."
+
+# switch(select("Reset.", "No, thanks.")) {
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Event controller#sch_gd"
+msgid "No, thanks."
+msgstr "Não, obrigado."
+
+# mes "Completed.";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Event controller#sch_gd"
+msgid "Completed."
+msgstr "Concluído."
+
+# mes "Good bye~";
+#: npc/events/gdevent_sch.txt
+#, fuzzy
+msgctxt "Event controller#sch_gd"
+msgid "Good bye~"
+msgstr "Adeus~"

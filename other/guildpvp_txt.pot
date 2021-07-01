@@ -1,0 +1,212 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/other/guildpvp.txt
+# mes "[Guild Battle Guide]";
+msgctxt "Guild Battle Guide"
+msgid "[Guild Battle Guide]"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "How are you doing?";
+msgctxt "Guild Battle Guide"
+msgid "How are you doing?"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "I'm the Guild Battle Guide";
+msgctxt "Guild Battle Guide"
+msgid "I'm the Guild Battle Guide"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "for the new PvP maps.";
+msgctxt "Guild Battle Guide"
+msgid "for the new PvP maps."
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "Let me know to which map";
+msgctxt "Guild Battle Guide"
+msgid "Let me know to which map"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "you want me to move you.";
+msgctxt "Guild Battle Guide"
+msgid "you want me to move you."
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# .@i = select("Map 1", "Map 2", "Map 3", "Map 4", "Map 5");
+msgctxt "Guild Battle Guide"
+msgid "Map 1"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# .@i = select("Map 1", "Map 2", "Map 3", "Map 4", "Map 5");
+msgctxt "Guild Battle Guide"
+msgid "Map 2"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# .@i = select("Map 1", "Map 2", "Map 3", "Map 4", "Map 5");
+msgctxt "Guild Battle Guide"
+msgid "Map 3"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# .@i = select("Map 1", "Map 2", "Map 3", "Map 4", "Map 5");
+msgctxt "Guild Battle Guide"
+msgid "Map 4"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# .@i = select("Map 1", "Map 2", "Map 3", "Map 4", "Map 5");
+msgctxt "Guild Battle Guide"
+msgid "Map 5"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "You've chosen Map "+.@i+".";
+msgctxt "Guild Battle Guide"
+msgid "You've chosen Map "
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "You've chosen Map "+.@i+".";
+msgctxt "Guild Battle Guide"
+msgid "."
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "Now, which team are";
+msgctxt "Guild Battle Guide"
+msgid "Now, which team are"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "you on? You can choose";
+msgctxt "Guild Battle Guide"
+msgid "you on? You can choose"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "either Team 1 or Team 2.";
+msgctxt "Guild Battle Guide"
+msgid "either Team 1 or Team 2."
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# .@j = select("Team 1", "Team 2");
+msgctxt "Guild Battle Guide"
+msgid "Team 1"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# .@j = select("Team 1", "Team 2");
+msgctxt "Guild Battle Guide"
+msgid "Team 2"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "Alright, I'll move you";
+msgctxt "Guild Battle Guide"
+msgid "Alright, I'll move you"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "to Map "+.@i+" as a member";
+msgctxt "Guild Battle Guide"
+msgid "to Map "
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "to Map "+.@i+" as a member";
+msgctxt "Guild Battle Guide"
+msgid " as a member"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "of Team "+.@j+". Are you ready";
+msgctxt "Guild Battle Guide"
+msgid "of Team "
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "of Team "+.@j+". Are you ready";
+msgctxt "Guild Battle Guide"
+msgid ". Are you ready"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "to be transported there now?";
+msgctxt "Guild Battle Guide"
+msgid "to be transported there now?"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# if(select("Yes", "No") == 2) {
+msgctxt "Guild Battle Guide"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# if(select("Yes", "No") == 2) {
+msgctxt "Guild Battle Guide"
+msgid "No"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "Alright, I hope to";
+msgctxt "Guild Battle Guide"
+msgid "Alright, I hope to"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "see you again on";
+msgctxt "Guild Battle Guide"
+msgid "see you again on"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "the PvP fields!";
+msgctxt "Guild Battle Guide"
+msgid "the PvP fields!"
+msgstr ""
+
+#: npc/other/guildpvp.txt
+# mes "Great! Have a good time~";
+msgctxt "Guild Battle Guide"
+msgid "Great! Have a good time~"
+msgstr ""

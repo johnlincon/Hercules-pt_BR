@@ -1,0 +1,6788 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/other/monster_race.txt
+# mes "[Ticket Helper]";
+msgctxt "Ticket Helper#single"
+msgid "[Ticket Helper]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Welcome to the";
+msgctxt "Ticket Helper#single"
+msgid "Welcome to the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Race Arena.";
+msgctxt "Ticket Helper#single"
+msgid "Monster Race Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you'd like to participate";
+msgctxt "Ticket Helper#single"
+msgid "If you'd like to participate"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in the ^3131FFSingle Monster Race^000000,";
+msgctxt "Ticket Helper#single"
+msgid "in the ^3131FFSingle Monster Race^000000,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "then please select 1 out of";
+msgctxt "Ticket Helper#single"
+msgid "then please select 1 out of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the 6 monsters from the list.";
+msgctxt "Ticket Helper#single"
+msgid "the 6 monsters from the list."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Wait, wait...";
+msgctxt "Ticket Helper#single"
+msgid "Wait, wait..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I can't give you";
+msgctxt "Ticket Helper#single"
+msgid "I can't give you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "anything right now.";
+msgctxt "Ticket Helper#single"
+msgid "anything right now."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You're carrying way";
+msgctxt "Ticket Helper#single"
+msgid "You're carrying way"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "too many things...";
+msgctxt "Ticket Helper#single"
+msgid "too many things..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@m = select ("Monster Status", "Monster 1", "Monster 2", "Monster 3", "Monster 4", "Monster 5", "Monster 6") - 1;
+msgctxt "Ticket Helper#single"
+msgid "Monster Status"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@m = select ("Monster Status", "Monster 1", "Monster 2", "Monster 3", "Monster 4", "Monster 5", "Monster 6") - 1;
+msgctxt "Ticket Helper#single"
+msgid "Monster 1"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@m = select ("Monster Status", "Monster 1", "Monster 2", "Monster 3", "Monster 4", "Monster 5", "Monster 6") - 1;
+msgctxt "Ticket Helper#single"
+msgid "Monster 2"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@m = select ("Monster Status", "Monster 1", "Monster 2", "Monster 3", "Monster 4", "Monster 5", "Monster 6") - 1;
+msgctxt "Ticket Helper#single"
+msgid "Monster 3"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@m = select ("Monster Status", "Monster 1", "Monster 2", "Monster 3", "Monster 4", "Monster 5", "Monster 6") - 1;
+msgctxt "Ticket Helper#single"
+msgid "Monster 4"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@m = select ("Monster Status", "Monster 1", "Monster 2", "Monster 3", "Monster 4", "Monster 5", "Monster 6") - 1;
+msgctxt "Ticket Helper#single"
+msgid "Monster 5"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@m = select ("Monster Status", "Monster 1", "Monster 2", "Monster 3", "Monster 4", "Monster 5", "Monster 6") - 1;
+msgctxt "Ticket Helper#single"
+msgid "Monster 6"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster "+.@i+" [^CC6600Luck^000000: " + $@mr_1_luk[.@i] + "] [^EE0000HP^000000: " + $@mr_1_tire[.@i] + "]";
+msgctxt "Ticket Helper#single"
+msgid "Monster "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster "+.@i+" [^CC6600Luck^000000: " + $@mr_1_luk[.@i] + "] [^EE0000HP^000000: " + $@mr_1_tire[.@i] + "]";
+msgctxt "Ticket Helper#single"
+msgid " [^CC6600Luck^000000: "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster "+.@i+" [^CC6600Luck^000000: " + $@mr_1_luk[.@i] + "] [^EE0000HP^000000: " + $@mr_1_tire[.@i] + "]";
+msgctxt "Ticket Helper#single"
+msgid "] [^EE0000HP^000000: "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster "+.@i+" [^CC6600Luck^000000: " + $@mr_1_luk[.@i] + "] [^EE0000HP^000000: " + $@mr_1_tire[.@i] + "]";
+msgctxt "Ticket Helper#single"
+msgid "]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You have selected";
+msgctxt "Ticket Helper#single"
+msgid "You have selected"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster ^FF0000"+ monster_race_1 +"^000000 for the";
+msgctxt "Ticket Helper#single"
+msgid "Monster ^FF0000"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster ^FF0000"+ monster_race_1 +"^000000 for the";
+msgctxt "Ticket Helper#single"
+msgid "^000000 for the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Single Monster Race.";
+msgctxt "Ticket Helper#single"
+msgid "Single Monster Race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "The start of the race";
+msgctxt "Ticket Helper#single"
+msgid "The start of the race"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "will be announced soon,";
+msgctxt "Ticket Helper#single"
+msgid "will be announced soon,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "so please wait. Thank you.";
+msgctxt "Ticket Helper#single"
+msgid "so please wait. Thank you."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You've chosen Monster "+.@m+"?";
+msgctxt "Ticket Helper#single"
+msgid "You've chosen Monster "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You've chosen Monster "+.@m+"?";
+msgctxt "Ticket Helper#single"
+msgid "?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Alright then, please wait";
+msgctxt "Ticket Helper#single"
+msgid "Alright then, please wait"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "until the start of the race is";
+msgctxt "Ticket Helper#single"
+msgid "until the start of the race is"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "announced. If the monster you";
+msgctxt "Ticket Helper#single"
+msgid "announced. If the monster you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "picked wins, then please use this ticket to redeem your prize.";
+msgctxt "Ticket Helper#single"
+msgid "picked wins, then please use this ticket to redeem your prize."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but a Monster";
+msgctxt "Ticket Helper#single"
+msgid "I'm sorry, but a Monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Race is now in progress.";
+msgctxt "Ticket Helper#single"
+msgid "Race is now in progress."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you'd like to participate, then please wait for the next race.";
+msgctxt "Ticket Helper#single"
+msgid "If you'd like to participate, then please wait for the next race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Medal Distributor]";
+msgctxt "Medal Distributor#single"
+msgid "[Medal Distributor]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but I can't";
+msgctxt "Medal Distributor#single"
+msgid "I'm sorry, but I can't"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "reward you with any medals";
+msgctxt "Medal Distributor#single"
+msgid "reward you with any medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "until you make more space";
+msgctxt "Medal Distributor#single"
+msgid "until you make more space"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "available in your Inventory.";
+msgctxt "Medal Distributor#single"
+msgid "available in your Inventory."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hello there~";
+msgctxt "Medal Distributor#single"
+msgid "Hello there~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you've wagered on the";
+msgctxt "Medal Distributor#single"
+msgid "If you've wagered on the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "winning monster in a recent";
+msgctxt "Medal Distributor#single"
+msgid "winning monster in a recent"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "race, then you can exchange";
+msgctxt "Medal Distributor#single"
+msgid "race, then you can exchange"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your game ticket here for";
+msgctxt "Medal Distributor#single"
+msgid "your game ticket here for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "some Prize Medals.";
+msgctxt "Medal Distributor#single"
+msgid "some Prize Medals."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Please remember that you can";
+msgctxt "Medal Distributor#single"
+msgid "Please remember that you can"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "only exchange winning Game";
+msgctxt "Medal Distributor#single"
+msgid "only exchange winning Game"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Tickets for Prize Medals right";
+msgctxt "Medal Distributor#single"
+msgid "Tickets for Prize Medals right"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "after the race finishes. Prize";
+msgctxt "Medal Distributor#single"
+msgid "after the race finishes. Prize"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Medals may be given to Wayne";
+msgctxt "Medal Distributor#single"
+msgid "Medals may be given to Wayne"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in Hugel in exchange for items.";
+msgctxt "Medal Distributor#single"
+msgid "in Hugel in exchange for items."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh, congratulations, you";
+msgctxt "Medal Distributor#single"
+msgid "Oh, congratulations, you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "have a winning ticket for";
+msgctxt "Medal Distributor#single"
+msgid "have a winning ticket for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "a Single Monster Race! So ";
+msgctxt "Medal Distributor#single"
+msgid "a Single Monster Race! So "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "would you like to exchange your";
+msgctxt "Medal Distributor#single"
+msgid "would you like to exchange your"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Racing Ticket for Prize Medals?";
+msgctxt "Medal Distributor#single"
+msgid "Racing Ticket for Prize Medals?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes, please.", "No, thanks.") == 2) {
+msgctxt "Medal Distributor#single"
+msgid "Yes, please."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes, please.", "No, thanks.") == 2) {
+msgctxt "Medal Distributor#single"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Um, are you sure? You ";
+msgctxt "Medal Distributor#single"
+msgid "Um, are you sure? You "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "can only exchange a winning";
+msgctxt "Medal Distributor#single"
+msgid "can only exchange a winning"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Racing Ticket for Prize Medals";
+msgctxt "Medal Distributor#single"
+msgid "Racing Ticket for Prize Medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "for a short time after the race. If you made a mistake, you";
+msgctxt "Medal Distributor#single"
+msgid "for a short time after the race. If you made a mistake, you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "should ask me again quickly.";
+msgctxt "Medal Distributor#single"
+msgid "should ask me again quickly."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Let me see your ticket...";
+msgctxt "Medal Distributor#single"
+msgid "Let me see your ticket..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh! Congratulations, you";
+msgctxt "Medal Distributor#single"
+msgid "Oh! Congratulations, you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "won! May I have your name?";
+msgctxt "Medal Distributor#single"
+msgid "won! May I have your name?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Ah, "+strcharinfo(PC_NAME)+".";
+msgctxt "Medal Distributor#single"
+msgid "Ah, "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You can exchange this";
+msgctxt "Medal Distributor#single"
+msgid "You can exchange this"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "ticket for a Prize Medal by";
+msgctxt "Medal Distributor#single"
+msgid "ticket for a Prize Medal by"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "entering your ticket exchange";
+msgctxt "Medal Distributor#single"
+msgid "entering your ticket exchange"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "number now. Your ticket";
+msgctxt "Medal Distributor#single"
+msgid "number now. Your ticket"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "exchange number is ^FF0000" + .@insa + "^000000.";
+msgctxt "Medal Distributor#single"
+msgid "exchange number is ^FF0000"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "exchange number is ^FF0000" + .@insa + "^000000.";
+msgctxt "Medal Distributor#single"
+msgid "^000000."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh? You don't want";
+msgctxt "Medal Distributor#single"
+msgid "Oh? You don't want"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to exchange your";
+msgctxt "Medal Distributor#single"
+msgid "to exchange your"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "winning ticket?";
+msgctxt "Medal Distributor#single"
+msgid "winning ticket?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you! You entered";
+msgctxt "Medal Distributor#single"
+msgid "Thank you! You entered"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the correct number...";
+msgctxt "Medal Distributor#single"
+msgid "the correct number..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Everything seems to";
+msgctxt "Medal Distributor#single"
+msgid "Everything seems to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "be in order. Alright!";
+msgctxt "Medal Distributor#single"
+msgid "be in order. Alright!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Now please accept your";
+msgctxt "Medal Distributor#single"
+msgid "Now please accept your"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Prize Medals! You can";
+msgctxt "Medal Distributor#single"
+msgid "Prize Medals! You can"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "exchange these with";
+msgctxt "Medal Distributor#single"
+msgid "exchange these with"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Wayne in Hugel for some";
+msgctxt "Medal Distributor#single"
+msgid "Wayne in Hugel for some"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "interesting items. Thank you~";
+msgctxt "Medal Distributor#single"
+msgid "interesting items. Thank you~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but it seems";
+msgctxt "Medal Distributor#single"
+msgid "I'm sorry, but it seems"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that you entered the";
+msgctxt "Medal Distributor#single"
+msgid "that you entered the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "incorrect ticket number.";
+msgctxt "Medal Distributor#single"
+msgid "incorrect ticket number."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Would you mind coming";
+msgctxt "Medal Distributor#single"
+msgid "Would you mind coming"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "back again in a while?";
+msgctxt "Medal Distributor#single"
+msgid "back again in a while?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "What's this...?";
+msgctxt "Medal Distributor#single"
+msgid "What's this...?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I think there's a problem...";
+msgctxt "Medal Distributor#single"
+msgid "I think there's a problem..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Did you enter your name";
+msgctxt "Medal Distributor#single"
+msgid "Did you enter your name"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "incorrectly? Please check";
+msgctxt "Medal Distributor#single"
+msgid "incorrectly? Please check"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your name, and then try again.";
+msgctxt "Medal Distributor#single"
+msgid "your name, and then try again."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You may not have wagered";
+msgctxt "Medal Distributor#single"
+msgid "You may not have wagered"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "on the winning monster in";
+msgctxt "Medal Distributor#single"
+msgid "on the winning monster in"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the last race, but I hope that";
+msgctxt "Medal Distributor#single"
+msgid "the last race, but I hope that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you get lucky next time~";
+msgctxt "Medal Distributor#single"
+msgid "you get lucky next time~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Exit Guide]";
+msgctxt "Exit Guide#single"
+msgid "[Exit Guide]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you have a winning Racing";
+msgctxt "Exit Guide#single"
+msgid "If you have a winning Racing"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Ticket, please make sure that";
+msgctxt "Exit Guide#single"
+msgid "Ticket, please make sure that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you redeem it for Prize Medals";
+msgctxt "Exit Guide#single"
+msgid "you redeem it for Prize Medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "now. All Racing Tickets become";
+msgctxt "Exit Guide#single"
+msgid "now. All Racing Tickets become"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "void once the next race begins.";
+msgctxt "Exit Guide#single"
+msgid "void once the next race begins."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you wish to leave";
+msgctxt "Exit Guide#single"
+msgid "If you wish to leave"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the arena, then I can guide";
+msgctxt "Exit Guide#single"
+msgid "the arena, then I can guide"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you outside. Would you like";
+msgctxt "Exit Guide#single"
+msgid "you outside. Would you like"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to leave the arena right now?";
+msgctxt "Exit Guide#single"
+msgid "to leave the arena right now?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes", "No") == 2) {
+msgctxt "Exit Guide#single"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes", "No") == 2) {
+msgctxt "Exit Guide#single"
+msgid "No"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Alright, then.";
+msgctxt "Exit Guide#single"
+msgid "Alright, then."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Just let me know";
+msgctxt "Exit Guide#single"
+msgid "Just let me know"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "whenever you're";
+msgctxt "Exit Guide#single"
+msgid "whenever you're"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "ready to leave.";
+msgctxt "Exit Guide#single"
+msgid "ready to leave."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you for";
+msgctxt "Exit Guide#single"
+msgid "Thank you for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your patronage, and";
+msgctxt "Exit Guide#single"
+msgid "your patronage, and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I hope that you come";
+msgctxt "Exit Guide#single"
+msgid "I hope that you come"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "visit us again soon~";
+msgctxt "Exit Guide#single"
+msgid "visit us again soon~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "In accordance with our";
+msgctxt "Exit Guide#single"
+msgid "In accordance with our"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "policies, I must take your";
+msgctxt "Exit Guide#single"
+msgid "policies, I must take your"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Racing Ticket before you leave.";
+msgctxt "Exit Guide#single"
+msgid "Racing Ticket before you leave."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you for your patronage,";
+msgctxt "Exit Guide#single"
+msgid "Thank you for your patronage,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and I hope you enjoy your time";
+msgctxt "Exit Guide#single"
+msgid "and I hope you enjoy your time"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "here in the Monster Race Arena.";
+msgctxt "Exit Guide#single"
+msgid "here in the Monster Race Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Eckar Ellebird]";
+msgctxt "Eckar Ellebird#single"
+msgid "[Eckar Ellebird]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Welcome to the biggest";
+msgctxt "Eckar Ellebird#single"
+msgid "Welcome to the biggest"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "attraction in Hugel, the";
+msgctxt "Eckar Ellebird#single"
+msgid "attraction in Hugel, the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Race Arena.";
+msgctxt "Eckar Ellebird#single"
+msgid "Monster Race Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "How may I help you today?";
+msgctxt "Eckar Ellebird#single"
+msgid "How may I help you today?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Monster Race Info", "Enter Monster Race") == 1) {
+msgctxt "Eckar Ellebird#single"
+msgid "Monster Race Info"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Monster Race Info", "Enter Monster Race") == 1) {
+msgctxt "Eckar Ellebird#single"
+msgid "Enter Monster Race"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Races originated from";
+msgctxt "Eckar Ellebird#single"
+msgid "Monster Races originated from"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "simple children's games in which";
+msgctxt "Eckar Ellebird#single"
+msgid "simple children's games in which"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Cute Pets would race against each other. This grew into an adult";
+msgctxt "Eckar Ellebird#single"
+msgid "Cute Pets would race against each other. This grew into an adult"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "pastime that is so popular, we've built a racing arena in Hugel.";
+msgctxt "Eckar Ellebird#single"
+msgid "pastime that is so popular, we've built a racing arena in Hugel."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Our Monster Race Arena hosts";
+msgctxt "Eckar Ellebird#single"
+msgid "Our Monster Race Arena hosts"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "two types of monster races. First, we have the Single Monster Race,";
+msgctxt "Eckar Ellebird#single"
+msgid "two types of monster races. First, we have the Single Monster Race,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in which those that wagered on the 1st place monster are rewarded.";
+msgctxt "Eckar Ellebird#single"
+msgid "in which those that wagered on the 1st place monster are rewarded."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Then, we have the Dual Monster";
+msgctxt "Eckar Ellebird#single"
+msgid "Then, we have the Dual Monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Race in which the house odds and rewards are greater than in Single";
+msgctxt "Eckar Ellebird#single"
+msgid "Race in which the house odds and rewards are greater than in Single"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Races: you must wager on 2 monsters, and they must place in";
+msgctxt "Eckar Ellebird#single"
+msgid "Monster Races: you must wager on 2 monsters, and they must place in"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "1st and 2nd for you to win.";
+msgctxt "Eckar Ellebird#single"
+msgid "1st and 2nd for you to win."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Although a small entrance";
+msgctxt "Eckar Ellebird#single"
+msgid "Although a small entrance"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "fee is required, we only use";
+msgctxt "Eckar Ellebird#single"
+msgid "fee is required, we only use"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the money to give rewards to";
+msgctxt "Eckar Ellebird#single"
+msgid "the money to give rewards to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "participants and maintain this";
+msgctxt "Eckar Ellebird#single"
+msgid "participants and maintain this"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "arena. Therefore, we're not";
+msgctxt "Eckar Ellebird#single"
+msgid "arena. Therefore, we're not"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "profiting from this enterprise.";
+msgctxt "Eckar Ellebird#single"
+msgid "profiting from this enterprise."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Also, we prohibit others";
+msgctxt "Eckar Ellebird#single"
+msgid "Also, we prohibit others"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "from making personal bets";
+msgctxt "Eckar Ellebird#single"
+msgid "from making personal bets"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and wagers, using items and";
+msgctxt "Eckar Ellebird#single"
+msgid "and wagers, using items and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "zeny, based on the outcomes";
+msgctxt "Eckar Ellebird#single"
+msgid "zeny, based on the outcomes"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of these races. That kind of";
+msgctxt "Eckar Ellebird#single"
+msgid "of these races. That kind of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "gambling is illegal here...";
+msgctxt "Eckar Ellebird#single"
+msgid "gambling is illegal here..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Once you enter the Race Arena, you will receive a Racing Ticket.";
+msgctxt "Eckar Ellebird#single"
+msgid "Once you enter the Race Arena, you will receive a Racing Ticket."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Keep in mind that winning Racing Tickets can only be exchanged for";
+msgctxt "Eckar Ellebird#single"
+msgid "Keep in mind that winning Racing Tickets can only be exchanged for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Prize Medals during a 5 minute window after the end of the race.";
+msgctxt "Eckar Ellebird#single"
+msgid "Prize Medals during a 5 minute window after the end of the race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "The entrance fee for all races";
+msgctxt "Eckar Ellebird#single"
+msgid "The entrance fee for all races"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in the Monster Race Arena is";
+msgctxt "Eckar Ellebird#single"
+msgid "in the Monster Race Arena is"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "2,000 zeny. If you'd like to wager on a Dual Monster Race, then";
+msgctxt "Eckar Ellebird#single"
+msgid "2,000 zeny. If you'd like to wager on a Dual Monster Race, then"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "please ask my brother Erenes,";
+msgctxt "Eckar Ellebird#single"
+msgid "please ask my brother Erenes,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and he will help you.";
+msgctxt "Eckar Ellebird#single"
+msgid "and he will help you."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Otherwise, I'll help get you";
+msgctxt "Eckar Ellebird#single"
+msgid "Otherwise, I'll help get you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "started if you're interested";
+msgctxt "Eckar Ellebird#single"
+msgid "started if you're interested"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in a Single Monster Race.";
+msgctxt "Eckar Ellebird#single"
+msgid "in a Single Monster Race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Would you like wager on";
+msgctxt "Eckar Ellebird#single"
+msgid "Would you like wager on"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "a Single Monster Race?";
+msgctxt "Eckar Ellebird#single"
+msgid "a Single Monster Race?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes, please.", "No, thanks.") == 2) {
+msgctxt "Eckar Ellebird#single"
+msgid "Yes, please."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes, please.", "No, thanks.") == 2) {
+msgctxt "Eckar Ellebird#single"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Very well. I hope that";
+msgctxt "Eckar Ellebird#single"
+msgid "Very well. I hope that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you enjoy your time here";
+msgctxt "Eckar Ellebird#single"
+msgid "you enjoy your time here"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in the Monster Race Arena~";
+msgctxt "Eckar Ellebird#single"
+msgid "in the Monster Race Arena~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh, wow. You're carrying";
+msgctxt "Eckar Ellebird#single"
+msgid "Oh, wow. You're carrying"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "an awful lot of stuff... Yeah,";
+msgctxt "Eckar Ellebird#single"
+msgid "an awful lot of stuff... Yeah,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you better put some of it away";
+msgctxt "Eckar Ellebird#single"
+msgid "you better put some of it away"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in Kafra Storage or something.";
+msgctxt "Eckar Ellebird#single"
+msgid "in Kafra Storage or something."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but you";
+msgctxt "Eckar Ellebird#single"
+msgid "I'm sorry, but you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "don't have enough";
+msgctxt "Eckar Ellebird#single"
+msgid "don't have enough"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "money to pay the";
+msgctxt "Eckar Ellebird#single"
+msgid "money to pay the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "2,000 zeny entrance fee. ";
+msgctxt "Eckar Ellebird#single"
+msgid "2,000 zeny entrance fee. "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hm? What are you doing";
+msgctxt "Eckar Ellebird#single"
+msgid "Hm? What are you doing"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "with an expired Racing Ticket?";
+msgctxt "Eckar Ellebird#single"
+msgid "with an expired Racing Ticket?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Well, I better get rid of it for you before it can get mixed up";
+msgctxt "Eckar Ellebird#single"
+msgid "Well, I better get rid of it for you before it can get mixed up"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "with your new Racing Ticket.";
+msgctxt "Eckar Ellebird#single"
+msgid "with your new Racing Ticket."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Alright, I think you";
+msgctxt "Eckar Ellebird#single"
+msgid "Alright, I think you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "should be all set. I hope";
+msgctxt "Eckar Ellebird#single"
+msgid "should be all set. I hope"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that you enjoy the race~";
+msgctxt "Eckar Ellebird#single"
+msgid "that you enjoy the race~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Let me guide you inside";
+msgctxt "Eckar Ellebird#single"
+msgid "Let me guide you inside"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the Monster Race Arena now.";
+msgctxt "Eckar Ellebird#single"
+msgid "the Monster Race Arena now."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thanks, I hope that";
+msgctxt "Eckar Ellebird#single"
+msgid "Thanks, I hope that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you enjoy this race.";
+msgctxt "Eckar Ellebird#single"
+msgid "you enjoy this race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Let me guide you now";
+msgctxt "Eckar Ellebird#single"
+msgid "Let me guide you now"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to the Monster Race Arena.";
+msgctxt "Eckar Ellebird#single"
+msgid "to the Monster Race Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "We're still finishing our";
+msgctxt "Eckar Ellebird#single"
+msgid "We're still finishing our"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "preparations for the next";
+msgctxt "Eckar Ellebird#single"
+msgid "preparations for the next"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Single Monster Race, so";
+msgctxt "Eckar Ellebird#single"
+msgid "Single Monster Race, so"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "we ask that you please";
+msgctxt "Eckar Ellebird#single"
+msgid "we ask that you please"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "wait a little while longer...";
+msgctxt "Eckar Ellebird#single"
+msgid "wait a little while longer..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Right now, a Monster Race";
+msgctxt "Eckar Ellebird#single"
+msgid "Right now, a Monster Race"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "is in progress. It's too late to place a wager, but if you'd like";
+msgctxt "Eckar Ellebird#single"
+msgid "is in progress. It's too late to place a wager, but if you'd like"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to watch, the fee is 500 zeny";
+msgctxt "Eckar Ellebird#single"
+msgid "to watch, the fee is 500 zeny"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "for spectators. Would you like to enter the Monster Race Arena?";
+msgctxt "Eckar Ellebird#single"
+msgid "for spectators. Would you like to enter the Monster Race Arena?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Enter", "Cancel") == 2) {
+msgctxt "Eckar Ellebird#single"
+msgid "Enter"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Enter", "Cancel") == 2) {
+msgctxt "Eckar Ellebird#single"
+msgid "Cancel"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Alright, then. If you'd like";
+msgctxt "Eckar Ellebird#single"
+msgid "Alright, then. If you'd like"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to wager on a monster";
+msgctxt "Eckar Ellebird#single"
+msgid "to wager on a monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "race, please wait for the";
+msgctxt "Eckar Ellebird#single"
+msgid "race, please wait for the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "current race to finish. I hope";
+msgctxt "Eckar Ellebird#single"
+msgid "current race to finish. I hope"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that you enjoy your time here";
+msgctxt "Eckar Ellebird#single"
+msgid "that you enjoy your time here"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you~";
+msgctxt "Eckar Ellebird#single"
+msgid "Thank you~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I hope you enjoy";
+msgctxt "Eckar Ellebird#single"
+msgid "I hope you enjoy"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "watching this race!";
+msgctxt "Eckar Ellebird#single"
+msgid "watching this race!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but you don't";
+msgctxt "Eckar Ellebird#single"
+msgid "I'm sorry, but you don't"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "have enough money to pay";
+msgctxt "Eckar Ellebird#single"
+msgid "have enough money to pay"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the 500 zeny spectator fee.";
+msgctxt "Eckar Ellebird#single"
+msgid "the 500 zeny spectator fee."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but a monster";
+msgctxt "Eckar Ellebird#single"
+msgid "I'm sorry, but a monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "race has just ended, so we're";
+msgctxt "Eckar Ellebird#single"
+msgid "race has just ended, so we're"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "having the 5 minute period in";
+msgctxt "Eckar Ellebird#single"
+msgid "having the 5 minute period in"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "which the winners can claim";
+msgctxt "Eckar Ellebird#single"
+msgid "which the winners can claim"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "their Prize Medals. The gate";
+msgctxt "Eckar Ellebird#single"
+msgid "their Prize Medals. The gate"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "will open soon, so please wait.";
+msgctxt "Eckar Ellebird#single"
+msgid "will open soon, so please wait."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Game Guide]";
+msgctxt "Game Guide#single"
+msgid "[Game Guide]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Welcome to the";
+msgctxt "Game Guide#single"
+msgid "Welcome to the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Race Arena.";
+msgctxt "Game Guide#single"
+msgid "Monster Race Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "How can I help you?";
+msgctxt "Game Guide#single"
+msgid "How can I help you?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Monster Race Info", "Wager Info", "Ticket Redemption Info")) {
+msgctxt "Game Guide#single"
+msgid "Monster Race Info"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Monster Race Info", "Wager Info", "Ticket Redemption Info")) {
+msgctxt "Game Guide#single"
+msgid "Wager Info"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Monster Race Info", "Wager Info", "Ticket Redemption Info")) {
+msgctxt "Game Guide#single"
+msgid "Ticket Redemption Info"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Races originated from";
+msgctxt "Game Guide#single"
+msgid "Monster Races originated from"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "simple children's games in which";
+msgctxt "Game Guide#single"
+msgid "simple children's games in which"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Cute Pets would race against each other. This grew into an adult";
+msgctxt "Game Guide#single"
+msgid "Cute Pets would race against each other. This grew into an adult"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "pastime that is so popular, we've built a racing arena in Hugel.";
+msgctxt "Game Guide#single"
+msgid "pastime that is so popular, we've built a racing arena in Hugel."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Our Monster Race Arena hosts";
+msgctxt "Game Guide#single"
+msgid "Our Monster Race Arena hosts"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "two types of monster races. First, we have the Single Monster Race,";
+msgctxt "Game Guide#single"
+msgid "two types of monster races. First, we have the Single Monster Race,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in which those that wagered on the 1st place monster are rewarded.";
+msgctxt "Game Guide#single"
+msgid "in which those that wagered on the 1st place monster are rewarded."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Then, we have the Dual Monster";
+msgctxt "Game Guide#single"
+msgid "Then, we have the Dual Monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Race in which the house odds and rewards are greater than in Single";
+msgctxt "Game Guide#single"
+msgid "Race in which the house odds and rewards are greater than in Single"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Races: you must wager on 2 monsters, and they must place in";
+msgctxt "Game Guide#single"
+msgid "Monster Races: you must wager on 2 monsters, and they must place in"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "1st and 2nd for you to win.";
+msgctxt "Game Guide#single"
+msgid "1st and 2nd for you to win."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Although a small entrance";
+msgctxt "Game Guide#single"
+msgid "Although a small entrance"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "fee is required, we only use";
+msgctxt "Game Guide#single"
+msgid "fee is required, we only use"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the money to give rewards to";
+msgctxt "Game Guide#single"
+msgid "the money to give rewards to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "participants and maintain this";
+msgctxt "Game Guide#single"
+msgid "participants and maintain this"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "arena. Therefore, we're not";
+msgctxt "Game Guide#single"
+msgid "arena. Therefore, we're not"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "profiting from this enterprise.";
+msgctxt "Game Guide#single"
+msgid "profiting from this enterprise."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Also, we prohibit others";
+msgctxt "Game Guide#single"
+msgid "Also, we prohibit others"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "from making personal bets";
+msgctxt "Game Guide#single"
+msgid "from making personal bets"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and wagers, using items and";
+msgctxt "Game Guide#single"
+msgid "and wagers, using items and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "zeny, based on the outcomes";
+msgctxt "Game Guide#single"
+msgid "zeny, based on the outcomes"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of these races. That kind of";
+msgctxt "Game Guide#single"
+msgid "of these races. That kind of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "gambling is illegal here...";
+msgctxt "Game Guide#single"
+msgid "gambling is illegal here..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Once you enter the Race Arena, you will receive a Racing Ticket.";
+msgctxt "Game Guide#single"
+msgid "Once you enter the Race Arena, you will receive a Racing Ticket."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Keep in mind that winning Racing Tickets can only be exchanged for";
+msgctxt "Game Guide#single"
+msgid "Keep in mind that winning Racing Tickets can only be exchanged for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Prize Medals during a 5 minute window after the end of the race.";
+msgctxt "Game Guide#single"
+msgid "Prize Medals during a 5 minute window after the end of the race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Before placing a wager, you";
+msgctxt "Game Guide#single"
+msgid "Before placing a wager, you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "must get a free Racing Ticket";
+msgctxt "Game Guide#single"
+msgid "must get a free Racing Ticket"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "from the Ticket Helper. There,";
+msgctxt "Game Guide#single"
+msgid "from the Ticket Helper. There,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I've marked the Ticket Helper";
+msgctxt "Game Guide#single"
+msgid "I've marked the Ticket Helper"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "on your Mini-Map, so you can";
+msgctxt "Game Guide#single"
+msgid "on your Mini-Map, so you can"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "find him pretty easily.";
+msgctxt "Game Guide#single"
+msgid "find him pretty easily."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you wagered on the winner";
+msgctxt "Game Guide#single"
+msgid "If you wagered on the winner"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of a Single Monster Race, or";
+msgctxt "Game Guide#single"
+msgid "of a Single Monster Race, or"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "on the 1st or 2nd place winners";
+msgctxt "Game Guide#single"
+msgid "on the 1st or 2nd place winners"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in a Dual Monster Race, then";
+msgctxt "Game Guide#single"
+msgid "in a Dual Monster Race, then"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you can exchange your Racing";
+msgctxt "Game Guide#single"
+msgid "you can exchange your Racing"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Ticket for Prize Medals.";
+msgctxt "Game Guide#single"
+msgid "Ticket for Prize Medals."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "However, you must exchange";
+msgctxt "Game Guide#single"
+msgid "However, you must exchange"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your Racing Ticket with the";
+msgctxt "Game Guide#single"
+msgid "your Racing Ticket with the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Medal Distributor within the";
+msgctxt "Game Guide#single"
+msgid "Medal Distributor within the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "5 minute window after the end";
+msgctxt "Game Guide#single"
+msgid "5 minute window after the end"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of the race. ^FF0000Your ticket becomes^FFFFFF ^FF0000 void after these 5 minutes.^000000";
+msgctxt "Game Guide#single"
+msgid "of the race. ^FF0000Your ticket becomes^FFFFFF ^FF0000 void after these 5 minutes.^000000"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "When this 5 minute window";
+msgctxt "Game Guide#single"
+msgid "When this 5 minute window"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "elapses, you will be teleported outside, and we will immediately";
+msgctxt "Game Guide#single"
+msgid "elapses, you will be teleported outside, and we will immediately"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "begin preparing for the next race. Make sure that you remember this";
+msgctxt "Game Guide#single"
+msgid "begin preparing for the next race. Make sure that you remember this"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "information when you wager.";
+msgctxt "Game Guide#single"
+msgid "information when you wager."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you haven't received";
+msgctxt "Game Guide#single"
+msgid "If you haven't received"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your free Racing Ticket,";
+msgctxt "Game Guide#single"
+msgid "your free Racing Ticket,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "then please visit the Ticket";
+msgctxt "Game Guide#single"
+msgid "then please visit the Ticket"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Helper. There, I've just marked";
+msgctxt "Game Guide#single"
+msgid "Helper. There, I've just marked"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "his location on your Mini-Map.";
+msgctxt "Game Guide#single"
+msgid "his location on your Mini-Map."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you, and";
+msgctxt "Game Guide#single"
+msgid "Thank you, and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I hope you enjoy";
+msgctxt "Game Guide#single"
+msgid "I hope you enjoy"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your time here in the";
+msgctxt "Game Guide#single"
+msgid "your time here in the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Racing Arena.";
+msgctxt "Game Guide#single"
+msgid "Monster Racing Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Eckar Erenes]";
+msgctxt "Eckar Erenes#double"
+msgid "[Eckar Erenes]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Welcome to the";
+msgctxt "Eckar Erenes#double"
+msgid "Welcome to the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Race Arena,";
+msgctxt "Eckar Erenes#double"
+msgid "Monster Race Arena,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the pride and joy of";
+msgctxt "Eckar Erenes#double"
+msgid "the pride and joy of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the village of Hugel!";
+msgctxt "Eckar Erenes#double"
+msgid "the village of Hugel!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "How may I help you?";
+msgctxt "Eckar Erenes#double"
+msgid "How may I help you?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Monster Race Info", "Enter Monster Race") == 1) {
+msgctxt "Eckar Erenes#double"
+msgid "Monster Race Info"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Monster Race Info", "Enter Monster Race") == 1) {
+msgctxt "Eckar Erenes#double"
+msgid "Enter Monster Race"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Races originated from";
+msgctxt "Eckar Erenes#double"
+msgid "Monster Races originated from"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "simple children's games in which";
+msgctxt "Eckar Erenes#double"
+msgid "simple children's games in which"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Cute Pets would race against each other. This grew into an adult";
+msgctxt "Eckar Erenes#double"
+msgid "Cute Pets would race against each other. This grew into an adult"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "pastime that is so popular, we've built a racing arena in Hugel.";
+msgctxt "Eckar Erenes#double"
+msgid "pastime that is so popular, we've built a racing arena in Hugel."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Our Monster Race Arena hosts";
+msgctxt "Eckar Erenes#double"
+msgid "Our Monster Race Arena hosts"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "two types of monster races. First, we have the Single Monster Race,";
+msgctxt "Eckar Erenes#double"
+msgid "two types of monster races. First, we have the Single Monster Race,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in which those that wagered on the 1st place monster are rewarded.";
+msgctxt "Eckar Erenes#double"
+msgid "in which those that wagered on the 1st place monster are rewarded."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Then, we have the Dual Monster";
+msgctxt "Eckar Erenes#double"
+msgid "Then, we have the Dual Monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Race in which the house odds and rewards are greater than in Single";
+msgctxt "Eckar Erenes#double"
+msgid "Race in which the house odds and rewards are greater than in Single"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Races: you must wager on 2 monsters, and they must place in";
+msgctxt "Eckar Erenes#double"
+msgid "Monster Races: you must wager on 2 monsters, and they must place in"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "1st and 2nd for you to win.";
+msgctxt "Eckar Erenes#double"
+msgid "1st and 2nd for you to win."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Although a small entrance";
+msgctxt "Eckar Erenes#double"
+msgid "Although a small entrance"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "fee is required, we only use";
+msgctxt "Eckar Erenes#double"
+msgid "fee is required, we only use"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the money to give rewards to";
+msgctxt "Eckar Erenes#double"
+msgid "the money to give rewards to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "participants and maintain this";
+msgctxt "Eckar Erenes#double"
+msgid "participants and maintain this"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "arena. Therefore, we're not";
+msgctxt "Eckar Erenes#double"
+msgid "arena. Therefore, we're not"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "profiting from this enterprise.";
+msgctxt "Eckar Erenes#double"
+msgid "profiting from this enterprise."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Also, we prohibit others";
+msgctxt "Eckar Erenes#double"
+msgid "Also, we prohibit others"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "from making personal bets";
+msgctxt "Eckar Erenes#double"
+msgid "from making personal bets"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and wagers, using items and";
+msgctxt "Eckar Erenes#double"
+msgid "and wagers, using items and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "zeny, based on the outcomes";
+msgctxt "Eckar Erenes#double"
+msgid "zeny, based on the outcomes"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of these races. That kind of";
+msgctxt "Eckar Erenes#double"
+msgid "of these races. That kind of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "gambling is illegal here...";
+msgctxt "Eckar Erenes#double"
+msgid "gambling is illegal here..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Once you enter the Race Arena, you will receive a Racing Ticket.";
+msgctxt "Eckar Erenes#double"
+msgid "Once you enter the Race Arena, you will receive a Racing Ticket."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Keep in mind that winning Racing Tickets can only be exchanged for";
+msgctxt "Eckar Erenes#double"
+msgid "Keep in mind that winning Racing Tickets can only be exchanged for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Prize Medals during a 5 minute window after the end of the race.";
+msgctxt "Eckar Erenes#double"
+msgid "Prize Medals during a 5 minute window after the end of the race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "The entrance fee for all races";
+msgctxt "Eckar Erenes#double"
+msgid "The entrance fee for all races"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in the Monster Race Arena is";
+msgctxt "Eckar Erenes#double"
+msgid "in the Monster Race Arena is"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "2,000 zeny. If you'd like to wager on a Single Monster Race,";
+msgctxt "Eckar Erenes#double"
+msgid "2,000 zeny. If you'd like to wager on a Single Monster Race,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "then please ask my brother";
+msgctxt "Eckar Erenes#double"
+msgid "then please ask my brother"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Ellebird to help you.";
+msgctxt "Eckar Erenes#double"
+msgid "Ellebird to help you."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Otherwise, I'll help get you";
+msgctxt "Eckar Erenes#double"
+msgid "Otherwise, I'll help get you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "started if you're interested";
+msgctxt "Eckar Erenes#double"
+msgid "started if you're interested"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in a Dual Monster Race.";
+msgctxt "Eckar Erenes#double"
+msgid "in a Dual Monster Race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Would you like to wager";
+msgctxt "Eckar Erenes#double"
+msgid "Would you like to wager"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "on a Dual Monster Race?";
+msgctxt "Eckar Erenes#double"
+msgid "on a Dual Monster Race?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes, please.", "No, thanks.") == 2) {
+msgctxt "Eckar Erenes#double"
+msgid "Yes, please."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes, please.", "No, thanks.") == 2) {
+msgctxt "Eckar Erenes#double"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Very well. I hope that";
+msgctxt "Eckar Erenes#double"
+msgid "Very well. I hope that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you enjoy your time here";
+msgctxt "Eckar Erenes#double"
+msgid "you enjoy your time here"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in the Monster Race Arena~";
+msgctxt "Eckar Erenes#double"
+msgid "in the Monster Race Arena~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hmm... You're toting";
+msgctxt "Eckar Erenes#double"
+msgid "Hmm... You're toting"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "too many things with you";
+msgctxt "Eckar Erenes#double"
+msgid "too many things with you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "right now. You better put";
+msgctxt "Eckar Erenes#double"
+msgid "right now. You better put"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "some of your stuff away in";
+msgctxt "Eckar Erenes#double"
+msgid "some of your stuff away in"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Kafra Storage before you can";
+msgctxt "Eckar Erenes#double"
+msgid "Kafra Storage before you can"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "wager on any monster races...";
+msgctxt "Eckar Erenes#double"
+msgid "wager on any monster races..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but you";
+msgctxt "Eckar Erenes#double"
+msgid "I'm sorry, but you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "don't have enough";
+msgctxt "Eckar Erenes#double"
+msgid "don't have enough"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "money to pay the";
+msgctxt "Eckar Erenes#double"
+msgid "money to pay the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "2,000 zeny entrance fee. ";
+msgctxt "Eckar Erenes#double"
+msgid "2,000 zeny entrance fee. "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hm? What are you doing";
+msgctxt "Eckar Erenes#double"
+msgid "Hm? What are you doing"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "with an expired Racing Ticket?";
+msgctxt "Eckar Erenes#double"
+msgid "with an expired Racing Ticket?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Well, I better get rid of it for you before it can get mixed up";
+msgctxt "Eckar Erenes#double"
+msgid "Well, I better get rid of it for you before it can get mixed up"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "with your new Racing Ticket.";
+msgctxt "Eckar Erenes#double"
+msgid "with your new Racing Ticket."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Alright, I think you";
+msgctxt "Eckar Erenes#double"
+msgid "Alright, I think you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "should be all set. I hope";
+msgctxt "Eckar Erenes#double"
+msgid "should be all set. I hope"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that you enjoy the race~";
+msgctxt "Eckar Erenes#double"
+msgid "that you enjoy the race~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Let me guide you inside";
+msgctxt "Eckar Erenes#double"
+msgid "Let me guide you inside"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the Monster Race Arena now.";
+msgctxt "Eckar Erenes#double"
+msgid "the Monster Race Arena now."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "We're still finishing our";
+msgctxt "Eckar Erenes#double"
+msgid "We're still finishing our"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "preparations for the next";
+msgctxt "Eckar Erenes#double"
+msgid "preparations for the next"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Double Monster Race, so";
+msgctxt "Eckar Erenes#double"
+msgid "Double Monster Race, so"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "we ask that you please";
+msgctxt "Eckar Erenes#double"
+msgid "we ask that you please"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "wait a little while longer...";
+msgctxt "Eckar Erenes#double"
+msgid "wait a little while longer..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thanks, I hope that";
+msgctxt "Eckar Erenes#double"
+msgid "Thanks, I hope that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you enjoy this race.";
+msgctxt "Eckar Erenes#double"
+msgid "you enjoy this race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Let me guide you now";
+msgctxt "Eckar Erenes#double"
+msgid "Let me guide you now"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to the Monster Race Arena.";
+msgctxt "Eckar Erenes#double"
+msgid "to the Monster Race Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Right now, a Monster Race";
+msgctxt "Eckar Erenes#double"
+msgid "Right now, a Monster Race"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "is in progress. It's too late to place a wager, but if you'd like";
+msgctxt "Eckar Erenes#double"
+msgid "is in progress. It's too late to place a wager, but if you'd like"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to watch, the fee is 500 zeny";
+msgctxt "Eckar Erenes#double"
+msgid "to watch, the fee is 500 zeny"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "for spectators. Would you like to enter the Monster Race Arena?";
+msgctxt "Eckar Erenes#double"
+msgid "for spectators. Would you like to enter the Monster Race Arena?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Enter", "Cancel") == 2) {
+msgctxt "Eckar Erenes#double"
+msgid "Enter"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Enter", "Cancel") == 2) {
+msgctxt "Eckar Erenes#double"
+msgid "Cancel"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Alright, then. If you'd like";
+msgctxt "Eckar Erenes#double"
+msgid "Alright, then. If you'd like"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to wager on a monster";
+msgctxt "Eckar Erenes#double"
+msgid "to wager on a monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "race, please wait for the";
+msgctxt "Eckar Erenes#double"
+msgid "race, please wait for the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "current race to finish. I hope";
+msgctxt "Eckar Erenes#double"
+msgid "current race to finish. I hope"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that you enjoy your time here";
+msgctxt "Eckar Erenes#double"
+msgid "that you enjoy your time here"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you~";
+msgctxt "Eckar Erenes#double"
+msgid "Thank you~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I hope you enjoy";
+msgctxt "Eckar Erenes#double"
+msgid "I hope you enjoy"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "watching this race!";
+msgctxt "Eckar Erenes#double"
+msgid "watching this race!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but you don't";
+msgctxt "Eckar Erenes#double"
+msgid "I'm sorry, but you don't"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "have enough money to pay";
+msgctxt "Eckar Erenes#double"
+msgid "have enough money to pay"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the 500 zeny spectator fee.";
+msgctxt "Eckar Erenes#double"
+msgid "the 500 zeny spectator fee."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but a monster";
+msgctxt "Eckar Erenes#double"
+msgid "I'm sorry, but a monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "race has just ended, so we're";
+msgctxt "Eckar Erenes#double"
+msgid "race has just ended, so we're"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "having the 5 minute period in";
+msgctxt "Eckar Erenes#double"
+msgid "having the 5 minute period in"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "which the winners can claim";
+msgctxt "Eckar Erenes#double"
+msgid "which the winners can claim"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "their Prize Medals. The gate";
+msgctxt "Eckar Erenes#double"
+msgid "their Prize Medals. The gate"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "will open soon, so please wait.";
+msgctxt "Eckar Erenes#double"
+msgid "will open soon, so please wait."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Ticket Helper]";
+msgctxt "Ticket Helper#2"
+msgid "[Ticket Helper]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Welcome to the";
+msgctxt "Ticket Helper#2"
+msgid "Welcome to the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Race Arena.";
+msgctxt "Ticket Helper#2"
+msgid "Monster Race Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you'd like to participate";
+msgctxt "Ticket Helper#2"
+msgid "If you'd like to participate"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in the ^3131FFDouble Monster Race^000000,";
+msgctxt "Ticket Helper#2"
+msgid "in the ^3131FFDouble Monster Race^000000,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "then please select 1 out of";
+msgctxt "Ticket Helper#2"
+msgid "then please select 1 out of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the 6 monsters from the list.";
+msgctxt "Ticket Helper#2"
+msgid "the 6 monsters from the list."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Wait, wait...";
+msgctxt "Ticket Helper#2"
+msgid "Wait, wait..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I can't give you";
+msgctxt "Ticket Helper#2"
+msgid "I can't give you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "anything right now.";
+msgctxt "Ticket Helper#2"
+msgid "anything right now."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You're carrying way";
+msgctxt "Ticket Helper#2"
+msgid "You're carrying way"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "too many things...";
+msgctxt "Ticket Helper#2"
+msgid "too many things..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hello there!";
+msgctxt "Ticket Helper#2"
+msgid "Hello there!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Interested in wagering on";
+msgctxt "Ticket Helper#2"
+msgid "Interested in wagering on"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the Dual Monster Race?";
+msgctxt "Ticket Helper#2"
+msgid "the Dual Monster Race?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm here to help you if you've";
+msgctxt "Ticket Helper#2"
+msgid "I'm here to help you if you've"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "got any questions, or if you";
+msgctxt "Ticket Helper#2"
+msgid "got any questions, or if you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "want to place your wager.";
+msgctxt "Ticket Helper#2"
+msgid "want to place your wager."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Check Monster Status", "Wager on Race", "Monster Race?", "Cancel")) {
+msgctxt "Ticket Helper#2"
+msgid "Check Monster Status"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Check Monster Status", "Wager on Race", "Monster Race?", "Cancel")) {
+msgctxt "Ticket Helper#2"
+msgid "Wager on Race"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Check Monster Status", "Wager on Race", "Monster Race?", "Cancel")) {
+msgctxt "Ticket Helper#2"
+msgid "Monster Race?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Check Monster Status", "Wager on Race", "Monster Race?", "Cancel")) {
+msgctxt "Ticket Helper#2"
+msgid "Cancel"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster "+.@i+" [^CC6600Luck^000000: " + $@mon_r02_luk[.@i] + "] [^EE0000HP^000000: " + $@mon_r02_tire[.@i] + "]";
+msgctxt "Ticket Helper#2"
+msgid "Monster "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster "+.@i+" [^CC6600Luck^000000: " + $@mon_r02_luk[.@i] + "] [^EE0000HP^000000: " + $@mon_r02_tire[.@i] + "]";
+msgctxt "Ticket Helper#2"
+msgid " [^CC6600Luck^000000: "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster "+.@i+" [^CC6600Luck^000000: " + $@mon_r02_luk[.@i] + "] [^EE0000HP^000000: " + $@mon_r02_tire[.@i] + "]";
+msgctxt "Ticket Helper#2"
+msgid "] [^EE0000HP^000000: "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster "+.@i+" [^CC6600Luck^000000: " + $@mon_r02_luk[.@i] + "] [^EE0000HP^000000: " + $@mon_r02_tire[.@i] + "]";
+msgctxt "Ticket Helper#2"
+msgid "]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Alright, please choose which";
+msgctxt "Ticket Helper#2"
+msgid "Alright, please choose which"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "two monsters that you think";
+msgctxt "Ticket Helper#2"
+msgid "two monsters that you think"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "will win 1st and 2nd place.";
+msgctxt "Ticket Helper#2"
+msgid "will win 1st and 2nd place."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If both your monsters come";
+msgctxt "Ticket Helper#2"
+msgid "If both your monsters come"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in 1st and 2nd, in any order,";
+msgctxt "Ticket Helper#2"
+msgid "in 1st and 2nd, in any order,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you'll win the wager.";
+msgctxt "Ticket Helper#2"
+msgid "you'll win the wager."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Now, please tell me";
+msgctxt "Ticket Helper#2"
+msgid "Now, please tell me"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your first choice for one";
+msgctxt "Ticket Helper#2"
+msgid "your first choice for one"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of the monsters that";
+msgctxt "Ticket Helper#2"
+msgid "of the monsters that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "will win this race.";
+msgctxt "Ticket Helper#2"
+msgid "will win this race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You've chosen";
+msgctxt "Ticket Helper#2"
+msgid "You've chosen"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "^0000FFMonster "+.@m+"^000000, "+.@string$[0];
+msgctxt "Ticket Helper#2"
+msgid "^0000FFMonster "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "^0000FFMonster "+.@m+"^000000, "+.@string$[0];
+msgctxt "Ticket Helper#2"
+msgid "^000000, "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes .@string$[1]+".";
+msgctxt "Ticket Helper#2"
+msgid "."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Are you sure you want";
+msgctxt "Ticket Helper#2"
+msgid "Are you sure you want"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to choose this monster?";
+msgctxt "Ticket Helper#2"
+msgid "to choose this monster?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes", "No") == 2) {
+msgctxt "Ticket Helper#2"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes", "No") == 2) {
+msgctxt "Ticket Helper#2"
+msgid "No"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You have canceled";
+msgctxt "Ticket Helper#2"
+msgid "You have canceled"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your wager. Okay,";
+msgctxt "Ticket Helper#2"
+msgid "your wager. Okay,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I understand. Perhaps";
+msgctxt "Ticket Helper#2"
+msgid "I understand. Perhaps"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you'd feel more comfortable";
+msgctxt "Ticket Helper#2"
+msgid "you'd feel more comfortable"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "checking the monsters first?";
+msgctxt "Ticket Helper#2"
+msgid "checking the monsters first?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Now, please make";
+msgctxt "Ticket Helper#2"
+msgid "Now, please make"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your second choice";
+msgctxt "Ticket Helper#2"
+msgid "your second choice"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "for the monster that";
+msgctxt "Ticket Helper#2"
+msgid "for the monster that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you think will place";
+msgctxt "Ticket Helper#2"
+msgid "you think will place"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "1st or 2nd in this race.";
+msgctxt "Ticket Helper#2"
+msgid "1st or 2nd in this race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm very sorry, but a";
+msgctxt "Ticket Helper#2"
+msgid "I'm very sorry, but a"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "monster race is underway.";
+msgctxt "Ticket Helper#2"
+msgid "monster race is underway."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Please wait, and then place";
+msgctxt "Ticket Helper#2"
+msgid "Please wait, and then place"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your wager for the next race.";
+msgctxt "Ticket Helper#2"
+msgid "your wager for the next race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You've wagered on";
+msgctxt "Ticket Helper#2"
+msgid "You've wagered on"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "^0000FFMonster "+.@m1+"^000000 and ^0000FFMonster "+.@m+"^000000";
+msgctxt "Ticket Helper#2"
+msgid "^000000 and ^0000FFMonster "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "^0000FFMonster "+.@m1+"^000000 and ^0000FFMonster "+.@m+"^000000";
+msgctxt "Ticket Helper#2"
+msgid "^000000"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to win this race. Good luck!";
+msgctxt "Ticket Helper#2"
+msgid "to win this race. Good luck!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I really hope that the odds";
+msgctxt "Ticket Helper#2"
+msgid "I really hope that the odds"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "work out in your favor~";
+msgctxt "Ticket Helper#2"
+msgid "work out in your favor~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Races originated from";
+msgctxt "Ticket Helper#2"
+msgid "Monster Races originated from"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "simple children's games in which";
+msgctxt "Ticket Helper#2"
+msgid "simple children's games in which"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Cute Pets would race against each other. This grew into an adult";
+msgctxt "Ticket Helper#2"
+msgid "Cute Pets would race against each other. This grew into an adult"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "pastime that is so popular, we've built a racing arena in Hugel.";
+msgctxt "Ticket Helper#2"
+msgid "pastime that is so popular, we've built a racing arena in Hugel."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Our Monster Race Arena hosts";
+msgctxt "Ticket Helper#2"
+msgid "Our Monster Race Arena hosts"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "two types of monster races. First, we have the Single Monster Race,";
+msgctxt "Ticket Helper#2"
+msgid "two types of monster races. First, we have the Single Monster Race,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in which those that wagered on the 1st place monster are rewarded.";
+msgctxt "Ticket Helper#2"
+msgid "in which those that wagered on the 1st place monster are rewarded."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Eclar Ellbird]";
+msgctxt "Ticket Helper#2"
+msgid "[Eclar Ellbird]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Then, we have the Dual Monster";
+msgctxt "Ticket Helper#2"
+msgid "Then, we have the Dual Monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Race in which those that wagered on the 1st and 2nd place monsters";
+msgctxt "Ticket Helper#2"
+msgid "Race in which those that wagered on the 1st and 2nd place monsters"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "are equally rewarded. The house";
+msgctxt "Ticket Helper#2"
+msgid "are equally rewarded. The house"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "odds and wager rewards are greater in Dual Races than Single Races.";
+msgctxt "Ticket Helper#2"
+msgid "odds and wager rewards are greater in Dual Races than Single Races."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Although a small entrance";
+msgctxt "Ticket Helper#2"
+msgid "Although a small entrance"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "fee is required, we only use";
+msgctxt "Ticket Helper#2"
+msgid "fee is required, we only use"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the money to give rewards to";
+msgctxt "Ticket Helper#2"
+msgid "the money to give rewards to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "participants and maintain this";
+msgctxt "Ticket Helper#2"
+msgid "participants and maintain this"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "arena. Therefore, we're not";
+msgctxt "Ticket Helper#2"
+msgid "arena. Therefore, we're not"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "profiting from this enterprise.";
+msgctxt "Ticket Helper#2"
+msgid "profiting from this enterprise."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Also, we prohibit others";
+msgctxt "Ticket Helper#2"
+msgid "Also, we prohibit others"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "from making personal bets";
+msgctxt "Ticket Helper#2"
+msgid "from making personal bets"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and wagers, using items and";
+msgctxt "Ticket Helper#2"
+msgid "and wagers, using items and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "zeny, based on the outcomes";
+msgctxt "Ticket Helper#2"
+msgid "zeny, based on the outcomes"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of these races. That kind of";
+msgctxt "Ticket Helper#2"
+msgid "of these races. That kind of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "gambling is illegal here...";
+msgctxt "Ticket Helper#2"
+msgid "gambling is illegal here..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Once you enter the Race Arena, you will receive a Racing Ticket.";
+msgctxt "Ticket Helper#2"
+msgid "Once you enter the Race Arena, you will receive a Racing Ticket."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Keep in mind that winning Racing Tickets can only be exchanged for";
+msgctxt "Ticket Helper#2"
+msgid "Keep in mind that winning Racing Tickets can only be exchanged for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Prize Medals during a 5 minute window after the end of the race.";
+msgctxt "Ticket Helper#2"
+msgid "Prize Medals during a 5 minute window after the end of the race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You're already here";
+msgctxt "Ticket Helper#2"
+msgid "You're already here"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "inside the Monster Race";
+msgctxt "Ticket Helper#2"
+msgid "inside the Monster Race"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Arena, so you may as well";
+msgctxt "Ticket Helper#2"
+msgid "Arena, so you may as well"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "try placing a wager. It's";
+msgctxt "Ticket Helper#2"
+msgid "try placing a wager. It's"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "more fun than you'd think~";
+msgctxt "Ticket Helper#2"
+msgid "more fun than you'd think~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "for this Dual Monster Race.";
+msgctxt "Ticket Helper#2"
+msgid "for this Dual Monster Race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "The start of the race will be";
+msgctxt "Ticket Helper#2"
+msgid "The start of the race will be"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "announced through a broadcast.";
+msgctxt "Ticket Helper#2"
+msgid "announced through a broadcast."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You can refer to your Mini-Map";
+msgctxt "Ticket Helper#2"
+msgid "You can refer to your Mini-Map"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to track the monsters' race";
+msgctxt "Ticket Helper#2"
+msgid "to track the monsters' race"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "positions. Thank you, and";
+msgctxt "Ticket Helper#2"
+msgid "positions. Thank you, and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "have a good time!";
+msgctxt "Ticket Helper#2"
+msgid "have a good time!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Game Guide]";
+msgctxt "Game Guide#double"
+msgid "[Game Guide]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Welcome to the";
+msgctxt "Game Guide#double"
+msgid "Welcome to the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Race Arena.";
+msgctxt "Game Guide#double"
+msgid "Monster Race Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "How can I help you?";
+msgctxt "Game Guide#double"
+msgid "How can I help you?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Monster Race Info", "Wager Info", "Ticket Redemption Info")) {
+msgctxt "Game Guide#double"
+msgid "Monster Race Info"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Monster Race Info", "Wager Info", "Ticket Redemption Info")) {
+msgctxt "Game Guide#double"
+msgid "Wager Info"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Monster Race Info", "Wager Info", "Ticket Redemption Info")) {
+msgctxt "Game Guide#double"
+msgid "Ticket Redemption Info"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Races originated from";
+msgctxt "Game Guide#double"
+msgid "Monster Races originated from"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "simple children's games in which";
+msgctxt "Game Guide#double"
+msgid "simple children's games in which"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Cute Pets would race against each other. This grew into an adult";
+msgctxt "Game Guide#double"
+msgid "Cute Pets would race against each other. This grew into an adult"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "pastime that is so popular, we've built a racing arena in Hugel.";
+msgctxt "Game Guide#double"
+msgid "pastime that is so popular, we've built a racing arena in Hugel."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Our Monster Race Arena hosts";
+msgctxt "Game Guide#double"
+msgid "Our Monster Race Arena hosts"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "two types of monster races. First, we have the Single Monster Race,";
+msgctxt "Game Guide#double"
+msgid "two types of monster races. First, we have the Single Monster Race,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in which those that wagered on the 1st place monster are rewarded.";
+msgctxt "Game Guide#double"
+msgid "in which those that wagered on the 1st place monster are rewarded."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Then, we have the Dual Monster";
+msgctxt "Game Guide#double"
+msgid "Then, we have the Dual Monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Race in which the house odds and rewards are greater than in Single";
+msgctxt "Game Guide#double"
+msgid "Race in which the house odds and rewards are greater than in Single"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Races: you must wager on 2 monsters, and they must place in";
+msgctxt "Game Guide#double"
+msgid "Monster Races: you must wager on 2 monsters, and they must place in"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "1st and 2nd for you to win.";
+msgctxt "Game Guide#double"
+msgid "1st and 2nd for you to win."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Although a small entrance";
+msgctxt "Game Guide#double"
+msgid "Although a small entrance"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "fee is required, we only use";
+msgctxt "Game Guide#double"
+msgid "fee is required, we only use"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the money to give rewards to";
+msgctxt "Game Guide#double"
+msgid "the money to give rewards to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "participants and maintain this";
+msgctxt "Game Guide#double"
+msgid "participants and maintain this"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "arena. Therefore, we're not";
+msgctxt "Game Guide#double"
+msgid "arena. Therefore, we're not"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "profiting from this enterprise.";
+msgctxt "Game Guide#double"
+msgid "profiting from this enterprise."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Also, we prohibit others";
+msgctxt "Game Guide#double"
+msgid "Also, we prohibit others"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "from making personal bets";
+msgctxt "Game Guide#double"
+msgid "from making personal bets"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and wagers, using items and";
+msgctxt "Game Guide#double"
+msgid "and wagers, using items and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "zeny, based on the outcomes";
+msgctxt "Game Guide#double"
+msgid "zeny, based on the outcomes"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of these races. That kind of";
+msgctxt "Game Guide#double"
+msgid "of these races. That kind of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "gambling is illegal here...";
+msgctxt "Game Guide#double"
+msgid "gambling is illegal here..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Once you enter the Race Arena, you will receive a Racing Ticket.";
+msgctxt "Game Guide#double"
+msgid "Once you enter the Race Arena, you will receive a Racing Ticket."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Keep in mind that winning Racing Tickets can only be exchanged for";
+msgctxt "Game Guide#double"
+msgid "Keep in mind that winning Racing Tickets can only be exchanged for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Prize Medals during a 5 minute window after the end of the race.";
+msgctxt "Game Guide#double"
+msgid "Prize Medals during a 5 minute window after the end of the race."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Before placing a wager, you";
+msgctxt "Game Guide#double"
+msgid "Before placing a wager, you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "must get a free Racing Ticket";
+msgctxt "Game Guide#double"
+msgid "must get a free Racing Ticket"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "from the Ticket Helper. There,";
+msgctxt "Game Guide#double"
+msgid "from the Ticket Helper. There,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I've marked the Ticket Helper";
+msgctxt "Game Guide#double"
+msgid "I've marked the Ticket Helper"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "on your Mini-Map, so you can";
+msgctxt "Game Guide#double"
+msgid "on your Mini-Map, so you can"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "find him pretty easily.";
+msgctxt "Game Guide#double"
+msgid "find him pretty easily."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you wagered on the winner";
+msgctxt "Game Guide#double"
+msgid "If you wagered on the winner"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of a Single Monster Race, or";
+msgctxt "Game Guide#double"
+msgid "of a Single Monster Race, or"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "on the 1st or 2nd place winners";
+msgctxt "Game Guide#double"
+msgid "on the 1st or 2nd place winners"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in a Dual Monster Race, then";
+msgctxt "Game Guide#double"
+msgid "in a Dual Monster Race, then"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you can exchange your Racing";
+msgctxt "Game Guide#double"
+msgid "you can exchange your Racing"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Ticket for Prize Medals.";
+msgctxt "Game Guide#double"
+msgid "Ticket for Prize Medals."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "However, you must exchange";
+msgctxt "Game Guide#double"
+msgid "However, you must exchange"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your Racing Ticket with the";
+msgctxt "Game Guide#double"
+msgid "your Racing Ticket with the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Medal Distributor within the";
+msgctxt "Game Guide#double"
+msgid "Medal Distributor within the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "5 minute window after the end";
+msgctxt "Game Guide#double"
+msgid "5 minute window after the end"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of the race. ^FF0000Your ticket becomes^FFFFFF ^FF0000 void after these 5 minutes.^000000";
+msgctxt "Game Guide#double"
+msgid "of the race. ^FF0000Your ticket becomes^FFFFFF ^FF0000 void after these 5 minutes.^000000"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "When this 5 minute window";
+msgctxt "Game Guide#double"
+msgid "When this 5 minute window"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "elapses, you will be teleported outside, and we will immediately";
+msgctxt "Game Guide#double"
+msgid "elapses, you will be teleported outside, and we will immediately"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "begin preparing for the next race. Make sure that you remember this";
+msgctxt "Game Guide#double"
+msgid "begin preparing for the next race. Make sure that you remember this"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "information when you wager.";
+msgctxt "Game Guide#double"
+msgid "information when you wager."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you haven't received";
+msgctxt "Game Guide#double"
+msgid "If you haven't received"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your free Racing Ticket,";
+msgctxt "Game Guide#double"
+msgid "your free Racing Ticket,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "then please visit the Ticket";
+msgctxt "Game Guide#double"
+msgid "then please visit the Ticket"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Helper. There, I've just marked";
+msgctxt "Game Guide#double"
+msgid "Helper. There, I've just marked"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "his location on your Mini-Map.";
+msgctxt "Game Guide#double"
+msgid "his location on your Mini-Map."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you, and";
+msgctxt "Game Guide#double"
+msgid "Thank you, and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I hope you enjoy";
+msgctxt "Game Guide#double"
+msgid "I hope you enjoy"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your time here in the";
+msgctxt "Game Guide#double"
+msgid "your time here in the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Racing Arena.";
+msgctxt "Game Guide#double"
+msgid "Monster Racing Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Medal Distributor]";
+msgctxt "Medal Distributor#medal"
+msgid "[Medal Distributor]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but I can't";
+msgctxt "Medal Distributor#medal"
+msgid "I'm sorry, but I can't"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "reward you with any medals";
+msgctxt "Medal Distributor#medal"
+msgid "reward you with any medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "until you make more space";
+msgctxt "Medal Distributor#medal"
+msgid "until you make more space"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "available in your Inventory.";
+msgctxt "Medal Distributor#medal"
+msgid "available in your Inventory."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hello there~";
+msgctxt "Medal Distributor#medal"
+msgid "Hello there~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you've wagered on the";
+msgctxt "Medal Distributor#medal"
+msgid "If you've wagered on the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "winning monster in a recent";
+msgctxt "Medal Distributor#medal"
+msgid "winning monster in a recent"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "race, then you can exchange";
+msgctxt "Medal Distributor#medal"
+msgid "race, then you can exchange"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your game ticket here for";
+msgctxt "Medal Distributor#medal"
+msgid "your game ticket here for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "some Prize Medals.";
+msgctxt "Medal Distributor#medal"
+msgid "some Prize Medals."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Please remember that you can";
+msgctxt "Medal Distributor#medal"
+msgid "Please remember that you can"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "only exchange winning Game";
+msgctxt "Medal Distributor#medal"
+msgid "only exchange winning Game"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Tickets for Prize Medals right";
+msgctxt "Medal Distributor#medal"
+msgid "Tickets for Prize Medals right"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "after the race finishes. Prize";
+msgctxt "Medal Distributor#medal"
+msgid "after the race finishes. Prize"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Medals may be given to Wayne";
+msgctxt "Medal Distributor#medal"
+msgid "Medals may be given to Wayne"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in Hugel in exchange for items.";
+msgctxt "Medal Distributor#medal"
+msgid "in Hugel in exchange for items."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Congratulations! It's really";
+msgctxt "Medal Distributor#medal"
+msgid "Congratulations! It's really"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "difficult to guess the winners";
+msgctxt "Medal Distributor#medal"
+msgid "difficult to guess the winners"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of a Dual Monster Race, so you";
+msgctxt "Medal Distributor#medal"
+msgid "of a Dual Monster Race, so you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "must be really lucky! Would you";
+msgctxt "Medal Distributor#medal"
+msgid "must be really lucky! Would you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "like to exchange your winning";
+msgctxt "Medal Distributor#medal"
+msgid "like to exchange your winning"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Racing Ticket for Prize Medals?";
+msgctxt "Medal Distributor#medal"
+msgid "Racing Ticket for Prize Medals?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes, please.", "No, thanks.") == 1) {
+msgctxt "Medal Distributor#medal"
+msgid "Yes, please."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes, please.", "No, thanks.") == 1) {
+msgctxt "Medal Distributor#medal"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Okay, everything looks good,";
+msgctxt "Medal Distributor#medal"
+msgid "Okay, everything looks good,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "so here's your Prize Medals~";
+msgctxt "Medal Distributor#medal"
+msgid "so here's your Prize Medals~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you want to trade these";
+msgctxt "Medal Distributor#medal"
+msgid "If you want to trade these"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals for items, please";
+msgctxt "Medal Distributor#medal"
+msgid "medals for items, please"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "visit Wayne in Hugel. We hope";
+msgctxt "Medal Distributor#medal"
+msgid "visit Wayne in Hugel. We hope"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you enjoyed the Monster Race~";
+msgctxt "Medal Distributor#medal"
+msgid "you enjoyed the Monster Race~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Um, are you sure? You ";
+msgctxt "Medal Distributor#medal"
+msgid "Um, are you sure? You "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "can only exchange a winning";
+msgctxt "Medal Distributor#medal"
+msgid "can only exchange a winning"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Racing Ticket for Prize Medals";
+msgctxt "Medal Distributor#medal"
+msgid "Racing Ticket for Prize Medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "for a short time after the race. If you made a mistake, you";
+msgctxt "Medal Distributor#medal"
+msgid "for a short time after the race. If you made a mistake, you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "should ask me again quickly.";
+msgctxt "Medal Distributor#medal"
+msgid "should ask me again quickly."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Well, better luck next time...";
+msgctxt "Medal Distributor#medal"
+msgid "Well, better luck next time..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Although you can't always";
+msgctxt "Medal Distributor#medal"
+msgid "Although you can't always"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "be lucky, it's always fun to";
+msgctxt "Medal Distributor#medal"
+msgid "be lucky, it's always fun to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "wager on the monster races!";
+msgctxt "Medal Distributor#medal"
+msgid "wager on the monster races!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thanks for visiting the";
+msgctxt "Medal Distributor#medal"
+msgid "Thanks for visiting the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster Race Arena, and";
+msgctxt "Medal Distributor#medal"
+msgid "Monster Race Arena, and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I hope you enjoy your time";
+msgctxt "Medal Distributor#medal"
+msgid "I hope you enjoy your time"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "here. I'll see you next time~";
+msgctxt "Medal Distributor#medal"
+msgid "here. I'll see you next time~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You may not have wagered";
+msgctxt "Medal Distributor#medal"
+msgid "You may not have wagered"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "on the winning monster in";
+msgctxt "Medal Distributor#medal"
+msgid "on the winning monster in"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the last race, but I hope that";
+msgctxt "Medal Distributor#medal"
+msgid "the last race, but I hope that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you get lucky next time~";
+msgctxt "Medal Distributor#medal"
+msgid "you get lucky next time~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Exit Guide]";
+msgctxt "Exit Guide#double"
+msgid "[Exit Guide]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you have a winning Racing";
+msgctxt "Exit Guide#double"
+msgid "If you have a winning Racing"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Ticket, please make sure that";
+msgctxt "Exit Guide#double"
+msgid "Ticket, please make sure that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you redeem it for Prize Medals";
+msgctxt "Exit Guide#double"
+msgid "you redeem it for Prize Medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "now. All Racing Tickets become";
+msgctxt "Exit Guide#double"
+msgid "now. All Racing Tickets become"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "void once the next race begins.";
+msgctxt "Exit Guide#double"
+msgid "void once the next race begins."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you wish to leave";
+msgctxt "Exit Guide#double"
+msgid "If you wish to leave"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the arena, then I can guide";
+msgctxt "Exit Guide#double"
+msgid "the arena, then I can guide"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you outside. Would you like";
+msgctxt "Exit Guide#double"
+msgid "you outside. Would you like"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to leave the arena right now?";
+msgctxt "Exit Guide#double"
+msgid "to leave the arena right now?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes", "No") == 2) {
+msgctxt "Exit Guide#double"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes", "No") == 2) {
+msgctxt "Exit Guide#double"
+msgid "No"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Alright, then.";
+msgctxt "Exit Guide#double"
+msgid "Alright, then."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Just let me know";
+msgctxt "Exit Guide#double"
+msgid "Just let me know"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "whenever you're";
+msgctxt "Exit Guide#double"
+msgid "whenever you're"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "ready to leave.";
+msgctxt "Exit Guide#double"
+msgid "ready to leave."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you for";
+msgctxt "Exit Guide#double"
+msgid "Thank you for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your patronage, and";
+msgctxt "Exit Guide#double"
+msgid "your patronage, and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I hope that you come";
+msgctxt "Exit Guide#double"
+msgid "I hope that you come"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "visit us again soon~";
+msgctxt "Exit Guide#double"
+msgid "visit us again soon~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "In accordance with our";
+msgctxt "Exit Guide#double"
+msgid "In accordance with our"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "policies, I must take your";
+msgctxt "Exit Guide#double"
+msgid "policies, I must take your"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Racing Ticket before you leave.";
+msgctxt "Exit Guide#double"
+msgid "Racing Ticket before you leave."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you for your patronage,";
+msgctxt "Exit Guide#double"
+msgid "Thank you for your patronage,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and I hope you enjoy your time";
+msgctxt "Exit Guide#double"
+msgid "and I hope you enjoy your time"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "here in the Monster Race Arena.";
+msgctxt "Exit Guide#double"
+msgid "here in the Monster Race Arena."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Ei'felle]";
+msgctxt "Ei'felle#repay01"
+msgid "[Ei'felle]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Curses! We need to deliver";
+msgctxt "Ei'felle#repay01"
+msgid "Curses! We need to deliver"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "what our customers ordered,";
+msgctxt "Ei'felle#repay01"
+msgid "what our customers ordered,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "but we've been making nothing";
+msgctxt "Ei'felle#repay01"
+msgid "but we've been making nothing"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "but shipshod products! If we";
+msgctxt "Ei'felle#repay01"
+msgid "but shipshod products! If we"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "only had that metal, we could";
+msgctxt "Ei'felle#repay01"
+msgid "only had that metal, we could"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "pump up our product quality!";
+msgctxt "Ei'felle#repay01"
+msgid "pump up our product quality!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# select("What metal are you talking about?");
+msgctxt "Ei'felle#repay01"
+msgid "What metal are you talking about?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "There's a small village";
+msgctxt "Ei'felle#repay01"
+msgid "There's a small village"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "at the outskirts of the";
+msgctxt "Ei'felle#repay01"
+msgid "at the outskirts of the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Schwaltzvalt Republic that";
+msgctxt "Ei'felle#repay01"
+msgid "Schwaltzvalt Republic that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "gives these special medals";
+msgctxt "Ei'felle#repay01"
+msgid "gives these special medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that are made of this metal";
+msgctxt "Ei'felle#repay01"
+msgid "that are made of this metal"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "which we desperately need...";
+msgctxt "Ei'felle#repay01"
+msgid "which we desperately need..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "We've sent one of our best";
+msgctxt "Ei'felle#repay01"
+msgid "We've sent one of our best"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "guildsmen to get some of those";
+msgctxt "Ei'felle#repay01"
+msgid "guildsmen to get some of those"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals for us, but he hasn't";
+msgctxt "Ei'felle#repay01"
+msgid "medals for us, but he hasn't"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "reported back to us quite yet.";
+msgctxt "Ei'felle#repay01"
+msgid "reported back to us quite yet."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm getting pretty anxious...";
+msgctxt "Ei'felle#repay01"
+msgid "I'm getting pretty anxious..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I mean, we need a whole";
+msgctxt "Ei'felle#repay01"
+msgid "I mean, we need a whole"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "lot of that metal to fill out";
+msgctxt "Ei'felle#repay01"
+msgid "lot of that metal to fill out"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "our orders and finish our";
+msgctxt "Ei'felle#repay01"
+msgid "our orders and finish our"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "manufacturing research,";
+msgctxt "Ei'felle#repay01"
+msgid "manufacturing research,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "but so far, none of us have";
+msgctxt "Ei'felle#repay01"
+msgid "but so far, none of us have"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "been able to get any medals...";
+msgctxt "Ei'felle#repay01"
+msgid "been able to get any medals..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "["+ strcharinfo(PC_NAME) +"]";
+msgctxt "Ei'felle#repay01"
+msgid "["
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh! Are you talking";
+msgctxt "Ei'felle#repay01"
+msgid "Oh! Are you talking"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "about the medals that";
+msgctxt "Ei'felle#repay01"
+msgid "about the medals that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "they give as rewards in";
+msgctxt "Ei'felle#repay01"
+msgid "they give as rewards in"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the Monster Race Arena?";
+msgctxt "Ei'felle#repay01"
+msgid "the Monster Race Arena?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I have some of those.";
+msgctxt "Ei'felle#repay01"
+msgid "I have some of those."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Huh? Show them to me...";
+msgctxt "Ei'felle#repay01"
+msgid "Huh? Show them to me..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Yes! That's exactly what";
+msgctxt "Ei'felle#repay01"
+msgid "Yes! That's exactly what"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "we need! Would you please";
+msgctxt "Ei'felle#repay01"
+msgid "we need! Would you please"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "donate your medals so that we";
+msgctxt "Ei'felle#repay01"
+msgid "donate your medals so that we"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "can finally make some quality";
+msgctxt "Ei'felle#repay01"
+msgid "can finally make some quality"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "products for our customers?";
+msgctxt "Ei'felle#repay01"
+msgid "products for our customers?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you happen to obtain any";
+msgctxt "Ei'felle#repay01"
+msgid "If you happen to obtain any"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals from the Monster";
+msgctxt "Ei'felle#repay01"
+msgid "medals from the Monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Race Arena in Hugel, then";
+msgctxt "Ei'felle#repay01"
+msgid "Race Arena in Hugel, then"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "please bring some of them";
+msgctxt "Ei'felle#repay01"
+msgid "please bring some of them"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to me. I'll be sure to repay";
+msgctxt "Ei'felle#repay01"
+msgid "to me. I'll be sure to repay"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you for your kindness...";
+msgctxt "Ei'felle#repay01"
+msgid "you for your kindness..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh, how have you been?";
+msgctxt "Ei'felle#repay01"
+msgid "Oh, how have you been?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you so much for";
+msgctxt "Ei'felle#repay01"
+msgid "Thank you so much for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "donating so many medals,";
+msgctxt "Ei'felle#repay01"
+msgid "donating so many medals,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "they've been helpful in my";
+msgctxt "Ei'felle#repay01"
+msgid "they've been helpful in my"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "research. Still, I need more";
+msgctxt "Ei'felle#repay01"
+msgid "research. Still, I need more"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and more of them everyday...";
+msgctxt "Ei'felle#repay01"
+msgid "and more of them everyday..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "The other Blacksmith";
+msgctxt "Ei'felle#repay01"
+msgid "The other Blacksmith"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Guildsmen are doing their";
+msgctxt "Ei'felle#repay01"
+msgid "Guildsmen are doing their"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "best to collect Prize Medals";
+msgctxt "Ei'felle#repay01"
+msgid "best to collect Prize Medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in Hugel, but they keep failing";
+msgctxt "Ei'felle#repay01"
+msgid "in Hugel, but they keep failing"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to win them! If you have any";
+msgctxt "Ei'felle#repay01"
+msgid "to win them! If you have any"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals, then may I have some?";
+msgctxt "Ei'felle#repay01"
+msgid "medals, then may I have some?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Goodness, you're carrying";
+msgctxt "Ei'felle#repay01"
+msgid "Goodness, you're carrying"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "so many things with you!";
+msgctxt "Ei'felle#repay01"
+msgid "so many things with you!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You'd better put some of";
+msgctxt "Ei'felle#repay01"
+msgid "You'd better put some of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "it away in Kafra Storage";
+msgctxt "Ei'felle#repay01"
+msgid "it away in Kafra Storage"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "before you're overwhelmed";
+msgctxt "Ei'felle#repay01"
+msgid "before you're overwhelmed"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "by the bulk of your items!";
+msgctxt "Ei'felle#repay01"
+msgid "by the bulk of your items!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Ah, welcome back! I've finally";
+msgctxt "Ei'felle#repay01"
+msgid "Ah, welcome back! I've finally"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "made a breakthrough in my";
+msgctxt "Ei'felle#repay01"
+msgid "made a breakthrough in my"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "metal research! Look, I've";
+msgctxt "Ei'felle#repay01"
+msgid "metal research! Look, I've"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "developed this Glittering";
+msgctxt "Ei'felle#repay01"
+msgid "developed this Glittering"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Jacket! It's lightweight and";
+msgctxt "Ei'felle#repay01"
+msgid "Jacket! It's lightweight and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "very durable, you see?";
+msgctxt "Ei'felle#repay01"
+msgid "very durable, you see?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I wouldn't be able to have";
+msgctxt "Ei'felle#repay01"
+msgid "I wouldn't be able to have"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "completed this without your";
+msgctxt "Ei'felle#repay01"
+msgid "completed this without your"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "help. Now, would you like to";
+msgctxt "Ei'felle#repay01"
+msgid "help. Now, would you like to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "receive this Glittering Jacket";
+msgctxt "Ei'felle#repay01"
+msgid "receive this Glittering Jacket"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "as my way of repaying you?";
+msgctxt "Ei'felle#repay01"
+msgid "as my way of repaying you?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Accept", "Wait for Further Development") == 1) {
+msgctxt "Ei'felle#repay01"
+msgid "Accept"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Accept", "Wait for Further Development") == 1) {
+msgctxt "Ei'felle#repay01"
+msgid "Wait for Further Development"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Ah, I see. You'd rather wait";
+msgctxt "Ei'felle#repay01"
+msgid "Ah, I see. You'd rather wait"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "until we develop something";
+msgctxt "Ei'felle#repay01"
+msgid "until we develop something"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "more to your liking. In that";
+msgctxt "Ei'felle#repay01"
+msgid "more to your liking. In that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "case, would you please donate";
+msgctxt "Ei'felle#repay01"
+msgid "case, would you please donate"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "more medals to my research?";
+msgctxt "Ei'felle#repay01"
+msgid "more medals to my research?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "We're always low on them...";
+msgctxt "Ei'felle#repay01"
+msgid "We're always low on them..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh, you're back!";
+msgctxt "Ei'felle#repay01"
+msgid "Oh, you're back!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thanks to all the medals";
+msgctxt "Ei'felle#repay01"
+msgid "Thanks to all the medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that you've donated, I'm now";
+msgctxt "Ei'felle#repay01"
+msgid "that you've donated, I'm now"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "able to manufacture a set";
+msgctxt "Ei'felle#repay01"
+msgid "able to manufacture a set"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of slotted armor imbued";
+msgctxt "Ei'felle#repay01"
+msgid "of slotted armor imbued"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "with a property of your choice.";
+msgctxt "Ei'felle#repay01"
+msgid "with a property of your choice."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you'd like, I can repay you";
+msgctxt "Ei'felle#repay01"
+msgid "If you'd like, I can repay you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "now by creating a set of slotted elemental armor for you, or we";
+msgctxt "Ei'felle#repay01"
+msgid "now by creating a set of slotted elemental armor for you, or we"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "can wait for you to donate more";
+msgctxt "Ei'felle#repay01"
+msgid "can wait for you to donate more"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals until I can develop";
+msgctxt "Ei'felle#repay01"
+msgid "medals until I can develop"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "something else for you.";
+msgctxt "Ei'felle#repay01"
+msgid "something else for you."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Accept Armor", "Can I have something else?", "Wait for Further Development")) {
+msgctxt "Ei'felle#repay01"
+msgid "Accept Armor"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Accept Armor", "Can I have something else?", "Wait for Further Development")) {
+msgctxt "Ei'felle#repay01"
+msgid "Can I have something else?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I can manufacture one set of";
+msgctxt "Ei'felle#repay01"
+msgid "I can manufacture one set of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "slotted Armor imbued with the";
+msgctxt "Ei'felle#repay01"
+msgid "slotted Armor imbued with the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Fire, Earth, Wind, or Water";
+msgctxt "Ei'felle#repay01"
+msgid "Fire, Earth, Wind, or Water"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "property. Which property would";
+msgctxt "Ei'felle#repay01"
+msgid "property. Which property would"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you like your armor to have?";
+msgctxt "Ei'felle#repay01"
+msgid "you like your armor to have?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Fire Property", "Earth Property", "Wind Property", "Water Property")) {
+msgctxt "Ei'felle#repay01"
+msgid "Fire Property"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Fire Property", "Earth Property", "Wind Property", "Water Property")) {
+msgctxt "Ei'felle#repay01"
+msgid "Earth Property"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Fire Property", "Earth Property", "Wind Property", "Water Property")) {
+msgctxt "Ei'felle#repay01"
+msgid "Wind Property"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Fire Property", "Earth Property", "Wind Property", "Water Property")) {
+msgctxt "Ei'felle#repay01"
+msgid "Water Property"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Something else...?";
+msgctxt "Ei'felle#repay01"
+msgid "Something else...?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh, you must mean";
+msgctxt "Ei'felle#repay01"
+msgid "Oh, you must mean"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the Glittering Jacket that";
+msgctxt "Ei'felle#repay01"
+msgid "the Glittering Jacket that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I developed earlier. After";
+msgctxt "Ei'felle#repay01"
+msgid "I developed earlier. After"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "all, I have any other items";
+msgctxt "Ei'felle#repay01"
+msgid "all, I have any other items"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to offer you for now...";
+msgctxt "Ei'felle#repay01"
+msgid "to offer you for now..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Ah, you're back! I've";
+msgctxt "Ei'felle#repay01"
+msgid "Ah, you're back! I've"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "extracted all the metal";
+msgctxt "Ei'felle#repay01"
+msgid "extracted all the metal"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "from the medals you've";
+msgctxt "Ei'felle#repay01"
+msgid "from the medals you've"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "given me, and I think I have";
+msgctxt "Ei'felle#repay01"
+msgid "given me, and I think I have"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "enough to create a Level 4";
+msgctxt "Ei'felle#repay01"
+msgid "enough to create a Level 4"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Weapon. Isn't that incredible?";
+msgctxt "Ei'felle#repay01"
+msgid "Weapon. Isn't that incredible?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you like, I can create";
+msgctxt "Ei'felle#repay01"
+msgid "If you like, I can create"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "one of these weapons for you";
+msgctxt "Ei'felle#repay01"
+msgid "one of these weapons for you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "as my way of repaying you for";
+msgctxt "Ei'felle#repay01"
+msgid "as my way of repaying you for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your help. What do you think?";
+msgctxt "Ei'felle#repay01"
+msgid "your help. What do you think?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Yes, I want a Level 4 Weapon.", "Can I have something else?") == 2) {
+msgctxt "Ei'felle#repay01"
+msgid "Yes, I want a Level 4 Weapon."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Something else?";
+msgctxt "Ei'felle#repay01"
+msgid "Something else?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh, alright then, would";
+msgctxt "Ei'felle#repay01"
+msgid "Oh, alright then, would"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you like to have a Glittering";
+msgctxt "Ei'felle#repay01"
+msgid "you like to have a Glittering"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Jacket, or a set of slotted";
+msgctxt "Ei'felle#repay01"
+msgid "Jacket, or a set of slotted"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "elemental Armor? Please go";
+msgctxt "Ei'felle#repay01"
+msgid "elemental Armor? Please go"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "ahead and make your choice~";
+msgctxt "Ei'felle#repay01"
+msgid "ahead and make your choice~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch (select("Glittering Jacket", "Fire Property Armor", "Earth Property Armor", "Wind Property Armor", "Water Property Armor", "Cancel")) {
+msgctxt "Ei'felle#repay01"
+msgid "Glittering Jacket"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch (select("Glittering Jacket", "Fire Property Armor", "Earth Property Armor", "Wind Property Armor", "Water Property Armor", "Cancel")) {
+msgctxt "Ei'felle#repay01"
+msgid "Fire Property Armor"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch (select("Glittering Jacket", "Fire Property Armor", "Earth Property Armor", "Wind Property Armor", "Water Property Armor", "Cancel")) {
+msgctxt "Ei'felle#repay01"
+msgid "Earth Property Armor"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch (select("Glittering Jacket", "Fire Property Armor", "Earth Property Armor", "Wind Property Armor", "Water Property Armor", "Cancel")) {
+msgctxt "Ei'felle#repay01"
+msgid "Wind Property Armor"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch (select("Glittering Jacket", "Fire Property Armor", "Earth Property Armor", "Wind Property Armor", "Water Property Armor", "Cancel")) {
+msgctxt "Ei'felle#repay01"
+msgid "Water Property Armor"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch (select("Glittering Jacket", "Fire Property Armor", "Earth Property Armor", "Wind Property Armor", "Water Property Armor", "Cancel")) {
+msgctxt "Ei'felle#repay01"
+msgid "Cancel"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "So you'd like to have a";
+msgctxt "Ei'felle#repay01"
+msgid "So you'd like to have a"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes .@type$[.@m]+"? Please choose";
+msgctxt "Ei'felle#repay01"
+msgid "? Please choose"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "which Level 4 Weapon";
+msgctxt "Ei'felle#repay01"
+msgid "which Level 4 Weapon"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that you want me to create.";
+msgctxt "Ei'felle#repay01"
+msgid "that you want me to create."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@choice = select (.@weapon$+":Cancel") - 1;
+msgctxt "Ei'felle#repay01"
+msgid ":Cancel"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Sure", "No") == 2) {
+msgctxt "Ei'felle#repay01"
+msgid "Sure"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Sure", "No") == 2) {
+msgctxt "Ei'felle#repay01"
+msgid "No"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh, alright...";
+msgctxt "Ei'felle#repay01"
+msgid "Oh, alright..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Still, I really need";
+msgctxt "Ei'felle#repay01"
+msgid "Still, I really need"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "those medals, so if you";
+msgctxt "Ei'felle#repay01"
+msgid "those medals, so if you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "change your mind, please";
+msgctxt "Ei'felle#repay01"
+msgid "change your mind, please"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "come back as soon as you can.";
+msgctxt "Ei'felle#repay01"
+msgid "come back as soon as you can."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh, thank you so much!";
+msgctxt "Ei'felle#repay01"
+msgid "Oh, thank you so much!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I can use the metal in those";
+msgctxt "Ei'felle#repay01"
+msgid "I can use the metal in those"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals to produce some high";
+msgctxt "Ei'felle#repay01"
+msgid "medals to produce some high"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "quality products. Now, how";
+msgctxt "Ei'felle#repay01"
+msgid "quality products. Now, how"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "shall I repay you for giving me";
+msgctxt "Ei'felle#repay01"
+msgid "shall I repay you for giving me"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "some of your Prize Medals?";
+msgctxt "Ei'felle#repay01"
+msgid "some of your Prize Medals?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Base Experience", "Job Experience", "No, I'm just glad to help.", "How's your research progressing?")) {
+msgctxt "Ei'felle#repay01"
+msgid "Base Experience"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Base Experience", "Job Experience", "No, I'm just glad to help.", "How's your research progressing?")) {
+msgctxt "Ei'felle#repay01"
+msgid "Job Experience"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Base Experience", "Job Experience", "No, I'm just glad to help.", "How's your research progressing?")) {
+msgctxt "Ei'felle#repay01"
+msgid "No, I'm just glad to help."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Base Experience", "Job Experience", "No, I'm just glad to help.", "How's your research progressing?")) {
+msgctxt "Ei'felle#repay01"
+msgid "How's your research progressing?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You just want to improve";
+msgctxt "Ei'felle#repay01"
+msgid "You just want to improve"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "yourself, huh? Well, I dunno";
+msgctxt "Ei'felle#repay01"
+msgid "yourself, huh? Well, I dunno"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "if you want to get stronger,";
+msgctxt "Ei'felle#repay01"
+msgid "if you want to get stronger,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "smarter, or faster, but I can";
+msgctxt "Ei'felle#repay01"
+msgid "smarter, or faster, but I can"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "coach you on some visualization if you like. Now, relax with me~";
+msgctxt "Ei'felle#repay01"
+msgid "coach you on some visualization if you like. Now, relax with me~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "physical development.";
+msgctxt "Ei'felle#repay01"
+msgid "physical development."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Focus... and believe.";
+msgctxt "Ei'felle#repay01"
+msgid "Focus... and believe."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Believe that you are";
+msgctxt "Ei'felle#repay01"
+msgid "Believe that you are"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "becoming what you want";
+msgctxt "Ei'felle#repay01"
+msgid "becoming what you want"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to be! B-believe... with";
+msgctxt "Ei'felle#repay01"
+msgid "to be! B-believe... with"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "all of your freakin' heart!";
+msgctxt "Ei'felle#repay01"
+msgid "all of your freakin' heart!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "*Phew* How's that?";
+msgctxt "Ei'felle#repay01"
+msgid "*Phew* How's that?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Now do you see the";
+msgctxt "Ei'felle#repay01"
+msgid "Now do you see the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "power of hope?";
+msgctxt "Ei'felle#repay01"
+msgid "power of hope?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You want to become more";
+msgctxt "Ei'felle#repay01"
+msgid "You want to become more"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "competent in your job? Um...";
+msgctxt "Ei'felle#repay01"
+msgid "competent in your job? Um..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Alright, we can do that. Just";
+msgctxt "Ei'felle#repay01"
+msgid "Alright, we can do that. Just"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "meditate with me, and we'll go";
+msgctxt "Ei'felle#repay01"
+msgid "meditate with me, and we'll go"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "do some imagery work together.";
+msgctxt "Ei'felle#repay01"
+msgid "do some imagery work together."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm real good at this you know.";
+msgctxt "Ei'felle#repay01"
+msgid "I'm real good at this you know."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "J-just... visualize";
+msgctxt "Ei'felle#repay01"
+msgid "J-just... visualize"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "yourself... being...";
+msgctxt "Ei'felle#repay01"
+msgid "yourself... being..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "t-totally... awesome!";
+msgctxt "Ei'felle#repay01"
+msgid "t-totally... awesome!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You've gotta see it, and";
+msgctxt "Ei'felle#repay01"
+msgid "You've gotta see it, and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you've gotta feel it in your";
+msgctxt "Ei'felle#repay01"
+msgid "you've gotta feel it in your"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "freakin' heart and mind!";
+msgctxt "Ei'felle#repay01"
+msgid "freakin' heart and mind!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Yeap, it doesn't matter";
+msgctxt "Ei'felle#repay01"
+msgid "Yeap, it doesn't matter"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "if it's real or imagined...";
+msgctxt "Ei'felle#repay01"
+msgid "if it's real or imagined..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Your mind will work on";
+msgctxt "Ei'felle#repay01"
+msgid "Your mind will work on"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "whatever you feed it.";
+msgctxt "Ei'felle#repay01"
+msgid "whatever you feed it."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Placebos and psychosomatic symptoms-- it all ties together.";
+msgctxt "Ei'felle#repay01"
+msgid "Placebos and psychosomatic symptoms-- it all ties together."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "What th--?! You sure";
+msgctxt "Ei'felle#repay01"
+msgid "What th--?! You sure"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you don't want anything?";
+msgctxt "Ei'felle#repay01"
+msgid "you don't want anything?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hm, well, I think it's kind";
+msgctxt "Ei'felle#repay01"
+msgid "Hm, well, I think it's kind"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of bad karma if I don't give";
+msgctxt "Ei'felle#repay01"
+msgid "of bad karma if I don't give"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you anything in return, so...";
+msgctxt "Ei'felle#repay01"
+msgid "you anything in return, so..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Think of something. Quick.";
+msgctxt "Ei'felle#repay01"
+msgid "Think of something. Quick."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Er, just use the medals";
+msgctxt "Ei'felle#repay01"
+msgid "Er, just use the medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to further your manufacturing";
+msgctxt "Ei'felle#repay01"
+msgid "to further your manufacturing"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "research, and then you can";
+msgctxt "Ei'felle#repay01"
+msgid "research, and then you can"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "pay me back if your develop";
+msgctxt "Ei'felle#repay01"
+msgid "pay me back if your develop"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "something new. It's, um, like";
+msgctxt "Ei'felle#repay01"
+msgid "something new. It's, um, like"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "an investment in your work!";
+msgctxt "Ei'felle#repay01"
+msgid "an investment in your work!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Yeah... Yeah.";
+msgctxt "Ei'felle#repay01"
+msgid "Yeah... Yeah."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Okay, I see where";
+msgctxt "Ei'felle#repay01"
+msgid "Okay, I see where"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you're coming from.";
+msgctxt "Ei'felle#repay01"
+msgid "you're coming from."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "That's pretty smart.";
+msgctxt "Ei'felle#repay01"
+msgid "That's pretty smart."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Okay, I'll repay you when";
+msgctxt "Ei'felle#repay01"
+msgid "Okay, I'll repay you when"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "we develop something new!";
+msgctxt "Ei'felle#repay01"
+msgid "we develop something new!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Anyway, I need as many";
+msgctxt "Ei'felle#repay01"
+msgid "Anyway, I need as many"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals as I can get as";
+msgctxt "Ei'felle#repay01"
+msgid "medals as I can get as"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "soon as I can. How many";
+msgctxt "Ei'felle#repay01"
+msgid "soon as I can. How many"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals do you think you";
+msgctxt "Ei'felle#repay01"
+msgid "medals do you think you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "can give me right now?";
+msgctxt "Ei'felle#repay01"
+msgid "can give me right now?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Take them all.", "How about this much?", "No, I changed my mind.")) {
+msgctxt "Ei'felle#repay01"
+msgid "Take them all."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Take them all.", "How about this much?", "No, I changed my mind.")) {
+msgctxt "Ei'felle#repay01"
+msgid "How about this much?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# switch(select("Take them all.", "How about this much?", "No, I changed my mind.")) {
+msgctxt "Ei'felle#repay01"
+msgid "No, I changed my mind."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Th-thank you!";
+msgctxt "Ei'felle#repay01"
+msgid "Th-thank you!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thank you so much!";
+msgctxt "Ei'felle#repay01"
+msgid "Thank you so much!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Your help will greatly";
+msgctxt "Ei'felle#repay01"
+msgid "Your help will greatly"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "advance my research,";
+msgctxt "Ei'felle#repay01"
+msgid "advance my research,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and I promise to repay";
+msgctxt "Ei'felle#repay01"
+msgid "and I promise to repay"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you as soon as I can!";
+msgctxt "Ei'felle#repay01"
+msgid "you as soon as I can!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Alright, please enter the";
+msgctxt "Ei'felle#repay01"
+msgid "Alright, please enter the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "number of medals that";
+msgctxt "Ei'felle#repay01"
+msgid "number of medals that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you're willing to give me.";
+msgctxt "Ei'felle#repay01"
+msgid "you're willing to give me."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Please don't enter any";
+msgctxt "Ei'felle#repay01"
+msgid "Please don't enter any"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "number greater than 100.";
+msgctxt "Ei'felle#repay01"
+msgid "number greater than 100."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Aw, so you've decided";
+msgctxt "Ei'felle#repay01"
+msgid "Aw, so you've decided"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to cancel? Well, it's your";
+msgctxt "Ei'felle#repay01"
+msgid "to cancel? Well, it's your"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "choice, but I'm still so";
+msgctxt "Ei'felle#repay01"
+msgid "choice, but I'm still so"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "disappointed. Please come";
+msgctxt "Ei'felle#repay01"
+msgid "disappointed. Please come"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "back if you change your mind...";
+msgctxt "Ei'felle#repay01"
+msgid "back if you change your mind..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Remember, you can only";
+msgctxt "Ei'felle#repay01"
+msgid "Remember, you can only"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "enter a number from 1 to 100.";
+msgctxt "Ei'felle#repay01"
+msgid "enter a number from 1 to 100."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you want to give me more";
+msgctxt "Ei'felle#repay01"
+msgid "If you want to give me more"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals, then perhaps you";
+msgctxt "Ei'felle#repay01"
+msgid "medals, then perhaps you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "should just give them all to me~";
+msgctxt "Ei'felle#repay01"
+msgid "should just give them all to me~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sorry, but I don't";
+msgctxt "Ei'felle#repay01"
+msgid "I'm sorry, but I don't"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "think you have that many";
+msgctxt "Ei'felle#repay01"
+msgid "think you have that many"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals with you. Make sure";
+msgctxt "Ei'felle#repay01"
+msgid "medals with you. Make sure"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that you offer me an amount of";
+msgctxt "Ei'felle#repay01"
+msgid "that you offer me an amount of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals that you actually have.";
+msgctxt "Ei'felle#repay01"
+msgid "medals that you actually have."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Well, I've been able to";
+msgctxt "Ei'felle#repay01"
+msgid "Well, I've been able to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "create a Glittering Jacket";
+msgctxt "Ei'felle#repay01"
+msgid "create a Glittering Jacket"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "using the medals that you've";
+msgctxt "Ei'felle#repay01"
+msgid "using the medals that you've"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "brought to me. But I just know";
+msgctxt "Ei'felle#repay01"
+msgid "brought to me. But I just know"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I can make something better";
+msgctxt "Ei'felle#repay01"
+msgid "I can make something better"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "if you'd bring me more!";
+msgctxt "Ei'felle#repay01"
+msgid "if you'd bring me more!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "As of now, I have the metal";
+msgctxt "Ei'felle#repay01"
+msgid "As of now, I have the metal"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "from ^FF0000"+ ein_medal01 +"^000000 Prizes Medals that";
+msgctxt "Ei'felle#repay01"
+msgid "from ^FF0000"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "from ^FF0000"+ ein_medal01 +"^000000 Prizes Medals that";
+msgctxt "Ei'felle#repay01"
+msgid "^000000 Prizes Medals that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you've donated to me. The more";
+msgctxt "Ei'felle#repay01"
+msgid "you've donated to me. The more"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that you bring, the closer I can get to making a new breakthrough!";
+msgctxt "Ei'felle#repay01"
+msgid "that you bring, the closer I can get to making a new breakthrough!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Do you really want";
+msgctxt "Ei'felle#repay01"
+msgid "Do you really want"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "this "+getitemname(.@arg1)+"?";
+msgctxt "Ei'felle#repay01"
+msgid "this "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You may want to forego this";
+msgctxt "Ei'felle#repay01"
+msgid "You may want to forego this"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "reward in favor of getting";
+msgctxt "Ei'felle#repay01"
+msgid "reward in favor of getting"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "something better later...";
+msgctxt "Ei'felle#repay01"
+msgid "something better later..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Are you sure that you want";
+msgctxt "Ei'felle#repay01"
+msgid "Are you sure that you want"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to accept this set of slotted";
+msgctxt "Ei'felle#repay01"
+msgid "to accept this set of slotted"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (.@arg1 == 2345) mes "Fire property Armor? If you do,";
+msgctxt "Ei'felle#repay01"
+msgid "Fire property Armor? If you do,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# else if (.@arg1 == 2351) mes "Earth property Armor? If you do,";
+msgctxt "Ei'felle#repay01"
+msgid "Earth property Armor? If you do,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# else if (.@arg1 == 2349) mes "Wind property Armor? If you do,";
+msgctxt "Ei'felle#repay01"
+msgid "Wind property Armor? If you do,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# else if (.@arg1 == 2347) mes "Water property Armor? If you do,";
+msgctxt "Ei'felle#repay01"
+msgid "Water property Armor? If you do,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'll need more medals from you";
+msgctxt "Ei'felle#repay01"
+msgid "I'll need more medals from you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to make further advancements";
+msgctxt "Ei'felle#repay01"
+msgid "to make further advancements"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in my manufacturing research.";
+msgctxt "Ei'felle#repay01"
+msgid "in my manufacturing research."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "So you wish to have a";
+msgctxt "Ei'felle#repay01"
+msgid "So you wish to have a"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to have this Level 4 Weapon,";
+msgctxt "Ei'felle#repay01"
+msgid "to have this Level 4 Weapon,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'll need to melt many of the";
+msgctxt "Ei'felle#repay01"
+msgid "I'll need to melt many of the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals that you've donated";
+msgctxt "Ei'felle#repay01"
+msgid "medals that you've donated"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to me. Shall we proceed?";
+msgctxt "Ei'felle#repay01"
+msgid "to me. Shall we proceed?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Decline", "Accept") == 1) {
+msgctxt "Ei'felle#repay01"
+msgid "Decline"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "W-wait, I changed my";
+msgctxt "Ei'felle#repay01"
+msgid "W-wait, I changed my"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "mind. Would it be fine";
+msgctxt "Ei'felle#repay01"
+msgid "mind. Would it be fine"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "if I asked you to give";
+msgctxt "Ei'felle#repay01"
+msgid "if I asked you to give"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "me a reward later?";
+msgctxt "Ei'felle#repay01"
+msgid "me a reward later?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Of course, of course.";
+msgctxt "Ei'felle#repay01"
+msgid "Of course, of course."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Remember, if you donate";
+msgctxt "Ei'felle#repay01"
+msgid "Remember, if you donate"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "more medals to me, then";
+msgctxt "Ei'felle#repay01"
+msgid "more medals to me, then"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'll be able to create items";
+msgctxt "Ei'felle#repay01"
+msgid "I'll be able to create items"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "of higher quality for you~";
+msgctxt "Ei'felle#repay01"
+msgid "of higher quality for you~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I don't think I can develop";
+msgctxt "Ei'felle#repay01"
+msgid "I don't think I can develop"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "anything better than these Level 4 Weapons, but after making";
+msgctxt "Ei'felle#repay01"
+msgid "anything better than these Level 4 Weapons, but after making"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "such a big investment, you should decide on what you want carefully.";
+msgctxt "Ei'felle#repay01"
+msgid "such a big investment, you should decide on what you want carefully."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Here you are, I trust that";
+msgctxt "Ei'felle#repay01"
+msgid "Here you are, I trust that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "serve you well. Thank you";
+msgctxt "Ei'felle#repay01"
+msgid "serve you well. Thank you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "for your help, and I hope that";
+msgctxt "Ei'felle#repay01"
+msgid "for your help, and I hope that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you'll continue to donate your";
+msgctxt "Ei'felle#repay01"
+msgid "you'll continue to donate your"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals for my metal research~";
+msgctxt "Ei'felle#repay01"
+msgid "medals for my metal research~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Great choice! I'm sure";
+msgctxt "Ei'felle#repay01"
+msgid "Great choice! I'm sure"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (.@arg1 == 2345) mes "that this set of slotted Fire";
+msgctxt "Ei'felle#repay01"
+msgid "that this set of slotted Fire"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# else if (.@arg1 == 2351) mes "that this set of slotted Earth";
+msgctxt "Ei'felle#repay01"
+msgid "that this set of slotted Earth"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# else if (.@arg1 == 2349) mes "that this set of slotted Wind";
+msgctxt "Ei'felle#repay01"
+msgid "that this set of slotted Wind"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# else if (.@arg1 == 2347) mes "that this set of slotted Water";
+msgctxt "Ei'felle#repay01"
+msgid "that this set of slotted Water"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "property Armor will serve you";
+msgctxt "Ei'felle#repay01"
+msgid "property Armor will serve you"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "well. Thank you for your help,";
+msgctxt "Ei'felle#repay01"
+msgid "well. Thank you for your help,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and if you get more medals,";
+msgctxt "Ei'felle#repay01"
+msgid "and if you get more medals,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "please donate them to me~";
+msgctxt "Ei'felle#repay01"
+msgid "please donate them to me~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Once again, I'd like to";
+msgctxt "Ei'felle#repay01"
+msgid "Once again, I'd like to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "thank you for providing";
+msgctxt "Ei'felle#repay01"
+msgid "thank you for providing"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "me with all of those medals.";
+msgctxt "Ei'felle#repay01"
+msgid "me with all of those medals."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I imagine it must have been";
+msgctxt "Ei'felle#repay01"
+msgid "I imagine it must have been"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "difficult. In any case, I would";
+msgctxt "Ei'felle#repay01"
+msgid "difficult. In any case, I would"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "appreciate your continued help~";
+msgctxt "Ei'felle#repay01"
+msgid "appreciate your continued help~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Wayne]";
+msgctxt "Wayne"
+msgid "[Wayne]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hold on a second...";
+msgctxt "Wayne"
+msgid "Hold on a second..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you want to exchange";
+msgctxt "Wayne"
+msgid "If you want to exchange"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your Prize Medals for items,";
+msgctxt "Wayne"
+msgid "your Prize Medals for items,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you'd better free up more space";
+msgctxt "Wayne"
+msgid "you'd better free up more space"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in your Inventory first. Why don't you use your Kafra Storage?";
+msgctxt "Wayne"
+msgid "in your Inventory first. Why don't you use your Kafra Storage?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hello, there! Ever wonder";
+msgctxt "Wayne"
+msgid "Hello, there! Ever wonder"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "what you could do with all";
+msgctxt "Wayne"
+msgid "what you could do with all"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the Prize Medals you can win";
+msgctxt "Wayne"
+msgid "the Prize Medals you can win"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in Monster Race Arena? You";
+msgctxt "Wayne"
+msgid "in Monster Race Arena? You"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "can donate them in Einbroch";
+msgctxt "Wayne"
+msgid "can donate them in Einbroch"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to the Blacksmith Guild...";
+msgctxt "Wayne"
+msgid "to the Blacksmith Guild..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "...Or you can exchange them";
+msgctxt "Wayne"
+msgid "...Or you can exchange them"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "for items, right here and right";
+msgctxt "Wayne"
+msgid "for items, right here and right"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "now, with me. As always, the";
+msgctxt "Wayne"
+msgid "now, with me. As always, the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "choice is really up to you.";
+msgctxt "Wayne"
+msgid "choice is really up to you."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Prize Medal Exchange", "Cancel") == 2) {
+msgctxt "Wayne"
+msgid "Prize Medal Exchange"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# if (select("Prize Medal Exchange", "Cancel") == 2) {
+msgctxt "Wayne"
+msgid "Cancel"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Well, just keep in mind";
+msgctxt "Wayne"
+msgid "Well, just keep in mind"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "that you can always come";
+msgctxt "Wayne"
+msgid "that you can always come"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to me to trade in your Prize";
+msgctxt "Wayne"
+msgid "to me to trade in your Prize"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Medals for consumable items.";
+msgctxt "Wayne"
+msgid "Medals for consumable items."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "That guy in Einbroch? Not sure";
+msgctxt "Wayne"
+msgid "That guy in Einbroch? Not sure"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "what he'd give you for them...";
+msgctxt "Wayne"
+msgid "what he'd give you for them..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "All I know is that he";
+msgctxt "Wayne"
+msgid "All I know is that he"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "needs a whole lot of medals";
+msgctxt "Wayne"
+msgid "needs a whole lot of medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "for the work that he's doing.";
+msgctxt "Wayne"
+msgid "for the work that he's doing."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Still, I hear that he just may";
+msgctxt "Wayne"
+msgid "Still, I hear that he just may"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "make your donations worth";
+msgctxt "Wayne"
+msgid "make your donations worth"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "all your effort, you know?";
+msgctxt "Wayne"
+msgid "all your effort, you know?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Now, how many Prize Medals";
+msgctxt "Wayne"
+msgid "Now, how many Prize Medals"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "would you like to exchange?";
+msgctxt "Wayne"
+msgid "would you like to exchange?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "It doesn't take a genius to";
+msgctxt "Wayne"
+msgid "It doesn't take a genius to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "figure out that you can get";
+msgctxt "Wayne"
+msgid "figure out that you can get"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "more valuable items by trading";
+msgctxt "Wayne"
+msgid "more valuable items by trading"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "more Prize Medals at a time.";
+msgctxt "Wayne"
+msgid "more Prize Medals at a time."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Now, please choose";
+msgctxt "Wayne"
+msgid "Now, please choose"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "which of the following item";
+msgctxt "Wayne"
+msgid "which of the following item"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "sets that you'd like to receive";
+msgctxt "Wayne"
+msgid "sets that you'd like to receive"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in exchange for "+.@pm[.@m]+" Prize Medal."+((getarraysize(.@item_array)<3)?" Well, we have only 1 set, but...":"");
+msgctxt "Wayne"
+msgid "in exchange for "
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "in exchange for "+.@pm[.@m]+" Prize Medal."+((getarraysize(.@item_array)<3)?" Well, we have only 1 set, but...":"");
+msgctxt "Wayne"
+msgid " Prize Medal."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hey, you don't have";
+msgctxt "Wayne"
+msgid "Hey, you don't have"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "enough Prize Medals with";
+msgctxt "Wayne"
+msgid "enough Prize Medals with"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you. Go and get some more";
+msgctxt "Wayne"
+msgid "you. Go and get some more"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "if you want to exchange";
+msgctxt "Wayne"
+msgid "if you want to exchange"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "them with me for anything.";
+msgctxt "Wayne"
+msgid "them with me for anything."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "There you go~";
+msgctxt "Wayne"
+msgid "There you go~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Thanks for using my";
+msgctxt "Wayne"
+msgid "Thanks for using my"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "service, and I hope that";
+msgctxt "Wayne"
+msgid "service, and I hope that"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "you come visit me again";
+msgctxt "Wayne"
+msgid "you come visit me again"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "soon. Enjoy the monster";
+msgctxt "Wayne"
+msgid "soon. Enjoy the monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "races, fair adventurer~";
+msgctxt "Wayne"
+msgid "races, fair adventurer~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Eocatt]";
+msgctxt "Eocatt#decoy01"
+msgid "[Eocatt]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "There's an old, humble";
+msgctxt "Eocatt#decoy01"
+msgid "There's an old, humble"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "village on the outskirts of";
+msgctxt "Eocatt#decoy01"
+msgid "village on the outskirts of"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the Schwaltzvalt Republic.";
+msgctxt "Eocatt#decoy01"
+msgid "the Schwaltzvalt Republic."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "It was just a tiny blip on the";
+msgctxt "Eocatt#decoy01"
+msgid "It was just a tiny blip on the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "map until they opened up";
+msgctxt "Eocatt#decoy01"
+msgid "map until they opened up"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "their Monster Race Arena!";
+msgctxt "Eocatt#decoy01"
+msgid "their Monster Race Arena!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you win wagers on the";
+msgctxt "Eocatt#decoy01"
+msgid "If you win wagers on the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "monster race games, you'll";
+msgctxt "Eocatt#decoy01"
+msgid "monster race games, you'll"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "be rewarded with these Prize";
+msgctxt "Eocatt#decoy01"
+msgid "be rewarded with these Prize"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Medals that are made of some";
+msgctxt "Eocatt#decoy01"
+msgid "Medals that are made of some"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "really rare metal. I hear this metal's in demand in Einbroch...";
+msgctxt "Eocatt#decoy01"
+msgid "really rare metal. I hear this metal's in demand in Einbroch..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Right, right...";
+msgctxt "Eocatt#decoy01"
+msgid "Right, right..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I remember now, the";
+msgctxt "Eocatt#decoy01"
+msgid "I remember now, the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "town was named Hugel.";
+msgctxt "Eocatt#decoy01"
+msgid "town was named Hugel."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I'm sure there's other fun";
+msgctxt "Eocatt#decoy01"
+msgid "I'm sure there's other fun"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "things to do there, but I'm sure that the Race Arena is a must!";
+msgctxt "Eocatt#decoy01"
+msgid "things to do there, but I'm sure that the Race Arena is a must!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Mudie]";
+msgctxt "Mudie#dummy01"
+msgid "[Mudie]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "The Monster Races";
+msgctxt "Mudie#dummy01"
+msgid "The Monster Races"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "are probably the biggest";
+msgctxt "Mudie#dummy01"
+msgid "are probably the biggest"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "attraction here in Hugel.";
+msgctxt "Mudie#dummy01"
+msgid "attraction here in Hugel."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "We don't have much else";
+msgctxt "Mudie#dummy01"
+msgid "We don't have much else"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "going on here, I'm afraid.";
+msgctxt "Mudie#dummy01"
+msgid "going on here, I'm afraid."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you want to go visit";
+msgctxt "Mudie#dummy01"
+msgid "If you want to go visit"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the Monster Race Arena,";
+msgctxt "Mudie#dummy01"
+msgid "the Monster Race Arena,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "just head towards the";
+msgctxt "Mudie#dummy01"
+msgid "just head towards the"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "7 'o clock direction on";
+msgctxt "Mudie#dummy01"
+msgid "7 'o clock direction on"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your Mini-Map, and look for";
+msgctxt "Mudie#dummy01"
+msgid "your Mini-Map, and look for"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the hill surrounded by a fence.";
+msgctxt "Mudie#dummy01"
+msgid "the hill surrounded by a fence."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You should find the arena";
+msgctxt "Mudie#dummy01"
+msgid "You should find the arena"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "somewhere around that area.";
+msgctxt "Mudie#dummy01"
+msgid "somewhere around that area."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Anyway, if you want to wager";
+msgctxt "Mudie#dummy01"
+msgid "Anyway, if you want to wager"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "or just watch the races, just";
+msgctxt "Mudie#dummy01"
+msgid "or just watch the races, just"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "ask one of the Eckar brothers. I hope you enjoy our little town~";
+msgctxt "Mudie#dummy01"
+msgid "ask one of the Eckar brothers. I hope you enjoy our little town~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Eccentric Scholar]";
+msgctxt "Eccentric Scholar#double"
+msgid "[Eccentric Scholar]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Let's see now...";
+msgctxt "Eccentric Scholar#double"
+msgid "Let's see now..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Monster 1's average speed";
+msgctxt "Eccentric Scholar#double"
+msgid "Monster 1's average speed"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and luck, as affected by";
+msgctxt "Eccentric Scholar#double"
+msgid "and luck, as affected by"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "wind resistance, fatigue...";
+msgctxt "Eccentric Scholar#double"
+msgid "wind resistance, fatigue..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "What's the approximate";
+msgctxt "Eccentric Scholar#double"
+msgid "What's the approximate"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "probability of winning...?";
+msgctxt "Eccentric Scholar#double"
+msgid "probability of winning...?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Crunch it into my";
+msgctxt "Eccentric Scholar#double"
+msgid "Crunch it into my"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "algorithm... Carry the two...";
+msgctxt "Eccentric Scholar#double"
+msgid "algorithm... Carry the two..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Wait, how many significant";
+msgctxt "Eccentric Scholar#double"
+msgid "Wait, how many significant"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "figures should I be using?";
+msgctxt "Eccentric Scholar#double"
+msgid "figures should I be using?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Ah, right, 7, to account for x,";
+msgctxt "Eccentric Scholar#double"
+msgid "Ah, right, 7, to account for x,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "a value representing--";
+msgctxt "Eccentric Scholar#double"
+msgid "a value representing--"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "["+ strcharinfo(PC_NAME) +"]";
+msgctxt "Eccentric Scholar#double"
+msgid "["
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Excuse me, but";
+msgctxt "Eccentric Scholar#double"
+msgid "Excuse me, but"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "what are you doing?";
+msgctxt "Eccentric Scholar#double"
+msgid "what are you doing?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "S-silence!";
+msgctxt "Eccentric Scholar#double"
+msgid "S-silence!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I must complete";
+msgctxt "Eccentric Scholar#double"
+msgid "I must complete"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "my calculations!";
+msgctxt "Eccentric Scholar#double"
+msgid "my calculations!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Now, where was I...?";
+msgctxt "Eccentric Scholar#double"
+msgid "Now, where was I...?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Blacksmith Guildsman]";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "[Blacksmith Guildsman]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "How many times must";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "How many times must"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I wager on these races?!";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "I wager on these races?!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I haven't won even once!";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "I haven't won even once!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Oh, I must have the worst";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "Oh, I must have the worst"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "luck in wagering history!";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "luck in wagering history!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I've been assigned by my";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "I've been assigned by my"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "guild to bring back some";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "guild to bring back some"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Prize Medals to Einbroch...";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "Prize Medals to Einbroch..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "They're apparently made";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "They're apparently made"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "with some rare metal, but...";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "with some rare metal, but..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "It's too hard for me to win~!";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "It's too hard for me to win~!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Run! Go go go!";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "Run! Go go go!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I need to win some";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "I need to win some"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "medals! Otherwise, I'll";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "medals! Otherwise, I'll"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "be too ashamed to return";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "be too ashamed to return"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "home to Einbroch! F-faster!";
+msgctxt "Blacksmith Guildsman#dou"
+msgid "home to Einbroch! F-faster!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Valiant Knight]";
+msgctxt "Valiant Knight#double"
+msgid "[Valiant Knight]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hey, have you been";
+msgctxt "Valiant Knight#double"
+msgid "Hey, have you been"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "wagering on the races?";
+msgctxt "Valiant Knight#double"
+msgid "wagering on the races?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "If you've got a hot tip, then";
+msgctxt "Valiant Knight#double"
+msgid "If you've got a hot tip, then"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "would you share it with me?";
+msgctxt "Valiant Knight#double"
+msgid "would you share it with me?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I've won some wagers... But";
+msgctxt "Valiant Knight#double"
+msgid "I've won some wagers... But"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I really wanna win more!";
+msgctxt "Valiant Knight#double"
+msgid "I really wanna win more!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hah hah! It's like I tell";
+msgctxt "Valiant Knight#double"
+msgid "Hah hah! It's like I tell"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "those Blacksmiths! If they";
+msgctxt "Valiant Knight#double"
+msgid "those Blacksmiths! If they"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "don't wanna lose all the time,";
+msgctxt "Valiant Knight#double"
+msgid "don't wanna lose all the time,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "then they should just bet on the same monster. Me? I always";
+msgctxt "Valiant Knight#double"
+msgid "then they should just bet on the same monster. Me? I always"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "bet on the black Deviruchi~";
+msgctxt "Valiant Knight#double"
+msgid "bet on the black Deviruchi~"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "You too...!";
+msgctxt "Valiant Knight#double"
+msgid "You too...!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Always bet";
+msgctxt "Valiant Knight#double"
+msgid "Always bet"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "on Deviruchi!";
+msgctxt "Valiant Knight#double"
+msgid "on Deviruchi!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Familiar Drunkard]";
+msgctxt "Drunkard#single"
+msgid "[Familiar Drunkard]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Grrr...! ^333333*Hiccup*^000000";
+msgctxt "Drunkard#single"
+msgid "Grrr...! ^333333*Hiccup*^000000"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I just gotta win this";
+msgctxt "Drunkard#single"
+msgid "I just gotta win this"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "next game! I hafta do it!";
+msgctxt "Drunkard#single"
+msgid "next game! I hafta do it!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Hey, you! Which number is";
+msgctxt "Drunkard#single"
+msgid "Hey, you! Which number is"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "your lucky number? Huh?";
+msgctxt "Drunkard#single"
+msgid "your lucky number? Huh?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "["+ strcharinfo(PC_NAME) +"]";
+msgctxt "Drunkard#single"
+msgid "["
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I, er...";
+msgctxt "Drunkard#single"
+msgid "I, er..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "C'mon, I need your";
+msgctxt "Drunkard#single"
+msgid "C'mon, I need your"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "lucky number cuz I ran";
+msgctxt "Drunkard#single"
+msgid "lucky number cuz I ran"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "out of mine! Tell me!";
+msgctxt "Drunkard#single"
+msgid "out of mine! Tell me!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Tell me! ^333333*Hiccup~*^000000";
+msgctxt "Drunkard#single"
+msgid "Tell me! ^333333*Hiccup~*^000000"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Blacksmith Guildsman]";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "[Blacksmith Guildsman]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "How can this be so hard?";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "How can this be so hard?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Why can't I win at least";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "Why can't I win at least"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "one of these races? Argh!";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "one of these races? Argh!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I can't go back until I get";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "I can't go back until I get"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "at least one Prize Medal!";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "at least one Prize Medal!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Yeah, I've been assigned";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "Yeah, I've been assigned"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "by the Einbroch Factory to";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "by the Einbroch Factory to"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "get some Prize Medals since";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "get some Prize Medals since"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "they're made of this rare medal. But it looks like they picked";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "they're made of this rare medal. But it looks like they picked"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the wrong guy for this job...";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "the wrong guy for this job..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I mean, I've been here";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "I mean, I've been here"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "forever and I haven't won";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "forever and I haven't won"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "anything yet! Hey, do me";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "anything yet! Hey, do me"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "a favor and give any extra";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "a favor and give any extra"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Prize Medals you might have";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "Prize Medals you might have"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "to the Einbroch Factory, okay?";
+msgctxt "Blacksmith Guildsman#sin"
+msgid "to the Einbroch Factory, okay?"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Absent Minded Man]";
+msgctxt "Absent Minded Man#single"
+msgid "[Absent Minded Man]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Say, are you here to bet";
+msgctxt "Absent Minded Man#single"
+msgid "Say, are you here to bet"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "on the monster races? I've";
+msgctxt "Absent Minded Man#single"
+msgid "on the monster races? I've"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "come all the way here, just";
+msgctxt "Absent Minded Man#single"
+msgid "come all the way here, just"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "because some strange man";
+msgctxt "Absent Minded Man#single"
+msgid "because some strange man"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "asked me to win medals. It's";
+msgctxt "Absent Minded Man#single"
+msgid "asked me to win medals. It's"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the only reason I'm in Hugel...";
+msgctxt "Absent Minded Man#single"
+msgid "the only reason I'm in Hugel..."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "But I've made more than";
+msgctxt "Absent Minded Man#single"
+msgid "But I've made more than"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "100 wagers, and haven't won";
+msgctxt "Absent Minded Man#single"
+msgid "100 wagers, and haven't won"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "any of them! I mean, if I bet";
+msgctxt "Absent Minded Man#single"
+msgid "any of them! I mean, if I bet"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "on the same monster 6 times,";
+msgctxt "Absent Minded Man#single"
+msgid "on the same monster 6 times,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I should win at least once,";
+msgctxt "Absent Minded Man#single"
+msgid "I should win at least once,"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "right? What's going on?!";
+msgctxt "Absent Minded Man#single"
+msgid "right? What's going on?!"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "[Monster Race Manager]";
+msgctxt "Monster Race Manager"
+msgid "[Monster Race Manager]"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "I can activate and";
+msgctxt "Monster Race Manager"
+msgid "I can activate and"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "deactivate the Arena";
+msgctxt "Monster Race Manager"
+msgid "deactivate the Arena"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Entry NPCs for the Single";
+msgctxt "Monster Race Manager"
+msgid "Entry NPCs for the Single"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "and Dual Monster Races.";
+msgctxt "Monster Race Manager"
+msgid "and Dual Monster Races."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@select = select("Single Race Entry - ON", "Dual Race Entry - ON", "Single Race Entry - OFF", "Dual Race Entry - OFF");
+msgctxt "Monster Race Manager"
+msgid "Single Race Entry - ON"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@select = select("Single Race Entry - ON", "Dual Race Entry - ON", "Single Race Entry - OFF", "Dual Race Entry - OFF");
+msgctxt "Monster Race Manager"
+msgid "Dual Race Entry - ON"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@select = select("Single Race Entry - ON", "Dual Race Entry - ON", "Single Race Entry - OFF", "Dual Race Entry - OFF");
+msgctxt "Monster Race Manager"
+msgid "Single Race Entry - OFF"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# .@select = select("Single Race Entry - ON", "Dual Race Entry - ON", "Single Race Entry - OFF", "Dual Race Entry - OFF");
+msgctxt "Monster Race Manager"
+msgid "Dual Race Entry - OFF"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Please enter";
+msgctxt "Monster Race Manager"
+msgid "Please enter"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "the password.";
+msgctxt "Monster Race Manager"
+msgid "the password."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Error.";
+msgctxt "Monster Race Manager"
+msgid "Error."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Incorrect password.";
+msgctxt "Monster Race Manager"
+msgid "Incorrect password."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "The Single Monster";
+msgctxt "Monster Race Manager"
+msgid "The Single Monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Race Entry NPC is ON.";
+msgctxt "Monster Race Manager"
+msgid "Race Entry NPC is ON."
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "The Dual Monster";
+msgctxt "Monster Race Manager"
+msgid "The Dual Monster"
+msgstr ""
+
+#: npc/other/monster_race.txt
+# mes "Race Entry NPC is OFF.";
+msgctxt "Monster Race Manager"
+msgid "Race Entry NPC is OFF."
+msgstr ""

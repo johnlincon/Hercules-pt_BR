@@ -1,0 +1,188 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 06:35-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes("[Airport Staff]");
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "[Airport Staff]"
+msgstr "[Equipe do Aeroplano]"
+
+# mes("Welcome to the\r"
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid ""
+"Welcome to the\rLighthalzen Airport,\rwhere we offer nonstop\rflights to "
+"Einbroch, Juno and Hugel."
+msgstr ""
+"Bem-vindo ao aeroporto de Lighthalzen, onde oferecemos vôos sem escalas para "
+"Einbroch, Juno e Hugel."
+
+# if (select("Board the Airship.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Board the Airship."
+msgstr "Embarque na Aeronave."
+
+# if (select("Board the Airship.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes("The boarding fee is\r"
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid ""
+"The boarding fee is\r1,200 zeny, but you can\rwaive the fee if you redeem\ra "
+"Free Ticket for Airship."
+msgstr ""
+"A taxa de embarque é de 1.200 zeny, mas você pode renunciar à taxa se "
+"resgatar um bilhete gratuito para a Aeronave."
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "No"
+msgstr "Não"
+
+# mes("[Airship Staff]");
+#: npc/airports/lighthalzen.txt
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "[Airship Staff]"
+msgstr "[Equipe do Aeroplano]"
+
+# mes("I'm sorry, but you don't\r"
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "I'm sorry, but you don't\rhave 1,200 zeny to pay\rfor the boarding fee."
+msgstr ""
+"Sinto muito, mas você não tem 1.200 zeny para pagar a taxa de embarque."
+
+# mes("Thank you and\r"
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Thank you and\rplease come again."
+msgstr "Obrigado e, por favor, venha novamente."
+
+# mes("Have a good day~");
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Airport Staff#lhz_air1a::lhz_airport1"
+msgid "Have a good day~"
+msgstr "Tenha um bom dia~"
+
+# mes("[Arrival Staff]");
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "[Arrival Staff]"
+msgstr "[Chegada do pessoal]"
+
+# mes("Welcome to Lighthalzen Airport.");
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "Welcome to Lighthalzen Airport."
+msgstr "Bem-vindo ao Aeroporto de Lighthalzen."
+
+# mes("Please let me guide you to the\r"
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid ""
+"Please let me guide you to the\rmain terminal if you are arriving from your "
+"flight. Otherwise, please\rboard the departing Airship to reach your "
+"intended destination."
+msgstr ""
+"Por favor, deixe-me guiá-lo até o terminal principal se você estiver "
+"chegando de seu vôo. Caso contrário, por favor, embarque na aeronave de "
+"partida para chegar ao destino pretendido."
+
+# if (select("Exit to main terminal.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "Exit to main terminal."
+msgstr "Saída para o terminal principal."
+
+# if (select("Exit to main terminal.", "Cancel.") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes("Once you're in the main terminal, you will need to pay the fee again\r"
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid ""
+"Once you're in the main terminal, you will need to pay the fee again\rto "
+"board an Airship. You should\ronly exit if Lighthalzen is your intended "
+"destination. Shall we\rproceed to the main terminal?"
+msgstr ""
+"Uma vez no terminal principal, você precisará pagar a taxa novamente para "
+"embarcar em um dirigível. Você só deve sair se Lighthalzen for seu destino "
+"pretendido. Devemos prosseguir para o terminal principal?"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) {
+#: npc/airports/lighthalzen.txt
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid "No"
+msgstr "Não"
+
+# mes("Alright, thank you\r"
+#: npc/airports/lighthalzen.txt
+#, fuzzy
+msgctxt "Arrival Staff#lhz_air2a::lhz_airport2"
+msgid ""
+"Alright, thank you\rfor your patronage\rand I hope you have\ra pleasant "
+"flight~"
+msgstr ""
+"Muito bem, obrigado por seu patrocínio e espero que você tenha um vôo "
+"agradável~"

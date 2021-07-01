@@ -1,0 +1,800 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/merchants/hair_dyer.txt
+# mes "[Hairdresser Jovovich]";
+msgctxt "Jovovich"
+msgid "[Hairdresser Jovovich]"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Welcome~!";
+msgctxt "Jovovich"
+msgid "Welcome~!"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "How may I help you?";
+msgctxt "Jovovich"
+msgid "How may I help you?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Oh, no! Your hair is damaged. It seems as if you may need professional treatment. Come sit over here, please. Come.";
+msgctxt "Jovovich"
+msgid "Oh, no! Your hair is damaged. It seems as if you may need professional treatment. Come sit over here, please. Come."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Eh!? Oh my! Oh no no no no! Your hair is sooo damaged! It's not good if you leave your hair like this.";
+msgctxt "Jovovich"
+msgid "Eh!? Oh my! Oh no no no no! Your hair is sooo damaged! It's not good if you leave your hair like this."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Would you let me treat your hair? Please?";
+msgctxt "Jovovich"
+msgid "Would you let me treat your hair? Please?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Wow! Your hair would be perfect once it's dyed~ How about dying your hair for a change?";
+msgctxt "Jovovich"
+msgid "Wow! Your hair would be perfect once it's dyed~ How about dying your hair for a change?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Dye Hair", "Tips and Information", "Cancel")) {
+msgctxt "Jovovich"
+msgid "Dye Hair"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Dye Hair", "Tips and Information", "Cancel")) {
+msgctxt "Jovovich"
+msgid "Tips and Information"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Dye Hair", "Tips and Information", "Cancel")) {
+msgctxt "Jovovich"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Yes yes, good choice~";
+msgctxt "Jovovich"
+msgid "Yes yes, good choice~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Well then, this is your chance for a make-over, your chance to blossom in beauty! Choose the color you would like.";
+msgctxt "Jovovich"
+msgid "Well then, this is your chance for a make-over, your chance to blossom in beauty! Choose the color you would like."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "What do you think? Did you want a different color?";
+msgctxt "Jovovich"
+msgid "What do you think? Did you want a different color?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Jovovich"
+msgid "Yes"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# if (select("Yes", "No") == 1) {
+msgctxt "Jovovich"
+msgid "No"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Okay! Choose the color that you would like.";
+msgctxt "Jovovich"
+msgid "Okay! Choose the color that you would like."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Hmm, I'm sort of disappointed. I wanted to do a better job. But I promise I'll do it better next time. Please come again~";
+msgctxt "Jovovich"
+msgid "Hmm, I'm sort of disappointed. I wanted to do a better job. But I promise I'll do it better next time. Please come again~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Violet, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Black, please.", "Actually, I like my hair as it is.")) {
+msgctxt "Jovovich"
+msgid "Red, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Violet, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Black, please.", "Actually, I like my hair as it is.")) {
+msgctxt "Jovovich"
+msgid "Yellow, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Violet, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Black, please.", "Actually, I like my hair as it is.")) {
+msgctxt "Jovovich"
+msgid "Violet, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Violet, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Black, please.", "Actually, I like my hair as it is.")) {
+msgctxt "Jovovich"
+msgid "Orange, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Violet, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Black, please.", "Actually, I like my hair as it is.")) {
+msgctxt "Jovovich"
+msgid "Green, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Violet, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Black, please.", "Actually, I like my hair as it is.")) {
+msgctxt "Jovovich"
+msgid "Blue, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Violet, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Black, please.", "Actually, I like my hair as it is.")) {
+msgctxt "Jovovich"
+msgid "White, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Violet, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Black, please.", "Actually, I like my hair as it is.")) {
+msgctxt "Jovovich"
+msgid "Black, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Violet, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Black, please.", "Actually, I like my hair as it is.")) {
+msgctxt "Jovovich"
+msgid "Actually, I like my hair as it is."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "You must like your hair color~";
+msgctxt "Jovovich"
+msgid "You must like your hair color~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Eehh~? You're not going to dye your hair? I'm a little sad...";
+msgctxt "Jovovich"
+msgid "Eehh~? You're not going to dye your hair? I'm a little sad..."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Eh? But that's the hair color you already have. Please choose a different color.";
+msgctxt "Jovovich"
+msgid "Eh? But that's the hair color you already have. Please choose a different color."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "The fee is 1000 zeny. Do you not have enough...?";
+msgctxt "Jovovich"
+msgid "The fee is 1000 zeny. Do you not have enough...?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "When you're feeling down , when you get dumped, when you want to impress someone, or even when you just want to stand out...";
+msgctxt "Jovovich"
+msgid "When you're feeling down , when you get dumped, when you want to impress someone, or even when you just want to stand out..."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "For that special place and time, wouldn't you want a hairstyle of your very own? As long as you have the appropriate dyestuffs, I will make your hair look wonderful.";
+msgctxt "Jovovich"
+msgid "For that special place and time, wouldn't you want a hairstyle of your very own? As long as you have the appropriate dyestuffs, I will make your hair look wonderful."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "And try not to worry too much about the fee. Acquiring beauty is the same as acquiring everything. Hehe~";
+msgctxt "Jovovich"
+msgid "And try not to worry too much about the fee. Acquiring beauty is the same as acquiring everything. Hehe~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "* Fees and Information *";
+msgctxt "Jovovich"
+msgid "* Fees and Information *"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "- 1 Dyestuffs item of the color of hair you want.";
+msgctxt "Jovovich"
+msgid "- 1 Dyestuffs item of the color of hair you want."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "- 1000 zeny fee.";
+msgctxt "Jovovich"
+msgid "- 1000 zeny fee."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Men or Women...";
+msgctxt "Jovovich"
+msgid "Men or Women..."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Everyone has the right and obligation to be beautiful.";
+msgctxt "Jovovich"
+msgid "Everyone has the right and obligation to be beautiful."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Eh?! But you need the item '"+getitemname(getarg(0))+"' to dye your hair "+getarg(1)+"...";
+msgctxt "Jovovich"
+msgid "Eh?! But you need the item '"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "[Rossa]";
+msgctxt "Hair Dyer#lich"
+msgid "[Rossa]"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Welcome, come in~";
+msgctxt "Hair Dyer#lich"
+msgid "Welcome, come in~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Oh, I see that you take";
+msgctxt "Hair Dyer#lich"
+msgid "Oh, I see that you take"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "much better care of your";
+msgctxt "Hair Dyer#lich"
+msgid "much better care of your"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "hair than those other boys.";
+msgctxt "Hair Dyer#lich"
+msgid "hair than those other boys."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Now would you like to dye";
+msgctxt "Hair Dyer#lich"
+msgid "Now would you like to dye"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "your hair another color?";
+msgctxt "Hair Dyer#lich"
+msgid "your hair another color?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Oh, wow~ Where did";
+msgctxt "Hair Dyer#lich"
+msgid "Oh, wow~ Where did"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "you get your hair styled?";
+msgctxt "Hair Dyer#lich"
+msgid "you get your hair styled?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "I love it! But... It would";
+msgctxt "Hair Dyer#lich"
+msgid "I love it! But... It would"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "be even more beautiful if";
+msgctxt "Hair Dyer#lich"
+msgid "be even more beautiful if"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "you dyed your hair. What";
+msgctxt "Hair Dyer#lich"
+msgid "you dyed your hair. What"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "do you think about that?";
+msgctxt "Hair Dyer#lich"
+msgid "do you think about that?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Dye Hair", "Coloring Information", "Cancel")) {
+msgctxt "Hair Dyer#lich"
+msgid "Dye Hair"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Dye Hair", "Coloring Information", "Cancel")) {
+msgctxt "Hair Dyer#lich"
+msgid "Coloring Information"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Dye Hair", "Coloring Information", "Cancel")) {
+msgctxt "Hair Dyer#lich"
+msgid "Cancel"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Ho ho ho ho~";
+msgctxt "Hair Dyer#lich"
+msgid "Ho ho ho ho~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "So which color would";
+msgctxt "Hair Dyer#lich"
+msgid "So which color would"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "you like to try? Something";
+msgctxt "Hair Dyer#lich"
+msgid "you like to try? Something"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "vivid or dark? Sexy or cute?";
+msgctxt "Hair Dyer#lich"
+msgid "vivid or dark? Sexy or cute?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Ooh, I like this color!";
+msgctxt "Hair Dyer#lich"
+msgid "Ooh, I like this color!"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "But would you like to";
+msgctxt "Hair Dyer#lich"
+msgid "But would you like to"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "try a different one?";
+msgctxt "Hair Dyer#lich"
+msgid "try a different one?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Yes", "No")) {
+msgctxt "Hair Dyer#lich"
+msgid "Yes"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Yes", "No")) {
+msgctxt "Hair Dyer#lich"
+msgid "No"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Please select";
+msgctxt "Hair Dyer#lich"
+msgid "Please select"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "another color~";
+msgctxt "Hair Dyer#lich"
+msgid "another color~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "An excellent choice~";
+msgctxt "Hair Dyer#lich"
+msgid "An excellent choice~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Alright then, thank you";
+msgctxt "Hair Dyer#lich"
+msgid "Alright then, thank you"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "for using my service and";
+msgctxt "Hair Dyer#lich"
+msgid "for using my service and"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "I hope you come by again!";
+msgctxt "Hair Dyer#lich"
+msgid "I hope you come by again!"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Purple, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Dark Brown, please.", "I like my hair color.")) {
+msgctxt "Hair Dyer#lich"
+msgid "Red, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Purple, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Dark Brown, please.", "I like my hair color.")) {
+msgctxt "Hair Dyer#lich"
+msgid "Yellow, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Purple, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Dark Brown, please.", "I like my hair color.")) {
+msgctxt "Hair Dyer#lich"
+msgid "Purple, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Purple, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Dark Brown, please.", "I like my hair color.")) {
+msgctxt "Hair Dyer#lich"
+msgid "Orange, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Purple, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Dark Brown, please.", "I like my hair color.")) {
+msgctxt "Hair Dyer#lich"
+msgid "Green, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Purple, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Dark Brown, please.", "I like my hair color.")) {
+msgctxt "Hair Dyer#lich"
+msgid "Blue, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Purple, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Dark Brown, please.", "I like my hair color.")) {
+msgctxt "Hair Dyer#lich"
+msgid "White, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Purple, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Dark Brown, please.", "I like my hair color.")) {
+msgctxt "Hair Dyer#lich"
+msgid "Dark Brown, please."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# switch(select("Red, please.", "Yellow, please.", "Purple, please.", "Orange, please.", "Green, please.", "Blue, please.", "White, please.", "Dark Brown, please.", "I like my hair color.")) {
+msgctxt "Hair Dyer#lich"
+msgid "I like my hair color."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Are you sure?";
+msgctxt "Hair Dyer#lich"
+msgid "Are you sure?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Alright then, you";
+msgctxt "Hair Dyer#lich"
+msgid "Alright then, you"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "know what's best for";
+msgctxt "Hair Dyer#lich"
+msgid "know what's best for"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "your beauty and to tell";
+msgctxt "Hair Dyer#lich"
+msgid "your beauty and to tell"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "the truth, I agree with you~";
+msgctxt "Hair Dyer#lich"
+msgid "the truth, I agree with you~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Oh, I see. Still, I can't";
+msgctxt "Hair Dyer#lich"
+msgid "Oh, I see. Still, I can't"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "help but feel so disappointed.";
+msgctxt "Hair Dyer#lich"
+msgid "help but feel so disappointed."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "You'd look so good if you dyed";
+msgctxt "Hair Dyer#lich"
+msgid "You'd look so good if you dyed"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "your hair a different color~";
+msgctxt "Hair Dyer#lich"
+msgid "your hair a different color~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Hmm, your hair color";
+msgctxt "Hair Dyer#lich"
+msgid "Hmm, your hair color"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "is still fine, so there's";
+msgctxt "Hair Dyer#lich"
+msgid "is still fine, so there's"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "no need to dye it the same";
+msgctxt "Hair Dyer#lich"
+msgid "no need to dye it the same"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "color again, if that's what";
+msgctxt "Hair Dyer#lich"
+msgid "color again, if that's what"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "you're worried about.";
+msgctxt "Hair Dyer#lich"
+msgid "you're worried about."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Oh, I'm sorry dear,";
+msgctxt "Hair Dyer#lich"
+msgid "Oh, I'm sorry dear,"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "but I can't dye your";
+msgctxt "Hair Dyer#lich"
+msgid "but I can't dye your"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "hair if you didn't bring";
+msgctxt "Hair Dyer#lich"
+msgid "hair if you didn't bring"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Scarlet Dyestuffs with you...";
+msgctxt "Hair Dyer#lich"
+msgid "Scarlet Dyestuffs with you..."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Lemon Dyestuffs with you...";
+msgctxt "Hair Dyer#lich"
+msgid "Lemon Dyestuffs with you..."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Violet Dyestuffs with you...";
+msgctxt "Hair Dyer#lich"
+msgid "Violet Dyestuffs with you..."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Orange Dyestuffs with you...";
+msgctxt "Hair Dyer#lich"
+msgid "Orange Dyestuffs with you..."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Darkgreen Dyestuffs";
+msgctxt "Hair Dyer#lich"
+msgid "Darkgreen Dyestuffs"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "with you. Would you come";
+msgctxt "Hair Dyer#lich"
+msgid "with you. Would you come"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "back after you get some?";
+msgctxt "Hair Dyer#lich"
+msgid "back after you get some?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Cobaltblue Dyestuffs";
+msgctxt "Hair Dyer#lich"
+msgid "Cobaltblue Dyestuffs"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "White Dyestuffs with you...";
+msgctxt "Hair Dyer#lich"
+msgid "White Dyestuffs with you..."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Black Dyestuffs with you...";
+msgctxt "Hair Dyer#lich"
+msgid "Black Dyestuffs with you..."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Oh, I'm so sorry dear,";
+msgctxt "Hair Dyer#lich"
+msgid "Oh, I'm so sorry dear,"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "but my service fee is";
+msgctxt "Hair Dyer#lich"
+msgid "but my service fee is"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "1,000 zeny. Did you forget";
+msgctxt "Hair Dyer#lich"
+msgid "1,000 zeny. Did you forget"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "to bring your money with you?";
+msgctxt "Hair Dyer#lich"
+msgid "to bring your money with you?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "When you're feeling";
+msgctxt "Hair Dyer#lich"
+msgid "When you're feeling"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "down, when you just want";
+msgctxt "Hair Dyer#lich"
+msgid "down, when you just want"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "to look nice for the one you";
+msgctxt "Hair Dyer#lich"
+msgid "to look nice for the one you"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "love, or when you just want";
+msgctxt "Hair Dyer#lich"
+msgid "love, or when you just want"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "a different look, why don't";
+msgctxt "Hair Dyer#lich"
+msgid "a different look, why don't"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "you dye your hair?";
+msgctxt "Hair Dyer#lich"
+msgid "you dye your hair?"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "All you need is one";
+msgctxt "Hair Dyer#lich"
+msgid "All you need is one"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "Dyestuffs item of the";
+msgctxt "Hair Dyer#lich"
+msgid "Dyestuffs item of the"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "color that you want to";
+msgctxt "Hair Dyer#lich"
+msgid "color that you want to"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "dye your hair, as well as";
+msgctxt "Hair Dyer#lich"
+msgid "dye your hair, as well as"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "a 1,000 zeny service fee.";
+msgctxt "Hair Dyer#lich"
+msgid "a 1,000 zeny service fee."
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "I'm here for your beauty needs~";
+msgctxt "Hair Dyer#lich"
+msgid "I'm here for your beauty needs~"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "You know, when you";
+msgctxt "Hair Dyer#lich"
+msgid "You know, when you"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "put some effort into";
+msgctxt "Hair Dyer#lich"
+msgid "put some effort into"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "your appearance, you'll";
+msgctxt "Hair Dyer#lich"
+msgid "your appearance, you'll"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "not only look better, but";
+msgctxt "Hair Dyer#lich"
+msgid "not only look better, but"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "you'll feel better about";
+msgctxt "Hair Dyer#lich"
+msgid "you'll feel better about"
+msgstr ""
+
+#: npc/merchants/hair_dyer.txt
+# mes "yourself. Makes sense, right?";
+msgctxt "Hair Dyer#lich"
+msgid "yourself. Makes sense, right?"
+msgstr ""

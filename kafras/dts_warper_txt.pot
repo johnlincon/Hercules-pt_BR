@@ -1,0 +1,1430 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/kafras/dts_warper.txt
+# mes "[Kafra Voting Staff]";
+msgctxt "F_VoteKafra"
+msgid "[Kafra Voting Staff]"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Greetings, adventurer.";
+msgctxt "F_VoteKafra"
+msgid "Greetings, adventurer."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "As you may be aware, we";
+msgctxt "F_VoteKafra"
+msgid "As you may be aware, we"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "are holding an election to";
+msgctxt "F_VoteKafra"
+msgid "are holding an election to"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "determine which company will";
+msgctxt "F_VoteKafra"
+msgid "determine which company will"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "provide the Dungeon Teleport";
+msgctxt "F_VoteKafra"
+msgid "provide the Dungeon Teleport"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Service. How may I help you?";
+msgctxt "F_VoteKafra"
+msgid "Service. How may I help you?"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Reason for Election", "Cast a Vote", "Use Teleport Service", "Cancel")) {
+msgctxt "F_VoteKafra"
+msgid "Reason for Election"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Reason for Election", "Cast a Vote", "Use Teleport Service", "Cancel")) {
+msgctxt "F_VoteKafra"
+msgid "Cast a Vote"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Reason for Election", "Cast a Vote", "Use Teleport Service", "Cancel")) {
+msgctxt "F_VoteKafra"
+msgid "Use Teleport Service"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Reason for Election", "Cast a Vote", "Use Teleport Service", "Cancel")) {
+msgctxt "F_VoteKafra"
+msgid "Cancel"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Cool Event Corp and the";
+msgctxt "F_VoteKafra"
+msgid "Cool Event Corp and the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Kafra Corporation have both";
+msgctxt "F_VoteKafra"
+msgid "Kafra Corporation have both"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "been planning to provide a";
+msgctxt "F_VoteKafra"
+msgid "been planning to provide a"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Teleport Service to dungeons.";
+msgctxt "F_VoteKafra"
+msgid "Teleport Service to dungeons."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "But due to technological";
+msgctxt "F_VoteKafra"
+msgid "But due to technological"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "limitations, only one company";
+msgctxt "F_VoteKafra"
+msgid "limitations, only one company"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "can serve as provider for this";
+msgctxt "F_VoteKafra"
+msgid "can serve as provider for this"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Dungeon Teleport Service at a";
+msgctxt "F_VoteKafra"
+msgid "Dungeon Teleport Service at a"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "time. There, both companies have agreed to hold special elections.";
+msgctxt "F_VoteKafra"
+msgid "time. There, both companies have agreed to hold special elections."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Each company has its own";
+msgctxt "F_VoteKafra"
+msgid "Each company has its own"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "policies and guarantees in";
+msgctxt "F_VoteKafra"
+msgid "policies and guarantees in"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "regards to the Dungeon Teleport Service, and in this election, the";
+msgctxt "F_VoteKafra"
+msgid "regards to the Dungeon Teleport Service, and in this election, the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "customers will ultimately decide and choose what's best for them.";
+msgctxt "F_VoteKafra"
+msgid "customers will ultimately decide and choose what's best for them."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "For now, the Dungeon";
+msgctxt "F_VoteKafra"
+msgid "For now, the Dungeon"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Teleport Service will be";
+msgctxt "F_VoteKafra"
+msgid "Teleport Service will be"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "provided in a series of trial periods. This way, customers can";
+msgctxt "F_VoteKafra"
+msgid "provided in a series of trial periods. This way, customers can"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "see the benefits of both companies before making the final decision.";
+msgctxt "F_VoteKafra"
+msgid "see the benefits of both companies before making the final decision."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "If you are qualified,";
+msgctxt "F_VoteKafra"
+msgid "If you are qualified,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "please vote in each election";
+msgctxt "F_VoteKafra"
+msgid "please vote in each election"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "to decide which company will";
+msgctxt "F_VoteKafra"
+msgid "to decide which company will"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Service for the next trial period. Thank you for your support~";
+msgctxt "F_VoteKafra"
+msgid "Service for the next trial period. Thank you for your support~"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "We, the Kafra Corporation,";
+msgctxt "F_VoteKafra"
+msgid "We, the Kafra Corporation,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "are planning to provide the";
+msgctxt "F_VoteKafra"
+msgid "are planning to provide the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Dungeon Teleport Service";
+msgctxt "F_VoteKafra"
+msgid "Dungeon Teleport Service"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "to the following dungeons...";
+msgctxt "F_VoteKafra"
+msgid "to the following dungeons..."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes " ";
+msgctxt "F_VoteKafra"
+msgid " "
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "^FF0000Toy Factory, Level 2^000000";
+msgctxt "F_VoteKafra"
+msgid "^FF0000Toy Factory, Level 2^000000"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "^FF0000Al De Baran Clock Tower, Level 3 ^000000";
+msgctxt "F_VoteKafra"
+msgid "^FF0000Al De Baran Clock Tower, Level 3 ^000000"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "^FF0000Al De Baran Clock Tower, Level 3 Lava Dungeon, Level 2^000000";
+msgctxt "F_VoteKafra"
+msgid "^FF0000Al De Baran Clock Tower, Level 3 Lava Dungeon, Level 2^000000"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "If you are interested in";
+msgctxt "F_VoteKafra"
+msgid "If you are interested in"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "a Teleport Service to this";
+msgctxt "F_VoteKafra"
+msgid "a Teleport Service to this"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "area, then please vote for";
+msgctxt "F_VoteKafra"
+msgid "area, then please vote for"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "us. Would you like to vote";
+msgctxt "F_VoteKafra"
+msgid "us. Would you like to vote"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "for the Kafra Corporation?";
+msgctxt "F_VoteKafra"
+msgid "for the Kafra Corporation?"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("No", "Yes")) {
+msgctxt "F_VoteKafra"
+msgid "No"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("No", "Yes")) {
+msgctxt "F_VoteKafra"
+msgid "Yes"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I understand. But if you";
+msgctxt "F_VoteKafra"
+msgid "I understand. But if you"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "happen to change your mind,";
+msgctxt "F_VoteKafra"
+msgid "happen to change your mind,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "you are welcome to come back";
+msgctxt "F_VoteKafra"
+msgid "you are welcome to come back"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "at any time. Thank you and";
+msgctxt "F_VoteKafra"
+msgid "at any time. Thank you and"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "have a good day, adventurer.";
+msgctxt "F_VoteKafra"
+msgid "have a good day, adventurer."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Thanks for your vote!";
+msgctxt "F_VoteKafra"
+msgid "Thanks for your vote!"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "We'll continue to do our best";
+msgctxt "F_VoteKafra"
+msgid "We'll continue to do our best"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "to provide the highest quality";
+msgctxt "F_VoteKafra"
+msgid "to provide the highest quality"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "service to our customers. Have";
+msgctxt "F_VoteKafra"
+msgid "service to our customers. Have"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "a good day and remember that the Kafra service is on your side~";
+msgctxt "F_VoteKafra"
+msgid "a good day and remember that the Kafra service is on your side~"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I'm sorry, but you've ";
+msgctxt "F_VoteKafra"
+msgid "I'm sorry, but you've "
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "already participated in";
+msgctxt "F_VoteKafra"
+msgid "already participated in"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "this election. When the next";
+msgctxt "F_VoteKafra"
+msgid "this election. When the next"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "election comes, you will be";
+msgctxt "F_VoteKafra"
+msgid "election comes, you will be"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "able to vote once again.";
+msgctxt "F_VoteKafra"
+msgid "able to vote once again."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Thank you for your support~";
+msgctxt "F_VoteKafra"
+msgid "Thank you for your support~"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "After totalling the number of";
+msgctxt "F_VoteKafra"
+msgid "After totalling the number of"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "votes from the last election,";
+msgctxt "F_VoteKafra"
+msgid "votes from the last election,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "we have concluded that the";
+msgctxt "F_VoteKafra"
+msgid "we have concluded that the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "minimum voter participation";
+msgctxt "F_VoteKafra"
+msgid "minimum voter participation"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "condition was not satisfied.";
+msgctxt "F_VoteKafra"
+msgid "condition was not satisfied."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Therefore, another election to";
+msgctxt "F_VoteKafra"
+msgid "Therefore, another election to"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Service will be held. The Kafra";
+msgctxt "F_VoteKafra"
+msgid "Service will be held. The Kafra"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Corporation will teleport to";
+msgctxt "F_VoteKafra"
+msgid "Corporation will teleport to"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "the following dungeons...";
+msgctxt "F_VoteKafra"
+msgid "the following dungeons..."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "a Teleport Service to these";
+msgctxt "F_VoteKafra"
+msgid "a Teleport Service to these"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "areas, then please vote for";
+msgctxt "F_VoteKafra"
+msgid "areas, then please vote for"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Service will be held. However,";
+msgctxt "F_VoteKafra"
+msgid "Service will be held. However,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "since you've already voted, you cannot vote again in this election.";
+msgctxt "F_VoteKafra"
+msgid "since you've already voted, you cannot vote again in this election."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Your participation in these";
+msgctxt "F_VoteKafra"
+msgid "Your participation in these"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "elections is much appreciated,";
+msgctxt "F_VoteKafra"
+msgid "elections is much appreciated,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "and we encourage you to vote";
+msgctxt "F_VoteKafra"
+msgid "and we encourage you to vote"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "again during the next election.";
+msgctxt "F_VoteKafra"
+msgid "again during the next election."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Thank you and have a nice day~";
+msgctxt "F_VoteKafra"
+msgid "Thank you and have a nice day~"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I'm sorry, but there are";
+msgctxt "F_VoteKafra"
+msgid "I'm sorry, but there are"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "no elections taking place at";
+msgctxt "F_VoteKafra"
+msgid "no elections taking place at"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "this time. When the polls are";
+msgctxt "F_VoteKafra"
+msgid "this time. When the polls are"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "open, we encourage you to take";
+msgctxt "F_VoteKafra"
+msgid "open, we encourage you to take"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "part and voice your opinions.";
+msgctxt "F_VoteKafra"
+msgid "part and voice your opinions."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Thank you for choosing the";
+msgctxt "F_VoteKafra"
+msgid "Thank you for choosing the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Dungeon Teleport Service.";
+msgctxt "F_VoteKafra"
+msgid "Dungeon Teleport Service."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Please keep in mind that the";
+msgctxt "F_VoteKafra"
+msgid "Please keep in mind that the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Free Warp Tickets and Kafra";
+msgctxt "F_VoteKafra"
+msgid "Free Warp Tickets and Kafra"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Special Reserve Points do not";
+msgctxt "F_VoteKafra"
+msgid "Special Reserve Points do not"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "apply in this special service.";
+msgctxt "F_VoteKafra"
+msgid "apply in this special service."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Toy Factory, Level 2 -> 4,000 z", "Cancel")) {
+msgctxt "F_VoteKafra"
+msgid "Toy Factory, Level 2 -> 4,000 z"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I'm sorry, but you don't";
+msgctxt "F_VoteKafra"
+msgid "I'm sorry, but you don't"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "have enough money to pay";
+msgctxt "F_VoteKafra"
+msgid "have enough money to pay"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "the 4,000 zeny fee to teleport";
+msgctxt "F_VoteKafra"
+msgid "the 4,000 zeny fee to teleport"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "to the Toy Factory. Please";
+msgctxt "F_VoteKafra"
+msgid "to the Toy Factory. Please"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "check your funds again.";
+msgctxt "F_VoteKafra"
+msgid "check your funds again."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "We, here at Kafra Corporation,";
+msgctxt "F_VoteKafra"
+msgid "We, here at Kafra Corporation,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "are always endeavoring to provide you with the best services. We hope that we meet your adventuring needs and standards of excellence.";
+msgctxt "F_VoteKafra"
+msgid "are always endeavoring to provide you with the best services. We hope that we meet your adventuring needs and standards of excellence."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Toy Factory, Level 2 -> 4,000 z", "Clock Tower, Level 3 -> 4,000 z", "Cancel")) {
+msgctxt "F_VoteKafra"
+msgid "Clock Tower, Level 3 -> 4,000 z"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "to the Clock Tower. Please";
+msgctxt "F_VoteKafra"
+msgid "to the Clock Tower. Please"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Toy Factory, Level 2 -> 4,000 z", "Clock Tower, Level 3 -> 4,000 z", "Lava Dungeon, Level 2 -> 4,000 z", "Cancel")) {
+msgctxt "F_VoteKafra"
+msgid "Lava Dungeon, Level 2 -> 4,000 z"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "to the Lava Dungeon. Please";
+msgctxt "F_VoteKafra"
+msgid "to the Lava Dungeon. Please"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I'm sorry, but because of";
+msgctxt "F_VoteKafra"
+msgid "I'm sorry, but because of"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "the results from the most";
+msgctxt "F_VoteKafra"
+msgid "the results from the most"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "recent election, Cool Event";
+msgctxt "F_VoteKafra"
+msgid "recent election, Cool Event"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Corp. is currently handling";
+msgctxt "F_VoteKafra"
+msgid "Corp. is currently handling"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "the Dungeon Teleport Service. We apologize for the inconvenience.";
+msgctxt "F_VoteKafra"
+msgid "the Dungeon Teleport Service. We apologize for the inconvenience."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I'm sorry, but the";
+msgctxt "F_VoteKafra"
+msgid "I'm sorry, but the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "is not active during the voting";
+msgctxt "F_VoteKafra"
+msgid "is not active during the voting"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "period. Once the election is";
+msgctxt "F_VoteKafra"
+msgid "period. Once the election is"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "over, the Dungeon Teleport";
+msgctxt "F_VoteKafra"
+msgid "over, the Dungeon Teleport"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Service will become available.";
+msgctxt "F_VoteKafra"
+msgid "Service will become available."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "[Cool Event Corp. Voting Staff]";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "[Cool Event Corp. Voting Staff]"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Hello! Don't forget to make";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Hello! Don't forget to make"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "your voice be heard and make";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "your voice be heard and make"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "sure you vote in the elections";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "sure you vote in the elections"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "between Cool Event Corp. and";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "between Cool Event Corp. and"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Kafra Corporation for control of the Dungeon Teleport Service!";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Kafra Corporation for control of the Dungeon Teleport Service!"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Reason for Election", "Cast a Vote", "Use Teleport Service", "Cancel")) {
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Reason for Election"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Reason for Election", "Cast a Vote", "Use Teleport Service", "Cancel")) {
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Cast a Vote"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Reason for Election", "Cast a Vote", "Use Teleport Service", "Cancel")) {
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Use Teleport Service"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Reason for Election", "Cast a Vote", "Use Teleport Service", "Cancel")) {
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Cancel"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Cool Event Corp. has been";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Cool Event Corp. has been"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "planning to provide a new";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "planning to provide a new"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Dungeon Teleport Service to";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Dungeon Teleport Service to"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "its customers, a service not";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "its customers, a service not"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "already provided by the Kafra";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "already provided by the Kafra"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Corporation. However...";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Corporation. However..."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Kafra Corporation, which";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Kafra Corporation, which"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "already monopolizes the";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "already monopolizes the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "public teleportation market,";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "public teleportation market,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "actually also had plans to";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "actually also had plans to"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "provide a similar service.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "provide a similar service."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Because of technological";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Because of technological"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "limitations, only one company";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "limitations, only one company"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "can be chosen as the provider";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "can be chosen as the provider"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "of this Dungeon Teleport Service. Hence, we will let the customers";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "of this Dungeon Teleport Service. Hence, we will let the customers"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "decide through these elections.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "decide through these elections."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Multiple elections will be";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Multiple elections will be"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "held so that our customers";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "held so that our customers"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "can test out the special services of each company for themselves.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "can test out the special services of each company for themselves."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "However, keep in mind that you must be eligible in order to vote.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "However, keep in mind that you must be eligible in order to vote."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "For voter eligibility";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "For voter eligibility"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "details, please visit our";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "details, please visit our"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "headquarters in the city of";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "headquarters in the city of"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Lighthalzen located in the";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Lighthalzen located in the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Schwaltzvalt Republic.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Schwaltzvalt Republic."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Thank you for your time.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Thank you for your time."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Cool Event Corp.,";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Cool Event Corp.,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "if chosen to provide the";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "if chosen to provide the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Dungeon Teleport Service,";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Dungeon Teleport Service,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "will teleport adventurers to";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "will teleport adventurers to"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "the following dungeons...";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "the following dungeons..."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes " ";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid " "
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "^FF0000Byalan Dungeon, Level 3^000000";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "^FF0000Byalan Dungeon, Level 3^000000"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "^FF0000Clock Tower, 3rd Floor^000000";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "^FF0000Clock Tower, 3rd Floor^000000"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "^FF0000Glast Heim Entrance^000000";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "^FF0000Glast Heim Entrance^000000"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "If you are interested in";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "If you are interested in"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "these destinations, then";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "these destinations, then"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "it would be in your best";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "it would be in your best"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "interest to vote for us.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "interest to vote for us."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Would you like to vote";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Would you like to vote"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "for Cool Event Corp.?";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "for Cool Event Corp.?"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("No", "Yes")) {
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "No"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("No", "Yes")) {
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Yes"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Ah, I see... Well, if you";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Ah, I see... Well, if you"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "happen to change your mind,";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "happen to change your mind,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "feel free to come back and";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "feel free to come back and"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "cast your vote for Cool Event";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "cast your vote for Cool Event"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Corp, alright? Have a nice day~";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Corp, alright? Have a nice day~"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Thank you for your vote!";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Thank you for your vote!"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "It's customers like you who";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "It's customers like you who"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "ensure the success and great";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "ensure the success and great"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "service that you have come to";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "service that you have come to"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "expect from Cool Event Corp.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "expect from Cool Event Corp."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Thank you and have a nice day~";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Thank you and have a nice day~"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I'm sorry, but you've";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "I'm sorry, but you've"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "already cast your vote";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "already cast your vote"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "in this election. However,";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "in this election. However,"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "please don't let that stop you";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "please don't let that stop you"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "from voting for Cool Event";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "from voting for Cool Event"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Corp. in the next election~";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Corp. in the next election~"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Unfortunately, there wasn't";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Unfortunately, there wasn't"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "enough voter turnout in the";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "enough voter turnout in the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "last election, so we're holding";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "last election, so we're holding"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "another election to determine";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "another election to determine"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "which company will provide the";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "which company will provide the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Dungeon Teleport Service.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Dungeon Teleport Service."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "We appreciate that";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "We appreciate that"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "you've already participated";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "you've already participated"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "in this second election by";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "in this second election by"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "casting your vote. Thank";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "casting your vote. Thank"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "you for your support~";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "you for your support~"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I'm sorry, but an election is";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "I'm sorry, but an election is"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "not currently being held at this time. Please come and cast your";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "not currently being held at this time. Please come and cast your"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "vote at the next election to decide which company will provide the";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "vote at the next election to decide which company will provide the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Please remember that we";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Please remember that we"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "cannot accept Free Warp Tickets";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "cannot accept Free Warp Tickets"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "or award Special Reserve Points";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "or award Special Reserve Points"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "for this service. Now, please";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "for this service. Now, please"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "choose your destination.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "choose your destination."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Byalan Dungeon, Level 3 -> 4,000 z", "Cancel")) {
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Byalan Dungeon, Level 3 -> 4,000 z"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I'm sorry, but you do";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "I'm sorry, but you do"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "not have enough zeny to";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "not have enough zeny to"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "teleport to this destination.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "teleport to this destination."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "The teleport fee is 4,000 zeny.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "The teleport fee is 4,000 zeny."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Always be assured that";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Always be assured that"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Cool Event Corp. will do";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Cool Event Corp. will do"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "everything in its power to";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "everything in its power to"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "ensure the satisfaction of";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "ensure the satisfaction of"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "its customers, young and old";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "its customers, young and old"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "and big and small. Thank you~";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "and big and small. Thank you~"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Byalan Dungeon, Level 3 -> 4,000 z", "Clock Tower, 3rd Floor -> 4,000 z", "Cancel")) {
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Clock Tower, 3rd Floor -> 4,000 z"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# switch(select("Byalan Dungeon, Level 3 -> 4,000 z", "Clock Tower, 3rd Floor -> 4,000 z", "Glast Heim Entrance -> 4,000 z", "Cancel")) {
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Glast Heim Entrance -> 4,000 z"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I'm sorry, but Cool Event";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "I'm sorry, but Cool Event"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Corp. does not currently offer";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Corp. does not currently offer"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "the Dungeon Teleport Service";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "the Dungeon Teleport Service"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "due to the results of the last";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "due to the results of the last"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "election. Please vote for us";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "election. Please vote for us"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "next time, alright? Good day~";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "next time, alright? Good day~"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "I'm sorry, but the";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "I'm sorry, but the"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Dungeon Teleport Service is";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Dungeon Teleport Service is"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "unavailable during elections";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "unavailable during elections"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "and will be reactivated after the election results are announced.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "and will be reactivated after the election results are announced."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Thank you and have a nice day.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Thank you and have a nice day."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Cool Event Corp. is always";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Cool Event Corp. is always"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "working to make sure that";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "working to make sure that"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "not only are our customers";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "not only are our customers"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "satisfied, but that we also";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "satisfied, but that we also"
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "exceed your utmost standards.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "exceed your utmost standards."
+msgstr ""
+
+#: npc/kafras/dts_warper.txt
+# mes "Thank you and have a good day.";
+msgctxt "Cool Event Staff::VotingStaffCCE"
+msgid "Thank you and have a good day."
+msgstr ""

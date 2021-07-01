@@ -1,0 +1,230 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/cities/eclage.txt
+# mes "[North] Prison";
+msgctxt "sign#prison_inn"
+msgid "[North] Prison"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "[West] Clinic";
+msgctxt "sign#prison_inn"
+msgid "[West] Clinic"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "[Eclage Guard]";
+msgctxt "Eclage Guard#pri_inn"
+msgid "[Eclage Guard]"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "This path will take you to the lower parts of Eclage. You'll find a prison and a clinic there.";
+msgctxt "Eclage Guard#pri_inn"
+msgid "This path will take you to the lower parts of Eclage. You'll find a prison and a clinic there."
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "[Receptionist}";
+msgctxt "Receptionist#Laphine"
+msgid "[Receptionist}"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "Welcome to Eclage Clinic.";
+msgctxt "Receptionist#Laphine"
+msgid "Welcome to Eclage Clinic."
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# switch (select("Save Location", "Rest", "Finish the conversation")) {
+msgctxt "Receptionist#Laphine"
+msgid "Save Location"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# switch (select("Save Location", "Rest", "Finish the conversation")) {
+msgctxt "Receptionist#Laphine"
+msgid "Rest"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# switch (select("Save Location", "Rest", "Finish the conversation")) {
+msgctxt "Receptionist#Laphine"
+msgid "Finish the conversation"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "Clinic has been set as your save point. Be careful though~";
+msgctxt "Receptionist#Laphine"
+msgid "Clinic has been set as your save point. Be careful though~"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "Restore your mind and body at our clinic. It's filled with Eclage's clean energy.";
+msgctxt "Receptionist#Laphine"
+msgid "Restore your mind and body at our clinic. It's filled with Eclage's clean energy."
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "We charge 1 Splendide Coin normally, but we offer a special discount for travelers. Your total is 5,000 zeny. ";
+msgctxt "Receptionist#Laphine"
+msgid "We charge 1 Splendide Coin normally, but we offer a special discount for travelers. Your total is 5,000 zeny. "
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# switch (select("Pay with Splendide Coin", "Pay with Zeny", "Forget it")) {
+msgctxt "Receptionist#Laphine"
+msgid "Pay with Splendide Coin"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# switch (select("Pay with Splendide Coin", "Pay with Zeny", "Forget it")) {
+msgctxt "Receptionist#Laphine"
+msgid "Pay with Zeny"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# switch (select("Pay with Splendide Coin", "Pay with Zeny", "Forget it")) {
+msgctxt "Receptionist#Laphine"
+msgid "Forget it"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "It seems like you don't have enough coins. Would you check your account again, please?";
+msgctxt "Receptionist#Laphine"
+msgid "It seems like you don't have enough coins. Would you check your account again, please?"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "Make yourself at home~";
+msgctxt "Receptionist#Laphine"
+msgid "Make yourself at home~"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "[Receptionist]";
+msgctxt "Receptionist#Laphine"
+msgid "[Receptionist]"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "Looks like you don't have enough resources to proceed. Do you mind checking your account again?";
+msgctxt "Receptionist#Laphine"
+msgid "Looks like you don't have enough resources to proceed. Do you mind checking your account again?"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "[Injured Laphine]";
+msgctxt "Injured Laphine"
+msgid "[Injured Laphine]"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "Ooww...";
+msgctxt "Injured Laphine"
+msgid "Ooww..."
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "Where...am...I?";
+msgctxt "Injured Laphine"
+msgid "Where...am...I?"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "[Doctor]";
+msgctxt "Injured Laphine"
+msgid "[Doctor]"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "You're at a clinic. Don't worry.";
+msgctxt "Injured Laphine"
+msgid "You're at a clinic. Don't worry."
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "We stopped the bleeding and cast emergency spells.";
+msgctxt "Injured Laphine"
+msgid "We stopped the bleeding and cast emergency spells."
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "You were bleeding a lot. That was close, you know.";
+msgctxt "Injured Laphine"
+msgid "You were bleeding a lot. That was close, you know."
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "......";
+msgctxt "Injured Laphine"
+msgid "......"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "What, no, I...I don't feel anything...what's going on?";
+msgctxt "Injured Laphine"
+msgid "What, no, I...I don't feel anything...what's going on?"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "Umm...the arrow damaged your wing pretty badly...";
+msgctxt "Injured Laphine"
+msgid "Umm...the arrow damaged your wing pretty badly..."
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "...what do you mean?";
+msgctxt "Injured Laphine"
+msgid "...what do you mean?"
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "Well...I was going to tell you after you recover, but you should know. You can't decorate the Yai anymore. ";
+msgctxt "Injured Laphine"
+msgid "Well...I was going to tell you after you recover, but you should know. You can't decorate the Yai anymore. "
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "In other words, you injured your wing. The arrow went through the most critical part in the wing.";
+msgctxt "Injured Laphine"
+msgid "In other words, you injured your wing. The arrow went through the most critical part in the wing."
+msgstr ""
+
+#: npc/re/cities/eclage.txt
+# mes "What? No way...please...doctor!! No!!";
+msgctxt "Injured Laphine"
+msgid "What? No way...please...doctor!! No!!"
+msgstr ""

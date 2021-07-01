@@ -1,0 +1,2552 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/other/monster_museum.txt
+# mes "[Cenia]";
+msgctxt "Museum Guide"
+msgid "[Cenia]"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Welcome to the Monster Museum.";
+msgctxt "Museum Guide"
+msgid "Welcome to the Monster Museum."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# switch(select("Monster Museum?", "Tips")) {
+msgctxt "Museum Guide"
+msgid "Monster Museum?"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# switch(select("Monster Museum?", "Tips")) {
+msgctxt "Museum Guide"
+msgid "Tips"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "The Monster Museum was founded by";
+msgctxt "Museum Guide"
+msgid "The Monster Museum was founded by"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "the Sages of the Schweicherbil";
+msgctxt "Museum Guide"
+msgid "the Sages of the Schweicherbil"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Magic Academy after researching";
+msgctxt "Museum Guide"
+msgid "Magic Academy after researching"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "every creature dwelling in the";
+msgctxt "Museum Guide"
+msgid "every creature dwelling in the"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Rune-Midgard continent.";
+msgctxt "Museum Guide"
+msgid "Rune-Midgard continent."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "In this museum, you can see every";
+msgctxt "Museum Guide"
+msgid "In this museum, you can see every"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "single monster in Rune-Midgard,";
+msgctxt "Museum Guide"
+msgid "single monster in Rune-Midgard,"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "even the ones you hardly ever encounter.";
+msgctxt "Museum Guide"
+msgid "even the ones you hardly ever encounter."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "The glass tubes holding monsters";
+msgctxt "Museum Guide"
+msgid "The glass tubes holding monsters"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "was developed with the latest";
+msgctxt "Museum Guide"
+msgid "was developed with the latest"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "technology as a part of the";
+msgctxt "Museum Guide"
+msgid "technology as a part of the"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Schwartz Project. Rest assured,";
+msgctxt "Museum Guide"
+msgid "Schwartz Project. Rest assured,"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "you'll be well protected.";
+msgctxt "Museum Guide"
+msgid "you'll be well protected."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Please check on the Opaque option";
+msgctxt "Museum Guide"
+msgid "Please check on the Opaque option"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "on your option windows by";
+msgctxt "Museum Guide"
+msgid "on your option windows by"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "pressing ALT + O, if you want to";
+msgctxt "Museum Guide"
+msgid "pressing ALT + O, if you want to"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "see the monsters better.";
+msgctxt "Museum Guide"
+msgid "see the monsters better."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Feel free to talk to me anytime.";
+msgctxt "Museum Guide"
+msgid "Feel free to talk to me anytime."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#DEVIACE"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Scientific name : Deviace";
+msgctxt "#DEVIACE"
+msgid "Scientific name : Deviace"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Size : Medium";
+msgctxt "#DEVIACE"
+msgid "Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Attribute : Water";
+msgctxt "#DEVIACE"
+msgid "Attribute : Water"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#DEVIACE"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "This monster dwells under the deep";
+msgctxt "#DEVIACE"
+msgid "This monster dwells under the deep"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "sea and has a round body with a";
+msgctxt "#DEVIACE"
+msgid "sea and has a round body with a"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "acetabulum on its dorsal side.";
+msgctxt "#DEVIACE"
+msgid "acetabulum on its dorsal side."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Although its sharp teeth are";
+msgctxt "#DEVIACE"
+msgid "Although its sharp teeth are"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "intimidating, it has a very mellow";
+msgctxt "#DEVIACE"
+msgid "intimidating, it has a very mellow"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "character.";
+msgctxt "#DEVIACE"
+msgid "character."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Therefore, it never initiates";
+msgctxt "#DEVIACE"
+msgid "Therefore, it never initiates"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "attack on an undersea traveler";
+msgctxt "#DEVIACE"
+msgid "attack on an undersea traveler"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "unless it's attacked first.";
+msgctxt "#DEVIACE"
+msgid "unless it's attacked first."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "However, once it becomes upset, it";
+msgctxt "#DEVIACE"
+msgid "However, once it becomes upset, it"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "uses high level magic skills. So";
+msgctxt "#DEVIACE"
+msgid "uses high level magic skills. So"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "it's better to be careful with this monster.";
+msgctxt "#DEVIACE"
+msgid "it's better to be careful with this monster."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#FUR_SEAL"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Scientific name : Seal";
+msgctxt "#FUR_SEAL"
+msgid "Scientific name : Seal"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Size : Medium";
+msgctxt "#FUR_SEAL"
+msgid "Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Attribute : Water";
+msgctxt "#FUR_SEAL"
+msgid "Attribute : Water"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#FUR_SEAL"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "When you take a look at this";
+msgctxt "#FUR_SEAL"
+msgid "When you take a look at this"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "monster carefully, you will find";
+msgctxt "#FUR_SEAL"
+msgid "monster carefully, you will find"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "that it's not actually a seal but";
+msgctxt "#FUR_SEAL"
+msgid "that it's not actually a seal but"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "an unidentified monster hiding";
+msgctxt "#FUR_SEAL"
+msgid "an unidentified monster hiding"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "inside the seal-like leather";
+msgctxt "#FUR_SEAL"
+msgid "inside the seal-like leather"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "clothing.";
+msgctxt "#FUR_SEAL"
+msgid "clothing."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "It is rumored that the monster";
+msgctxt "#FUR_SEAL"
+msgid "It is rumored that the monster"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "wears this clothing in order";
+msgctxt "#FUR_SEAL"
+msgid "wears this clothing in order"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "to protect its sensitive skin";
+msgctxt "#FUR_SEAL"
+msgid "to protect its sensitive skin"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "from the weather. The Seal's";
+msgctxt "#FUR_SEAL"
+msgid "from the weather. The Seal's"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "clothing is a very good material";
+msgctxt "#FUR_SEAL"
+msgid "clothing is a very good material"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "for people to produce winter coats.";
+msgctxt "#FUR_SEAL"
+msgid "for people to produce winter coats."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#SAGEWORM"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Scientific name : Sage Worm";
+msgctxt "#SAGEWORM"
+msgid "Scientific name : Sage Worm"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Size : Small";
+msgctxt "#SAGEWORM"
+msgid "Size : Small"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Attribute : Neutral";
+msgctxt "#SAGEWORM"
+msgid "Attribute : Neutral"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#SAGEWORM"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "A strange beast with the head of";
+msgctxt "#SAGEWORM"
+msgid "A strange beast with the head of"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "an old scholar and the tail of a";
+msgctxt "#SAGEWORM"
+msgid "an old scholar and the tail of a"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "worm. Although it is physically";
+msgctxt "#SAGEWORM"
+msgid "worm. Although it is physically"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "weak, it has the intelligence";
+msgctxt "#SAGEWORM"
+msgid "weak, it has the intelligence"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "to support its comrades with";
+msgctxt "#SAGEWORM"
+msgid "to support its comrades with"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "magic skills.";
+msgctxt "#SAGEWORM"
+msgid "magic skills."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "As its scholarly appearance";
+msgctxt "#SAGEWORM"
+msgid "As its scholarly appearance"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "indicates, it's usually seen near books or book shelves.";
+msgctxt "#SAGEWORM"
+msgid "indicates, it's usually seen near books or book shelves."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#PENOMANA"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Scientific name : Penomena";
+msgctxt "#PENOMANA"
+msgid "Scientific name : Penomena"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Size : Medium";
+msgctxt "#PENOMANA"
+msgid "Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Attribute : Poison";
+msgctxt "#PENOMANA"
+msgid "Attribute : Poison"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#PENOMANA"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "This monster dwells inside the";
+msgctxt "#PENOMANA"
+msgid "This monster dwells inside the"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "deepest part of caves where there";
+msgctxt "#PENOMANA"
+msgid "deepest part of caves where there"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "is enough moisture to keep it from";
+msgctxt "#PENOMANA"
+msgid "is enough moisture to keep it from"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "getting dried up.";
+msgctxt "#PENOMANA"
+msgid "getting dried up."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Unlike Hydra, a similar looking";
+msgctxt "#PENOMANA"
+msgid "Unlike Hydra, a similar looking"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "creature, it can move itself";
+msgctxt "#PENOMANA"
+msgid "creature, it can move itself"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "towards its enemy using many";
+msgctxt "#PENOMANA"
+msgid "towards its enemy using many"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "small appendixes on its acetabulum.";
+msgctxt "#PENOMANA"
+msgid "small appendixes on its acetabulum."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "The long, thin tentacles on the";
+msgctxt "#PENOMANA"
+msgid "The long, thin tentacles on the"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "body shoot deadly poison which is";
+msgctxt "#PENOMANA"
+msgid "body shoot deadly poison which is"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "enough to kill its enemy at once.";
+msgctxt "#PENOMANA"
+msgid "enough to kill its enemy at once."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#GALAPAGO"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Scientific name : Galapago";
+msgctxt "#GALAPAGO"
+msgid "Scientific name : Galapago"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Size : Small";
+msgctxt "#GALAPAGO"
+msgid "Size : Small"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Attribute : Earth";
+msgctxt "#GALAPAGO"
+msgid "Attribute : Earth"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#GALAPAGO"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "It's a kind of bird, but sadly, its body is too heavy to fly.";
+msgctxt "#GALAPAGO"
+msgid "It's a kind of bird, but sadly, its body is too heavy to fly."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "It's very sensitive to sunlight so it carries a water bottle and wears sunglasses all the time.";
+msgctxt "#GALAPAGO"
+msgid "It's very sensitive to sunlight so it carries a water bottle and wears sunglasses all the time."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Although gluttonous, it will";
+msgctxt "#GALAPAGO"
+msgid "Although gluttonous, it will"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "always cooperate to attack";
+msgctxt "#GALAPAGO"
+msgid "always cooperate to attack"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "prey, as well as predators.";
+msgctxt "#GALAPAGO"
+msgid "prey, as well as predators."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Otherwise, Galapago is a";
+msgctxt "#GALAPAGO"
+msgid "Otherwise, Galapago is a"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "generally laid back monster.";
+msgctxt "#GALAPAGO"
+msgid "generally laid back monster."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#RAYDRIC"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Scientific name : Raydric";
+msgctxt "#RAYDRIC"
+msgid "Scientific name : Raydric"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Size : Large";
+msgctxt "#RAYDRIC"
+msgid "Size : Large"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Attribute : Shadow";
+msgctxt "#RAYDRIC"
+msgid "Attribute : Shadow"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#RAYDRIC"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "A suit of armor animated by the";
+msgctxt "#RAYDRIC"
+msgid "A suit of armor animated by the"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "spirit of a castle guard. The";
+msgctxt "#RAYDRIC"
+msgid "spirit of a castle guard. The"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "spirit is bound to this armor by";
+msgctxt "#RAYDRIC"
+msgid "spirit is bound to this armor by"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "a powerful curse.";
+msgctxt "#RAYDRIC"
+msgid "a powerful curse."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Since Raydric used to be a castle";
+msgctxt "#RAYDRIC"
+msgid "Since Raydric used to be a castle"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "guard, it possesses fast movements";
+msgctxt "#RAYDRIC"
+msgid "guard, it possesses fast movements"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "and powerful attack strength.";
+msgctxt "#RAYDRIC"
+msgid "and powerful attack strength."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#CHEPET"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Chepet";
+msgctxt "#CHEPET"
+msgid " Scientific name : Chepet"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#CHEPET"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Fire";
+msgctxt "#CHEPET"
+msgid " Attribute : Fire"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#CHEPET"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "An evil creature hiding in a";
+msgctxt "#CHEPET"
+msgid "An evil creature hiding in a"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "pretty doll. It attacks passersby";
+msgctxt "#CHEPET"
+msgid "pretty doll. It attacks passersby"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "by striking matchsticks held in";
+msgctxt "#CHEPET"
+msgid "by striking matchsticks held in"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "the doll's hand. A very rare";
+msgctxt "#CHEPET"
+msgid "the doll's hand. A very rare"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "monster since it dwells in";
+msgctxt "#CHEPET"
+msgid "monster since it dwells in"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "only a few places.";
+msgctxt "#CHEPET"
+msgid "only a few places."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#VIOLY"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Violy";
+msgctxt "#VIOLY"
+msgid " Scientific name : Violy"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#VIOLY"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Neutral";
+msgctxt "#VIOLY"
+msgid " Attribute : Neutral"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#VIOLY"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "A pretty doll looking creature with beautiful golden hair.";
+msgctxt "#VIOLY"
+msgid "A pretty doll looking creature with beautiful golden hair."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Since It plays violin all the time with a peaceful look on its face, people don't realize at first that it's a monster.";
+msgctxt "#VIOLY"
+msgid "Since It plays violin all the time with a peaceful look on its face, people don't realize at first that it's a monster."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Exercise extreme caution upon encountering a Violy. Otherwise, it will snatch your soul in no time with its charming song.";
+msgctxt "#VIOLY"
+msgid "Exercise extreme caution upon encountering a Violy. Otherwise, it will snatch your soul in no time with its charming song."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#ALICE"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Alice ";
+msgctxt "#ALICE"
+msgid " Scientific name : Alice "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#ALICE"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Neutral";
+msgctxt "#ALICE"
+msgid " Attribute : Neutral"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#ALICE"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Alice is a robot made to assist as";
+msgctxt "#ALICE"
+msgid "Alice is a robot made to assist as"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "a castle housemaid. They've been";
+msgctxt "#ALICE"
+msgid "a castle housemaid. They've been"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "known to remain and automatically";
+msgctxt "#ALICE"
+msgid "known to remain and automatically"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "do their tasks long after the";
+msgctxt "#ALICE"
+msgid "do their tasks long after the"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "castle has been abandoned.";
+msgctxt "#ALICE"
+msgid "castle has been abandoned."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Without any discernable power";
+msgctxt "#ALICE"
+msgid "Without any discernable power"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "source, how it moves and operates";
+msgctxt "#ALICE"
+msgid "source, how it moves and operates"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "is still a scientific mystery.";
+msgctxt "#ALICE"
+msgid "is still a scientific mystery."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#ASSULTER"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Assulter";
+msgctxt "#ASSULTER"
+msgid " Scientific name : Assulter"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#ASSULTER"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Wind";
+msgctxt "#ASSULTER"
+msgid " Attribute : Wind"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#ASSULTER"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Unlike other turtles on Turtle";
+msgctxt "#ASSULTER"
+msgid "Unlike other turtles on Turtle"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Island, this turtle stands on two";
+msgctxt "#ASSULTER"
+msgid "Island, this turtle stands on two"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "legs and attacks passersby with";
+msgctxt "#ASSULTER"
+msgid "legs and attacks passersby with"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "the other two legs, wielding a";
+msgctxt "#ASSULTER"
+msgid "the other two legs, wielding a"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "big shuriken from its back.";
+msgctxt "#ASSULTER"
+msgid "big shuriken from its back."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Interestingly, it creates a clone";
+msgctxt "#ASSULTER"
+msgid "Interestingly, it creates a clone"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "to do more damage when it";
+msgctxt "#ASSULTER"
+msgid "to do more damage when it"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "encounters dangerous enemies.";
+msgctxt "#ASSULTER"
+msgid "encounters dangerous enemies."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "It does very powerful damage using";
+msgctxt "#ASSULTER"
+msgid "It does very powerful damage using"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "its shuriken, but its nail attack";
+msgctxt "#ASSULTER"
+msgid "its shuriken, but its nail attack"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "is more threatening.";
+msgctxt "#ASSULTER"
+msgid "is more threatening."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#WANDER_MAN"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Wanderer";
+msgctxt "#WANDER_MAN"
+msgid " Scientific name : Wanderer"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#WANDER_MAN"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Wind";
+msgctxt "#WANDER_MAN"
+msgid " Attribute : Wind"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#WANDER_MAN"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Undead warrior who came back to";
+msgctxt "#WANDER_MAN"
+msgid "Undead warrior who came back to"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "life through a curse. Considering";
+msgctxt "#WANDER_MAN"
+msgid "life through a curse. Considering"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "its technical fencing skill, he";
+msgctxt "#WANDER_MAN"
+msgid "its technical fencing skill, he"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "must have been a very honorable";
+msgctxt "#WANDER_MAN"
+msgid "must have been a very honorable"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "warrior as a living human.";
+msgctxt "#WANDER_MAN"
+msgid "warrior as a living human."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Wanderer can move amazingly fast";
+msgctxt "#WANDER_MAN"
+msgid "Wanderer can move amazingly fast"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "and can slay enemies with a single";
+msgctxt "#WANDER_MAN"
+msgid "and can slay enemies with a single"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "stroke of its sword.";
+msgctxt "#WANDER_MAN"
+msgid "stroke of its sword."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#CATERPILLAR"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Caterpillar";
+msgctxt "#CATERPILLAR"
+msgid " Scientific name : Caterpillar"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Small";
+msgctxt "#CATERPILLAR"
+msgid " Size : Small"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Earth";
+msgctxt "#CATERPILLAR"
+msgid " Attribute : Earth"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#CATERPILLAR"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Although the eyes of this creature";
+msgctxt "#CATERPILLAR"
+msgid "Although the eyes of this creature"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "have atrophied due to living under";
+msgctxt "#CATERPILLAR"
+msgid "have atrophied due to living under"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "the earth, it uses a feeler and";
+msgctxt "#CATERPILLAR"
+msgid "the earth, it uses a feeler and"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "appendices on its body to sense";
+msgctxt "#CATERPILLAR"
+msgid "appendices on its body to sense"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "objects in its dark surroundings.";
+msgctxt "#CATERPILLAR"
+msgid "objects in its dark surroundings."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Caterpillar is rumored to be the";
+msgctxt "#CATERPILLAR"
+msgid "Caterpillar is rumored to be the"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "larva of Creamy Fear, the advanced";
+msgctxt "#CATERPILLAR"
+msgid "larva of Creamy Fear, the advanced"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Creamy.";
+msgctxt "#CATERPILLAR"
+msgid "Creamy."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#THIEF_BUG__"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Thief Bug";
+msgctxt "#THIEF_BUG__"
+msgid " Scientific name : Thief Bug"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ^FFFFFFScientific name :^000000 (Male)";
+msgctxt "#THIEF_BUG__"
+msgid " ^FFFFFFScientific name :^000000 (Male)"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#THIEF_BUG__"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Shadow";
+msgctxt "#THIEF_BUG__"
+msgid " Attribute : Shadow"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#THIEF_BUG__"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Although it has a big blue body,";
+msgctxt "#THIEF_BUG__"
+msgid "Although it has a big blue body,"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "it's also fast and voracious, just like other Thief Bugs.";
+msgctxt "#THIEF_BUG__"
+msgid "it's also fast and voracious, just like other Thief Bugs."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "However, it is stronger than other Thief Bugs because it's designated to protect the females and babies from danger.";
+msgctxt "#THIEF_BUG__"
+msgid "However, it is stronger than other Thief Bugs because it's designated to protect the females and babies from danger."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#TRI_JOINT"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Tri Joint";
+msgctxt "#TRI_JOINT"
+msgid " Scientific name : Tri Joint"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Small";
+msgctxt "#TRI_JOINT"
+msgid " Size : Small"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Earth";
+msgctxt "#TRI_JOINT"
+msgid " Attribute : Earth"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#TRI_JOINT"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Tri Joint is a prehistoric";
+msgctxt "#TRI_JOINT"
+msgid "Tri Joint is a prehistoric"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "monster that is covered with";
+msgctxt "#TRI_JOINT"
+msgid "monster that is covered with"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "a hard shell, and uses a feeler";
+msgctxt "#TRI_JOINT"
+msgid "a hard shell, and uses a feeler"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "instead of eyes so that it can";
+msgctxt "#TRI_JOINT"
+msgid "instead of eyes so that it can"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "live in dark places.";
+msgctxt "#TRI_JOINT"
+msgid "live in dark places."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Recently, since many Tri Joints have been discovered inside many caves, Sages are very excited to study them to learn more about the evolution of monsters in Rune-Midgard.";
+msgctxt "#TRI_JOINT"
+msgid "Recently, since many Tri Joints have been discovered inside many caves, Sages are very excited to study them to learn more about the evolution of monsters in Rune-Midgard."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#ARCLOUSE"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Arclouz";
+msgctxt "#ARCLOUSE"
+msgid " Scientific name : Arclouz"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#ARCLOUSE"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Earth";
+msgctxt "#ARCLOUSE"
+msgid " Attribute : Earth"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#ARCLOUSE"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Hard shelled monster that coils";
+msgctxt "#ARCLOUSE"
+msgid "Hard shelled monster that coils"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "its body to attack its enemy.";
+msgctxt "#ARCLOUSE"
+msgid "its body to attack its enemy."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Arclouz tend to stay in groups";
+msgctxt "#ARCLOUSE"
+msgid "Arclouz tend to stay in groups"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "and are very aggressive";
+msgctxt "#ARCLOUSE"
+msgid "and are very aggressive"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "creatures.";
+msgctxt "#ARCLOUSE"
+msgid "creatures."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "They have incredibly fast";
+msgctxt "#ARCLOUSE"
+msgid "They have incredibly fast"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "movement speed, contrary to";
+msgctxt "#ARCLOUSE"
+msgid "movement speed, contrary to"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "their looks, and are often";
+msgctxt "#ARCLOUSE"
+msgid "their looks, and are often"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "compared to PecoPecos.";
+msgctxt "#ARCLOUSE"
+msgid "compared to PecoPecos."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#DRAGON_TAIL"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Dragon Tail";
+msgctxt "#DRAGON_TAIL"
+msgid " Scientific name : Dragon Tail"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#DRAGON_TAIL"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Wind";
+msgctxt "#DRAGON_TAIL"
+msgid " Attribute : Wind"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#DRAGON_TAIL"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "An insect which is considered as";
+msgctxt "#DRAGON_TAIL"
+msgid "An insect which is considered as"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "a Libelluidae, or Dragon Fly. It";
+msgctxt "#DRAGON_TAIL"
+msgid "a Libelluidae, or Dragon Fly. It"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "uses its strong tail to suck the";
+msgctxt "#DRAGON_TAIL"
+msgid "uses its strong tail to suck the"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "blood out of an enemy, or to put";
+msgctxt "#DRAGON_TAIL"
+msgid "blood out of an enemy, or to put"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "the enemy to sleep by shooting";
+msgctxt "#DRAGON_TAIL"
+msgid "the enemy to sleep by shooting"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "a sleeping poison.";
+msgctxt "#DRAGON_TAIL"
+msgid "a sleeping poison."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#OWL_DUKE"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Owl Duke";
+msgctxt "#OWL_DUKE"
+msgid " Scientific name : Owl Duke"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Large";
+msgctxt "#OWL_DUKE"
+msgid " Size : Large"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Neutral ";
+msgctxt "#OWL_DUKE"
+msgid " Attribute : Neutral "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation:";
+msgctxt "#OWL_DUKE"
+msgid "Explanation:"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "An owl that wears a count costume.";
+msgctxt "#OWL_DUKE"
+msgid "An owl that wears a count costume."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "It's very intimidating looking";
+msgctxt "#OWL_DUKE"
+msgid "It's very intimidating looking"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "with its dark, yet suave look.";
+msgctxt "#OWL_DUKE"
+msgid "with its dark, yet suave look."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Owl Duke is not actually an owl,";
+msgctxt "#OWL_DUKE"
+msgid "Owl Duke is not actually an owl,"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "but a devil with very sharp claws";
+msgctxt "#OWL_DUKE"
+msgid "but a devil with very sharp claws"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "on its big feet.";
+msgctxt "#OWL_DUKE"
+msgid "on its big feet."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "It's skillful at using many";
+msgctxt "#OWL_DUKE"
+msgid "It's skillful at using many"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "lightning magic spells. When";
+msgctxt "#OWL_DUKE"
+msgid "lightning magic spells. When"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "you see it attacking an enemy,";
+msgctxt "#OWL_DUKE"
+msgid "you see it attacking an enemy,"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "you can sense the Owl Duke's";
+msgctxt "#OWL_DUKE"
+msgid "you can sense the Owl Duke's"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "aristocratic pompousness.";
+msgctxt "#OWL_DUKE"
+msgid "aristocratic pompousness."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#MARINE_SPHERE"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Marine Sphere";
+msgctxt "#MARINE_SPHERE"
+msgid " Scientific name : Marine Sphere"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Small";
+msgctxt "#MARINE_SPHERE"
+msgid " Size : Small"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Water";
+msgctxt "#MARINE_SPHERE"
+msgid " Attribute : Water"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#MARINE_SPHERE"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "A strange creature that wanders";
+msgctxt "#MARINE_SPHERE"
+msgid "A strange creature that wanders"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "in the deep oceans. It explodes";
+msgctxt "#MARINE_SPHERE"
+msgid "in the deep oceans. It explodes"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "with great power when it's";
+msgctxt "#MARINE_SPHERE"
+msgid "with great power when it's"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "touched, earning it the name";
+msgctxt "#MARINE_SPHERE"
+msgid "touched, earning it the name"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "'The Sea Bomb.'";
+msgctxt "#MARINE_SPHERE"
+msgid "'The Sea Bomb.'"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "If there is a Marine Sphere";
+msgctxt "#MARINE_SPHERE"
+msgid "If there is a Marine Sphere"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "caught in the explosion of";
+msgctxt "#MARINE_SPHERE"
+msgid "caught in the explosion of"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "another, a trigger explosion";
+msgctxt "#MARINE_SPHERE"
+msgid "another, a trigger explosion"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "will result, and can lead to";
+msgctxt "#MARINE_SPHERE"
+msgid "will result, and can lead to"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "a dangerous chain reaction.";
+msgctxt "#MARINE_SPHERE"
+msgid "a dangerous chain reaction."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#MANDRAGORA"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Mandragora";
+msgctxt "#MANDRAGORA"
+msgid " Scientific name : Mandragora"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#MANDRAGORA"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Earth";
+msgctxt "#MANDRAGORA"
+msgid " Attribute : Earth"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#MANDRAGORA"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "An insectivore that swallows";
+msgctxt "#MANDRAGORA"
+msgid "An insectivore that swallows"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "anything alive. When it finds";
+msgctxt "#MANDRAGORA"
+msgid "anything alive. When it finds"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "its prey, it strikes it first";
+msgctxt "#MANDRAGORA"
+msgid "its prey, it strikes it first"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "with a long tentacle to";
+msgctxt "#MANDRAGORA"
+msgid "with a long tentacle to"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "to paralyze it.";
+msgctxt "#MANDRAGORA"
+msgid "to paralyze it."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Once paralyzed, its prey is";
+msgctxt "#MANDRAGORA"
+msgid "Once paralyzed, its prey is"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "put in a large tube attached";
+msgctxt "#MANDRAGORA"
+msgid "put in a large tube attached"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "to its body where it is slowly";
+msgctxt "#MANDRAGORA"
+msgid "to its body where it is slowly"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "digested. Although this tube";
+msgctxt "#MANDRAGORA"
+msgid "digested. Although this tube"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "has a skull mark, Mandragora";
+msgctxt "#MANDRAGORA"
+msgid "has a skull mark, Mandragora"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "does not actually contain any";
+msgctxt "#MANDRAGORA"
+msgid "does not actually contain any"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "poison.";
+msgctxt "#MANDRAGORA"
+msgid "poison."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "This digestive tube";
+msgctxt "#MANDRAGORA"
+msgid "This digestive tube"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "apparatus also has a very unique,";
+msgctxt "#MANDRAGORA"
+msgid "apparatus also has a very unique,"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "but disgusting smell that is far";
+msgctxt "#MANDRAGORA"
+msgid "but disgusting smell that is far"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "from useful in attracting prey.";
+msgctxt "#MANDRAGORA"
+msgid "from useful in attracting prey."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#GEOGRAPHER"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Geographer";
+msgctxt "#GEOGRAPHER"
+msgid " Scientific name : Geographer"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#GEOGRAPHER"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Earth";
+msgctxt "#GEOGRAPHER"
+msgid " Attribute : Earth"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#GEOGRAPHER"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "An insectivore that looks like";
+msgctxt "#GEOGRAPHER"
+msgid "An insectivore that looks like"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "a sunflower. It uses the petal";
+msgctxt "#GEOGRAPHER"
+msgid "a sunflower. It uses the petal"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "like tentacles around its";
+msgctxt "#GEOGRAPHER"
+msgid "like tentacles around its"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "mouth to attract and snare";
+msgctxt "#GEOGRAPHER"
+msgid "mouth to attract and snare"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "its prey.";
+msgctxt "#GEOGRAPHER"
+msgid "its prey."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Unlike Mandragora, Geographer";
+msgctxt "#GEOGRAPHER"
+msgid "Unlike Mandragora, Geographer"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "does not have a tube to";
+msgctxt "#GEOGRAPHER"
+msgid "does not have a tube to"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "store its prey. So it slowly";
+msgctxt "#GEOGRAPHER"
+msgid "store its prey. So it slowly"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "eats it's prey, little by little.";
+msgctxt "#GEOGRAPHER"
+msgid "eats it's prey, little by little."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Although Geographer has small";
+msgctxt "#GEOGRAPHER"
+msgid "Although Geographer has small"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "and short roots, the roots are";
+msgctxt "#GEOGRAPHER"
+msgid "and short roots, the roots are"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "tough and strong enough to";
+msgctxt "#GEOGRAPHER"
+msgid "tough and strong enough to"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "bear the weight of the upper body.";
+msgctxt "#GEOGRAPHER"
+msgid "bear the weight of the upper body."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "The namesake of this monster, a";
+msgctxt "#GEOGRAPHER"
+msgid "The namesake of this monster, a"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "human geographer that was";
+msgctxt "#GEOGRAPHER"
+msgid "human geographer that was"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "promptly eaten upon discovering";
+msgctxt "#GEOGRAPHER"
+msgid "promptly eaten upon discovering"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "this species of beast, will";
+msgctxt "#GEOGRAPHER"
+msgid "this species of beast, will"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "never be forgotten...";
+msgctxt "#GEOGRAPHER"
+msgid "never be forgotten..."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#RAFFLESIA"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Rafflesia";
+msgctxt "#RAFFLESIA"
+msgid " Scientific name : Rafflesia"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Small";
+msgctxt "#RAFFLESIA"
+msgid " Size : Small"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Earth";
+msgctxt "#RAFFLESIA"
+msgid " Attribute : Earth"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#RAFFLESIA"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "A puffy, leafy monster";
+msgctxt "#RAFFLESIA"
+msgid "A puffy, leafy monster"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "threatened with extinction.";
+msgctxt "#RAFFLESIA"
+msgid "threatened with extinction."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Rafflesia is the rarest";
+msgctxt "#RAFFLESIA"
+msgid "Rafflesia is the rarest"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "monster in Rune-Midgard and";
+msgctxt "#RAFFLESIA"
+msgid "monster in Rune-Midgard and"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "is thus protected by law.";
+msgctxt "#RAFFLESIA"
+msgid "is thus protected by law."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Due to this situation, most Sages";
+msgctxt "#RAFFLESIA"
+msgid "Due to this situation, most Sages"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "are having a hard time to";
+msgctxt "#RAFFLESIA"
+msgid "are having a hard time to"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "research this monster.";
+msgctxt "#RAFFLESIA"
+msgid "research this monster."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "However, a few Sages are";
+msgctxt "#RAFFLESIA"
+msgid "However, a few Sages are"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "currently seeking methods to";
+msgctxt "#RAFFLESIA"
+msgid "currently seeking methods to"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "cultivate and save the Rafflesias.";
+msgctxt "#RAFFLESIA"
+msgid "cultivate and save the Rafflesias."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#STEM_WORM"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Stem Worm";
+msgctxt "#STEM_WORM"
+msgid " Scientific name : Stem Worm"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#STEM_WORM"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Wind";
+msgctxt "#STEM_WORM"
+msgid " Attribute : Wind"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#STEM_WORM"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "A mutated Worm Tail that has a";
+msgctxt "#STEM_WORM"
+msgid "A mutated Worm Tail that has a"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "round, brownish grey body with";
+msgctxt "#STEM_WORM"
+msgid "round, brownish grey body with"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "a small head. It is covered";
+msgctxt "#STEM_WORM"
+msgid "a small head. It is covered"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "with scales and has a long";
+msgctxt "#STEM_WORM"
+msgid "with scales and has a long"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "stem-like tail which is used";
+msgctxt "#STEM_WORM"
+msgid "stem-like tail which is used"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "as a whip in attacks.";
+msgctxt "#STEM_WORM"
+msgid "as a whip in attacks."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#BLAZZER"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Blazzer";
+msgctxt "#BLAZZER"
+msgid " Scientific name : Blazzer"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#BLAZZER"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Fire";
+msgctxt "#BLAZZER"
+msgid " Attribute : Fire"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#BLAZZER"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "This is a fire ball that has been";
+msgctxt "#BLAZZER"
+msgid "This is a fire ball that has been"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "seen near volcanic zones.";
+msgctxt "#BLAZZER"
+msgid "seen near volcanic zones."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Because of this monster's sudden";
+msgctxt "#BLAZZER"
+msgid "Because of this monster's sudden"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "appearance, Sages believe that";
+msgctxt "#BLAZZER"
+msgid "appearance, Sages believe that"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "volcanic activity may occur";
+msgctxt "#BLAZZER"
+msgid "volcanic activity may occur"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "sooner or later near Juno.";
+msgctxt "#BLAZZER"
+msgid "sooner or later near Juno."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Blazzer blows out noxious gas";
+msgctxt "#BLAZZER"
+msgid "Blazzer blows out noxious gas"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "which harm passersby. It is";
+msgctxt "#BLAZZER"
+msgid "which harm passersby. It is"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "unknown whether or not these";
+msgctxt "#BLAZZER"
+msgid "unknown whether or not these"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "are attacks or the Blazzer's";
+msgctxt "#BLAZZER"
+msgid "are attacks or the Blazzer's"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "form of communication.";
+msgctxt "#BLAZZER"
+msgid "form of communication."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#RIDEWORD"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Ride Word";
+msgctxt "#RIDEWORD"
+msgid " Scientific name : Ride Word"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Small";
+msgctxt "#RIDEWORD"
+msgid " Size : Small"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Neutral";
+msgctxt "#RIDEWORD"
+msgid " Attribute : Neutral"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#RIDEWORD"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "It's a cursed magic book with";
+msgctxt "#RIDEWORD"
+msgid "It's a cursed magic book with"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "sharp teeth. It exists to attack any living thing nearby.";
+msgctxt "#RIDEWORD"
+msgid "sharp teeth. It exists to attack any living thing nearby."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#MEGALODON"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Megalodon";
+msgctxt "#MEGALODON"
+msgid " Scientific name : Megalodon"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#MEGALODON"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Undead";
+msgctxt "#MEGALODON"
+msgid " Attribute : Undead"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#MEGALODON"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "A skeleton fish that was brought";
+msgctxt "#MEGALODON"
+msgid "A skeleton fish that was brought"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "back to life by a curse. Although";
+msgctxt "#MEGALODON"
+msgid "back to life by a curse. Although"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "It looks very threatening, it's";
+msgctxt "#MEGALODON"
+msgid "It looks very threatening, it's"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "benign and will not attack";
+msgctxt "#MEGALODON"
+msgid "benign and will not attack"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "undersea travellers outright.";
+msgctxt "#MEGALODON"
+msgid "undersea travellers outright."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#SLEEPER"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Sleeper";
+msgctxt "#SLEEPER"
+msgid " Scientific name : Sleeper"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#SLEEPER"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Earth";
+msgctxt "#SLEEPER"
+msgid " Attribute : Earth"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#SLEEPER"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Unidentified sand creature.";
+msgctxt "#SLEEPER"
+msgid "Unidentified sand creature."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Usually it stays under the earth,";
+msgctxt "#SLEEPER"
+msgid "Usually it stays under the earth,"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "but when travellers step on the";
+msgctxt "#SLEEPER"
+msgid "but when travellers step on the"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "sand, it may abruptly";
+msgctxt "#SLEEPER"
+msgid "sand, it may abruptly"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "appear to attack them.";
+msgctxt "#SLEEPER"
+msgid "appear to attack them."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "It's smaller than Sandman and can";
+msgctxt "#SLEEPER"
+msgid "It's smaller than Sandman and can"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "cause indirect attacks by causing a sand storm.";
+msgctxt "#SLEEPER"
+msgid "cause indirect attacks by causing a sand storm."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#ANCIENT_MUMMY"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Ancient Mummy";
+msgctxt "#ANCIENT_MUMMY"
+msgid " Scientific name : Ancient Mummy"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#ANCIENT_MUMMY"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Undead";
+msgctxt "#ANCIENT_MUMMY"
+msgid " Attribute : Undead"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#ANCIENT_MUMMY"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "A mummy cursed with eternal life.";
+msgctxt "#ANCIENT_MUMMY"
+msgid "A mummy cursed with eternal life."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Although wrapped in decaying";
+msgctxt "#ANCIENT_MUMMY"
+msgid "Although wrapped in decaying"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "bandages, Ancient Mummy also";
+msgctxt "#ANCIENT_MUMMY"
+msgid "bandages, Ancient Mummy also"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "wears a splendid hair ornament";
+msgctxt "#ANCIENT_MUMMY"
+msgid "wears a splendid hair ornament"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "adorned with a snake.";
+msgctxt "#ANCIENT_MUMMY"
+msgid "adorned with a snake."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "This kind of head ornament";
+msgctxt "#ANCIENT_MUMMY"
+msgid "This kind of head ornament"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "indicates that the Ancient";
+msgctxt "#ANCIENT_MUMMY"
+msgid "indicates that the Ancient"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Mummy was a person of high rank";
+msgctxt "#ANCIENT_MUMMY"
+msgid "Mummy was a person of high rank"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "while he was still alive.";
+msgctxt "#ANCIENT_MUMMY"
+msgid "while he was still alive."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Since Ancient Mummy has";
+msgctxt "#ANCIENT_MUMMY"
+msgid "Since Ancient Mummy has"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "been wandering the underworld";
+msgctxt "#ANCIENT_MUMMY"
+msgid "been wandering the underworld"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "for a long time, it does not have";
+msgctxt "#ANCIENT_MUMMY"
+msgid "for a long time, it does not have"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "any consciousness and will";
+msgctxt "#ANCIENT_MUMMY"
+msgid "any consciousness and will"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "attack any living thing nearby.";
+msgctxt "#ANCIENT_MUMMY"
+msgid "attack any living thing nearby."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#INCUBUS"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Incubus";
+msgctxt "#INCUBUS"
+msgid " Scientific name : Incubus"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#INCUBUS"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Shadow";
+msgctxt "#INCUBUS"
+msgid " Attribute : Shadow"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#INCUBUS"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "This demon attracts humans";
+msgctxt "#INCUBUS"
+msgid "This demon attracts humans"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "with its stunningly beautiful";
+msgctxt "#INCUBUS"
+msgid "with its stunningly beautiful"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "appearance. When it poses as a";
+msgctxt "#INCUBUS"
+msgid "appearance. When it poses as a"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "male human, we call it Incubus.";
+msgctxt "#INCUBUS"
+msgid "male human, we call it Incubus."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "As a female, we call it Succubus.";
+msgctxt "#INCUBUS"
+msgid "As a female, we call it Succubus."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "This devil targets people with";
+msgctxt "#INCUBUS"
+msgid "This devil targets people with"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "mental vulnerabilities so that";
+msgctxt "#INCUBUS"
+msgid "mental vulnerabilities so that"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "it can eventually take them to hell.";
+msgctxt "#INCUBUS"
+msgid "it can eventually take them to hell."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " ";
+msgctxt "#SUCCUBUS"
+msgid " "
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Scientific name : Succubus";
+msgctxt "#SUCCUBUS"
+msgid " Scientific name : Succubus"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Size : Medium";
+msgctxt "#SUCCUBUS"
+msgid " Size : Medium"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes " Attribute : Shadow";
+msgctxt "#SUCCUBUS"
+msgid " Attribute : Shadow"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "Explanation :";
+msgctxt "#SUCCUBUS"
+msgid "Explanation :"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "This demon attracts humans";
+msgctxt "#SUCCUBUS"
+msgid "This demon attracts humans"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "with its stunningly beautiful";
+msgctxt "#SUCCUBUS"
+msgid "with its stunningly beautiful"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "appearance. When it poses as a";
+msgctxt "#SUCCUBUS"
+msgid "appearance. When it poses as a"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "female human, we call it Succubus.";
+msgctxt "#SUCCUBUS"
+msgid "female human, we call it Succubus."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "As a male, we call it Incubus.";
+msgctxt "#SUCCUBUS"
+msgid "As a male, we call it Incubus."
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "This devil targets people with";
+msgctxt "#SUCCUBUS"
+msgid "This devil targets people with"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "mental vulnerabilities so that";
+msgctxt "#SUCCUBUS"
+msgid "mental vulnerabilities so that"
+msgstr ""
+
+#: npc/other/monster_museum.txt
+# mes "it can eventually take them to hell.";
+msgctxt "#SUCCUBUS"
+msgid "it can eventually take them to hell."
+msgstr ""

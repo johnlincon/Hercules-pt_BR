@@ -1,0 +1,7334 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Shi Yan Wen]";
+msgctxt "Chief#gon"
+msgid "[Shi Yan Wen]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm...?";
+msgctxt "Chief#gon"
+msgid "Hmm...?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, hello there~";
+msgctxt "Chief#gon"
+msgid "Oh, hello there~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I am Shi Yan Wen, the chief of";
+msgctxt "Chief#gon"
+msgid "I am Shi Yan Wen, the chief of"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "this village. Allow me to personally welcome you to Kunlun.";
+msgctxt "Chief#gon"
+msgid "this village. Allow me to personally welcome you to Kunlun."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Although our village hasn't";
+msgctxt "Chief#gon"
+msgid "Although our village hasn't"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "associated with other towns very";
+msgctxt "Chief#gon"
+msgid "associated with other towns very"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "much, we have recently begun";
+msgctxt "Chief#gon"
+msgid "much, we have recently begun"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to allow visitors coming from Alberta.";
+msgctxt "Chief#gon"
+msgid "to allow visitors coming from Alberta."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I feel that this town has been";
+msgctxt "Chief#gon"
+msgid "I feel that this town has been"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "isolated for too long. Because";
+msgctxt "Chief#gon"
+msgid "isolated for too long. Because"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "of that, people in this town aren't too friendly with visitors yet.";
+msgctxt "Chief#gon"
+msgid "of that, people in this town aren't too friendly with visitors yet."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Moreover, we've been having a recent problem with thieves";
+msgctxt "Chief#gon"
+msgid "Moreover, we've been having a recent problem with thieves"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "that have been enjoying themselves far too much in Kunlun...";
+msgctxt "Chief#gon"
+msgid "that have been enjoying themselves far too much in Kunlun..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well, you've come to visit here";
+msgctxt "Chief#gon"
+msgid "Well, you've come to visit here"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "so I hope you enjoy your stay.";
+msgctxt "Chief#gon"
+msgid "so I hope you enjoy your stay."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, it's you~";
+msgctxt "Chief#gon"
+msgid "Oh, it's you~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "How do you like it here so far?";
+msgctxt "Chief#gon"
+msgid "How do you like it here so far?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "As you've probably noticed,";
+msgctxt "Chief#gon"
+msgid "As you've probably noticed,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "the village isn't that peaceful, huh?";
+msgctxt "Chief#gon"
+msgid "the village isn't that peaceful, huh?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("It's alright.", "I heard that something was stolen...") == 1) {
+msgctxt "Chief#gon"
+msgid "It's alright."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("It's alright.", "I heard that something was stolen...") == 1) {
+msgctxt "Chief#gon"
+msgid "I heard that something was stolen..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well, I'm glad you don't mind.";
+msgctxt "Chief#gon"
+msgid "Well, I'm glad you don't mind."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Just watch out for robbers,";
+msgctxt "Chief#gon"
+msgid "Just watch out for robbers,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "and try not to act suspicious";
+msgctxt "Chief#gon"
+msgid "and try not to act suspicious"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "in the village.";
+msgctxt "Chief#gon"
+msgid "in the village."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm...you've heard of it?";
+msgctxt "Chief#gon"
+msgid "Hmm...you've heard of it?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It was just last night when the";
+msgctxt "Chief#gon"
+msgid "It was just last night when the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "robbery occurred. The rumors";
+msgctxt "Chief#gon"
+msgid "robbery occurred. The rumors"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "are true. Sadly, there are lots of thieves out there in the village...";
+msgctxt "Chief#gon"
+msgid "are true. Sadly, there are lots of thieves out there in the village..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("......", "What was stolen?", "Was anyone hurt?")) {
+msgctxt "Chief#gon"
+msgid "......"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("......", "What was stolen?", "Was anyone hurt?")) {
+msgctxt "Chief#gon"
+msgid "What was stolen?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("......", "What was stolen?", "Was anyone hurt?")) {
+msgctxt "Chief#gon"
+msgid "Was anyone hurt?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I can't believe it really";
+msgctxt "Chief#gon"
+msgid "I can't believe it really"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "happened... Well, if you see";
+msgctxt "Chief#gon"
+msgid "happened... Well, if you see"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "any suspicious characters around,";
+msgctxt "Chief#gon"
+msgid "any suspicious characters around,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "or find what was stolen, please let me know.";
+msgctxt "Chief#gon"
+msgid "or find what was stolen, please let me know."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well...";
+msgctxt "Chief#gon"
+msgid "Well..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Erm...it was...";
+msgctxt "Chief#gon"
+msgid "Erm...it was..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...just an ordinary sword.";
+msgctxt "Chief#gon"
+msgid "...just an ordinary sword."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But to us, it's been a family treasure for many generations.";
+msgctxt "Chief#gon"
+msgid "But to us, it's been a family treasure for many generations."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I must find this sword";
+msgctxt "Chief#gon"
+msgid "I must find this sword"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "no matter what!";
+msgctxt "Chief#gon"
+msgid "no matter what!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...but I can't go find it just";
+msgctxt "Chief#gon"
+msgid "...but I can't go find it just"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "by myself. I'm just too busy.";
+msgctxt "Chief#gon"
+msgid "by myself. I'm just too busy."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You know how busy it is to be the";
+msgctxt "Chief#gon"
+msgid "You know how busy it is to be the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "chief of a village. This is very troubling...*Sigh*";
+msgctxt "Chief#gon"
+msgid "chief of a village. This is very troubling...*Sigh*"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Hope you find it soon.", "Can I find it for you?") == 1) {
+msgctxt "Chief#gon"
+msgid "Hope you find it soon."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Hope you find it soon.", "Can I find it for you?") == 1) {
+msgctxt "Chief#gon"
+msgid "Can I find it for you?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "um..Thank you.";
+msgctxt "Chief#gon"
+msgid "um..Thank you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If you somehow come across it,";
+msgctxt "Chief#gon"
+msgid "If you somehow come across it,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "please let me know.";
+msgctxt "Chief#gon"
+msgid "please let me know."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh!~ Are you serious??";
+msgctxt "Chief#gon"
+msgid "Oh!~ Are you serious??"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...The people in the village are";
+msgctxt "Chief#gon"
+msgid "...The people in the village are"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "very fearful these days because";
+msgctxt "Chief#gon"
+msgid "very fearful these days because"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "of the thieves. It is so difficult";
+msgctxt "Chief#gon"
+msgid "of the thieves. It is so difficult"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to ask them for help...";
+msgctxt "Chief#gon"
+msgid "to ask them for help..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If you would help me find the sword, I will surely repay you for your efforts.";
+msgctxt "Chief#gon"
+msgid "If you would help me find the sword, I will surely repay you for your efforts."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Fortunately, no one was hurt.";
+msgctxt "Chief#gon"
+msgid "Fortunately, no one was hurt."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "However, the thieves took a";
+msgctxt "Chief#gon"
+msgid "However, the thieves took a"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "valuable family treasure";
+msgctxt "Chief#gon"
+msgid "valuable family treasure"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "which has been passed down from";
+msgctxt "Chief#gon"
+msgid "which has been passed down from"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "generation to generation.";
+msgctxt "Chief#gon"
+msgid "generation to generation."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...But I can't go find it just";
+msgctxt "Chief#gon"
+msgid "...But I can't go find it just"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Um..Thank you.";
+msgctxt "Chief#gon"
+msgid "Um..Thank you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Haven't found it yet?";
+msgctxt "Chief#gon"
+msgid "Haven't found it yet?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "There's no rush, take it easy.";
+msgctxt "Chief#gon"
+msgid "There's no rush, take it easy."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You have to take care of";
+msgctxt "Chief#gon"
+msgid "You have to take care of"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "yourself first before";
+msgctxt "Chief#gon"
+msgid "yourself first before"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "doing favors for others.";
+msgctxt "Chief#gon"
+msgid "doing favors for others."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, you found a clue?";
+msgctxt "Chief#gon"
+msgid "Oh, you found a clue?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So far, it looks like";
+msgctxt "Chief#gon"
+msgid "So far, it looks like"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you're doing good work.";
+msgctxt "Chief#gon"
+msgid "you're doing good work."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Take this old family medicine, it might be of use sometime soon.";
+msgctxt "Chief#gon"
+msgid "Take this old family medicine, it might be of use sometime soon."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It might be helpful for you to";
+msgctxt "Chief#gon"
+msgid "It might be helpful for you to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "know that the thief sustained";
+msgctxt "Chief#gon"
+msgid "know that the thief sustained"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "an injury, so he is probably not very far from here.";
+msgctxt "Chief#gon"
+msgid "an injury, so he is probably not very far from here."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What...?";
+msgctxt "Chief#gon"
+msgid "What...?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "My sword has been broken!?";
+msgctxt "Chief#gon"
+msgid "My sword has been broken!?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Unbelievable~!!";
+msgctxt "Chief#gon"
+msgid "Unbelievable~!!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "How could this happen??";
+msgctxt "Chief#gon"
+msgid "How could this happen??"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "First it's stolen, and now";
+msgctxt "Chief#gon"
+msgid "First it's stolen, and now"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "it's in pieces... *Sob*";
+msgctxt "Chief#gon"
+msgid "it's in pieces... *Sob*"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Would you please search";
+msgctxt "Chief#gon"
+msgid "Would you please search"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "for the rest of my sword?";
+msgctxt "Chief#gon"
+msgid "for the rest of my sword?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It means so much to my family...";
+msgctxt "Chief#gon"
+msgid "It means so much to my family..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "*Sob*...";
+msgctxt "Chief#gon"
+msgid "*Sob*..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...my sword... in pieces...";
+msgctxt "Chief#gon"
+msgid "...my sword... in pieces..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I beg of you, please find them";
+msgctxt "Chief#gon"
+msgid "I beg of you, please find them"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "for me. I will give you something in return.";
+msgctxt "Chief#gon"
+msgid "for me. I will give you something in return."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh!~";
+msgctxt "Chief#gon"
+msgid "Oh!~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You've found the pieces for me~";
+msgctxt "Chief#gon"
+msgid "You've found the pieces for me~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I knew you could do it.";
+msgctxt "Chief#gon"
+msgid "I knew you could do it."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But the sword is still shattered.";
+msgctxt "Chief#gon"
+msgid "But the sword is still shattered."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What shall I do...?";
+msgctxt "Chief#gon"
+msgid "What shall I do...?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If it's okay with you,";
+msgctxt "Chief#gon"
+msgid "If it's okay with you,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "would you repair my sword for me?";
+msgctxt "Chief#gon"
+msgid "would you repair my sword for me?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll repay you for your help.";
+msgctxt "Chief#gon"
+msgid "I'll repay you for your help."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("No way.", "Alright.") == 1) {
+msgctxt "Chief#gon"
+msgid "No way."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("No way.", "Alright.") == 1) {
+msgctxt "Chief#gon"
+msgid "Alright."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well, I see...you've been such a";
+msgctxt "Chief#gon"
+msgid "Well, I see...you've been such a"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "nice person. I truly appreciate";
+msgctxt "Chief#gon"
+msgid "nice person. I truly appreciate"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "your hard work. It would be";
+msgctxt "Chief#gon"
+msgid "your hard work. It would be"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "wonderful if you could help";
+msgctxt "Chief#gon"
+msgid "wonderful if you could help"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "me repair the sword, but I";
+msgctxt "Chief#gon"
+msgid "me repair the sword, but I"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "will not force you.";
+msgctxt "Chief#gon"
+msgid "will not force you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll find some way to repair";
+msgctxt "Chief#gon"
+msgid "I'll find some way to repair"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "it. Without your help, I ";
+msgctxt "Chief#gon"
+msgid "it. Without your help, I "
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "would have never found it.";
+msgctxt "Chief#gon"
+msgid "would have never found it."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Please accept this as a";
+msgctxt "Chief#gon"
+msgid "Please accept this as a"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "token of my gratitude...";
+msgctxt "Chief#gon"
+msgid "token of my gratitude..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If you find any information";
+msgctxt "Chief#gon"
+msgid "If you find any information"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "or clues about that cursed";
+msgctxt "Chief#gon"
+msgid "or clues about that cursed"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "thief, please let me know.";
+msgctxt "Chief#gon"
+msgid "thief, please let me know."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I have my sword back but";
+msgctxt "Chief#gon"
+msgid "I have my sword back but"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "there's no way I can forgive";
+msgctxt "Chief#gon"
+msgid "there's no way I can forgive"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "this affront to my ancestors...";
+msgctxt "Chief#gon"
+msgid "this affront to my ancestors..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Such generosity...";
+msgctxt "Chief#gon"
+msgid "Such generosity..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm truly indebted to you...";
+msgctxt "Chief#gon"
+msgid "I'm truly indebted to you..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I have no idea how this sword";
+msgctxt "Chief#gon"
+msgid "I have no idea how this sword"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "broke into pieces, though.";
+msgctxt "Chief#gon"
+msgid "broke into pieces, though."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You will probably need to find a";
+msgctxt "Chief#gon"
+msgid "You will probably need to find a"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "famous blacksmith to repair it.";
+msgctxt "Chief#gon"
+msgid "famous blacksmith to repair it."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "As I already mentioned, this is";
+msgctxt "Chief#gon"
+msgid "As I already mentioned, this is"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "an important family treasure...";
+msgctxt "Chief#gon"
+msgid "an important family treasure..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh! I just remembered--";
+msgctxt "Chief#gon"
+msgid "Oh! I just remembered--"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "There's a guy named ^555555Zuo Hei^000000";
+msgctxt "Chief#gon"
+msgid "There's a guy named ^555555Zuo Hei^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "in the village. He has been to";
+msgctxt "Chief#gon"
+msgid "in the village. He has been to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "many places around the world.";
+msgctxt "Chief#gon"
+msgid "many places around the world."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "He may know of such a weaponsmith. Please seek this man out.";
+msgctxt "Chief#gon"
+msgid "He may know of such a weaponsmith. Please seek this man out."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, one last thing. This is";
+msgctxt "Chief#gon"
+msgid "Oh, one last thing. This is"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "but a trinket, but please";
+msgctxt "Chief#gon"
+msgid "but a trinket, but please"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "accept this gift from me.";
+msgctxt "Chief#gon"
+msgid "accept this gift from me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "The village is not in a good";
+msgctxt "Chief#gon"
+msgid "The village is not in a good"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "mood these days, but there are";
+msgctxt "Chief#gon"
+msgid "mood these days, but there are"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "still lots of things to see in Kunlun.";
+msgctxt "Chief#gon"
+msgid "still lots of things to see in Kunlun."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm.. no traces? No clues?";
+msgctxt "Chief#gon"
+msgid "Hmm.. no traces? No clues?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "... Nothing? Well, that's";
+msgctxt "Chief#gon"
+msgid "... Nothing? Well, that's"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "alright. Thank you for";
+msgctxt "Chief#gon"
+msgid "alright. Thank you for"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "trying to help.";
+msgctxt "Chief#gon"
+msgid "trying to help."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm....";
+msgctxt "Chief#gon"
+msgid "Hmm...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Here...take this.";
+msgctxt "Chief#gon"
+msgid "Here...take this."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Have a good time in Kunlun~";
+msgctxt "Chief#gon"
+msgid "Have a good time in Kunlun~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Is everything going well?";
+msgctxt "Chief#gon"
+msgid "Is everything going well?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "The village has not been";
+msgctxt "Chief#gon"
+msgid "The village has not been"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "in a good mood, lately.";
+msgctxt "Chief#gon"
+msgid "in a good mood, lately."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Still, please try to";
+msgctxt "Chief#gon"
+msgid "Still, please try to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "enjoy yourself.";
+msgctxt "Chief#gon"
+msgid "enjoy yourself."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I really appreciate what you are";
+msgctxt "Chief#gon"
+msgid "I really appreciate what you are"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "doing. It's a big relief that";
+msgctxt "Chief#gon"
+msgid "doing. It's a big relief that"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "something is finally being done";
+msgctxt "Chief#gon"
+msgid "something is finally being done"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "about these thefts.";
+msgctxt "Chief#gon"
+msgid "about these thefts."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Perhaps now, peace will finally";
+msgctxt "Chief#gon"
+msgid "Perhaps now, peace will finally"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "come to the village, just like in the old days...";
+msgctxt "Chief#gon"
+msgid "come to the village, just like in the old days..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I appreciate what you are doing,";
+msgctxt "Chief#gon"
+msgid "I appreciate what you are doing,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "and your help has been";
+msgctxt "Chief#gon"
+msgid "and your help has been"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "a relief to me. The Village";
+msgctxt "Chief#gon"
+msgid "a relief to me. The Village"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "seems less tense, much like";
+msgctxt "Chief#gon"
+msgid "seems less tense, much like"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "it was in the old days.";
+msgctxt "Chief#gon"
+msgid "it was in the old days."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Although I hope you'll be";
+msgctxt "Chief#gon"
+msgid "Although I hope you'll be"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "be able to repair my";
+msgctxt "Chief#gon"
+msgid "be able to repair my"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "sword soon, you've";
+msgctxt "Chief#gon"
+msgid "sword soon, you've"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "already done so much for";
+msgctxt "Chief#gon"
+msgid "already done so much for"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "me. I feel sorry for";
+msgctxt "Chief#gon"
+msgid "me. I feel sorry for"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "asking you to do more.";
+msgctxt "Chief#gon"
+msgid "asking you to do more."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hm.....";
+msgctxt "Chief#gon"
+msgid "Hm....."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Not finished yet, huh?";
+msgctxt "Chief#gon"
+msgid "Not finished yet, huh?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Still, it's good to know";
+msgctxt "Chief#gon"
+msgid "Still, it's good to know"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "it's being repaired...";
+msgctxt "Chief#gon"
+msgid "it's being repaired..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll be waiting, then.";
+msgctxt "Chief#gon"
+msgid "I'll be waiting, then."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, it's you~ Hello.";
+msgctxt "Chief#gon"
+msgid "Oh, it's you~ Hello."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "............";
+msgctxt "Chief#gon"
+msgid "............"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Is that my sword?";
+msgctxt "Chief#gon"
+msgid "Is that my sword?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Wow, you've done it!";
+msgctxt "Chief#gon"
+msgid "Wow, you've done it!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Good work!";
+msgctxt "Chief#gon"
+msgid "Good work!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "This is a small gift for you.";
+msgctxt "Chief#gon"
+msgid "This is a small gift for you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Please take it as thanks for a job well done!";
+msgctxt "Chief#gon"
+msgid "Please take it as thanks for a job well done!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thank you for all of your efforts.";
+msgctxt "Chief#gon"
+msgid "Thank you for all of your efforts."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "With this sword repaired, I no";
+msgctxt "Chief#gon"
+msgid "With this sword repaired, I no"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "longer feel that I am shaming";
+msgctxt "Chief#gon"
+msgid "longer feel that I am shaming"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "my ancestors...";
+msgctxt "Chief#gon"
+msgid "my ancestors..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Heh heh...";
+msgctxt "Chief#gon"
+msgid "Heh heh..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Have a good time in Kunlun.";
+msgctxt "Chief#gon"
+msgid "Have a good time in Kunlun."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Once again, I'd like to thank";
+msgctxt "Chief#gon"
+msgid "Once again, I'd like to thank"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you for all of your help.";
+msgctxt "Chief#gon"
+msgid "you for all of your help."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Enjoy your stay in our village.";
+msgctxt "Chief#gon"
+msgid "Enjoy your stay in our village."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Heh heh~";
+msgctxt "Chief#gon"
+msgid "Heh heh~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Mei Yen Fang]";
+msgctxt "Hostess#gon"
+msgid "[Mei Yen Fang]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh...you're new here, right?";
+msgctxt "Hostess#gon"
+msgid "Oh...you're new here, right?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Came from out of town?";
+msgctxt "Hostess#gon"
+msgid "Came from out of town?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's common to see lots of";
+msgctxt "Hostess#gon"
+msgid "It's common to see lots of"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "foreigners these days.";
+msgctxt "Hostess#gon"
+msgid "foreigners these days."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It made people in the village busy.";
+msgctxt "Hostess#gon"
+msgid "It made people in the village busy."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, what am I saying...";
+msgctxt "Hostess#gon"
+msgid "Oh, what am I saying..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Want some wine?";
+msgctxt "Hostess#gon"
+msgid "Want some wine?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Yes, please", "No, it's okay.") == 1) {
+msgctxt "Hostess#gon"
+msgid "Yes, please"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Yes, please", "No, it's okay.") == 1) {
+msgctxt "Hostess#gon"
+msgid "No, it's okay."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oooops~! Oh no...";
+msgctxt "Hostess#gon"
+msgid "Oooops~! Oh no..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "A lot of customers came by earlier,";
+msgctxt "Hostess#gon"
+msgid "A lot of customers came by earlier,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "so now we're out of wine...";
+msgctxt "Hostess#gon"
+msgid "so now we're out of wine..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's getting difficult to keep up with the increasing number of customers...";
+msgctxt "Hostess#gon"
+msgid "It's getting difficult to keep up with the increasing number of customers..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well, have fun in the village.";
+msgctxt "Hostess#gon"
+msgid "Well, have fun in the village."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Stop by again sometime.";
+msgctxt "Hostess#gon"
+msgid "Stop by again sometime."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hey, you know what?";
+msgctxt "Hostess#gon"
+msgid "Hey, you know what?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "The chief's house was robbed";
+msgctxt "Hostess#gon"
+msgid "The chief's house was robbed"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "last night. I can't believe";
+msgctxt "Hostess#gon"
+msgid "last night. I can't believe"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "this happened...I guess this is the work of those thieves...";
+msgctxt "Hostess#gon"
+msgid "this happened...I guess this is the work of those thieves..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "How worrisome it all is...";
+msgctxt "Hostess#gon"
+msgid "How worrisome it all is..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It could even happen to me!";
+msgctxt "Hostess#gon"
+msgid "It could even happen to me!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I better watch out...";
+msgctxt "Hostess#gon"
+msgid "I better watch out..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, what am I saying?";
+msgctxt "Hostess#gon"
+msgid "Oh, what am I saying?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Enjoy your time in my shop...hehe~";
+msgctxt "Hostess#gon"
+msgid "Enjoy your time in my shop...hehe~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, it's you again~";
+msgctxt "Hostess#gon"
+msgid "Oh, it's you again~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I heard that you've decided";
+msgctxt "Hostess#gon"
+msgid "I heard that you've decided"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to help our chief.";
+msgctxt "Hostess#gon"
+msgid "to help our chief."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Please do your best for him!";
+msgctxt "Hostess#gon"
+msgid "Please do your best for him!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Everyone in the village has";
+msgctxt "Hostess#gon"
+msgid "Everyone in the village has"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "been on edge...";
+msgctxt "Hostess#gon"
+msgid "been on edge..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Do you see that guy over there";
+msgctxt "Hostess#gon"
+msgid "Do you see that guy over there"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "leaning on the table?";
+msgctxt "Hostess#gon"
+msgid "leaning on the table?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "He seems to know about what";
+msgctxt "Hostess#gon"
+msgid "He seems to know about what"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "happened last night, but...";
+msgctxt "Hostess#gon"
+msgid "happened last night, but..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "He's been drinking all night long.";
+msgctxt "Hostess#gon"
+msgid "He's been drinking all night long."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hello there~";
+msgctxt "Hostess#gon"
+msgid "Hello there~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Feeling tension in the village,";
+msgctxt "Hostess#gon"
+msgid "Feeling tension in the village,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "huh? It's all because of those";
+msgctxt "Hostess#gon"
+msgid "huh? It's all because of those"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "thieves... ";
+msgctxt "Hostess#gon"
+msgid "thieves... "
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "They're also making things hard for my business...";
+msgctxt "Hostess#gon"
+msgid "They're also making things hard for my business..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes " ";
+msgctxt "Hostess#gon"
+msgid " "
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "*Sigh*";
+msgctxt "Hostess#gon"
+msgid "*Sigh*"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "huh? I Hope the thief will get caught soon.";
+msgctxt "Hostess#gon"
+msgid "huh? I Hope the thief will get caught soon."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...";
+msgctxt "Hostess#gon"
+msgid "..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You caught him?!";
+msgctxt "Hostess#gon"
+msgid "You caught him?!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Wow, you're very brave.";
+msgctxt "Hostess#gon"
+msgid "Wow, you're very brave."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I should get ready to run the";
+msgctxt "Hostess#gon"
+msgid "I should get ready to run the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "shop again. But I'll need to";
+msgctxt "Hostess#gon"
+msgid "shop again. But I'll need to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "order some wine first.";
+msgctxt "Hostess#gon"
+msgid "order some wine first."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Xue Bong drank all the wine in the";
+msgctxt "Hostess#gon"
+msgid "Xue Bong drank all the wine in the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "shop, and I didn't restock any";
+msgctxt "Hostess#gon"
+msgid "shop, and I didn't restock any"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "since everyone has been scared";
+msgctxt "Hostess#gon"
+msgid "since everyone has been scared"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "off by the thefts...";
+msgctxt "Hostess#gon"
+msgid "off by the thefts..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But stop by next time.";
+msgctxt "Hostess#gon"
+msgid "But stop by next time."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll have some wine ready.";
+msgctxt "Hostess#gon"
+msgid "I'll have some wine ready."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Xue Bong]";
+msgctxt "Man in hangover#gon"
+msgid "[Xue Bong]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ahhh.. my stomach.. my head..";
+msgctxt "Man in hangover#gon"
+msgid "Ahhh.. my stomach.. my head.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I shouldn't drink so much..";
+msgctxt "Man in hangover#gon"
+msgid "I shouldn't drink so much.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ehhhh....";
+msgctxt "Man in hangover#gon"
+msgid "Ehhhh...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "*Urk!* I feel sick...";
+msgctxt "Man in hangover#gon"
+msgid "*Urk!* I feel sick..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Can somebody bring me a potion?";
+msgctxt "Man in hangover#gon"
+msgid "Can somebody bring me a potion?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "*Groan*....";
+msgctxt "Man in hangover#gon"
+msgid "*Groan*...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ohhh...my stomach...";
+msgctxt "Man in hangover#gon"
+msgid "Ohhh...my stomach..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I need something...";
+msgctxt "Man in hangover#gon"
+msgid "I need something..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Moan~ Uh, hey you!";
+msgctxt "Man in hangover#gon"
+msgid "Moan~ Uh, hey you!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Could you give me one";
+msgctxt "Man in hangover#gon"
+msgid "Could you give me one"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "of your ^00FF00Green_Potion^000000s?";
+msgctxt "Man in hangover#gon"
+msgid "of your ^00FF00Green_Potion^000000s?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I think I'm going to barf...";
+msgctxt "Man in hangover#gon"
+msgid "I think I'm going to barf..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("No.", "Here, drink this!")) {
+msgctxt "Man in hangover#gon"
+msgid "No."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("No.", "Here, drink this!")) {
+msgctxt "Man in hangover#gon"
+msgid "Here, drink this!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Uhh...";
+msgctxt "Man in hangover#gon"
+msgid "Uhh..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Are you sure?";
+msgctxt "Man in hangover#gon"
+msgid "Are you sure?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Sorry, I don't have any.", "Here, you can have it!")) {
+msgctxt "Man in hangover#gon"
+msgid "Sorry, I don't have any."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Sorry, I don't have any.", "Here, you can have it!")) {
+msgctxt "Man in hangover#gon"
+msgid "Here, you can have it!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "C'mon, man...";
+msgctxt "Man in hangover#gon"
+msgid "C'mon, man..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I...I'm in freakin' pain here...";
+msgctxt "Man in hangover#gon"
+msgid "I...I'm in freakin' pain here..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh man...thanks.";
+msgctxt "Man in hangover#gon"
+msgid "Oh man...thanks."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I thought you were teasing me.";
+msgctxt "Man in hangover#gon"
+msgid "I thought you were teasing me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I feel much better now.";
+msgctxt "Man in hangover#gon"
+msgid "I feel much better now."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So...uh, what brings you here?";
+msgctxt "Man in hangover#gon"
+msgid "So...uh, what brings you here?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Heard about the thief?", "Nothing.") == 1) {
+msgctxt "Man in hangover#gon"
+msgid "Heard about the thief?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Heard about the thief?", "Nothing.") == 1) {
+msgctxt "Man in hangover#gon"
+msgid "Nothing."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah, a thief~";
+msgctxt "Man in hangover#gon"
+msgid "Ah, a thief~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm...let me see..";
+msgctxt "Man in hangover#gon"
+msgid "Hmm...let me see.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I went out for a walk in the middle";
+msgctxt "Man in hangover#gon"
+msgid "I went out for a walk in the middle"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "of the night while I was drinking.";
+msgctxt "Man in hangover#gon"
+msgid "of the night while I was drinking."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "And I heard a noise.";
+msgctxt "Man in hangover#gon"
+msgid "And I heard a noise."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I looked around and found that the";
+msgctxt "Man in hangover#gon"
+msgid "I looked around and found that the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "area near the chief's house was";
+msgctxt "Man in hangover#gon"
+msgid "area near the chief's house was"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "brighter than any other area...";
+msgctxt "Man in hangover#gon"
+msgid "brighter than any other area..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It was odd...";
+msgctxt "Man in hangover#gon"
+msgid "It was odd..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So I kept watching it and";
+msgctxt "Man in hangover#gon"
+msgid "So I kept watching it and"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "all of a sudden, I saw something";
+msgctxt "Man in hangover#gon"
+msgid "all of a sudden, I saw something"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "moving on the rooftops...";
+msgctxt "Man in hangover#gon"
+msgid "moving on the rooftops..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It disappeared in a second.";
+msgctxt "Man in hangover#gon"
+msgid "It disappeared in a second."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I was drunk, and it was dark";
+msgctxt "Man in hangover#gon"
+msgid "I was drunk, and it was dark"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "outside. I have no idea";
+msgctxt "Man in hangover#gon"
+msgid "outside. I have no idea"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "whether it was a man,";
+msgctxt "Man in hangover#gon"
+msgid "whether it was a man,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "a poring, or if I had just";
+msgctxt "Man in hangover#gon"
+msgid "a poring, or if I had just"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "drank too much..eheh.";
+msgctxt "Man in hangover#gon"
+msgid "drank too much..eheh."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Okay then, thanks again.";
+msgctxt "Man in hangover#gon"
+msgid "Okay then, thanks again."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Don't be a drinker like me,";
+msgctxt "Man in hangover#gon"
+msgid "Don't be a drinker like me,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "unless you want to suffer from";
+msgctxt "Man in hangover#gon"
+msgid "unless you want to suffer from"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "serious hangovers. See you later~";
+msgctxt "Man in hangover#gon"
+msgid "serious hangovers. See you later~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Whew, Thanks!";
+msgctxt "Man in hangover#gon"
+msgid "Whew, Thanks!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm...you seem new around here.";
+msgctxt "Man in hangover#gon"
+msgid "Hmm...you seem new around here."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Anything you wanna know?";
+msgctxt "Man in hangover#gon"
+msgid "Anything you wanna know?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("About a thief...", "How much have you been drinking?", "Nothing~")) {
+msgctxt "Man in hangover#gon"
+msgid "About a thief..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("About a thief...", "How much have you been drinking?", "Nothing~")) {
+msgctxt "Man in hangover#gon"
+msgid "How much have you been drinking?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("About a thief...", "How much have you been drinking?", "Nothing~")) {
+msgctxt "Man in hangover#gon"
+msgid "Nothing~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah, a thief, eh? Let's see...";
+msgctxt "Man in hangover#gon"
+msgid "Ah, a thief, eh? Let's see..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "All of a sudden, I heard a strange noise...";
+msgctxt "Man in hangover#gon"
+msgid "All of a sudden, I heard a strange noise..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "brighter than any other area. It was odd...";
+msgctxt "Man in hangover#gon"
+msgid "brighter than any other area. It was odd..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So I kept watching it and,";
+msgctxt "Man in hangover#gon"
+msgid "So I kept watching it and,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "all of a sudden, I saw something moving on the rooftops...";
+msgctxt "Man in hangover#gon"
+msgid "all of a sudden, I saw something moving on the rooftops..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Where to?", "Probably a Wild Rose.") == 1) {
+msgctxt "Man in hangover#gon"
+msgid "Where to?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Where to?", "Probably a Wild Rose.") == 1) {
+msgctxt "Man in hangover#gon"
+msgid "Probably a Wild Rose."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Umm?";
+msgctxt "Man in hangover#gon"
+msgid "Umm?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well..let me see..";
+msgctxt "Man in hangover#gon"
+msgid "Well..let me see.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It came from... and head to...um...";
+msgctxt "Man in hangover#gon"
+msgid "It came from... and head to...um..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "murmur..";
+msgctxt "Man in hangover#gon"
+msgid "murmur.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^3355FFHe starts mumbling for a bit^000000";
+msgctxt "Man in hangover#gon"
+msgid "^3355FFHe starts mumbling for a bit^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "......";
+msgctxt "Man in hangover#gon"
+msgid "......"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah ha!! Right...";
+msgctxt "Man in hangover#gon"
+msgid "Ah ha!! Right..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "A shrine, yeah, the thief was";
+msgctxt "Man in hangover#gon"
+msgid "A shrine, yeah, the thief was"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "heading to a shrine and";
+msgctxt "Man in hangover#gon"
+msgid "heading to a shrine and"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "disappeared. I'm not";
+msgctxt "Man in hangover#gon"
+msgid "disappeared. I'm not"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "sure if it was a human or an";
+msgctxt "Man in hangover#gon"
+msgid "sure if it was a human or an"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "animal...";
+msgctxt "Man in hangover#gon"
+msgid "animal..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Anything else I can help you with?";
+msgctxt "Man in hangover#gon"
+msgid "Anything else I can help you with?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I appreciate the potion.";
+msgctxt "Man in hangover#gon"
+msgid "I appreciate the potion."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Thanks for the information.", "Stop drinking so much.", "Okay, bye")) {
+msgctxt "Man in hangover#gon"
+msgid "Thanks for the information."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Thanks for the information.", "Stop drinking so much.", "Okay, bye")) {
+msgctxt "Man in hangover#gon"
+msgid "Stop drinking so much."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Thanks for the information.", "Stop drinking so much.", "Okay, bye")) {
+msgctxt "Man in hangover#gon"
+msgid "Okay, bye"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll see you later then.";
+msgctxt "Man in hangover#gon"
+msgid "I'll see you later then."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm always be here drinking..eheh.";
+msgctxt "Man in hangover#gon"
+msgid "I'm always be here drinking..eheh."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ehh..Don't mind me.";
+msgctxt "Man in hangover#gon"
+msgid "Ehh..Don't mind me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm a social drinker...";
+msgctxt "Man in hangover#gon"
+msgid "I'm a social drinker..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes " ";
+msgctxt "Man in hangover#gon"
+msgid " "
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's just I don't got nobody to be social with.";
+msgctxt "Man in hangover#gon"
+msgid "It's just I don't got nobody to be social with."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Alright.";
+msgctxt "Man in hangover#gon"
+msgid "Alright."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Come again whenever you have";
+msgctxt "Man in hangover#gon"
+msgid "Come again whenever you have"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "any other questions.";
+msgctxt "Man in hangover#gon"
+msgid "any other questions."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Yeah..maybe.";
+msgctxt "Man in hangover#gon"
+msgid "Yeah..maybe."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It was so dark outside and I was";
+msgctxt "Man in hangover#gon"
+msgid "It was so dark outside and I was"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "drunk so I don't remember";
+msgctxt "Man in hangover#gon"
+msgid "drunk so I don't remember"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "clearly. I'm pretty sure it was bigger than that, though.";
+msgctxt "Man in hangover#gon"
+msgid "clearly. I'm pretty sure it was bigger than that, though."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah..um....I..I don't remember.";
+msgctxt "Man in hangover#gon"
+msgid "Ah..um....I..I don't remember."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "When I woke up, There were tons of";
+msgctxt "Man in hangover#gon"
+msgid "When I woke up, There were tons of"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "empty bottles around me.";
+msgctxt "Man in hangover#gon"
+msgid "empty bottles around me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...";
+msgctxt "Man in hangover#gon"
+msgid "..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^3355FF.......";
+msgctxt "Man in hangover#gon"
+msgid "^3355FF......."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "For some reason, you can't discern his testimony's reliability...^000000";
+msgctxt "Man in hangover#gon"
+msgid "For some reason, you can't discern his testimony's reliability...^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Alrighty then.";
+msgctxt "Man in hangover#gon"
+msgid "Alrighty then."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hope you don't ever drink like me";
+msgctxt "Man in hangover#gon"
+msgid "Hope you don't ever drink like me"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "in the future. You'll suffer";
+msgctxt "Man in hangover#gon"
+msgid "in the future. You'll suffer"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "for a long time if you do.";
+msgctxt "Man in hangover#gon"
+msgid "for a long time if you do."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You know what a hangover is, right?";
+msgctxt "Man in hangover#gon"
+msgid "You know what a hangover is, right?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, it's you. Hey.";
+msgctxt "Man in hangover#gon"
+msgid "Oh, it's you. Hey."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thanks for the potion last time.";
+msgctxt "Man in hangover#gon"
+msgid "Thanks for the potion last time."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What are you up to?";
+msgctxt "Man in hangover#gon"
+msgid "What are you up to?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Got any questions for me?";
+msgctxt "Man in hangover#gon"
+msgid "Got any questions for me?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("About a thief last night...", "Nope, just passing by..")) {
+msgctxt "Man in hangover#gon"
+msgid "About a thief last night..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("About a thief last night...", "Nope, just passing by..")) {
+msgctxt "Man in hangover#gon"
+msgid "Nope, just passing by.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah~ a thief...?";
+msgctxt "Man in hangover#gon"
+msgid "Ah~ a thief...?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm...let me see...";
+msgctxt "Man in hangover#gon"
+msgid "Hmm...let me see..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "whether it was a man, a poring,";
+msgctxt "Man in hangover#gon"
+msgid "whether it was a man, a poring,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "or if I just had too much to drink...heheh~";
+msgctxt "Man in hangover#gon"
+msgid "or if I just had too much to drink...heheh~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Okay, then, thanks again.";
+msgctxt "Man in hangover#gon"
+msgid "Okay, then, thanks again."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well, hopefully you can find";
+msgctxt "Man in hangover#gon"
+msgid "Well, hopefully you can find"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "those thieves. To keep the";
+msgctxt "Man in hangover#gon"
+msgid "those thieves. To keep the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "peace in our village, we need to help out our chief...";
+msgctxt "Man in hangover#gon"
+msgid "peace in our village, we need to help out our chief..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ughh....";
+msgctxt "Man in hangover#gon"
+msgid "ughh...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Enhhhh..go away.";
+msgctxt "Man in hangover#gon"
+msgid "Enhhhh..go away."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're merciless...";
+msgctxt "Man in hangover#gon"
+msgid "You're merciless..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "How could you turn a";
+msgctxt "Man in hangover#gon"
+msgid "How could you turn a"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "blind eye to a";
+msgctxt "Man in hangover#gon"
+msgid "blind eye to a"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "boozer's suffering?";
+msgctxt "Man in hangover#gon"
+msgid "boozer's suffering?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Urk...!";
+msgctxt "Man in hangover#gon"
+msgid "Urk...!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Enhhhh...go away.";
+msgctxt "Man in hangover#gon"
+msgid "Enhhhh...go away."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're so coldhearted...";
+msgctxt "Man in hangover#gon"
+msgid "You're so coldhearted..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "How could you turn away";
+msgctxt "Man in hangover#gon"
+msgid "How could you turn away"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "a drunk in need...?";
+msgctxt "Man in hangover#gon"
+msgid "a drunk in need...?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "*Groan*...";
+msgctxt "Man in hangover#gon"
+msgid "*Groan*..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So you found the chief's";
+msgctxt "Man in hangover#gon"
+msgid "So you found the chief's"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "belongings?! I knew it!";
+msgctxt "Man in hangover#gon"
+msgid "belongings?! I knew it!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I knew you could do it!";
+msgctxt "Man in hangover#gon"
+msgid "I knew you could do it!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're brave enough";
+msgctxt "Man in hangover#gon"
+msgid "You're brave enough"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to do anything!";
+msgctxt "Man in hangover#gon"
+msgid "to do anything!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Good job!";
+msgctxt "Man in hangover#gon"
+msgid "Good job!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem1-1"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem1-1"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem1-2"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem1-2"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem1-3"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem1-3"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem1-4"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem1-4"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem1-5"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem1-5"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem2-1"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem2-1"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem2-2"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem2-2"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem2-3"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem2-3"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem2-4"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem2-4"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem2-5"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem2-5"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem2-6"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem2-6"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem3-1"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem3-1"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You put all the pieces on the";
+msgctxt "#getitem3-1"
+msgid "You put all the pieces on the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ground and assembled them.";
+msgctxt "#getitem3-1"
+msgid "ground and assembled them."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It looks like you've found all of the pieces of the blade.";
+msgctxt "#getitem3-1"
+msgid "It looks like you've found all of the pieces of the blade."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem3-2"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem3-2"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You put all the pieces on the";
+msgctxt "#getitem3-2"
+msgid "You put all the pieces on the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ground and assembled them.";
+msgctxt "#getitem3-2"
+msgid "ground and assembled them."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It looks like you've found all of the pieces of the blade.";
+msgctxt "#getitem3-2"
+msgid "It looks like you've found all of the pieces of the blade."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem3-3"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem3-3"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You put all the pieces on the";
+msgctxt "#getitem3-3"
+msgid "You put all the pieces on the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ground and assembled them.";
+msgctxt "#getitem3-3"
+msgid "ground and assembled them."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It looks like you've found all of the pieces of the blade.";
+msgctxt "#getitem3-3"
+msgid "It looks like you've found all of the pieces of the blade."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem3-4"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem3-4"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You put all the pieces on the";
+msgctxt "#getitem3-4"
+msgid "You put all the pieces on the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ground and assembled them.";
+msgctxt "#getitem3-4"
+msgid "ground and assembled them."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It looks like you've found all of the pieces of the blade.";
+msgctxt "#getitem3-4"
+msgid "It looks like you've found all of the pieces of the blade."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem3-5"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem3-5"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You put all the pieces on the";
+msgctxt "#getitem3-5"
+msgid "You put all the pieces on the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ground and assembled them.";
+msgctxt "#getitem3-5"
+msgid "ground and assembled them."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It looks like you've found all of the pieces of the blade.";
+msgctxt "#getitem3-5"
+msgid "It looks like you've found all of the pieces of the blade."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem3-6"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem3-6"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You put all the pieces on the";
+msgctxt "#getitem3-6"
+msgid "You put all the pieces on the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ground and assembled them.";
+msgctxt "#getitem3-6"
+msgid "ground and assembled them."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It looks like you've found all of the pieces of the blade.";
+msgctxt "#getitem3-6"
+msgid "It looks like you've found all of the pieces of the blade."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found a ^FF0000piece of blade^000000.";
+msgctxt "#getitem3-7"
+msgid "You found a ^FF0000piece of blade^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Seems like it's a part of the sword you've been looking for.";
+msgctxt "#getitem3-7"
+msgid "Seems like it's a part of the sword you've been looking for."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You put all the pieces on the";
+msgctxt "#getitem3-7"
+msgid "You put all the pieces on the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ground and assembled them.";
+msgctxt "#getitem3-7"
+msgid "ground and assembled them."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It looks like you've found all of the pieces of the blade.";
+msgctxt "#getitem3-7"
+msgid "It looks like you've found all of the pieces of the blade."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Shang Hua Yen]";
+msgctxt "Madam#gnbs"
+msgid "[Shang Hua Yen]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ho, ho, ho~";
+msgctxt "Madam#gnbs"
+msgid "Ho, ho, ho~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Who might this be?";
+msgctxt "Madam#gnbs"
+msgid "Who might this be?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "A visitor from out of town~";
+msgctxt "Madam#gnbs"
+msgid "A visitor from out of town~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Welcome!";
+msgctxt "Madam#gnbs"
+msgid "Welcome!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Hello, Madam~", "Where's the chief?") == 1) {
+msgctxt "Madam#gnbs"
+msgid "Hello, Madam~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Hello, Madam~", "Where's the chief?") == 1) {
+msgctxt "Madam#gnbs"
+msgid "Where's the chief?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hello, darling~";
+msgctxt "Madam#gnbs"
+msgid "Hello, darling~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hoho~ he's upstairs.";
+msgctxt "Madam#gnbs"
+msgid "Hoho~ he's upstairs."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "My, are you such a pretty lady~";
+msgctxt "Madam#gnbs"
+msgid "My, are you such a pretty lady~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Just don't be too enraptured by my husband, alright?";
+msgctxt "Madam#gnbs"
+msgid "Just don't be too enraptured by my husband, alright?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Tee hee~";
+msgctxt "Madam#gnbs"
+msgid "Tee hee~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, he's upstairs...";
+msgctxt "Madam#gnbs"
+msgid "Oh, he's upstairs..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "My~! Aren't you a darling young";
+msgctxt "Madam#gnbs"
+msgid "My~! Aren't you a darling young"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "man. But still, not nearly as handsome as my husband~";
+msgctxt "Madam#gnbs"
+msgid "man. But still, not nearly as handsome as my husband~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You see a decomposing corpse.";
+msgctxt "Strange dead body#gnbs"
+msgid "You see a decomposing corpse."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It seems like monsters devoured it.";
+msgctxt "Strange dead body#gnbs"
+msgid "It seems like monsters devoured it."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "There's a written message between the bones of the corpse.";
+msgctxt "Strange dead body#gnbs"
+msgid "There's a written message between the bones of the corpse."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Take a look?";
+msgctxt "Strange dead body#gnbs"
+msgid "Take a look?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Yes.", "Eew, no!") == 1) {
+msgctxt "Strange dead body#gnbs"
+msgid "Yes."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Yes.", "Eew, no!") == 1) {
+msgctxt "Strange dead body#gnbs"
+msgid "Eew, no!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^3355FFThe paper is old and fading,";
+msgctxt "Strange dead body#gnbs"
+msgid "^3355FFThe paper is old and fading,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "but there are words on it.";
+msgctxt "Strange dead body#gnbs"
+msgid "but there are words on it."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's written in blood.";
+msgctxt "Strange dead body#gnbs"
+msgid "It's written in blood."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "The letters are faded and it's almost impossible to read...^000000 ";
+msgctxt "Strange dead body#gnbs"
+msgid "The letters are faded and it's almost impossible to read...^000000 "
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^FF0000Damn I can't.. believe.. failed..";
+msgctxt "Strange dead body#gnbs"
+msgid "^FF0000Damn I can't.. believe.. failed.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Sayum... I should've..";
+msgctxt "Strange dead body#gnbs"
+msgid "Sayum... I should've.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "watchout.. ehhh.. but.. break";
+msgctxt "Strange dead body#gnbs"
+msgid "watchout.. ehhh.. but.. break"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "..pieces.. and seperate..";
+msgctxt "Strange dead body#gnbs"
+msgid "..pieces.. and seperate.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I.. with";
+msgctxt "Strange dead body#gnbs"
+msgid "I.. with"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "this...^000000";
+msgctxt "Strange dead body#gnbs"
+msgid "this...^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^3355FFThe rest was indecipherable...";
+msgctxt "Strange dead body#gnbs"
+msgid "^3355FFThe rest was indecipherable..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "He probably couldn't take it any longer...^000000";
+msgctxt "Strange dead body#gnbs"
+msgid "He probably couldn't take it any longer...^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[ ^6699FF" + strcharinfo(PC_NAME) + "^000000 ]";
+msgctxt "Strange dead body#gnbs"
+msgid "[ ^6699FF"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes " ";
+msgctxt "Strange dead body#gnbs"
+msgid " "
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Yucky yucky YUCKY!";
+msgctxt "Strange dead body#gnbs"
+msgid "Yucky yucky YUCKY!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^3355FFYou feel like there's something important here...";
+msgctxt "Strange dead body#gnbs"
+msgid "^3355FFYou feel like there's something important here..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But the rotting carcass has a";
+msgctxt "Strange dead body#gnbs"
+msgid "But the rotting carcass has a"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "foul odor that makes you feel nauseated.^000000";
+msgctxt "Strange dead body#gnbs"
+msgid "foul odor that makes you feel nauseated.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^3355FFIt's a rotting human corpse...";
+msgctxt "Strange dead body#gnbs"
+msgid "^3355FFIt's a rotting human corpse..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I should just pass by.^000000";
+msgctxt "Strange dead body#gnbs"
+msgid "I should just pass by.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^3355FFA skeleton chewed up by";
+msgctxt "Strange dead body#gnbs"
+msgid "^3355FFA skeleton chewed up by"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "monsters...I feel sorry for";
+msgctxt "Strange dead body#gnbs"
+msgid "monsters...I feel sorry for"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "him, but I'm getting this";
+msgctxt "Strange dead body#gnbs"
+msgid "him, but I'm getting this"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "really creepy feeling after staring at it for a while.^000000";
+msgctxt "Strange dead body#gnbs"
+msgid "really creepy feeling after staring at it for a while.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Shi Ying Xiao]";
+msgctxt "Girl##gnbs1"
+msgid "[Shi Ying Xiao]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "..........";
+msgctxt "Girl##gnbs1"
+msgid ".........."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I was happy meeting visitors";
+msgctxt "Girl##gnbs1"
+msgid "I was happy meeting visitors"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "from outside the village,";
+msgctxt "Girl##gnbs1"
+msgid "from outside the village,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "but because of the thief, I feel terrible now...";
+msgctxt "Girl##gnbs1"
+msgid "but because of the thief, I feel terrible now..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hehe...";
+msgctxt "Girl##gnbs1"
+msgid "Hehe..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I am so happy now~";
+msgctxt "Girl##gnbs1"
+msgid "I am so happy now~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Lots of visitors are coming to our";
+msgctxt "Girl##gnbs1"
+msgid "Lots of visitors are coming to our"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "village now. But most of all,";
+msgctxt "Girl##gnbs1"
+msgid "village now. But most of all,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Someone found my father's heirloom~";
+msgctxt "Girl##gnbs1"
+msgid "Someone found my father's heirloom~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("I'm glad you're relieved.", "That would be me!") == 1) {
+msgctxt "Girl##gnbs1"
+msgid "I'm glad you're relieved."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("I'm glad you're relieved.", "That would be me!") == 1) {
+msgctxt "Girl##gnbs1"
+msgid "That would be me!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Yes, the mood of the entire";
+msgctxt "Girl##gnbs1"
+msgid "Yes, the mood of the entire"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "village seems to have calmed...";
+msgctxt "Girl##gnbs1"
+msgid "village seems to have calmed..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm sure whoever found my father's sword is a great person.";
+msgctxt "Girl##gnbs1"
+msgid "I'm sure whoever found my father's sword is a great person."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[ ^6699FF" + strcharinfo(PC_NAME) + "^000000 ]";
+msgctxt "Girl##gnbs1"
+msgid "[ ^6699FF"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I AM YOUR HERO!";
+msgctxt "Girl##gnbs1"
+msgid "I AM YOUR HERO!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thank you so much for bringing hope to our village, hero~";
+msgctxt "Girl##gnbs1"
+msgid "Thank you so much for bringing hope to our village, hero~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Zuo Hei]";
+msgctxt "Stranger#gnbs"
+msgid "[Zuo Hei]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm...";
+msgctxt "Stranger#gnbs"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm pretty busy right now, come back later.";
+msgctxt "Stranger#gnbs"
+msgid "I'm pretty busy right now, come back later."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What is it?";
+msgctxt "Stranger#gnbs"
+msgid "What is it?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What do you want?";
+msgctxt "Stranger#gnbs"
+msgid "What do you want?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I don't like to be bothered.";
+msgctxt "Stranger#gnbs"
+msgid "I don't like to be bothered."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Ask about the blacksmith.", "Why are you being so mean?") == 1) {
+msgctxt "Stranger#gnbs"
+msgid "Ask about the blacksmith."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Ask about the blacksmith.", "Why are you being so mean?") == 1) {
+msgctxt "Stranger#gnbs"
+msgid "Why are you being so mean?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ahh..";
+msgctxt "Stranger#gnbs"
+msgid "Ahh.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So you're the one who found";
+msgctxt "Stranger#gnbs"
+msgid "So you're the one who found"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "the sword, eh?";
+msgctxt "Stranger#gnbs"
+msgid "the sword, eh?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Did you also get asked to repair it?";
+msgctxt "Stranger#gnbs"
+msgid "Did you also get asked to repair it?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Exactly.", "No..I'm just...") == 1) {
+msgctxt "Stranger#gnbs"
+msgid "Exactly."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Exactly.", "No..I'm just...") == 1) {
+msgctxt "Stranger#gnbs"
+msgid "No..I'm just..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If you want some information from";
+msgctxt "Stranger#gnbs"
+msgid "If you want some information from"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "me, come back after helping the";
+msgctxt "Stranger#gnbs"
+msgid "me, come back after helping the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "person in the village who's in";
+msgctxt "Stranger#gnbs"
+msgid "person in the village who's in"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "trouble right now.";
+msgctxt "Stranger#gnbs"
+msgid "trouble right now."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's another heirloom";
+msgctxt "Stranger#gnbs"
+msgid "It's another heirloom"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "problem, but I want to";
+msgctxt "Stranger#gnbs"
+msgid "problem, but I want to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "see for myself that";
+msgctxt "Stranger#gnbs"
+msgid "see for myself that"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you're really interested";
+msgctxt "Stranger#gnbs"
+msgid "you're really interested"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "in helping others.";
+msgctxt "Stranger#gnbs"
+msgid "in helping others."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm, I didn't think so...";
+msgctxt "Stranger#gnbs"
+msgid "Hmm, I didn't think so..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Now, don't bother me anymore.";
+msgctxt "Stranger#gnbs"
+msgid "Now, don't bother me anymore."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I've got a bunch of things to do.";
+msgctxt "Stranger#gnbs"
+msgid "I've got a bunch of things to do."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Grr...";
+msgctxt "Stranger#gnbs"
+msgid "Grr..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Why should you care about";
+msgctxt "Stranger#gnbs"
+msgid "Why should you care about"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "someone else's personality?";
+msgctxt "Stranger#gnbs"
+msgid "someone else's personality?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "That's none of your business.";
+msgctxt "Stranger#gnbs"
+msgid "That's none of your business."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Take a look in the mirror first";
+msgctxt "Stranger#gnbs"
+msgid "Take a look in the mirror first"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "before you say things like that.";
+msgctxt "Stranger#gnbs"
+msgid "before you say things like that."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're in the middle of helping";
+msgctxt "Stranger#gnbs"
+msgid "You're in the middle of helping"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "someone now, I hear.";
+msgctxt "Stranger#gnbs"
+msgid "someone now, I hear."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Why don't you go and take care of them first.";
+msgctxt "Stranger#gnbs"
+msgid "Why don't you go and take care of them first."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Once you start to help someone,";
+msgctxt "Stranger#gnbs"
+msgid "Once you start to help someone,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you can't just quit halfway.";
+msgctxt "Stranger#gnbs"
+msgid "you can't just quit halfway."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What do you want??";
+msgctxt "Stranger#gnbs"
+msgid "What do you want??"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ahh...";
+msgctxt "Stranger#gnbs"
+msgid "Ahh..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So you are the one who found";
+msgctxt "Stranger#gnbs"
+msgid "So you are the one who found"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "the sword, eh? I assume you were also asked to repair it...";
+msgctxt "Stranger#gnbs"
+msgid "the sword, eh? I assume you were also asked to repair it..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Exactly.", "No...I'm just...") == 1) {
+msgctxt "Stranger#gnbs"
+msgid "No...I'm just..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Since it's been shattered,";
+msgctxt "Stranger#gnbs"
+msgid "Since it's been shattered,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you'll need a very skilled smith.";
+msgctxt "Stranger#gnbs"
+msgid "you'll need a very skilled smith."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Go to ^FF0000Geffen^000000, you'll find someone";
+msgctxt "Stranger#gnbs"
+msgid "Go to ^FF0000Geffen^000000, you'll find someone"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "who can help you.";
+msgctxt "Stranger#gnbs"
+msgid "who can help you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Guess I was wasting my time.";
+msgctxt "Stranger#gnbs"
+msgid "Guess I was wasting my time."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If you make a promise to someone,";
+msgctxt "Stranger#gnbs"
+msgid "If you make a promise to someone,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "it's your responsibility to";
+msgctxt "Stranger#gnbs"
+msgid "it's your responsibility to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "follow through with it to completion.";
+msgctxt "Stranger#gnbs"
+msgid "follow through with it to completion."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I don't like people who fail to";
+msgctxt "Stranger#gnbs"
+msgid "I don't like people who fail to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "keep the promises they make.";
+msgctxt "Stranger#gnbs"
+msgid "keep the promises they make."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You'll not get any information from me.";
+msgctxt "Stranger#gnbs"
+msgid "You'll not get any information from me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Don't ever bother me again.";
+msgctxt "Stranger#gnbs"
+msgid "Don't ever bother me again."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Sorry, I'm busy right now.";
+msgctxt "Stranger#gnbs"
+msgid "Sorry, I'm busy right now."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Why don't you come back later.";
+msgctxt "Stranger#gnbs"
+msgid "Why don't you come back later."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm......";
+msgctxt "Stranger#gnbs"
+msgid "Hmm......"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're not done with the";
+msgctxt "Stranger#gnbs"
+msgid "You're not done with the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "requirements I've given you...";
+msgctxt "Stranger#gnbs"
+msgid "requirements I've given you..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I can't give you any information";
+msgctxt "Stranger#gnbs"
+msgid "I can't give you any information"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "until you finish your job.";
+msgctxt "Stranger#gnbs"
+msgid "until you finish your job."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm....";
+msgctxt "Stranger#gnbs"
+msgid "Hmm...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "the sword eh?";
+msgctxt "Stranger#gnbs"
+msgid "the sword eh?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Exactly.", "No, i'm just...") == 1) {
+msgctxt "Stranger#gnbs"
+msgid "No, i'm just..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, I suppose not.";
+msgctxt "Stranger#gnbs"
+msgid "Oh, I suppose not."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Why are you asking me, then?";
+msgctxt "Stranger#gnbs"
+msgid "Why are you asking me, then?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Don't bother me anymore.";
+msgctxt "Stranger#gnbs"
+msgid "Don't bother me anymore."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If you make a promise to";
+msgctxt "Stranger#gnbs"
+msgid "If you make a promise to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "someone, it's your";
+msgctxt "Stranger#gnbs"
+msgid "someone, it's your"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "responsibility to";
+msgctxt "Stranger#gnbs"
+msgid "responsibility to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I don't like people who fail";
+msgctxt "Stranger#gnbs"
+msgid "I don't like people who fail"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to keep their promises.";
+msgctxt "Stranger#gnbs"
+msgid "to keep their promises."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You'll not get any information from me. Don't ever bother me again.";
+msgctxt "Stranger#gnbs"
+msgid "You'll not get any information from me. Don't ever bother me again."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hey there...uhm..";
+msgctxt "Stranger#gnbs"
+msgid "Hey there...uhm.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Didn't I tell you to go to ^FF0000Geffen^000000?";
+msgctxt "Stranger#gnbs"
+msgid "Didn't I tell you to go to ^FF0000Geffen^000000?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You'll find a famous blacksmith";
+msgctxt "Stranger#gnbs"
+msgid "You'll find a famous blacksmith"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "that can repair the sword for you.";
+msgctxt "Stranger#gnbs"
+msgid "that can repair the sword for you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "That's all the information I can";
+msgctxt "Stranger#gnbs"
+msgid "That's all the information I can"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "give you, really.";
+msgctxt "Stranger#gnbs"
+msgid "give you, really."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's up to you to make good use of it.";
+msgctxt "Stranger#gnbs"
+msgid "It's up to you to make good use of it."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Helping people in trouble is";
+msgctxt "Stranger#gnbs"
+msgid "Helping people in trouble is"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "such a nice thing to do.";
+msgctxt "Stranger#gnbs"
+msgid "such a nice thing to do."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You are doing the right thing.";
+msgctxt "Stranger#gnbs"
+msgid "You are doing the right thing."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Aumgarl]";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "[Aumgarl]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "*Sob*..*sob*....";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "*Sob*..*sob*...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "My poor baby Lyroo..";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "My poor baby Lyroo.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "*Sniff*...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "*Sniff*..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "*Sob*...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "*Sob*..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Sir...?", "...........") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Sir...?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Sir...?", "...........") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "..........."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm...Who are you?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Hmm...Who are you?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Do you need something?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Do you need something?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If not, please leave...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "If not, please leave..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("I came to repair this sword.", "I heard you are a famous blacksmith...") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I came to repair this sword."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("I came to repair this sword.", "I heard you are a famous blacksmith...") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I heard you are a famous blacksmith..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Umm...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Umm..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm sorry, but we're closed.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'm sorry, but we're closed."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Come again another time.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Come again another time."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Goodbye.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Goodbye."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Yes, I am a blacksmith,";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Yes, I am a blacksmith,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "but I don't think I'm famous.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "but I don't think I'm famous."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "And unfortunately, we're closed right now.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "And unfortunately, we're closed right now."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If you have nothing to say to me,";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "If you have nothing to say to me,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "then please leave me alone.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "then please leave me alone."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Like I said, we're closed!";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Like I said, we're closed!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Come back later.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Come back later."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Didn't you hear me?! Sheesh!";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Didn't you hear me?! Sheesh!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're a persistent one!!";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "You're a persistent one!!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What is it that you want?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "What is it that you want?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I want to marry your granddaughter.", "Your granddaughter is such a pretty girl.", "I came to repair the sword.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I want to marry your granddaughter."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I want to marry your granddaughter.", "Your granddaughter is such a pretty girl.", "I came to repair the sword.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Your granddaughter is such a pretty girl."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I want to marry your granddaughter.", "Your granddaughter is such a pretty girl.", "I came to repair the sword.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I came to repair the sword."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes ".....";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "....."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes ".........";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "........."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes ".............";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "............."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...................";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "..................."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "........................";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "........................"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Who the heck are you?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Who the heck are you?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What do you want with my";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "What do you want with my"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "granddaughter all of a sudden!?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "granddaughter all of a sudden!?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Get the hell out of here!";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Get the hell out of here!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Don't ever come back here again!";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Don't ever come back here again!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're darn right~";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "You're darn right~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "My granddaughter is soo~ pretty.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "My granddaughter is soo~ pretty."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hahaha...ah....hah...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Hahaha...ah....hah..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes ".....*Sob, sob*....";
+msgctxt "Blacksmith#SaYumMoon"
+msgid ".....*Sob, sob*...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I want to marry her...", "I came to repair the sword.", "Anything wrong?")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I want to marry her..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I want to marry her...", "I came to repair the sword.", "Anything wrong?")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Anything wrong?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Get out of here you pervert!";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Get out of here you pervert!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...............";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "..............."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "A sword?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "A sword?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I don't remember when the last";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I don't remember when the last"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "time I worked with steel was.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "time I worked with steel was."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "May I see the sword?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "May I see the sword?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm......";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Hmm......"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmmmm......";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Hmmmm......"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "............";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "............"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^0000FFHe intently studies the pieces of the sword for a while.^000000";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "^0000FFHe intently studies the pieces of the sword for a while.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So this is the one, huh?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "So this is the one, huh?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well...I am sorry, but this sword";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Well...I am sorry, but this sword"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "is not something I can repair";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "is not something I can repair"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "at the moment.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "at the moment."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Why don't you go find";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Why don't you go find"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "another blacksmith?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "another blacksmith?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I am truly sorry.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I am truly sorry."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Um..well...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Um..well..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "This is not something I normally";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "This is not something I normally"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "tell strangers, but....";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "tell strangers, but...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "My granddaughter Lyroo has";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "My granddaughter Lyroo has"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "an incurable disease...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "an incurable disease..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Not long after she was born,";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Not long after she was born,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "her parents died from an accident.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "her parents died from an accident."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Since that day, I have been taking care of her...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Since that day, I have been taking care of her..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But that wasn't the end of it...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "But that wasn't the end of it..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Soon after, she started to suffer";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Soon after, she started to suffer"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "from a serious illness. I've met";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "from a serious illness. I've met"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "doctors from all around";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "doctors from all around"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Rune-Midgard...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Rune-Midgard..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But not one of them could";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "But not one of them could"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "diagnose her sickness...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "diagnose her sickness..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I am sorry to hear that.", "I'll make her happy.", "I want to cure her.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I am sorry to hear that."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I am sorry to hear that.", "I'll make her happy.", "I want to cure her.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'll make her happy."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I am sorry to hear that.", "I'll make her happy.", "I want to cure her.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I want to cure her."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "*Sigh*...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "*Sigh*..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll just have to accept it";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'll just have to accept it"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "as her fate. I just feel";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "as her fate. I just feel"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "so sorry for Lyroo.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "so sorry for Lyroo."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What do you mean...?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "What do you mean...?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "'Make her happy?'";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "'Make her happy?'"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're not making any sense...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "You're not making any sense..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm confused...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'm confused..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I'll make her happy all the time.", "I want to take her with me.", "I will cure her.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'll make her happy all the time."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I'll make her happy all the time.", "I want to take her with me.", "I will cure her.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I want to take her with me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I'll make her happy all the time.", "I want to take her with me.", "I will cure her.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I will cure her."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What are you talking about?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "What are you talking about?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Make her happy all the time?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Make her happy all the time?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "She is dying even at";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "She is dying even at"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "this moment.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "this moment."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I think you're out of";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I think you're out of"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "your mind, sicko!";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "your mind, sicko!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Get out of here!";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Get out of here!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...What do you mean?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "...What do you mean?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You want to take her to where?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "You want to take her to where?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What are you gonna do?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "What are you gonna do?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("I will cure her.", "I am sorry.") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I am sorry."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's useless talking about";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "It's useless talking about"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "it any longer. I don't think";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "it any longer. I don't think"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "there is anyone who can";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "there is anyone who can"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "cure my granddaughter.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "cure my granddaughter."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ahh...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Ahh..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm not blaming you.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'm not blaming you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's not your fault anyway.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "It's not your fault anyway."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...*Sigh*...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "...*Sigh*..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Well...", "I'll pray for her recovery.") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Well..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Well...", "I'll pray for her recovery.") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'll pray for her recovery."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Err..";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Err.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I am sorry to ask you this...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I am sorry to ask you this..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But would you do me a favor?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "But would you do me a favor?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("No.", "Sure.") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "No."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("No.", "Sure.") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Sure."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Err...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Err..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Alright, I won't bother you..";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Alright, I won't bother you.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Goodbye...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Goodbye..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It won't be easy, but";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "It won't be easy, but"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "would you help me to find";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "would you help me to find"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "a doctor...No, anybody";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "a doctor...No, anybody"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "who can cure Lyroo...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "who can cure Lyroo..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Anyone who has any information about her illness?? Please...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Anyone who has any information about her illness?? Please..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...*Sob*...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "...*Sob*..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# select("Yes, Sir.");
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Yes, Sir."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Oh..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thank you so much.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Thank you so much."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If Lyroo can get her health back,";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "If Lyroo can get her health back,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll never forget your help.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'll never forget your help."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thank you...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Thank you..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well...thank you.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Well...thank you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm going to try my best to";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'm going to try my best to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "make her happy until the";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "make her happy until the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "very end..";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "very end.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Please stop by sometime";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Please stop by sometime"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to say hi to Lyroo.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "to say hi to Lyroo."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "How're you going to cure";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "How're you going to cure"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "my granddaughter?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "my granddaughter?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You don't look like";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "You don't look like"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "a doctor to me.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "a doctor to me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I am a doctor.", "I know a famous doctor.", "I'll cure her no matter what.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I am a doctor."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I am a doctor.", "I know a famous doctor.", "I'll cure her no matter what.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I know a famous doctor."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("I am a doctor.", "I know a famous doctor.", "I'll cure her no matter what.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'll cure her no matter what."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ehm...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Ehm..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Do I look like a fool to you?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Do I look like a fool to you?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I hate people who lie like that. Get out of my sight.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I hate people who lie like that. Get out of my sight."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Get out of my sight.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Get out of my sight."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes " ";
+msgctxt "Blacksmith#SaYumMoon"
+msgid " "
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "A famous doctor?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "A famous doctor?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I've met all kinds of";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I've met all kinds of"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "famous doctors. I've";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "famous doctors. I've"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "probably met whoever";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "probably met whoever"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you may know already.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "you may know already."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "................";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "................"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You want to cure her";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "You want to cure her"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "no matter what?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "no matter what?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "How're going to do that?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "How're going to do that?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What if it turns worse,";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "What if it turns worse,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Huh?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Huh?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm tired of your bragging.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'm tired of your bragging."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Please just leave us alone.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Please just leave us alone."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes ".................";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "................."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thanks for your concern...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Thanks for your concern..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "but you're a stranger to us.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "but you're a stranger to us."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I can't let you do that.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I can't let you do that."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thanks anyways.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Thanks anyways."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm sorry, but I am";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'm sorry, but I am"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "very tired right now.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "very tired right now."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Can't help you...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Can't help you..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmmm...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Hmmm..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Why don't you try looking";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Why don't you try looking"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "someplace that's always";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "someplace that's always"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "crowded with people. I'm";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "crowded with people. I'm"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "sure there must be someone";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "sure there must be someone"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "out there who knows...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "out there who knows..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Lyroo is upstairs...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Lyroo is upstairs..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But she's in pain.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "But she's in pain."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Try not to talk to her";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Try not to talk to her"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "for too long.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "for too long."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh my...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Oh my..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I never thought you'd";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I never thought you'd"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "really help me.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "really help me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Go ahead and see Lyroo.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Go ahead and see Lyroo."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thank you so much...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Thank you so much..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Without your help...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Without your help..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "it would have been hopeless.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "it would have been hopeless."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Alright....";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Alright...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Is there anything I can";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Is there anything I can"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "do for you? I want to";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "do for you? I want to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "return your favor somehow.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "return your favor somehow."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("No...I don't need anything.", "Would you repair the sword for me?")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "No...I don't need anything."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("No...I don't need anything.", "Would you repair the sword for me?")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Would you repair the sword for me?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Whenever you have a favor to ask,";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Whenever you have a favor to ask,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "come and find me. I'll do";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "come and find me. I'll do"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "my best to help you.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "my best to help you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm....";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Hmm...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Show me this sword.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Show me this sword."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I need to take a look at it first";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I need to take a look at it first"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to find out whether I can repair it or not.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "to find out whether I can repair it or not."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^0000FFYou Show the pieces of the";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "^0000FFYou Show the pieces of the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "broken sword to Aumgarl.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "broken sword to Aumgarl."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "....................";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "...................."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Aumgarl takes a careful look";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Aumgarl takes a careful look"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "at the pieces for awhile...^000000";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "at the pieces for awhile...^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's not possible to start work";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "It's not possible to start work"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "immediately. I'll need";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "immediately. I'll need"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "some materials.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "some materials."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "To repair this sword, I need";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "To repair this sword, I need"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to restock my supplies.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "to restock my supplies."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Since Lyroo is upstairs in pain,";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Since Lyroo is upstairs in pain,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I don't think I can leave the house.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I don't think I can leave the house."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So...could you get the";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "So...could you get the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "materials for me?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "materials for me?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I am sorry I am asking";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I am sorry I am asking"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you to do this, as well.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "you to do this, as well."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Umm...let's do it next time.", "Alright, I'll go get them.") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Umm...let's do it next time."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Umm...let's do it next time.", "Alright, I'll go get them.") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Alright, I'll go get them."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Umm.....";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Umm....."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I am sorry I can't";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I am sorry I can't"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "help you right away.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "help you right away."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Come back here when";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Come back here when"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you need my help then.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "you need my help then."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh~~ really?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Oh~~ really?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thank you!";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Thank you!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm sure I can repair it for you.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'm sure I can repair it for you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Now, listen carefully,";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Now, listen carefully,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "this is what I will need-";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "this is what I will need-"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^FF00FF One Anvil";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "^FF00FF One Anvil"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "2 Rough Oridecons";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "2 Rough Oridecons"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "5 Broken Swords";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "5 Broken Swords"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "2 Steels";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "2 Steels"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "1 Hammer of Blacksmith";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "1 Hammer of Blacksmith"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "2 Star Crumbs";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "2 Star Crumbs"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "5 Live Coals^000000";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "5 Live Coals^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's quite a lot, huh?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "It's quite a lot, huh?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But these are the necessary";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "But these are the necessary"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "supplies we need to repair the sword.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "supplies we need to repair the sword."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll go find some other materials.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'll go find some other materials."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh~ It's you.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Oh~ It's you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Got any favors to ask?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Got any favors to ask?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll do my best";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I'll do my best"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to help you.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "to help you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Maybe next time...", "Please repair this sword for me.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Maybe next time..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Maybe next time...", "Please repair this sword for me.")) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Please repair this sword for me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If you ever have a favor to";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "If you ever have a favor to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ask, come and find me.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "ask, come and find me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^0000FFYou show the pieces of the";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "^0000FFYou show the pieces of the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "at the pieces for a while...^000000";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "at the pieces for a while...^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well,";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Well,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "immediately.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "immediately."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I need some materials.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I need some materials."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Umm..let's do it next time.", "Alright, I'll go get them.") == 1) {
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Umm..let's do it next time."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's quite alot, huh?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "It's quite alot, huh?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "These are necessary supplies.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "These are necessary supplies."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "We need them to repair the sword.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "We need them to repair the sword."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, good! You got them all.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Oh, good! You got them all."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Alright, come back later,";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Alright, come back later,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "and I'll have it repaired.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "and I'll have it repaired."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm.....";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Hmm....."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Haven't found everything yet?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Haven't found everything yet?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Here's the list again-";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Here's the list again-"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^FF00FF 1 Anvil";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "^FF00FF 1 Anvil"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Wrote them down?";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Wrote them down?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I've almost found the other materials.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I've almost found the other materials."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hey, you're back.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Hey, you're back."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Here it is! This sword";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Here it is! This sword"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "is a great one, for";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "is a great one, for"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "sure. I noticed that at";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "sure. I noticed that at"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "first sight.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "first sight."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Indeed...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Indeed..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I haven't seen quality";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I haven't seen quality"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "of this magnitude";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "of this magnitude"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "in a long time.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "in a long time."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I envy you...";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "I envy you..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hehehe......";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Hehehe......"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "'You received repaired";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "'You received repaired"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "'^FF0000SaYumMoon's sword^000000'.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "'^FF0000SaYumMoon's sword^000000'."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Umm... it's not done yet.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Umm... it's not done yet."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Would you give me a little";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "Would you give me a little"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "bit more time? It's taking";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "bit more time? It's taking"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "longer than I thought. Sorry.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "longer than I thought. Sorry."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You've been a great help";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "You've been a great help"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to us. I hope my work";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "to us. I hope my work"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "has been of some use to you.";
+msgctxt "Blacksmith#SaYumMoon"
+msgid "has been of some use to you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Lyroo]";
+msgctxt "Girl#gnbs2"
+msgid "[Lyroo]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah...Ah....";
+msgctxt "Girl#gnbs2"
+msgid "Ah...Ah...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah...Hi.......";
+msgctxt "Girl#gnbs2"
+msgid "Ah...Hi......."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^0000FFThis girl seems to be in serious pain...^000000";
+msgctxt "Girl#gnbs2"
+msgid "^0000FFThis girl seems to be in serious pain...^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Aaa....Aaa....";
+msgctxt "Girl#gnbs2"
+msgid "Aaa....Aaa...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you...you....";
+msgctxt "Girl#gnbs2"
+msgid "you...you...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you are the....one...";
+msgctxt "Girl#gnbs2"
+msgid "you are the....one..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "who will....cure....";
+msgctxt "Girl#gnbs2"
+msgid "who will....cure...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...me? Aa....";
+msgctxt "Girl#gnbs2"
+msgid "...me? Aa...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "..tha... thank you....";
+msgctxt "Girl#gnbs2"
+msgid "..tha... thank you...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^0000FFBetter stop talking to her and";
+msgctxt "Girl#gnbs2"
+msgid "^0000FFBetter stop talking to her and"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "hurry to find a cure.^000000";
+msgctxt "Girl#gnbs2"
+msgid "hurry to find a cure.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ahh...ahh....";
+msgctxt "Girl#gnbs2"
+msgid "Ahh...ahh...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's ..you.. pretty...sister..";
+msgctxt "Girl#gnbs2"
+msgid "It's ..you.. pretty...sister.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's ..you.. handsome...brother..";
+msgctxt "Girl#gnbs2"
+msgid "It's ..you.. handsome...brother.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ahh...heh heh...";
+msgctxt "Girl#gnbs2"
+msgid "Ahh...heh heh..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Ask about her health condition.", "Talk to her for a while.") == 1) {
+msgctxt "Girl#gnbs2"
+msgid "Ask about her health condition."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Ask about her health condition.", "Talk to her for a while.") == 1) {
+msgctxt "Girl#gnbs2"
+msgid "Talk to her for a while."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Uh....umm...?";
+msgctxt "Girl#gnbs2"
+msgid "Uh....umm...?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Umm... I...";
+msgctxt "Girl#gnbs2"
+msgid "Umm... I..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I can't talk...too long..";
+msgctxt "Girl#gnbs2"
+msgid "I can't talk...too long.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So...listen....";
+msgctxt "Girl#gnbs2"
+msgid "So...listen...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "carefully..please...";
+msgctxt "Girl#gnbs2"
+msgid "carefully..please..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^0030FFMy body...repeatedly turns cold and";
+msgctxt "Girl#gnbs2"
+msgid "^0030FFMy body...repeatedly turns cold and"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "hot... I'm not sweating at all...";
+msgctxt "Girl#gnbs2"
+msgid "hot... I'm not sweating at all..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "....But I'm paralyzed...often";
+msgctxt "Girl#gnbs2"
+msgid "....But I'm paralyzed...often"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "often..and...my heart beats...";
+msgctxt "Girl#gnbs2"
+msgid "often..and...my heart beats..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...irregularly.^000000";
+msgctxt "Girl#gnbs2"
+msgid "...irregularly.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ahh...hah~";
+msgctxt "Girl#gnbs2"
+msgid "Ahh...hah~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...........";
+msgctxt "Girl#gnbs2"
+msgid "..........."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^0000FFShe seems to have fallen asleep.^000000";
+msgctxt "Girl#gnbs2"
+msgid "^0000FFShe seems to have fallen asleep.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I...am...so...";
+msgctxt "Girl#gnbs2"
+msgid "I...am...so..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...tired.";
+msgctxt "Girl#gnbs2"
+msgid "...tired."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes ".............";
+msgctxt "Girl#gnbs2"
+msgid "............."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ahh........";
+msgctxt "Girl#gnbs2"
+msgid "Ahh........"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I..want to ...talk to...you..";
+msgctxt "Girl#gnbs2"
+msgid "I..want to ...talk to...you.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "but.... sorry....";
+msgctxt "Girl#gnbs2"
+msgid "but.... sorry...."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "uh...umm?";
+msgctxt "Girl#gnbs2"
+msgid "uh...umm?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah....It's you, pretty sister...";
+msgctxt "Girl#gnbs2"
+msgid "Ah....It's you, pretty sister..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah....It's you, handsome brother...";
+msgctxt "Girl#gnbs2"
+msgid "Ah....It's you, handsome brother..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Uhm? what is that you have?";
+msgctxt "Girl#gnbs2"
+msgid "Uhm? what is that you have?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("It's nothing.", "It's your medicine.") == 1) {
+msgctxt "Girl#gnbs2"
+msgid "It's nothing."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("It's nothing.", "It's your medicine.") == 1) {
+msgctxt "Girl#gnbs2"
+msgid "It's your medicine."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh...";
+msgctxt "Girl#gnbs2"
+msgid "Oh..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Alright...";
+msgctxt "Girl#gnbs2"
+msgid "Alright..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...";
+msgctxt "Girl#gnbs2"
+msgid "..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^0000FFYou really should be giving her the medicine.^000000";
+msgctxt "Girl#gnbs2"
+msgid "^0000FFYou really should be giving her the medicine.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah!";
+msgctxt "Girl#gnbs2"
+msgid "Ah!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You found the medicine~!";
+msgctxt "Girl#gnbs2"
+msgid "You found the medicine~!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm...so relieved...";
+msgctxt "Girl#gnbs2"
+msgid "I'm...so relieved..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^0000FFYou gave her the medicine you";
+msgctxt "Girl#gnbs2"
+msgid "^0000FFYou gave her the medicine you"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "received from Cylrnel.";
+msgctxt "Girl#gnbs2"
+msgid "received from Cylrnel."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "After taking the medicine, Lyroo";
+msgctxt "Girl#gnbs2"
+msgid "After taking the medicine, Lyroo"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "fell asleep.^000000";
+msgctxt "Girl#gnbs2"
+msgid "fell asleep.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Heehehe...";
+msgctxt "Girl#gnbs2"
+msgid "Heehehe..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thank you my pretty sister.";
+msgctxt "Girl#gnbs2"
+msgid "Thank you my pretty sister."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thank you handsome brother~";
+msgctxt "Girl#gnbs2"
+msgid "Thank you handsome brother~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll get my health back";
+msgctxt "Girl#gnbs2"
+msgid "I'll get my health back"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "and be a strong girl!";
+msgctxt "Girl#gnbs2"
+msgid "and be a strong girl!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Neil]";
+msgctxt "Young man#SaYumMoon"
+msgid "[Neil]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh man, it feels so good";
+msgctxt "Young man#SaYumMoon"
+msgid "Oh man, it feels so good"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to be out of the hospital...";
+msgctxt "Young man#SaYumMoon"
+msgid "to be out of the hospital..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I thought I was going to be";
+msgctxt "Young man#SaYumMoon"
+msgid "I thought I was going to be"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "there forever~!";
+msgctxt "Young man#SaYumMoon"
+msgid "there forever~!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Listen guy, appreciate";
+msgctxt "Young man#SaYumMoon"
+msgid "Listen guy, appreciate"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "your health, 'cuz almost";
+msgctxt "Young man#SaYumMoon"
+msgid "your health, 'cuz almost"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "nothing is worse than";
+msgctxt "Young man#SaYumMoon"
+msgid "nothing is worse than"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "being really really sick...";
+msgctxt "Young man#SaYumMoon"
+msgid "being really really sick..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Not long ago, I was in the";
+msgctxt "Young man#SaYumMoon"
+msgid "Not long ago, I was in the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "hospital, stuck lying in bed...";
+msgctxt "Young man#SaYumMoon"
+msgid "hospital, stuck lying in bed..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "No one knew what was wrong";
+msgctxt "Young man#SaYumMoon"
+msgid "No one knew what was wrong"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "with me...but I grew weaker";
+msgctxt "Young man#SaYumMoon"
+msgid "with me...but I grew weaker"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "everyday...";
+msgctxt "Young man#SaYumMoon"
+msgid "everyday..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But then, this ^FF5000doctor from Juno^000000";
+msgctxt "Young man#SaYumMoon"
+msgid "But then, this ^FF5000doctor from Juno^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "arrived, and she helped me";
+msgctxt "Young man#SaYumMoon"
+msgid "arrived, and she helped me"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "recover in no time!";
+msgctxt "Young man#SaYumMoon"
+msgid "recover in no time!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Though...I still can't walk so well.";
+msgctxt "Young man#SaYumMoon"
+msgid "Though...I still can't walk so well."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "All the other doctors had said";
+msgctxt "Young man#SaYumMoon"
+msgid "All the other doctors had said"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "my case was hopeless, and that";
+msgctxt "Young man#SaYumMoon"
+msgid "my case was hopeless, and that"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'd never recover. Luckily,";
+msgctxt "Young man#SaYumMoon"
+msgid "I'd never recover. Luckily,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "this Juno doctor was able to";
+msgctxt "Young man#SaYumMoon"
+msgid "this Juno doctor was able to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "find a cure...";
+msgctxt "Young man#SaYumMoon"
+msgid "find a cure..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It was a miracle!";
+msgctxt "Young man#SaYumMoon"
+msgid "It was a miracle!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm so happy to be alive!";
+msgctxt "Young man#SaYumMoon"
+msgid "I'm so happy to be alive!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Hisa]";
+msgctxt "Active little girl#gnbs"
+msgid "[Hisa]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes ".....";
+msgctxt "Active little girl#gnbs"
+msgid "....."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "This town is so boring.";
+msgctxt "Active little girl#gnbs"
+msgid "This town is so boring."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "No events, no festivals...";
+msgctxt "Active little girl#gnbs"
+msgid "No events, no festivals..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "All people do all day is stay at";
+msgctxt "Active little girl#gnbs"
+msgid "All people do all day is stay at"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "at home and study. How dull!";
+msgctxt "Active little girl#gnbs"
+msgid "at home and study. How dull!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "There's one person in Juno that";
+msgctxt "Active little girl#gnbs"
+msgid "There's one person in Juno that"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I still respect. Her name is ^FF5500Cylrnel^000000.";
+msgctxt "Active little girl#gnbs"
+msgid "I still respect. Her name is ^FF5500Cylrnel^000000."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "She's an expert in medical";
+msgctxt "Active little girl#gnbs"
+msgid "She's an expert in medical"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "treatment. Whenever someone falls";
+msgctxt "Active little girl#gnbs"
+msgid "treatment. Whenever someone falls"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ill in this town, she comes to";
+msgctxt "Active little girl#gnbs"
+msgid "ill in this town, she comes to"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "cure that person right away...";
+msgctxt "Active little girl#gnbs"
+msgid "cure that person right away..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "She also tells me lots of";
+msgctxt "Active little girl#gnbs"
+msgid "She also tells me lots of"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "interesting stories about";
+msgctxt "Active little girl#gnbs"
+msgid "interesting stories about"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "her experiences. She's even";
+msgctxt "Active little girl#gnbs"
+msgid "her experiences. She's even"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "made a journey around the";
+msgctxt "Active little girl#gnbs"
+msgid "made a journey around the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "world... It's so interesting!";
+msgctxt "Active little girl#gnbs"
+msgid "world... It's so interesting!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "She's probably at home after";
+msgctxt "Active little girl#gnbs"
+msgid "She's probably at home after"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "coming back from some trip.";
+msgctxt "Active little girl#gnbs"
+msgid "coming back from some trip."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Haha~";
+msgctxt "Active little girl#gnbs"
+msgid "Haha~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh right~!";
+msgctxt "Active little girl#gnbs"
+msgid "Oh right~!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "She's also known to be a fickle";
+msgctxt "Active little girl#gnbs"
+msgid "She's also known to be a fickle"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "and forgetful woman. So you'd better watch out, hehe~";
+msgctxt "Active little girl#gnbs"
+msgid "and forgetful woman. So you'd better watch out, hehe~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[??????]";
+msgctxt "Doctor#gnbs"
+msgid "[??????]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I don't believe we've met";
+msgctxt "Doctor#gnbs"
+msgid "I don't believe we've met"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "before, but would you mind";
+msgctxt "Doctor#gnbs"
+msgid "before, but would you mind"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "coming back later? I've got a lot of work to do at the moment.";
+msgctxt "Doctor#gnbs"
+msgid "coming back later? I've got a lot of work to do at the moment."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Cylrnel]";
+msgctxt "Doctor#gnbs"
+msgid "[Cylrnel]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hello, can I help you?";
+msgctxt "Doctor#gnbs"
+msgid "Hello, can I help you?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If it's not urgent,";
+msgctxt "Doctor#gnbs"
+msgid "If it's not urgent,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "please come back later.";
+msgctxt "Doctor#gnbs"
+msgid "please come back later."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm...you look like you";
+msgctxt "Doctor#gnbs"
+msgid "Hmm...you look like you"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "want to ask me something?";
+msgctxt "Doctor#gnbs"
+msgid "want to ask me something?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("You're so beautiful.", "Do you like traveling?") == 1) {
+msgctxt "Doctor#gnbs"
+msgid "You're so beautiful."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("You're so beautiful.", "Do you like traveling?") == 1) {
+msgctxt "Doctor#gnbs"
+msgid "Do you like traveling?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...excuse me?";
+msgctxt "Doctor#gnbs"
+msgid "...excuse me?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah ha ha~";
+msgctxt "Doctor#gnbs"
+msgid "Ah ha ha~"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're a funny guy.";
+msgctxt "Doctor#gnbs"
+msgid "You're a funny guy."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Trying to hit on me?";
+msgctxt "Doctor#gnbs"
+msgid "Trying to hit on me?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah ha ha ha.";
+msgctxt "Doctor#gnbs"
+msgid "Ah ha ha ha."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Yes, I fell in love at first sight.", "I have a favor to ask.") == 1) {
+msgctxt "Doctor#gnbs"
+msgid "Yes, I fell in love at first sight."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Yes, I fell in love at first sight.", "I have a favor to ask.") == 1) {
+msgctxt "Doctor#gnbs"
+msgid "I have a favor to ask."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "HAHAHAHHAHAHAHAH!";
+msgctxt "Doctor#gnbs"
+msgid "HAHAHAHHAHAHAHAH!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ah...I'm sorry..";
+msgctxt "Doctor#gnbs"
+msgid "Ah...I'm sorry.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I haven't seen a guy like you";
+msgctxt "Doctor#gnbs"
+msgid "I haven't seen a guy like you"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "for a long time.";
+msgctxt "Doctor#gnbs"
+msgid "for a long time."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You make me laugh...";
+msgctxt "Doctor#gnbs"
+msgid "You make me laugh..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But guess what?";
+msgctxt "Doctor#gnbs"
+msgid "But guess what?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I already know you're not";
+msgctxt "Doctor#gnbs"
+msgid "I already know you're not"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "here to hit on me.";
+msgctxt "Doctor#gnbs"
+msgid "here to hit on me."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So what did you really want?";
+msgctxt "Doctor#gnbs"
+msgid "So what did you really want?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# select("Well, actually...");
+msgctxt "Doctor#gnbs"
+msgid "Well, actually..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^FF0000You Tell Cylrnel about Lyroo,";
+msgctxt "Doctor#gnbs"
+msgid "^FF0000You Tell Cylrnel about Lyroo,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "and about the favor for Aumgarl the blacksmith.^000000";
+msgctxt "Doctor#gnbs"
+msgid "and about the favor for Aumgarl the blacksmith.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm.....";
+msgctxt "Doctor#gnbs"
+msgid "Hmm....."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "So that's what happened...";
+msgctxt "Doctor#gnbs"
+msgid "So that's what happened..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well, I need to know the";
+msgctxt "Doctor#gnbs"
+msgid "Well, I need to know the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "exact symptoms...go and";
+msgctxt "Doctor#gnbs"
+msgid "exact symptoms...go and"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "find out for me and then";
+msgctxt "Doctor#gnbs"
+msgid "find out for me and then"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "come back afterwards.";
+msgctxt "Doctor#gnbs"
+msgid "come back afterwards."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Without the exact symptoms, I can't make an accurate diagnosis.";
+msgctxt "Doctor#gnbs"
+msgid "Without the exact symptoms, I can't make an accurate diagnosis."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well now...";
+msgctxt "Doctor#gnbs"
+msgid "Well now..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "That's quite a long story.";
+msgctxt "Doctor#gnbs"
+msgid "That's quite a long story."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I have no idea why you're";
+msgctxt "Doctor#gnbs"
+msgid "I have no idea why you're"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "trying to help these people,";
+msgctxt "Doctor#gnbs"
+msgid "trying to help these people,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "so it's a bit hard to believe";
+msgctxt "Doctor#gnbs"
+msgid "so it's a bit hard to believe"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you...";
+msgctxt "Doctor#gnbs"
+msgid "you..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh brother!";
+msgctxt "Doctor#gnbs"
+msgid "Oh brother!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I never thought someone";
+msgctxt "Doctor#gnbs"
+msgid "I never thought someone"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "like you could still exist.";
+msgctxt "Doctor#gnbs"
+msgid "like you could still exist."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm sorry, but you're";
+msgctxt "Doctor#gnbs"
+msgid "I'm sorry, but you're"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "really not my type.";
+msgctxt "Doctor#gnbs"
+msgid "really not my type."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Is that so?";
+msgctxt "Doctor#gnbs"
+msgid "Is that so?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "well then,";
+msgctxt "Doctor#gnbs"
+msgid "well then,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Let me hear your story.";
+msgctxt "Doctor#gnbs"
+msgid "Let me hear your story."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# select("Well, it's like this...");
+msgctxt "Doctor#gnbs"
+msgid "Well, it's like this..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "and about the favor of Aumgarl the blacksmith.^000000";
+msgctxt "Doctor#gnbs"
+msgid "and about the favor of Aumgarl the blacksmith.^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Well...";
+msgctxt "Doctor#gnbs"
+msgid "Well..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "While I'd like to help,";
+msgctxt "Doctor#gnbs"
+msgid "While I'd like to help,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're a stranger, and the";
+msgctxt "Doctor#gnbs"
+msgid "You're a stranger, and the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "residents need my help.";
+msgctxt "Doctor#gnbs"
+msgid "residents need my help."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I don't have any extra time";
+msgctxt "Doctor#gnbs"
+msgid "I don't have any extra time"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "to help you. Please leave.";
+msgctxt "Doctor#gnbs"
+msgid "to help you. Please leave."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ahahaha..";
+msgctxt "Doctor#gnbs"
+msgid "Ahahaha.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But, that won't";
+msgctxt "Doctor#gnbs"
+msgid "But, that won't"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "work on me!";
+msgctxt "Doctor#gnbs"
+msgid "work on me!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Err...well, I do, but...";
+msgctxt "Doctor#gnbs"
+msgid "Err...well, I do, but..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If you don't have any";
+msgctxt "Doctor#gnbs"
+msgid "If you don't have any"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "favors to ask, please leave.";
+msgctxt "Doctor#gnbs"
+msgid "favors to ask, please leave."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm very busy right now.";
+msgctxt "Doctor#gnbs"
+msgid "I'm very busy right now."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm sorry, but I don't have";
+msgctxt "Doctor#gnbs"
+msgid "I'm sorry, but I don't have"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "any time for you right now.";
+msgctxt "Doctor#gnbs"
+msgid "any time for you right now."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh, you're back...";
+msgctxt "Doctor#gnbs"
+msgid "Oh, you're back..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Did you figure out the symptoms?";
+msgctxt "Doctor#gnbs"
+msgid "Did you figure out the symptoms?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I wanted to go with you, but";
+msgctxt "Doctor#gnbs"
+msgid "I wanted to go with you, but"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I've been really busy.";
+msgctxt "Doctor#gnbs"
+msgid "I've been really busy."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Not yet...", "Yes, Here.") == 1) {
+msgctxt "Doctor#gnbs"
+msgid "Not yet..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Not yet...", "Yes, Here.") == 1) {
+msgctxt "Doctor#gnbs"
+msgid "Yes, Here."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What! Why not!?";
+msgctxt "Doctor#gnbs"
+msgid "What! Why not!?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hurry to her house!";
+msgctxt "Doctor#gnbs"
+msgid "Hurry to her house!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "She's in serious pain!";
+msgctxt "Doctor#gnbs"
+msgid "She's in serious pain!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Her body could be paralyzed";
+msgctxt "Doctor#gnbs"
+msgid "Her body could be paralyzed"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "at any moment!";
+msgctxt "Doctor#gnbs"
+msgid "at any moment!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What a relief...";
+msgctxt "Doctor#gnbs"
+msgid "What a relief..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're earlier than I thought.";
+msgctxt "Doctor#gnbs"
+msgid "You're earlier than I thought."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll ask you some questions about";
+msgctxt "Doctor#gnbs"
+msgid "I'll ask you some questions about"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "her condition. Answer correctly.";
+msgctxt "Doctor#gnbs"
+msgid "her condition. Answer correctly."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "First, how was her body temperature?";
+msgctxt "Doctor#gnbs"
+msgid "First, how was her body temperature?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Very hot.", "Very cold.", "Normal.", "Turns hot and cold repeatedly.")) {
+msgctxt "Doctor#gnbs"
+msgid "Very hot."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Very hot.", "Very cold.", "Normal.", "Turns hot and cold repeatedly.")) {
+msgctxt "Doctor#gnbs"
+msgid "Very cold."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Very hot.", "Very cold.", "Normal.", "Turns hot and cold repeatedly.")) {
+msgctxt "Doctor#gnbs"
+msgid "Normal."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Very hot.", "Very cold.", "Normal.", "Turns hot and cold repeatedly.")) {
+msgctxt "Doctor#gnbs"
+msgid "Turns hot and cold repeatedly."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Okay...";
+msgctxt "Doctor#gnbs"
+msgid "Okay..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Now, about her physiological condition.";
+msgctxt "Doctor#gnbs"
+msgid "Now, about her physiological condition."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("No sweating at all.", "Sweating all over the body.", "Runny nose.", "No tears or sweat at all.")) {
+msgctxt "Doctor#gnbs"
+msgid "No sweating at all."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("No sweating at all.", "Sweating all over the body.", "Runny nose.", "No tears or sweat at all.")) {
+msgctxt "Doctor#gnbs"
+msgid "Sweating all over the body."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("No sweating at all.", "Sweating all over the body.", "Runny nose.", "No tears or sweat at all.")) {
+msgctxt "Doctor#gnbs"
+msgid "Runny nose."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("No sweating at all.", "Sweating all over the body.", "Runny nose.", "No tears or sweat at all.")) {
+msgctxt "Doctor#gnbs"
+msgid "No tears or sweat at all."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Next, tell me about";
+msgctxt "Doctor#gnbs"
+msgid "Next, tell me about"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "her physical condition.";
+msgctxt "Doctor#gnbs"
+msgid "her physical condition."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Nothing in particular.", "Becomes paralyzed often.", "Muscles became soft.", "Muscles became hard.")) {
+msgctxt "Doctor#gnbs"
+msgid "Nothing in particular."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Nothing in particular.", "Becomes paralyzed often.", "Muscles became soft.", "Muscles became hard.")) {
+msgctxt "Doctor#gnbs"
+msgid "Becomes paralyzed often."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Nothing in particular.", "Becomes paralyzed often.", "Muscles became soft.", "Muscles became hard.")) {
+msgctxt "Doctor#gnbs"
+msgid "Muscles became soft."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Nothing in particular.", "Becomes paralyzed often.", "Muscles became soft.", "Muscles became hard.")) {
+msgctxt "Doctor#gnbs"
+msgid "Muscles became hard."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "How about internal organs?";
+msgctxt "Doctor#gnbs"
+msgid "How about internal organs?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Stomach hurts like it's been stabbed by a knife.", "Head hurts like it's been smashed by a hammer.", "Heart beats irregularly.", "Has difficulty in breathing.")) {
+msgctxt "Doctor#gnbs"
+msgid "Stomach hurts like it's been stabbed by a knife."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Stomach hurts like it's been stabbed by a knife.", "Head hurts like it's been smashed by a hammer.", "Heart beats irregularly.", "Has difficulty in breathing.")) {
+msgctxt "Doctor#gnbs"
+msgid "Head hurts like it's been smashed by a hammer."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Stomach hurts like it's been stabbed by a knife.", "Head hurts like it's been smashed by a hammer.", "Heart beats irregularly.", "Has difficulty in breathing.")) {
+msgctxt "Doctor#gnbs"
+msgid "Heart beats irregularly."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# switch(select("Stomach hurts like it's been stabbed by a knife.", "Head hurts like it's been smashed by a hammer.", "Heart beats irregularly.", "Has difficulty in breathing.")) {
+msgctxt "Doctor#gnbs"
+msgid "Has difficulty in breathing."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm.. alright.";
+msgctxt "Doctor#gnbs"
+msgid "Hmm.. alright."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Let me check this.";
+msgctxt "Doctor#gnbs"
+msgid "Let me check this."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "so the symptoms are";
+msgctxt "Doctor#gnbs"
+msgid "so the symptoms are"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "..............";
+msgctxt "Doctor#gnbs"
+msgid ".............."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^FF0000"+.@sick1$+"";
+msgctxt "Doctor#gnbs"
+msgid "^FF0000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes ""+.@sick4$+"^000000";
+msgctxt "Doctor#gnbs"
+msgid "^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "right?";
+msgctxt "Doctor#gnbs"
+msgid "right?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("No..not exactly..", "Yes, I am sure.") == 1) {
+msgctxt "Doctor#gnbs"
+msgid "No..not exactly.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("No..not exactly..", "Yes, I am sure.") == 1) {
+msgctxt "Doctor#gnbs"
+msgid "Yes, I am sure."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Then go back to her and";
+msgctxt "Doctor#gnbs"
+msgid "Then go back to her and"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "find the exact symptoms";
+msgctxt "Doctor#gnbs"
+msgid "find the exact symptoms"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "right away~!!";
+msgctxt "Doctor#gnbs"
+msgid "right away~!!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You're sure about this, right?";
+msgctxt "Doctor#gnbs"
+msgid "You're sure about this, right?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "If they're the wrong symptoms,";
+msgctxt "Doctor#gnbs"
+msgid "If they're the wrong symptoms,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I can't be responsible.";
+msgctxt "Doctor#gnbs"
+msgid "I can't be responsible."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Err..let me go and double check.", "I'm sure.") == 1) {
+msgctxt "Doctor#gnbs"
+msgid "Err..let me go and double check."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Err..let me go and double check.", "I'm sure.") == 1) {
+msgctxt "Doctor#gnbs"
+msgid "I'm sure."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Then, go back to her and";
+msgctxt "Doctor#gnbs"
+msgid "Then, go back to her and"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Aright. I'll trust you.";
+msgctxt "Doctor#gnbs"
+msgid "Aright. I'll trust you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Now, go get these ingredients.";
+msgctxt "Doctor#gnbs"
+msgid "Now, go get these ingredients."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Get them as fast as possible.";
+msgctxt "Doctor#gnbs"
+msgid "Get them as fast as possible."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Alright?";
+msgctxt "Doctor#gnbs"
+msgid "Alright?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^FF00002 Yggdrasil Seeds";
+msgctxt "Doctor#gnbs"
+msgid "^FF00002 Yggdrasil Seeds"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "3 Aloes";
+msgctxt "Doctor#gnbs"
+msgid "3 Aloes"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "1 Witherless Rose";
+msgctxt "Doctor#gnbs"
+msgid "1 Witherless Rose"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "10 Witch Starsands";
+msgctxt "Doctor#gnbs"
+msgid "10 Witch Starsands"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "5 Burning Hearts";
+msgctxt "Doctor#gnbs"
+msgid "5 Burning Hearts"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "5 Ice Cubics";
+msgctxt "Doctor#gnbs"
+msgid "5 Ice Cubics"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Wrote them down?";
+msgctxt "Doctor#gnbs"
+msgid "Wrote them down?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'll tell you once again.";
+msgctxt "Doctor#gnbs"
+msgid "I'll tell you once again."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "We need...";
+msgctxt "Doctor#gnbs"
+msgid "We need..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^FF00001 Yggdrasil Seed";
+msgctxt "Doctor#gnbs"
+msgid "^FF00001 Yggdrasil Seed"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "1 Aloe";
+msgctxt "Doctor#gnbs"
+msgid "1 Aloe"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "5 Witch Starsands";
+msgctxt "Doctor#gnbs"
+msgid "5 Witch Starsands"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "3 Burning Hearts";
+msgctxt "Doctor#gnbs"
+msgid "3 Burning Hearts"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "3 Ice Cubics";
+msgctxt "Doctor#gnbs"
+msgid "3 Ice Cubics"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "There isn't much time for Lyroo.";
+msgctxt "Doctor#gnbs"
+msgid "There isn't much time for Lyroo."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm...";
+msgctxt "Doctor#gnbs"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Good, you got them all.";
+msgctxt "Doctor#gnbs"
+msgid "Good, you got them all."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Let me see now...";
+msgctxt "Doctor#gnbs"
+msgid "Let me see now..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes ".............";
+msgctxt "Doctor#gnbs"
+msgid "............."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^FF0000Cylrnel began to mix";
+msgctxt "Doctor#gnbs"
+msgid "^FF0000Cylrnel began to mix"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "the ingredients.";
+msgctxt "Doctor#gnbs"
+msgid "the ingredients."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "................";
+msgctxt "Doctor#gnbs"
+msgid "................"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes ".........";
+msgctxt "Doctor#gnbs"
+msgid "........."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "......^000000";
+msgctxt "Doctor#gnbs"
+msgid "......^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "............";
+msgctxt "Doctor#gnbs"
+msgid "............"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "What the?!?!";
+msgctxt "Doctor#gnbs"
+msgid "What the?!?!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "...";
+msgctxt "Doctor#gnbs"
+msgid "..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hey you...";
+msgctxt "Doctor#gnbs"
+msgid "Hey you..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You gave me the wrong information!";
+msgctxt "Doctor#gnbs"
+msgid "You gave me the wrong information!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I've chosen the ingredients";
+msgctxt "Doctor#gnbs"
+msgid "I've chosen the ingredients"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "according to the symptoms";
+msgctxt "Doctor#gnbs"
+msgid "according to the symptoms"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "you've described...";
+msgctxt "Doctor#gnbs"
+msgid "you've described..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But this isn't medicine!!";
+msgctxt "Doctor#gnbs"
+msgid "But this isn't medicine!!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Now go and find out her exact symptoms!";
+msgctxt "Doctor#gnbs"
+msgid "Now go and find out her exact symptoms!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hey~ you don't have all";
+msgctxt "Doctor#gnbs"
+msgid "Hey~ you don't have all"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "the ingredients yet.";
+msgctxt "Doctor#gnbs"
+msgid "the ingredients yet."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Go get them all right away.";
+msgctxt "Doctor#gnbs"
+msgid "Go get them all right away."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^FF00001 Seed of Yggdrasil";
+msgctxt "Doctor#gnbs"
+msgid "^FF00001 Seed of Yggdrasil"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Now, hurry up!";
+msgctxt "Doctor#gnbs"
+msgid "Now, hurry up!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Let me see..";
+msgctxt "Doctor#gnbs"
+msgid "Let me see.."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Here~! It's done...";
+msgctxt "Doctor#gnbs"
+msgid "Here~! It's done..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I don't think this medicine will";
+msgctxt "Doctor#gnbs"
+msgid "I don't think this medicine will"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "cure her disease completely.";
+msgctxt "Doctor#gnbs"
+msgid "cure her disease completely."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "However, it will greatly alleviate her pain.";
+msgctxt "Doctor#gnbs"
+msgid "However, it will greatly alleviate her pain."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It wasn't easy to make this";
+msgctxt "Doctor#gnbs"
+msgid "It wasn't easy to make this"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "medicine. Take care, bring";
+msgctxt "Doctor#gnbs"
+msgid "medicine. Take care, bring"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "this to Lyroo and give her my regards...";
+msgctxt "Doctor#gnbs"
+msgid "this to Lyroo and give her my regards..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hey~ You don't have all";
+msgctxt "Doctor#gnbs"
+msgid "Hey~ You don't have all"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Go get them all right away!";
+msgctxt "Doctor#gnbs"
+msgid "Go get them all right away!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Go get them as fast as possible.";
+msgctxt "Doctor#gnbs"
+msgid "Go get them as fast as possible."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hey there...";
+msgctxt "Doctor#gnbs"
+msgid "Hey there..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "How is she doing?";
+msgctxt "Doctor#gnbs"
+msgid "How is she doing?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Getting better?";
+msgctxt "Doctor#gnbs"
+msgid "Getting better?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "By taking that medicine,";
+msgctxt "Doctor#gnbs"
+msgid "By taking that medicine,"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "she'll recover fast.";
+msgctxt "Doctor#gnbs"
+msgid "she'll recover fast."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Tell her to come to me";
+msgctxt "Doctor#gnbs"
+msgid "Tell her to come to me"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "sometime to get medical";
+msgctxt "Doctor#gnbs"
+msgid "sometime to get medical"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "treatment. Walking from her";
+msgctxt "Doctor#gnbs"
+msgid "treatment. Walking from her"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "house to here would be good";
+msgctxt "Doctor#gnbs"
+msgid "house to here would be good"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "exercise too.";
+msgctxt "Doctor#gnbs"
+msgid "exercise too."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "The name of her disease is";
+msgctxt "Doctor#gnbs"
+msgid "The name of her disease is"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "called '^FF0000Amarhade^000000'.";
+msgctxt "Doctor#gnbs"
+msgid "called '^FF0000Amarhade^000000'."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It's a rare, relatively";
+msgctxt "Doctor#gnbs"
+msgid "It's a rare, relatively"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "unknown illness, so an exact";
+msgctxt "Doctor#gnbs"
+msgid "unknown illness, so an exact"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "treatment hasn't been found yet.";
+msgctxt "Doctor#gnbs"
+msgid "treatment hasn't been found yet."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But I found a treatment...";
+msgctxt "Doctor#gnbs"
+msgid "But I found a treatment..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "And...it's..a...secret! Haha~!";
+msgctxt "Doctor#gnbs"
+msgid "And...it's..a...secret! Haha~!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[??????]";
+msgctxt "go away#gnbs"
+msgid "[??????]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^FF0000What are you doing here?";
+msgctxt "go away#gnbs"
+msgid "^FF0000What are you doing here?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Get out of here!^000000";
+msgctxt "go away#gnbs"
+msgid "Get out of here!^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I am very busy right now. Please leave.";
+msgctxt "go away#gnbs"
+msgid "I am very busy right now. Please leave."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "[Han Ran Jiao]";
+msgctxt "Han Ran Jiao#gon"
+msgid "[Han Ran Jiao]"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh no! What will I do?!";
+msgctxt "Han Ran Jiao#gon"
+msgid "Oh no! What will I do?!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I can't believe I dropped";
+msgctxt "Han Ran Jiao#gon"
+msgid "I can't believe I dropped"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "my irreplaceable knife! Ahhhhhh!";
+msgctxt "Han Ran Jiao#gon"
+msgid "my irreplaceable knife! Ahhhhhh!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I need to go down to get it";
+msgctxt "Han Ran Jiao#gon"
+msgid "I need to go down to get it"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "but...the monsters...";
+msgctxt "Han Ran Jiao#gon"
+msgid "but...the monsters..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I'm so scared... What should I do?!";
+msgctxt "Han Ran Jiao#gon"
+msgid "I'm so scared... What should I do?!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh no! What will I do?";
+msgctxt "Han Ran Jiao#gon"
+msgid "Oh no! What will I do?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Ehhhh... what should I do...";
+msgctxt "Han Ran Jiao#gon"
+msgid "Ehhhh... what should I do..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh~! I didn't notice you there.";
+msgctxt "Han Ran Jiao#gon"
+msgid "Oh~! I didn't notice you there."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Can I help you with anything?";
+msgctxt "Han Ran Jiao#gon"
+msgid "Can I help you with anything?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Hmm?";
+msgctxt "Han Ran Jiao#gon"
+msgid "Hmm?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "That...that knife!";
+msgctxt "Han Ran Jiao#gon"
+msgid "That...that knife!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "That's my ancestor's sacred knife";
+msgctxt "Han Ran Jiao#gon"
+msgid "That's my ancestor's sacred knife"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "that I accidentally dropped from";
+msgctxt "Han Ran Jiao#gon"
+msgid "that I accidentally dropped from"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "here! Where did you get it!?";
+msgctxt "Han Ran Jiao#gon"
+msgid "here! Where did you get it!?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I carelessly dropped it.";
+msgctxt "Han Ran Jiao#gon"
+msgid "I carelessly dropped it."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "It belongs to one of my";
+msgctxt "Han Ran Jiao#gon"
+msgid "It belongs to one of my"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "ancestors. I know it looks like";
+msgctxt "Han Ran Jiao#gon"
+msgid "ancestors. I know it looks like"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "a cheap knife...";
+msgctxt "Han Ran Jiao#gon"
+msgid "a cheap knife..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "But it has been in the";
+msgctxt "Han Ran Jiao#gon"
+msgid "But it has been in the"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "family for a very long time.";
+msgctxt "Han Ran Jiao#gon"
+msgid "family for a very long time."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Would you please return that";
+msgctxt "Han Ran Jiao#gon"
+msgid "Would you please return that"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "knife to me?";
+msgctxt "Han Ran Jiao#gon"
+msgid "knife to me?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Return the knife.", "Refuse.") == 1) {
+msgctxt "Han Ran Jiao#gon"
+msgid "Return the knife."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# if (select("Return the knife.", "Refuse.") == 1) {
+msgctxt "Han Ran Jiao#gon"
+msgid "Refuse."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Thank you! Thank you so much!";
+msgctxt "Han Ran Jiao#gon"
+msgid "Thank you! Thank you so much!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Please take these potions.";
+msgctxt "Han Ran Jiao#gon"
+msgid "Please take these potions."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "They may not be much, but they";
+msgctxt "Han Ran Jiao#gon"
+msgid "They may not be much, but they"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "are the best I can give you.";
+msgctxt "Han Ran Jiao#gon"
+msgid "are the best I can give you."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You kept my family heirloom safe!";
+msgctxt "Han Ran Jiao#gon"
+msgid "You kept my family heirloom safe!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "I give you my deepest gratitude";
+msgctxt "Han Ran Jiao#gon"
+msgid "I give you my deepest gratitude"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "for returning this.";
+msgctxt "Han Ran Jiao#gon"
+msgid "for returning this."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "No~! My family heirloom!!";
+msgctxt "Han Ran Jiao#gon"
+msgid "No~! My family heirloom!!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "You scoundrel! May the spirits";
+msgctxt "Han Ran Jiao#gon"
+msgid "You scoundrel! May the spirits"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "forever haunt you! My curse shall be upon your head!";
+msgctxt "Han Ran Jiao#gon"
+msgid "forever haunt you! My curse shall be upon your head!"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "My neighbor seemed to look pretty bothered about something...";
+msgctxt "Han Ran Jiao#gon"
+msgid "My neighbor seemed to look pretty bothered about something..."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Oh well, I have better things to worry about than his fancy tea.";
+msgctxt "Han Ran Jiao#gon"
+msgid "Oh well, I have better things to worry about than his fancy tea."
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "^3355FFHm? What's this?";
+msgctxt "#gonknife"
+msgid "^3355FFHm? What's this?"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes " ";
+msgctxt "#gonknife"
+msgid " "
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "Something is hidden beneath the leaves...^000000";
+msgctxt "#gonknife"
+msgid "Something is hidden beneath the leaves...^000000"
+msgstr ""
+
+#: npc/quests/quests_gonryun.txt
+# mes "- You have found an old knife -";
+msgctxt "#gonknife"
+msgid "- You have found an old knife -"
+msgstr ""

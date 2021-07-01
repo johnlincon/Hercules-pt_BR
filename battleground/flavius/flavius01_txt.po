@@ -1,0 +1,457 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 06:55-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# waitingroom(_("Battle Station"), 11, "start#bat_b01::OnReadyCheck", 1, 0, 80);
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Lieutenant Ator"
+msgid "Battle Station"
+msgstr "Estação de batalha"
+
+# waitingroom(_("Battle Station"), 11, "start#bat_b01::OnReadyCheck", 1, 0, 80);
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Lieutenant Thelokus"
+msgid "Battle Station"
+msgstr "Estação de batalha"
+
+# mapannounce("bat_b01", _("Guillaume's Crystal has been destroyed."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "OBJ#bat_b01_a"
+msgid "Guillaume's Crystal has been destroyed."
+msgstr "O Cristal de Guillaume foi destruído."
+
+# bg_monster($@FlaviusBG1_id2, "bat_b01", 328, 150, _("Blue Crystal"), 1914, "OBJ#bat_b01_b::OnMyMobDead");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "OBJ#bat_b01_b"
+msgid "Blue Crystal"
+msgstr "Cristal Azul"
+
+# mapannounce("bat_b01", _("Croix's Crystal has been destroyed."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "OBJ#bat_b01_b"
+msgid "Croix's Crystal has been destroyed."
+msgstr "O Cristal de Croix foi destruído."
+
+# bg_monster($@FlaviusBG1_id1, "bat_b01", 108, 159, _("Guillaume Camp Guardian"), 1949, "guardian#bat_b01_a::OnMyMobDead");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "guardian#bat_b01_a"
+msgid "Guillaume Camp Guardian"
+msgstr "Guardião do Acampamento Guillaume"
+
+# mapannounce("bat_b01", _("The Guardian protecting Guillaume's Crystal has been slain."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "guardian#bat_b01_a"
+msgid "The Guardian protecting Guillaume's Crystal has been slain."
+msgstr "O Guardião que protege o Cristal de Guillaume foi morto."
+
+# bg_monster($@FlaviusBG1_id2, "bat_b01", 307, 160, _("Croix Camp Guardian"), 1949, "guardian#bat_b01_b::OnMyMobDead");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "guardian#bat_b01_b"
+msgid "Croix Camp Guardian"
+msgstr "Guardião do Acampamento de Croix"
+
+# mapannounce("bat_b01", _("The Guardian protecting Croix's Crystal has been slain."), bc_map, "0xFFCE00");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "guardian#bat_b01_b"
+msgid "The Guardian protecting Croix's Crystal has been slain."
+msgstr "O Guardião que protege o Cristal de Croix foi morto."
+
+# mes("[Battle Therapist]");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Battle Therapist#b01_a"
+msgid "[Battle Therapist]"
+msgstr "[Terapeuta de Batalha]"
+
+# mes("Just close your eyes,\r"
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Battle Therapist#b01_a"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr "Basta fechar os olhos, e respirar fundo."
+
+# mes("You can be free from pain.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Battle Therapist#b01_a"
+msgid "You can be free from pain."
+msgstr "Você pode estar livre da dor."
+
+# mes("[Battle Therapist]");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Battle Therapist#b01_b"
+msgid "[Battle Therapist]"
+msgstr "[Terapeuta de Batalha]"
+
+# mes("Just close your eyes,\r"
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Battle Therapist#b01_b"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr "Basta fechar os olhos, e respirar fundo."
+
+# mes("You can be free from pain.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Battle Therapist#b01_b"
+msgid "You can be free from pain."
+msgstr "Você pode estar livre da dor."
+
+# mes("[Axl Rose]");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "[Axl Rose]"
+msgstr "[Axl Rose]"
+
+# mes("Blessed Guillaume!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "Blessed Guillaume!"
+msgstr "Abençoado Guillaume!"
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "Let's enjoy our glorious victory!"
+msgstr "Vamos desfrutar de nossa gloriosa vitória!"
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy, c-format
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "%s, it's a sign reflecting victory."
+msgstr "%s, é um sinal que reflete a vitória."
+
+# mes("You lost, but you're dedicated to this battle.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "You lost, but you're dedicated to this battle."
+msgstr "Você perdeu, mas está dedicado a esta batalha."
+
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr "Esta é uma recompensa por sua grande dedicação de Guillaume Marollo!"
+
+# mes("Just take this defeat as a lesson, next time you will definitely win.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Guillaume Vintenar#b01_a"
+msgid "Just take this defeat as a lesson, next time you will definitely win."
+msgstr ""
+"Basta tomar esta derrota como uma lição, da próxima vez você definitivamente "
+"ganhará."
+
+# mes("[Swandery]");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Croix Vintenar#b01_b"
+msgid "[Swandery]"
+msgstr "[Artigos de Swandery]"
+
+# mes("Blessed Croix!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Croix Vintenar#b01_b"
+msgid "Blessed Croix!"
+msgstr "Abençoado Croix!"
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Croix Vintenar#b01_b"
+msgid "Let's enjoy our glorious victory!"
+msgstr "Vamos desfrutar de nossa gloriosa vitória!"
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy, c-format
+msgctxt "Croix Vintenar#b01_b"
+msgid "%s, it's a sign reflecting victory."
+msgstr "%s, é um sinal que reflete a vitória."
+
+# mesf("Oh, %s. Don't be sad.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy, c-format
+msgctxt "Croix Vintenar#b01_b"
+msgid "Oh, %s. Don't be sad."
+msgstr "Oh, %s. Não fique triste."
+
+# mes("Even though we didn't win, we did our best.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Croix Vintenar#b01_b"
+msgid "Even though we didn't win, we did our best."
+msgstr "Apesar de não termos ganho, demos o nosso melhor."
+
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Croix Vintenar#b01_b"
+msgid ""
+"This is a Royal gift from Croix, and please don't forget this battle. We "
+"will win the next one."
+msgstr ""
+"Este é um presente real de Croix, e por favor não se esqueça desta batalha. "
+"Nós venceremos a próxima."
+
+# mapannounce("bat_b01", _("Guillaume Vintenar Axl Rose : Let's attack to destroy that Crystal!"), bc_map, "0xFF9900");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "countdown#bat_b01"
+msgid "Guillaume Vintenar Axl Rose : Let's attack to destroy that Crystal!"
+msgstr "Guillaume Vintenar Axl Rose : Vamos atacar para destruir esse Cristal!"
+
+# mapannounce("bat_b01", _("Croix Vintenar Swandery : Even though Guillaume is struggling to win against us, the victory is ours. Let's show them our power."), bc_map, "0xFF99CC");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "countdown#bat_b01"
+msgid ""
+"Croix Vintenar Swandery : Even though Guillaume is struggling to win against "
+"us, the victory is ours. Let's show them our power."
+msgstr ""
+"Croix Vintenar Swandery : Mesmo que Guillaume esteja lutando para vencer "
+"contra nós, a vitória é nossa. Vamos mostrar a eles nosso poder."
+
+# mapannounce("bat_b01", _("Marollo VII : Guillaume Marollo, Croix Marollo! And their followers!"), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "countdown#bat_b01"
+msgid "Marollo VII : Guillaume Marollo, Croix Marollo! And their followers!"
+msgstr "Marollo VII : Guillaume Marollo, Croix Marollo! E seus seguidores!"
+
+# mapannounce("bat_b01", _("Marollo VII : Both camps are competitive, so it's hard to judge which team is superior."), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "countdown#bat_b01"
+msgid ""
+"Marollo VII : Both camps are competitive, so it's hard to judge which team "
+"is superior."
+msgstr ""
+"Marollo VII : Ambos os campos são competitivos, por isso é difícil julgar "
+"qual é a equipe superior."
+
+# mapannounce("bat_b01", _("Marollo VII : This battle of Flavian is such a waste of time. I will decide victory and defeat by your progress."), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "countdown#bat_b01"
+msgid ""
+"Marollo VII : This battle of Flavian is such a waste of time. I will decide "
+"victory and defeat by your progress."
+msgstr ""
+"Marollo VII : Esta batalha de Flavian é uma grande perda de tempo. Eu "
+"decidirei a vitória e a derrota por seu progresso."
+
+# mapannounce("bat_b01", _("Marollo VII : If you can't accept the results, try again in another valley battle!"), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "countdown#bat_b01"
+msgid ""
+"Marollo VII : If you can't accept the results, try again in another valley "
+"battle!"
+msgstr ""
+"Marollo VII : Se você não pode aceitar os resultados, tente novamente em "
+"outra batalha no vale!"
+
+# mapannounce("bat_b01", _("Axl Rose, Swandery : Yes, sir."), bc_map, "0x99CC00");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "countdown#bat_b01"
+msgid "Axl Rose, Swandery : Yes, sir."
+msgstr "Axl Rose, Swandery : Sim, senhor."
+
+# mes("[Axl Rose]");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_aover"
+msgid "[Axl Rose]"
+msgstr "[Axl Rose]"
+
+# mes("Blessed Guillaume!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_aover"
+msgid "Blessed Guillaume!"
+msgstr "Abençoado Guillaume!"
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_aover"
+msgid "Let's enjoy our glorious victory!"
+msgstr "Vamos desfrutar de nossa gloriosa vitória!"
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy, c-format
+msgctxt "Vintenar#bat_b01_aover"
+msgid "%s, it's a sign reflecting victory."
+msgstr "%s, é um sinal que reflete a vitória."
+
+# mes("You lost, but you're dedicated to this battle.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_aover"
+msgid "You lost, but you're dedicated to this battle."
+msgstr "Você perdeu, mas está dedicado a esta batalha."
+
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_aover"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr "Esta é uma recompensa por sua grande dedicação de Guillaume Marollo!"
+
+# mes("Just take this defeat as a lesson, next time you will definitely win.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_aover"
+msgid "Just take this defeat as a lesson, next time you will definitely win."
+msgstr ""
+"Basta tomar esta derrota como uma lição, da próxima vez você definitivamente "
+"ganhará."
+
+# mes("Why are you here, Croix mercenary? I am definitely sure of victory against foolish Croix such as you. Ha!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_aover"
+msgid ""
+"Why are you here, Croix mercenary? I am definitely sure of victory against "
+"foolish Croix such as you. Ha!"
+msgstr ""
+"Por que você está aqui, mercenário Croix? Estou definitivamente certo da "
+"vitória contra o croix tolo como você. Ha!"
+
+# mes("[Swandery]");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_bover"
+msgid "[Swandery]"
+msgstr "[Artigos de Swandery]"
+
+# mesf("Oh, %s. Don't be sad.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy, c-format
+msgctxt "Vintenar#bat_b01_bover"
+msgid "Oh, %s. Don't be sad."
+msgstr "Oh, %s. Não fique triste."
+
+# mes("Even though we didn't win, we did our best.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_bover"
+msgid "Even though we didn't win, we did our best."
+msgstr "Apesar de não termos ganho, demos o nosso melhor."
+
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_bover"
+msgid ""
+"This is a Royal gift from Croix, and please don't forget this battle. We "
+"will win the next one."
+msgstr ""
+"Este é um presente real de Croix, e por favor não se esqueça desta batalha. "
+"Nós venceremos a próxima."
+
+# mes("Blessed Croix!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_bover"
+msgid "Blessed Croix!"
+msgstr "Abençoado Croix!"
+
+# mes("Let's enjoy our glorious victory!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_bover"
+msgid "Let's enjoy our glorious victory!"
+msgstr "Vamos desfrutar de nossa gloriosa vitória!"
+
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy, c-format
+msgctxt "Vintenar#bat_b01_bover"
+msgid "%s, it's a sign reflecting victory."
+msgstr "%s, é um sinal que reflete a vitória."
+
+# mes("Why do you come here as a Guillaume? You will be sent to where you should be!");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Vintenar#bat_b01_bover"
+msgid ""
+"Why do you come here as a Guillaume? You will be sent to where you should be!"
+msgstr ""
+"Por que você vem aqui como um Guillaume? Você será enviado para onde deve "
+"estar!"
+
+# mes("Cancelled.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Release all#b01"
+msgid "Cancelled."
+msgstr "Cancelado."
+
+# mes("May I help you?");
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Release all#b01"
+msgid "May I help you?"
+msgstr "Posso ajudá-lo?"
+
+# switch(select("Release all.", "Cancel.")) {
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Release all#b01"
+msgid "Release all."
+msgstr "Libertar tudo."
+
+# switch(select("Release all.", "Cancel.")) {
+#: npc/battleground/flavius/flavius01.txt
+msgctxt "Release all#b01"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes("Bye.");
+#: npc/battleground/flavius/flavius01.txt
+#, fuzzy
+msgctxt "Release all#b01"
+msgid "Bye."
+msgstr "Tchau."

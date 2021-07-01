@@ -1,0 +1,790 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/woe-fe/agit_main.txt
+# mes "[Kafra Employee]";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "[Kafra Employee]"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Welcome. ^ff0000" + getguildinfo(GUILDINFO_NAME, .@GID) + "^000000 Member.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Welcome. ^ff0000"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "The Kafra Corporation will stay with you wherever you go.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "The Kafra Corporation will stay with you wherever you go."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Use Storage", "Use Teleport Service", "Rent a Pushcart", "Cancel")) {
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Use Storage"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Use Storage", "Use Teleport Service", "Rent a Pushcart", "Cancel")) {
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Use Teleport Service"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Use Storage", "Use Teleport Service", "Rent a Pushcart", "Cancel")) {
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Rent a Pushcart"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Use Storage", "Use Teleport Service", "Rent a Pushcart", "Cancel")) {
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Cancel"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I'm sorry, but you";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "I'm sorry, but you"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "need the Novice's";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "need the Novice's"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Basic Skill Level 6 to";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Basic Skill Level 6 to"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "use the Storage Service.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "use the Storage Service."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Here, let me open";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Here, let me open"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "your Storage for you.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "your Storage for you."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Thank you for using";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Thank you for using"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "the Kafra Service.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "the Kafra Service."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Please choose";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Please choose"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "your destination.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "your destination."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select(.@destination$+" -> 200z", "Cancel")) {
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid " -> 200z"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I'm sorry, but you don't have";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "I'm sorry, but you don't have"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "enough zeny for the Teleport";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "enough zeny for the Teleport"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Service. The fee to teleport";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Service. The fee to teleport"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "to "+.@destination$+" is 200 zeny.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "to "
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "to "+.@destination$+" is 200 zeny.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid " is 200 zeny."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I'm sorry, but the";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "I'm sorry, but the"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Pushcart rental service";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Pushcart rental service"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "is only available to Merchants,";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "is only available to Merchants,"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Blacksmiths, Master Smiths,";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Blacksmiths, Master Smiths,"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Alchemists, Biochemists,";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Alchemists, Biochemists,"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Mechanics and Geneticists.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Mechanics and Geneticists."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "You already have";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "You already have"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "a Pushcart equipped.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "a Pushcart equipped."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Unfortunately, we can't";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Unfortunately, we can't"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "rent more than one to";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "rent more than one to"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "each customer at a time.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "each customer at a time."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "The Pushcart rental";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "The Pushcart rental"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "fee is 800 zeny. Would";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "fee is 800 zeny. Would"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "you like to rent a Pushcart?";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "you like to rent a Pushcart?"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Rent a Pushcart.", "Cancel")) {
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "Rent a Pushcart."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "don't have enough";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "don't have enough"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "zeny to pay the Pushcart";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "zeny to pay the Pushcart"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "rental fee of 800 zeny.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "rental fee of 800 zeny."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "We, here at Kafra Corporation,";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "We, here at Kafra Corporation,"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "are always endeavoring to provide you with the best services. We hope that we meet your adventuring needs and standards of excellence.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "are always endeavoring to provide you with the best services. We hope that we meet your adventuring needs and standards of excellence."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I am instructed to only offer my services to the ^ff0000"+getguildinfo(GUILDINFO_NAME, .@GID)+"^000000 Guild. Please try another Kafra Employee around here. Sorry for the inconvenience.";
+msgctxt "Kafra Staff#woe::guildkafra"
+msgid "I am instructed to only offer my services to the ^ff0000"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "["+strnpcinfo(NPC_NAME_VISIBLE)+"]";
+msgctxt "Castle Manager#cm::cm"
+msgid "["
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I have been waiting for a master to fulfill my destiny.";
+msgctxt "Castle Manager#cm::cm"
+msgid "I have been waiting for a master to fulfill my destiny."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Brave soul... fate will guide you towards your future...";
+msgctxt "Castle Manager#cm::cm"
+msgid "Brave soul... fate will guide you towards your future..."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "No matter how much you pester me, I'll still follow my master ^ff0000"+getguildinfo(GUILDINFO_MASTER_NAME, .@GID)+"^000000. Where are the Guardians?! Send these ruffians away right now!";
+msgctxt "Castle Manager#cm::cm"
+msgid "No matter how much you pester me, I'll still follow my master ^ff0000"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Welcome. My honorable master, ^ff0000"+strcharinfo(PC_NAME)+"^000000...";
+msgctxt "Castle Manager#cm::cm"
+msgid "Welcome. My honorable master, ^ff0000"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Your humble servant, "+strnpcinfo(NPC_NAME_VISIBLE)+", is here to serve you.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Your humble servant, "
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Castle briefing", "Invest in commercial growth", "Invest in Castle Defenses", "Summon Guardian", "Hire / Fire a Kafra Employee", "Go into Master's room")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Castle briefing"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Castle briefing", "Invest in commercial growth", "Invest in Castle Defenses", "Summon Guardian", "Hire / Fire a Kafra Employee", "Go into Master's room")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Invest in commercial growth"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Castle briefing", "Invest in commercial growth", "Invest in Castle Defenses", "Summon Guardian", "Hire / Fire a Kafra Employee", "Go into Master's room")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Invest in Castle Defenses"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Castle briefing", "Invest in commercial growth", "Invest in Castle Defenses", "Summon Guardian", "Hire / Fire a Kafra Employee", "Go into Master's room")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Summon Guardian"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Castle briefing", "Invest in commercial growth", "Invest in Castle Defenses", "Summon Guardian", "Hire / Fire a Kafra Employee", "Go into Master's room")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Hire / Fire a Kafra Employee"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Castle briefing", "Invest in commercial growth", "Invest in Castle Defenses", "Summon Guardian", "Hire / Fire a Kafra Employee", "Go into Master's room")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Go into Master's room"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I will report the Castle briefing, Master.";
+msgctxt "Castle Manager#cm::cm"
+msgid "I will report the Castle briefing, Master."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes " ";
+msgctxt "Castle Manager#cm::cm"
+msgid " "
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "^0000ffNow, the commercial growth level is "+getcastledata(strnpcinfo(NPC_NAME_HIDDEN),2)+".";
+msgctxt "Castle Manager#cm::cm"
+msgid "^0000ffNow, the commercial growth level is "
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes " You invested "+getcastledata(strnpcinfo(NPC_NAME_HIDDEN),4)+" times in past 1 day.";
+msgctxt "Castle Manager#cm::cm"
+msgid " You invested "
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes " Now, the Castle Defense level is "+getcastledata(strnpcinfo(NPC_NAME_HIDDEN),3)+".^000000";
+msgctxt "Castle Manager#cm::cm"
+msgid " Now, the Castle Defense level is "
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes " ^0000ff- You invested "+getcastledata(strnpcinfo(NPC_NAME_HIDDEN),5)+" times in past 1 day.^000000";
+msgctxt "Castle Manager#cm::cm"
+msgid " ^0000ff- You invested "
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "That's all I have to report, Master.";
+msgctxt "Castle Manager#cm::cm"
+msgid "That's all I have to report, Master."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "If you invest in commercial growth, the quantity of goods made by the guild will increase. Therfore, if you consider our future, investments will be a necessity.";
+msgctxt "Castle Manager#cm::cm"
+msgid "If you invest in commercial growth, the quantity of goods made by the guild will increase. Therfore, if you consider our future, investments will be a necessity."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Initially, you are able to invest just once but if you pay more money, you will be able to invest twice.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Initially, you are able to invest just once but if you pay more money, you will be able to invest twice."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "^ff0000The commercial growth level of our Castle is at it's highest, 100%. No more investments are needed. Just as I have expected from a great economist like you, Master.^000000";
+#, no-c-format
+msgctxt "Castle Manager#cm::cm"
+msgid "^ff0000The commercial growth level of our Castle is at it's highest, 100%. No more investments are needed. Just as I have expected from a great economist like you, Master.^000000"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "^ff0000You have already invested twice today. You cannot invest any more.^000000 I expect riches of the guild to grow at a high rate.";
+msgctxt "Castle Manager#cm::cm"
+msgid "^ff0000You have already invested twice today. You cannot invest any more.^000000 I expect riches of the guild to grow at a high rate."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "The current investment amount required is ^ff0000"+.@eco_invest+"^000000 zeny. Will you invest?";
+msgctxt "Castle Manager#cm::cm"
+msgid "The current investment amount required is ^ff0000"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "The current investment amount required is ^ff0000"+.@eco_invest+"^000000 zeny. Will you invest?";
+msgctxt "Castle Manager#cm::cm"
+msgid "^000000 zeny. Will you invest?"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "You've invested once today... if you wish to invest once more, ^ff0000"+.@eco_invest+"^000000 more zeny will be needed.";
+msgctxt "Castle Manager#cm::cm"
+msgid "You've invested once today... if you wish to invest once more, ^ff0000"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "You've invested once today... if you wish to invest once more, ^ff0000"+.@eco_invest+"^000000 more zeny will be needed.";
+msgctxt "Castle Manager#cm::cm"
+msgid "^000000 more zeny will be needed."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Invest in commercial growth", "Cancel")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Cancel"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I'm sorry but there is not enough zeny to invest. You will have to try again when you have the funds, Master.";
+msgctxt "Castle Manager#cm::cm"
+msgid "I'm sorry but there is not enough zeny to invest. You will have to try again when you have the funds, Master."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "[ "+strnpcinfo(NPC_NAME_VISIBLE)+"]";
+msgctxt "Castle Manager#cm::cm"
+msgid "[ "
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "We finished the investment safely. I expect that our growth level will be increased by tomorrow.";
+msgctxt "Castle Manager#cm::cm"
+msgid "We finished the investment safely. I expect that our growth level will be increased by tomorrow."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I'll do as you bid, my master... There is no hurry. We will do our best.";
+msgctxt "Castle Manager#cm::cm"
+msgid "I'll do as you bid, my master... There is no hurry. We will do our best."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "If you raise Castle Defenses, the durability of Guardians and the Emperium will increase. Therefore, if you consider our coming battles, some investment in this area will be required.";
+msgctxt "Castle Manager#cm::cm"
+msgid "If you raise Castle Defenses, the durability of Guardians and the Emperium will increase. Therefore, if you consider our coming battles, some investment in this area will be required."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Originally you can invest just once but if you pay more money, you can invest twice.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Originally you can invest just once but if you pay more money, you can invest twice."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "^ff0000But the Castle Defense level of our Castle is at it's highest, 100%. No more investments are needed. Just as I have expected from a great strategist like you, Master.^000000";
+#, no-c-format
+msgctxt "Castle Manager#cm::cm"
+msgid "^ff0000But the Castle Defense level of our Castle is at it's highest, 100%. No more investments are needed. Just as I have expected from a great strategist like you, Master.^000000"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "^ff0000You have already invested twice today. You cannot invest any more.^000000 I expect the Defenses of the guild to grow at a high rate.";
+msgctxt "Castle Manager#cm::cm"
+msgid "^ff0000You have already invested twice today. You cannot invest any more.^000000 I expect the Defenses of the guild to grow at a high rate."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Invest in Castle Defenses.", "Cancel")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Invest in Castle Defenses."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "We finished the investment safely. I expect that our Castle Defense level will be increased by tomorrow.";
+msgctxt "Castle Manager#cm::cm"
+msgid "We finished the investment safely. I expect that our Castle Defense level will be increased by tomorrow."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Will you summon a Guardian? It'll be a protector to defend us loyally.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Will you summon a Guardian? It'll be a protector to defend us loyally."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Please select a guardian to defend us.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Please select a guardian to defend us."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Will you summon the chosen guardian? 10,000 zeny are required to summon a Guardian.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Will you summon the chosen guardian? 10,000 zeny are required to summon a Guardian."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Summon", "Cancel")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Summon"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Master, we have not the resources to Summon the Guardian. If you want to accumulate them, you have to learn the Guild skill. We failed to summon the Guardian.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Master, we have not the resources to Summon the Guardian. If you want to accumulate them, you have to learn the Guild skill. We failed to summon the Guardian."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Master, you already have summoned that Guardian. We cannot summon another.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Master, you already have summoned that Guardian. We cannot summon another."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Well... I'm sorry but we don't have funds to summon the Guardian. We failed to summon the Guardian.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Well... I'm sorry but we don't have funds to summon the Guardian. We failed to summon the Guardian."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "We completed the summoning of the Guardian. Our defenses are now increased with it in place.";
+msgctxt "Castle Manager#cm::cm"
+msgid "We completed the summoning of the Guardian. Our defenses are now increased with it in place."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I did as you ordered. But please remember if you the have money to spare, it'll be better to set it up.";
+msgctxt "Castle Manager#cm::cm"
+msgid "I did as you ordered. But please remember if you the have money to spare, it'll be better to set it up."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "We are currently hiring a Kafra Employee... Do you want to fire the Kafra Employee?";
+msgctxt "Castle Manager#cm::cm"
+msgid "We are currently hiring a Kafra Employee... Do you want to fire the Kafra Employee?"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Fire", "Cancel")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Fire"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "[ Hired Kafra Employee ]";
+msgctxt "Castle Manager#cm::cm"
+msgid "[ Hired Kafra Employee ]"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I worked so hard... How can you do that, Master?... Please... Please reconsider... Check it again, Master... Please...";
+msgctxt "Castle Manager#cm::cm"
+msgid "I worked so hard... How can you do that, Master?... Please... Please reconsider... Check it again, Master... Please..."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Oh, my goodness! This is nonsense!";
+msgctxt "Castle Manager#cm::cm"
+msgid "Oh, my goodness! This is nonsense!"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I'll work hard for you... Thank you!";
+msgctxt "Castle Manager#cm::cm"
+msgid "I'll work hard for you... Thank you!"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "She worked hard in my opinion. It was a good decision to keep her.";
+msgctxt "Castle Manager#cm::cm"
+msgid "She worked hard in my opinion. It was a good decision to keep her."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "....";
+msgctxt "Castle Manager#cm::cm"
+msgid "...."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I have discharged the Kafra Employee... But... are you unsatisfied with something?";
+msgctxt "Castle Manager#cm::cm"
+msgid "I have discharged the Kafra Employee... But... are you unsatisfied with something?"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Will you contact the kafra Main Office and Hire a Employee for our Castle?";
+msgctxt "Castle Manager#cm::cm"
+msgid "Will you contact the kafra Main Office and Hire a Employee for our Castle?"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "^ff0000 10,000 zeny is required for their services. ";
+msgctxt "Castle Manager#cm::cm"
+msgid "^ff0000 10,000 zeny is required for their services. "
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Hire.", "Cancel")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Hire."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Master, we can't hire a Kafra Employee because we don't have a contract with the Kafra Main Office. If you want to obtain a contract with the Kafra Main Office, you will need to learn the Guild skill first.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Master, we can't hire a Kafra Employee because we don't have a contract with the Kafra Main Office. If you want to obtain a contract with the Kafra Main Office, you will need to learn the Guild skill first."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Well... I'm sorry but we don't have enough funds to hire a Kafra Employee.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Well... I'm sorry but we don't have enough funds to hire a Kafra Employee."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "We obtained a contract with the kafra Main Office, and hired a Kafra Employee.";
+msgctxt "Castle Manager#cm::cm"
+msgid "We obtained a contract with the kafra Main Office, and hired a Kafra Employee."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "How do you do? I was dispatched from the Main Office.";
+msgctxt "Castle Manager#cm::cm"
+msgid "How do you do? I was dispatched from the Main Office."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I'll do my best to not tarnish the reputation of the Guild.";
+msgctxt "Castle Manager#cm::cm"
+msgid "I'll do my best to not tarnish the reputation of the Guild."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "The Contract terms of the hired Kafra Employee are for 1 month and after this term, you will need to to pay an additional fee.";
+msgctxt "Castle Manager#cm::cm"
+msgid "The Contract terms of the hired Kafra Employee are for 1 month and after this term, you will need to to pay an additional fee."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "It will be useful for our members.";
+msgctxt "Castle Manager#cm::cm"
+msgid "It will be useful for our members."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I did as you ordered, but some of our members will be unhappy. It will be better to hire a Kafra Employee quickly.";
+msgctxt "Castle Manager#cm::cm"
+msgid "I did as you ordered, but some of our members will be unhappy. It will be better to hire a Kafra Employee quickly."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Do you want to visit the room where our valuables are stored?";
+msgctxt "Castle Manager#cm::cm"
+msgid "Do you want to visit the room where our valuables are stored?"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "That room is restricted to you... you are the only one with access to it.";
+msgctxt "Castle Manager#cm::cm"
+msgid "That room is restricted to you... you are the only one with access to it."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# switch (select("Go into Master's room.", "Cancel")) {
+msgctxt "Castle Manager#cm::cm"
+msgid "Go into Master's room."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "I'll show you the secret path. Follow me...please.";
+msgctxt "Castle Manager#cm::cm"
+msgid "I'll show you the secret path. Follow me...please."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "When you want to return here, please press the secret switch.";
+msgctxt "Castle Manager#cm::cm"
+msgid "When you want to return here, please press the secret switch."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Goods are produced once a day... if you don't remove them in time, they will not be produced anymore.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Goods are produced once a day... if you don't remove them in time, they will not be produced anymore."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Therefore, it will be better if you check up on them from time to time.";
+msgctxt "Castle Manager#cm::cm"
+msgid "Therefore, it will be better if you check up on them from time to time."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "[Ringing Voice]";
+msgctxt "Lever#gd::gdlever"
+msgid "[Ringing Voice]"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "'Those who overcome an ordeal shows a great deal of bravery... and will find their way to another ordeal.'";
+msgctxt "Lever#gd::gdlever"
+msgid "'Those who overcome an ordeal shows a great deal of bravery... and will find their way to another ordeal.'"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "'Only the truly brave can take the test.'";
+msgctxt "Lever#gd::gdlever"
+msgid "'Only the truly brave can take the test.'"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes " ";
+msgctxt "Lever#gd::gdlever"
+msgid " "
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "There's a small lever. Will you pull it?";
+msgctxt "Lever#gd::gdlever"
+msgid "There's a small lever. Will you pull it?"
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# if(select("Pull.", "Don't pull.") == 1) {
+msgctxt "Lever#gd::gdlever"
+msgid "Pull."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# if(select("Pull.", "Don't pull.") == 1) {
+msgctxt "Lever#gd::gdlever"
+msgid "Don't pull."
+msgstr ""
+
+#: npc/woe-fe/agit_main.txt
+# mes "Nothing happened.";
+msgctxt "Lever#gd::gdlever"
+msgid "Nothing happened."
+msgstr ""

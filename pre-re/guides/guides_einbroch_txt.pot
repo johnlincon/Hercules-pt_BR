@@ -1,0 +1,1124 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "[Einbroch Guide]";
+msgctxt "Guide#ein::EinGuide"
+msgid "[Einbroch Guide]"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Welcome";
+msgctxt "Guide#ein::EinGuide"
+msgid "Welcome"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "to Einbroch,";
+msgctxt "Guide#ein::EinGuide"
+msgid "to Einbroch,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "the City of Steel.";
+msgctxt "Guide#ein::EinGuide"
+msgid "the City of Steel."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Please ask me if you";
+msgctxt "Guide#ein::EinGuide"
+msgid "Please ask me if you"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "have any questions.";
+msgctxt "Guide#ein::EinGuide"
+msgid "have any questions."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("City Guide.", "Remove Marks from Mini-Map.", "Notice.", "Cancel.")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "City Guide."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("City Guide.", "Remove Marks from Mini-Map.", "Notice.", "Cancel.")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Remove Marks from Mini-Map."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("City Guide.", "Remove Marks from Mini-Map.", "Notice.", "Cancel.")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Notice."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("City Guide.", "Remove Marks from Mini-Map.", "Notice.", "Cancel.")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Cancel."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Please select";
+msgctxt "Guide#ein::EinGuide"
+msgid "Please select"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "a location from";
+msgctxt "Guide#ein::EinGuide"
+msgid "a location from"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "the following menu.";
+msgctxt "Guide#ein::EinGuide"
+msgid "the following menu."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Would you like me";
+msgctxt "Guide#ein::EinGuide"
+msgid "Would you like me"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "to mark locations";
+msgctxt "Guide#ein::EinGuide"
+msgid "to mark locations"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "on your Mini-Map?";
+msgctxt "Guide#ein::EinGuide"
+msgid "on your Mini-Map?"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+msgctxt "Guide#ein::EinGuide"
+msgid "Yes."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+msgctxt "Guide#ein::EinGuide"
+msgid "No."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("^FF0000Airport^000000", "Train Station", "Factory", "Plaza", "Hotel", "Weapon Shop", "Laboratory", "Blacksmith Guild", "Einbroch Tower", "Cancel")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "^FF0000Airport^000000"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("^FF0000Airport^000000", "Train Station", "Factory", "Plaza", "Hotel", "Weapon Shop", "Laboratory", "Blacksmith Guild", "Einbroch Tower", "Cancel")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Train Station"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("^FF0000Airport^000000", "Train Station", "Factory", "Plaza", "Hotel", "Weapon Shop", "Laboratory", "Blacksmith Guild", "Einbroch Tower", "Cancel")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Factory"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("^FF0000Airport^000000", "Train Station", "Factory", "Plaza", "Hotel", "Weapon Shop", "Laboratory", "Blacksmith Guild", "Einbroch Tower", "Cancel")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Plaza"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("^FF0000Airport^000000", "Train Station", "Factory", "Plaza", "Hotel", "Weapon Shop", "Laboratory", "Blacksmith Guild", "Einbroch Tower", "Cancel")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Hotel"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("^FF0000Airport^000000", "Train Station", "Factory", "Plaza", "Hotel", "Weapon Shop", "Laboratory", "Blacksmith Guild", "Einbroch Tower", "Cancel")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Weapon Shop"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("^FF0000Airport^000000", "Train Station", "Factory", "Plaza", "Hotel", "Weapon Shop", "Laboratory", "Blacksmith Guild", "Einbroch Tower", "Cancel")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Laboratory"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("^FF0000Airport^000000", "Train Station", "Factory", "Plaza", "Hotel", "Weapon Shop", "Laboratory", "Blacksmith Guild", "Einbroch Tower", "Cancel")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Blacksmith Guild"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("^FF0000Airport^000000", "Train Station", "Factory", "Plaza", "Hotel", "Weapon Shop", "Laboratory", "Blacksmith Guild", "Einbroch Tower", "Cancel")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Einbroch Tower"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("^FF0000Airport^000000", "Train Station", "Factory", "Plaza", "Hotel", "Weapon Shop", "Laboratory", "Blacksmith Guild", "Einbroch Tower", "Cancel")) {
+msgctxt "Guide#ein::EinGuide"
+msgid "Cancel"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The ^FF0000Airport^000000 is located";
+msgctxt "Guide#ein::EinGuide"
+msgid "The ^FF0000Airport^000000 is located"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "in the northwestern part";
+msgctxt "Guide#ein::EinGuide"
+msgid "in the northwestern part"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "of the city. There you can";
+msgctxt "Guide#ein::EinGuide"
+msgid "of the city. There you can"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "see our city's pride and joy, the Airship. Remember that you must pay admission to board the Airship.";
+msgctxt "Guide#ein::EinGuide"
+msgid "see our city's pride and joy, the Airship. Remember that you must pay admission to board the Airship."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Train Station is";
+msgctxt "Guide#ein::EinGuide"
+msgid "The Train Station is"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "located in the northeast";
+msgctxt "Guide#ein::EinGuide"
+msgid "located in the northeast"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "part of Einbroch. Trains";
+msgctxt "Guide#ein::EinGuide"
+msgid "part of Einbroch. Trains"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "running between here";
+msgctxt "Guide#ein::EinGuide"
+msgid "running between here"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "and Einbech run all day";
+msgctxt "Guide#ein::EinGuide"
+msgid "and Einbech run all day"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "long, everyday.";
+msgctxt "Guide#ein::EinGuide"
+msgid "long, everyday."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Factory, perhaps the";
+msgctxt "Guide#ein::EinGuide"
+msgid "The Factory, perhaps the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "most important facility in";
+msgctxt "Guide#ein::EinGuide"
+msgid "most important facility in"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Einbroch, is located in the";
+msgctxt "Guide#ein::EinGuide"
+msgid "Einbroch, is located in the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "southern part of the city.";
+msgctxt "Guide#ein::EinGuide"
+msgid "southern part of the city."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Plaza, our biggest";
+msgctxt "Guide#ein::EinGuide"
+msgid "The Plaza, our biggest"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "shopping district, can be";
+msgctxt "Guide#ein::EinGuide"
+msgid "shopping district, can be"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "found just east from the";
+msgctxt "Guide#ein::EinGuide"
+msgid "found just east from the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "center of Einbroch.";
+msgctxt "Guide#ein::EinGuide"
+msgid "center of Einbroch."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Hotel is east of";
+msgctxt "Guide#ein::EinGuide"
+msgid "The Hotel is east of"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "the Plaza and offers top";
+msgctxt "Guide#ein::EinGuide"
+msgid "the Plaza and offers top"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "caliber accomodations.";
+msgctxt "Guide#ein::EinGuide"
+msgid "caliber accomodations."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "There, you can enjoy your";
+msgctxt "Guide#ein::EinGuide"
+msgid "There, you can enjoy your"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "stay in Einbroch in comfort~";
+msgctxt "Guide#ein::EinGuide"
+msgid "stay in Einbroch in comfort~"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Weapon Shop is";
+msgctxt "Guide#ein::EinGuide"
+msgid "The Weapon Shop is"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "located north from the";
+msgctxt "Guide#ein::EinGuide"
+msgid "located north from the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Plaza. There you can";
+msgctxt "Guide#ein::EinGuide"
+msgid "Plaza. There you can"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "purchase weapons for";
+msgctxt "Guide#ein::EinGuide"
+msgid "purchase weapons for"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "your personal use.";
+msgctxt "Guide#ein::EinGuide"
+msgid "your personal use."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Laboratory is an";
+msgctxt "Guide#ein::EinGuide"
+msgid "The Laboratory is an"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "annex of the Factory and";
+msgctxt "Guide#ein::EinGuide"
+msgid "annex of the Factory and"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "is located in the southwest";
+msgctxt "Guide#ein::EinGuide"
+msgid "is located in the southwest"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "sector of Einbroch.";
+msgctxt "Guide#ein::EinGuide"
+msgid "sector of Einbroch."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Blacksmith Guild is";
+msgctxt "Guide#ein::EinGuide"
+msgid "The Blacksmith Guild is"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "located in the southeast";
+msgctxt "Guide#ein::EinGuide"
+msgid "located in the southeast"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "part of Einbroch. You can";
+msgctxt "Guide#ein::EinGuide"
+msgid "part of Einbroch. You can"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "upgrade your equipment";
+msgctxt "Guide#ein::EinGuide"
+msgid "upgrade your equipment"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "by using their services.";
+msgctxt "Guide#ein::EinGuide"
+msgid "by using their services."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Einbroch Tower is";
+msgctxt "Guide#ein::EinGuide"
+msgid "The Einbroch Tower is"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "located in the center of";
+msgctxt "Guide#ein::EinGuide"
+msgid "located in the center of"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "the city. From the top of";
+msgctxt "Guide#ein::EinGuide"
+msgid "the city. From the top of"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "the tower, you can view";
+msgctxt "Guide#ein::EinGuide"
+msgid "the tower, you can view"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "all of Einbroch.";
+msgctxt "Guide#ein::EinGuide"
+msgid "all of Einbroch."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Please ask me to ''Remove";
+msgctxt "Guide#ein::EinGuide"
+msgid "Please ask me to ''Remove"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Marks from Mini-Map'' if you";
+msgctxt "Guide#ein::EinGuide"
+msgid "Marks from Mini-Map'' if you"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "no longer wish to have the";
+msgctxt "Guide#ein::EinGuide"
+msgid "no longer wish to have the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "location marks displayed";
+msgctxt "Guide#ein::EinGuide"
+msgid "location marks displayed"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "on your Mini-Map.";
+msgctxt "Guide#ein::EinGuide"
+msgid "on your Mini-Map."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Okay, the marks from";
+msgctxt "Guide#ein::EinGuide"
+msgid "Okay, the marks from"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "your Mini-Map have been";
+msgctxt "Guide#ein::EinGuide"
+msgid "your Mini-Map have been"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "removed. If you need any";
+msgctxt "Guide#ein::EinGuide"
+msgid "removed. If you need any"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "guidance around Einbroch,";
+msgctxt "Guide#ein::EinGuide"
+msgid "guidance around Einbroch,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "please let me or one of the";
+msgctxt "Guide#ein::EinGuide"
+msgid "please let me or one of the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "other Einbroch Guides know.";
+msgctxt "Guide#ein::EinGuide"
+msgid "other Einbroch Guides know."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Through the technology of";
+msgctxt "Guide#ein::EinGuide"
+msgid "Through the technology of"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "the Schwaltzvalt Republic,";
+msgctxt "Guide#ein::EinGuide"
+msgid "the Schwaltzvalt Republic,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "we've upgraded to a digital";
+msgctxt "Guide#ein::EinGuide"
+msgid "we've upgraded to a digital"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "information system that allows";
+msgctxt "Guide#ein::EinGuide"
+msgid "information system that allows"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "us to mark locations on your";
+msgctxt "Guide#ein::EinGuide"
+msgid "us to mark locations on your"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Mini-Map for easier navigation.";
+msgctxt "Guide#ein::EinGuide"
+msgid "Mini-Map for easier navigation."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Your Mini-Map is located";
+msgctxt "Guide#ein::EinGuide"
+msgid "Your Mini-Map is located"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "in the upper right corner";
+msgctxt "Guide#ein::EinGuide"
+msgid "in the upper right corner"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "of the screen. If you can't";
+msgctxt "Guide#ein::EinGuide"
+msgid "of the screen. If you can't"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "see it, press the Ctrl + Tab";
+msgctxt "Guide#ein::EinGuide"
+msgid "see it, press the Ctrl + Tab"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "keys or click the ''Map'' button in your Basic Info Window.";
+msgctxt "Guide#ein::EinGuide"
+msgid "keys or click the ''Map'' button in your Basic Info Window."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "On your Mini-Map,";
+msgctxt "Guide#ein::EinGuide"
+msgid "On your Mini-Map,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "click on the ''+'' and ''-''";
+msgctxt "Guide#ein::EinGuide"
+msgid "click on the ''+'' and ''-''"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "symbols to zoom in and";
+msgctxt "Guide#ein::EinGuide"
+msgid "symbols to zoom in and"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "our of your Mini-Map. We";
+msgctxt "Guide#ein::EinGuide"
+msgid "our of your Mini-Map. We"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "hope you enjoy your travels";
+msgctxt "Guide#ein::EinGuide"
+msgid "hope you enjoy your travels"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "here in Einbroch, adventurer.";
+msgctxt "Guide#ein::EinGuide"
+msgid "here in Einbroch, adventurer."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "We hope that you";
+msgctxt "Guide#ein::EinGuide"
+msgid "We hope that you"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "enjoy your travels";
+msgctxt "Guide#ein::EinGuide"
+msgid "enjoy your travels"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "here in Einbroch.";
+msgctxt "Guide#ein::EinGuide"
+msgid "here in Einbroch."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Oh, and please be";
+msgctxt "Guide#ein::EinGuide"
+msgid "Oh, and please be"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "aware of the Smog Alerts.";
+msgctxt "Guide#ein::EinGuide"
+msgid "aware of the Smog Alerts."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "[Einbech Guide]";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "[Einbech Guide]"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Welcome to Einbech,";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Welcome to Einbech,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "the Mining Town. We're";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "the Mining Town. We're"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "here to assist tourists,";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "here to assist tourists,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "so if you have any questions,";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "so if you have any questions,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "please feel free to ask us.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "please feel free to ask us."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("City Guide.", "Remove Marks from Mini-Map.", "Notice.", "Cancel.")) {
+msgctxt "Guide#4ein::EinGuide2"
+msgid "City Guide."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("City Guide.", "Remove Marks from Mini-Map.", "Notice.", "Cancel.")) {
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Remove Marks from Mini-Map."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("City Guide.", "Remove Marks from Mini-Map.", "Notice.", "Cancel.")) {
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Notice."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("City Guide.", "Remove Marks from Mini-Map.", "Notice.", "Cancel.")) {
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Cancel."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Please select";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Please select"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "a location from";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "a location from"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "the following menu.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "the following menu."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Would you like me";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Would you like me"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "to mark locations";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "to mark locations"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "on your Mini-Map?";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "on your Mini-Map?"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Yes."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+msgctxt "Guide#4ein::EinGuide2"
+msgid "No."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("Train Station", "Tavern", "Tool Shop", "Swordman Guild", "Mine", "Cancel")) {
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Train Station"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("Train Station", "Tavern", "Tool Shop", "Swordman Guild", "Mine", "Cancel")) {
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Tavern"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("Train Station", "Tavern", "Tool Shop", "Swordman Guild", "Mine", "Cancel")) {
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Tool Shop"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("Train Station", "Tavern", "Tool Shop", "Swordman Guild", "Mine", "Cancel")) {
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Swordman Guild"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("Train Station", "Tavern", "Tool Shop", "Swordman Guild", "Mine", "Cancel")) {
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Mine"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# switch(select("Train Station", "Tavern", "Tool Shop", "Swordman Guild", "Mine", "Cancel")) {
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Cancel"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Train Stations are";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "The Train Stations are"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "located in the northwest";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "located in the northwest"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "and northeast parts of";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "and northeast parts of"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Einbech. There, you can";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Einbech. There, you can"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "take a train to Einbroch.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "take a train to Einbroch."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Tavern is located";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "The Tavern is located"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "in the southern part of";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "in the southern part of"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Einbech. It's a nice place";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Einbech. It's a nice place"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "to relax after a long day.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "to relax after a long day."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "You can find the Tool";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "You can find the Tool"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Shop in the center of";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Shop in the center of"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "purchase any tools you";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "purchase any tools you"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "might need for your travels.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "might need for your travels."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Swordman Guild";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "The Swordman Guild"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "is located in the eastern";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "is located in the eastern"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "outskirts of Einbech. It's";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "outskirts of Einbech. It's"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "under construction and they";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "under construction and they"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "haven't started accepting";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "haven't started accepting"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "applications.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "applications."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "The Mine, which is";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "The Mine, which is"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Einbech's major industry,";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Einbech's major industry,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "is located in the northern";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "is located in the northern"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "part of this town. It's where";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "part of this town. It's where"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "we get all our ores, although monsters get in the miners' way.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "we get all our ores, although monsters get in the miners' way."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Please ask me to ''Remove";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Please ask me to ''Remove"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Marks from Mini-Map'' if you";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Marks from Mini-Map'' if you"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "no longer wish to have the";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "no longer wish to have the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "location marks displayed";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "location marks displayed"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "on your Mini-Map.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "on your Mini-Map."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Okay, the marks from";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Okay, the marks from"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "your Mini-Map have been";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "your Mini-Map have been"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "removed. If you need any";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "removed. If you need any"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "guidance around Einbech,";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "guidance around Einbech,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "please let me or one of the";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "please let me or one of the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "other Einbech Guides know.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "other Einbech Guides know."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Through the technology of";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Through the technology of"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "the Schwaltzvalt Republic,";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "the Schwaltzvalt Republic,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "we've upgraded to a digital";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "we've upgraded to a digital"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "information system that allows";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "information system that allows"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "us to mark locations on your";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "us to mark locations on your"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Mini-Map for easier navigation.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Mini-Map for easier navigation."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "Your Mini-Map is located";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "Your Mini-Map is located"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "in the upper right corner";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "in the upper right corner"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "of the screen. If you can't";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "of the screen. If you can't"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "see it, press the Ctrl + Tab";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "see it, press the Ctrl + Tab"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "keys or click the ''Map'' button in your Basic Info Window.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "keys or click the ''Map'' button in your Basic Info Window."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "On your Mini-Map,";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "On your Mini-Map,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "click on the ''+'' and ''-''";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "click on the ''+'' and ''-''"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "symbols to zoom in and";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "symbols to zoom in and"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "our of your Mini-Map. We";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "our of your Mini-Map. We"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "hope you enjoy your travels";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "hope you enjoy your travels"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "here in Einbech, adventurer.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "here in Einbech, adventurer."
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "We hope that you";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "We hope that you"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "enjoy your travels";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "enjoy your travels"
+msgstr ""
+
+#: npc/pre-re/guides/guides_einbroch.txt
+# mes "here in Einbech.";
+msgctxt "Guide#4ein::EinGuide2"
+msgid "here in Einbech."
+msgstr ""

@@ -1,0 +1,740 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/other/CashShop_Functions.txt
+# mes "[Kafra Employee]";
+msgctxt "F_CashStore"
+msgid "[Kafra Employee]"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "Welcome to the Kafra Corporation.";
+msgctxt "F_CashStore"
+msgid "Welcome to the Kafra Corporation."
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "Here, let me open your Storage for you.";
+msgctxt "F_CashStore"
+msgid "Here, let me open your Storage for you."
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Nogg Road"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Mjolnir Dead Pit"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Umbala Dungeon"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Einbroch Mine Dungeon"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Payon Dungeon"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Toy Dungeon"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Glast Heim Underprison"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Louyang Dungeon"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Hermit's Checkers"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Izlude Dungeon"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Turtle Island Dungeon"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Clock Tower B3f"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Clock Tower 3f"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Glast Heim Culvert 2f"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Sphinx Dungeon 4f"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Inside Pyramid 4f"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Prontera Culvert 3f"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Amatsu Dungeon 1f (Tatami Maze)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Somatology Laboratory 1st floor"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Nogg Road", "Mjolnir Dead Pit", (RENEWAL?"": "Umbala Dungeon"), "Einbroch Mine Dungeon", "Payon Dungeon", "Toy Dungeon", "Glast Heim Underprison", "Louyang Dungeon", "Hermit's Checkers", "Izlude Dungeon", "Turtle Island Dungeon", "Clock Tower B3f", "Clock Tower 3f", "Glast Heim Culvert 2f", "Sphinx Dungeon 4f", "Inside Pyramid 4f", "Prontera Culvert 3f", "Amatsu Dungeon 1f (Tatami Maze)", "Somatology Laboratory 1st floor", "Ayothya Ancient Shrine 2nd floor")) {
+msgctxt "F_CashDungeon"
+msgid "Ayothya Ancient Shrine 2nd floor"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Thor Volcano 2f"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Ice Dungeon Entrance"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Nameless Island Entrance"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Niflheim"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Labyrinth Forest 2f"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Ruins of Juperos Entrance"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Ant Hell 2f"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Kiel Hyre's Academy Entrance"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Thanatos Tower Entrance"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Abyss Lake Entrance"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Rachel Sanctuary Entrance"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Thor Volcano 2f", "Ice Dungeon Entrance", "Nameless Island Entrance", "Niflheim", "Labyrinth Forest 2f", "Ruins of Juperos Entrance", "Ant Hell 2f", "Kiel Hyre's Academy Entrance", "Thanatos Tower Entrance", "Abyss Lake Entrance", "Rachel Sanctuary Entrance", "Odin Temple 2f")) {
+msgctxt "F_CashDungeon"
+msgid "Odin Temple 2f"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+msgctxt "F_CashDungeon"
+msgid "Bio Lab (2nd Floor)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+msgctxt "F_CashDungeon"
+msgid "Ice Dungeon (3rd Floor)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+msgctxt "F_CashDungeon"
+msgid "Odin Temple (3rd Floor)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+msgctxt "F_CashDungeon"
+msgid "Thor Volcano (3rd Floor)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+msgctxt "F_CashDungeon"
+msgid "Abyss Lake (3rd Floor)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Bio Lab (2nd Floor)", "Ice Dungeon (3rd Floor)", "Odin Temple (3rd Floor)", "Thor Volcano (3rd Floor)", "Abyss Lake (3rd Floor)", "Juperos Ruins (2nd Floor)")) {
+msgctxt "F_CashDungeon"
+msgid "Juperos Ruins (2nd Floor)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+msgctxt "F_CashCity"
+msgid "Prontera"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+msgctxt "F_CashCity"
+msgid "Izlude"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+msgctxt "F_CashCity"
+msgid "Geffen"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+msgctxt "F_CashCity"
+msgid "Payon"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+msgctxt "F_CashCity"
+msgid "Morroc"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+msgctxt "F_CashCity"
+msgid "Alberta"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Izlude", "Geffen", "Payon", "Morroc", "Alberta", "Al de Baran")) {
+msgctxt "F_CashCity"
+msgid "Al de Baran"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
+msgctxt "F_CashCity"
+msgid "Juno"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
+msgctxt "F_CashCity"
+msgid "Lighthalzen"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
+msgctxt "F_CashCity"
+msgid "Einbroch"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
+msgctxt "F_CashCity"
+msgid "Einbech"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Juno", "Lighthalzen", "Einbroch", "Einbech", "Hugel")) {
+msgctxt "F_CashCity"
+msgid "Hugel"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Rachel", "Veins")) {
+msgctxt "F_CashCity"
+msgid "Rachel"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Rachel", "Veins")) {
+msgctxt "F_CashCity"
+msgid "Veins"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
+msgctxt "F_CashCity"
+msgid "Amatsu"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
+msgctxt "F_CashCity"
+msgid "Kunlun"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
+msgctxt "F_CashCity"
+msgid "Ayotaya"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang")) {
+msgctxt "F_CashCity"
+msgid "Louyang"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang", "Moscovia", "Dewata", "Brasilis")) {
+msgctxt "F_CashCity"
+msgid "Moscovia"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang", "Moscovia", "Dewata", "Brasilis")) {
+msgctxt "F_CashCity"
+msgid "Dewata"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Amatsu", "Kunlun", "Ayotaya", "Louyang", "Moscovia", "Dewata", "Brasilis")) {
+msgctxt "F_CashCity"
+msgid "Brasilis"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Prontera"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Geffen"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Al de Baran"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Izlude"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Prontera", "Geffen", "Al de Baran", "Izlude", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Savepoint"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Payon"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Alberta"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Morroc"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Payon", "Alberta", "Morroc", "Comodo", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Comodo"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Louyang"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Amatsu"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Kunlun Field"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Louyang", "Amatsu", "Kunlun Field", "Ayothaya", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Ayothaya"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Lutie Field", "Umbala", "Niflheim", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Lutie Field"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Lutie Field", "Umbala", "Niflheim", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Umbala"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Lutie Field", "Umbala", "Niflheim", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Niflheim"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Juno"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Einbroch"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Lighthalzen"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Juno", "Einbroch", "Lighthalzen", "Hugel", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Hugel"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Rachel", "Veins", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Rachel"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Rachel", "Veins", "Savepoint")) {
+msgctxt "F_CashTele"
+msgid "Veins"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Neuschwanstein (aldeg_cas01)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Hohenschwangau (aldeg_cas02)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Nuernberg (aldeg_cas03)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Wuerzburg (aldeg_cas04)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Rothenburg (aldeg_cas05)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Repherion (gefg_cas01)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Eeyorbriggar (gefg_cas02)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Yesnelph (gefg_cas03)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Bergel (gefg_cas04)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Mersetzdeitz (gefg_cas05)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Bright Arbor (payg_cas01)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Sacred Altar (payg_cas02)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Holy Shadow (payg_cas03)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Scarlet Palace (payg_cas04)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Bamboo Grove Hill (payg_cas05)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Kriemhild (prtg_cas01)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Swanhild (prtg_cas02)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Fadhgridh (prtg_cas03)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Skoegul (prtg_cas04)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Neuschwanstein (aldeg_cas01)", "Hohenschwangau (aldeg_cas02)", "Nuernberg (aldeg_cas03)", "Wuerzburg (aldeg_cas04)", "Rothenburg (aldeg_cas05)", "Repherion (gefg_cas01)", "Eeyorbriggar (gefg_cas02)", "Yesnelph (gefg_cas03)", "Bergel (gefg_cas04)", "Mersetzdeitz (gefg_cas05)", "Bright Arbor (payg_cas01)", "Sacred Altar (payg_cas02)", "Holy Shadow (payg_cas03)", "Scarlet Palace (payg_cas04)", "Bamboo Grove Hill (payg_cas05)", "Kriemhild (prtg_cas01)", "Swanhild (prtg_cas02)", "Fadhgridh (prtg_cas03)", "Skoegul (prtg_cas04)", "Gondul (prtg_cas05)")) {
+msgctxt "F_CashSiegeTele"
+msgid "Gondul (prtg_cas05)"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "[Snowman]";
+msgctxt "F_Snowball"
+msgid "[Snowman]"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "Merry Christmas!";
+msgctxt "F_Snowball"
+msgid "Merry Christmas!"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
+msgctxt "F_Snowball"
+msgid "Restore Some HP/SP"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
+msgctxt "F_Snowball"
+msgid "Strengthen My Body!"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
+msgctxt "F_Snowball"
+msgid "Restore My SP Fully."
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# switch(select("Restore Some HP/SP", "Strengthen My Body!", "Restore My SP Fully.", "Return to Savepoint")) {
+msgctxt "F_Snowball"
+msgid "Return to Savepoint"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "Aha!";
+msgctxt "F_Snowball"
+msgid "Aha!"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "Quiet night~";
+msgctxt "F_Snowball"
+msgid "Quiet night~"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "Blessings.";
+msgctxt "F_Snowball"
+msgid "Blessings."
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "Holy night~";
+msgctxt "F_Snowball"
+msgid "Holy night~"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "Hey!";
+msgctxt "F_Snowball"
+msgid "Hey!"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "White Christmas~";
+msgctxt "F_Snowball"
+msgid "White Christmas~"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "Jingle Bells~";
+msgctxt "F_Snowball"
+msgid "Jingle Bells~"
+msgstr ""
+
+#: npc/other/CashShop_Functions.txt
+# mes "Jingle Bells~ Jingle Bells!";
+msgctxt "F_Snowball"
+msgid "Jingle Bells~ Jingle Bells!"
+msgstr ""

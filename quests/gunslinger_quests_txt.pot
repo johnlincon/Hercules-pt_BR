@@ -1,0 +1,4064 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/quests/gunslinger_quests.txt
+# mes "[Garrison]";
+msgctxt "Garrison"
+msgid "[Garrison]"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You're not a gunslinger.";
+msgctxt "Garrison"
+msgid "You're not a gunslinger."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You're distracting me from my work. Go on.";
+msgctxt "Garrison"
+msgid "You're distracting me from my work. Go on."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "My name is Garrison. I'm a master in crafting guns.";
+msgctxt "Garrison"
+msgid "My name is Garrison. I'm a master in crafting guns."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "The gun I make is also called the Garrison. I named it that because I think the Garrison is as cool and perfect as myself.";
+msgctxt "Garrison"
+msgid "The gun I make is also called the Garrison. I named it that because I think the Garrison is as cool and perfect as myself."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Why don't you commission a Garrison from me?";
+msgctxt "Garrison"
+msgid "Why don't you commission a Garrison from me?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Are you here to commission a Garrison from me?";
+msgctxt "Garrison"
+msgid "Are you here to commission a Garrison from me?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm~ What's going on?";
+msgctxt "Garrison"
+msgid "Hmm~ What's going on?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Are you here because you need a weapon?";
+msgctxt "Garrison"
+msgid "Are you here because you need a weapon?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "I need a Garrison.","Not really.","Cancel") )
+msgctxt "Garrison"
+msgid "I need a Garrison."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "I need a Garrison.","Not really.","Cancel") )
+msgctxt "Garrison"
+msgid "Not really."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "I need a Garrison.","Not really.","Cancel") )
+msgctxt "Garrison"
+msgid "Cancel"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh~ Welcome";
+msgctxt "Garrison"
+msgid "Oh~ Welcome"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Everyone needs me~!";
+msgctxt "Garrison"
+msgid "Everyone needs me~!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It just proves that my gun, the Garrison, is the best of the best.";
+msgctxt "Garrison"
+msgid "It just proves that my gun, the Garrison, is the best of the best."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "So, are you going to ask me to make one now?";
+msgctxt "Garrison"
+msgid "So, are you going to ask me to make one now?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm~ You look like you're wandering around without a mission.";
+msgctxt "Garrison"
+msgid "Hmm~ You look like you're wandering around without a mission."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "If you've got the time, will you do me a favor?";
+msgctxt "Garrison"
+msgid "If you've got the time, will you do me a favor?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "["+strcharinfo(PC_NAME)+"]";
+msgctxt "Garrison"
+msgid "["
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "What is it?";
+msgctxt "Garrison"
+msgid "What is it?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Mmm~ Well, I had actually received a letter recently stating that there are many defective makes of a gun I created called the Six Shooter.";
+msgctxt "Garrison"
+msgid "Mmm~ Well, I had actually received a letter recently stating that there are many defective makes of a gun I created called the Six Shooter."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm a perfectionist, but due to my old age, my eyes are growing dark, and I think I may have sold defective Six Shooters.";
+msgctxt "Garrison"
+msgid "I'm a perfectionist, but due to my old age, my eyes are growing dark, and I think I may have sold defective Six Shooters."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "So what I'm trying to say is, I'm hoping someone will find me spare parts which I can use to replace defective parts in the detective Six Shooters.";
+msgctxt "Garrison"
+msgid "So what I'm trying to say is, I'm hoping someone will find me spare parts which I can use to replace defective parts in the detective Six Shooters."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "If you help me, I'll put a slot in that Garrison you're holding right now.";
+msgctxt "Garrison"
+msgid "If you help me, I'll put a slot in that Garrison you're holding right now."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "What do you say?";
+msgctxt "Garrison"
+msgid "What do you say?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Just so you know, if I slot your Garrison, any current refine points or slotted cards will disappear. Decide carefully.";
+msgctxt "Garrison"
+msgid "Just so you know, if I slot your Garrison, any current refine points or slotted cards will disappear. Decide carefully."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "I don't like the sound of this.","Ok, I'll try it out.") )
+msgctxt "Garrison"
+msgid "I don't like the sound of this."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "I don't like the sound of this.","Ok, I'll try it out.") )
+msgctxt "Garrison"
+msgid "Ok, I'll try it out."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm, I see.";
+msgctxt "Garrison"
+msgid "Hmm, I see."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I understand.";
+msgctxt "Garrison"
+msgid "I understand."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I guess I'll look for a different man.";
+msgctxt "Garrison"
+msgid "I guess I'll look for a different man."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh, would you?";
+msgctxt "Garrison"
+msgid "Oh, would you?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm so thankful.";
+msgctxt "Garrison"
+msgid "I'm so thankful."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "These are the materials I need to make spare parts...";
+msgctxt "Garrison"
+msgid "These are the materials I need to make spare parts..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "10 Steel, 1 Elunium, 10 Emveretarcon, 30 Coal, and 10 Rusty Screws.";
+msgctxt "Garrison"
+msgid "10 Steel, 1 Elunium, 10 Emveretarcon, 30 Coal, and 10 Rusty Screws."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I need this exact amount. Don't forget.";
+msgctxt "Garrison"
+msgid "I need this exact amount. Don't forget."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm... Come and see me later.";
+msgctxt "Garrison"
+msgid "Hmm... Come and see me later."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Don't forget -- the amount has to be exact.";
+msgctxt "Garrison"
+msgid "Don't forget -- the amount has to be exact."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh~ You're back with what I need~";
+msgctxt "Garrison"
+msgid "Oh~ You're back with what I need~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm so grateful.";
+msgctxt "Garrison"
+msgid "I'm so grateful."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh.. there's another favor I need to have done. Err...";
+msgctxt "Garrison"
+msgid "Oh.. there's another favor I need to have done. Err..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I need to deliver the spare parts once I make them to another person, but I've got so much work to do around here.";
+msgctxt "Garrison"
+msgid "I need to deliver the spare parts once I make them to another person, but I've got so much work to do around here."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Sorry to ask, but I was hoping you can deliver what I make out of these materials to the next person.";
+msgctxt "Garrison"
+msgid "Sorry to ask, but I was hoping you can deliver what I make out of these materials to the next person."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "While you are on delivery, I will make preparations to slot your Garrison, as promised.";
+msgctxt "Garrison"
+msgid "While you are on delivery, I will make preparations to slot your Garrison, as promised."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "-Hmm, I don't want to do it, but I'll do it anyway.-";
+msgctxt "Garrison"
+msgid "-Hmm, I don't want to do it, but I'll do it anyway.-"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ok.";
+msgctxt "Garrison"
+msgid "Ok."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh, thanks a lot.";
+msgctxt "Garrison"
+msgid "Oh, thanks a lot."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Then deliver this to a person called Ravey. He lives in the slums of Lighthalzen.";
+msgctxt "Garrison"
+msgid "Then deliver this to a person called Ravey. He lives in the slums of Lighthalzen."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You receive the delivery goods from Garrison.";
+msgctxt "Garrison"
+msgid "You receive the delivery goods from Garrison."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Let's deliver them to a person named Ravey, who lives in the slums of Lighthalzen.";
+msgctxt "Garrison"
+msgid "Let's deliver them to a person named Ravey, who lives in the slums of Lighthalzen."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh~ How was your trip?";
+msgctxt "Garrison"
+msgid "Oh~ How was your trip?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Gyah~";
+msgctxt "Garrison"
+msgid "Gyah~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I nearly died!!!";
+msgctxt "Garrison"
+msgid "I nearly died!!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "That man tried to attack me when he saw me. I barely escaped death!";
+msgctxt "Garrison"
+msgid "That man tried to attack me when he saw me. I barely escaped death!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ahh~ Oh no.";
+msgctxt "Garrison"
+msgid "Ahh~ Oh no."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I had no idea the person who sent the letter was actually plotting to assassinate me. He was probably sent by one of our enemy guilds...";
+msgctxt "Garrison"
+msgid "I had no idea the person who sent the letter was actually plotting to assassinate me. He was probably sent by one of our enemy guilds..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It looks like I've sent you unintentionally on a very dangerous mission.";
+msgctxt "Garrison"
+msgid "It looks like I've sent you unintentionally on a very dangerous mission."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm so sorry.";
+msgctxt "Garrison"
+msgid "I'm so sorry."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You may also know, but there's bad guys plotting to attack the Professor and the Gunslinger Guild all over the place.";
+msgctxt "Garrison"
+msgid "You may also know, but there's bad guys plotting to attack the Professor and the Gunslinger Guild all over the place."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Consider this a part of your training as an Gunslinger.";
+msgctxt "Garrison"
+msgid "Consider this a part of your training as an Gunslinger."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm sorry about what happened.";
+msgctxt "Garrison"
+msgid "I'm sorry about what happened."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "But, as promised, I will slot your Garrison ...";
+msgctxt "Garrison"
+msgid "But, as promised, I will slot your Garrison ..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Huh? Sigh.";
+msgctxt "Garrison"
+msgid "Huh? Sigh."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Did you sell off your gun while you were gone?";
+msgctxt "Garrison"
+msgid "Did you sell off your gun while you were gone?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I said I'd slot your gun, but I never said I'd slot a gun that isn't here.";
+msgctxt "Garrison"
+msgid "I said I'd slot your gun, but I never said I'd slot a gun that isn't here."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Go and get your Garrison and then get back to me.";
+msgctxt "Garrison"
+msgid "Go and get your Garrison and then get back to me."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Let's see~";
+msgctxt "Garrison"
+msgid "Let's see~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "*tonk* *tonk* *thump* *whump*";
+msgctxt "Garrison"
+msgid "*tonk* *tonk* *thump* *whump*"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Here is your modified";
+msgctxt "Garrison"
+msgid "Here is your modified"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Garrison.";
+msgctxt "Garrison"
+msgid "Garrison."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Please use it well.";
+msgctxt "Garrison"
+msgid "Please use it well."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ah, there it is.";
+msgctxt "Garrison"
+msgid "Ah, there it is."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Do use it well.";
+msgctxt "Garrison"
+msgid "Do use it well."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm~ You're back again~";
+msgctxt "Garrison"
+msgid "Hmm~ You're back again~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "What's the matter?";
+msgctxt "Garrison"
+msgid "What's the matter?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Did you come back because you need a weapon?";
+msgctxt "Garrison"
+msgid "Did you come back because you need a weapon?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "What do you need?";
+msgctxt "Garrison"
+msgid "What do you need?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "Garrison","Slot a Garrison","Cancel"))
+msgctxt "Garrison"
+msgid "Garrison"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "Garrison","Slot a Garrison","Cancel"))
+msgctxt "Garrison"
+msgid "Slot a Garrison"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'll see you when I see you~";
+msgctxt "Garrison"
+msgid "I'll see you when I see you~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "To create a Garrison, I need...";
+msgctxt "Garrison"
+msgid "To create a Garrison, I need..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "50 Steel, 3 Eluniums,";
+msgctxt "Garrison"
+msgid "50 Steel, 3 Eluniums,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "1 Oridecon, 50 Coal,";
+msgctxt "Garrison"
+msgid "1 Oridecon, 50 Coal,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "20 Rusty Screws, and";
+msgctxt "Garrison"
+msgid "20 Rusty Screws, and"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "there's a fee of 30,000 Zeny.";
+msgctxt "Garrison"
+msgid "there's a fee of 30,000 Zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Well, do you want one?.";
+msgctxt "Garrison"
+msgid "Well, do you want one?."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "Maybe later.","Yes, make it for me immediately.","Cancel") )
+msgctxt "Garrison"
+msgid "Maybe later."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "Maybe later.","Yes, make it for me immediately.","Cancel") )
+msgctxt "Garrison"
+msgid "Yes, make it for me immediately."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmmm~ I got worked up for nothing~";
+msgctxt "Garrison"
+msgid "Hmmm~ I got worked up for nothing~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Think about it. Come see me if you decide.";
+msgctxt "Garrison"
+msgid "Think about it. Come see me if you decide."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You didn't bring enough materials";
+msgctxt "Garrison"
+msgid "You didn't bring enough materials"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "50 Rusty Screws,";
+msgctxt "Garrison"
+msgid "50 Rusty Screws,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "and there's a fee of 30,000 Zeny";
+msgctxt "Garrison"
+msgid "and there's a fee of 30,000 Zeny"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Don't forget.";
+msgctxt "Garrison"
+msgid "Don't forget."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You need more Zeny~!";
+msgctxt "Garrison"
+msgid "You need more Zeny~!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "More Zeny!!";
+msgctxt "Garrison"
+msgid "More Zeny!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "There's no room in your inventory";
+msgctxt "Garrison"
+msgid "There's no room in your inventory"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "for my creation.";
+msgctxt "Garrison"
+msgid "for my creation."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Make some room";
+msgctxt "Garrison"
+msgid "Make some room"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "in your inventory, and then";
+msgctxt "Garrison"
+msgid "in your inventory, and then"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Come and see me.";
+msgctxt "Garrison"
+msgid "Come and see me."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm, looks like the correct amount of materials and Zeny.";
+msgctxt "Garrison"
+msgid "Hmm, looks like the correct amount of materials and Zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Here's a Garrison~";
+msgctxt "Garrison"
+msgid "Here's a Garrison~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "If you need one again, come and see me~";
+msgctxt "Garrison"
+msgid "If you need one again, come and see me~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "In order to slot a Garrison, I need";
+msgctxt "Garrison"
+msgid "In order to slot a Garrison, I need"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "10 Steel, 1 Elunium,";
+msgctxt "Garrison"
+msgid "10 Steel, 1 Elunium,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "10 Emveretarcon, 30 Coal,";
+msgctxt "Garrison"
+msgid "10 Emveretarcon, 30 Coal,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "10 Rusty Screws, and";
+msgctxt "Garrison"
+msgid "10 Rusty Screws, and"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "1 Garrison.";
+msgctxt "Garrison"
+msgid "1 Garrison."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You've got me worked up for nothing~";
+msgctxt "Garrison"
+msgid "You've got me worked up for nothing~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Get back to me when you've made up your mind.";
+msgctxt "Garrison"
+msgid "Get back to me when you've made up your mind."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Here's a modified Garrison with a slot.";
+msgctxt "Garrison"
+msgid "Here's a modified Garrison with a slot."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "["+strcharinfo(PC_NAME)+"]";
+msgctxt "Ravey"
+msgid "["
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Excuse me. Hello.";
+msgctxt "Ravey"
+msgid "Excuse me. Hello."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm here to give you replacement parts for defective Gunslin...";
+msgctxt "Ravey"
+msgid "I'm here to give you replacement parts for defective Gunslin..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "[Ravey]";
+msgctxt "Ravey"
+msgid "[Ravey]"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You!!!";
+msgctxt "Ravey"
+msgid "You!!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Huuut~!!";
+msgctxt "Ravey"
+msgid "Huuut~!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Die!!!";
+msgctxt "Ravey"
+msgid "Die!!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "- The man called Ravey suddenly attacks, as if he was waiting for the word Gunslinger...-";
+msgctxt "Ravey"
+msgid "- The man called Ravey suddenly attacks, as if he was waiting for the word Gunslinger...-"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You nearly died.-";
+msgctxt "Ravey"
+msgid "You nearly died.-"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You run away without looking back.";
+msgctxt "Ravey"
+msgid "You run away without looking back."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Let's hurry back to Garrison.-";
+msgctxt "Ravey"
+msgid "Let's hurry back to Garrison.-"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ugh...";
+msgctxt "Ravey"
+msgid "Ugh..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Err.. Err..";
+msgctxt "Ravey"
+msgid "Err.. Err.."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "......";
+msgctxt "Ravey"
+msgid "......"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "[Ingrid]";
+msgctxt "Ingrid"
+msgid "[Ingrid]"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "How are you!";
+msgctxt "Ingrid"
+msgid "How are you!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I've been appointed the new Gunslinger Weapons Creator. The name is Ingrid.";
+msgctxt "Ingrid"
+msgid "I've been appointed the new Gunslinger Weapons Creator. The name is Ingrid."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "However, you don't seem to be a member of the Gunslinger Guild, so I can't help you with anything. Sorry.";
+msgctxt "Ingrid"
+msgid "However, you don't seem to be a member of the Gunslinger Guild, so I can't help you with anything. Sorry."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I've been appointed the new Gunslinger";
+msgctxt "Ingrid"
+msgid "I've been appointed the new Gunslinger"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Weapons Creator. The name is Ingrid.";
+msgctxt "Ingrid"
+msgid "Weapons Creator. The name is Ingrid."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "A pleasure to serve you!";
+msgctxt "Ingrid"
+msgid "A pleasure to serve you!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It's only been a short while";
+msgctxt "Ingrid"
+msgid "It's only been a short while"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "since I've started working,";
+msgctxt "Ingrid"
+msgid "since I've started working,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "But I'll try my best to";
+msgctxt "Ingrid"
+msgid "But I'll try my best to"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "assist you.";
+msgctxt "Ingrid"
+msgid "assist you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ahh ... I feel so anxious.";
+msgctxt "Ingrid"
+msgid "Ahh ... I feel so anxious."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "As of now, I'm doing the job of creating a weapon called the Inferno for customers.";
+msgctxt "Ingrid"
+msgid "As of now, I'm doing the job of creating a weapon called the Inferno for customers."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "The Inferno is the most advanced weapon made in our Guild laboratory.";
+msgctxt "Ingrid"
+msgid "The Inferno is the most advanced weapon made in our Guild laboratory."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It features incredible power and range, and an ergonomic design so that it can be held well and significantly minimize kickback when fired.";
+msgctxt "Ingrid"
+msgid "It features incredible power and range, and an ergonomic design so that it can be held well and significantly minimize kickback when fired."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It's a weapon worthy of being called the ultimate weapon for any Gunslinger.";
+msgctxt "Ingrid"
+msgid "It's a weapon worthy of being called the ultimate weapon for any Gunslinger."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "huff huff...";
+msgctxt "Ingrid"
+msgid "huff huff..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "["+strcharinfo(PC_NAME)+"]";
+msgctxt "Ingrid"
+msgid "["
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You know quite a lot about it";
+msgctxt "Ingrid"
+msgid "You know quite a lot about it"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes ".....";
+msgctxt "Ingrid"
+msgid "....."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ah. Of course~";
+msgctxt "Ingrid"
+msgid "Ah. Of course~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I am the person who designed this weapon..";
+msgctxt "Ingrid"
+msgid "I am the person who designed this weapon.."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Wooow~ That's incredible~";
+msgctxt "Ingrid"
+msgid "Wooow~ That's incredible~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ah Oops...";
+msgctxt "Ingrid"
+msgid "Ah Oops..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Did I end up bragging?";
+msgctxt "Ingrid"
+msgid "Did I end up bragging?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm still nothing compared to Professor Serena.";
+msgctxt "Ingrid"
+msgid "I'm still nothing compared to Professor Serena."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Actually, I wanted to become a gunslinger too, but because of my physical shortcomings weak determination, I had to give up.";
+msgctxt "Ingrid"
+msgid "Actually, I wanted to become a gunslinger too, but because of my physical shortcomings weak determination, I had to give up."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "While I was applying to become a gunslinger, I was lucky enough to have Professor Serena see my talents, and with her help, I'm where I am now helping with the manufacturing and sales of Gunslinger Weapons";
+msgctxt "Ingrid"
+msgid "While I was applying to become a gunslinger, I was lucky enough to have Professor Serena see my talents, and with her help, I'm where I am now helping with the manufacturing and sales of Gunslinger Weapons"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm still remorseful that I wasn't able to become a Gunslinger, but at least my brother, who took the Gunslinger test with me, passed and become one.";
+msgctxt "Ingrid"
+msgid "I'm still remorseful that I wasn't able to become a Gunslinger, but at least my brother, who took the Gunslinger test with me, passed and become one."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm glad that even though I fell, my brother was able to fulfill our dream.";
+msgctxt "Ingrid"
+msgid "I'm glad that even though I fell, my brother was able to fulfill our dream."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Haha~ Look at me telling you all these things when you didn't even ask.";
+msgctxt "Ingrid"
+msgid "Haha~ Look at me telling you all these things when you didn't even ask."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Sorry.";
+msgctxt "Ingrid"
+msgid "Sorry."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "No, it's ok.";
+msgctxt "Ingrid"
+msgid "No, it's ok."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You may not have become a Gunslinger, but I think you've become a great person.";
+msgctxt "Ingrid"
+msgid "You may not have become a Gunslinger, but I think you've become a great person."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Really? Thank you~";
+msgctxt "Ingrid"
+msgid "Really? Thank you~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'll try my best.";
+msgctxt "Ingrid"
+msgid "I'll try my best."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "To produce an Inferno,";
+msgctxt "Ingrid"
+msgid "To produce an Inferno,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I need 100 Used Iron Plates, 10 Oridecons, 50 Old Rusty Screws, 100 Burning Hearts, and 200,000 Zeny.";
+msgctxt "Ingrid"
+msgid "I need 100 Used Iron Plates, 10 Oridecons, 50 Old Rusty Screws, 100 Burning Hearts, and 200,000 Zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Would you like to produce it for you?";
+msgctxt "Ingrid"
+msgid "Would you like to produce it for you?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "I'll think about it.", "Yes, please." ) )
+msgctxt "Ingrid"
+msgid "I'll think about it."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "I'll think about it.", "Yes, please." ) )
+msgctxt "Ingrid"
+msgid "Yes, please."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ah~ I see.";
+msgctxt "Ingrid"
+msgid "Ah~ I see."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I understand.";
+msgctxt "Ingrid"
+msgid "I understand."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ok, well, think about it.";
+msgctxt "Ingrid"
+msgid "Ok, well, think about it."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Come back when you've made up your mind.";
+msgctxt "Ingrid"
+msgid "Come back when you've made up your mind."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Here are the materials again.";
+msgctxt "Ingrid"
+msgid "Here are the materials again."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "[Inferno]";
+msgctxt "Ingrid"
+msgid "[Inferno]"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I need 100 Used Iron Plates, 10 Oridecons, 50 Rusty Old Screws, 100 Burning Hearts, and 200,000 Zeny.";
+msgctxt "Ingrid"
+msgid "I need 100 Used Iron Plates, 10 Oridecons, 50 Rusty Old Screws, 100 Burning Hearts, and 200,000 Zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You must bring me the correct number of materials.";
+msgctxt "Ingrid"
+msgid "You must bring me the correct number of materials."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Please don't forget that.";
+msgctxt "Ingrid"
+msgid "Please don't forget that."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hello~ You're back~";
+msgctxt "Ingrid"
+msgid "Hello~ You're back~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Are you back because you need an Inferno?";
+msgctxt "Ingrid"
+msgid "Are you back because you need an Inferno?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "Nah, I'm back just because..","Yes, make me an Inferno." ) )
+msgctxt "Ingrid"
+msgid "Nah, I'm back just because.."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "Nah, I'm back just because..","Yes, make me an Inferno." ) )
+msgctxt "Ingrid"
+msgid "Yes, make me an Inferno."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Yeah, the required materials are 100 Used Iron Plates, 10 Oridecons, 50 Rusty Old Screws, 100 Burning Hearts, and 200,000 Zeny";
+msgctxt "Ingrid"
+msgid "Yeah, the required materials are 100 Used Iron Plates, 10 Oridecons, 50 Rusty Old Screws, 100 Burning Hearts, and 200,000 Zeny"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You've brought plenty of material,";
+msgctxt "Ingrid"
+msgid "You've brought plenty of material,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "but did you bring enough Zeny?";
+msgctxt "Ingrid"
+msgid "but did you bring enough Zeny?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "The price of creating an Inferno is 200,000 Zeny.";
+msgctxt "Ingrid"
+msgid "The price of creating an Inferno is 200,000 Zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It looks like you have too many items to carry my creation, so I can't give it to you.";
+msgctxt "Ingrid"
+msgid "It looks like you have too many items to carry my creation, so I can't give it to you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Why don't you come and see me again when you're ready to receive it?";
+msgctxt "Ingrid"
+msgid "Why don't you come and see me again when you're ready to receive it?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I see you have the proper amount of materials and Zeny.";
+msgctxt "Ingrid"
+msgid "I see you have the proper amount of materials and Zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Here is the Inferno I've created for you.";
+msgctxt "Ingrid"
+msgid "Here is the Inferno I've created for you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Use it well.";
+msgctxt "Ingrid"
+msgid "Use it well."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "[Vanessa]";
+msgctxt "Vanessa"
+msgid "[Vanessa]"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hah !Hah !!";
+msgctxt "Vanessa"
+msgid "Hah !Hah !!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ballitude! Commander Sambo!";
+msgctxt "Vanessa"
+msgid "Ballitude! Commander Sambo!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Wrestling!, Muye Tai!";
+msgctxt "Vanessa"
+msgid "Wrestling!, Muye Tai!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Pancracion!,Lucharibre!";
+msgctxt "Vanessa"
+msgid "Pancracion!,Lucharibre!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm going to master all the bare hand weapons in this world!!";
+msgctxt "Vanessa"
+msgid "I'm going to master all the bare hand weapons in this world!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm?!";
+msgctxt "Vanessa"
+msgid "Hmm?!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Who are you? You're inturrupting my practice!";
+msgctxt "Vanessa"
+msgid "Who are you? You're inturrupting my practice!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Get lost!";
+msgctxt "Vanessa"
+msgid "Get lost!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ha!Hyaa!!";
+msgctxt "Vanessa"
+msgid "Ha!Hyaa!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Vale Tudo!Commando Sambo!";
+msgctxt "Vanessa"
+msgid "Vale Tudo!Commando Sambo!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Wrestling!,Muay Thai!";
+msgctxt "Vanessa"
+msgid "Wrestling!,Muay Thai!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Pankration!,Mucho Libre!";
+msgctxt "Vanessa"
+msgid "Pankration!,Mucho Libre!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I will master all fighting styles";
+msgctxt "Vanessa"
+msgid "I will master all fighting styles"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "in this world!!";
+msgctxt "Vanessa"
+msgid "in this world!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Mm?";
+msgctxt "Vanessa"
+msgid "Mm?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You are a Gunslinger, huh?";
+msgctxt "Vanessa"
+msgid "You are a Gunslinger, huh?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Why are you disturbing";
+msgctxt "Vanessa"
+msgid "Why are you disturbing"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "my exercises and me";
+msgctxt "Vanessa"
+msgid "my exercises and me"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "standing beside me?";
+msgctxt "Vanessa"
+msgid "standing beside me?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "["+strcharinfo(PC_NAME)+"]";
+msgctxt "Vanessa"
+msgid "["
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It's just watching exercise";
+msgctxt "Vanessa"
+msgid "It's just watching exercise"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "looks good...";
+msgctxt "Vanessa"
+msgid "looks good..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes ".............";
+msgctxt "Vanessa"
+msgid "............."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh! You like martial arts?";
+msgctxt "Vanessa"
+msgid "Oh! You like martial arts?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Come here~ I'll lock";
+msgctxt "Vanessa"
+msgid "Come here~ I'll lock"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "you in an arm-bar~";
+msgctxt "Vanessa"
+msgid "you in an arm-bar~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "N~ No thanks~";
+msgctxt "Vanessa"
+msgid "N~ No thanks~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "it's okay~";
+msgctxt "Vanessa"
+msgid "it's okay~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "What's okay~";
+msgctxt "Vanessa"
+msgid "What's okay~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Come here~!";
+msgctxt "Vanessa"
+msgid "Come here~!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "-Bam!Bam!-";
+msgctxt "Vanessa"
+msgid "-Bam!Bam!-"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Aah~Ugh~ Don't do that~";
+msgctxt "Vanessa"
+msgid "Aah~Ugh~ Don't do that~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Aa..Aaaahhhh~~!!";
+msgctxt "Vanessa"
+msgid "Aa..Aaaahhhh~~!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Argh~";
+msgctxt "Vanessa"
+msgid "Argh~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "-Sound of something broken-";
+msgctxt "Vanessa"
+msgid "-Sound of something broken-"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Owww~~";
+msgctxt "Vanessa"
+msgid "Owww~~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "*Sobs*~~";
+msgctxt "Vanessa"
+msgid "*Sobs*~~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm...Did I do it too strong.";
+msgctxt "Vanessa"
+msgid "Hmm...Did I do it too strong."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Mm~";
+msgctxt "Vanessa"
+msgid "Mm~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Well obviously!";
+msgctxt "Vanessa"
+msgid "Well obviously!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Idiot!Idiot!!";
+msgctxt "Vanessa"
+msgid "Idiot!Idiot!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "*sobs*~";
+msgctxt "Vanessa"
+msgid "*sobs*~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Umm~umm~";
+msgctxt "Vanessa"
+msgid "Umm~umm~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Sorry~";
+msgctxt "Vanessa"
+msgid "Sorry~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Okay, okay,";
+msgctxt "Vanessa"
+msgid "Okay, okay,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Don't cry.";
+msgctxt "Vanessa"
+msgid "Don't cry."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "*sob*~";
+msgctxt "Vanessa"
+msgid "*sob*~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Okay~ okay..";
+msgctxt "Vanessa"
+msgid "Okay~ okay.."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Stop! Arrgh!";
+msgctxt "Vanessa"
+msgid "Stop! Arrgh!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "........";
+msgctxt "Vanessa"
+msgid "........"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Fine, okay.";
+msgctxt "Vanessa"
+msgid "Fine, okay."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm sorry what happened";
+msgctxt "Vanessa"
+msgid "I'm sorry what happened"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'll make a weapon for you";
+msgctxt "Vanessa"
+msgid "I'll make a weapon for you"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "if you gather some";
+msgctxt "Vanessa"
+msgid "if you gather some"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "materials...";
+msgctxt "Vanessa"
+msgid "materials..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm Vanessa Louise.";
+msgctxt "Vanessa"
+msgid "I'm Vanessa Louise."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Originally a Martial Artist Applicant";
+msgctxt "Vanessa"
+msgid "Originally a Martial Artist Applicant"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "but I took a wrong turn";
+msgctxt "Vanessa"
+msgid "but I took a wrong turn"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "and I'm stuck making weapons.";
+msgctxt "Vanessa"
+msgid "and I'm stuck making weapons."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh my god~oh my~ my miserable life~";
+msgctxt "Vanessa"
+msgid "Oh my god~oh my~ my miserable life~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Now onto the subject.";
+msgctxt "Vanessa"
+msgid "Now onto the subject."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "The weapon I can create is";
+msgctxt "Vanessa"
+msgid "The weapon I can create is"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "called the Destroyer.";
+msgctxt "Vanessa"
+msgid "called the Destroyer."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I especially named it";
+msgctxt "Vanessa"
+msgid "I especially named it"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "after a technique I used in an arena";
+msgctxt "Vanessa"
+msgid "after a technique I used in an arena"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hehe~";
+msgctxt "Vanessa"
+msgid "Hehe~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Take this~!Destroyer~";
+msgctxt "Vanessa"
+msgid "Take this~!Destroyer~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "*sob*~ Please~Stop~";
+msgctxt "Vanessa"
+msgid "*sob*~ Please~Stop~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ah uh..Sorry...";
+msgctxt "Vanessa"
+msgid "Ah uh..Sorry..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "First Destroyer needs";
+msgctxt "Vanessa"
+msgid "First Destroyer needs"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "materials before creating it.";
+msgctxt "Vanessa"
+msgid "materials before creating it."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "A considerable amount of items is needed";
+msgctxt "Vanessa"
+msgid "A considerable amount of items is needed"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "so think carefully.";
+msgctxt "Vanessa"
+msgid "so think carefully."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "How about it? This kind of";
+msgctxt "Vanessa"
+msgid "How about it? This kind of"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "opportunity is not common.";
+msgctxt "Vanessa"
+msgid "opportunity is not common."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Want to make a request?";
+msgctxt "Vanessa"
+msgid "Want to make a request?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "Maybe next time.","Okay.") )
+msgctxt "Vanessa"
+msgid "Maybe next time."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "Maybe next time.","Okay.") )
+msgctxt "Vanessa"
+msgid "Okay."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Mm~ Is that so~";
+msgctxt "Vanessa"
+msgid "Mm~ Is that so~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It will be an opportunity for you.";
+msgctxt "Vanessa"
+msgid "It will be an opportunity for you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You'll regret it~";
+msgctxt "Vanessa"
+msgid "You'll regret it~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Then see you next time~";
+msgctxt "Vanessa"
+msgid "Then see you next time~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Bye~Bye~";
+msgctxt "Vanessa"
+msgid "Bye~Bye~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Mm, Okay.";
+msgctxt "Vanessa"
+msgid "Mm, Okay."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "To make a Destroyer,";
+msgctxt "Vanessa"
+msgid "To make a Destroyer,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You need 50 Used Iron Plates";
+msgctxt "Vanessa"
+msgid "You need 50 Used Iron Plates"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "5 Oridecons, 70 Rusty Old Screws";
+msgctxt "Vanessa"
+msgid "5 Oridecons, 70 Rusty Old Screws"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "and a fee of 100,000 zeny.";
+msgctxt "Vanessa"
+msgid "and a fee of 100,000 zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You must bring me these exact materials. Understood?";
+msgctxt "Vanessa"
+msgid "You must bring me these exact materials. Understood?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh~ You're back.?";
+msgctxt "Vanessa"
+msgid "Oh~ You're back.?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "How are you nowadays?";
+msgctxt "Vanessa"
+msgid "How are you nowadays?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "There's a new item in the store.";
+msgctxt "Vanessa"
+msgid "There's a new item in the store."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Go ahead and choose.";
+msgctxt "Vanessa"
+msgid "Go ahead and choose."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select( "Destroyer","Slotted Destroyer","Cancel") )
+msgctxt "Vanessa"
+msgid "Destroyer"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select( "Destroyer","Slotted Destroyer","Cancel") )
+msgctxt "Vanessa"
+msgid "Slotted Destroyer"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select( "Destroyer","Slotted Destroyer","Cancel") )
+msgctxt "Vanessa"
+msgid "Cancel"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Yeah, that's nice";
+msgctxt "Vanessa"
+msgid "Yeah, that's nice"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "That's a normal Destroyer.";
+msgctxt "Vanessa"
+msgid "That's a normal Destroyer."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It takes 50 Used Iron Plates,";
+msgctxt "Vanessa"
+msgid "It takes 50 Used Iron Plates,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "5 Oridecons, 70 Rusty Old Screws,";
+msgctxt "Vanessa"
+msgid "5 Oridecons, 70 Rusty Old Screws,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "and 100,000 Zeny to make it.";
+msgctxt "Vanessa"
+msgid "and 100,000 Zeny to make it."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You have to bring me the correct amount of materials.";
+msgctxt "Vanessa"
+msgid "You have to bring me the correct amount of materials."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Do you want it?";
+msgctxt "Vanessa"
+msgid "Do you want it?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "What~ C'mon";
+msgctxt "Vanessa"
+msgid "What~ C'mon"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "What's there to think about?";
+msgctxt "Vanessa"
+msgid "What's there to think about?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ok, well, think about it";
+msgctxt "Vanessa"
+msgid "Ok, well, think about it"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "and come back...";
+msgctxt "Vanessa"
+msgid "and come back..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh~ The Slotted Destroyer~";
+msgctxt "Vanessa"
+msgid "Oh~ The Slotted Destroyer~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Unlike the normal Destroyer,";
+msgctxt "Vanessa"
+msgid "Unlike the normal Destroyer,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I want you to find me one of the rare items I'm collecting.";
+msgctxt "Vanessa"
+msgid "I want you to find me one of the rare items I'm collecting."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Then I'll give it to you.";
+msgctxt "Vanessa"
+msgid "Then I'll give it to you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm looking for a Finger[2].";
+msgctxt "Vanessa"
+msgid "I'm looking for a Finger[2]."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I want 5 Oridecons too.";
+msgctxt "Vanessa"
+msgid "I want 5 Oridecons too."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Do you still want a Slotted Destroyer?";
+msgctxt "Vanessa"
+msgid "Do you still want a Slotted Destroyer?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "I'll think about it.","OK! I do!") )
+msgctxt "Vanessa"
+msgid "I'll think about it."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch( select( "I'll think about it.","OK! I do!") )
+msgctxt "Vanessa"
+msgid "OK! I do!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm~ Yeah~";
+msgctxt "Vanessa"
+msgid "Hmm~ Yeah~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Take your time.";
+msgctxt "Vanessa"
+msgid "Take your time."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Maybe you'd like to spar with me?";
+msgctxt "Vanessa"
+msgid "Maybe you'd like to spar with me?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Yeah, the required materials are 50 Used Iron Plates,";
+msgctxt "Vanessa"
+msgid "Yeah, the required materials are 50 Used Iron Plates,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "5 Oridecons, 70 Rusty Old Screws, and 100,000 Zeny.";
+msgctxt "Vanessa"
+msgid "5 Oridecons, 70 Rusty Old Screws, and 100,000 Zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Keep in mind that you have to bring the correct amount.";
+msgctxt "Vanessa"
+msgid "Keep in mind that you have to bring the correct amount."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You've brought plenty of material,";
+msgctxt "Vanessa"
+msgid "You've brought plenty of material,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "But the fee is 100,000.";
+msgctxt "Vanessa"
+msgid "But the fee is 100,000."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Keep that in mind.";
+msgctxt "Vanessa"
+msgid "Keep that in mind."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It looks like you wouldn't be able to carry my creation with you even if I made it.";
+msgctxt "Vanessa"
+msgid "It looks like you wouldn't be able to carry my creation with you even if I made it."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Go and empty your inventory a bit.";
+msgctxt "Vanessa"
+msgid "Go and empty your inventory a bit."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Okay~ Very well~";
+msgctxt "Vanessa"
+msgid "Okay~ Very well~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "All Checked~";
+msgctxt "Vanessa"
+msgid "All Checked~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You've got the perfect materials and Zeny~";
+msgctxt "Vanessa"
+msgid "You've got the perfect materials and Zeny~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Here's the Destroyer I made ahead of time for you.";
+msgctxt "Vanessa"
+msgid "Here's the Destroyer I made ahead of time for you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Use it well.";
+msgctxt "Vanessa"
+msgid "Use it well."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "If you ever need one again later,";
+msgctxt "Vanessa"
+msgid "If you ever need one again later,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Come and fine me anytime~";
+msgctxt "Vanessa"
+msgid "Come and fine me anytime~"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Next time I'll cast a different kind of bare hand technique.";
+msgctxt "Vanessa"
+msgid "Next time I'll cast a different kind of bare hand technique."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Yeah, the required materials are 1 Finger[2]";
+msgctxt "Vanessa"
+msgid "Yeah, the required materials are 1 Finger[2]"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "and 5 Oridecons.";
+msgctxt "Vanessa"
+msgid "and 5 Oridecons."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Keep in mind that the materials need to be exact.";
+msgctxt "Vanessa"
+msgid "Keep in mind that the materials need to be exact."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "There's no space in your inventory.";
+msgctxt "Vanessa"
+msgid "There's no space in your inventory."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Even if I made you one,";
+msgctxt "Vanessa"
+msgid "Even if I made you one,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You wouldn't be able to carry it";
+msgctxt "Vanessa"
+msgid "You wouldn't be able to carry it"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Come back after you've cleared out your inventory.";
+msgctxt "Vanessa"
+msgid "Come back after you've cleared out your inventory."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Here's the Slotted Destroyer I made ahead of time for you.";
+msgctxt "Vanessa"
+msgid "Here's the Slotted Destroyer I made ahead of time for you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "[N. A]";
+msgctxt "Lab Director"
+msgid "[N. A]"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ahh, it's all here! Ahh, and I";
+msgctxt "Lab Director"
+msgid "Ahh, it's all here! Ahh, and I"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "was worried about that no one";
+msgctxt "Lab Director"
+msgid "was worried about that no one"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "would be able to handle my ^ff0000Butcher^000000";
+msgctxt "Lab Director"
+msgid "would be able to handle my ^ff0000Butcher^000000"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "when I've finished creating it!";
+msgctxt "Lab Director"
+msgid "when I've finished creating it!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Alright, I'll give the ^ff0000Butcher^000000 to you.";
+msgctxt "Lab Director"
+msgid "Alright, I'll give the ^ff0000Butcher^000000 to you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "However, we don't do work for";
+msgctxt "Lab Director"
+msgid "However, we don't do work for"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "free, so we need to charge you";
+msgctxt "Lab Director"
+msgid "free, so we need to charge you"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "for it. Also, you need to obtain";
+msgctxt "Lab Director"
+msgid "for it. Also, you need to obtain"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "permission to use the Butcher from";
+msgctxt "Lab Director"
+msgid "permission to use the Butcher from"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Lady Celena.";
+msgctxt "Lab Director"
+msgid "Lady Celena."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Once you get the permission, I will";
+msgctxt "Lab Director"
+msgid "Once you get the permission, I will"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "give the Butcher to you, after paying";
+msgctxt "Lab Director"
+msgid "give the Butcher to you, after paying"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "the fee of 100000 zeny.";
+msgctxt "Lab Director"
+msgid "the fee of 100000 zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Have you found ^ff00001000 Orc Claw^000000 and ^ff00001000 Skel Bone^000000 yet?";
+msgctxt "Lab Director"
+msgid "Have you found ^ff00001000 Orc Claw^000000 and ^ff00001000 Skel Bone^000000 yet?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "If you think it's too difficult,";
+msgctxt "Lab Director"
+msgid "If you think it's too difficult,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "you can choose to give up.";
+msgctxt "Lab Director"
+msgid "you can choose to give up."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("I'm not giving up!", "I give up...") == 1){
+msgctxt "Lab Director"
+msgid "I'm not giving up!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("I'm not giving up!", "I give up...") == 1){
+msgctxt "Lab Director"
+msgid "I give up..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Alright, I trust you.";
+msgctxt "Lab Director"
+msgid "Alright, I trust you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Good luck.";
+msgctxt "Lab Director"
+msgid "Good luck."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You're giving up huh?";
+msgctxt "Lab Director"
+msgid "You're giving up huh?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Well, I'll admit that the";
+msgctxt "Lab Director"
+msgid "Well, I'll admit that the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "test is quite difficult, but";
+msgctxt "Lab Director"
+msgid "test is quite difficult, but"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "you can't handle this weapon";
+msgctxt "Lab Director"
+msgid "you can't handle this weapon"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "if you can't handle the test.";
+msgctxt "Lab Director"
+msgid "if you can't handle the test."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You may come back later to";
+msgctxt "Lab Director"
+msgid "You may come back later to"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "take the challenge again.";
+msgctxt "Lab Director"
+msgid "take the challenge again."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I already got Lady Celena's";
+msgctxt "Lab Director"
+msgid "I already got Lady Celena's"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "permission to let you use the";
+msgctxt "Lab Director"
+msgid "permission to let you use the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Butcher. You can use it once";
+msgctxt "Lab Director"
+msgid "Butcher. You can use it once"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "you've paid me 100000 zeny.";
+msgctxt "Lab Director"
+msgid "you've paid me 100000 zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Do you want to pay now?";
+msgctxt "Lab Director"
+msgid "Do you want to pay now?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("Nope.", "Yeah.") == 1){
+msgctxt "Lab Director"
+msgid "Nope."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("Nope.", "Yeah.") == 1){
+msgctxt "Lab Director"
+msgid "Yeah."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Alright. I await you to return";
+msgctxt "Lab Director"
+msgid "Alright. I await you to return"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "with the money.";
+msgctxt "Lab Director"
+msgid "with the money."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Huh, I don't think you have";
+msgctxt "Lab Director"
+msgid "Huh, I don't think you have"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "enough money on you.";
+msgctxt "Lab Director"
+msgid "enough money on you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Come back with the money,";
+msgctxt "Lab Director"
+msgid "Come back with the money,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "alright?";
+msgctxt "Lab Director"
+msgid "alright?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You are overweight.";
+msgctxt "Lab Director"
+msgid "You are overweight."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Even if I give you the";
+msgctxt "Lab Director"
+msgid "Even if I give you the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "weapon, you cannot carry it.";
+msgctxt "Lab Director"
+msgid "weapon, you cannot carry it."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Please clear your inventory.";
+msgctxt "Lab Director"
+msgid "Please clear your inventory."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "One, two, three, four, five,";
+msgctxt "Lab Director"
+msgid "One, two, three, four, five,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "six... 99997, 99998, 99999...";
+msgctxt "Lab Director"
+msgid "six... 99997, 99998, 99999..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "100000. *ding~!* Very well!";
+msgctxt "Lab Director"
+msgid "100000. *ding~!* Very well!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "The fee is clear now. You may";
+msgctxt "Lab Director"
+msgid "The fee is clear now. You may"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "take the ^ff0000Butcher^000000 now!";
+msgctxt "Lab Director"
+msgid "take the ^ff0000Butcher^000000 now!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Mr. F. Harrison from Lighthalzen";
+msgctxt "Lab Director"
+msgid "Mr. F. Harrison from Lighthalzen"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "is quite interested in your new";
+msgctxt "Lab Director"
+msgid "is quite interested in your new"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "toy there. Show it to him some";
+msgctxt "Lab Director"
+msgid "toy there. Show it to him some"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "time. He'll be glad.";
+msgctxt "Lab Director"
+msgid "time. He'll be glad."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Make good use of it!";
+msgctxt "Lab Director"
+msgid "Make good use of it!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "See ya!";
+msgctxt "Lab Director"
+msgid "See ya!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Aha, you got me all the";
+msgctxt "Lab Director"
+msgid "Aha, you got me all the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "materials. Here, let me get down";
+msgctxt "Lab Director"
+msgid "materials. Here, let me get down"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "to it right away! It'll take";
+msgctxt "Lab Director"
+msgid "to it right away! It'll take"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "some time, so wait up...";
+msgctxt "Lab Director"
+msgid "some time, so wait up..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Eh? You don't have the materials";
+msgctxt "Lab Director"
+msgid "Eh? You don't have the materials"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "with you yet?";
+msgctxt "Lab Director"
+msgid "with you yet?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "To make Drifter, I will need";
+msgctxt "Lab Director"
+msgid "To make Drifter, I will need"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "70 Steel, 5 Elunium,";
+msgctxt "Lab Director"
+msgid "70 Steel, 5 Elunium,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "3 Oridecon, 70 Coal, 50 Rusty";
+msgctxt "Lab Director"
+msgid "3 Oridecon, 70 Coal, 50 Rusty"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Screws, and also a fee of";
+msgctxt "Lab Director"
+msgid "Screws, and also a fee of"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "50000 zeny.";
+msgctxt "Lab Director"
+msgid "50000 zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Come back to me once you have";
+msgctxt "Lab Director"
+msgid "Come back to me once you have"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "everything ready.";
+msgctxt "Lab Director"
+msgid "everything ready."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "If you don't want it anymore,";
+msgctxt "Lab Director"
+msgid "If you don't want it anymore,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "you can cancel the request.";
+msgctxt "Lab Director"
+msgid "you can cancel the request."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("Don't cancel.", "Cancel it.") == 1){
+msgctxt "Lab Director"
+msgid "Don't cancel."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("Don't cancel.", "Cancel it.") == 1){
+msgctxt "Lab Director"
+msgid "Cancel it."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Well, please come back with the";
+msgctxt "Lab Director"
+msgid "Well, please come back with the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "materials. I'll be waiting.";
+msgctxt "Lab Director"
+msgid "materials. I'll be waiting."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Alright, request to make";
+msgctxt "Lab Director"
+msgid "Alright, request to make"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "a Drifter for you is cancelled.";
+msgctxt "Lab Director"
+msgid "a Drifter for you is cancelled."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I wish you good luck";
+msgctxt "Lab Director"
+msgid "I wish you good luck"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "in your future.";
+msgctxt "Lab Director"
+msgid "in your future."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Even if I made you the";
+msgctxt "Lab Director"
+msgid "Even if I made you the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ahh, here's the completed";
+msgctxt "Lab Director"
+msgid "Ahh, here's the completed"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Drifter for you.";
+msgctxt "Lab Director"
+msgid "Drifter for you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Please learn to use the";
+msgctxt "Lab Director"
+msgid "Please learn to use the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Gatlings well. The crazy";
+msgctxt "Lab Director"
+msgid "Gatlings well. The crazy"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "destruction will definitely";
+msgctxt "Lab Director"
+msgid "destruction will definitely"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "be mentally helpful to you.";
+msgctxt "Lab Director"
+msgid "be mentally helpful to you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ah, hello?";
+msgctxt "Lab Director"
+msgid "Ah, hello?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm the Coordinator of";
+msgctxt "Lab Director"
+msgid "I'm the Coordinator of"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Einbroch Weapon Development.";
+msgctxt "Lab Director"
+msgid "Einbroch Weapon Development."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "My name is 'Lab Director'.";
+msgctxt "Lab Director"
+msgid "My name is 'Lab Director'."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Do you need something?";
+msgctxt "Lab Director"
+msgid "Do you need something?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# select("I need a Special Metal Rod.");
+msgctxt "Lab Director"
+msgid "I need a Special Metal Rod."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Huh...? Hey, weren't you that guy";
+msgctxt "Lab Director"
+msgid "Huh...? Hey, weren't you that guy"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "who walked out of here with a";
+msgctxt "Lab Director"
+msgid "who walked out of here with a"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Butcher a while ago? How was the";
+msgctxt "Lab Director"
+msgid "Butcher a while ago? How was the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Butcher?";
+msgctxt "Lab Director"
+msgid "Butcher?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "...... WHAT!? YOU BROKE IT!?";
+msgctxt "Lab Director"
+msgid "...... WHAT!? YOU BROKE IT!?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I thought you would be able to";
+msgctxt "Lab Director"
+msgid "I thought you would be able to"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "use it well... You disappoint me!!!";
+msgctxt "Lab Director"
+msgid "use it well... You disappoint me!!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You betrayed my faith in you!";
+msgctxt "Lab Director"
+msgid "You betrayed my faith in you!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You traitor! Traitor!! TRAITOR!!!!";
+msgctxt "Lab Director"
+msgid "You traitor! Traitor!! TRAITOR!!!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# select("Explain everything.");
+msgctxt "Lab Director"
+msgid "Explain everything."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "...... Whew.";
+msgctxt "Lab Director"
+msgid "...... Whew."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "So it was Mr. F. Harrison who";
+msgctxt "Lab Director"
+msgid "So it was Mr. F. Harrison who"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "broke it, huh? I'm sorry, I should";
+msgctxt "Lab Director"
+msgid "broke it, huh? I'm sorry, I should"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "not have suspected you.";
+msgctxt "Lab Director"
+msgid "not have suspected you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Lady Celena has the special metal";
+msgctxt "Lab Director"
+msgid "Lady Celena has the special metal"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "rod that you want, but the doc is";
+msgctxt "Lab Director"
+msgid "rod that you want, but the doc is"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "not in right now, and no one else";
+msgctxt "Lab Director"
+msgid "not in right now, and no one else"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "knows where it is...";
+msgctxt "Lab Director"
+msgid "knows where it is..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I have other research right now";
+msgctxt "Lab Director"
+msgid "I have other research right now"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "so I can't waste my time looking";
+msgctxt "Lab Director"
+msgid "so I can't waste my time looking"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "for that... Grr... I need the";
+msgctxt "Lab Director"
+msgid "for that... Grr... I need the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Elemental Spheres to keep going";
+msgctxt "Lab Director"
+msgid "Elemental Spheres to keep going"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "with my research...";
+msgctxt "Lab Director"
+msgid "with my research..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# select("Make him an offer.");
+msgctxt "Lab Director"
+msgid "Make him an offer."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "An offer? Like what?";
+msgctxt "Lab Director"
+msgid "An offer? Like what?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# select("We find things for each other.");
+msgctxt "Lab Director"
+msgid "We find things for each other."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm... That sounds good.";
+msgctxt "Lab Director"
+msgid "Hmm... That sounds good."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Well, according to the offer,";
+msgctxt "Lab Director"
+msgid "Well, according to the offer,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'll look for the rod for you,";
+msgctxt "Lab Director"
+msgid "I'll look for the rod for you,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "while you find me those";
+msgctxt "Lab Director"
+msgid "while you find me those"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Elemental Spheres.";
+msgctxt "Lab Director"
+msgid "Elemental Spheres."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "30 Poison Sphere, 30 Flare Sphere,";
+msgctxt "Lab Director"
+msgid "30 Poison Sphere, 30 Flare Sphere,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "30 Lightning Sphere, 30 Blind";
+msgctxt "Lab Director"
+msgid "30 Lightning Sphere, 30 Blind"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Sphere, or 30 Freezing Sphere.";
+msgctxt "Lab Director"
+msgid "Sphere, or 30 Freezing Sphere."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Find me 30 of each Element.";
+msgctxt "Lab Director"
+msgid "Find me 30 of each Element."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Did you find them?";
+msgctxt "Lab Director"
+msgid "Did you find them?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select("Nope.", "I found 30 Poison Spheres.", "I found 30 Flare Spheres.", "I found 30 Lightning Spheres.", "I found 30 Blind Spheres.", "I found 30 Freezing Spheres.")){
+msgctxt "Lab Director"
+msgid "I found 30 Poison Spheres."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select("Nope.", "I found 30 Poison Spheres.", "I found 30 Flare Spheres.", "I found 30 Lightning Spheres.", "I found 30 Blind Spheres.", "I found 30 Freezing Spheres.")){
+msgctxt "Lab Director"
+msgid "I found 30 Flare Spheres."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select("Nope.", "I found 30 Poison Spheres.", "I found 30 Flare Spheres.", "I found 30 Lightning Spheres.", "I found 30 Blind Spheres.", "I found 30 Freezing Spheres.")){
+msgctxt "Lab Director"
+msgid "I found 30 Lightning Spheres."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select("Nope.", "I found 30 Poison Spheres.", "I found 30 Flare Spheres.", "I found 30 Lightning Spheres.", "I found 30 Blind Spheres.", "I found 30 Freezing Spheres.")){
+msgctxt "Lab Director"
+msgid "I found 30 Blind Spheres."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select("Nope.", "I found 30 Poison Spheres.", "I found 30 Flare Spheres.", "I found 30 Lightning Spheres.", "I found 30 Blind Spheres.", "I found 30 Freezing Spheres.")){
+msgctxt "Lab Director"
+msgid "I found 30 Freezing Spheres."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Just bring me whatever type";
+msgctxt "Lab Director"
+msgid "Just bring me whatever type"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "you could find.";
+msgctxt "Lab Director"
+msgid "you could find."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Eh? What? Am I the only";
+msgctxt "Lab Director"
+msgid "Eh? What? Am I the only"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "person who can't see them?";
+msgctxt "Lab Director"
+msgid "person who can't see them?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Bring me more!";
+msgctxt "Lab Director"
+msgid "Bring me more!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Wow, you found them all for me!";
+msgctxt "Lab Director"
+msgid "Wow, you found them all for me!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I had to turn Lady Celena's lab";
+msgctxt "Lab Director"
+msgid "I had to turn Lady Celena's lab"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "over to find this rod too.";
+msgctxt "Lab Director"
+msgid "over to find this rod too."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Let's trade then!";
+msgctxt "Lab Director"
+msgid "Let's trade then!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "-You gave the Elemental";
+msgctxt "Lab Director"
+msgid "-You gave the Elemental"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Spheres to Research Coordinator and got";
+msgctxt "Lab Director"
+msgid "Spheres to Research Coordinator and got"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "the Metal Rod in return.-";
+msgctxt "Lab Director"
+msgid "the Metal Rod in return.-"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Mr. F. Harrison is very good.";
+msgctxt "Lab Director"
+msgid "Mr. F. Harrison is very good."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm sure he can fix your";
+msgctxt "Lab Director"
+msgid "I'm sure he can fix your"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Butcher for you.";
+msgctxt "Lab Director"
+msgid "Butcher for you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Well, see you later!";
+msgctxt "Lab Director"
+msgid "Well, see you later!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# select("Talk to him.");
+msgctxt "Lab Director"
+msgid "Talk to him."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "If you see Gunslingers around,";
+msgctxt "Lab Director"
+msgid "If you see Gunslingers around,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "please tell them that I have";
+msgctxt "Lab Director"
+msgid "please tell them that I have"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "the latest news on weapons.";
+msgctxt "Lab Director"
+msgid "the latest news on weapons."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "If necessary, please send them";
+msgctxt "Lab Director"
+msgid "If necessary, please send them"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "here. Heheheheh...";
+msgctxt "Lab Director"
+msgid "here. Heheheheh..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# select("Talk.");
+msgctxt "Lab Director"
+msgid "Talk."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "... Destruction... Madness...";
+msgctxt "Lab Director"
+msgid "... Destruction... Madness..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm... Attack speed over 180...";
+msgctxt "Lab Director"
+msgid "Hmm... Attack speed over 180..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ah, sorry, I'm developing some";
+msgctxt "Lab Director"
+msgid "Ah, sorry, I'm developing some"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "new weapons. Please don't";
+msgctxt "Lab Director"
+msgid "new weapons. Please don't"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "disturb me.";
+msgctxt "Lab Director"
+msgid "disturb me."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select(((BaseLevel > 67)?"Ask about 'Butcher'.":""), "Ask about the 'Drifter'.", "Cancel")) {
+msgctxt "Lab Director"
+msgid "Ask about 'Butcher'."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select(((BaseLevel > 67)?"Ask about 'Butcher'.":""), "Ask about the 'Drifter'.", "Cancel")) {
+msgctxt "Lab Director"
+msgid "Ask about the 'Drifter'."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# switch(select(((BaseLevel > 67)?"Ask about 'Butcher'.":""), "Ask about the 'Drifter'.", "Cancel")) {
+msgctxt "Lab Director"
+msgid "Cancel"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ah, you heard the news";
+msgctxt "Lab Director"
+msgid "Ah, you heard the news"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "shortly after the end";
+msgctxt "Lab Director"
+msgid "shortly after the end"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "of the development eh?";
+msgctxt "Lab Director"
+msgid "of the development eh?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "^ff0000Butcher^000000 is the newest development";
+msgctxt "Lab Director"
+msgid "^ff0000Butcher^000000 is the newest development"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "by us, the Einbroch Firearm Lab.";
+msgctxt "Lab Director"
+msgid "by us, the Einbroch Firearm Lab."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "It is the newest type of Gatling";
+msgctxt "Lab Director"
+msgid "It is the newest type of Gatling"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "we have developed. While";
+msgctxt "Lab Director"
+msgid "we have developed. While"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "^ff0000Drifter^000000 is a good weapon";
+msgctxt "Lab Director"
+msgid "^ff0000Drifter^000000 is a good weapon"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "as well, the ^ff0000Butcher^000000 definitely has";
+msgctxt "Lab Director"
+msgid "as well, the ^ff0000Butcher^000000 definitely has"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "a much stronger firepower!";
+msgctxt "Lab Director"
+msgid "a much stronger firepower!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Due to its strong firepower,";
+msgctxt "Lab Director"
+msgid "Due to its strong firepower,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "the Butcher was also dubbed";
+msgctxt "Lab Director"
+msgid "the Butcher was also dubbed"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "as the 'Murderer'.";
+msgctxt "Lab Director"
+msgid "as the 'Murderer'."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "However, even Gunslingers could";
+msgctxt "Lab Director"
+msgid "However, even Gunslingers could"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "have troubles controlling such";
+msgctxt "Lab Director"
+msgid "have troubles controlling such"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "a powerful weapon.";
+msgctxt "Lab Director"
+msgid "a powerful weapon."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Do you think you can handle it?";
+msgctxt "Lab Director"
+msgid "Do you think you can handle it?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("I'm not sure...", "Of course I can!!") == 1){
+msgctxt "Lab Director"
+msgid "I'm not sure..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("I'm not sure...", "Of course I can!!") == 1){
+msgctxt "Lab Director"
+msgid "Of course I can!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "The ^ff0000Butcher^000000 is a weapon that you";
+msgctxt "Lab Director"
+msgid "The ^ff0000Butcher^000000 is a weapon that you"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "can't handle without a strong";
+msgctxt "Lab Director"
+msgid "can't handle without a strong"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "will. I'll see you again when";
+msgctxt "Lab Director"
+msgid "will. I'll see you again when"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "you have enough confidence to";
+msgctxt "Lab Director"
+msgid "you have enough confidence to"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "handle this monster.";
+msgctxt "Lab Director"
+msgid "handle this monster."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Aha, how self-confident you";
+msgctxt "Lab Director"
+msgid "Aha, how self-confident you"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "are! However, I see people with";
+msgctxt "Lab Director"
+msgid "are! However, I see people with"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "such self-confidence everywhere.";
+msgctxt "Lab Director"
+msgid "such self-confidence everywhere."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You'll need to prove it...";
+msgctxt "Lab Director"
+msgid "You'll need to prove it..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "But how... Hmm...";
+msgctxt "Lab Director"
+msgid "But how... Hmm..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmmm......";
+msgctxt "Lab Director"
+msgid "Hmmm......"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Aha! I got it!";
+msgctxt "Lab Director"
+msgid "Aha! I got it!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Here, bring me ^ff00001000 Orc Claws^000000 and ^ff00001000 Skel Bone^000000.";
+msgctxt "Lab Director"
+msgid "Here, bring me ^ff00001000 Orc Claws^000000 and ^ff00001000 Skel Bone^000000."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "If you can bring me these items,";
+msgctxt "Lab Director"
+msgid "If you can bring me these items,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'll let you use the Butcher.";
+msgctxt "Lab Director"
+msgid "I'll let you use the Butcher."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Easy, ain't it? Go and prove";
+msgctxt "Lab Director"
+msgid "Easy, ain't it? Go and prove"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "your ability then! Heheheh...";
+msgctxt "Lab Director"
+msgid "your ability then! Heheheh..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ah, you're here to learn about";
+msgctxt "Lab Director"
+msgid "Ah, you're here to learn about"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "the ^ff0000Drifter^000000 eh?";
+msgctxt "Lab Director"
+msgid "the ^ff0000Drifter^000000 eh?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "The ^ff0000Drifter^000000 is one of the many";
+msgctxt "Lab Director"
+msgid "The ^ff0000Drifter^000000 is one of the many"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "highest-classed weapons developed";
+msgctxt "Lab Director"
+msgid "highest-classed weapons developed"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "by Lady Celena. It's an automatic";
+msgctxt "Lab Director"
+msgid "by Lady Celena. It's an automatic"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Gatling which boasts very high";
+msgctxt "Lab Director"
+msgid "Gatling which boasts very high"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "rate of fire, which is the highest";
+msgctxt "Lab Director"
+msgid "rate of fire, which is the highest"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "among all Gunslinger weapons.";
+msgctxt "Lab Director"
+msgid "among all Gunslinger weapons."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Of course, you will need the Skill";
+msgctxt "Lab Director"
+msgid "Of course, you will need the Skill"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "to allow you to control Gatlings,";
+msgctxt "Lab Director"
+msgid "to allow you to control Gatlings,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "but he who contorls Gatlings well";
+msgctxt "Lab Director"
+msgid "but he who contorls Gatlings well"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "will receive full aid from the";
+msgctxt "Lab Director"
+msgid "will receive full aid from the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "^ff0000Drifter^000000.";
+msgctxt "Lab Director"
+msgid "^ff0000Drifter^000000."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Do you want to try using the ^ff0000Drifter^000000?";
+msgctxt "Lab Director"
+msgid "Do you want to try using the ^ff0000Drifter^000000?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("Um, no.", "Yeah!") == 1){
+msgctxt "Lab Director"
+msgid "Um, no."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("Um, no.", "Yeah!") == 1){
+msgctxt "Lab Director"
+msgid "Yeah!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "If you want to try it out";
+msgctxt "Lab Director"
+msgid "If you want to try it out"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "some time, come back here.";
+msgctxt "Lab Director"
+msgid "some time, come back here."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Since it's really hard to find";
+msgctxt "Lab Director"
+msgid "Since it's really hard to find"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "the materials for constructing";
+msgctxt "Lab Director"
+msgid "the materials for constructing"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "the ^ff0000Drifter^000000, we only make them";
+msgctxt "Lab Director"
+msgid "the ^ff0000Drifter^000000, we only make them"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "on requests, and we require those";
+msgctxt "Lab Director"
+msgid "on requests, and we require those"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "who want to use the ^ff0000Drifter^000000 to bring";
+msgctxt "Lab Director"
+msgid "who want to use the ^ff0000Drifter^000000 to bring"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "us the materials.";
+msgctxt "Lab Director"
+msgid "us the materials."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'll tell you the materials";
+msgctxt "Lab Director"
+msgid "I'll tell you the materials"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "needed, just bring them and";
+msgctxt "Lab Director"
+msgid "needed, just bring them and"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "we'll construct it for you.";
+msgctxt "Lab Director"
+msgid "we'll construct it for you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "To make a Drifter, we need";
+msgctxt "Lab Director"
+msgid "To make a Drifter, we need"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "70 Steel, 5 Eluniums, 3";
+msgctxt "Lab Director"
+msgid "70 Steel, 5 Eluniums, 3"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oridecons, 70 Coal, 50 Rusty";
+msgctxt "Lab Director"
+msgid "Oridecons, 70 Coal, 50 Rusty"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Screws, and a fee of";
+msgctxt "Lab Director"
+msgid "Screws, and a fee of"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "50,000 zeny.";
+msgctxt "Lab Director"
+msgid "50,000 zeny."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Come back after you found";
+msgctxt "Lab Director"
+msgid "Come back after you found"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "them all.";
+msgctxt "Lab Director"
+msgid "them all."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I have news on the latest";
+msgctxt "Lab Director"
+msgid "I have news on the latest"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "weapons but... I guess you're";
+msgctxt "Lab Director"
+msgid "weapons but... I guess you're"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "too busy to hear them.";
+msgctxt "Lab Director"
+msgid "too busy to hear them."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Maybe next time I guess.";
+msgctxt "Lab Director"
+msgid "Maybe next time I guess."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "[F. Harrison]";
+msgctxt "F. Harrison"
+msgid "[F. Harrison]"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "You are overweight.";
+msgctxt "F. Harrison"
+msgid "You are overweight."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Even if I gave you the";
+msgctxt "F. Harrison"
+msgid "Even if I gave you the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "weapon, you cannot carry it.";
+msgctxt "F. Harrison"
+msgid "weapon, you cannot carry it."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Please clear your inventory.";
+msgctxt "F. Harrison"
+msgid "Please clear your inventory."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmm... Oh?";
+msgctxt "F. Harrison"
+msgid "Hmm... Oh?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ahh...... Eh?";
+msgctxt "F. Harrison"
+msgid "Ahh...... Eh?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Heheh... Hmm... Huh...?";
+msgctxt "F. Harrison"
+msgid "Heheh... Hmm... Huh...?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# select("May I have my Butcher back now?");
+msgctxt "F. Harrison"
+msgid "May I have my Butcher back now?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Uh? Oh, umm... Heheh...";
+msgctxt "F. Harrison"
+msgid "Uh? Oh, umm... Heheh..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Th-that, huh? Eh... Heheh...";
+msgctxt "F. Harrison"
+msgid "Th-that, huh? Eh... Heheh..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Ahahahah! I uh...";
+msgctxt "F. Harrison"
+msgid "Ahahahah! I uh..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "That thing! BOOM!";
+msgctxt "F. Harrison"
+msgid "That thing! BOOM!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Bam bam! I was gonna fire it!";
+msgctxt "F. Harrison"
+msgid "Bam bam! I was gonna fire it!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Yeah!";
+msgctxt "F. Harrison"
+msgid "Yeah!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "But it resisted! So I went 'BAM!' with";
+msgctxt "F. Harrison"
+msgid "But it resisted! So I went 'BAM!' with"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "my hand! MUAHAHAHAH!!";
+msgctxt "F. Harrison"
+msgid "my hand! MUAHAHAHAH!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "And it broke...... *sob sob*";
+msgctxt "F. Harrison"
+msgid "And it broke...... *sob sob*"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I call myself 'Dr. Everything' and";
+msgctxt "F. Harrison"
+msgid "I call myself 'Dr. Everything' and"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I wanted to fix it myself, but I";
+msgctxt "F. Harrison"
+msgid "I wanted to fix it myself, but I"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "don't seem to have the materials";
+msgctxt "F. Harrison"
+msgid "don't seem to have the materials"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "to fix it... And the materials are";
+msgctxt "F. Harrison"
+msgid "to fix it... And the materials are"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "so rare too... *sob sob*";
+msgctxt "F. Harrison"
+msgid "so rare too... *sob sob*"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Umm... I'm sorry for breaking";
+msgctxt "F. Harrison"
+msgid "Umm... I'm sorry for breaking"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "it but... Could you get me the";
+msgctxt "F. Harrison"
+msgid "it but... Could you get me the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "materials I need for fixing it?";
+msgctxt "F. Harrison"
+msgid "materials I need for fixing it?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Bring me those items, and I can";
+msgctxt "F. Harrison"
+msgid "Bring me those items, and I can"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "fix it, plus I'll modify it for";
+msgctxt "F. Harrison"
+msgid "fix it, plus I'll modify it for"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "you! I promise!!";
+msgctxt "F. Harrison"
+msgid "you! I promise!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "So please bring me the materials...";
+msgctxt "F. Harrison"
+msgid "So please bring me the materials..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "*sob sob sob*";
+msgctxt "F. Harrison"
+msgid "*sob sob sob*"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "The materials I need are";
+msgctxt "F. Harrison"
+msgid "The materials I need are"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "10 Steel, 2 Eluniums,";
+msgctxt "F. Harrison"
+msgid "10 Steel, 2 Eluniums,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "1 Oridecon, 20 Coal...";
+msgctxt "F. Harrison"
+msgid "1 Oridecon, 20 Coal..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "And a Special Metal Rod";
+msgctxt "F. Harrison"
+msgid "And a Special Metal Rod"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "used in the Butcher...";
+msgctxt "F. Harrison"
+msgid "used in the Butcher..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I think only Lady Celena can";
+msgctxt "F. Harrison"
+msgid "I think only Lady Celena can"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "make those rods......";
+msgctxt "F. Harrison"
+msgid "make those rods......"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "But first, you'll need to talk";
+msgctxt "F. Harrison"
+msgid "But first, you'll need to talk"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "to Lady Celena's assistant, the 'Lab Director',";
+msgctxt "F. Harrison"
+msgid "to Lady Celena's assistant, the 'Lab Director',"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "and ask for his help.";
+msgctxt "F. Harrison"
+msgid "and ask for his help."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "That kid's a bit hysterical, but";
+msgctxt "F. Harrison"
+msgid "That kid's a bit hysterical, but"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "she'll be nice help if you talk";
+msgctxt "F. Harrison"
+msgid "she'll be nice help if you talk"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "to her nicely...";
+msgctxt "F. Harrison"
+msgid "to her nicely..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm really sorry... Here, I'll";
+msgctxt "F. Harrison"
+msgid "I'm really sorry... Here, I'll"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "lend you my prized weapon,";
+msgctxt "F. Harrison"
+msgid "lend you my prized weapon,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "'Crimson Bolt'. But make sure";
+msgctxt "F. Harrison"
+msgid "'Crimson Bolt'. But make sure"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "you bring all those materials";
+msgctxt "F. Harrison"
+msgid "you bring all those materials"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "to me once you find them all!";
+msgctxt "F. Harrison"
+msgid "to me once you find them all!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Promise me!!!";
+msgctxt "F. Harrison"
+msgid "Promise me!!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Talk to the 'Lab Director' for his";
+msgctxt "F. Harrison"
+msgid "Talk to the 'Lab Director' for his"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "assistance on the Rod.";
+msgctxt "F. Harrison"
+msgid "assistance on the Rod."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Aha! You got all the materials";
+msgctxt "F. Harrison"
+msgid "Aha! You got all the materials"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "for me! I'll get to the repair";
+msgctxt "F. Harrison"
+msgid "for me! I'll get to the repair"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "right away, please hold on...";
+msgctxt "F. Harrison"
+msgid "right away, please hold on..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "for me!";
+msgctxt "F. Harrison"
+msgid "for me!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "... But where's my treasured";
+msgctxt "F. Harrison"
+msgid "... But where's my treasured"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "'Crimson Bolt'!? I will not fix";
+msgctxt "F. Harrison"
+msgid "'Crimson Bolt'!? I will not fix"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "your Butcher for you if you don't";
+msgctxt "F. Harrison"
+msgid "your Butcher for you if you don't"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "bring it back to me!!";
+msgctxt "F. Harrison"
+msgid "bring it back to me!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Good thing you found the";
+msgctxt "F. Harrison"
+msgid "Good thing you found the"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Special Metal Rod already.";
+msgctxt "F. Harrison"
+msgid "Special Metal Rod already."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "-You're overweight already.-";
+msgctxt "F. Harrison"
+msgid "-You're overweight already.-"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "-Come back after dropping some";
+msgctxt "F. Harrison"
+msgid "-Come back after dropping some"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "stuff first.-";
+msgctxt "F. Harrison"
+msgid "stuff first.-"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Whew... Finally it's fixed, thanks";
+msgctxt "F. Harrison"
+msgid "Whew... Finally it's fixed, thanks"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "to your effort. I'm very sorry";
+msgctxt "F. Harrison"
+msgid "to your effort. I'm very sorry"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "for breaking it, and thank you";
+msgctxt "F. Harrison"
+msgid "for breaking it, and thank you"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "for your effort. I feel guilty";
+msgctxt "F. Harrison"
+msgid "for your effort. I feel guilty"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "for just fixing it, so I added";
+msgctxt "F. Harrison"
+msgid "for just fixing it, so I added"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "some extra power on it. I hope";
+msgctxt "F. Harrison"
+msgid "some extra power on it. I hope"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "it'll work nicely for you.";
+msgctxt "F. Harrison"
+msgid "it'll work nicely for you."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Well, enjoy it.";
+msgctxt "F. Harrison"
+msgid "Well, enjoy it."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Man, I'm so bored...";
+msgctxt "F. Harrison"
+msgid "Man, I'm so bored..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I wonder if there's anything";
+msgctxt "F. Harrison"
+msgid "I wonder if there's anything"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "interesting...";
+msgctxt "F. Harrison"
+msgid "interesting..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Oh well... I'll just play with my";
+msgctxt "F. Harrison"
+msgid "Oh well... I'll just play with my"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "beautiful 'Crimson Bolt'.";
+msgctxt "F. Harrison"
+msgid "beautiful 'Crimson Bolt'."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Eh? Are you a Gunslinger?";
+msgctxt "F. Harrison"
+msgid "Eh? Are you a Gunslinger?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I haven't seen that weapon";
+msgctxt "F. Harrison"
+msgid "I haven't seen that weapon"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "in your hand before...";
+msgctxt "F. Harrison"
+msgid "in your hand before..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "May I take a look? Please?";
+msgctxt "F. Harrison"
+msgid "May I take a look? Please?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "C'mon, let me take a look!";
+msgctxt "F. Harrison"
+msgid "C'mon, let me take a look!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I'm bored out of my mind here!";
+msgctxt "F. Harrison"
+msgid "I'm bored out of my mind here!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Pleeeeeeeeeeeease~?";
+msgctxt "F. Harrison"
+msgid "Pleeeeeeeeeeeease~?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("No way.", "Here...") == 1){
+msgctxt "F. Harrison"
+msgid "No way."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# if(select("No way.", "Here...") == 1){
+msgctxt "F. Harrison"
+msgid "Here..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hah! You think you're the only";
+msgctxt "F. Harrison"
+msgid "Hah! You think you're the only"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "one with a cool weapon!? Well";
+msgctxt "F. Harrison"
+msgid "one with a cool weapon!? Well"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I got my beautiful Crimson Bolt!";
+msgctxt "F. Harrison"
+msgid "I got my beautiful Crimson Bolt!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hmph!!";
+msgctxt "F. Harrison"
+msgid "Hmph!!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Heheh... This is the newest";
+msgctxt "F. Harrison"
+msgid "Heheh... This is the newest"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "development by Einbroch Firearms";
+msgctxt "F. Harrison"
+msgid "development by Einbroch Firearms"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Lab, the so-called uncontrollable";
+msgctxt "F. Harrison"
+msgid "Lab, the so-called uncontrollable"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "'Destroyer Butcher', eh?";
+msgctxt "F. Harrison"
+msgid "'Destroyer Butcher', eh?"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Interesting... VERY interesting...";
+msgctxt "F. Harrison"
+msgid "Interesting... VERY interesting..."
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "Hey, let me try it out for a";
+msgctxt "F. Harrison"
+msgid "Hey, let me try it out for a"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "bit, alright? Don't worry, I";
+msgctxt "F. Harrison"
+msgid "bit, alright? Don't worry, I"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "know how to handle weapons,";
+msgctxt "F. Harrison"
+msgid "know how to handle weapons,"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "I won't break it!";
+msgctxt "F. Harrison"
+msgid "I won't break it!"
+msgstr ""
+
+#: npc/quests/gunslinger_quests.txt
+# mes "That's that! Let's go~";
+msgctxt "F. Harrison"
+msgid "That's that! Let's go~"
+msgstr ""

@@ -1,0 +1,844 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("[Logistics]");
+msgctxt "KVM Logistic Officer#a"
+msgid "[Logistics]"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("Are those %ss I see?", getitemname(KVM_Badge));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "Are those %ss I see?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("We no longer accept that currency,\r"
+msgctxt "KVM Logistic Officer#a"
+msgid "We no longer accept that currency,\rbut I can exchange those for you."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("So you have %d %ss?", .@pointstoadd, getitemname(KVM_Badge));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "So you have %d %ss?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("Alright, all set, you now have ^580080%d^000000 KVM Points.", kvm_point);
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "Alright, all set, you now have ^580080%d^000000 KVM Points."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("- Wait a minute !! -");
+msgctxt "KVM Logistic Officer#a"
+msgid "- Wait a minute !! -"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("- Currently you're carrying -");
+msgctxt "KVM Logistic Officer#a"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("- too many items with you. -");
+msgctxt "KVM Logistic Officer#a"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("- Please try again -");
+msgctxt "KVM Logistic Officer#a"
+msgid "- Please try again -"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("- after you loose some weight. -");
+msgctxt "KVM Logistic Officer#a"
+msgid "- after you loose some weight. -"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Hello?");
+msgctxt "KVM Logistic Officer#a"
+msgid "Hello?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("I am in charge of distributing\r"
+msgctxt "KVM Logistic Officer#a"
+msgid "I am in charge of distributing\rreward items for KVM points. Any\rwrong selection of items will not\rbe reversed. Please be carefull."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Select the next step please.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Select the next step please."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Read the KVM Catalogue.", "Purchase KVM Items.", "Confirm KVM Points.", "Explanation of KVM Rewards.", "Explanation of KVM Points.")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Read the KVM Catalogue."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Read the KVM Catalogue.", "Purchase KVM Items.", "Confirm KVM Points.", "Explanation of KVM Rewards.", "Explanation of KVM Points.")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Purchase KVM Items."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Read the KVM Catalogue.", "Purchase KVM Items.", "Confirm KVM Points.", "Explanation of KVM Rewards.", "Explanation of KVM Points.")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Confirm KVM Points."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Read the KVM Catalogue.", "Purchase KVM Items.", "Confirm KVM Points.", "Explanation of KVM Rewards.", "Explanation of KVM Points.")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Explanation of KVM Rewards."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Read the KVM Catalogue.", "Purchase KVM Items.", "Confirm KVM Points.", "Explanation of KVM Rewards.", "Explanation of KVM Points.")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Explanation of KVM Points."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Here is the catalogue of KVM items.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Here is the catalogue of KVM items."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Each weapon requires 2,000 points\r"
+msgctxt "KVM Logistic Officer#a"
+msgid "Each weapon requires 2,000 points\rand each armor from 10 to 1,200\rpoints. So, be carefull when\rselecting a reward."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Wich items do you want to see? As\r"
+msgctxt "KVM Logistic Officer#a"
+msgid "Wich items do you want to see? As\rfor the detailed specification of\rthe items, please refer to the\r^3131FFCatalogue^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Weapon", "Armor/Accessory", "Mass-Production Armor/Accessory", "Popularized Armor/Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Weapon"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Weapon", "Armor/Accessory", "Mass-Production Armor/Accessory", "Popularized Armor/Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Armor/Accessory"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Weapon", "Armor/Accessory", "Mass-Production Armor/Accessory", "Popularized Armor/Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Mass-Production Armor/Accessory"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Weapon", "Armor/Accessory", "Mass-Production Armor/Accessory", "Popularized Armor/Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Popularized Armor/Accessory"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the Weapon Category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the Weapon Category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Please select a sub-category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Please select a sub-category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Dagger/Sword/Spear", "Staff/Mace/Axe/Shuriken", "Bow/Katar/Instrument/Whip", "Book/Knuckle", "Revolver/Rifle/Gun/Grenade Launcher")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Dagger/Sword/Spear"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Dagger/Sword/Spear", "Staff/Mace/Axe/Shuriken", "Bow/Katar/Instrument/Whip", "Book/Knuckle", "Revolver/Rifle/Gun/Grenade Launcher")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Staff/Mace/Axe/Shuriken"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Dagger/Sword/Spear", "Staff/Mace/Axe/Shuriken", "Bow/Katar/Instrument/Whip", "Book/Knuckle", "Revolver/Rifle/Gun/Grenade Launcher")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Bow/Katar/Instrument/Whip"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Dagger/Sword/Spear", "Staff/Mace/Axe/Shuriken", "Bow/Katar/Instrument/Whip", "Book/Knuckle", "Revolver/Rifle/Gun/Grenade Launcher")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Book/Knuckle"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Dagger/Sword/Spear", "Staff/Mace/Axe/Shuriken", "Bow/Katar/Instrument/Whip", "Book/Knuckle", "Revolver/Rifle/Gun/Grenade Launcher")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Revolver/Rifle/Gun/Grenade Launcher"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the Dagger/Sword/Spear category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the Dagger/Sword/Spear category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Dagger", "One-handed Sword", "Two-handed Sword", "One-handed Spear", "Two-handed Spear")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Dagger"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Dagger", "One-handed Sword", "Two-handed Sword", "One-handed Spear", "Two-handed Spear")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "One-handed Sword"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Dagger", "One-handed Sword", "Two-handed Sword", "One-handed Spear", "Two-handed Spear")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Two-handed Sword"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Dagger", "One-handed Sword", "Two-handed Sword", "One-handed Spear", "Two-handed Spear")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "One-handed Spear"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Dagger", "One-handed Sword", "Two-handed Sword", "One-handed Spear", "Two-handed Spear")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Two-handed Spear"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the 'One-handed Sword' category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'One-handed Sword' category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("There are 3 One-handed Swords: Glorious Flamberge, Glorious Rapier and Glorious Holy Avenger.");
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 3 One-handed Swords: Glorious Flamberge, Glorious Rapier and Glorious Holy Avenger."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("If you want their details, please refer to the KVM Catalogue.");
+msgctxt "KVM Logistic Officer#a"
+msgid "If you want their details, please refer to the KVM Catalogue."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Please select one of them.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Please select one of them."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Flamberge", "Glorious Rapier", "Glorious Holy Avenger")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Flamberge"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Flamberge", "Glorious Rapier", "Glorious Holy Avenger")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Rapier"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Flamberge", "Glorious Rapier", "Glorious Holy Avenger")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Holy Avenger"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the 'Staff/Mace/Axe/Shuriken' category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Staff/Mace/Axe/Shuriken' category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Staff", "Mace", "One-handed Axe", "Two-handed Axe", "Shuriken")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Staff"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Staff", "Mace", "One-handed Axe", "Two-handed Axe", "Shuriken")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Mace"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Staff", "Mace", "One-handed Axe", "Two-handed Axe", "Shuriken")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "One-handed Axe"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Staff", "Mace", "One-handed Axe", "Two-handed Axe", "Shuriken")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Two-handed Axe"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Staff", "Mace", "One-handed Axe", "Two-handed Axe", "Shuriken")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Shuriken"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the 'Staff' category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Staff' category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("There are 3 Staffs: a Two-handed Weapon Glorious Destruction Staff, a One-handed Glorious Arc Wand and a Glorious Healing Staff.");
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 3 Staffs: a Two-handed Weapon Glorious Destruction Staff, a One-handed Glorious Arc Wand and a Glorious Healing Staff."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Destruction Staff", "Glorious Arc Wand", "Glorious Healing Staff")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Destruction Staff"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Destruction Staff", "Glorious Arc Wand", "Glorious Healing Staff")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Arc Wand"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Destruction Staff", "Glorious Arc Wand", "Glorious Healing Staff")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Healing Staff"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the Bow/Katar/Instrument/Whip category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the Bow/Katar/Instrument/Whip category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Bow", "Katar", "Instrument", "Whip")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Bow"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Bow", "Katar", "Instrument", "Whip")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Katar"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Bow", "Katar", "Instrument", "Whip")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Instrument"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Bow", "Katar", "Instrument", "Whip")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Whip"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the 'Katar' category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Katar' category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("There are 2 Katars: Glorious Bloody Roar and Glorious Jamadhar.");
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 2 Katars: Glorious Bloody Roar and Glorious Jamadhar."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Bloody Roar", "Glorious Jamadhar")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Bloody Roar"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Bloody Roar", "Glorious Jamadhar")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Jamadhar"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the Book/Knuckle category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the Book/Knuckle category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Book", "Knuckle")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Book"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Book", "Knuckle")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Knuckle"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected 'Book'.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected 'Book'."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("There are 2 Books: Glorious Tablet and Glorious Apocalypse.");
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 2 Books: Glorious Tablet and Glorious Apocalypse."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Tablet", "Glorious Apocalypse")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Tablet"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Tablet", "Glorious Apocalypse")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Apocalypse"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the 'Knuckle' category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Knuckle' category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("There are 2 Knuckles: Glorious Claw and Glorious Fist.");
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 2 Knuckles: Glorious Claw and Glorious Fist."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Claw", "Glorious Fist")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Claw"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Glorious Claw", "Glorious Fist")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Glorious Fist"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the 'Revolver/Rifle/Gun/Grenade Launcher' category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Revolver/Rifle/Gun/Grenade Launcher' category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Revolver", "Rifle", "Gatling Gun", "Shotgun", "Grenade Launcher")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Revolver"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Revolver", "Rifle", "Gatling Gun", "Shotgun", "Grenade Launcher")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Rifle"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Revolver", "Rifle", "Gatling Gun", "Shotgun", "Grenade Launcher")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Gatling Gun"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Revolver", "Rifle", "Gatling Gun", "Shotgun", "Grenade Launcher")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Shotgun"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Revolver", "Rifle", "Gatling Gun", "Shotgun", "Grenade Launcher")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Grenade Launcher"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the 'Armor/Accessory' category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Armor/Accessory' category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Armor", "Cloak", "Shoes", "Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Armor"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Armor", "Cloak", "Shoes", "Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Cloak"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Armor", "Cloak", "Shoes", "Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Shoes"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Armor", "Cloak", "Shoes", "Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Accessory"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the 'Mass-Production Armor/Accessory' category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Mass-Production Armor/Accessory' category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Mass-Production Armor", "Mass-Production Shoes", "Mass-Production Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Mass-Production Armor"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Mass-Production Armor", "Mass-Production Shoes", "Mass-Production Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Mass-Production Shoes"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Mass-Production Armor", "Mass-Production Shoes", "Mass-Production Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Mass-Production Accessory"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected the 'Popularized Armor/Accessory' category.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected the 'Popularized Armor/Accessory' category."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Popularized Armor", "Popularized Shoes", "Popularized Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Popularized Armor"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Popularized Armor", "Popularized Shoes", "Popularized Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Popularized Shoes"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("Popularized Armor", "Popularized Shoes", "Popularized Accessory")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Popularized Accessory"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("%s, your current points are ^580080%d^000000 KVM Points.", .@name$, kvm_point);
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "%s, your current points are ^580080%d^000000 KVM Points."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("There are 3 categories in KVM Rewards: Weapon/Armor.Accessory.");
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 3 categories in KVM Rewards: Weapon/Armor.Accessory."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Weapon rewards require 2,000 KVM points for each.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Weapon rewards require 2,000 KVM points for each."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("There are 3 types of Armor rewards and they require 840/630/580 KVM points fo each.");
+msgctxt "KVM Logistic Officer#a"
+msgid "There are 3 types of Armor rewards and they require 840/630/580 KVM points fo each."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Accessory rewards require 1,200 KVM points for each.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Accessory rewards require 1,200 KVM points for each."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Kreiger Weapons are LV 4 Weapons, they can be upgraded and will have special effects: Slaughter, Destruction and Blessing.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Kreiger Weapons are LV 4 Weapons, they can be upgraded and will have special effects: Slaughter, Destruction and Blessing."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("When you can wear all 3 armors, you can have a special set of options.");
+msgctxt "KVM Logistic Officer#a"
+msgid "When you can wear all 3 armors, you can have a special set of options."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Also, when Kreiger Accessory rewards are worn with medalsm it will bring you special set rewards.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Also, when Kreiger Accessory rewards are worn with medalsm it will bring you special set rewards."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Finally, there are Mass-Production Armor and Accessory rewards.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Finally, there are Mass-Production Armor and Accessory rewards."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Players whose Lvl is higher than 60 can equip Mass-Production Armors and there is a Lvl limit for Popularized Armor as well.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Players whose Lvl is higher than 60 can equip Mass-Production Armors and there is a Lvl limit for Popularized Armor as well."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("KVM Points are rewarded when you win, lose or draw in Kreiger Von Midgard (KVM).");
+msgctxt "KVM Logistic Officer#a"
+msgid "KVM Points are rewarded when you win, lose or draw in Kreiger Von Midgard (KVM)."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You can have special Rewards by using these points.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You can have special Rewards by using these points."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("You have selected ^ff0000%s^000000.", getitemname(getarg(0)));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected ^ff0000%s^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("There is only one %s: %s.", callfunc("F_GetWeaponType",getarg(0)), getitemname(getarg(0)));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "There is only one %s: %s."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("You have selected '%s'.", callfunc("F_GetArmorType",getarg(0)));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected '%s'."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("The armor for one whose Lvl is more than 80 is: ^ff0000%s^000000.", getitemname(getarg(0)));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "The armor for one whose Lvl is more than 80 is: ^ff0000%s^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("You have selected 'Mass-Production %s'.", callfunc("F_GetArmorType",getarg(0)));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected 'Mass-Production %s'."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("There is only one Mass-Production %s: ^ff0000%s^000000.", callfunc("F_GetArmorType",getarg(0)), getitemname(getarg(0)));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "There is only one Mass-Production %s: ^ff0000%s^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("You have selected 'Popularized %s'.", callfunc("F_GetArmorType",getarg(0)));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected 'Popularized %s'."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("There is only one Popularized %s: ^ff0000%s^000000.", callfunc("F_GetArmorType",getarg(0)), getitemname(getarg(0)));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "There is only one Popularized %s: ^ff0000%s^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("It requires ^0000ff2,000^000000 KVM Points, and %s, your points are: ^580080%d^000000.", .@name$, kvm_point);
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "It requires ^0000ff2,000^000000 KVM Points, and %s, your points are: ^580080%d^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("It requires ^0000ff1,200^000000 KVM Points, and %s, your points are: ^580080%d^000000.", .@name$, kvm_point);
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "It requires ^0000ff1,200^000000 KVM Points, and %s, your points are: ^580080%d^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("It requires ^0000ff%d^000000 KVM Points, and %s, your points are: ^580080%d^000000.", .@prices[getarg(1)], .@name$, kvm_point);
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "It requires ^0000ff%d^000000 KVM Points, and %s, your points are: ^580080%d^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Are you sure you want this item?");
+msgctxt "KVM Logistic Officer#a"
+msgid "Are you sure you want this item?"
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("No, I won't purchase it.", "Yes, I will purchase it.")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "No, I won't purchase it."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# switch(select("No, I won't purchase it.", "Yes, I will purchase it.")) {
+msgctxt "KVM Logistic Officer#a"
+msgid "Yes, I will purchase it."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You have selected 'I won't purchase it'.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You have selected 'I won't purchase it'."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("When purchasing an item, please be careful there are no refunds.");
+msgctxt "KVM Logistic Officer#a"
+msgid "When purchasing an item, please be careful there are no refunds."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("You have purchased a %s.", getitemname(getarg(0)));
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You have purchased a %s."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("Your KVM Points are reduced by ^0000ff%d^000000 points, your KVM Points are now ^580080%d^000000.", getarg(1), kvm_point);
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "Your KVM Points are reduced by ^0000ff%d^000000 points, your KVM Points are now ^580080%d^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("Your KVM Points are reduced by ^0000ff1,200^000000 points, your KVM Points are now ^580080%d^000000.", kvm_point);
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "Your KVM Points are reduced by ^0000ff1,200^000000 points, your KVM Points are now ^580080%d^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You need ^0000ff2,000^000000 KVM Points to purchase this item.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You need ^0000ff2,000^000000 KVM Points to purchase this item."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("You need ^0000ff1,200^000000 KVM Points to purchase this item.");
+msgctxt "KVM Logistic Officer#a"
+msgid "You need ^0000ff1,200^000000 KVM Points to purchase this item."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("You need ^0000ff%d^000000 KVM Points to purchase this item.", .@prices[getarg(1)]);
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "You need ^0000ff%d^000000 KVM Points to purchase this item."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mesf("However, your KVM Points are now ^580080%d^000000.", kvm_point);
+#, c-format
+msgctxt "KVM Logistic Officer#a"
+msgid "However, your KVM Points are now ^580080%d^000000."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("Which are not enough to buy it.");
+msgctxt "KVM Logistic Officer#a"
+msgid "Which are not enough to buy it."
+msgstr ""
+
+#: npc/battleground/kvm/kvm_item_pay.txt
+# mes("When you get enough points, please come back again.");
+msgctxt "KVM Logistic Officer#a"
+msgid "When you get enough points, please come back again."
+msgstr ""

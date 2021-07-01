@@ -1,0 +1,3419 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "[Parmy Gianino]";
+msgctxt "Alchemist Guildsman#am"
+msgid "[Parmy Gianino]"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Welcome to the\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Welcome to the\rAlchemist Unio--"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I-Impossible! How c-can\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "I-Impossible! How c-can\rsomething like this happen?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Wait, wait...";
+msgctxt "Alchemist Guildsman#am"
+msgid "Wait, wait..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I'm sorry. I was confused,\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "I'm sorry. I was confused,\rthat's all. You look just like\rsomeone I used to know."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Still, I get this weird\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Still, I get this weird\rfeeling about you..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("Welcome, %s.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Alchemist Guildsman#am"
+msgid "Welcome, %s."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "The Alchemist Union\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "The Alchemist Union\ris busy today, like always."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Everyone is busy with their\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Everyone is busy with their\rown research, but recently, some headway has been made in the field of biotechnology."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Everyone is hoping that the biotechnological studies will yield positive results. "
+msgctxt "Alchemist Guildsman#am"
+msgid "Everyone is hoping that the biotechnological studies will yield positive results. Speaking of which, I wonder how the Alchemists working on artificial life are doing..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Welcome to the\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Welcome to the\rAlchemist Union."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "We are recruiting\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "We are recruiting\rtalented people\rwith novel ideas."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "If you're interested in working with chemistry, visit us later when you become more "
+msgctxt "Alchemist Guildsman#am"
+msgid "If you're interested in working with chemistry, visit us later when you become more knowledgable."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Just one thing:\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Just one thing:\rYou've got to have\rknowledge of items\ras a Merchant first."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "If you know any exceptional Merchants, by all means, please refer them to us. Those types of "
+msgctxt "Alchemist Guildsman#am"
+msgid "If you know any exceptional Merchants, by all means, please refer them to us. Those types of people tend to have a talent for Alchemy and experimentation~"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "How may I help you?";
+msgctxt "Alchemist Guildsman#am"
+msgid "How may I help you?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# switch (select("I would like to learn about Alchemists.",
+msgctxt "Alchemist Guildsman#am"
+msgid "I would like to learn about Alchemists."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "I want to become an Alchemist.",
+msgctxt "Alchemist Guildsman#am"
+msgid "I want to become an Alchemist."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "Nothing.")) {
+msgctxt "Alchemist Guildsman#am"
+msgid "Nothing."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Alchemists study and create new substances and items out of existing materials. Our "
+msgctxt "Alchemist Guildsman#am"
+msgid "Alchemists study and create new substances and items out of existing materials. Our knowledge allows us to change the properties of chemicals at the atomic level."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Most people think our final goal\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Most people think our final goal\ris to create gold, but that's not the entire truth. We also want to create things like medicines\rand new materials."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "A few of us research the\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "A few of us research the\rcreation of life, although many of us consider that god's territory. That field is so complex, most of us deal with slightly less complicated projects anyway."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "If you are interested in becoming an Alchemist, I recommend that you first get a lot of "
+msgctxt "Alchemist Guildsman#am"
+msgid "If you are interested in becoming an Alchemist, I recommend that you first get a lot of experience as a Merchant. Being a Merchant is a great opportunity to learn about materials as you deal with them."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Whether or not you try to become an Alchemist is your decision. The road to becoming an "
+msgctxt "Alchemist Guildsman#am"
+msgid "Whether or not you try to become an Alchemist is your decision. The road to becoming an Alchemist is very challenging, and you'll need to focus on experimentation and research, instead of commerce."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Is that so?";
+msgctxt "Alchemist Guildsman#am"
+msgid "Is that so?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Nice to meet you.";
+msgctxt "Alchemist Guildsman#am"
+msgid "Nice to meet you."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "My name is Parmy Gianino\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "My name is Parmy Gianino\rof the Alchemist Union."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "If you join our Union and\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "If you join our Union and\rcomplete the training, you\rwill be officially recognized\ras an Alchemist and be able\rto contribute to our research."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "But we don't accept everyone.";
+msgctxt "Alchemist Guildsman#am"
+msgid "But we don't accept everyone."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You must have a lot of tenacity\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "You must have a lot of tenacity\rand sincere devotion in exploring\rthe various fields of science."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "There are a couple\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "There are a couple\rof requirements to join\rthe Alchemist Union, but\rwe'll discuss that\rafter you apply."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Well then, would\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Well then, would\ryou like to apply\rfor registration?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("I would like to apply.", "I'll do it later.") == 1) {
+msgctxt "Alchemist Guildsman#am"
+msgid "I would like to apply."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("I would like to apply.", "I'll do it later.") == 1) {
+msgctxt "Alchemist Guildsman#am"
+msgid "I'll do it later."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Hmmm...";
+msgctxt "Alchemist Guildsman#am"
+msgid "Hmmm..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Just a moment.";
+msgctxt "Alchemist Guildsman#am"
+msgid "Just a moment."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I'm sorry to say that\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "I'm sorry to say that\ryou're not experienced\renough as a Merchant to\rjoin us right now."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You must be at least\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "You must be at least\r^551A8BJob Level 40^000000 to become\ran Alchemist. Come back\rlater when you meet the\rJob Level requirement, okay?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Alright, your application has been accepted. Now, you must pay the 50,000 Zeny "
+msgctxt "Alchemist Guildsman#am"
+msgid "Alright, your application has been accepted. Now, you must pay the 50,000 Zeny application fee and bring some items before you can begin your formal training."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("But if you bring an ^551A8B%s^000000 and ^551A8B%s^000000,\r"
+#, c-format
+msgctxt "Alchemist Guildsman#am"
+msgid "But if you bring an ^551A8B%s^000000 and ^551A8B%s^000000,\rwe will accept that as a substitute for the item requirement."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Now...";
+msgctxt "Alchemist Guildsman#am"
+msgid "Now..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Please sign\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Please sign\rthe application."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Good, good. Now, if you have\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Good, good. Now, if you have\rthe Zeny for your application fee ready, I will tell you which items you will need to bring. Now, pay attention."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Uh oh. You don't\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Uh oh. You don't\rseem to have enough Zeny.\rCome back to me when you have 50,000 Zeny, otherwise we can't process your application."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Let's see.";
+msgctxt "Alchemist Guildsman#am"
+msgid "Let's see."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("%s\r"
+#, c-format
+msgctxt "Alchemist Guildsman#am"
+msgid "%s\rneeds to bring..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("^551A8B7 %s^000000.", getitemname(Berserk_Potion));
+#, c-format
+msgctxt "Alchemist Guildsman#am"
+msgid "^551A8B7 %s^000000."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("^551A8B100 %s^000000.", getitemname(Portable_Furnace));
+#, c-format
+msgctxt "Alchemist Guildsman#am"
+msgid "^551A8B100 %s^000000."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("^551A8B7,500 %s^000000.", getitemname(Fire_Arrow));
+#, c-format
+msgctxt "Alchemist Guildsman#am"
+msgid "^551A8B7,500 %s^000000."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Once you've gathered\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Once you've gathered\rthose items, come back\rto me and your training\ras an Alchemist will begin."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "See you soon~";
+msgctxt "Alchemist Guildsman#am"
+msgid "See you soon~"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Talented Merchants\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Talented Merchants\rare always welcome here."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Please come back soon.";
+msgctxt "Alchemist Guildsman#am"
+msgid "Please come back soon."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Umm...";
+msgctxt "Alchemist Guildsman#am"
+msgid "Umm..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Please let me know\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Please let me know\rif you need anything."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Well now~!";
+msgctxt "Alchemist Guildsman#am"
+msgid "Well now~!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("You've brought an\r"
+#, c-format
+msgctxt "Alchemist Guildsman#am"
+msgid "You've brought an\r%s and\ra %s."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "We'll put these items\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "We'll put these items\rto good use."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Okay, now you need to learn\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Okay, now you need to learn\rthe basics to being an Alchemist and learn the procedures for mixing chemicals and medicines."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "But before all of that, you need to speak to Raspuchin. I'm not really sure what you'll "
+msgctxt "Alchemist Guildsman#am"
+msgid "But before all of that, you need to speak to Raspuchin. I'm not really sure what you'll be talking about with him..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "It shouldn't be anything extraordinary, but you're still required to speak to Raspuchin, "
+msgctxt "Alchemist Guildsman#am"
+msgid "It shouldn't be anything extraordinary, but you're still required to speak to Raspuchin, since apparently he's a part of the Alchemist selection process."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Seems like\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Seems like\ryou're all ready."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "The Union will put\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "The Union will put\rthese items to good use."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Aren't you ready?";
+msgctxt "Alchemist Guildsman#am"
+msgid "Aren't you ready?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("Like I said before,\r"
+#, c-format
+msgctxt "Alchemist Guildsman#am"
+msgid "Like I said before,\ryou must bring\r^551A8B%d %s^000000."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Come back when you\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Come back when you\rhave prepared the\rrequired items."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Go and talk to\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Go and talk to\rMr. Raspuchin."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "He's involved in the\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "He's involved in the\rAlchemist selection process, whatever that might mean."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Hopefully, it\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Hopefully, it\rwon't be too much of\ra problem. I guess he'll just interview you, and ask you\rsome simple questions."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ah, I'm sorry, but\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Ah, I'm sorry, but\rI'm busy right now~"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Why don't you ask\r"
+msgctxt "Alchemist Guildsman#am"
+msgid "Why don't you ask\rsomeone else if you're\rnot sure who to visit\rnext? Good luck~"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "[Raspuchin Gregory]";
+msgctxt "Fastidious Alchemist#am"
+msgid "[Raspuchin Gregory]"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Heeheehee\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Heeheehee\rkeheheh~!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Eh? What do you want?!";
+msgctxt "Fastidious Alchemist#am"
+msgid "Eh? What do you want?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You're not here to steal my experimental results or plagiarize my work, are you? How dare "
+msgctxt "Fastidious Alchemist#am"
+msgid "You're not here to steal my experimental results or plagiarize my work, are you? How dare you consider intellectual theft!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You're not, are you?";
+msgctxt "Fastidious Alchemist#am"
+msgid "You're not, are you?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Well, as a colleague,\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Well, as a colleague,\rlet me just warn you\rthat such tricks aren't\rtolerated here in the\rAlchemist Union!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "How cute, you've come\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "How cute, you've come\rall this way just to play..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I'll let you\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "I'll let you\rgo this time..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "But next time, don't\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "But next time, don't\rexpect to leave so easily..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What is it?!";
+msgctxt "Fastidious Alchemist#am"
+msgid "What is it?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You're curious as\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "You're curious as\rto what I'm doing?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Heehee\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Heehee\rkeheheh~!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Why, I'm busy\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Why, I'm busy\rresearching,\rof course!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Once this\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Once this\rpotion is complete..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You can use it to take\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "You can use it to take\rover an entire nation!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Hee hee hee!";
+msgctxt "Fastidious Alchemist#am"
+msgid "Hee hee hee!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Something this\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Something this\rdangerous has to\rbe kept a secret!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Understand?";
+msgctxt "Fastidious Alchemist#am"
+msgid "Understand?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What do you\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "What do you\rwant, kid?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "A Merchant should go and set up shop and vend items. Why are you wandering in a place like this?";
+msgctxt "Fastidious Alchemist#am"
+msgid "A Merchant should go and set up shop and vend items. Why are you wandering in a place like this?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Heheheh~!";
+msgctxt "Fastidious Alchemist#am"
+msgid "Heheheh~!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Go vend somwhere else!";
+msgctxt "Fastidious Alchemist#am"
+msgid "Go vend somwhere else!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "And leave me to my\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "And leave me to my\rdark enterprise!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What...?";
+msgctxt "Fastidious Alchemist#am"
+msgid "What...?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Learn Alchemy?!";
+msgctxt "Fastidious Alchemist#am"
+msgid "Learn Alchemy?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Don't even speak\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Don't even speak\rsuch nonsense!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Even if you tried studying for a thousand years, maybe even more, it'd be useless to you! Forget "
+msgctxt "Fastidious Alchemist#am"
+msgid "Even if you tried studying for a thousand years, maybe even more, it'd be useless to you! Forget about it and just worry about your store!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Heeheehee";
+msgctxt "Fastidious Alchemist#am"
+msgid "Heeheehee"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "keheheh~!";
+msgctxt "Fastidious Alchemist#am"
+msgid "keheheh~!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Join the Union!?";
+msgctxt "Fastidious Alchemist#am"
+msgid "Join the Union!?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I don't like it...";
+msgctxt "Fastidious Alchemist#am"
+msgid "I don't like it..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I just don't...!";
+msgctxt "Fastidious Alchemist#am"
+msgid "I just don't...!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Nowadays, anyone thinks they can\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Nowadays, anyone thinks they can\rbe Alchemists just by knowing how to mix a few herbs. That's why my interview is necessary."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I plan on weeding out all the dumb and incompetent, and chase them\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "I plan on weeding out all the dumb and incompetent, and chase them\rall away! We don't need morons!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Wait...";
+msgctxt "Fastidious Alchemist#am"
+msgid "Wait..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Maybe I've\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Maybe I've\rmisjudged you."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You might be a pretty boy,\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "You might be a pretty boy,\rbut I can tell you're smart\rfrom your eyes."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Huh. You're a cutie alright,\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Huh. You're a cutie alright,\rbut I can tell you've got brains."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You're not just some stupid kid.";
+msgctxt "Fastidious Alchemist#am"
+msgid "You're not just some stupid kid."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I can tell youve gone through some rough times as a Merchant. Excellent. Keh heh "
+msgctxt "Fastidious Alchemist#am"
+msgid "I can tell youve gone through some rough times as a Merchant. Excellent. Keh heh heh~"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Fine, just so we don't insult each other's intelligence, I'll just let you pass "
+msgctxt "Fastidious Alchemist#am"
+msgid "Fine, just so we don't insult each other's intelligence, I'll just let you pass the interview."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "So hurry up, become an Alchemist, do some good research, and you might turn out "
+msgctxt "Fastidious Alchemist#am"
+msgid "So hurry up, become an Alchemist, do some good research, and you might turn out to be of some help to me. Hahahahahaha~!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Now go to Darwin!";
+msgctxt "Fastidious Alchemist#am"
+msgid "Now go to Darwin!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "He'll teach you how to do the experiments. Just tell him that\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "He'll teach you how to do the experiments. Just tell him that\rI sent you."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Surprised, are you?";
+msgctxt "Fastidious Alchemist#am"
+msgid "Surprised, are you?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Keheheh~ If you thought\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Keheheh~ If you thought\rbecoming an Alchemist was\rjust a matter of changing\ryour clothes, then you're\rsadly mistaken."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Now, try solving\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Now, try solving\rall these problems."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Let's see how smart\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Let's see how smart\rreally are."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What...?!";
+msgctxt "Fastidious Alchemist#am"
+msgid "What...?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You want to take\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "You want to take\rthe test again?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I thought I told\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "I thought I told\ryou to leave!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I don't like this!";
+msgctxt "Fastidious Alchemist#am"
+msgid "I don't like this!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Fine...";
+msgctxt "Fastidious Alchemist#am"
+msgid "Fine..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I'll try to overlook your pitiful performance last time and give\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "I'll try to overlook your pitiful performance last time and give\ryou another chance. Don't screw\rup again, got it?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Now then,\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Now then,\rgive me all the\r^551A8Bright^000000 answers\rthis time."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "12 + 23 + 34 + 45 = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "12 + 23 + 34 + 45 = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "1000 - 36 - 227 - 348 = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "1000 - 36 - 227 - 348 = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "14 * 17 * 3 = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "14 * 17 * 3 = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "9765 / 3 / 5 / 7 = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "9765 / 3 / 5 / 7 = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "(47 * 28) - (1376 / 4) = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "(47 * 28) - (1376 / 4) = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "(2646 / 7) + (13 * 28) = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "(2646 / 7) + (13 * 28) = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("How much do\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "How much do\r12 %s,\r1 %s\rand 5 %s cost\rafter a 24%% discount?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("What is the\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "What is the\rtotal weight of\r3 %s, 2 %s\rand 1 %s?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("What is the\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "What is the\rtotal defense of\ra %s, %s,\r%s, %s,\r%s, %s, and\r%s?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("If you buy 5 %s\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "If you buy 5 %s\rwith a 24%% discount\rand sell it at 20\rhow much profit\rdo you earn?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "13 + 25 + 37 + 48 = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "13 + 25 + 37 + 48 = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "1000 - 58 - 214 - 416 = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "1000 - 58 - 214 - 416 = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "12 * 24 * 3 = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "12 * 24 * 3 = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "10530 / 3 / 5 / 2 = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "10530 / 3 / 5 / 2 = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "(35 * 19) - (1792 / 7) = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "(35 * 19) - (1792 / 7) = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "(2368 / 8) + (24 * 17) = ?";
+msgctxt "Fastidious Alchemist#am"
+msgid "(2368 / 8) + (24 * 17) = ?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("What is the\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "What is the\rtotal price of\r15 %s,\r6 %s and\r4 %s after\ra 24%% discount?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("What is the\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "What is the\rtotal weight of\r3 %s,\r4 %s, and 2 %s?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("What is the\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "What is the\rtotal defense of\ra %s, %s,\r%s, %s.\r%s, %s,\rand %s?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("How much profit do you\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "How much profit do you\rmake if you buy %s\rat a 24%% discount and\rsell it at 20%% of\rthe normal price?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("What is the\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "What is the\rtotal cost of\r6 %s,\r7 %s,\rand 8 %s\rafter a 24%% discount?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("What is the\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "What is the\rtotal weight of\r2 %s,\r3 %s, and 3 %s?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("What is the\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "What is the\rtotal defense of\ra %s, %s, %s, %s, %s, %s, and %s?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("If you buy 4 Padded Armors\r"
+#, c-format
+msgctxt "Fastidious Alchemist#am"
+msgid "If you buy 4 Padded Armors\rat a 24%% discount and sell\rthem at 20%% of the original\rprice, how much profit would\ryou make from this sale?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ooh...";
+msgctxt "Fastidious Alchemist#am"
+msgid "Ooh..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Excellent! Great!";
+msgctxt "Fastidious Alchemist#am"
+msgid "Excellent! Great!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You got them all correct!?";
+msgctxt "Fastidious Alchemist#am"
+msgid "You got them all correct!?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Keheheh, I have no choice but to acknowledge you...";
+msgctxt "Fastidious Alchemist#am"
+msgid "Keheheh, I have no choice but to acknowledge you..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You got one wrong!";
+msgctxt "Fastidious Alchemist#am"
+msgid "You got one wrong!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "But I'll let it slide.";
+msgctxt "Fastidious Alchemist#am"
+msgid "But I'll let it slide."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You pass the interview!";
+msgctxt "Fastidious Alchemist#am"
+msgid "You pass the interview!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You've got serious\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "You've got serious\rweaknesses in math,\rbut I'll let you go this time..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Keheheh! Idiot!";
+msgctxt "Fastidious Alchemist#am"
+msgid "Keheheh! Idiot!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Just listening to your\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Just listening to your\ranswers is making me feel\rstupider! You might as well\rhave got them all wrong!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "How can a person that\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "How can a person that\rcan't even answer all of\rthese simple questions think\rof becoming an Alchemist?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Hm...?";
+msgctxt "Fastidious Alchemist#am"
+msgid "Hm...?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Did you get\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Did you get\rany right?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Fool! Even if you make one little mistake, everything goes wrong\r"
+msgctxt "Fastidious Alchemist#am"
+msgid "Fool! Even if you make one little mistake, everything goes wrong\rin Alchemy! Now get out of here!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You make me sick!";
+msgctxt "Fastidious Alchemist#am"
+msgid "You make me sick!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What are you doing?";
+msgctxt "Fastidious Alchemist#am"
+msgid "What are you doing?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Go and find Darwin now.";
+msgctxt "Fastidious Alchemist#am"
+msgid "Go and find Darwin now."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Keheheheheheheheh~";
+msgctxt "Fastidious Alchemist#am"
+msgid "Keheheheheheheheh~"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Don't think this is the end of it!";
+msgctxt "Fastidious Alchemist#am"
+msgid "Don't think this is the end of it!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "- Wait a minute! -";
+msgctxt "Studying Man#am"
+msgid "- Wait a minute! -"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "- Currently you are carrying -";
+msgctxt "Studying Man#am"
+msgid "- Currently you are carrying -"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "- too many items with you. -";
+msgctxt "Studying Man#am"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "- Please come back again -";
+msgctxt "Studying Man#am"
+msgid "- Please come back again -"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "- after you store some items into kafra storage. -";
+msgctxt "Studying Man#am"
+msgid "- after you store some items into kafra storage. -"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "[Darwin]";
+msgctxt "Studying Man#am"
+msgid "[Darwin]"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ah...";
+msgctxt "Studying Man#am"
+msgid "Ah..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You...";
+msgctxt "Studying Man#am"
+msgid "You..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You've become\r"
+msgctxt "Studying Man#am"
+msgid "You've become\ran Alchemist."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Remember...";
+msgctxt "Studying Man#am"
+msgid "Remember..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "In your quest\r"
+msgctxt "Studying Man#am"
+msgid "In your quest\rto make your\rdreams come true,\rdo not lose what\ryou cherish."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Harmona...";
+msgctxt "Studying Man#am"
+msgid "Harmona..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "My love...";
+msgctxt "Studying Man#am"
+msgid "My love..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "When you have\r"
+msgctxt "Studying Man#am"
+msgid "When you have\ryour dreams, you\rhave everything."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Without them, you have\r"
+msgctxt "Studying Man#am"
+msgid "Without them, you have\rnothing more to lose."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "These cursed eyes...";
+msgctxt "Studying Man#am"
+msgid "These cursed eyes..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "They've lost sight of\r"
+msgctxt "Studying Man#am"
+msgid "They've lost sight of\rmy dreams a long time ago."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ha ha ha ha...";
+msgctxt "Studying Man#am"
+msgid "Ha ha ha ha..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Does paradise\r"
+msgctxt "Studying Man#am"
+msgid "Does paradise\rreally exist...?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Not without my love...\r"
+msgctxt "Studying Man#am"
+msgid "Not without my love...\rNot without Harmona..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "...";
+msgctxt "Studying Man#am"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "......";
+msgctxt "Studying Man#am"
+msgid "......"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Who is it...?";
+msgctxt "Studying Man#am"
+msgid "Who is it...?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "A wolf?";
+msgctxt "Studying Man#am"
+msgid "A wolf?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Or a human?";
+msgctxt "Studying Man#am"
+msgid "Or a human?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You must be seeking\r"
+msgctxt "Studying Man#am"
+msgid "You must be seeking\rsomething, are you not?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "After all...";
+msgctxt "Studying Man#am"
+msgid "After all..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Everyone has desires\r"
+msgctxt "Studying Man#am"
+msgid "Everyone has desires\rto fulfill. Be be careful."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Do not be like the wild\r"
+msgctxt "Studying Man#am"
+msgid "Do not be like the wild\rwolf drawn to the flowers."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "In your efforts to gain something else, you may end up sacrificing something precious to you.";
+msgctxt "Studying Man#am"
+msgid "In your efforts to gain something else, you may end up sacrificing something precious to you."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Cultivating joy and happiness\r"
+msgctxt "Studying Man#am"
+msgid "Cultivating joy and happiness\ris much like cultivating flowers."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "If something is missing, the\r"
+msgctxt "Studying Man#am"
+msgid "If something is missing, the\rflower will wilt away..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What brings you\r"
+msgctxt "Studying Man#am"
+msgid "What brings you\rto this kind of place?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# switch (select("I want to learn how to experiment.", "Tell me more about flowers.", "Nothing.")) {
+msgctxt "Studying Man#am"
+msgid "I want to learn how to experiment."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# switch (select("I want to learn how to experiment.", "Tell me more about flowers.", "Nothing.")) {
+msgctxt "Studying Man#am"
+msgid "Tell me more about flowers."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# switch (select("I want to learn how to experiment.", "Tell me more about flowers.", "Nothing.")) {
+msgctxt "Studying Man#am"
+msgid "Nothing."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You wish to\r"
+msgctxt "Studying Man#am"
+msgid "You wish to\rlearn Alchemy?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Everything I know,\r"
+msgctxt "Studying Man#am"
+msgid "Everything I know,\rI've learned for the\rsake of making my\rdream come true..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I'll teach\r"
+msgctxt "Studying Man#am"
+msgid "I'll teach\ryou the basics..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "But everything you\r"
+msgctxt "Studying Man#am"
+msgid "But everything you\rlearn afterwards must\rbe directed through\ryour own motivations."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I will teach you\r"
+msgctxt "Studying Man#am"
+msgid "I will teach you\rhow to make simple\rmedicine. So please\rbring the following\rmaterials right away."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("^551A8B3 %s^000000,", getitemname(Medicine_Bowl));
+#, c-format
+msgctxt "Studying Man#am"
+msgid "^551A8B3 %s^000000,"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("^551A8B1 %s^000000,", getitemname(Red_Herb));
+#, c-format
+msgctxt "Studying Man#am"
+msgid "^551A8B1 %s^000000,"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("^551A8B1 %s^000000 and", getitemname(Yellow_Herb));
+#, c-format
+msgctxt "Studying Man#am"
+msgid "^551A8B1 %s^000000 and"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("^551A8B1 %s^000000.", getitemname(White_Herb));
+#, c-format
+msgctxt "Studying Man#am"
+msgid "^551A8B1 %s^000000."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Once you have\r"
+msgctxt "Studying Man#am"
+msgid "Once you have\rprepared everything,\rreturn to me."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Flowers...?";
+msgctxt "Studying Man#am"
+msgid "Flowers...?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "In the darkest\r"
+msgctxt "Studying Man#am"
+msgid "In the darkest\rrecesses of my mind,\rthere is a blossum\rthat I faintly remember..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "For the one that\r"
+msgctxt "Studying Man#am"
+msgid "For the one that\rI love, I put all\rof my efforts into\rresearching that one thing."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I won't tell you the details,\r"
+msgctxt "Studying Man#am"
+msgid "I won't tell you the details,\rbut I was basically researching\rthe relationship between\rwolves and flowers."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "But yes...";
+msgctxt "Studying Man#am"
+msgid "But yes..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "It was a flower.";
+msgctxt "Studying Man#am"
+msgid "It was a flower."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "With its shine, it was said\r"
+msgctxt "Studying Man#am"
+msgid "With its shine, it was said\rto let you see paradise."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("The ^551A8B%s^000000...", getitemname(Illusion_Flower));
+#, c-format
+msgctxt "Studying Man#am"
+msgid "The ^551A8B%s^000000..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I even made";
+msgctxt "Studying Man#am"
+msgid "I even made"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "a Homunculus,";
+msgctxt "Studying Man#am"
+msgid "a Homunculus,"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "but no one believed that I could create new life from a flower...";
+msgctxt "Studying Man#am"
+msgid "but no one believed that I could create new life from a flower..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Then...";
+msgctxt "Studying Man#am"
+msgid "Then..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Well, some other things happened, and now I have nothing left. Time no longer has any meaning for me.";
+msgctxt "Studying Man#am"
+msgid "Well, some other things happened, and now I have nothing left. Time no longer has any meaning for me."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ahh...";
+msgctxt "Studying Man#am"
+msgid "Ahh..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Where have you gone?";
+msgctxt "Studying Man#am"
+msgid "Where have you gone?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I hope you're in a field";
+msgctxt "Studying Man#am"
+msgid "I hope you're in a field"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "of beautiful flowers...";
+msgctxt "Studying Man#am"
+msgid "of beautiful flowers..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Consider what";
+msgctxt "Studying Man#am"
+msgid "Consider what"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "is most precious";
+msgctxt "Studying Man#am"
+msgid "is most precious"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "to you. It cannot";
+msgctxt "Studying Man#am"
+msgid "to you. It cannot"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "be protected if you";
+msgctxt "Studying Man#am"
+msgid "be protected if you"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "do not recognize it.";
+msgctxt "Studying Man#am"
+msgid "do not recognize it."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You are the one who\r"
+msgctxt "Studying Man#am"
+msgid "You are the one who\rwishes to learn Alchemy."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Have you prepared everything?";
+msgctxt "Studying Man#am"
+msgid "Have you prepared everything?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Wait.";
+msgctxt "Studying Man#am"
+msgid "Wait."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("That %s.", getitemname(Illusion_Flower));
+#, c-format
+msgctxt "Studying Man#am"
+msgid "That %s."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "How did you get that?";
+msgctxt "Studying Man#am"
+msgid "How did you get that?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Where did you find it?!";
+msgctxt "Studying Man#am"
+msgid "Where did you find it?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "The flower that slowly\r"
+msgctxt "Studying Man#am"
+msgid "The flower that slowly\rblooms under the\rmoonlight?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "It's beautiful...!";
+msgctxt "Studying Man#am"
+msgid "It's beautiful...!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Th-That flower...";
+msgctxt "Studying Man#am"
+msgid "Th-That flower..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Please let me see it.";
+msgctxt "Studying Man#am"
+msgid "Please let me see it."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("The %s!", getitemname(Illusion_Flower));
+#, c-format
+msgctxt "Studying Man#am"
+msgid "The %s!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Uwaaaaaaah!!";
+msgctxt "Studying Man#am"
+msgid "Uwaaaaaaah!!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Would you be so kind\r"
+msgctxt "Studying Man#am"
+msgid "Would you be so kind\ras to let me have this flower?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I'm sure that this is the Moonlight Flower that I've been seeking!";
+msgctxt "Studying Man#am"
+msgid "I'm sure that this is the Moonlight Flower that I've been seeking!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("Sorry, I can't give it to you.", "I brought it to give to you.") == 1) {
+msgctxt "Studying Man#am"
+msgid "Sorry, I can't give it to you."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("Sorry, I can't give it to you.", "I brought it to give to you.") == 1) {
+msgctxt "Studying Man#am"
+msgid "I brought it to give to you."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I understand.";
+msgctxt "Studying Man#am"
+msgid "I understand."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You can't give\r"
+msgctxt "Studying Man#am"
+msgid "You can't give\rsuch a precious\rflower to just anyone."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Well... It's okay.";
+msgctxt "Studying Man#am"
+msgid "Well... It's okay."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "It just brought back old memories. I shouldn't have asked in the first place. In "
+msgctxt "Studying Man#am"
+msgid "It just brought back old memories. I shouldn't have asked in the first place. In any case, please bring what is needed for the experiment."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Please leave that flower\r"
+msgctxt "Studying Man#am"
+msgid "Please leave that flower\rsomewhere else. It brings\rback too many memories..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Are you\r"
+msgctxt "Studying Man#am"
+msgid "Are you\rserious?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Thank you!";
+msgctxt "Studying Man#am"
+msgid "Thank you!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Such a precious flower.";
+msgctxt "Studying Man#am"
+msgid "Such a precious flower."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ah, Harmona, my love...";
+msgctxt "Studying Man#am"
+msgid "Ah, Harmona, my love..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Yes...";
+msgctxt "Studying Man#am"
+msgid "Yes..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I shall repay you for this.";
+msgctxt "Studying Man#am"
+msgid "I shall repay you for this."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I shall plant all of my knowledge of Alchemy directly into your mind...";
+msgctxt "Studying Man#am"
+msgid "I shall plant all of my knowledge of Alchemy directly into your mind..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Open your eyes wide,\r"
+msgctxt "Studying Man#am"
+msgid "Open your eyes wide,\rand look into my eyes!!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Don't stop until the end!!";
+msgctxt "Studying Man#am"
+msgid "Don't stop until the end!!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Lorem ipsum dolor sit amet,";
+msgctxt "Studying Man#am"
+msgid "Lorem ipsum dolor sit amet,"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Lorem ipsum dolor sit amet,\r"
+msgctxt "Studying Man#am"
+msgid "Lorem ipsum dolor sit amet,\rconsectetuer adipiscing elit."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Aenean fermentum ullamcorper.";
+msgctxt "Studying Man#am"
+msgid "Aenean fermentum ullamcorper."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Vestibulum ante ipsum primis in";
+msgctxt "Studying Man#am"
+msgid "Vestibulum ante ipsum primis in"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Vestibulum ante ipsum primis in\r"
+msgctxt "Studying Man#am"
+msgid "Vestibulum ante ipsum primis in\rfaucibus orci luctus et ultrices"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Vestibulum ante ipsum primis in\r"
+msgctxt "Studying Man#am"
+msgid "Vestibulum ante ipsum primis in\rfaucibus orci luctus et ultrices\rposuere cubilia Curae; Morbi"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Vestibulum ante ipsum primis in\r"
+msgctxt "Studying Man#am"
+msgid "Vestibulum ante ipsum primis in\rfaucibus orci luctus et ultrices\rposuere cubilia Curae; Morbi\rmassa, fermentum vitae..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "^666666*Gasp...*^000000";
+msgctxt "Studying Man#am"
+msgid "^666666*Gasp...*^000000"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You are now\r"
+msgctxt "Studying Man#am"
+msgid "You are now\ran Alchemist!!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Go to the Union\r"
+msgctxt "Studying Man#am"
+msgid "Go to the Union\rand cast away the last\rvestiges of Merchant life!!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Seems like you have everything ready. As promised, I will teach you how to make simple "
+msgctxt "Studying Man#am"
+msgid "Seems like you have everything ready. As promised, I will teach you how to make simple medicine."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("First, prepare the %s. Then, you put the Herbs inside, like this, and slowly "
+#, c-format
+msgctxt "Studying Man#am"
+msgid "First, prepare the %s. Then, you put the Herbs inside, like this, and slowly crush them."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Pour small amounts\r"
+msgctxt "Studying Man#am"
+msgid "Pour small amounts\rof clean water and stir\rthe mixture until it thickens."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Afterwards, add some more Herbs.";
+msgctxt "Studying Man#am"
+msgid "Afterwards, add some more Herbs."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "That's how you make it. If you think you have enough, gently pour the mixture into an "
+msgctxt "Studying Man#am"
+msgid "That's how you make it. If you think you have enough, gently pour the mixture into an empty bottle."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "There you go,\r"
+msgctxt "Studying Man#am"
+msgid "There you go,\rit's complete."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Now, make some medicine\r"
+msgctxt "Studying Man#am"
+msgid "Now, make some medicine\rusing the simple procedure\rI just explained to you."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# switch (select(sprintf(_$("Prepare the %s."), getitemname(Medicine_Bowl)),
+#, c-format
+msgctxt "Studying Man#am"
+msgid "Prepare the %s."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# sprintf(_$("Put the %s on your head."), getitemname(Medicine_Bowl)),
+#, c-format
+msgctxt "Studying Man#am"
+msgid "Put the %s on your head."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# sprintf(_$("Kick the %s."), getitemname(Medicine_Bowl)))) {
+#, c-format
+msgctxt "Studying Man#am"
+msgid "Kick the %s."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What...?";
+msgctxt "Studying Man#am"
+msgid "What...?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "No!";
+msgctxt "Studying Man#am"
+msgid "No!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# switch (select(sprintf(_$("Put some dirt in the %s."), getitemname(Medicine_Bowl)),
+#, c-format
+msgctxt "Studying Man#am"
+msgid "Put some dirt in the %s."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# sprintf(_$("Put some Herbs in the %s."), getitemname(Medicine_Bowl)),
+#, c-format
+msgctxt "Studying Man#am"
+msgid "Put some Herbs in the %s."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# sprintf(_$("Put a Harp in the %s."), getitemname(Medicine_Bowl)))) {
+#, c-format
+msgctxt "Studying Man#am"
+msgid "Put a Harp in the %s."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "...Eh!?";
+msgctxt "Studying Man#am"
+msgid "...Eh!?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "That's not\r"
+msgctxt "Studying Man#am"
+msgid "That's not\rmedicine!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "A Harp?";
+msgctxt "Studying Man#am"
+msgid "A Harp?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "And how would\r"
+msgctxt "Studying Man#am"
+msgid "And how would\ryou do that?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# switch (select("Crush the Herbs.",
+msgctxt "Studying Man#am"
+msgid "Crush the Herbs."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# sprintf(_$("Crush the %s."), getitemname(Medicine_Bowl)),
+#, c-format
+msgctxt "Studying Man#am"
+msgid "Crush the %s."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Wh-What are\r"
+msgctxt "Studying Man#am"
+msgid "Wh-What are\ryou doing!?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Agh...!";
+msgctxt "Studying Man#am"
+msgid "Agh...!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What do you\r"
+msgctxt "Studying Man#am"
+msgid "What do you\rthink you're\rdoing?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# switch (select("Spray clean water.",
+msgctxt "Studying Man#am"
+msgid "Spray clean water."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "Drink clean water.",
+msgctxt "Studying Man#am"
+msgid "Drink clean water."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "Pour clean water.")) {
+msgctxt "Studying Man#am"
+msgid "Pour clean water."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Huh?";
+msgctxt "Studying Man#am"
+msgid "Huh?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What are you doing?";
+msgctxt "Studying Man#am"
+msgid "What are you doing?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "W-wait...";
+msgctxt "Studying Man#am"
+msgid "W-wait..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Are you\r"
+msgctxt "Studying Man#am"
+msgid "Are you\rtaking a break?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# switch (select("Continue crushing the Herbs.",
+msgctxt "Studying Man#am"
+msgid "Continue crushing the Herbs."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "Continue eating the Herbs.",
+msgctxt "Studying Man#am"
+msgid "Continue eating the Herbs."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "Continue dancing and singing.")) {
+msgctxt "Studying Man#am"
+msgid "Continue dancing and singing."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Eat the Herbs?";
+msgctxt "Studying Man#am"
+msgid "Eat the Herbs?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I think you need\r"
+msgctxt "Studying Man#am"
+msgid "I think you need\rto focus on the\rtask at hand..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Singing and\r"
+msgctxt "Studying Man#am"
+msgid "Singing and\rdancing? Alchemists\rdon't do that, have\ryou gone crazy?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# switch (select("Put noodles in and fry it.",
+msgctxt "Studying Man#am"
+msgid "Put noodles in and fry it."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "Pour it in an empty bottle.",
+msgctxt "Studying Man#am"
+msgid "Pour it in an empty bottle."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# sprintf(_$("Hold the %s and drink it."), getitemname(Medicine_Bowl)))) {
+#, c-format
+msgctxt "Studying Man#am"
+msgid "Hold the %s and drink it."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "We're Alchemists,\r"
+msgctxt "Studying Man#am"
+msgid "We're Alchemists,\rnot restaurant chefs."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Huh...";
+msgctxt "Studying Man#am"
+msgid "Huh..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Pretty sloppy...";
+msgctxt "Studying Man#am"
+msgid "Pretty sloppy..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You messed up the mixture\r"
+msgctxt "Studying Man#am"
+msgid "You messed up the mixture\rsince you didn't follow the procedure! Get some more ingredients so you can try it again until you get it right."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Good job.";
+msgctxt "Studying Man#am"
+msgid "Good job."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "It came out pretty well considering it's your first time. Go ahead and keep the medicines "
+msgctxt "Studying Man#am"
+msgid "It came out pretty well considering it's your first time. Go ahead and keep the medicines that you've just made."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Now, go into the next room\r"
+msgctxt "Studying Man#am"
+msgid "Now, go into the next room\rand speak to Van Helmont to\rcontinue your training."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Never forget...";
+msgctxt "Studying Man#am"
+msgid "Never forget..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You must always protect\r"
+msgctxt "Studying Man#am"
+msgid "You must always protect\rwhat is most precious to you."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Have you forgotten\r"
+msgctxt "Studying Man#am"
+msgid "Have you forgotten\rwhat you need to bring?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Let me remind you once\r"
+msgctxt "Studying Man#am"
+msgid "Let me remind you once\ragain. You must come\rback with..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Come back\r"
+msgctxt "Studying Man#am"
+msgid "Come back\rwhen you are\rready..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I said to go\r"
+msgctxt "Studying Man#am"
+msgid "I said to go\rto Van Helmont."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I'd like to teach you\r"
+msgctxt "Studying Man#am"
+msgid "I'd like to teach you\rmore, but I can't."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Aah...";
+msgctxt "Studying Man#am"
+msgid "Aah..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Harmona, my love.";
+msgctxt "Studying Man#am"
+msgid "Harmona, my love."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I can't even see the flower anymore. My soul quietly\r"
+msgctxt "Studying Man#am"
+msgid "I can't even see the flower anymore. My soul quietly\rwithers as well.."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I have already given you all of my knowledge and have nothing more\r"
+msgctxt "Studying Man#am"
+msgid "I have already given you all of my knowledge and have nothing more\rto teach you."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Go to the second floor and talk to speak to our Union Leader. Once\r"
+msgctxt "Studying Man#am"
+msgid "Go to the second floor and talk to speak to our Union Leader. Once\ryou do that, your life as an Alchemist will begin."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "When you have";
+msgctxt "Studying Man#am"
+msgid "When you have"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "your dreams, you\r"
+msgctxt "Studying Man#am"
+msgid "your dreams, you\rhave everything."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Not without my love...";
+msgctxt "Studying Man#am"
+msgid "Not without my love..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Not without Harmona...";
+msgctxt "Studying Man#am"
+msgid "Not without Harmona..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "[Van Helmont]";
+msgctxt "Experiment Expert#am"
+msgid "[Van Helmont]"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What do you want?";
+msgctxt "Experiment Expert#am"
+msgid "What do you want?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I'm busy!! Don't\r"
+msgctxt "Experiment Expert#am"
+msgid "I'm busy!! Don't\rbother me and get\ron your way."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Now, come on...";
+msgctxt "Experiment Expert#am"
+msgid "Now, come on..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You'll never get\r"
+msgctxt "Experiment Expert#am"
+msgid "You'll never get\rany research completed if you just slack off. Go out and learn all that you can."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Reading science journals and performing experiments. That's what Alchemy is all about. "
+msgctxt "Experiment Expert#am"
+msgid "Reading science journals and performing experiments. That's what Alchemy is all about. Now, let me get back to work!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Just a little...";
+msgctxt "Experiment Expert#am"
+msgid "Just a little..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "A little bit more...";
+msgctxt "Experiment Expert#am"
+msgid "A little bit more..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Nooo! Just a little\r"
+msgctxt "Experiment Expert#am"
+msgid "Nooo! Just a little\rbit more and it\rwould've been done!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Why...?!";
+msgctxt "Experiment Expert#am"
+msgid "Why...?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Why, another failure?!";
+msgctxt "Experiment Expert#am"
+msgid "Why, another failure?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "My calculations were\r"
+msgctxt "Experiment Expert#am"
+msgid "My calculations were\rall correct! W-Wait...!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Perhaps, if I capacitated the thermal flux by using the neutronic gradient, it just might "
+msgctxt "Experiment Expert#am"
+msgid "Perhaps, if I capacitated the thermal flux by using the neutronic gradient, it just might work...!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Arrrrgh...!";
+msgctxt "Experiment Expert#am"
+msgid "Arrrrgh...!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Why isn't this formula working? What's wrong? In theory, it's all correct, but there must be an "
+msgctxt "Experiment Expert#am"
+msgid "Why isn't this formula working? What's wrong? In theory, it's all correct, but there must be an error in the formula somewhere..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I pour it in here, and it should stop. Wait, this is the wrong solution! How could I make such\r"
+msgctxt "Experiment Expert#am"
+msgid "I pour it in here, and it should stop. Wait, this is the wrong solution! How could I make such\ra dumb mistake?! When did these\rget switched?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Okay, okay...";
+msgctxt "Experiment Expert#am"
+msgid "Okay, okay..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I just need to fix this part.";
+msgctxt "Experiment Expert#am"
+msgid "I just need to fix this part."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "No need to start over. I just\r"
+msgctxt "Experiment Expert#am"
+msgid "No need to start over. I just\rneed to fix it... But wait. Wait..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes ".................";
+msgctxt "Experiment Expert#am"
+msgid "................."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Um...";
+msgctxt "Experiment Expert#am"
+msgid "Um..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Who are you?";
+msgctxt "Experiment Expert#am"
+msgid "Who are you?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("I want to become an Alchemist.", ".......") == 2) {
+msgctxt "Experiment Expert#am"
+msgid "I want to become an Alchemist."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("I want to become an Alchemist.", ".......") == 2) {
+msgctxt "Experiment Expert#am"
+msgid "......."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Hmm...?";
+msgctxt "Experiment Expert#am"
+msgid "Hmm...?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What, did you just want to watch? Fine, fine, but do it quietly and leave right when "
+msgctxt "Experiment Expert#am"
+msgid "What, did you just want to watch? Fine, fine, but do it quietly and leave right when you're done."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Stay out of my way and don't go around touching stuff. There might be some volatile "
+msgctxt "Experiment Expert#am"
+msgid "Stay out of my way and don't go around touching stuff. There might be some volatile materials, so it'd be dangerous to have any accidents."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You...?";
+msgctxt "Experiment Expert#am"
+msgid "You...?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "An Alchemist?";
+msgctxt "Experiment Expert#am"
+msgid "An Alchemist?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What a funny Merchant.";
+msgctxt "Experiment Expert#am"
+msgid "What a funny Merchant."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Well, that's nice, but I have very urgent experiments that require\r"
+msgctxt "Experiment Expert#am"
+msgid "Well, that's nice, but I have very urgent experiments that require\rmy attention, so don't get\rin the way."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("Teach me something.", "...") == 1) {
+msgctxt "Experiment Expert#am"
+msgid "Teach me something."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("Teach me something.", "...") == 1) {
+msgctxt "Experiment Expert#am"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Argh...!";
+msgctxt "Experiment Expert#am"
+msgid "Argh...!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Didn't I just tell you not to bother me? What's so hard to understand about that?";
+msgctxt "Experiment Expert#am"
+msgid "Didn't I just tell you not to bother me? What's so hard to understand about that?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Fine, fine. I'll give you an assignment. Learn something\r"
+msgctxt "Experiment Expert#am"
+msgid "Fine, fine. I'll give you an assignment. Learn something\rnew and come back. Let's see."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What would be good...";
+msgctxt "Experiment Expert#am"
+msgid "What would be good..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Okay, I got it.";
+msgctxt "Experiment Expert#am"
+msgid "Okay, I got it."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("Go learn how to make\r"
+#, c-format
+msgctxt "Experiment Expert#am"
+msgid "Go learn how to make\ra %s and %s\rfrom Molgenstein."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You don't need to bring anything. Just go watch him at work and have him tell you how he "
+msgctxt "Experiment Expert#am"
+msgid "You don't need to bring anything. Just go watch him at work and have him tell you how he makes those solutions. Got it?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Well then, see you later.";
+msgctxt "Experiment Expert#am"
+msgid "Well then, see you later."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You'd better get going as\r"
+msgctxt "Experiment Expert#am"
+msgid "You'd better get going as\rsoon as you can."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "......";
+msgctxt "Experiment Expert#am"
+msgid "......"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "So if I recalibrate the combustion rate of this compound, that should negate any cohesive "
+msgctxt "Experiment Expert#am"
+msgid "So if I recalibrate the combustion rate of this compound, that should negate any cohesive tendencies in this particle flux..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "But what am I going to do\r"
+msgctxt "Experiment Expert#am"
+msgid "But what am I going to do\rabout all of this spontaneous\rcrystallization?! I can't very well remove this matrix, I need it for the catalyst to reach the triple point."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Damn!";
+msgctxt "Experiment Expert#am"
+msgid "Damn!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What am\r"
+msgctxt "Experiment Expert#am"
+msgid "What am\rI going to do?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("Alright, if I make an incision here in the %s, and add a %s and %s solution into the... "
+#, c-format
+msgctxt "Experiment Expert#am"
+msgid "Alright, if I make an incision here in the %s, and add a %s and %s solution into the... Where the hell did my %s go?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Did I use them all at a time like this?! I wonder if Nicholas has any left. Ugh, what a pain. "
+msgctxt "Experiment Expert#am"
+msgid "Did I use them all at a time like this?! I wonder if Nicholas has any left. Ugh, what a pain. Wait. Wait a minute..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("I want to become an Alchemist?", ".......") == 2) {
+msgctxt "Experiment Expert#am"
+msgid "I want to become an Alchemist?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ah, of course. The Merchant from before. So what did you learn from Molgenstein? I didn't just "
+msgctxt "Experiment Expert#am"
+msgid "Ah, of course. The Merchant from before. So what did you learn from Molgenstein? I didn't just send you there for fun, you know."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Let me ask you\r"
+msgctxt "Experiment Expert#am"
+msgid "Let me ask you\rsome questions to\rcheck what you've\rlearned."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("Which item is not\r"
+#, c-format
+msgctxt "Experiment Expert#am"
+msgid "Which item is not\rnecessary to make\ra %s?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("What item is not\r"
+#, c-format
+msgctxt "Experiment Expert#am"
+msgid "What item is not\rnecessary to make\ra %s?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Weren't you listening to Molgenstein at all? Maybe you\r"
+msgctxt "Experiment Expert#am"
+msgid "Weren't you listening to Molgenstein at all? Maybe you\rhave to watch him make it again."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "If you can't tell the exact items that you need in an experiment,\r"
+msgctxt "Experiment Expert#am"
+msgid "If you can't tell the exact items that you need in an experiment,\ryou might end up hurting yourself!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Good, you've learned well.";
+msgctxt "Experiment Expert#am"
+msgid "Good, you've learned well."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Okay, now you know something about experimentation. You're done here, so now I can "
+msgctxt "Experiment Expert#am"
+msgid "Okay, now you know something about experimentation. You're done here, so now I can continue with my experiments."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Go out and find the room next\r"
+msgctxt "Experiment Expert#am"
+msgid "Go out and find the room next\rto this one and talk to Nicholas. He'll continue your training."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What are you\r"
+msgctxt "Experiment Expert#am"
+msgid "What are you\rstill doing here?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Go! We both have\r"
+msgctxt "Experiment Expert#am"
+msgid "Go! We both have\rmore important\rthings to do!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("What item do\r"
+#, c-format
+msgctxt "Experiment Expert#am"
+msgid "What item do\ryou need to make\ra %s?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Be honest. You don't know, do you?! Didn't I say to go to Molgenstein and have him teach "
+msgctxt "Experiment Expert#am"
+msgid "Be honest. You don't know, do you?! Didn't I say to go to Molgenstein and have him teach you?!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Don't even think about coming back until you talk to him! Now stop bothering me and get "
+msgctxt "Experiment Expert#am"
+msgid "Don't even think about coming back until you talk to him! Now stop bothering me and get out of here!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What...?";
+msgctxt "Experiment Expert#am"
+msgid "What...?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I thought I told you to\r"
+msgctxt "Experiment Expert#am"
+msgid "I thought I told you to\rtalk to Nicholas next door?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I need to continue my research,\r"
+msgctxt "Experiment Expert#am"
+msgid "I need to continue my research,\rand you need to finish becoming an Alchemist. Come on, get moving!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "My calculations were\r"
+msgctxt "Experiment Expert#am"
+msgid "My calculations were\rall correct! Wait..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Perhaps, if I capacitated the thermal flux by using the neutronic gradient, it just might "
+msgctxt "Experiment Expert#am"
+msgid "Perhaps, if I capacitated the thermal flux by using the neutronic gradient, it just might work..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "[Vincent Carsciallo]";
+msgctxt "Master Alchemist#am"
+msgid "[Vincent Carsciallo]"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You have transcended...";
+msgctxt "Master Alchemist#am"
+msgid "You have transcended..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Excellent, excellent.";
+msgctxt "Master Alchemist#am"
+msgid "Excellent, excellent."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You don't belong here.";
+msgctxt "Master Alchemist#am"
+msgid "You don't belong here."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Go and explore the wide world, my friend.";
+msgctxt "Master Alchemist#am"
+msgid "Go and explore the wide world, my friend."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Welcome!";
+msgctxt "Master Alchemist#am"
+msgid "Welcome!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "So how is your\r"
+msgctxt "Master Alchemist#am"
+msgid "So how is your\rresearch coming along?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "At times you get results that are unexpected from an experiment. Although these may be "
+msgctxt "Master Alchemist#am"
+msgid "At times you get results that are unexpected from an experiment. Although these may be setbacks in your research, such results can also lead to new discoveries."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "If you discover something new,\r"
+msgctxt "Master Alchemist#am"
+msgid "If you discover something new,\rcome and tell us. Don't forget that we are all working together to unlock the mysteries of science!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Hm...";
+msgctxt "Master Alchemist#am"
+msgid "Hm..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "A Novice?";
+msgctxt "Master Alchemist#am"
+msgid "A Novice?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You shouldn't be\r"
+msgctxt "Master Alchemist#am"
+msgid "You shouldn't be\rplaying in a place\rlike this."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "There are a lot of volatile chemicals and dangerous\r"
+msgctxt "Master Alchemist#am"
+msgid "There are a lot of volatile chemicals and dangerous\rmaterials in this building. It'd be a lot better if you just played outside."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Hmm...?";
+msgctxt "Master Alchemist#am"
+msgid "Hmm...?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "What's an adventurer\r"
+msgctxt "Master Alchemist#am"
+msgid "What's an adventurer\rdoing here in the\rAlchemist Union?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I'm afraid there's\r"
+msgctxt "Master Alchemist#am"
+msgid "I'm afraid there's\rnot much we can offer\ryou here if you're not\ra member of our Union."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "A Merchant?";
+msgctxt "Master Alchemist#am"
+msgid "A Merchant?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Are you interested\r"
+msgctxt "Master Alchemist#am"
+msgid "Are you interested\rin learning Alchemy?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "This is the Alchemist Union.";
+msgctxt "Master Alchemist#am"
+msgid "This is the Alchemist Union."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "We research and experiment with many different substances in order to create new materials "
+msgctxt "Master Alchemist#am"
+msgid "We research and experiment with many different substances in order to create new materials without using magic."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Someday, we hope to unlock\r"
+msgctxt "Master Alchemist#am"
+msgid "Someday, we hope to unlock\rthe secret of life, as well as the other mysteries of science."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "After being traveling as a Merchant for a long time, you must have developed some scientific "
+msgctxt "Master Alchemist#am"
+msgid "After being traveling as a Merchant for a long time, you must have developed some scientific curiosity. If you'd like to learn Alchemy, why don't you try joining the Alchemist Union?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Hmm...you don't seem to be qualified yet.";
+msgctxt "Master Alchemist#am"
+msgid "Hmm...you don't seem to be qualified yet."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Remember, you must reach at least job level 40 to become an Alchemist.";
+msgctxt "Master Alchemist#am"
+msgid "Remember, you must reach at least job level 40 to become an Alchemist."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ah, you're almost\r"
+msgctxt "Master Alchemist#am"
+msgid "Ah, you're almost\rready to become an\rAlchemist, but you must\rfirst allocate your unused\rSkill Points."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Talk to me again\r"
+msgctxt "Master Alchemist#am"
+msgid "Talk to me again\ronce you have spent\rall of your extra\rSkill Points."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ah, well done.";
+msgctxt "Master Alchemist#am"
+msgid "Ah, well done."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I can see that you\r"
+msgctxt "Master Alchemist#am"
+msgid "I can see that you\rhave learned all ofthe basics of Alchemy."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Henceforth, you are\r"
+msgctxt "Master Alchemist#am"
+msgid "Henceforth, you are\rnow a member of our\rillustrious Union."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I hope you learn a lot...";
+msgctxt "Master Alchemist#am"
+msgid "I hope you learn a lot..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Let me give you\r"
+msgctxt "Master Alchemist#am"
+msgid "Let me give you\rsomething special."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You can use this to"
+msgctxt "Master Alchemist#am"
+msgid "You can use this tobegin your lifeof research."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "And...";
+msgctxt "Master Alchemist#am"
+msgid "And..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Here's a little\r"
+msgctxt "Master Alchemist#am"
+msgid "Here's a little\rsomething to help\ryou begin your\rresearch."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I'll see\r"
+msgctxt "Master Alchemist#am"
+msgid "I'll see\ryou later then..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Remember to carry\r"
+msgctxt "Master Alchemist#am"
+msgid "Remember to carry\ryourself with pride\ras an Alchemist!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ah...";
+msgctxt "Master Alchemist#am"
+msgid "Ah..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I believe you've\r"
+msgctxt "Master Alchemist#am"
+msgid "I believe you've\ralready registered\rfor training to become\ran Alchemist."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Please listen to the\r"
+msgctxt "Master Alchemist#am"
+msgid "Please listen to the\rother Alchemists and follow their instructions carefully. You will learn much from them."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "- Wait a minute! -";
+msgctxt "Chief Researcher#am"
+msgid "- Wait a minute! -"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "- Currently you are carrying -";
+msgctxt "Chief Researcher#am"
+msgid "- Currently you are carrying -"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "- too many items with you. -";
+msgctxt "Chief Researcher#am"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "- Please come back again -";
+msgctxt "Chief Researcher#am"
+msgid "- Please come back again -"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "- after you store some items into kafra storage. -";
+msgctxt "Chief Researcher#am"
+msgid "- after you store some items into kafra storage. -"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "[Nicholas Flamel]";
+msgctxt "Chief Researcher#am"
+msgid "[Nicholas Flamel]"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ooh...";
+msgctxt "Chief Researcher#am"
+msgid "Ooh..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You're the upstart\r"
+msgctxt "Chief Researcher#am"
+msgid "You're the upstart\rMerchant that wants\rto become an Alchemist?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Not just anyone can become an Alchemist, you know. You've got to have motivation and "
+msgctxt "Chief Researcher#am"
+msgid "Not just anyone can become an Alchemist, you know. You've got to have motivation and clear goals and a strong sense of focus."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Alchemists must memorize many chemical equations, scientific laws and a lot of other "
+msgctxt "Chief Researcher#am"
+msgid "Alchemists must memorize many chemical equations, scientific laws and a lot of other information. It's actually pretty tough."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "If you can't focus, you'll be confused later when you look at Alchemy charts. My test "
+msgctxt "Chief Researcher#am"
+msgid "If you can't focus, you'll be confused later when you look at Alchemy charts. My test will judge your ability to do just that."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Find the words scrambled\r"
+msgctxt "Chief Researcher#am"
+msgid "Find the words scrambled\rin the group of letters I give you. They can be made by using some\ror all of the letters."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You pass if you\r"
+msgctxt "Chief Researcher#am"
+msgid "You pass if you\rchoose the word\rthat is ^551A8BIN^000000 the puzzle."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "t m y a n y e o b n e g p r i";
+msgctxt "Chief Researcher#am"
+msgid "t m y a n y e o b n e g p r i"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("Brake", "Brass", "Bug", "Broken", "Brigan?") == 5)
+msgctxt "Chief Researcher#am"
+msgid "Brake"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("Brake", "Brass", "Bug", "Broken", "Brigan?") == 5)
+msgctxt "Chief Researcher#am"
+msgid "Brass"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("Brake", "Brass", "Bug", "Broken", "Brigan?") == 5)
+msgctxt "Chief Researcher#am"
+msgid "Bug"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("Brake", "Brass", "Bug", "Broken", "Brigan?") == 5)
+msgctxt "Chief Researcher#am"
+msgid "Broken"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("Brake", "Brass", "Bug", "Broken", "Brigan?") == 5)
+msgctxt "Chief Researcher#am"
+msgid "Brigan?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "o n c u t a p j l e r s v m u";
+msgctxt "Chief Researcher#am"
+msgid "o n c u t a p j l e r s v m u"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("vendor", "storage", "weapon", "simple", "streetshop") == 1)
+msgctxt "Chief Researcher#am"
+msgid "vendor"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("vendor", "storage", "weapon", "simple", "streetshop") == 1)
+msgctxt "Chief Researcher#am"
+msgid "storage"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("vendor", "storage", "weapon", "simple", "streetshop") == 1)
+msgctxt "Chief Researcher#am"
+msgid "weapon"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("vendor", "storage", "weapon", "simple", "streetshop") == 1)
+msgctxt "Chief Researcher#am"
+msgid "simple"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("vendor", "storage", "weapon", "simple", "streetshop") == 1)
+msgctxt "Chief Researcher#am"
+msgid "streetshop"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "t v a r m e g p h e u b o y l";
+msgctxt "Chief Researcher#am"
+msgid "t v a r m e g p h e u b o y l"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("molasses", "party", "leader", "sweets", "treacle") == 2)
+msgctxt "Chief Researcher#am"
+msgid "molasses"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("molasses", "party", "leader", "sweets", "treacle") == 2)
+msgctxt "Chief Researcher#am"
+msgid "party"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("molasses", "party", "leader", "sweets", "treacle") == 2)
+msgctxt "Chief Researcher#am"
+msgid "leader"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("molasses", "party", "leader", "sweets", "treacle") == 2)
+msgctxt "Chief Researcher#am"
+msgid "sweets"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("molasses", "party", "leader", "sweets", "treacle") == 2)
+msgctxt "Chief Researcher#am"
+msgid "treacle"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "q z a h n a i n b r d p t n c";
+msgctxt "Chief Researcher#am"
+msgid "q z a h n a i n b r d p t n c"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("partisan", "partizan", "pato", "paros", "pack") == 2)
+msgctxt "Chief Researcher#am"
+msgid "partisan"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("partisan", "partizan", "pato", "paros", "pack") == 2)
+msgctxt "Chief Researcher#am"
+msgid "partizan"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("partisan", "partizan", "pato", "paros", "pack") == 2)
+msgctxt "Chief Researcher#am"
+msgid "pato"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("partisan", "partizan", "pato", "paros", "pack") == 2)
+msgctxt "Chief Researcher#am"
+msgid "paros"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("partisan", "partizan", "pato", "paros", "pack") == 2)
+msgctxt "Chief Researcher#am"
+msgid "pack"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "m p d i c f a r o g n k w a s";
+msgctxt "Chief Researcher#am"
+msgid "m p d i c f a r o g n k w a s"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("packman", "sunshine", "ragnarok", "wonderland", "frost") == 1)
+msgctxt "Chief Researcher#am"
+msgid "packman"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("packman", "sunshine", "ragnarok", "wonderland", "frost") == 1)
+msgctxt "Chief Researcher#am"
+msgid "sunshine"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("packman", "sunshine", "ragnarok", "wonderland", "frost") == 1)
+msgctxt "Chief Researcher#am"
+msgid "ragnarok"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("packman", "sunshine", "ragnarok", "wonderland", "frost") == 1)
+msgctxt "Chief Researcher#am"
+msgid "wonderland"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("packman", "sunshine", "ragnarok", "wonderland", "frost") == 1)
+msgctxt "Chief Researcher#am"
+msgid "frost"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "g b n o p r e f a r e t a s k";
+msgctxt "Chief Researcher#am"
+msgid "g b n o p r e f a r e t a s k"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("purple", "smoker", "ragnarok", "bolt", "burnt wood") == 3)
+msgctxt "Chief Researcher#am"
+msgid "purple"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("purple", "smoker", "ragnarok", "bolt", "burnt wood") == 3)
+msgctxt "Chief Researcher#am"
+msgid "smoker"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("purple", "smoker", "ragnarok", "bolt", "burnt wood") == 3)
+msgctxt "Chief Researcher#am"
+msgid "bolt"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("purple", "smoker", "ragnarok", "bolt", "burnt wood") == 3)
+msgctxt "Chief Researcher#am"
+msgid "burnt wood"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "u g n i s j e k c e o g n d p";
+msgctxt "Chief Researcher#am"
+msgid "u g n i s j e k c e o g n d p"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("scab", "kinship", "donate", "source", "opening") == 5)
+msgctxt "Chief Researcher#am"
+msgid "scab"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("scab", "kinship", "donate", "source", "opening") == 5)
+msgctxt "Chief Researcher#am"
+msgid "kinship"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("scab", "kinship", "donate", "source", "opening") == 5)
+msgctxt "Chief Researcher#am"
+msgid "donate"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("scab", "kinship", "donate", "source", "opening") == 5)
+msgctxt "Chief Researcher#am"
+msgid "source"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("scab", "kinship", "donate", "source", "opening") == 5)
+msgctxt "Chief Researcher#am"
+msgid "opening"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "r o e h n r o m c a i n p t t";
+msgctxt "Chief Researcher#am"
+msgid "r o e h n r o m c a i n p t t"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("forgemerchant",
+msgctxt "Chief Researcher#am"
+msgid "forgemerchant"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "potionmerchant",
+msgctxt "Chief Researcher#am"
+msgid "potionmerchant"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "dcmerchant",
+msgctxt "Chief Researcher#am"
+msgid "dcmerchant"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "vendingmerchant",
+msgctxt "Chief Researcher#am"
+msgid "vendingmerchant"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# "battlemerchant") == 2)
+msgctxt "Chief Researcher#am"
+msgid "battlemerchant"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "s m i e x b w u n e t a g l r";
+msgctxt "Chief Researcher#am"
+msgid "s m i e x b w u n e t a g l r"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("tiger", "wolf", "pumpkin", "tripped", "tore") == 1)
+msgctxt "Chief Researcher#am"
+msgid "tiger"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("tiger", "wolf", "pumpkin", "tripped", "tore") == 1)
+msgctxt "Chief Researcher#am"
+msgid "wolf"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("tiger", "wolf", "pumpkin", "tripped", "tore") == 1)
+msgctxt "Chief Researcher#am"
+msgid "pumpkin"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("tiger", "wolf", "pumpkin", "tripped", "tore") == 1)
+msgctxt "Chief Researcher#am"
+msgid "tripped"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("tiger", "wolf", "pumpkin", "tripped", "tore") == 1)
+msgctxt "Chief Researcher#am"
+msgid "tore"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "n i e g b o p d s o a u w r v";
+msgctxt "Chief Researcher#am"
+msgid "n i e g b o p d s o a u w r v"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("bash", "provoke", "endure", "stun", "abracadabra") == 3)
+msgctxt "Chief Researcher#am"
+msgid "bash"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("bash", "provoke", "endure", "stun", "abracadabra") == 3)
+msgctxt "Chief Researcher#am"
+msgid "provoke"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("bash", "provoke", "endure", "stun", "abracadabra") == 3)
+msgctxt "Chief Researcher#am"
+msgid "endure"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("bash", "provoke", "endure", "stun", "abracadabra") == 3)
+msgctxt "Chief Researcher#am"
+msgid "stun"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("bash", "provoke", "endure", "stun", "abracadabra") == 3)
+msgctxt "Chief Researcher#am"
+msgid "abracadabra"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "l r m g r e x t a v i n e d e";
+msgctxt "Chief Researcher#am"
+msgid "l r m g r e x t a v i n e d e"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("alberta", "latifoliate", "crimson", "maple", "evergreen") == 5)
+msgctxt "Chief Researcher#am"
+msgid "alberta"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("alberta", "latifoliate", "crimson", "maple", "evergreen") == 5)
+msgctxt "Chief Researcher#am"
+msgid "latifoliate"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("alberta", "latifoliate", "crimson", "maple", "evergreen") == 5)
+msgctxt "Chief Researcher#am"
+msgid "crimson"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("alberta", "latifoliate", "crimson", "maple", "evergreen") == 5)
+msgctxt "Chief Researcher#am"
+msgid "maple"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# if (select("alberta", "latifoliate", "crimson", "maple", "evergreen") == 5)
+msgctxt "Chief Researcher#am"
+msgid "evergreen"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ah, you finished.";
+msgctxt "Chief Researcher#am"
+msgid "Ah, you finished."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Now, let's see...";
+msgctxt "Chief Researcher#am"
+msgid "Now, let's see..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Excellent job!";
+msgctxt "Chief Researcher#am"
+msgid "Excellent job!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Great, you found all of those hidden words. With that kind of concentration, you should "
+msgctxt "Chief Researcher#am"
+msgid "Great, you found all of those hidden words. With that kind of concentration, you should have no problem memorizing information."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Come back in a little bit while\r"
+msgctxt "Chief Researcher#am"
+msgid "Come back in a little bit while\rI prepare the next assignment\rfor your training."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Oh, and before you talk to\r"
+msgctxt "Chief Researcher#am"
+msgid "Oh, and before you talk to\rme again, make sure you have\r^551A8Bplenty of room in your inventory^000000."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "^666666*Gasp!*^000000 H-horrible!";
+msgctxt "Chief Researcher#am"
+msgid "^666666*Gasp!*^000000 H-horrible!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Judging from these results, you obviously have a problem with concentrating.";
+msgctxt "Chief Researcher#am"
+msgid "Judging from these results, you obviously have a problem with concentrating."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "If you can't even solve these easy word puzzles, how can you keep track of your "
+msgctxt "Chief Researcher#am"
+msgid "If you can't even solve these easy word puzzles, how can you keep track of your experiments and research?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Why don't you relax\r"
+msgctxt "Chief Researcher#am"
+msgid "Why don't you relax\rand rest a bit before\ryou take the test again?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Whoa...";
+msgctxt "Chief Researcher#am"
+msgid "Whoa..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "You're carrying too much stuff! First, put some of your things in Kafra Storage.";
+msgctxt "Chief Researcher#am"
+msgid "You're carrying too much stuff! First, put some of your things in Kafra Storage."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Alright...";
+msgctxt "Chief Researcher#am"
+msgid "Alright..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "For your next\r"
+msgctxt "Chief Researcher#am"
+msgid "For your next\rassignment, you'll\rneed to travel to ^551A8BJuno^000000."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "There, you'll need to talk to ^551A8BBain^000000 and ^551A8BBajin^000000. Those two are doing "
+msgctxt "Chief Researcher#am"
+msgid "There, you'll need to talk to ^551A8BBain^000000 and ^551A8BBajin^000000. Those two are doing Alchemy research with the Sages\rin Juno. You'll learn something by assisting them with their project."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Come back here to me after you\r"
+msgctxt "Chief Researcher#am"
+msgid "Come back here to me after you\rhelp them out. They'll need all of these items to continue their experiments."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("1 %s,", getitemname(Mixture));
+#, c-format
+msgctxt "Chief Researcher#am"
+msgid "1 %s,"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("5 %s,", getitemname(Burn_Tree));
+#, c-format
+msgctxt "Chief Researcher#am"
+msgid "5 %s,"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("3 %s", getitemname(Oridecon_Stone));
+#, c-format
+msgctxt "Chief Researcher#am"
+msgid "3 %s"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mesf("and 3 %s.", getitemname(Elunium_Stone));
+#, c-format
+msgctxt "Chief Researcher#am"
+msgid "and 3 %s."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Alright.";
+msgctxt "Chief Researcher#am"
+msgid "Alright."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Have a safe trip\r"
+msgctxt "Chief Researcher#am"
+msgid "Have a safe trip\rand come back in\rone piece."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Didn't I say to\r"
+msgctxt "Chief Researcher#am"
+msgid "Didn't I say to\rgo to Juno and help\rBain and Bajin with\rtheir Alchemy research?"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Ah, you're back!";
+msgctxt "Chief Researcher#am"
+msgid "Ah, you're back!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "I just got a message from Bain\r"
+msgctxt "Chief Researcher#am"
+msgid "I just got a message from Bain\rand Bajin. They let me know that they were very happy with your assistance."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "If you were good enough\r"
+msgctxt "Chief Researcher#am"
+msgid "If you were good enough\rto help out those brothers,\ryou definitely qualify to be\ran Alchemist."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Good work!";
+msgctxt "Chief Researcher#am"
+msgid "Good work!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "All you have to do now is speak to the Union Leader on the 2nd floor! Congratulations, you'll "
+msgctxt "Chief Researcher#am"
+msgid "All you have to do now is speak to the Union Leader on the 2nd floor! Congratulations, you'll become an Alchemist very soon!"
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Lorem ipsum dolor sit amet,\r"
+msgctxt "Chief Researcher#am"
+msgid "Lorem ipsum dolor sit amet,\rconsectetuer adipiscing elit.\rVivamus sem. Sed metus\rlacus, viverra id, rutrum eget,\rrhoncus sit amet, lectus."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "Suspendisse sit amet urna in\r"
+msgctxt "Chief Researcher#am"
+msgid "Suspendisse sit amet urna in\rnisl fringilla faucibus. Nulla scelerisque eros..."
+msgstr ""
+
+#: npc/jobs/2-2/alchemist.txt
+# mes "^666666*Mumble Mumble*^000000";
+msgctxt "Chief Researcher#am"
+msgid "^666666*Mumble Mumble*^000000"
+msgstr ""

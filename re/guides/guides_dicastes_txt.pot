@@ -1,0 +1,332 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "[Traveler Ichack]";
+msgctxt "Traveler Ichack#info"
+msgid "[Traveler Ichack]"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Oh!! You are a stranger!";
+msgctxt "Traveler Ichack#info"
+msgid "Oh!! You are a stranger!"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "I'm Ichack, the first adventurer that arrived here in El Dicastes!";
+msgctxt "Traveler Ichack#info"
+msgid "I'm Ichack, the first adventurer that arrived here in El Dicastes!"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "There was someone in the expedition team claiming that he was the first, but it WAS me. That's right.";
+msgctxt "Traveler Ichack#info"
+msgid "There was someone in the expedition team claiming that he was the first, but it WAS me. That's right."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "That's why I will provide a service to guide adventurers from Rune-Midgard.";
+msgctxt "Traveler Ichack#info"
+msgid "That's why I will provide a service to guide adventurers from Rune-Midgard."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "What would you like to know?";
+msgctxt "Traveler Ichack#info"
+msgid "What would you like to know?"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# switch(select("Dicastes Diel", "Residential Area", "Training Room", "Factory", "Pub", "Cat Hand Caravan")) {
+msgctxt "Traveler Ichack#info"
+msgid "Dicastes Diel"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# switch(select("Dicastes Diel", "Residential Area", "Training Room", "Factory", "Pub", "Cat Hand Caravan")) {
+msgctxt "Traveler Ichack#info"
+msgid "Residential Area"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# switch(select("Dicastes Diel", "Residential Area", "Training Room", "Factory", "Pub", "Cat Hand Caravan")) {
+msgctxt "Traveler Ichack#info"
+msgid "Training Room"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# switch(select("Dicastes Diel", "Residential Area", "Training Room", "Factory", "Pub", "Cat Hand Caravan")) {
+msgctxt "Traveler Ichack#info"
+msgid "Factory"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# switch(select("Dicastes Diel", "Residential Area", "Training Room", "Factory", "Pub", "Cat Hand Caravan")) {
+msgctxt "Traveler Ichack#info"
+msgid "Pub"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# switch(select("Dicastes Diel", "Residential Area", "Training Room", "Factory", "Pub", "Cat Hand Caravan")) {
+msgctxt "Traveler Ichack#info"
+msgid "Cat Hand Caravan"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Ah~ That's a beautiful building.";
+msgctxt "Traveler Ichack#info"
+msgid "Ah~ That's a beautiful building."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "It's said they discuss important things...";
+msgctxt "Traveler Ichack#info"
+msgid "It's said they discuss important things..."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Please make sure you signed in at the "+F_Navi("Diel","dicastes01,198,351")+", otherwise you'll get in trouble.";
+msgctxt "Traveler Ichack#info"
+msgid "Please make sure you signed in at the "
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Please make sure you signed in at the "+F_Navi("Diel","dicastes01,198,351")+", otherwise you'll get in trouble.";
+msgctxt "Traveler Ichack#info"
+msgid "Diel"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Please make sure you signed in at the "+F_Navi("Diel","dicastes01,198,351")+", otherwise you'll get in trouble.";
+msgctxt "Traveler Ichack#info"
+msgid "dicastes01,198,351"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Please make sure you signed in at the "+F_Navi("Diel","dicastes01,198,351")+", otherwise you'll get in trouble.";
+msgctxt "Traveler Ichack#info"
+msgid ", otherwise you'll get in trouble."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Go directly north from here and you can't miss it.";
+msgctxt "Traveler Ichack#info"
+msgid "Go directly north from here and you can't miss it."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "The Sapha tribe is so weird. How can they sleep in there?";
+msgctxt "Traveler Ichack#info"
+msgid "The Sapha tribe is so weird. How can they sleep in there?"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "You don't understand?";
+msgctxt "Traveler Ichack#info"
+msgid "You don't understand?"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "You won't believe me until you see it! Go see it for yourself!";
+msgctxt "Traveler Ichack#info"
+msgid "You won't believe me until you see it! Go see it for yourself!"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "The residential area is divided into 2 areas.";
+msgctxt "Traveler Ichack#info"
+msgid "The residential area is divided into 2 areas."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "The "+F_Navi("lower residential area","dicastes01,136,106")+" is around 7 o'clock, and the ";
+msgctxt "Traveler Ichack#info"
+msgid "The "
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "The "+F_Navi("lower residential area","dicastes01,136,106")+" is around 7 o'clock, and the ";
+msgctxt "Traveler Ichack#info"
+msgid "lower residential area"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "The "+F_Navi("lower residential area","dicastes01,136,106")+" is around 7 o'clock, and the ";
+msgctxt "Traveler Ichack#info"
+msgid "dicastes01,136,106"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "The "+F_Navi("lower residential area","dicastes01,136,106")+" is around 7 o'clock, and the ";
+msgctxt "Traveler Ichack#info"
+msgid " is around 7 o'clock, and the "
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes F_Navi("upper area","dicastes01,280,283")+" is around 1 o'clock.";
+msgctxt "Traveler Ichack#info"
+msgid "upper area"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes F_Navi("upper area","dicastes01,280,283")+" is around 1 o'clock.";
+msgctxt "Traveler Ichack#info"
+msgid "dicastes01,280,283"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes F_Navi("upper area","dicastes01,280,283")+" is around 1 o'clock.";
+msgctxt "Traveler Ichack#info"
+msgid " is around 1 o'clock."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Because of the dangers here, we need better security...";
+msgctxt "Traveler Ichack#info"
+msgid "Because of the dangers here, we need better security..."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Have you ever been to the ";
+msgctxt "Traveler Ichack#info"
+msgid "Have you ever been to the "
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes F_Navi("training room","dicastes01,255,172")+"? The training guards seem to never sleep!";
+msgctxt "Traveler Ichack#info"
+msgid "training room"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes F_Navi("training room","dicastes01,255,172")+"? The training guards seem to never sleep!";
+msgctxt "Traveler Ichack#info"
+msgid "dicastes01,255,172"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes F_Navi("training room","dicastes01,255,172")+"? The training guards seem to never sleep!";
+msgctxt "Traveler Ichack#info"
+msgid "? The training guards seem to never sleep!"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "This is one of the most important reasons why they live here.";
+msgctxt "Traveler Ichack#info"
+msgid "This is one of the most important reasons why they live here."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "If you go to the "+F_Navi("factory","dicastes01,97,256")+", you can see the recently refined Bradium.";
+msgctxt "Traveler Ichack#info"
+msgid "If you go to the "
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "If you go to the "+F_Navi("factory","dicastes01,97,256")+", you can see the recently refined Bradium.";
+msgctxt "Traveler Ichack#info"
+msgid "factory"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "If you go to the "+F_Navi("factory","dicastes01,97,256")+", you can see the recently refined Bradium.";
+msgctxt "Traveler Ichack#info"
+msgid "dicastes01,97,256"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "If you go to the "+F_Navi("factory","dicastes01,97,256")+", you can see the recently refined Bradium.";
+msgctxt "Traveler Ichack#info"
+msgid ", you can see the recently refined Bradium."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Although I arrived here as the first adventurer, the owner of the pub was the first person here.";
+msgctxt "Traveler Ichack#info"
+msgid "Although I arrived here as the first adventurer, the owner of the pub was the first person here."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes F_Navi("Bumen Florine's pub","dicastes01,136,106")+" is located underground in the lower residential area.";
+msgctxt "Traveler Ichack#info"
+msgid "Bumen Florine's pub"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes F_Navi("Bumen Florine's pub","dicastes01,136,106")+" is located underground in the lower residential area.";
+msgctxt "Traveler Ichack#info"
+msgid " is located underground in the lower residential area."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "He might have some valuable information for you.";
+msgctxt "Traveler Ichack#info"
+msgid "He might have some valuable information for you."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "The "+F_Navi("cats","dicastes01,199,39")+" don't seem to have a good relationship with the Sapha like we do.";
+msgctxt "Traveler Ichack#info"
+msgid "cats"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "The "+F_Navi("cats","dicastes01,199,39")+" don't seem to have a good relationship with the Sapha like we do.";
+msgctxt "Traveler Ichack#info"
+msgid "dicastes01,199,39"
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "The "+F_Navi("cats","dicastes01,199,39")+" don't seem to have a good relationship with the Sapha like we do.";
+msgctxt "Traveler Ichack#info"
+msgid " don't seem to have a good relationship with the Sapha like we do."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Perhaps it's because trading is involved.";
+msgctxt "Traveler Ichack#info"
+msgid "Perhaps it's because trading is involved."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "Poor cats. They must be shivering from the cold out there.";
+msgctxt "Traveler Ichack#info"
+msgid "Poor cats. They must be shivering from the cold out there."
+msgstr ""
+
+#: npc/re/guides/guides_dicastes.txt
+# mes "You can find their caravan just outside the gates.";
+msgctxt "Traveler Ichack#info"
+msgid "You can find their caravan just outside the gates."
+msgstr ""

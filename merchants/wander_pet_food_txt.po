@@ -1,0 +1,201 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 13:39-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Pet Enthusiast Jenny]";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "[Pet Enthusiast Jenny]"
+msgstr "[Pet Enthusiast Jenny]"
+
+# mes "Oh, Hi there!";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "Oh, Hi there!"
+msgstr "Oh, olá!"
+
+# mes "Are you a lover of animals like I am?";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "Are you a lover of animals like I am?"
+msgstr "Você é um amante de animais como eu sou?"
+
+# mes "I know that it's really hard to keep your cute pets happy.";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "I know that it's really hard to keep your cute pets happy."
+msgstr ""
+"Eu sei que é realmente difícil manter seus animais de estimação bonitinhos "
+"felizes."
+
+# mes "All it takes is the right kind of food.";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "All it takes is the right kind of food."
+msgstr "Basta apenas o tipo certo de alimento."
+
+# mes "I know that sometimes it is really hard to get the right food for your pet.";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid ""
+"I know that sometimes it is really hard to get the right food for your pet."
+msgstr ""
+"Eu sei que às vezes é realmente difícil conseguir o alimento certo para seu "
+"animal de estimação."
+
+# mes "Do you have any food that you are looking for?";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "Do you have any food that you are looking for?"
+msgstr "Você tem algum alimento que está procurando?"
+
+# switch(select("Yes", "No")) {
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "Yes"
+msgstr "Sim"
+
+# switch(select("Yes", "No")) {
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "No"
+msgstr "Não"
+
+# mes "Oh, you have ^ff000020 Broken Liquor Jar^000000s and ^ff00001 Alcohol^000000!";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid ""
+"Oh, you have ^ff000020 Broken Liquor Jar^000000s and ^ff00001 Alcohol^000000!"
+msgstr ""
+"Oh, você tem ^ff000020 Jarra de licor quebrada ^000000s e ^ff00001 Álcool "
+"^000000!"
+
+# mes "Do you want to exchange them for";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "Do you want to exchange them for"
+msgstr "Você quer trocá-los por"
+
+# mes "^ff000020 Spirit Liquor^000000 for your Wanderer pet?";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "^ff000020 Spirit Liquor^000000 for your Wanderer pet?"
+msgstr "^ff000020 Spirit Liquor^000000 para seu animal de estimação Wanderer?"
+
+# switch(select("Yes, please!", "No thank you.")) {
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "Yes, please!"
+msgstr "Sim, por favor!"
+
+# switch(select("Yes, please!", "No thank you.")) {
+#: npc/merchants/wander_pet_food.txt
+msgctxt "Pet Enthusiast"
+msgid "No thank you."
+msgstr "Não, obrigado."
+
+# mes "Ok here you go then.";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "Ok here you go then."
+msgstr "Ok, aqui vai você então."
+
+# mes "I hope it keeps your";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "I hope it keeps your"
+msgstr "Espero que mantenha seu"
+
+# mes "cute pet happy.";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "cute pet happy."
+msgstr "animal de estimação bonito e feliz."
+
+# mes "Hehe, well just let me know if you change your mind.";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "Hehe, well just let me know if you change your mind."
+msgstr "Hehe, bem, me avise se você mudar de idéia."
+
+# mes "Actually, right now I can help you get Spirit Liquor for Wanderer pets.";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "Actually, right now I can help you get Spirit Liquor for Wanderer pets."
+msgstr ""
+"Na verdade, neste momento eu posso ajudá-lo a obter o Licor Espiritual para "
+"animais de estimação Wanderer."
+
+# mes "All you have to do is bring me ^FF0000 20 Broken Liquor Jars^000000 and ^FF0000 1 Alcohol^000000.";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid ""
+"All you have to do is bring me ^FF0000 20 Broken Liquor Jars^000000 and "
+"^FF0000 1 Alcohol^000000."
+msgstr ""
+"Tudo que você tem que fazer é me trazer ^FF0000 20 Boiões de Licor "
+"Quebrado^000000 e ^FF000000 1 Álcool^000000."
+
+# mes "I can give you ^FF0000 20 Spirit Liquor^000000 for that.";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid "I can give you ^FF0000 20 Spirit Liquor^000000 for that."
+msgstr "Eu posso lhe dar ^FF0000 20 Spirit Liquor^000000 para isso."
+
+# mes "You can get the Broken Liquor Jars from Tengu monsters in Amatsu dungeon.";
+#: npc/merchants/wander_pet_food.txt
+#, fuzzy
+msgctxt "Pet Enthusiast"
+msgid ""
+"You can get the Broken Liquor Jars from Tengu monsters in Amatsu dungeon."
+msgstr ""
+"Você pode obter os frascos de licor quebrado dos monstros Tengu nas "
+"masmorras de Amatsu."

@@ -1,0 +1,380 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/battleground/flavius/flavius02.txt
+# waitingroom(_("Battle Station"), 11, "start#bat_b02::OnReadyCheck", 1, 0, 80);
+msgctxt "Lieutenant Huvas"
+msgid "Battle Station"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# waitingroom(_("Battle Station"), 11, "start#bat_b02::OnReadyCheck", 1, 0, 80);
+msgctxt "Lieutenant Yukon"
+msgid "Battle Station"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("Guillaume's Crystal has been destroyed."), bc_map, "0xFFCE00");
+msgctxt "OBJ#bat_b02_a"
+msgid "Guillaume's Crystal has been destroyed."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# bg_monster($@FlaviusBG2_id2, "bat_b02", 328, 150, _("Blue Crystal"), 1914, "OBJ#bat_b02_b::OnMyMobDead");
+msgctxt "OBJ#bat_b02_b"
+msgid "Blue Crystal"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("Croix's Crystal has been destroyed."), bc_map, "0xFFCE00");
+msgctxt "OBJ#bat_b02_b"
+msgid "Croix's Crystal has been destroyed."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# bg_monster($@FlaviusBG2_id1, "bat_b02", 108, 159, _("Guillaume Camp Guardian"), 1949, "guardian#bat_b02_a::OnMyMobDead");
+msgctxt "guardian#bat_b02_a"
+msgid "Guillaume Camp Guardian"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("The Guardian protecting Guillaume's Crystal has been slain."), bc_map, "0xFFCE00");
+msgctxt "guardian#bat_b02_a"
+msgid "The Guardian protecting Guillaume's Crystal has been slain."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# bg_monster($@FlaviusBG2_id2, "bat_b02", 307, 160, _("Croix Camp Guardian"), 1949, "guardian#bat_b02_b::OnMyMobDead");
+msgctxt "guardian#bat_b02_b"
+msgid "Croix Camp Guardian"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("The Guardian protecting Croix's Crystal has been slain."), bc_map, "0xFFCE00");
+msgctxt "guardian#bat_b02_b"
+msgid "The Guardian protecting Croix's Crystal has been slain."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("[Battle Therapist]");
+msgctxt "Battle Therapist#b02_a"
+msgid "[Battle Therapist]"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Just close your eyes,\r"
+msgctxt "Battle Therapist#b02_a"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("You can be free from pain.");
+msgctxt "Battle Therapist#b02_a"
+msgid "You can be free from pain."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("[Battle Therapist]");
+msgctxt "Battle Therapist#b02_b"
+msgid "[Battle Therapist]"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Just close your eyes,\r"
+msgctxt "Battle Therapist#b02_b"
+msgid "Just close your eyes,\rand take a deep breath."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("You can be free from pain.");
+msgctxt "Battle Therapist#b02_b"
+msgid "You can be free from pain."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("[Axl Rose]");
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "[Axl Rose]"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Blessed Guillaume!");
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "Blessed Guillaume!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Let's enjoy our glorious victory!");
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("You lost, but you're dedicated to this battle.");
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "You lost, but you're dedicated to this battle."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Just take this defeat as a lesson, next time you will definitely win.");
+msgctxt "Guillaume Vintenar#b02_a"
+msgid "Just take this defeat as a lesson, next time you will definitely win."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("[Swandery]");
+msgctxt "Croix Vintenar#b02_b"
+msgid "[Swandery]"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Blessed Croix!");
+msgctxt "Croix Vintenar#b02_b"
+msgid "Blessed Croix!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Let's enjoy our glorious victory!");
+msgctxt "Croix Vintenar#b02_b"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Croix Vintenar#b02_b"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mesf("Oh, %s. Don't be sad.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Croix Vintenar#b02_b"
+msgid "Oh, %s. Don't be sad."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Even though we didn't win, we did our best.");
+msgctxt "Croix Vintenar#b02_b"
+msgid "Even though we didn't win, we did our best."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+msgctxt "Croix Vintenar#b02_b"
+msgid "This is a Royal gift from Croix, and please don't forget this battle. We will win the next one."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("Guillaume Vintenar Axl Rose : Let's attack to destroy that Crystal!"), bc_map, "0xFF9900");
+msgctxt "countdown#bat_b02"
+msgid "Guillaume Vintenar Axl Rose : Let's attack to destroy that Crystal!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("Croix Vintenar Swandery : Even though Guillaume is struggling to win against us, the victory is ours. Let's show them our power."), bc_map, "0xFF99CC");
+msgctxt "countdown#bat_b02"
+msgid "Croix Vintenar Swandery : Even though Guillaume is struggling to win against us, the victory is ours. Let's show them our power."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("Marollo VII : Guillaume Marollo, Croix Marollo! And their followers!"), bc_map, "0x99CC00");
+msgctxt "countdown#bat_b02"
+msgid "Marollo VII : Guillaume Marollo, Croix Marollo! And their followers!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("Marollo VII : Both camps are competitive, so it's hard to judge which team is superior."), bc_map, "0x99CC00");
+msgctxt "countdown#bat_b02"
+msgid "Marollo VII : Both camps are competitive, so it's hard to judge which team is superior."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("Marollo VII : This battle of Flavian is such a waste of time. I will decide victory and defeat by your progress."), bc_map, "0x99CC00");
+msgctxt "countdown#bat_b02"
+msgid "Marollo VII : This battle of Flavian is such a waste of time. I will decide victory and defeat by your progress."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("Marollo VII : If you can't accept the results, try again in another valley battle!"), bc_map, "0x99CC00");
+msgctxt "countdown#bat_b02"
+msgid "Marollo VII : If you can't accept the results, try again in another valley battle!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mapannounce("bat_b02", _("Axl Rose, Swandery : Yes, sir."), bc_map, "0x99CC00");
+msgctxt "countdown#bat_b02"
+msgid "Axl Rose, Swandery : Yes, sir."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("[Axl Rose]");
+msgctxt "Vintenar#bat_b02_aover"
+msgid "[Axl Rose]"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Blessed Guillaume!");
+msgctxt "Vintenar#bat_b02_aover"
+msgid "Blessed Guillaume!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Let's enjoy our glorious victory!");
+msgctxt "Vintenar#bat_b02_aover"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Vintenar#bat_b02_aover"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("You lost, but you're dedicated to this battle.");
+msgctxt "Vintenar#bat_b02_aover"
+msgid "You lost, but you're dedicated to this battle."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("This is a reward for your great dedication by Guillaume Marollo!");
+msgctxt "Vintenar#bat_b02_aover"
+msgid "This is a reward for your great dedication by Guillaume Marollo!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Just take this defeat as a lesson, next time you will definitely win.");
+msgctxt "Vintenar#bat_b02_aover"
+msgid "Just take this defeat as a lesson, next time you will definitely win."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Why are you here, Croix mercenary? I am definitely sure of victory against foolish Croix such as you. Ha!");
+msgctxt "Vintenar#bat_b02_aover"
+msgid "Why are you here, Croix mercenary? I am definitely sure of victory against foolish Croix such as you. Ha!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("[Swandery]");
+msgctxt "Vintenar#bat_b02_bover"
+msgid "[Swandery]"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mesf("Oh, %s. Don't be sad.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Vintenar#bat_b02_bover"
+msgid "Oh, %s. Don't be sad."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Even though we didn't win, we did our best.");
+msgctxt "Vintenar#bat_b02_bover"
+msgid "Even though we didn't win, we did our best."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("This is a Royal gift from Croix, and please don't forget this battle. We will win the next one.");
+msgctxt "Vintenar#bat_b02_bover"
+msgid "This is a Royal gift from Croix, and please don't forget this battle. We will win the next one."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Blessed Croix!");
+msgctxt "Vintenar#bat_b02_bover"
+msgid "Blessed Croix!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Let's enjoy our glorious victory!");
+msgctxt "Vintenar#bat_b02_bover"
+msgid "Let's enjoy our glorious victory!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mesf("%s, it's a sign reflecting victory.", strcharinfo(PC_NAME));
+#, c-format
+msgctxt "Vintenar#bat_b02_bover"
+msgid "%s, it's a sign reflecting victory."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Why do you come here as a Guillaume? You will be sent to where you should be!");
+msgctxt "Vintenar#bat_b02_bover"
+msgid "Why do you come here as a Guillaume? You will be sent to where you should be!"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Cancelled.");
+msgctxt "Release all#b02"
+msgid "Cancelled."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("May I help you?");
+msgctxt "Release all#b02"
+msgid "May I help you?"
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# switch(select("Release all.", "Cancel.")) {
+msgctxt "Release all#b02"
+msgid "Release all."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# switch(select("Release all.", "Cancel.")) {
+msgctxt "Release all#b02"
+msgid "Cancel."
+msgstr ""
+
+#: npc/battleground/flavius/flavius02.txt
+# mes("Bye.");
+msgctxt "Release all#b02"
+msgid "Bye."
+msgstr ""

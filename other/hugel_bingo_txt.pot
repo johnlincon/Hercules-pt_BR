@@ -1,0 +1,692 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/other/hugel_bingo.txt
+# mes "The numbers you have entered";
+msgctxt "plate1#bingo"
+msgid "The numbers you have entered"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "exceed the limit, or you have";
+msgctxt "plate1#bingo"
+msgid "exceed the limit, or you have"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "already entered these numbers.";
+msgctxt "plate1#bingo"
+msgid "already entered these numbers."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Please enter your numbers again.";
+msgctxt "plate1#bingo"
+msgid "Please enter your numbers again."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ["+@bingo_a4$+"] ["+@bingo_a5$+"]";
+msgctxt "plate1#bingo"
+msgid "["
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ["+@bingo_a4$+"] ["+@bingo_a5$+"]";
+msgctxt "plate1#bingo"
+msgid "] ["
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ["+@bingo_a4$+"] ["+@bingo_a5$+"]";
+msgctxt "plate1#bingo"
+msgid "]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# if($@bingoresult == 1 || $@bingoresult == 21) mes "[ "+$@bingoresult+"st Number - "+$bingo[$@bingoresult -1]+" ]";
+msgctxt "1a#bingo"
+msgid "[ "
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# if($@bingoresult == 1 || $@bingoresult == 21) mes "[ "+$@bingoresult+"st Number - "+$bingo[$@bingoresult -1]+" ]";
+msgctxt "1a#bingo"
+msgid "st Number - "
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# if($@bingoresult == 1 || $@bingoresult == 21) mes "[ "+$@bingoresult+"st Number - "+$bingo[$@bingoresult -1]+" ]";
+msgctxt "1a#bingo"
+msgid " ]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# else if($@bingoresult == 2 || $@bingoresult == 22) mes "[ "+$@bingoresult+"nd Number - "+$bingo[$@bingoresult -1]+" ]";
+msgctxt "1a#bingo"
+msgid "nd Number - "
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# else if($@bingoresult == 3 || $@bingoresult == 23) mes "[ "+$@bingoresult+"rd Number - "+$bingo[$@bingoresult -1]+" ]";
+msgctxt "1a#bingo"
+msgid "rd Number - "
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# else mes "[ "+$@bingoresult+"th Number - "+$bingo[$@bingoresult -1]+" ]";
+msgctxt "1a#bingo"
+msgid "th Number - "
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ["+@bingo_a4$+"] ["+@bingo_a5$+"]";
+msgctxt "1a#bingo"
+msgid "["
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ["+@bingo_a4$+"] ["+@bingo_a5$+"]";
+msgctxt "1a#bingo"
+msgid "] ["
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ["+@bingo_a4$+"] ["+@bingo_a5$+"]";
+msgctxt "1a#bingo"
+msgid "]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "[Currently Finished Lines - "+@bingowin+" ]";
+msgctxt "1a#bingo"
+msgid "[Currently Finished Lines - "
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "We just have made 5 lines!";
+msgctxt "1a#bingo"
+msgid "We just have made 5 lines!"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Say ^ff0000Bingo^000000!";
+msgctxt "1a#bingo"
+msgid "Say ^ff0000Bingo^000000!"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "W-we just matched";
+msgctxt "1a#bingo"
+msgid "W-we just matched"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "5 numbers in a row!";
+msgctxt "1a#bingo"
+msgid "5 numbers in a row!"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Quickly, say ''^FF0000Bingo^000000!''";
+msgctxt "1a#bingo"
+msgid "Quickly, say ''^FF0000Bingo^000000!''"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Remember, you'll only";
+msgctxt "1a#bingo"
+msgid "Remember, you'll only"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "have one chance to say it!";
+msgctxt "1a#bingo"
+msgid "have one chance to say it!"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Oh no! I'm sorry, but";
+msgctxt "1a#bingo"
+msgid "Oh no! I'm sorry, but"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "someone already yelled";
+msgctxt "1a#bingo"
+msgid "someone already yelled"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "''bingo'' before you did.";
+msgctxt "1a#bingo"
+msgid "''bingo'' before you did."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "I'm sorry, but you missed";
+msgctxt "1a#bingo"
+msgid "I'm sorry, but you missed"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "your chance! Better luck,";
+msgctxt "1a#bingo"
+msgid "your chance! Better luck,"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "next time, alright?";
+msgctxt "1a#bingo"
+msgid "next time, alright?"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "I'm sorry, but you";
+msgctxt "1a#bingo"
+msgid "I'm sorry, but you"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "said it wrong. Next time,";
+msgctxt "1a#bingo"
+msgid "said it wrong. Next time,"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "make sure that you yell";
+msgctxt "1a#bingo"
+msgid "make sure that you yell"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "out the word, ''^FF0000Bingo^000000,'' okay?";
+msgctxt "1a#bingo"
+msgid "out the word, ''^FF0000Bingo^000000,'' okay?"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# if(.@i > 5) mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ["+@bingo_a4$+"] ["+@bingo_a5$+"]";
+msgctxt "Func_Bingo"
+msgid "["
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# if(.@i > 5) mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ["+@bingo_a4$+"] ["+@bingo_a5$+"]";
+msgctxt "Func_Bingo"
+msgid "] ["
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# if(.@i > 5) mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ["+@bingo_a4$+"] ["+@bingo_a5$+"]";
+msgctxt "Func_Bingo"
+msgid "]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# case 1: mes "^ff0000[__]^000000 [ ] [ ] [ ] [ ]"; break;
+msgctxt "Func_Bingo"
+msgid "^ff0000[__]^000000 [   ] [   ] [   ] [   ]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# case 2: mes "["+@bingo_a1$+"] ^ff0000[__]^000000 [ ] [ ] [ ]"; break;
+msgctxt "Func_Bingo"
+msgid "] ^ff0000[__]^000000 [   ] [   ] [   ]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# case 3: mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ^ff0000[__]^000000 [ ] [ ]"; break;
+msgctxt "Func_Bingo"
+msgid "] ^ff0000[__]^000000 [   ] [   ]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# case 4: mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ^ff0000[__]^000000 [ ]"; break;
+msgctxt "Func_Bingo"
+msgid "] ^ff0000[__]^000000 [   ]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# case 5: mes "["+@bingo_a1$+"] ["+@bingo_a2$+"] ["+@bingo_a3$+"] ["+@bingo_a4$+"] ^ff0000[__]^000000"; break;
+msgctxt "Func_Bingo"
+msgid "] ^ff0000[__]^000000"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# else if(.@i < 6) mes "[ ] [ ] [ ] [ ] [ ]";
+msgctxt "Func_Bingo"
+msgid "[   ] [   ] [   ] [   ] [   ]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "[Helper]";
+msgctxt "Arcade Helper#1"
+msgid "[Helper]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "If you'd like to play";
+msgctxt "Arcade Helper#1"
+msgid "If you'd like to play"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "a game of bingo, then";
+msgctxt "Arcade Helper#1"
+msgid "a game of bingo, then"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "please proceed this way.";
+msgctxt "Arcade Helper#1"
+msgid "please proceed this way."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "[Arcade Owner]";
+msgctxt "Arcade Owner"
+msgid "[Arcade Owner]"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Welcome to the";
+msgctxt "Arcade Owner"
+msgid "Welcome to the"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Bingo Game Arcade.";
+msgctxt "Arcade Owner"
+msgid "Bingo Game Arcade."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Care to play a game of";
+msgctxt "Arcade Owner"
+msgid "Care to play a game of"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "bingo? If you have any";
+msgctxt "Arcade Owner"
+msgid "bingo? If you have any"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "questions, feel free to ask.";
+msgctxt "Arcade Owner"
+msgid "questions, feel free to ask."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# switch(select("Rules for Bingo", "Bingo Room", "Marvelous Medals")) {
+msgctxt "Arcade Owner"
+msgid "Rules for Bingo"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# switch(select("Rules for Bingo", "Bingo Room", "Marvelous Medals")) {
+msgctxt "Arcade Owner"
+msgid "Bingo Room"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# switch(select("Rules for Bingo", "Bingo Room", "Marvelous Medals")) {
+msgctxt "Arcade Owner"
+msgid "Marvelous Medals"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "The rules for playing bingo";
+msgctxt "Arcade Owner"
+msgid "The rules for playing bingo"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "are simple. First, take a board";
+msgctxt "Arcade Owner"
+msgid "are simple. First, take a board"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "with 25 boxes organized so that";
+msgctxt "Arcade Owner"
+msgid "with 25 boxes organized so that"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "there are five rows and five";
+msgctxt "Arcade Owner"
+msgid "there are five rows and five"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "columns. Then, number the";
+msgctxt "Arcade Owner"
+msgid "columns. Then, number the"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "boxes in any order you like.";
+msgctxt "Arcade Owner"
+msgid "boxes in any order you like."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Of course, you must use";
+msgctxt "Arcade Owner"
+msgid "Of course, you must use"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "the numbers 1 through 25.";
+msgctxt "Arcade Owner"
+msgid "the numbers 1 through 25."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "When everyone's bingo board";
+msgctxt "Arcade Owner"
+msgid "When everyone's bingo board"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "is ready, the game will begin.";
+msgctxt "Arcade Owner"
+msgid "is ready, the game will begin."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Our game coordinator will call out a number from 1 to 25 at random.";
+msgctxt "Arcade Owner"
+msgid "Our game coordinator will call out a number from 1 to 25 at random."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Each time the coordinator";
+msgctxt "Arcade Owner"
+msgid "Each time the coordinator"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "calls out a number, make sure";
+msgctxt "Arcade Owner"
+msgid "calls out a number, make sure"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "that you mark the corresponding";
+msgctxt "Arcade Owner"
+msgid "that you mark the corresponding"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "numbered square on your bingo";
+msgctxt "Arcade Owner"
+msgid "numbered square on your bingo"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "board. Now, these are the";
+msgctxt "Arcade Owner"
+msgid "board. Now, these are the"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "conditions for winning...";
+msgctxt "Arcade Owner"
+msgid "conditions for winning..."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "If you can make a line of";
+msgctxt "Arcade Owner"
+msgid "If you can make a line of"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "5 squares in a row, horizontally, vertically, or diagonally, using";
+msgctxt "Arcade Owner"
+msgid "5 squares in a row, horizontally, vertically, or diagonally, using"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "the numbers called out by the";
+msgctxt "Arcade Owner"
+msgid "the numbers called out by the"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "coordinator, you quickly yell";
+msgctxt "Arcade Owner"
+msgid "coordinator, you quickly yell"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "the word, ''Bingo.''";
+msgctxt "Arcade Owner"
+msgid "the word, ''Bingo.''"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "If you are the first to yell";
+msgctxt "Arcade Owner"
+msgid "If you are the first to yell"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "the word, ''Bingo,'' you'll";
+msgctxt "Arcade Owner"
+msgid "the word, ''Bingo,'' you'll"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "win! But if someone beats you";
+msgctxt "Arcade Owner"
+msgid "win! But if someone beats you"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "to it, then it can't be helped.";
+msgctxt "Arcade Owner"
+msgid "to it, then it can't be helped."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Anyway, it costs 1,000 zeny";
+msgctxt "Arcade Owner"
+msgid "Anyway, it costs 1,000 zeny"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "to play each bingo game~";
+msgctxt "Arcade Owner"
+msgid "to play each bingo game~"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Ah, if you want to join a";
+msgctxt "Arcade Owner"
+msgid "Ah, if you want to join a"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "bingo game, enter the right";
+msgctxt "Arcade Owner"
+msgid "bingo game, enter the right"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "door. There must be at least";
+msgctxt "Arcade Owner"
+msgid "door. There must be at least"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "5 people to play a game, so";
+msgctxt "Arcade Owner"
+msgid "5 people to play a game, so"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "you may need to wait until";
+msgctxt "Arcade Owner"
+msgid "you may need to wait until"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "that requirement is fulfilled.";
+msgctxt "Arcade Owner"
+msgid "that requirement is fulfilled."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "If you just want to";
+msgctxt "Arcade Owner"
+msgid "If you just want to"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "watch the bingo game,";
+msgctxt "Arcade Owner"
+msgid "watch the bingo game,"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "then you may enter the";
+msgctxt "Arcade Owner"
+msgid "then you may enter the"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "left door as a spectator";
+msgctxt "Arcade Owner"
+msgid "left door as a spectator"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "in the Bingo Room.";
+msgctxt "Arcade Owner"
+msgid "in the Bingo Room."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "When you win a bingo";
+msgctxt "Arcade Owner"
+msgid "When you win a bingo"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "game, you will be rewarded";
+msgctxt "Arcade Owner"
+msgid "game, you will be rewarded"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "with ''Marvelous Medals,''";
+msgctxt "Arcade Owner"
+msgid "with ''Marvelous Medals,''"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "which can only be used within";
+msgctxt "Arcade Owner"
+msgid "which can only be used within"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "this arcade. You also can't trade medals with other players.";
+msgctxt "Arcade Owner"
+msgid "this arcade. You also can't trade medals with other players."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "You usually get 1 Marvelous";
+msgctxt "Arcade Owner"
+msgid "You usually get 1 Marvelous"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Medal for winning a bingo game,";
+msgctxt "Arcade Owner"
+msgid "Medal for winning a bingo game,"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "but you can win 50 at one time";
+msgctxt "Arcade Owner"
+msgid "but you can win 50 at one time"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "under special conditions. You";
+msgctxt "Arcade Owner"
+msgid "under special conditions. You"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "can also play Monster Racing";
+msgctxt "Arcade Owner"
+msgid "can also play Monster Racing"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "games to win more medals.";
+msgctxt "Arcade Owner"
+msgid "games to win more medals."
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Collect as many Marvelous";
+msgctxt "Arcade Owner"
+msgid "Collect as many Marvelous"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "Medals as you can, and trade";
+msgctxt "Arcade Owner"
+msgid "Medals as you can, and trade"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "them for products in the Monster Racing Arena. I hear there's also";
+msgctxt "Arcade Owner"
+msgid "them for products in the Monster Racing Arena. I hear there's also"
+msgstr ""
+
+#: npc/other/hugel_bingo.txt
+# mes "a place in Einbroch where you can use them, but I wouldn't know.";
+msgctxt "Arcade Owner"
+msgid "a place in Einbroch where you can use them, but I wouldn't know."
+msgstr ""

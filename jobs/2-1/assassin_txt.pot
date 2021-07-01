@@ -1,0 +1,4328 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Ferocious-looking guy]";
+msgctxt "Guildsman#asn"
+msgid "[Ferocious-looking guy]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hm? You....?";
+msgctxt "Guildsman#asn"
+msgid "Hm? You....?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I sense that you're different than most people...";
+msgctxt "Guildsman#asn"
+msgid "I sense that you're different than most people..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I've never met anyone as intimidating as you! For some reason, I don't like you. I think you should leave!";
+msgctxt "Guildsman#asn"
+msgid "I've never met anyone as intimidating as you! For some reason, I don't like you. I think you should leave!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You can't change your job if you have any unused skill points from the 1st job. You better go and use those up first.";
+msgctxt "Guildsman#asn"
+msgid "You can't change your job if you have any unused skill points from the 1st job. You better go and use those up first."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Oh, stop making that face. Can you really be in that much pain?";
+msgctxt "Guildsman#asn"
+msgid "Oh, stop making that face. Can you really be in that much pain?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Wah wah wah, you're hurting, I can see that. Look, I'll restore HP and SP. Happy?";
+msgctxt "Guildsman#asn"
+msgid "Wah wah wah, you're hurting, I can see that. Look, I'll restore HP and SP. Happy?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Is it that hard to stay alive?";
+msgctxt "Guildsman#asn"
+msgid "Is it that hard to stay alive?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Why don't you try harder next time? You can't force yourself too hard to become an Assassin...";
+msgctxt "Guildsman#asn"
+msgid "Why don't you try harder next time? You can't force yourself too hard to become an Assassin..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("I will become an Assassin no matter what!", "Oh man, I gotta take a break.") == 1) {
+msgctxt "Guildsman#asn"
+msgid "I will become an Assassin no matter what!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("I will become an Assassin no matter what!", "Oh man, I gotta take a break.") == 1) {
+msgctxt "Guildsman#asn"
+msgid "Oh man, I gotta take a break."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Oh...";
+msgctxt "Guildsman#asn"
+msgid "Oh..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well then,";
+msgctxt "Guildsman#asn"
+msgid "Well then,"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "go for it!";
+msgctxt "Guildsman#asn"
+msgid "go for it!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Take a break? Oh alright, have it your way. When you feel like you're ready to become an Assassin, come back.";
+msgctxt "Guildsman#asn"
+msgid "Take a break? Oh alright, have it your way. When you feel like you're ready to become an Assassin, come back."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You'll have to walk if you want to get back to town. Oh, and don't forget to save your spawn point, alright?";
+msgctxt "Guildsman#asn"
+msgid "You'll have to walk if you want to get back to town. Oh, and don't forget to save your spawn point, alright?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Assassin Expert 'Huey']";
+msgctxt "Guildsman#asn"
+msgid "[Assassin Expert 'Huey']"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hey, what happened...? How come you didn't bring the ^006699Necklace of Oblivion^000000? You're supposed to carry that with you, so where is it?";
+msgctxt "Guildsman#asn"
+msgid "Hey, what happened...? How come you didn't bring the ^006699Necklace of Oblivion^000000? You're supposed to carry that with you, so where is it?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You get better get that ^006699Necklace of Oblivion^000000 again before the guildmaster finds out! Hurry, and do your best to get it!";
+msgctxt "Guildsman#asn"
+msgid "You get better get that ^006699Necklace of Oblivion^000000 again before the guildmaster finds out! Hurry, and do your best to get it!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "When you finally succeed in getting it, bring it to me! ^666666*Sigh...*^000000";
+msgctxt "Guildsman#asn"
+msgid "When you finally succeed in getting it, bring it to me! ^666666*Sigh...*^000000"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well well well, you got it. Congratulations! But since it's been clearly scratched, I can't accept it. You'll never become an Assassin!";
+msgctxt "Guildsman#asn"
+msgid "Well well well, you got it. Congratulations! But since it's been clearly scratched, I can't accept it. You'll never become an Assassin!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hahahah~! I'm just joking, don't take it seriously. But I do need to check this necklace with the guildmaster first.";
+msgctxt "Guildsman#asn"
+msgid "Hahahah~! I'm just joking, don't take it seriously. But I do need to check this necklace with the guildmaster first."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "...";
+msgctxt "Guildsman#asn"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "......";
+msgctxt "Guildsman#asn"
+msgid "......"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Alright!";
+msgctxt "Guildsman#asn"
+msgid "Alright!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You've been approved!";
+msgctxt "Guildsman#asn"
+msgid "You've been approved!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Now! Do your best to be a great Assassin! Travel with faith and kill with dignity. Come by anytime and pay us a visit. Once again, congratulations.";
+msgctxt "Guildsman#asn"
+msgid "Now! Do your best to be a great Assassin! Travel with faith and kill with dignity. Come by anytime and pay us a visit. Once again, congratulations."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Eh?";
+msgctxt "Guildsman#asn"
+msgid "Eh?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "What do you want?";
+msgctxt "Guildsman#asn"
+msgid "What do you want?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I see you're carrying a ^006699Necklace of Oblivion^000000... You want to become an Assassin, don't you? Let me check it...";
+msgctxt "Guildsman#asn"
+msgid "I see you're carrying a ^006699Necklace of Oblivion^000000... You want to become an Assassin, don't you? Let me check it..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Wait a second...";
+msgctxt "Guildsman#asn"
+msgid "Wait a second..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Why you no good BASTARD! THIS IS A FAKE!";
+msgctxt "Guildsman#asn"
+msgid "Why you no good BASTARD! THIS IS A FAKE!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "How dare you think of trying to trick me with a fake! Are you stupid or what!? I should kill you...";
+msgctxt "Guildsman#asn"
+msgid "How dare you think of trying to trick me with a fake! Are you stupid or what!? I should kill you..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "What brings you here?";
+msgctxt "Guildsman#asn"
+msgid "What brings you here?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I don't think I like the way you're looking at me... Punk.";
+msgctxt "Guildsman#asn"
+msgid "I don't think I like the way you're looking at me... Punk."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hey Newbie. You should really get out of here as soon as you can. I can't guarantee your safety.";
+msgctxt "Guildsman#asn"
+msgid "Hey Newbie. You should really get out of here as soon as you can. I can't guarantee your safety."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "What brings a man of the sword to this place? Why don't you try smashing stuff somewhere else, ya lunkhead.";
+msgctxt "Guildsman#asn"
+msgid "What brings a man of the sword to this place? Why don't you try smashing stuff somewhere else, ya lunkhead."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Now what would a magic user be doing here?";
+msgctxt "Guildsman#asn"
+msgid "Now what would a magic user be doing here?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "There's a library in Prontera and Juno where you're welcome, so why don't you make like a magic trick and disappear?";
+msgctxt "Guildsman#asn"
+msgid "There's a library in Prontera and Juno where you're welcome, so why don't you make like a magic trick and disappear?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well well well.";
+msgctxt "Guildsman#asn"
+msgid "Well well well."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Look at that purdy bow.";
+msgctxt "Guildsman#asn"
+msgid "Look at that purdy bow."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "There aren't many Bowmen with the gall to even come close to this place. Well, what do you think you're doin' here?!";
+msgctxt "Guildsman#asn"
+msgid "There aren't many Bowmen with the gall to even come close to this place. Well, what do you think you're doin' here?!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I thought something smelled funny. What's a servant of God doing in this place? You don't belong here.";
+msgctxt "Guildsman#asn"
+msgid "I thought something smelled funny. What's a servant of God doing in this place? You don't belong here."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "We don't like greedy people around these parts. You better sell your stuff somewhere else, Moneybags.";
+msgctxt "Guildsman#asn"
+msgid "We don't like greedy people around these parts. You better sell your stuff somewhere else, Moneybags."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You look like you don't have a care in the world. Well, I hope you enjoy your rest while you stay here. It's okay, since the Rogue and Assassin Guilds have always gotten along pretty well.";
+msgctxt "Guildsman#asn"
+msgid "You look like you don't have a care in the world. Well, I hope you enjoy your rest while you stay here. It's okay, since the Rogue and Assassin Guilds have always gotten along pretty well."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "By the way...";
+msgctxt "Guildsman#asn"
+msgid "By the way..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Have you ever seen";
+msgctxt "Guildsman#asn"
+msgid "Have you ever seen"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "a girl named Markie?";
+msgctxt "Guildsman#asn"
+msgid "a girl named Markie?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Markie...";
+msgctxt "Guildsman#asn"
+msgid "Markie..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "We promised that we'd be together forever. ^666666*Sigh...*^000000 I don't even think she remembers that promise anymore. Then again, we were pretty young back then...";
+msgctxt "Guildsman#asn"
+msgid "We promised that we'd be together forever. ^666666*Sigh...*^000000 I don't even think she remembers that promise anymore. Then again, we were pretty young back then..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hey, I remember you~";
+msgctxt "Guildsman#asn"
+msgid "Hey, I remember you~"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Wasn't your name, umm, I remember 'cause it sounded funny to me...";
+msgctxt "Guildsman#asn"
+msgid "Wasn't your name, umm, I remember 'cause it sounded funny to me..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes ":+:" + strcharinfo(PC_NAME) + ":+:, right? No wait, just "+ strcharinfo(PC_NAME) +". Yeah, how's it goin'?";
+msgctxt "Guildsman#asn"
+msgid ":+:"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Unfortunately, I don't have any requests for you at this time from the guild. Just keep focusing on your training. Till then, see ya.";
+msgctxt "Guildsman#asn"
+msgid "Unfortunately, I don't have any requests for you at this time from the guild. Just keep focusing on your training. Till then, see ya."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You can't change your job if you still have unused skill points from First Job. You better use up those skill points first.";
+msgctxt "Guildsman#asn"
+msgid "You can't change your job if you still have unused skill points from First Job. You better use up those skill points first."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hmm...";
+msgctxt "Guildsman#asn"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "A Thief...?";
+msgctxt "Guildsman#asn"
+msgid "A Thief...?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "And a well-experienced Thief since I can't seem to find my wallet. We do need people like you, you know.";
+msgctxt "Guildsman#asn"
+msgid "And a well-experienced Thief since I can't seem to find my wallet. We do need people like you, you know."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "So how about taking the next step and becoming an Assassin?";
+msgctxt "Guildsman#asn"
+msgid "So how about taking the next step and becoming an Assassin?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Yes. I've picked my last pocket.", "What's the requirements?", "Maybe later, I need to steal some things first.")) {
+msgctxt "Guildsman#asn"
+msgid "Yes. I've picked my last pocket."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Yes. I've picked my last pocket.", "What's the requirements?", "Maybe later, I need to steal some things first.")) {
+msgctxt "Guildsman#asn"
+msgid "What's the requirements?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Yes. I've picked my last pocket.", "What's the requirements?", "Maybe later, I need to steal some things first.")) {
+msgctxt "Guildsman#asn"
+msgid "Maybe later, I need to steal some things first."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It's been a while since I've received a guest. I'm sending";
+msgctxt "Guildsman#asn"
+msgid "It's been a while since I've received a guest. I'm sending"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "you to the office.";
+msgctxt "Guildsman#asn"
+msgid "you to the office."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Requirements? Well, first you need to be a Thief. Second, you need to be at least Thief job level 40.";
+msgctxt "Guildsman#asn"
+msgid "Requirements? Well, first you need to be a Thief. Second, you need to be at least Thief job level 40."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "And third, you need to pass a test to become an Assassin. You got";
+msgctxt "Guildsman#asn"
+msgid "And third, you need to pass a test to become an Assassin. You got"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "all that? If you're sure of your ability as a Thief, you won't have to worry.";
+msgctxt "Guildsman#asn"
+msgid "all that? If you're sure of your ability as a Thief, you won't have to worry."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Alright then.";
+msgctxt "Guildsman#asn"
+msgid "Alright then."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "But come back when";
+msgctxt "Guildsman#asn"
+msgid "But come back when"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "you think you're ready.";
+msgctxt "Guildsman#asn"
+msgid "you think you're ready."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Huh. You're not qualified to become an Assassin yet. There are requirements you need to meet first, you know.";
+msgctxt "Guildsman#asn"
+msgid "Huh. You're not qualified to become an Assassin yet. There are requirements you need to meet first, you know."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well, keep training. You need to be at least job level 40, got it? But if you're above job level 40, that will probably be even better.";
+msgctxt "Guildsman#asn"
+msgid "Well, keep training. You need to be at least job level 40, got it? But if you're above job level 40, that will probably be even better."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Assassin 'Khai']";
+msgctxt "Guildsman#ASN2"
+msgid "[Assassin 'Khai']"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Umm?!";
+msgctxt "Guildsman#ASN2"
+msgid "Umm?!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Come closer. I prefer to talk to people face to face. It really irritates me if I have to raise my voice, just so you can hear me.";
+msgctxt "Guildsman#ASN2"
+msgid "Come closer. I prefer to talk to people face to face. It really irritates me if I have to raise my voice, just so you can hear me."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I feel irritated when somebody talks to me behind my back.";
+msgctxt "Guildsman#ASN2"
+msgid "I feel irritated when somebody talks to me behind my back."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Ehhh?";
+msgctxt "Guildsman#ASN2"
+msgid "Ehhh?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Didn't you just";
+msgctxt "Guildsman#ASN2"
+msgid "Didn't you just"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "pass me a minute ago?";
+msgctxt "Guildsman#ASN2"
+msgid "pass me a minute ago?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Eh...?!";
+msgctxt "Guildsman#ASN2"
+msgid "Eh...?!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You failed?";
+msgctxt "Guildsman#ASN2"
+msgid "You failed?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Even on the";
+msgctxt "Guildsman#ASN2"
+msgid "Even on the"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "writing test?";
+msgctxt "Guildsman#ASN2"
+msgid "writing test?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Bwahahahahaha!";
+msgctxt "Guildsman#ASN2"
+msgid "Bwahahahahaha!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well...";
+msgctxt "Guildsman#ASN2"
+msgid "Well..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It's been a long time since";
+msgctxt "Guildsman#ASN2"
+msgid "It's been a long time since"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I've met such a big failure.";
+msgctxt "Guildsman#ASN2"
+msgid "I've met such a big failure."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "HAH!";
+msgctxt "Guildsman#ASN2"
+msgid "HAH!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hahahahah~!";
+msgctxt "Guildsman#ASN2"
+msgid "Hahahahah~!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Oh, you're killing me....";
+msgctxt "Guildsman#ASN2"
+msgid "Oh, you're killing me...."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Sorry for laughing, but this is hilarious! Hahaha~ So do you want me to give you some hints?";
+msgctxt "Guildsman#ASN2"
+msgid "Sorry for laughing, but this is hilarious! Hahaha~ So do you want me to give you some hints?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I beg you, give me hints.", "Don't laugh at me! Now, give me hints!", "...Shut up, I don't need your help!")) {
+msgctxt "Guildsman#ASN2"
+msgid "I beg you, give me hints."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I beg you, give me hints.", "Don't laugh at me! Now, give me hints!", "...Shut up, I don't need your help!")) {
+msgctxt "Guildsman#ASN2"
+msgid "Don't laugh at me! Now, give me hints!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I beg you, give me hints.", "Don't laugh at me! Now, give me hints!", "...Shut up, I don't need your help!")) {
+msgctxt "Guildsman#ASN2"
+msgid "...Shut up, I don't need your help!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Haaahahahaha!!!";
+msgctxt "Guildsman#ASN2"
+msgid "Haaahahahaha!!!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well well, aren't we honest. You're not even an Assassin yet, but you're killing me, I tell you, killing me!";
+msgctxt "Guildsman#ASN2"
+msgid "Well well, aren't we honest. You're not even an Assassin yet, but you're killing me, I tell you, killing me!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[The Anonymous One]";
+msgctxt "Guildsman#ASN2"
+msgid "[The Anonymous One]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Ho ho ho...";
+msgctxt "Guildsman#ASN2"
+msgid "Ho ho ho..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Did you hear that Anonymous one?! 'I beg you, give me hints.' Hahahah!";
+msgctxt "Guildsman#ASN2"
+msgid "Did you hear that Anonymous one?! 'I beg you, give me hints.' Hahahah!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Yes.";
+msgctxt "Guildsman#ASN2"
+msgid "Yes."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "This one is quite hilarious";
+msgctxt "Guildsman#ASN2"
+msgid "This one is quite hilarious"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "in a pathetic sort of way.";
+msgctxt "Guildsman#ASN2"
+msgid "in a pathetic sort of way."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hahahahahahah!";
+msgctxt "Guildsman#ASN2"
+msgid "Hahahahahahah!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Soooooo, you wanted";
+msgctxt "Guildsman#ASN2"
+msgid "Soooooo, you wanted"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "some hints, right?";
+msgctxt "Guildsman#ASN2"
+msgid "some hints, right?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "...";
+msgctxt "Guildsman#ASN2"
+msgid "..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "......";
+msgctxt "Guildsman#ASN2"
+msgid "......"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes ".........";
+msgctxt "Guildsman#ASN2"
+msgid "........."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "............";
+msgctxt "Guildsman#ASN2"
+msgid "............"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "...............";
+msgctxt "Guildsman#ASN2"
+msgid "..............."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Nah.";
+msgctxt "Guildsman#ASN2"
+msgid "Nah."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I changed my mind!";
+msgctxt "Guildsman#ASN2"
+msgid "I changed my mind!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I'm not gonna give you any hints after all. Hee hee hee~";
+msgctxt "Guildsman#ASN2"
+msgid "I'm not gonna give you any hints after all. Hee hee hee~"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Huh. You must have a lot of self confidence to be a Thief nowadays.";
+msgctxt "Guildsman#ASN2"
+msgid "Huh. You must have a lot of self confidence to be a Thief nowadays."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Yeah yeah, I understand. Everyone messes up from time to time. Sorry for laughing at your mistakes.";
+msgctxt "Guildsman#ASN2"
+msgid "Yeah yeah, I understand. Everyone messes up from time to time. Sorry for laughing at your mistakes."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hmm. I like your attitude. You should keep your pride as a Thief. Sorry for laughing at your mistakes. I think you'll do better next time.";
+msgctxt "Guildsman#ASN2"
+msgid "Hmm. I like your attitude. You should keep your pride as a Thief. Sorry for laughing at your mistakes. I think you'll do better next time."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I'm not allowed to give you hints, I can tell you more about being an Assassin...";
+msgctxt "Guildsman#ASN2"
+msgid "I'm not allowed to give you hints, I can tell you more about being an Assassin..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Above all else, we value our dignity. We're Assassins, after all and people will need us.";
+msgctxt "Guildsman#ASN2"
+msgid "Above all else, we value our dignity. We're Assassins, after all and people will need us."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "If people are close to you in some way, they might not understand what I'm saying. We're born to be loners due to our nature.";
+msgctxt "Guildsman#ASN2"
+msgid "If people are close to you in some way, they might not understand what I'm saying. We're born to be loners due to our nature."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Imagine if a lover or a friend saw the blood on your hands. There's a chance that they might not stay with you.";
+msgctxt "Guildsman#ASN2"
+msgid "Imagine if a lover or a friend saw the blood on your hands. There's a chance that they might not stay with you."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Sometimes it gets lonely but it's not that bad. At least I can do what I want to do, you know, and do things my way.";
+msgctxt "Guildsman#ASN2"
+msgid "Sometimes it gets lonely but it's not that bad. At least I can do what I want to do, you know, and do things my way."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well, that's all I can tell you for now. Does being an Assassin";
+msgctxt "Guildsman#ASN2"
+msgid "Well, that's all I can tell you for now. Does being an Assassin"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "seem depressing to you?";
+msgctxt "Guildsman#ASN2"
+msgid "seem depressing to you?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "...Hm.";
+msgctxt "Guildsman#ASN2"
+msgid "...Hm."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Right, that's the spirit. Don't ever let anyone else look down";
+msgctxt "Guildsman#ASN2"
+msgid "Right, that's the spirit. Don't ever let anyone else look down"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "on you. We're Assassins...";
+msgctxt "Guildsman#ASN2"
+msgid "on you. We're Assassins..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I apologize for laughing at you earlier. I want you to remember to keep that sense of pride and dignity as an Assassin.";
+msgctxt "Guildsman#ASN2"
+msgid "I apologize for laughing at you earlier. I want you to remember to keep that sense of pride and dignity as an Assassin."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Along with keeping your pride,";
+msgctxt "Guildsman#ASN2"
+msgid "Along with keeping your pride,"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I want that you respect the blood that may stain your Katar or Dagger.";
+msgctxt "Guildsman#ASN2"
+msgid "I want that you respect the blood that may stain your Katar or Dagger."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("...Got you.", "...I'm confused.") == 1) {
+msgctxt "Guildsman#ASN2"
+msgid "...Got you."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("...Got you.", "...I'm confused.") == 1) {
+msgctxt "Guildsman#ASN2"
+msgid "...I'm confused."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Yeah, I can trust you now. Let me give you some important tips.";
+msgctxt "Guildsman#ASN2"
+msgid "Yeah, I can trust you now. Let me give you some important tips."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "First of all, Grimtooth is ...A skill specifically for the Katar. Therefore, it doesn't require any skills related to Dagger weapons.";
+msgctxt "Guildsman#ASN2"
+msgid "First of all, Grimtooth is ...A skill specifically for the Katar. Therefore, it doesn't require any skills related to Dagger weapons."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Double attack ...Haven't you tried it? It allows you to attack an enemy twice at a time.";
+msgctxt "Guildsman#ASN2"
+msgid "Double attack ...Haven't you tried it? It allows you to attack an enemy twice at a time."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Red Blood is an elemental stone, Blue Gemstone doesn't have to do the Assassin job at all!";
+msgctxt "Guildsman#ASN2"
+msgid "Red Blood is an elemental stone, Blue Gemstone doesn't have to do the Assassin job at all!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Have you ever seen Mages hunt Elder willow using the Cold Bolt skill? Water overpowers Fire. Water puts Fire under control, and Wind puts water under control.";
+msgctxt "Guildsman#ASN2"
+msgid "Have you ever seen Mages hunt Elder willow using the Cold Bolt skill? Water overpowers Fire. Water puts Fire under control, and Wind puts water under control."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "As long as you stick close to the shadows, by walls and things like that, Cloaking will hide you from sight perfectly! Unless some bastard uses a certain detecting skill, you know.";
+msgctxt "Guildsman#ASN2"
+msgid "As long as you stick close to the shadows, by walls and things like that, Cloaking will hide you from sight perfectly! Unless some bastard uses a certain detecting skill, you know."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "'Sharpened Legbone of Ghoul' possesses the Undead property.";
+msgctxt "Guildsman#ASN2"
+msgid "'Sharpened Legbone of Ghoul' possesses the Undead property."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "What kind of weapon have you used so far? Damascus? Gladius? Stiletto? Or Main Gauche? What is that you're carrying now?";
+msgctxt "Guildsman#ASN2"
+msgid "What kind of weapon have you used so far? Damascus? Gladius? Stiletto? Or Main Gauche? What is that you're carrying now?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It's possible to get a slotted Katar from Desert Wolf. Well, just keep that in mind. You will need this information someday.";
+msgctxt "Guildsman#ASN2"
+msgid "It's possible to get a slotted Katar from Desert Wolf. Well, just keep that in mind. You will need this information someday."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You can gain a slotted Jur from a buddy living in a dark and damp place under the ground. Well, I have no idea why that dude has that weapon... Maybe he needs it to dig a hole?";
+msgctxt "Guildsman#ASN2"
+msgid "You can gain a slotted Jur from a buddy living in a dark and damp place under the ground. Well, I have no idea why that dude has that weapon... Maybe he needs it to dig a hole?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "And...";
+msgctxt "Guildsman#ASN2"
+msgid "And..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I've always wanted a frog as a pet. But it's impossible!";
+msgctxt "Guildsman#ASN2"
+msgid "I've always wanted a frog as a pet. But it's impossible!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "As far as I know, a Goblin carrying a hammer possesses the Earth property. Keep in mind that Fire overcomes the Earth property.";
+msgctxt "Guildsman#ASN2"
+msgid "As far as I know, a Goblin carrying a hammer possesses the Earth property. Keep in mind that Fire overcomes the Earth property."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You know elemental weapons? The names of Blacksmiths are engraved on them usually...";
+msgctxt "Guildsman#ASN2"
+msgid "You know elemental weapons? The names of Blacksmiths are engraved on them usually..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Sell an Elder Willow Card to a Mage as soon as you can. They are mad about the card for some reason. Doesn't it increase the INT of a character? Hmmm...";
+msgctxt "Guildsman#ASN2"
+msgid "Sell an Elder Willow Card to a Mage as soon as you can. They are mad about the card for some reason. Doesn't it increase the INT of a character? Hmmm..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "For us, Dodge and Attack is more important than defense. Don't ever think about wearing a helm. It's heavy, uncomfortable and will even block your sight.";
+msgctxt "Guildsman#ASN2"
+msgid "For us, Dodge and Attack is more important than defense. Don't ever think about wearing a helm. It's heavy, uncomfortable and will even block your sight."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "'Increase Dodge' allows you to have +3% flee rate per skill lvl.";
+#, no-c-format
+msgctxt "Guildsman#ASN2"
+msgid "'Increase Dodge' allows you to have +3% flee rate per skill lvl."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "As I have told you repeatedly: Katar class weapons (Jamadhar/Jur/Katar etc) are two-handed!";
+msgctxt "Guildsman#ASN2"
+msgid "As I have told you repeatedly: Katar class weapons (Jamadhar/Jur/Katar etc) are two-handed!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "City of desert... I miss my hometown, Morroc. I haven't been there for a long time. I feel like I became a Thief a few days ago. Time flies so fast...";
+msgctxt "Guildsman#ASN2"
+msgid "City of desert... I miss my hometown, Morroc. I haven't been there for a long time. I feel like I became a Thief a few days ago. Time flies so fast..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Heh. I remember my Thief quest. I was so damn nervous when I broke into the farm to get Mushrooms...";
+msgctxt "Guildsman#ASN2"
+msgid "Heh. I remember my Thief quest. I was so damn nervous when I broke into the farm to get Mushrooms..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Insects detect hiding/cloaking skills. Their feelers never fail to find targets.";
+msgctxt "Guildsman#ASN2"
+msgid "Insects detect hiding/cloaking skills. Their feelers never fail to find targets."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I've heard that the Baphomet Jr. Card adds +3 points to Agility and +1 point on Critical Attack...";
+msgctxt "Guildsman#ASN2"
+msgid "I've heard that the Baphomet Jr. Card adds +3 points to Agility and +1 point on Critical Attack..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Yeah, we Assassins specialize in training Agility. We can gain a bonus of 10 Agility points even before mastering job level. The problem is it won't go up anymore after that, you know.";
+msgctxt "Guildsman#ASN2"
+msgid "Yeah, we Assassins specialize in training Agility. We can gain a bonus of 10 Agility points even before mastering job level. The problem is it won't go up anymore after that, you know."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "^666666*Phew*^000000 That's all I can tell you, though that's a lot of hints. I don't doubt that I told you almost everything.";
+msgctxt "Guildsman#ASN2"
+msgid "^666666*Phew*^000000 That's all I can tell you, though that's a lot of hints. I don't doubt that I told you almost everything."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well then, go ask to take the test again with 'The Anonymous.'";
+msgctxt "Guildsman#ASN2"
+msgid "Well then, go ask to take the test again with 'The Anonymous.'"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "^666666*Sigh...*^000000";
+msgctxt "Guildsman#ASN2"
+msgid "^666666*Sigh...*^000000"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "How can you not understand the concept of dignity? You just showed some to me just now!";
+msgctxt "Guildsman#ASN2"
+msgid "How can you not understand the concept of dignity? You just showed some to me just now!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Oh, I get it. It wasn't pride you were showing, you were just being a jerk!";
+msgctxt "Guildsman#ASN2"
+msgid "Oh, I get it. It wasn't pride you were showing, you were just being a jerk!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Grrrrr...";
+msgctxt "Guildsman#ASN2"
+msgid "Grrrrr..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "WARP PORTAL!";
+msgctxt "Guildsman#ASN2"
+msgid "WARP PORTAL!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Oh, you must be an Assassin trainee. You are here to become";
+msgctxt "Guildsman#ASN2"
+msgid "Oh, you must be an Assassin trainee. You are here to become"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "an Assassin, aren't you?";
+msgctxt "Guildsman#ASN2"
+msgid "an Assassin, aren't you?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Yes, I am. ", "...No, I'm not.") == 1) {
+msgctxt "Guildsman#ASN2"
+msgid "Yes, I am. "
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Yes, I am. ", "...No, I'm not.") == 1) {
+msgctxt "Guildsman#ASN2"
+msgid "...No, I'm not."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Okay, good. Let's fill out the application form. Please sign your name and include your job level.";
+msgctxt "Guildsman#ASN2"
+msgid "Okay, good. Let's fill out the application form. Please sign your name and include your job level."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Let's see.";
+msgctxt "Guildsman#ASN2"
+msgid "Let's see."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Your name is";
+msgctxt "Guildsman#ASN2"
+msgid "Your name is"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Job level " + JobLevel + "...";
+msgctxt "Guildsman#ASN2"
+msgid "Job level "
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Wait, Job level " + JobLevel + "?! I can see you've been training pretty hard! My bosses will like this~";
+msgctxt "Guildsman#ASN2"
+msgid "Wait, Job level "
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Wait, Job level " + JobLevel + "?! I can see you've been training pretty hard! My bosses will like this~";
+msgctxt "Guildsman#ASN2"
+msgid "?! I can see you've been training pretty hard! My bosses will like this~"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Did you finish the form? Alright, go ahead and give it to me. Give me a second and I'll transport you to the Test Hall.";
+msgctxt "Guildsman#ASN2"
+msgid "Did you finish the form? Alright, go ahead and give it to me. Give me a second and I'll transport you to the Test Hall."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Alright then,";
+msgctxt "Guildsman#ASN2"
+msgid "Alright then,"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "best of luck to you!";
+msgctxt "Guildsman#ASN2"
+msgid "best of luck to you!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well, you passed";
+msgctxt "Guildsman#ASN2"
+msgid "Well, you passed"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "the requirements.";
+msgctxt "Guildsman#ASN2"
+msgid "the requirements."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Not bad at all.";
+msgctxt "Guildsman#ASN2"
+msgid "Not bad at all."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Go ahead and give";
+msgctxt "Guildsman#ASN2"
+msgid "Go ahead and give"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "me the form when you're";
+msgctxt "Guildsman#ASN2"
+msgid "me the form when you're"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "done filling it out.";
+msgctxt "Guildsman#ASN2"
+msgid "done filling it out."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Alright, thanks.";
+msgctxt "Guildsman#ASN2"
+msgid "Alright, thanks."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I'll transport you";
+msgctxt "Guildsman#ASN2"
+msgid "I'll transport you"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "to the Test Hall.";
+msgctxt "Guildsman#ASN2"
+msgid "to the Test Hall."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Best of luck~";
+msgctxt "Guildsman#ASN2"
+msgid "Best of luck~"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Who the";
+msgctxt "Guildsman#ASN2"
+msgid "Who the"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "hell are you?";
+msgctxt "Guildsman#ASN2"
+msgid "hell are you?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "...Guards!";
+msgctxt "Guildsman#ASN2"
+msgid "...Guards!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Huh...?";
+msgctxt "Guildsman#ASN2"
+msgid "Huh...?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "What, are you trying to trick me or something? Don't you wanna be an Assassin?";
+msgctxt "Guildsman#ASN2"
+msgid "What, are you trying to trick me or something? Don't you wanna be an Assassin?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("No.", "Yes, I want to be an Assassin.") == 1) {
+msgctxt "Guildsman#ASN2"
+msgid "No."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("No.", "Yes, I want to be an Assassin.") == 1) {
+msgctxt "Guildsman#ASN2"
+msgid "Yes, I want to be an Assassin."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Eh, get outta here.";
+msgctxt "Guildsman#ASN2"
+msgid "Eh, get outta here."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Stop wastin' my time...";
+msgctxt "Guildsman#ASN2"
+msgid "Stop wastin' my time..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "What the hell?";
+msgctxt "Guildsman#ASN2"
+msgid "What the hell?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Okay, then.";
+msgctxt "Guildsman#ASN2"
+msgid "Okay, then."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Fill out the application form with your name and job level.";
+msgctxt "Guildsman#ASN2"
+msgid "Fill out the application form with your name and job level."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "That's your name?";
+msgctxt "Guildsman#ASN2"
+msgid "That's your name?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It sounds funny.";
+msgctxt "Guildsman#ASN2"
+msgid "It sounds funny."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Let's see... Job Level " + JobLevel + "...";
+msgctxt "Guildsman#ASN2"
+msgid "Let's see... Job Level "
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Ho? Job Level " + JobLevel + "?! You must have been training really hard. The bosses will like that for sure...";
+msgctxt "Guildsman#ASN2"
+msgid "Ho? Job Level "
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Ho? Job Level " + JobLevel + "?! You must have been training really hard. The bosses will like that for sure...";
+msgctxt "Guildsman#ASN2"
+msgid "?! You must have been training really hard. The bosses will like that for sure..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Are you done filling out the form? Alright, give it to me so I can send you to the Test Hall. Good luck~";
+msgctxt "Guildsman#ASN2"
+msgid "Are you done filling out the form? Alright, give it to me so I can send you to the Test Hall. Good luck~"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Not bad. You fulfilled our requirements. Not bad at all. Now are you done filling out the form?";
+msgctxt "Guildsman#ASN2"
+msgid "Not bad. You fulfilled our requirements. Not bad at all. Now are you done filling out the form?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Then give me the form so that I can send you to the Test Hall, alright?";
+msgctxt "Guildsman#ASN2"
+msgid "Then give me the form so that I can send you to the Test Hall, alright?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Good luck...";
+msgctxt "Guildsman#ASN2"
+msgid "Good luck..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "How the hell did";
+msgctxt "Guildsman#ASN2"
+msgid "How the hell did"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "you get in here?";
+msgctxt "Guildsman#ASN2"
+msgid "you get in here?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Get out!";
+msgctxt "Guildsman#ASN2"
+msgid "Get out!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[The Anonymous One]";
+msgctxt "nameless_one"
+msgid "[The Anonymous One]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Welcome, guest.";
+msgctxt "nameless_one"
+msgid "Welcome, guest."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Mwahaha, it's useless";
+msgctxt "nameless_one"
+msgid "Mwahaha, it's useless"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "to try to find or see me...";
+msgctxt "nameless_one"
+msgid "to try to find or see me..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I am perfectly hidden!";
+msgctxt "nameless_one"
+msgid "I am perfectly hidden!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "To become undetectable can only be done by the greatest Assassins!";
+msgctxt "nameless_one"
+msgid "To become undetectable can only be done by the greatest Assassins!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Aren't you scared that you can't see me? I could kill you at any time and it would be so easy...";
+msgctxt "nameless_one"
+msgid "Aren't you scared that you can't see me? I could kill you at any time and it would be so easy..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("I think I crapped my pants!", "You're all talk. I challenge you!") == 1) {
+msgctxt "nameless_one"
+msgid "I think I crapped my pants!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("I think I crapped my pants!", "You're all talk. I challenge you!") == 1) {
+msgctxt "nameless_one"
+msgid "You're all talk. I challenge you!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Now I see that";
+msgctxt "nameless_one"
+msgid "Now I see that"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "you're nothing";
+msgctxt "nameless_one"
+msgid "you're nothing"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "but a wimp.";
+msgctxt "nameless_one"
+msgid "but a wimp."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Bwahahahahahah!";
+msgctxt "nameless_one"
+msgid "Bwahahahahahah!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Stop cowering in fear!";
+msgctxt "nameless_one"
+msgid "Stop cowering in fear!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It's making me laugh!";
+msgctxt "nameless_one"
+msgid "It's making me laugh!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "So...";
+msgctxt "nameless_one"
+msgid "So..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You wish for";
+msgctxt "nameless_one"
+msgid "You wish for"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "a challenge?";
+msgctxt "nameless_one"
+msgid "a challenge?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "From me?!";
+msgctxt "nameless_one"
+msgid "From me?!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "A river of blood follows my every footstep. I am nameless, for the sting of my blades is all anyone needs to know.";
+msgctxt "nameless_one"
+msgid "A river of blood follows my every footstep. I am nameless, for the sting of my blades is all anyone needs to know."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I am here to test your knowledge, as well as your capacity for heartlessness. Those are both necessary to become an Assassin.";
+msgctxt "nameless_one"
+msgid "I am here to test your knowledge, as well as your capacity for heartlessness. Those are both necessary to become an Assassin."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "For your challenge, you must";
+msgctxt "nameless_one"
+msgid "For your challenge, you must"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "answer my questions correctly. Very difficult questions that only an Assassin can answer.";
+msgctxt "nameless_one"
+msgid "answer my questions correctly. Very difficult questions that only an Assassin can answer."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Although I am heartless,";
+msgctxt "nameless_one"
+msgid "Although I am heartless,"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I am not necessarily cruel. Before we proceed, is there anything you wish to know?";
+msgctxt "nameless_one"
+msgid "I am not necessarily cruel. Before we proceed, is there anything you wish to know?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("...Skills?", "...Stats?", "Hmpf, I know it all.")) {
+msgctxt "nameless_one"
+msgid "...Skills?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("...Skills?", "...Stats?", "Hmpf, I know it all.")) {
+msgctxt "nameless_one"
+msgid "...Stats?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("...Skills?", "...Stats?", "Hmpf, I know it all.")) {
+msgctxt "nameless_one"
+msgid "Hmpf, I know it all."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Skills...?";
+msgctxt "nameless_one"
+msgid "Skills...?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Although skills can have circumstantial applications, I will tell you about the basic concepts.";
+msgctxt "nameless_one"
+msgid "Although skills can have circumstantial applications, I will tell you about the basic concepts."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "First, ^3355FFKatar Mastery^000000. This skill increases the damage of Katar class weapons. The higher the skill level, the more damage is increased.";
+msgctxt "nameless_one"
+msgid "First, ^3355FFKatar Mastery^000000. This skill increases the damage of Katar class weapons. The higher the skill level, the more damage is increased."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "^3355FFLeft Hand Mastery^000000 and ^3355FFRight Hand Mastery^000000. Assassins can equip different weapons in each hand when using Dagger class weapons.";
+msgctxt "nameless_one"
+msgid "^3355FFLeft Hand Mastery^000000 and ^3355FFRight Hand Mastery^000000. Assassins can equip different weapons in each hand when using Dagger class weapons."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "But it is obviously more difficult to handle 2 weapons at a time than using just one. The Left and Right Hand Mastery skills increase the damage when using two Daggers.";
+msgctxt "nameless_one"
+msgid "But it is obviously more difficult to handle 2 weapons at a time than using just one. The Left and Right Hand Mastery skills increase the damage when using two Daggers."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "However, if you don't want to use two Daggers, you won't need this skill. You will see how 'Left Hand Mastery' works as soon as you reach 'Right Hand Mastery' Level 2.";
+msgctxt "nameless_one"
+msgid "However, if you don't want to use two Daggers, you won't need this skill. You will see how 'Left Hand Mastery' works as soon as you reach 'Right Hand Mastery' Level 2."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "^3355FFSonic Blow^000000 allows you to strike an enemy 8 times at once. This skill only works with Katar weapons because of the speed it requires.";
+msgctxt "nameless_one"
+msgid "^3355FFSonic Blow^000000 allows you to strike an enemy 8 times at once. This skill only works with Katar weapons because of the speed it requires."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Of course, the damage is affected by STR and weapon damage. You'll understand how this skill works when you reach Level 4 Katar Mastery.";
+msgctxt "nameless_one"
+msgid "Of course, the damage is affected by STR and weapon damage. You'll understand how this skill works when you reach Level 4 Katar Mastery."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "^3355FFGrimtooth^000000 allows you to attack enemies while hiding under the ground. As you master it, you'll be able to attack foes from a distance.";
+msgctxt "nameless_one"
+msgid "^3355FFGrimtooth^000000 allows you to attack enemies while hiding under the ground. As you master it, you'll be able to attack foes from a distance."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Since it's a ranged attack, it can be very useful when you're surrounded by enemies.";
+msgctxt "nameless_one"
+msgid "Since it's a ranged attack, it can be very useful when you're surrounded by enemies."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Because you're required to perfectly hide yourself to use this skill, you must first learn Level 2 Cloaking before you can learn Grimtooth.";
+msgctxt "nameless_one"
+msgid "Because you're required to perfectly hide yourself to use this skill, you must first learn Level 2 Cloaking before you can learn Grimtooth."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "To learn ^3355FFCloaking^000000, you must learn Level 2 Hiding. Then you will be able to move while hiding if you are close to a wall.";
+msgctxt "nameless_one"
+msgid "To learn ^3355FFCloaking^000000, you must learn Level 2 Hiding. Then you will be able to move while hiding if you are close to a wall."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "The ^3355FFEnchant Poison^000000 skill allows you to enchant poison on the weapon you're using. This will temporarily give the weapon the Poison property.";
+msgctxt "nameless_one"
+msgid "The ^3355FFEnchant Poison^000000 skill allows you to enchant poison on the weapon you're using. This will temporarily give the weapon the Poison property."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "This will also make your attacks poison the enemy by chance. You can also use this skill to enchant the weapons of your party members...";
+msgctxt "nameless_one"
+msgid "This will also make your attacks poison the enemy by chance. You can also use this skill to enchant the weapons of your party members..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "^3355FFPoison React^000000 shields the user from attacks with the Poison property, and can be used on other people as well. However, you must learn Level 3 Enchant Poison first.";
+msgctxt "nameless_one"
+msgid "^3355FFPoison React^000000 shields the user from attacks with the Poison property, and can be used on other people as well. However, you must learn Level 3 Enchant Poison first."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "^3355FFVenom Dust^000000 consumes a Red Gemstone to contaminate an area with poison. The duration of contamination increases with the level of this skill.";
+msgctxt "nameless_one"
+msgid "^3355FFVenom Dust^000000 consumes a Red Gemstone to contaminate an area with poison. The duration of contamination increases with the level of this skill."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You can learn the Venom Dust skill after you learn Level 5 Enchant Poison.";
+msgctxt "nameless_one"
+msgid "You can learn the Venom Dust skill after you learn Level 5 Enchant Poison."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "^3355FFVenom Splasher^000000 is a skill that, after it is used on a target, will cause it to explode when its HP is less than a certain amount after three seconds.";
+msgctxt "nameless_one"
+msgid "^3355FFVenom Splasher^000000 is a skill that, after it is used on a target, will cause it to explode when its HP is less than a certain amount after three seconds."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "When the target explodes, the enemies in the vicinity are also damaged. This is an essential skill for Assassins. It requires Level 5 Poison React and Level 5 Venom Dust.";
+msgctxt "nameless_one"
+msgid "When the target explodes, the enemies in the vicinity are also damaged. This is an essential skill for Assassins. It requires Level 5 Poison React and Level 5 Venom Dust."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Now...";
+msgctxt "nameless_one"
+msgid "Now..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "That's all I have to tell you";
+msgctxt "nameless_one"
+msgid "That's all I have to tell you"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "about Assassin skills.";
+msgctxt "nameless_one"
+msgid "about Assassin skills."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hmm, Stats...";
+msgctxt "nameless_one"
+msgid "Hmm, Stats..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "For Assassins, Agility, or AGI, is the most important stat.";
+msgctxt "nameless_one"
+msgid "For Assassins, Agility, or AGI, is the most important stat."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "For the sake of assassination, STR is probably the second most important stat. But that is only my recommendation.";
+msgctxt "nameless_one"
+msgid "For the sake of assassination, STR is probably the second most important stat. But that is only my recommendation."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I cannot give you better advice than that in regards to Stats. You should research and see which stats suit you, and decide what kind of Assassin you want to be.";
+msgctxt "nameless_one"
+msgid "I cannot give you better advice than that in regards to Stats. You should research and see which stats suit you, and decide what kind of Assassin you want to be."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Know everything do you?!";
+msgctxt "nameless_one"
+msgid "Know everything do you?!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I'll be the judge of that!";
+msgctxt "nameless_one"
+msgid "I'll be the judge of that!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hmpf. It is now time to test your knowledge. You are not allowed to miss more than one question.";
+msgctxt "nameless_one"
+msgid "Hmpf. It is now time to test your knowledge. You are not allowed to miss more than one question."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "In other words, if you want to pass this test, you must give me 9 correct answers out of 10 questions. I won't let you know which answer you got wrong...";
+msgctxt "nameless_one"
+msgid "In other words, if you want to pass this test, you must give me 9 correct answers out of 10 questions. I won't let you know which answer you got wrong..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Are you ready?";
+msgctxt "nameless_one"
+msgid "Are you ready?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Prepare yourself!";
+msgctxt "nameless_one"
+msgid "Prepare yourself!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Having problems";
+msgctxt "nameless_one"
+msgid "Having problems"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "passing a simple test?";
+msgctxt "nameless_one"
+msgid "passing a simple test?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You should have";
+msgctxt "nameless_one"
+msgid "You should have"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "known better.";
+msgctxt "nameless_one"
+msgid "known better."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Help me, how do I pass?", "I challenge you again!") == 1) {
+msgctxt "nameless_one"
+msgid "Help me, how do I pass?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Help me, how do I pass?", "I challenge you again!") == 1) {
+msgctxt "nameless_one"
+msgid "I challenge you again!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well, that's a damn good question. But you're banished from the Assassin Guild, so it's no concern of mine...";
+msgctxt "nameless_one"
+msgid "Well, that's a damn good question. But you're banished from the Assassin Guild, so it's no concern of mine..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "So I see...";
+msgctxt "nameless_one"
+msgid "So I see..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Now go, but do not fear. I will be by your side as you learn the outcome of your choice...";
+msgctxt "nameless_one"
+msgid "Now go, but do not fear. I will be by your side as you learn the outcome of your choice..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Now, we shall test you once more! Keep in mind, you must answer 9 questions out of 10 correctly. Remember I am doing you a favor...";
+msgctxt "nameless_one"
+msgid "Now, we shall test you once more! Keep in mind, you must answer 9 questions out of 10 correctly. Remember I am doing you a favor..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You must answer 9 questions out of 10 correctly. If you miss more then one question, you can never become an Assassin.";
+msgctxt "nameless_one"
+msgid "You must answer 9 questions out of 10 correctly. If you miss more then one question, you can never become an Assassin."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Okay,";
+msgctxt "nameless_one"
+msgid "Okay,"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "are you ready?";
+msgctxt "nameless_one"
+msgid "are you ready?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Good luck.";
+msgctxt "nameless_one"
+msgid "Good luck."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "1. Choose skill that is not required to learn Grimtooth.";
+msgctxt "nameless_one"
+msgid "1. Choose skill that is not required to learn Grimtooth."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Cloaking level 2", "Sonic Blow level 5", "Katar Mastery level 4", "Right hand Mastery level 2") == 4)
+msgctxt "nameless_one"
+msgid "Cloaking level 2"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Cloaking level 2", "Sonic Blow level 5", "Katar Mastery level 4", "Right hand Mastery level 2") == 4)
+msgctxt "nameless_one"
+msgid "Sonic Blow level 5"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Cloaking level 2", "Sonic Blow level 5", "Katar Mastery level 4", "Right hand Mastery level 2") == 4)
+msgctxt "nameless_one"
+msgid "Katar Mastery level 4"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Cloaking level 2", "Sonic Blow level 5", "Katar Mastery level 4", "Right hand Mastery level 2") == 4)
+msgctxt "nameless_one"
+msgid "Right hand Mastery level 2"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "2. What property does Enchant Poison possess?";
+msgctxt "nameless_one"
+msgid "2. What property does Enchant Poison possess?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poison", "Earth", "Fire", "Wind") == 1)
+msgctxt "nameless_one"
+msgid "Poison"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poison", "Earth", "Fire", "Wind") == 1)
+msgctxt "nameless_one"
+msgid "Earth"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poison", "Earth", "Fire", "Wind") == 1)
+msgctxt "nameless_one"
+msgid "Fire"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poison", "Earth", "Fire", "Wind") == 1)
+msgctxt "nameless_one"
+msgid "Wind"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "3. How does Level 4 Right Hand Mastery work?";
+msgctxt "nameless_one"
+msgid "3. How does Level 4 Right Hand Mastery work?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Recover 80% of damage decrease", "Recover 90% of damage decrease", "Increase 90% of damage", "Increase 108% of damage") == 2)
+#, no-c-format
+msgctxt "nameless_one"
+msgid "Recover 80% of damage decrease"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Recover 80% of damage decrease", "Recover 90% of damage decrease", "Increase 90% of damage", "Increase 108% of damage") == 2)
+#, no-c-format
+msgctxt "nameless_one"
+msgid "Recover 90% of damage decrease"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Recover 80% of damage decrease", "Recover 90% of damage decrease", "Increase 90% of damage", "Increase 108% of damage") == 2)
+#, no-c-format
+msgctxt "nameless_one"
+msgid "Increase 90% of damage"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Recover 80% of damage decrease", "Recover 90% of damage decrease", "Increase 90% of damage", "Increase 108% of damage") == 2)
+#, no-c-format
+msgctxt "nameless_one"
+msgid "Increase 108% of damage"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "4. What is the item required for using Venom Dust?";
+msgctxt "nameless_one"
+msgid "4. What is the item required for using Venom Dust?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Red Blood", "Blue Gemstone", "Yellow Gemstone", "Red Gemstone") == 4)
+msgctxt "nameless_one"
+msgid "Red Blood"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Red Blood", "Blue Gemstone", "Yellow Gemstone", "Red Gemstone") == 4)
+msgctxt "nameless_one"
+msgid "Blue Gemstone"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Red Blood", "Blue Gemstone", "Yellow Gemstone", "Red Gemstone") == 4)
+msgctxt "nameless_one"
+msgid "Yellow Gemstone"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Red Blood", "Blue Gemstone", "Yellow Gemstone", "Red Gemstone") == 4)
+msgctxt "nameless_one"
+msgid "Red Gemstone"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "5. Which skill can you learn when you reach Level 5 Enchant Poison?";
+msgctxt "nameless_one"
+msgid "5. Which skill can you learn when you reach Level 5 Enchant Poison?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Envenom", "Sonic Blow", "Venom Splasher", "Venom Dust") == 4)
+msgctxt "nameless_one"
+msgid "Envenom"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Envenom", "Sonic Blow", "Venom Splasher", "Venom Dust") == 4)
+msgctxt "nameless_one"
+msgid "Sonic Blow"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Envenom", "Sonic Blow", "Venom Splasher", "Venom Dust") == 4)
+msgctxt "nameless_one"
+msgid "Venom Splasher"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Envenom", "Sonic Blow", "Venom Splasher", "Venom Dust") == 4)
+msgctxt "nameless_one"
+msgid "Venom Dust"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "6. Among the following skills, which allows you to walk while invisible?";
+msgctxt "nameless_one"
+msgid "6. Among the following skills, which allows you to walk while invisible?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Hiding", "Back Slide", "Cloaking", "Sand Attack") == 3)
+msgctxt "nameless_one"
+msgid "Hiding"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Hiding", "Back Slide", "Cloaking", "Sand Attack") == 3)
+msgctxt "nameless_one"
+msgid "Back Slide"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Hiding", "Back Slide", "Cloaking", "Sand Attack") == 3)
+msgctxt "nameless_one"
+msgid "Cloaking"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Hiding", "Back Slide", "Cloaking", "Sand Attack") == 3)
+msgctxt "nameless_one"
+msgid "Sand Attack"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "7. Choose the condition that is unrelated to Venom Splasher.";
+msgctxt "nameless_one"
+msgid "7. Choose the condition that is unrelated to Venom Splasher."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poisoned target.", "Red Gemstone.", "Remaing HP of Target.") == 2)
+msgctxt "nameless_one"
+msgid "Poisoned target."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poisoned target.", "Red Gemstone.", "Remaing HP of Target.") == 2)
+msgctxt "nameless_one"
+msgid "Red Gemstone."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poisoned target.", "Red Gemstone.", "Remaing HP of Target.") == 2)
+msgctxt "nameless_one"
+msgid "Remaing HP of Target."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "8. Which monster is weak to a weapon with Vadon card (adds 20% damage on Fire property monster)?";
+#, no-c-format
+msgctxt "nameless_one"
+msgid "8. Which monster is weak to a weapon with Vadon card (adds 20% damage on Fire property monster)?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Steel Chonchon", "Deviruchi", "Elder Willow", "Baphomet") == 3)
+msgctxt "nameless_one"
+msgid "Steel Chonchon"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Steel Chonchon", "Deviruchi", "Elder Willow", "Baphomet") == 3)
+msgctxt "nameless_one"
+msgid "Deviruchi"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Steel Chonchon", "Deviruchi", "Elder Willow", "Baphomet") == 3)
+msgctxt "nameless_one"
+msgid "Elder Willow"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Steel Chonchon", "Deviruchi", "Elder Willow", "Baphomet") == 3)
+msgctxt "nameless_one"
+msgid "Baphomet"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "9. How much SP does";
+msgctxt "nameless_one"
+msgid "9. How much SP does"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Double Attack need?";
+msgctxt "nameless_one"
+msgid "Double Attack need?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("15", "It's a passive skill, so SP use is 0.", "It's passive skill, so SP use is 10.", "54") == 2)
+msgctxt "nameless_one"
+msgid "15"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("15", "It's a passive skill, so SP use is 0.", "It's passive skill, so SP use is 10.", "54") == 2)
+msgctxt "nameless_one"
+msgid "It's a passive skill, so SP use is 0."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("15", "It's a passive skill, so SP use is 0.", "It's passive skill, so SP use is 10.", "54") == 2)
+msgctxt "nameless_one"
+msgid "It's passive skill, so SP use is 10."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("15", "It's a passive skill, so SP use is 0.", "It's passive skill, so SP use is 10.", "54") == 2)
+msgctxt "nameless_one"
+msgid "54"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "10. What is the best elemental Main Gauche weapon for hunting in Izlude dungeon?";
+msgctxt "nameless_one"
+msgid "10. What is the best elemental Main Gauche weapon for hunting in Izlude dungeon?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Wind Main Gauche", "Ice Main Gauche", "Earth Main Gauche", "Fire Main Gauche") == 1)
+msgctxt "nameless_one"
+msgid "Wind Main Gauche"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Wind Main Gauche", "Ice Main Gauche", "Earth Main Gauche", "Fire Main Gauche") == 1)
+msgctxt "nameless_one"
+msgid "Ice Main Gauche"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Wind Main Gauche", "Ice Main Gauche", "Earth Main Gauche", "Fire Main Gauche") == 1)
+msgctxt "nameless_one"
+msgid "Earth Main Gauche"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Wind Main Gauche", "Ice Main Gauche", "Earth Main Gauche", "Fire Main Gauche") == 1)
+msgctxt "nameless_one"
+msgid "Fire Main Gauche"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "1. Which monster";
+msgctxt "nameless_one"
+msgid "1. Which monster"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "drops a slotted Katar?";
+msgctxt "nameless_one"
+msgid "drops a slotted Katar?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Thief Bug", "Peco Peco", "Desert Wolf", "Hammer Cobolt") == 3)
+msgctxt "nameless_one"
+msgid "Thief Bug"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Thief Bug", "Peco Peco", "Desert Wolf", "Hammer Cobolt") == 3)
+msgctxt "nameless_one"
+msgid "Peco Peco"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Thief Bug", "Peco Peco", "Desert Wolf", "Hammer Cobolt") == 3)
+msgctxt "nameless_one"
+msgid "Desert Wolf"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Thief Bug", "Peco Peco", "Desert Wolf", "Hammer Cobolt") == 3)
+msgctxt "nameless_one"
+msgid "Hammer Cobolt"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "2. Which monster";
+msgctxt "nameless_one"
+msgid "2. Which monster"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "drops a slotted Jur?";
+msgctxt "nameless_one"
+msgid "drops a slotted Jur?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Martin", "Desert Wolf", "Marionette", "Myst") == 1)
+msgctxt "nameless_one"
+msgid "Martin"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Martin", "Desert Wolf", "Marionette", "Myst") == 1)
+msgctxt "nameless_one"
+msgid "Marionette"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Martin", "Desert Wolf", "Marionette", "Myst") == 1)
+msgctxt "nameless_one"
+msgid "Myst"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "3. Which class is allowed to craft elemental weapons?";
+msgctxt "nameless_one"
+msgid "3. Which class is allowed to craft elemental weapons?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Merchant", "Blacksmith", "Thief", "Priest") == 2)
+msgctxt "nameless_one"
+msgid "Merchant"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Merchant", "Blacksmith", "Thief", "Priest") == 2)
+msgctxt "nameless_one"
+msgid "Blacksmith"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Merchant", "Blacksmith", "Thief", "Priest") == 2)
+msgctxt "nameless_one"
+msgid "Thief"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Merchant", "Blacksmith", "Thief", "Priest") == 2)
+msgctxt "nameless_one"
+msgid "Priest"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "4. Choose the weapon which is not in the Katar class.";
+msgctxt "nameless_one"
+msgid "4. Choose the weapon which is not in the Katar class."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Jamadhar", "Jur", "Katar", "Gladius") == 4)
+msgctxt "nameless_one"
+msgid "Jamadhar"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Jamadhar", "Jur", "Katar", "Gladius") == 4)
+msgctxt "nameless_one"
+msgid "Jur"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Jamadhar", "Jur", "Katar", "Gladius") == 4)
+msgctxt "nameless_one"
+msgid "Katar"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Jamadhar", "Jur", "Katar", "Gladius") == 4)
+msgctxt "nameless_one"
+msgid "Gladius"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "5. What property do Izlude dungeon monsters posses?";
+msgctxt "nameless_one"
+msgid "5. What property do Izlude dungeon monsters posses?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Water", "Fire", "Wind", "Earth") == 1)
+msgctxt "nameless_one"
+msgid "Water"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "6. Which monster";
+msgctxt "nameless_one"
+msgid "6. Which monster"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "cannot be a Cute Pet?";
+msgctxt "nameless_one"
+msgid "cannot be a Cute Pet?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poporing", "Roda Frog", "Smokie", "Poison Spore") == 2)
+msgctxt "nameless_one"
+msgid "Poporing"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poporing", "Roda Frog", "Smokie", "Poison Spore") == 2)
+msgctxt "nameless_one"
+msgid "Roda Frog"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poporing", "Roda Frog", "Smokie", "Poison Spore") == 2)
+msgctxt "nameless_one"
+msgid "Smokie"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poporing", "Roda Frog", "Smokie", "Poison Spore") == 2)
+msgctxt "nameless_one"
+msgid "Poison Spore"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "7. Choose a monster that Fire property Daggers work the best on.";
+msgctxt "nameless_one"
+msgid "7. Choose a monster that Fire property Daggers work the best on."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Dagger Goblin", "Mace Goblin", "Morning Star Goblin", "Hammer Goblin") == 4)
+msgctxt "nameless_one"
+msgid "Dagger Goblin"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Dagger Goblin", "Mace Goblin", "Morning Star Goblin", "Hammer Goblin") == 4)
+msgctxt "nameless_one"
+msgid "Mace Goblin"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Dagger Goblin", "Mace Goblin", "Morning Star Goblin", "Hammer Goblin") == 4)
+msgctxt "nameless_one"
+msgid "Morning Star Goblin"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Dagger Goblin", "Mace Goblin", "Morning Star Goblin", "Hammer Goblin") == 4)
+msgctxt "nameless_one"
+msgid "Hammer Goblin"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "8. Choose the non-elemental Katar from the following:";
+msgctxt "nameless_one"
+msgid "8. Choose the non-elemental Katar from the following:"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Katar of Raging Blaze", "Katar of Dusty Thornbush", "Sharpened Legbone of Ghoul", "Infiltrator") == 4)
+msgctxt "nameless_one"
+msgid "Katar of Raging Blaze"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Katar of Raging Blaze", "Katar of Dusty Thornbush", "Sharpened Legbone of Ghoul", "Infiltrator") == 4)
+msgctxt "nameless_one"
+msgid "Katar of Dusty Thornbush"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Katar of Raging Blaze", "Katar of Dusty Thornbush", "Sharpened Legbone of Ghoul", "Infiltrator") == 4)
+msgctxt "nameless_one"
+msgid "Sharpened Legbone of Ghoul"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Katar of Raging Blaze", "Katar of Dusty Thornbush", "Sharpened Legbone of Ghoul", "Infiltrator") == 4)
+msgctxt "nameless_one"
+msgid "Infiltrator"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "9. Which is the uncommon monster?";
+msgctxt "nameless_one"
+msgid "9. Which is the uncommon monster?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poring", "Mastering", "Ghostring", "Spore") == 3)
+msgctxt "nameless_one"
+msgid "Poring"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poring", "Mastering", "Ghostring", "Spore") == 3)
+msgctxt "nameless_one"
+msgid "Mastering"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poring", "Mastering", "Ghostring", "Spore") == 3)
+msgctxt "nameless_one"
+msgid "Ghostring"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Poring", "Mastering", "Ghostring", "Spore") == 3)
+msgctxt "nameless_one"
+msgid "Spore"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "10. Choose the monster";
+msgctxt "nameless_one"
+msgid "10. Choose the monster"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "that is not Undead.";
+msgctxt "nameless_one"
+msgid "that is not Undead."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Drake", "Megalodon", "Spore", "Khalitzburg") == 3)
+msgctxt "nameless_one"
+msgid "Drake"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Drake", "Megalodon", "Spore", "Khalitzburg") == 3)
+msgctxt "nameless_one"
+msgid "Megalodon"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Drake", "Megalodon", "Spore", "Khalitzburg") == 3)
+msgctxt "nameless_one"
+msgid "Khalitzburg"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "1. Choose the correct amount of the maximum dodge rate increase from the 'Increase Dodge' skill when at level 10.";
+msgctxt "nameless_one"
+msgid "1. Choose the correct amount of the maximum dodge rate increase from the 'Increase Dodge' skill when at level 10."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("30", "40", "160", "20") == 1)
+msgctxt "nameless_one"
+msgid "30"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("30", "40", "160", "20") == 1)
+msgctxt "nameless_one"
+msgid "40"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("30", "40", "160", "20") == 1)
+msgctxt "nameless_one"
+msgid "160"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("30", "40", "160", "20") == 1)
+msgctxt "nameless_one"
+msgid "20"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "2. Choose a monster which detects hiding/cloaking Thieves and Assassins.";
+msgctxt "nameless_one"
+msgid "2. Choose a monster which detects hiding/cloaking Thieves and Assassins."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Worm Tail", "Andre", "Mummy", "Soldier Skeleton") == 2)
+msgctxt "nameless_one"
+msgid "Worm Tail"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Worm Tail", "Andre", "Mummy", "Soldier Skeleton") == 2)
+msgctxt "nameless_one"
+msgid "Andre"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Worm Tail", "Andre", "Mummy", "Soldier Skeleton") == 2)
+msgctxt "nameless_one"
+msgid "Mummy"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Worm Tail", "Andre", "Mummy", "Soldier Skeleton") == 2)
+msgctxt "nameless_one"
+msgid "Soldier Skeleton"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "3. Choose a group of weapons that cannot be used by an Assassin at once.";
+msgctxt "nameless_one"
+msgid "3. Choose a group of weapons that cannot be used by an Assassin at once."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Main Gaughe + Gladius", "Stiletto + Main Gauche", "Katar + Maingauche", "Hammer + Stiletto") == 3)
+msgctxt "nameless_one"
+msgid "Main Gaughe + Gladius"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Main Gaughe + Gladius", "Stiletto + Main Gauche", "Katar + Maingauche", "Hammer + Stiletto") == 3)
+msgctxt "nameless_one"
+msgid "Stiletto + Main Gauche"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Main Gaughe + Gladius", "Stiletto + Main Gauche", "Katar + Maingauche", "Hammer + Stiletto") == 3)
+msgctxt "nameless_one"
+msgid "Katar + Maingauche"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Main Gaughe + Gladius", "Stiletto + Main Gauche", "Katar + Maingauche", "Hammer + Stiletto") == 3)
+msgctxt "nameless_one"
+msgid "Hammer + Stiletto"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "4. Choose the town where Thieves can change their jobs.";
+msgctxt "nameless_one"
+msgid "4. Choose the town where Thieves can change their jobs."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Prontera", "Lutie", "Alberta", "Morocc") == 4)
+msgctxt "nameless_one"
+msgid "Prontera"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Prontera", "Lutie", "Alberta", "Morocc") == 4)
+msgctxt "nameless_one"
+msgid "Lutie"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Prontera", "Lutie", "Alberta", "Morocc") == 4)
+msgctxt "nameless_one"
+msgid "Alberta"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Prontera", "Lutie", "Alberta", "Morocc") == 4)
+msgctxt "nameless_one"
+msgid "Morocc"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "5. Choose a card that does not affect the AGI stat.";
+msgctxt "nameless_one"
+msgid "5. Choose a card that does not affect the AGI stat."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Baphomet Jr. card", "Whisper Card", "Female Thiefbug card", "Male Thiefbug card") == 2)
+msgctxt "nameless_one"
+msgid "Baphomet Jr. card"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Baphomet Jr. card", "Whisper Card", "Female Thiefbug card", "Male Thiefbug card") == 2)
+msgctxt "nameless_one"
+msgid "Whisper Card"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Baphomet Jr. card", "Whisper Card", "Female Thiefbug card", "Male Thiefbug card") == 2)
+msgctxt "nameless_one"
+msgid "Female Thiefbug card"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Baphomet Jr. card", "Whisper Card", "Female Thiefbug card", "Male Thiefbug card") == 2)
+msgctxt "nameless_one"
+msgid "Male Thiefbug card"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "6. Choose the correct specialty of the Assassin class.";
+msgctxt "nameless_one"
+msgid "6. Choose the correct specialty of the Assassin class."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Excellent singing talent", "Excellent reading talent", "Excellent dancing talent", "Excellent dodge ability") == 4)
+msgctxt "nameless_one"
+msgid "Excellent singing talent"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Excellent singing talent", "Excellent reading talent", "Excellent dancing talent", "Excellent dodge ability") == 4)
+msgctxt "nameless_one"
+msgid "Excellent reading talent"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Excellent singing talent", "Excellent reading talent", "Excellent dancing talent", "Excellent dodge ability") == 4)
+msgctxt "nameless_one"
+msgid "Excellent dancing talent"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Excellent singing talent", "Excellent reading talent", "Excellent dancing talent", "Excellent dodge ability") == 4)
+msgctxt "nameless_one"
+msgid "Excellent dodge ability"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "7. Choose the maximum AGI bonus an Assassin can get at job level 50.";
+msgctxt "nameless_one"
+msgid "7. Choose the maximum AGI bonus an Assassin can get at job level 50."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("7", "8", "9", "10") == 4)
+msgctxt "nameless_one"
+msgid "7"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("7", "8", "9", "10") == 4)
+msgctxt "nameless_one"
+msgid "8"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("7", "8", "9", "10") == 4)
+msgctxt "nameless_one"
+msgid "9"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("7", "8", "9", "10") == 4)
+msgctxt "nameless_one"
+msgid "10"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "8. Choose the item that an Assassin cannot equip.";
+msgctxt "nameless_one"
+msgid "8. Choose the item that an Assassin cannot equip."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Dagger", "Helm", "Boots", "Brooch") == 2)
+msgctxt "nameless_one"
+msgid "Dagger"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Dagger", "Helm", "Boots", "Brooch") == 2)
+msgctxt "nameless_one"
+msgid "Helm"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Dagger", "Helm", "Boots", "Brooch") == 2)
+msgctxt "nameless_one"
+msgid "Boots"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Dagger", "Helm", "Boots", "Brooch") == 2)
+msgctxt "nameless_one"
+msgid "Brooch"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "9. Choose the job change item for Thief.";
+msgctxt "nameless_one"
+msgid "9. Choose the job change item for Thief."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Orange Gooey Mushroom", "Red Gooey Mushroom", "Orange Net Mushroom", "Orange Hair Mushroom")) {
+msgctxt "nameless_one"
+msgid "Orange Gooey Mushroom"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Orange Gooey Mushroom", "Red Gooey Mushroom", "Orange Net Mushroom", "Orange Hair Mushroom")) {
+msgctxt "nameless_one"
+msgid "Red Gooey Mushroom"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Orange Gooey Mushroom", "Red Gooey Mushroom", "Orange Net Mushroom", "Orange Hair Mushroom")) {
+msgctxt "nameless_one"
+msgid "Orange Net Mushroom"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Orange Gooey Mushroom", "Red Gooey Mushroom", "Orange Net Mushroom", "Orange Hair Mushroom")) {
+msgctxt "nameless_one"
+msgid "Orange Hair Mushroom"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "10. Choose a card that would typically benefit an Assassin the least.";
+msgctxt "nameless_one"
+msgid "10. Choose a card that would typically benefit an Assassin the least."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Whisper card", "Elder Willow card", "Soldier Skeleton card", "Cobold card") == 2)
+msgctxt "nameless_one"
+msgid "Whisper card"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Whisper card", "Elder Willow card", "Soldier Skeleton card", "Cobold card") == 2)
+msgctxt "nameless_one"
+msgid "Elder Willow card"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Whisper card", "Elder Willow card", "Soldier Skeleton card", "Cobold card") == 2)
+msgctxt "nameless_one"
+msgid "Soldier Skeleton card"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Whisper card", "Elder Willow card", "Soldier Skeleton card", "Cobold card") == 2)
+msgctxt "nameless_one"
+msgid "Cobold card"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hmpf.";
+msgctxt "nameless_one"
+msgid "Hmpf."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Somehow, you";
+msgctxt "nameless_one"
+msgid "Somehow, you"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "have shown me";
+msgctxt "nameless_one"
+msgid "have shown me"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "great effort.";
+msgctxt "nameless_one"
+msgid "great effort."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Let's see...";
+msgctxt "nameless_one"
+msgid "Let's see..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You scored";
+msgctxt "nameless_one"
+msgid "You scored"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "" + .@assassin_t + " percent...";
+msgctxt "nameless_one"
+msgid " percent..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well done.";
+msgctxt "nameless_one"
+msgid "Well done."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You pass.";
+msgctxt "nameless_one"
+msgid "You pass."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "However, another test awaits you. When you go inside the next area, you will receive your instructions...";
+msgctxt "nameless_one"
+msgid "However, another test awaits you. When you go inside the next area, you will receive your instructions..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "That means you fail!";
+msgctxt "nameless_one"
+msgid "That means you fail!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "How could you expect to be an Assassin with this score? Keep training and come back when you're ready.";
+msgctxt "nameless_one"
+msgid "How could you expect to be an Assassin with this score? Keep training and come back when you're ready."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I would ask 'Khai,' the one who processed your application, for advice.";
+msgctxt "nameless_one"
+msgid "I would ask 'Khai,' the one who processed your application, for advice."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You may also use this code: ^880000iro.ragnarokonline.com^000000. Somehow, those words are linked to a vast body of otherworldly knowledge...";
+msgctxt "nameless_one"
+msgid "You may also use this code: ^880000iro.ragnarokonline.com^000000. Somehow, those words are linked to a vast body of otherworldly knowledge..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You showed";
+msgctxt "nameless_one"
+msgid "You showed"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "great effort...";
+msgctxt "nameless_one"
+msgid "great effort..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "" + .@assassin_t + " points...";
+msgctxt "nameless_one"
+msgid " points..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You didn't fail this time! But you're not done just yet. You have another test ahead of you. Once you proceed, you will be informed about your next trial.";
+msgctxt "nameless_one"
+msgid "You didn't fail this time! But you're not done just yet. You have another test ahead of you. Once you proceed, you will be informed about your next trial."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You failed!";
+msgctxt "nameless_one"
+msgid "You failed!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You're too underqualified. How can you even think about becoming an Assassin?!";
+msgctxt "nameless_one"
+msgid "You're too underqualified. How can you even think about becoming an Assassin?!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I'm surprised that you were even able to become a Thief. Go away, and come back only when you know what the hell you're doing.";
+msgctxt "nameless_one"
+msgid "I'm surprised that you were even able to become a Thief. Go away, and come back only when you know what the hell you're doing."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hmpf, if you really don't have a clue, I will give you a little advice.";
+msgctxt "nameless_one"
+msgid "Hmpf, if you really don't have a clue, I will give you a little advice."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Go ask 'Khai,' the guy who takes care of your test application, maybe he will help you.";
+msgctxt "nameless_one"
+msgid "Go ask 'Khai,' the guy who takes care of your test application, maybe he will help you."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You may also wish to take advantage of the ancient code, ^3355FFiro.ragnarokonline.com^000000. Supposedly, those words are linked to a vast body of otherworldly knowledge...";
+msgctxt "nameless_one"
+msgid "You may also wish to take advantage of the ancient code, ^3355FFiro.ragnarokonline.com^000000. Supposedly, those words are linked to a vast body of otherworldly knowledge..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "...I will keep watching you.";
+msgctxt "nameless_one"
+msgid "...I will keep watching you."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Barcardi]";
+msgctxt "Test Guide#ASN"
+msgid "[Barcardi]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You can't take the next trial without passing the written test first. You better speak to the Anonymous One...";
+msgctxt "Test Guide#ASN"
+msgid "You can't take the next trial without passing the written test first. You better speak to the Anonymous One..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You passed the test..?";
+msgctxt "Test Guide#ASN"
+msgid "You passed the test..?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "To be honest, I want to grant you the job change without any other condition. Too many pathetic people don't even have the basic knowledge to be Assassins...";
+msgctxt "Test Guide#ASN"
+msgid "To be honest, I want to grant you the job change without any other condition. Too many pathetic people don't even have the basic knowledge to be Assassins..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "We must keep our dignity as Assassins and be truly great! Regrettably, there are too many idiots that don't have any pride.";
+msgctxt "Test Guide#ASN"
+msgid "We must keep our dignity as Assassins and be truly great! Regrettably, there are too many idiots that don't have any pride."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "All Assassins must respect the enemies they slay, the blood that they spill, and above all, maintain their sense of dignity!";
+msgctxt "Test Guide#ASN"
+msgid "All Assassins must respect the enemies they slay, the blood that they spill, and above all, maintain their sense of dignity!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Alright. This next trial will test your ability to quickly find your target.";
+msgctxt "Test Guide#ASN"
+msgid "Alright. This next trial will test your ability to quickly find your target."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "If you're going to be an Assassin, we need to determine whether or not you can distinguish friend from foe in an instant.";
+msgctxt "Test Guide#ASN"
+msgid "If you're going to be an Assassin, we need to determine whether or not you can distinguish friend from foe in an instant."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "The main goal of this test is to find and kill as many monsters named ^008800Job change target^000000 as possible.";
+msgctxt "Test Guide#ASN"
+msgid "The main goal of this test is to find and kill as many monsters named ^008800Job change target^000000 as possible."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You must kill at least";
+msgctxt "Test Guide#ASN"
+msgid "You must kill at least"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "6 ^008800Job change target^000000 monsters. They're intermingled among similar looking monsters, so you need to be careful...";
+msgctxt "Test Guide#ASN"
+msgid "6 ^008800Job change target^000000 monsters. They're intermingled among similar looking monsters, so you need to be careful..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "If you fail, you'll have to restart this test. Go to the room above";
+msgctxt "Test Guide#ASN"
+msgid "If you fail, you'll have to restart this test. Go to the room above"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "me to be transported to the Test Hall.";
+msgctxt "Test Guide#ASN"
+msgid "me to be transported to the Test Hall."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Only one person is allowed to take the test at a time, so if anyone is taking the test, you'll have to wait until that person finishes.";
+msgctxt "Test Guide#ASN"
+msgid "Only one person is allowed to take the test at a time, so if anyone is taking the test, you'll have to wait until that person finishes."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hey, don't be too hard";
+msgctxt "Test Guide#ASN"
+msgid "Hey, don't be too hard"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "on yourself. Cheer up!";
+msgctxt "Test Guide#ASN"
+msgid "on yourself. Cheer up!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hmm, if you're exhausted, I'm willing to bring you back. Of course, if you leave, you'll have to take the job test over again. So what do you want to do?";
+msgctxt "Test Guide#ASN"
+msgid "Hmm, if you're exhausted, I'm willing to bring you back. Of course, if you leave, you'll have to take the job test over again. So what do you want to do?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Continue!", "Quit the job change test for now.") == 1) {
+msgctxt "Test Guide#ASN"
+msgid "Continue!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# if (select("Continue!", "Quit the job change test for now.") == 1) {
+msgctxt "Test Guide#ASN"
+msgid "Quit the job change test for now."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Good choice!";
+msgctxt "Test Guide#ASN"
+msgid "Good choice!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Remember, you";
+msgctxt "Test Guide#ASN"
+msgid "Remember, you"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "must find and kill";
+msgctxt "Test Guide#ASN"
+msgid "must find and kill"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "6 ^008800Job change target^000000 monsters!";
+msgctxt "Test Guide#ASN"
+msgid "6 ^008800Job change target^000000 monsters!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Good luck!";
+msgctxt "Test Guide#ASN"
+msgid "Good luck!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Alright...";
+msgctxt "Test Guide#ASN"
+msgid "Alright..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I guess you";
+msgctxt "Test Guide#ASN"
+msgid "I guess you"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "could use a break...";
+msgctxt "Test Guide#ASN"
+msgid "could use a break..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Thomas]";
+msgctxt "Thomas#ASNTEST"
+msgid "[Thomas]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Damn...! You look like you're in a lot of pain. ^666666*Sigh*^000000 Give me a second, let me try to restore your HP and SP...";
+msgctxt "Thomas#ASNTEST"
+msgid "Damn...! You look like you're in a lot of pain. ^666666*Sigh*^000000 Give me a second, let me try to restore your HP and SP..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It looks like you're having a tough time. You're either trying too hard, or not trying hard";
+msgctxt "Thomas#ASNTEST"
+msgid "It looks like you're having a tough time. You're either trying too hard, or not trying hard"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "enough, kid.";
+msgctxt "Thomas#ASNTEST"
+msgid "enough, kid."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I'm gonna try it again!", "I... I quit!")) {
+msgctxt "Thomas#ASNTEST"
+msgid "I'm gonna try it again!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I'm gonna try it again!", "I... I quit!")) {
+msgctxt "Thomas#ASNTEST"
+msgid "I... I quit!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hmm. Well, okay.";
+msgctxt "Thomas#ASNTEST"
+msgid "Hmm. Well, okay."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Good luck out there.";
+msgctxt "Thomas#ASNTEST"
+msgid "Good luck out there."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Huh...";
+msgctxt "Thomas#ASNTEST"
+msgid "Huh..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Quit the test, eh? Well, I guess you don't wanna waste any more of our time.";
+msgctxt "Thomas#ASNTEST"
+msgid "Quit the test, eh? Well, I guess you don't wanna waste any more of our time."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Oh hey, don't forget to save your respawn point in town.";
+msgctxt "Thomas#ASNTEST"
+msgid "Oh hey, don't forget to save your respawn point in town."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hey, I'm Thomas. I'm in charge of testing your use of the hiding skill. Think you're up to it?";
+msgctxt "Thomas#ASNTEST"
+msgid "Hey, I'm Thomas. I'm in charge of testing your use of the hiding skill. Think you're up to it?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Listen. In this test, you can't kill any monsters. Your goal is to reach 'Barcardi' at the opposite side of this room.";
+msgctxt "Thomas#ASNTEST"
+msgid "Listen. In this test, you can't kill any monsters. Your goal is to reach 'Barcardi' at the opposite side of this room."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "So basically, get to the other side of this room and meet 'Barcardi' without killing a single monster. Understand?";
+msgctxt "Thomas#ASNTEST"
+msgid "So basically, get to the other side of this room and meet 'Barcardi' without killing a single monster. Understand?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "If you run away, get a nose bleed and pass out or something like that, I'll fail ya'. Enough talk. Let's see what you got.";
+msgctxt "Thomas#ASNTEST"
+msgid "If you run away, get a nose bleed and pass out or something like that, I'll fail ya'. Enough talk. Let's see what you got."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Barcardi]";
+msgctxt "Barcardi#ASN"
+msgid "[Barcardi]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Oh! Congratulations!";
+msgctxt "Barcardi#ASN"
+msgid "Oh! Congratulations!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You may now proceed to our Guildmaster's room. Good luck!!";
+msgctxt "Barcardi#ASN"
+msgid "You may now proceed to our Guildmaster's room. Good luck!!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Guildmaster]";
+msgctxt "Guildmaster#ASN1"
+msgid "[Guildmaster]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Welcome. ";
+msgctxt "Guildmaster#ASN1"
+msgid "Welcome. "
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "This place is called the 'Guildmaster's room,' the deepest place in the Assassin guild.";
+msgctxt "Guildmaster#ASN1"
+msgid "This place is called the 'Guildmaster's room,' the deepest place in the Assassin guild."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I'm going to give you a simple test. Please find your way through this maze and come to me. It is this maze that protects our guild from intruders.";
+msgctxt "Guildmaster#ASN1"
+msgid "I'm going to give you a simple test. Please find your way through this maze and come to me. It is this maze that protects our guild from intruders."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I look forward";
+msgctxt "Guildmaster#ASN1"
+msgid "I look forward"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "to meeting you";
+msgctxt "Guildmaster#ASN1"
+msgid "to meeting you"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "at the end of maze.";
+msgctxt "Guildmaster#ASN1"
+msgid "at the end of maze."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Guildmaster]";
+msgctxt "Guildmaster#ASN2"
+msgid "[Guildmaster]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Welcome.";
+msgctxt "Guildmaster#ASN2"
+msgid "Welcome."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I apologize for";
+msgctxt "Guildmaster#ASN2"
+msgid "I apologize for"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "making you go";
+msgctxt "Guildmaster#ASN2"
+msgid "making you go"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "through the maze.";
+msgctxt "Guildmaster#ASN2"
+msgid "through the maze."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I saw your resume just now. You're well known as a Thief with guts. Rarely do we receive potential Assassins of your stature.";
+msgctxt "Guildmaster#ASN2"
+msgid "I saw your resume just now. You're well known as a Thief with guts. Rarely do we receive potential Assassins of your stature."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "May I ask you some questions if you don't mind? You don't have to be nervous. Just remember: if you lie, I will kill you.";
+msgctxt "Guildmaster#ASN2"
+msgid "May I ask you some questions if you don't mind? You don't have to be nervous. Just remember: if you lie, I will kill you."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "First off, what do you think is the priority of an Assassin?";
+msgctxt "Guildmaster#ASN2"
+msgid "First off, what do you think is the priority of an Assassin?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("More power.", "An Assassin's pride.", "Endless practice.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "More power."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("More power.", "An Assassin's pride.", "Endless practice.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "An Assassin's pride."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("More power.", "An Assassin's pride.", "Endless practice.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Endless practice."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "More power...";
+msgctxt "Guildmaster#ASN2"
+msgid "More power..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Yes, you may think";
+msgctxt "Guildmaster#ASN2"
+msgid "Yes, you may think"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "of Assassins as much";
+msgctxt "Guildmaster#ASN2"
+msgid "of Assassins as much"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "stronger than Thieves.";
+msgctxt "Guildmaster#ASN2"
+msgid "stronger than Thieves."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "However, for what reason do you wish for more power? To show off? Personal revenge? For what purpose will you use this power?";
+msgctxt "Guildmaster#ASN2"
+msgid "However, for what reason do you wish for more power? To show off? Personal revenge? For what purpose will you use this power?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Why do you want";
+msgctxt "Guildmaster#ASN2"
+msgid "Why do you want"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "to be stronger";
+msgctxt "Guildmaster#ASN2"
+msgid "to be stronger"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "than you are now?";
+msgctxt "Guildmaster#ASN2"
+msgid "than you are now?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Revenge...!", "Money~", "I want to travel.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Revenge...!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Revenge...!", "Money~", "I want to travel.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Money~"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Revenge...!", "Money~", "I want to travel.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "I want to travel."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Revenge...?";
+msgctxt "Guildmaster#ASN2"
+msgid "Revenge...?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Yes, I understand. All of us hold grudges against someone else eventually.";
+msgctxt "Guildmaster#ASN2"
+msgid "Yes, I understand. All of us hold grudges against someone else eventually."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "However, keep in mind that we are not allowed to be emotionally attached. Carry out your duties without question. That is our way.";
+msgctxt "Guildmaster#ASN2"
+msgid "However, keep in mind that we are not allowed to be emotionally attached. Carry out your duties without question. That is our way."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Being an Assassin means";
+msgctxt "Guildmaster#ASN2"
+msgid "Being an Assassin means"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "to abandon the ego.";
+msgctxt "Guildmaster#ASN2"
+msgid "to abandon the ego."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Financial reasons...? I won't deny that we all need money to live. But being Assassin means living for a higher purpose.";
+msgctxt "Guildmaster#ASN2"
+msgid "Financial reasons...? I won't deny that we all need money to live. But being Assassin means living for a higher purpose."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "to abandon such worldly";
+msgctxt "Guildmaster#ASN2"
+msgid "to abandon such worldly"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "attachments...";
+msgctxt "Guildmaster#ASN2"
+msgid "attachments..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Good idea. Traveling around the world will allow you to broaden your experiences.";
+msgctxt "Guildmaster#ASN2"
+msgid "Good idea. Traveling around the world will allow you to broaden your experiences."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Most of us tend to avoid gathering into groups though, but I'm sure you already caught that, yes?";
+msgctxt "Guildmaster#ASN2"
+msgid "Most of us tend to avoid gathering into groups though, but I'm sure you already caught that, yes?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "In a way, being an Assassin is to live life in loneliness...";
+msgctxt "Guildmaster#ASN2"
+msgid "In a way, being an Assassin is to live life in loneliness..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "An Assassin's pride...";
+msgctxt "Guildmaster#ASN2"
+msgid "An Assassin's pride..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Did other Assassins tell you that...?";
+msgctxt "Guildmaster#ASN2"
+msgid "Did other Assassins tell you that...?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Pride is certainly important, but pride is worth nothing if you do not have any ability.";
+msgctxt "Guildmaster#ASN2"
+msgid "Pride is certainly important, but pride is worth nothing if you do not have any ability."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Most of the Assassins you've met before me are brethren that have shared many difficult times together.";
+msgctxt "Guildmaster#ASN2"
+msgid "Most of the Assassins you've met before me are brethren that have shared many difficult times together."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I can understand why their pride and dignity would be so important to them. Now, for what reason do you wish to become an Assassin?";
+msgctxt "Guildmaster#ASN2"
+msgid "I can understand why their pride and dignity would be so important to them. Now, for what reason do you wish to become an Assassin?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I like the solitude.", "Making money being an Assassin.", "They just look interesting.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "I like the solitude."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I like the solitude.", "Making money being an Assassin.", "They just look interesting.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Making money being an Assassin."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I like the solitude.", "Making money being an Assassin.", "They just look interesting.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "They just look interesting."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You got the point...";
+msgctxt "Guildmaster#ASN2"
+msgid "You got the point..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "We are lonely. We will always be alone, even amongst each other...";
+msgctxt "Guildmaster#ASN2"
+msgid "We are lonely. We will always be alone, even amongst each other..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "In a way, being";
+msgctxt "Guildmaster#ASN2"
+msgid "In a way, being"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "an Assassin equals";
+msgctxt "Guildmaster#ASN2"
+msgid "an Assassin equals"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "nothing, I would say.";
+msgctxt "Guildmaster#ASN2"
+msgid "nothing, I would say."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "But, as I told you before, we have comrades. I recommend having at least one comrade to back up you when you're on a mission.";
+msgctxt "Guildmaster#ASN2"
+msgid "But, as I told you before, we have comrades. I recommend having at least one comrade to back up you when you're on a mission."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well, I can't deny it, we do need money to make a living. But don't you think we should pursue something even more important than money?";
+msgctxt "Guildmaster#ASN2"
+msgid "Well, I can't deny it, we do need money to make a living. But don't you think we should pursue something even more important than money?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Style and appearance is only superficial. It is sad that many people think this way...";
+msgctxt "Guildmaster#ASN2"
+msgid "Style and appearance is only superficial. It is sad that many people think this way..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Such disgraceful Assassins that have lost their true focus are dealt with in our own manner...";
+msgctxt "Guildmaster#ASN2"
+msgid "Such disgraceful Assassins that have lost their true focus are dealt with in our own manner..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Don't forget...";
+msgctxt "Guildmaster#ASN2"
+msgid "Don't forget..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Assassins don't toy around. We are not into a style or trend, and we never will be.";
+msgctxt "Guildmaster#ASN2"
+msgid "Assassins don't toy around. We are not into a style or trend, and we never will be."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Endless Practice...";
+msgctxt "Guildmaster#ASN2"
+msgid "Endless Practice..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I think you have what it takes. Is there a reason you want to be an Assassin?";
+msgctxt "Guildmaster#ASN2"
+msgid "I think you have what it takes. Is there a reason you want to be an Assassin?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Unlike the Thief class, the Assassin job doesn't allow self-indulgence. Tell me the";
+msgctxt "Guildmaster#ASN2"
+msgid "Unlike the Thief class, the Assassin job doesn't allow self-indulgence. Tell me the"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "reason you train endlessly.";
+msgctxt "Guildmaster#ASN2"
+msgid "reason you train endlessly."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("To broaden my skills.", "It's a goal of mine.", "For spiritual improvement.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "To broaden my skills."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("To broaden my skills.", "It's a goal of mine.", "For spiritual improvement.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "It's a goal of mine."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("To broaden my skills.", "It's a goal of mine.", "For spiritual improvement.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "For spiritual improvement."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Learning skills comes naturally with the Assassin job. But don't think of skills as the best value of your training.";
+msgctxt "Guildmaster#ASN2"
+msgid "Learning skills comes naturally with the Assassin job. But don't think of skills as the best value of your training."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You won't be satisfied in becoming an Assassin if you think this...";
+msgctxt "Guildmaster#ASN2"
+msgid "You won't be satisfied in becoming an Assassin if you think this..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It's a goal of yours, eh? Well, I guess you've got to have goals...";
+msgctxt "Guildmaster#ASN2"
+msgid "It's a goal of yours, eh? Well, I guess you've got to have goals..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I once knew a person who had goals. Long ago, I met someone on assignment who wanted to keep from getting killed before becoming a level 54 knight.";
+msgctxt "Guildmaster#ASN2"
+msgid "I once knew a person who had goals. Long ago, I met someone on assignment who wanted to keep from getting killed before becoming a level 54 knight."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It's to bad I had to kill him before he was level 52... ^666666*Sigh*^000000 Oh well.";
+msgctxt "Guildmaster#ASN2"
+msgid "It's to bad I had to kill him before he was level 52... ^666666*Sigh*^000000 Oh well."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I'm a bit worried about you. I hope you realize that once you become an Assassin, there's no turning back...";
+msgctxt "Guildmaster#ASN2"
+msgid "I'm a bit worried about you. I hope you realize that once you become an Assassin, there's no turning back..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Good idea...";
+msgctxt "Guildmaster#ASN2"
+msgid "Good idea..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "That is a good way to improve yourself. I've seen many people who know how to be strong physically but not in their mental state.";
+msgctxt "Guildmaster#ASN2"
+msgid "That is a good way to improve yourself. I've seen many people who know how to be strong physically but not in their mental state."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I hope you're not a hypocrite. Spiritual discipline is the best way for you to survive.";
+msgctxt "Guildmaster#ASN2"
+msgid "I hope you're not a hypocrite. Spiritual discipline is the best way for you to survive."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Sadly, there are some nit-wits who are eager to be Assassins even though they don't know anything...";
+msgctxt "Guildmaster#ASN2"
+msgid "Sadly, there are some nit-wits who are eager to be Assassins even though they don't know anything..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "They cause problems and bring us disgrace. Their activities often result in horrible situations.";
+msgctxt "Guildmaster#ASN2"
+msgid "They cause problems and bring us disgrace. Their activities often result in horrible situations."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Be careful lest you become one of them once you become an Assassin. The responsibility rests solely on your shoulders...";
+msgctxt "Guildmaster#ASN2"
+msgid "Be careful lest you become one of them once you become an Assassin. The responsibility rests solely on your shoulders..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "So if you could become an Assassin right now, what is the first thing you would do?";
+msgctxt "Guildmaster#ASN2"
+msgid "So if you could become an Assassin right now, what is the first thing you would do?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I would go hunt right away.", "There are people waiting for me.", "Check how I can help as an Assassin.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "I would go hunt right away."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I would go hunt right away.", "There are people waiting for me.", "Check how I can help as an Assassin.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "There are people waiting for me."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I would go hunt right away.", "There are people waiting for me.", "Check how I can help as an Assassin.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Check how I can help as an Assassin."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hunt...";
+msgctxt "Guildmaster#ASN2"
+msgid "Hunt..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Is that all...?";
+msgctxt "Guildmaster#ASN2"
+msgid "Is that all...?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I would level up fast.", "I want to explore my Assassin skills.", "I will go where I couldn't go as a Thief.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "I would level up fast."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I would level up fast.", "I want to explore my Assassin skills.", "I will go where I couldn't go as a Thief.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "I want to explore my Assassin skills."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("I would level up fast.", "I want to explore my Assassin skills.", "I will go where I couldn't go as a Thief.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "I will go where I couldn't go as a Thief."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Don't act recklessly...";
+msgctxt "Guildmaster#ASN2"
+msgid "Don't act recklessly..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Being an Assassin never makes you a different person. And don't rely on chance.";
+msgctxt "Guildmaster#ASN2"
+msgid "Being an Assassin never makes you a different person. And don't rely on chance."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It is good for one to examine oneself. I can understand that you will be excited by the great change in your ability.";
+msgctxt "Guildmaster#ASN2"
+msgid "It is good for one to examine oneself. I can understand that you will be excited by the great change in your ability."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "In the meantime, I hope you won't forget the Assassin mentality.";
+msgctxt "Guildmaster#ASN2"
+msgid "In the meantime, I hope you won't forget the Assassin mentality."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Very well...";
+msgctxt "Guildmaster#ASN2"
+msgid "Very well..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Exploring places you've never seen before. But know that being an Assassin never makes you a different person.";
+msgctxt "Guildmaster#ASN2"
+msgid "Exploring places you've never seen before. But know that being an Assassin never makes you a different person."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Don't force yourself too much.";
+msgctxt "Guildmaster#ASN2"
+msgid "Don't force yourself too much."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Take your time and travel wisely.";
+msgctxt "Guildmaster#ASN2"
+msgid "Take your time and travel wisely."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Who is waiting";
+msgctxt "Guildmaster#ASN2"
+msgid "Who is waiting"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "for you, might I ask?";
+msgctxt "Guildmaster#ASN2"
+msgid "for you, might I ask?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("My friends.", "My Guildsmen.", "My lover.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "My friends."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("My friends.", "My Guildsmen.", "My lover.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "My Guildsmen."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("My friends.", "My Guildsmen.", "My lover.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "My lover."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I see...";
+msgctxt "Guildmaster#ASN2"
+msgid "I see..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Appreciate them for caring about you, even when you're alone.";
+msgctxt "Guildmaster#ASN2"
+msgid "Appreciate them for caring about you, even when you're alone."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Great...";
+msgctxt "Guildmaster#ASN2"
+msgid "Great..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Comrades for whom you would die for...";
+msgctxt "Guildmaster#ASN2"
+msgid "Comrades for whom you would die for..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "As an Assassin, find a job that you can do for them without them knowing..";
+msgctxt "Guildmaster#ASN2"
+msgid "As an Assassin, find a job that you can do for them without them knowing.."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Haha, the needs of the body are sometimes hard to ignore. It's best to accept that part of human nature.";
+msgctxt "Guildmaster#ASN2"
+msgid "Haha, the needs of the body are sometimes hard to ignore. It's best to accept that part of human nature."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "But you must never reveal to her the Assassin side of your life. No matter what it takes.";
+msgctxt "Guildmaster#ASN2"
+msgid "But you must never reveal to her the Assassin side of your life. No matter what it takes."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "But you must never reveal to him the Assassin side of your life, no matter what it takes.";
+msgctxt "Guildmaster#ASN2"
+msgid "But you must never reveal to him the Assassin side of your life, no matter what it takes."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Love your beloved forever, even if you can't openly express it. Sometimes, life doesn't allow you to find true love more than once.";
+msgctxt "Guildmaster#ASN2"
+msgid "Love your beloved forever, even if you can't openly express it. Sometimes, life doesn't allow you to find true love more than once."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "That's most admirable. Is there anything that you would like to ask me about?";
+msgctxt "Guildmaster#ASN2"
+msgid "That's most admirable. Is there anything that you would like to ask me about?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Places where Assassins can level up...", "Main goals as an Assassin.", "Financial consulting.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Places where Assassins can level up..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Places where Assassins can level up...", "Main goals as an Assassin.", "Financial consulting.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Main goals as an Assassin."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Places where Assassins can level up...", "Main goals as an Assassin.", "Financial consulting.")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Financial consulting."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It all depends on your mind. Any place could be the best to level up according to your mind state.";
+msgctxt "Guildmaster#ASN2"
+msgid "It all depends on your mind. Any place could be the best to level up according to your mind state."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You must know how to";
+msgctxt "Guildmaster#ASN2"
+msgid "You must know how to"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "survive in any situation.";
+msgctxt "Guildmaster#ASN2"
+msgid "survive in any situation."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "There are many Assassins out there. Look to them as your trainers, and ask for their opinions.";
+msgctxt "Guildmaster#ASN2"
+msgid "There are many Assassins out there. Look to them as your trainers, and ask for their opinions."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I hope you will become an excellent Assassin. And when you reach a certain level, you must guide newbies as your trainers have.";
+msgctxt "Guildmaster#ASN2"
+msgid "I hope you will become an excellent Assassin. And when you reach a certain level, you must guide newbies as your trainers have."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Oh my lord...";
+msgctxt "Guildmaster#ASN2"
+msgid "Oh my lord..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Are you planning to become an Assassin in order to make money?";
+msgctxt "Guildmaster#ASN2"
+msgid "Are you planning to become an Assassin in order to make money?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "People of that nature are unwelcome. If such is your goal, you may wish to reconsider your job...";
+msgctxt "Guildmaster#ASN2"
+msgid "People of that nature are unwelcome. If such is your goal, you may wish to reconsider your job..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It was nice to meet you. You reminded me of the good ol' days.";
+msgctxt "Guildmaster#ASN2"
+msgid "It was nice to meet you. You reminded me of the good ol' days."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Please give me";
+msgctxt "Guildmaster#ASN2"
+msgid "Please give me"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "one second...";
+msgctxt "Guildmaster#ASN2"
+msgid "one second..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "They will";
+msgctxt "Guildmaster#ASN2"
+msgid "They will"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "be here soon.";
+msgctxt "Guildmaster#ASN2"
+msgid "be here soon."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I am here.";
+msgctxt "Guildmaster#ASN2"
+msgid "I am here."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I would like to listen to your opinion of " + strcharinfo(PC_NAME) + " for the job change test.";
+msgctxt "Guildmaster#ASN2"
+msgid "I would like to listen to your opinion of "
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Ah yeah...";
+msgctxt "Guildmaster#ASN2"
+msgid "Ah yeah..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I think";
+msgctxt "Guildmaster#ASN2"
+msgid "I think"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "is decent.";
+msgctxt "Guildmaster#ASN2"
+msgid "is decent."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well...";
+msgctxt "Guildmaster#ASN2"
+msgid "Well..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "The Anonymous One";
+msgctxt "Guildmaster#ASN2"
+msgid "The Anonymous One"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "supports you. How";
+msgctxt "Guildmaster#ASN2"
+msgid "supports you. How"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "about you, Huey?";
+msgctxt "Guildmaster#ASN2"
+msgid "about you, Huey?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "A rarity.";
+msgctxt "Guildmaster#ASN2"
+msgid "A rarity."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You can tell";
+msgctxt "Guildmaster#ASN2"
+msgid "You can tell"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "by the job level.";
+msgctxt "Guildmaster#ASN2"
+msgid "by the job level."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I agree with";
+msgctxt "Guildmaster#ASN2"
+msgid "I agree with"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "the Anonymous One.";
+msgctxt "Guildmaster#ASN2"
+msgid "the Anonymous One."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Although "+ strcharinfo(PC_NAME) +" looks too mellow and gentle, kind of like a pussycat, "+ strcharinfo(PC_NAME) +" has the stuff.";
+msgctxt "Guildmaster#ASN2"
+msgid "Although "
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "If it's alright with you, I'd like to get back to my job.";
+msgctxt "Guildmaster#ASN2"
+msgid "If it's alright with you, I'd like to get back to my job."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Yes...";
+msgctxt "Guildmaster#ASN2"
+msgid "Yes..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "That is all, Huey.";
+msgctxt "Guildmaster#ASN2"
+msgid "That is all, Huey."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "So...";
+msgctxt "Guildmaster#ASN2"
+msgid "So..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "'Beholder,' what";
+msgctxt "Guildmaster#ASN2"
+msgid "'Beholder,' what"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "is your opinion?";
+msgctxt "Guildmaster#ASN2"
+msgid "is your opinion?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well, I don't like the course score. But, somehow the whole test was passed. I'm okay with this person.";
+msgctxt "Guildmaster#ASN2"
+msgid "Well, I don't like the course score. But, somehow the whole test was passed. I'm okay with this person."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hmm...";
+msgctxt "Guildmaster#ASN2"
+msgid "Hmm..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It seems we are all in agreement. Good. I don't have any problem with "+ strcharinfo(PC_NAME) +" as well...";
+msgctxt "Guildmaster#ASN2"
+msgid "It seems we are all in agreement. Good. I don't have any problem with "
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Even though you're driven by personal revenge, I hope it will go away as you train...";
+msgctxt "Guildmaster#ASN2"
+msgid "Even though you're driven by personal revenge, I hope it will go away as you train..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Even though your main concern for now is being a rich, I'm sure you'll pursue something even greater...";
+msgctxt "Guildmaster#ASN2"
+msgid "Even though your main concern for now is being a rich, I'm sure you'll pursue something even greater..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Eager to travel all around the world, I hope your real identity is found in your journeys...";
+msgctxt "Guildmaster#ASN2"
+msgid "Eager to travel all around the world, I hope your real identity is found in your journeys..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You seem to know a lot about Assassins. I don't think frustration from being alone will be difficult for you...";
+msgctxt "Guildmaster#ASN2"
+msgid "You seem to know a lot about Assassins. I don't think frustration from being alone will be difficult for you..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You have an idiocy about money, but I believe that you should be able to overcome it.";
+msgctxt "Guildmaster#ASN2"
+msgid "You have an idiocy about money, but I believe that you should be able to overcome it."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Although I do not trust you for now, I will give you a chance...";
+msgctxt "Guildmaster#ASN2"
+msgid "Although I do not trust you for now, I will give you a chance..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Even though you're enamored with Assassins superficially, I believe you will realize the real value of the Assassin job sooner or later.";
+msgctxt "Guildmaster#ASN2"
+msgid "Even though you're enamored with Assassins superficially, I believe you will realize the real value of the Assassin job sooner or later."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "One of the rare people who seeks better skills, I hope you will realize the importance of spiritual discipline sooner or later.";
+msgctxt "Guildmaster#ASN2"
+msgid "One of the rare people who seeks better skills, I hope you will realize the importance of spiritual discipline sooner or later."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Sooner or later, you will find a new goal to which you can devote yourself...";
+msgctxt "Guildmaster#ASN2"
+msgid "Sooner or later, you will find a new goal to which you can devote yourself..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I know some people care only about their physical training, but";
+msgctxt "Guildmaster#ASN2"
+msgid "I know some people care only about their physical training, but"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I believe you stand out amongst them...";
+msgctxt "Guildmaster#ASN2"
+msgid "I believe you stand out amongst them..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well, I've said too much. Please choose a weapon as a present.";
+msgctxt "Guildmaster#ASN2"
+msgid "Well, I've said too much. Please choose a weapon as a present."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You can choose a Jur, Katar, Main Gauche, or a Gladius. As a master, I love them all.";
+msgctxt "Guildmaster#ASN2"
+msgid "You can choose a Jur, Katar, Main Gauche, or a Gladius. As a master, I love them all."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Jur", "Katar", "Main Gauche", "Gladius")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Jur"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Jur", "Katar", "Main Gauche", "Gladius")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Katar"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Jur", "Katar", "Main Gauche", "Gladius")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Main Gauche"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# switch(select("Jur", "Katar", "Main Gauche", "Gladius")) {
+msgctxt "Guildmaster#ASN2"
+msgid "Gladius"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "A Jur...";
+msgctxt "Guildmaster#ASN2"
+msgid "A Jur..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Good choice. There you are. I hope it will serve you well.";
+msgctxt "Guildmaster#ASN2"
+msgid "Good choice. There you are. I hope it will serve you well."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "A Katar...";
+msgctxt "Guildmaster#ASN2"
+msgid "A Katar..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Here you are.";
+msgctxt "Guildmaster#ASN2"
+msgid "Here you are."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Although it's used,";
+msgctxt "Guildmaster#ASN2"
+msgid "Although it's used,"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I know it will";
+msgctxt "Guildmaster#ASN2"
+msgid "I know it will"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "serve you well.";
+msgctxt "Guildmaster#ASN2"
+msgid "serve you well."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I see. You want to use both hands. Here, take your Main Gauche.";
+msgctxt "Guildmaster#ASN2"
+msgid "I see. You want to use both hands. Here, take your Main Gauche."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "A Gladius...";
+msgctxt "Guildmaster#ASN2"
+msgid "A Gladius..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "It used to rule over the Assassin weapon market. Please take care of my gladius.";
+msgctxt "Guildmaster#ASN2"
+msgid "It used to rule over the Assassin weapon market. Please take care of my gladius."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well, I talked too much.";
+msgctxt "Guildmaster#ASN2"
+msgid "Well, I talked too much."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Please take this first.";
+msgctxt "Guildmaster#ASN2"
+msgid "Please take this first."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well, I am giving you a token. Please return to the Assassin expert, the Ferocious-Looking Huey, at the entrance.";
+msgctxt "Guildmaster#ASN2"
+msgid "Well, I am giving you a token. Please return to the Assassin expert, the Ferocious-Looking Huey, at the entrance."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Upon receiving this token, Huey will promote you to an Assassin.";
+msgctxt "Guildmaster#ASN2"
+msgid "Upon receiving this token, Huey will promote you to an Assassin."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You, " + strcharinfo(PC_NAME) + ", have chosen to live as an Assassin. May you learn our ways and be an honorable example to others.";
+msgctxt "Guildmaster#ASN2"
+msgid "You, "
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Okay, all of you may go back to your positions. I will send you to the entrance as well. Let's move...";
+msgctxt "Guildmaster#ASN2"
+msgid "Okay, all of you may go back to your positions. I will send you to the entrance as well. Let's move..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Umm...?";
+msgctxt "Guildmaster#ASN2"
+msgid "Umm...?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "How come you're in here...?";
+msgctxt "Guildmaster#ASN2"
+msgid "How come you're in here...?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You already finished your test. Why don't you go try to get the ^006699Necklace of Oblivion^000000 so you can change your job?";
+msgctxt "Guildmaster#ASN2"
+msgid "You already finished your test. Why don't you go try to get the ^006699Necklace of Oblivion^000000 so you can change your job?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "What the hell? You pressed 'Cancel' during the process. Do you want to change your job or what?";
+msgctxt "Guildmaster#ASN2"
+msgid "What the hell? You pressed 'Cancel' during the process. Do you want to change your job or what?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "^666666*Sigh...*^000000";
+msgctxt "Guildmaster#ASN2"
+msgid "^666666*Sigh...*^000000"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Ok, let's start again. If you don't listen this time, you won't leave this room alive. You got me?";
+msgctxt "Guildmaster#ASN2"
+msgid "Ok, let's start again. If you don't listen this time, you won't leave this room alive. You got me?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Umm? How come your in here?";
+msgctxt "Guildmaster#ASN2"
+msgid "Umm? How come your in here?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You already finished your test, go give your ^006699Necklace of Oblivion^000000 to the Ferocious-looking guy so you can change your job!";
+msgctxt "Guildmaster#ASN2"
+msgid "You already finished your test, go give your ^006699Necklace of Oblivion^000000 to the Ferocious-looking guy so you can change your job!"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Assistent Gayle Maroubitz]";
+msgctxt "Master Assist"
+msgid "[Assistent Gayle Maroubitz]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Sorry, but I'm not in charge of job changes. Go to the Guildmaster, as he has told you.";
+msgctxt "Master Assist"
+msgid "Sorry, but I'm not in charge of job changes. Go to the Guildmaster, as he has told you."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Guildmaster]";
+msgctxt "info 1"
+msgid "[Guildmaster]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Huh.";
+msgctxt "info 1"
+msgid "Huh."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Now, that place is blocked. You might want to check the other side.";
+msgctxt "info 1"
+msgid "Now, that place is blocked. You might want to check the other side."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Guildmaster]";
+msgctxt "info 2"
+msgid "[Guildmaster]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You're getting warmer. You're almost there. Just, turn around a little bit.";
+msgctxt "info 2"
+msgid "You're getting warmer. You're almost there. Just, turn around a little bit."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Guildmaster]";
+msgctxt "info 3"
+msgid "[Guildmaster]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hmm.";
+msgctxt "info 3"
+msgid "Hmm."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Now, that place";
+msgctxt "info 3"
+msgid "Now, that place"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "is blocked.";
+msgctxt "info 3"
+msgid "is blocked."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Guildmaster]";
+msgctxt "info 4"
+msgid "[Guildmaster]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Umm...";
+msgctxt "info 4"
+msgid "Umm..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "You're heading for my assistant. Do you still need to talk to him?";
+msgctxt "info 4"
+msgid "You're heading for my assistant. Do you still need to talk to him?"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Guildmaster]";
+msgctxt "info 5"
+msgid "[Guildmaster]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Well done...";
+msgctxt "info 5"
+msgid "Well done..."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I can feel your steps near me.";
+msgctxt "info 5"
+msgid "I can feel your steps near me."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Guildmaster]";
+msgctxt "info 6"
+msgid "[Guildmaster]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "Hm? Not bad. You're almost here.";
+msgctxt "info 6"
+msgid "Hm? Not bad. You're almost here."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Guildmaster]";
+msgctxt "info 7"
+msgid "[Guildmaster]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "I don't think you're going the right way.";
+msgctxt "info 7"
+msgid "I don't think you're going the right way."
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "[Guildmaster]";
+msgctxt "info 8"
+msgid "[Guildmaster]"
+msgstr ""
+
+#: npc/jobs/2-1/assassin.txt
+# mes "No sense of direction, eh?";
+msgctxt "info 8"
+msgid "No sense of direction, eh?"
+msgstr ""

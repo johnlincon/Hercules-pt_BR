@@ -1,0 +1,304 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-01 10:54-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Wise Old Woman]";
+#: npc/custom/card_remover.txt
+msgctxt "Wise Old Woman#eAcustom"
+msgid "[Wise Old Woman]"
+msgstr "[Velha Sábia]"
+
+# mes "Good day, young one. I have the power to remove cards that you have compounded onto your equipment. Does this idea please you?";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid ""
+"Good day, young one. I have the power to remove cards that you have "
+"compounded onto your equipment. Does this idea please you?"
+msgstr ""
+"Bom dia, jovem. Tenho o poder de remover os cartões que você compôs em seu "
+"equipamento. Esta idéia lhe agrada?"
+
+# switch(select("Yes, it does.", "What do you charge?", "No thanks.")) {
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "Yes, it does."
+msgstr "Sim, é verdade."
+
+# switch(select("Yes, it does.", "What do you charge?", "No thanks.")) {
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "What do you charge?"
+msgstr "Quanto você cobra?"
+
+# switch(select("Yes, it does.", "What do you charge?", "No thanks.")) {
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "No thanks."
+msgstr "Não, obrigado."
+
+# mes "Very well. Which item shall I examine for you?";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "Very well. Which item shall I examine for you?"
+msgstr "Muito bem. Qual item devo examinar para você?"
+
+# mes "Young one... Your not wearing anything there that I can remove cards from.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid ""
+"Young one... Your not wearing anything there that I can remove cards from."
+msgstr "Jovem... Você não está usando nada que eu possa remover cartões."
+
+# mes "Young one... There are no cards compounded on this item. I can do nothing with it, I'm afraid.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid ""
+"Young one... There are no cards compounded on this item. I can do nothing "
+"with it, I'm afraid."
+msgstr ""
+"Jovem... Não há cartões compostos sobre este item. Receio não poder fazer "
+"nada com ele."
+
+# mes "^3355FFJust a minute!";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "^3355FFJust a minute!"
+msgstr "^3355FFApenas um minuto!"
+
+# mes "I can't offer any of my";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "I can't offer any of my"
+msgstr "Eu não posso oferecer nenhum dos meus"
+
+# mes "services to you because";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "services to you because"
+msgstr "serviços a você porque"
+
+# mes "you're carrying too much";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "you're carrying too much"
+msgstr "você está carregando muito"
+
+# mes "stuff. Put your extra items in";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "stuff. Put your extra items in"
+msgstr "coisas. Coloque seus itens extras em"
+
+# mes "Kafra Storage and come again~";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "Kafra Storage and come again~"
+msgstr "Kafra Storage e venha novamente~"
+
+# mes "This item has " + .@cardcount + " cards compounded on it. To perform my magic, I will need " + (.zenycost+(.@cardcount * .percardcost)) + " zeny, a ^0000FFStar Crumb^000000, and a ^0000FFYellow Gemstone^000000.";
+#: npc/custom/card_remover.txt
+msgctxt "Wise Old Woman#eAcustom"
+msgid "This item has "
+msgstr "Este item tem "
+
+# mes "This item has " + .@cardcount + " cards compounded on it. To perform my magic, I will need " + (.zenycost+(.@cardcount * .percardcost)) + " zeny, a ^0000FFStar Crumb^000000, and a ^0000FFYellow Gemstone^000000.";
+#: npc/custom/card_remover.txt
+msgctxt "Wise Old Woman#eAcustom"
+msgid " cards compounded on it. To perform my magic, I will need "
+msgstr " cartões compostos sobre ele. Para realizar minha magia, precisarei "
+
+# mes "This item has " + .@cardcount + " cards compounded on it. To perform my magic, I will need " + (.zenycost+(.@cardcount * .percardcost)) + " zeny, a ^0000FFStar Crumb^000000, and a ^0000FFYellow Gemstone^000000.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid " zeny, a ^0000FFStar Crumb^000000, and a ^0000FFYellow Gemstone^000000."
+msgstr ""
+" zeny, um ^0000FFStar Crumb^000000, e um ^0000FFYellow Gemstone^000000."
+
+# if(select("Very well. Do it.", "Nevermind.") == 2) {
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "Very well. Do it."
+msgstr "Muito bem. Faça-o."
+
+# if(select("Very well. Do it.", "Nevermind.") == 2) {
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "Nevermind."
+msgstr "Não se preocupe."
+
+# mes "Very well. Return at once if you seek my services.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "Very well. Return at once if you seek my services."
+msgstr "Muito bem. Retornar imediatamente se você procurar meus serviços."
+
+# mes "You do not have all the items I require to work my magic, child. Come again when you do.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid ""
+"You do not have all the items I require to work my magic, child. Come again "
+"when you do."
+msgstr ""
+"Você não tem todos os itens que eu preciso para fazer minha mágica, criança. "
+"Volte quando você tiver."
+
+# mes "Before I begin, I must warn you--I may fail. If I do, I may destroy the cards, the item, or both. I do not give refunds. That being said, which is more important to you: The cards, or the item?";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid ""
+"Before I begin, I must warn you--I may fail. If I do, I may destroy the "
+"cards, the item, or both. I do not give refunds. That being said, which is "
+"more important to you: The cards, or the item?"
+msgstr ""
+"Antes de começar, devo adverti-los... Posso falhar. Se o fizer, posso "
+"destruir as cartas, o item, ou ambos. Eu não faço reembolsos. Dito isto, o "
+"que é mais importante para você: As cartas, ou o item?"
+
+# switch(select("I changed my mind about this.", "The item.", "The cards.")) {
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "I changed my mind about this."
+msgstr "Eu mudei de idéia a respeito disso."
+
+# switch(select("I changed my mind about this.", "The item.", "The cards.")) {
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "The item."
+msgstr "Item criado."
+
+# switch(select("I changed my mind about this.", "The item.", "The cards.")) {
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "The cards."
+msgstr "Os cartões."
+
+# mes "Very well. I shall begin.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "Very well. I shall begin."
+msgstr "Muito bem. Vou começar."
+
+# mes "The process was a total failure. I am afraid the item and the cards were destroyed.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid ""
+"The process was a total failure. I am afraid the item and the cards were "
+"destroyed."
+msgstr ""
+"O processo foi um fracasso total. Temo que o item e os cartões tenham sido "
+"destruídos."
+
+# mes "While I have managed to remove the cards from the item, they were destroyed in the process. The item, however, is okay.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid ""
+"While I have managed to remove the cards from the item, they were destroyed "
+"in the process. The item, however, is okay."
+msgstr ""
+"Embora eu tenha conseguido remover os cartões do item, eles foram destruídos "
+"no processo. O item, entretanto, está bem."
+
+# mes "Most unfortunate. I succeeded at removing the cards, but the item itself was destroyed in the process.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid ""
+"Most unfortunate. I succeeded at removing the cards, but the item itself was "
+"destroyed in the process."
+msgstr ""
+"Mais infelizes. Eu consegui remover as cartas, mas o item em si foi "
+"destruído no processo."
+
+# mes "I have failed to remove the cards. Luckily, however, both the item and the cards are still okay.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid ""
+"I have failed to remove the cards. Luckily, however, both the item and the "
+"cards are still okay."
+msgstr ""
+"Não consegui remover os cartões. Felizmente, no entanto, tanto o item quanto "
+"os cartões ainda estão bem."
+
+# mes "The process was a success. Here are your cards and your item. Farewell.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid "The process was a success. Here are your cards and your item. Farewell."
+msgstr "O processo foi um sucesso. Aqui estão seus cartões e seu item. Adeus."
+
+# mes "I charge a flat fee of "+.zenycost+" zeny, plus "+.percardcost+" zeny for each card I remove from the item. In addition, I need a star crumb and a yellow gemstone to work my magic.";
+#: npc/custom/card_remover.txt
+msgctxt "Wise Old Woman#eAcustom"
+msgid "I charge a flat fee of "
+msgstr "Eu cobro uma taxa fixa de "
+
+# mes "I charge a flat fee of "+.zenycost+" zeny, plus "+.percardcost+" zeny for each card I remove from the item. In addition, I need a star crumb and a yellow gemstone to work my magic.";
+#: npc/custom/card_remover.txt
+msgctxt "Wise Old Woman#eAcustom"
+msgid " zeny, plus "
+msgstr " zeny, mais "
+
+# mes "I charge a flat fee of "+.zenycost+" zeny, plus "+.percardcost+" zeny for each card I remove from the item. In addition, I need a star crumb and a yellow gemstone to work my magic.";
+#: npc/custom/card_remover.txt
+#, fuzzy
+msgctxt "Wise Old Woman#eAcustom"
+msgid ""
+" zeny for each card I remove from the item. In addition, I need a star crumb "
+"and a yellow gemstone to work my magic."
+msgstr ""
+" zeny para cada cartão que eu retiro do item. Além disso, eu preciso de uma "
+"migalha de estrela e uma pedra preciosa amarela para fazer minha mágica."

@@ -1,0 +1,8222 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: conf/messages.conf
+# 0: Warped.
+#, c-format
+msgctxt "messages.conf"
+msgid "Warped."
+msgstr ""
+
+#: conf/messages.conf
+# 1: Map not found.
+#, c-format
+msgctxt "messages.conf"
+msgid "Map not found."
+msgstr ""
+
+#: conf/messages.conf
+# 2: Invalid coordinates, using random target cell.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid coordinates, using random target cell."
+msgstr ""
+
+#: conf/messages.conf
+# 3: Character not found.
+#, c-format
+msgctxt "messages.conf"
+msgid "Character not found."
+msgstr ""
+
+#: conf/messages.conf
+# 4: Jump to %s
+#, c-format
+msgctxt "messages.conf"
+msgid "Jump to %s"
+msgstr ""
+
+#: conf/messages.conf
+# 5: Jump to %d %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Jump to %d %d"
+msgstr ""
+
+#: conf/messages.conf
+# 6: Your save point has been changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your save point has been changed."
+msgstr ""
+
+#: conf/messages.conf
+# 7: Warping to save point.
+#, c-format
+msgctxt "messages.conf"
+msgid "Warping to save point."
+msgstr ""
+
+#: conf/messages.conf
+# 8: Speed changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Speed changed."
+msgstr ""
+
+#: conf/messages.conf
+# 9: Options changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Options changed."
+msgstr ""
+
+#: conf/messages.conf
+# 10: Invisible: Off
+#, c-format
+msgctxt "messages.conf"
+msgid "Invisible: Off"
+msgstr ""
+
+#: conf/messages.conf
+# 11: Invisible: On
+#, c-format
+msgctxt "messages.conf"
+msgid "Invisible: On"
+msgstr ""
+
+#: conf/messages.conf
+# 12: Your job has been changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your job has been changed."
+msgstr ""
+
+#: conf/messages.conf
+# 13: You've died.
+#, c-format
+msgctxt "messages.conf"
+msgid "You've died."
+msgstr ""
+
+#: conf/messages.conf
+# 14: Character killed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Character killed."
+msgstr ""
+
+#: conf/messages.conf
+# 15: Unknown
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown"
+msgstr ""
+
+#: conf/messages.conf
+# 16: You've been revived!
+#, c-format
+msgctxt "messages.conf"
+msgid "You've been revived!"
+msgstr ""
+
+#: conf/messages.conf
+# 17: HP, SP recovered.
+#, c-format
+msgctxt "messages.conf"
+msgid "HP, SP recovered."
+msgstr ""
+
+#: conf/messages.conf
+# 18: Item created.
+#, c-format
+msgctxt "messages.conf"
+msgid "Item created."
+msgstr ""
+
+#: conf/messages.conf
+# 19: Invalid item ID or name.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid item ID or name."
+msgstr ""
+
+#: conf/messages.conf
+# 20: All of your items have been removed.
+#, c-format
+msgctxt "messages.conf"
+msgid "All of your items have been removed."
+msgstr ""
+
+#: conf/messages.conf
+# 21: Base level raised.
+#, c-format
+msgctxt "messages.conf"
+msgid "Base level raised."
+msgstr ""
+
+#: conf/messages.conf
+# 22: Base level lowered.
+#, c-format
+msgctxt "messages.conf"
+msgid "Base level lowered."
+msgstr ""
+
+#: conf/messages.conf
+# 23: Job level can't go any higher.
+#, c-format
+msgctxt "messages.conf"
+msgid "Job level can't go any higher."
+msgstr ""
+
+#: conf/messages.conf
+# 24: Job level raised.
+#, c-format
+msgctxt "messages.conf"
+msgid "Job level raised."
+msgstr ""
+
+#: conf/messages.conf
+# 25: Job level lowered.
+#, c-format
+msgctxt "messages.conf"
+msgid "Job level lowered."
+msgstr ""
+
+#: conf/messages.conf
+# 26: [%d] seconds left until you can use
+#, c-format
+msgctxt "messages.conf"
+msgid "[%d] seconds left until you can use"
+msgstr ""
+
+#: conf/messages.conf
+# 27: Storage has been not loaded yet.
+#, c-format
+msgctxt "messages.conf"
+msgid "Storage has been not loaded yet."
+msgstr ""
+
+#: conf/messages.conf
+# 28: No player found.
+#, c-format
+msgctxt "messages.conf"
+msgid "No player found."
+msgstr ""
+
+#: conf/messages.conf
+# 29: 1 player found.
+#, c-format
+msgctxt "messages.conf"
+msgid "1 player found."
+msgstr ""
+
+#: conf/messages.conf
+# 30: %d players found.
+#, c-format
+msgctxt "messages.conf"
+msgid "%d players found."
+msgstr ""
+
+#: conf/messages.conf
+# 31: PvP: Off.
+#, c-format
+msgctxt "messages.conf"
+msgid "PvP: Off."
+msgstr ""
+
+#: conf/messages.conf
+# 32: PvP: On.
+#, c-format
+msgctxt "messages.conf"
+msgid "PvP: On."
+msgstr ""
+
+#: conf/messages.conf
+# 33: GvG: Off.
+#, c-format
+msgctxt "messages.conf"
+msgid "GvG: Off."
+msgstr ""
+
+#: conf/messages.conf
+# 34: GvG: On.
+#, c-format
+msgctxt "messages.conf"
+msgid "GvG: On."
+msgstr ""
+
+#: conf/messages.conf
+# 35: This job has no alternate body styles.
+#, c-format
+msgctxt "messages.conf"
+msgid "This job has no alternate body styles."
+msgstr ""
+
+#: conf/messages.conf
+# 36: Appearance changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Appearance changed."
+msgstr ""
+
+#: conf/messages.conf
+# 37: An invalid number was specified.
+#, c-format
+msgctxt "messages.conf"
+msgid "An invalid number was specified."
+msgstr ""
+
+#: conf/messages.conf
+# 38: Invalid location number, or name.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid location number, or name."
+msgstr ""
+
+#: conf/messages.conf
+# 39: All monsters summoned!
+#, c-format
+msgctxt "messages.conf"
+msgid "All monsters summoned!"
+msgstr ""
+
+#: conf/messages.conf
+# 40: Invalid monster ID or name.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid monster ID or name."
+msgstr ""
+
+#: conf/messages.conf
+# 41: Unable to decrease the number/value.
+#, c-format
+msgctxt "messages.conf"
+msgid "Unable to decrease the number/value."
+msgstr ""
+
+#: conf/messages.conf
+# 42: Stat changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Stat changed."
+msgstr ""
+
+#: conf/messages.conf
+# 43: You're not in a guild.
+#, c-format
+msgctxt "messages.conf"
+msgid "You're not in a guild."
+msgstr ""
+
+#: conf/messages.conf
+# 44: You're not the master of your guild.
+#, c-format
+msgctxt "messages.conf"
+msgid "You're not the master of your guild."
+msgstr ""
+
+#: conf/messages.conf
+# 45: Guild level change failed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Guild level change failed."
+msgstr ""
+
+#: conf/messages.conf
+# 46: %s recalled!
+#, c-format
+msgctxt "messages.conf"
+msgid "%s recalled!"
+msgstr ""
+
+#: conf/messages.conf
+# 47: Base level can't go any higher.
+#, c-format
+msgctxt "messages.conf"
+msgid "Base level can't go any higher."
+msgstr ""
+
+#: conf/messages.conf
+# 48: Any work in progress (NPC dialog, manufacturing ...) quit and try again.
+#, c-format
+msgctxt "messages.conf"
+msgid "Any work in progress (NPC dialog, manufacturing ...) quit and try again."
+msgstr ""
+
+#: conf/messages.conf
+# 49: Unable to Teleport in this area
+#, c-format
+msgctxt "messages.conf"
+msgid "Unable to Teleport in this area"
+msgstr ""
+
+#: conf/messages.conf
+# 50: This skill cannot be used within this area.
+#, c-format
+msgctxt "messages.conf"
+msgid "This skill cannot be used within this area."
+msgstr ""
+
+#: conf/messages.conf
+# 51: This item cannot be used within this area.
+#, c-format
+msgctxt "messages.conf"
+msgid "This item cannot be used within this area."
+msgstr ""
+
+#: conf/messages.conf
+# 52: This command is disabled in this area.
+#, c-format
+msgctxt "messages.conf"
+msgid "This command is disabled in this area."
+msgstr ""
+
+#: conf/messages.conf
+# 53: '%s' stats:
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' stats:"
+msgstr ""
+
+#: conf/messages.conf
+# 54: No player found in map '%s'.
+#, c-format
+msgctxt "messages.conf"
+msgid "No player found in map '%s'."
+msgstr ""
+
+#: conf/messages.conf
+# 55: 1 player found in map '%s'.
+#, c-format
+msgctxt "messages.conf"
+msgid "1 player found in map '%s'."
+msgstr ""
+
+#: conf/messages.conf
+# 56: %d players found in map '%s'.
+#, c-format
+msgctxt "messages.conf"
+msgid "%d players found in map '%s'."
+msgstr ""
+
+#: conf/messages.conf
+# 59: Night Mode Activated.
+#, c-format
+msgctxt "messages.conf"
+msgid "Night Mode Activated."
+msgstr ""
+
+#: conf/messages.conf
+# 60: Day Mode Activated.
+#, c-format
+msgctxt "messages.conf"
+msgid "Day Mode Activated."
+msgstr ""
+
+#: conf/messages.conf
+# 61: The holy messenger has given judgement.
+#, c-format
+msgctxt "messages.conf"
+msgid "The holy messenger has given judgement."
+msgstr ""
+
+#: conf/messages.conf
+# 62: Judgement has passed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Judgement has passed."
+msgstr ""
+
+#: conf/messages.conf
+# 63: Mercy has been shown.
+#, c-format
+msgctxt "messages.conf"
+msgid "Mercy has been shown."
+msgstr ""
+
+#: conf/messages.conf
+# 64: Mercy has been granted.
+#, c-format
+msgctxt "messages.conf"
+msgid "Mercy has been granted."
+msgstr ""
+
+#: conf/messages.conf
+# 70: You have learned the skill.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have learned the skill."
+msgstr ""
+
+#: conf/messages.conf
+# 71: You have forgotten the skill.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have forgotten the skill."
+msgstr ""
+
+#: conf/messages.conf
+# 72: War of Emperium has been initiated.
+#, c-format
+msgctxt "messages.conf"
+msgid "War of Emperium has been initiated."
+msgstr ""
+
+#: conf/messages.conf
+# 73: War of Emperium is currently in progress.
+#, c-format
+msgctxt "messages.conf"
+msgid "War of Emperium is currently in progress."
+msgstr ""
+
+#: conf/messages.conf
+# 74: War of Emperium has been ended.
+#, c-format
+msgctxt "messages.conf"
+msgid "War of Emperium has been ended."
+msgstr ""
+
+#: conf/messages.conf
+# 75: War of Emperium is currently not in progress.
+#, c-format
+msgctxt "messages.conf"
+msgid "War of Emperium is currently not in progress."
+msgstr ""
+
+#: conf/messages.conf
+# 76: All skills have been added to your skill tree.
+#, c-format
+msgctxt "messages.conf"
+msgid "All skills have been added to your skill tree."
+msgstr ""
+
+#: conf/messages.conf
+# 77: Search results for '%s' (name: id):
+#, c-format
+msgctxt "messages.conf"
+msgid "Search results for '%s' (name: id):"
+msgstr ""
+
+#: conf/messages.conf
+# 78: %s: %d
+#, c-format
+msgctxt "messages.conf"
+msgid "%s: %d"
+msgstr ""
+
+#: conf/messages.conf
+# 79: %d results found.
+#, c-format
+msgctxt "messages.conf"
+msgid "%d results found."
+msgstr ""
+
+#: conf/messages.conf
+# 80: Please specify a display name or monster name/id.
+#, c-format
+msgctxt "messages.conf"
+msgid "Please specify a display name or monster name/id."
+msgstr ""
+
+#: conf/messages.conf
+# 81: Your GM level doesn't authorize you to perform this action on the specified player.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your GM level doesn't authorize you to perform this action on the specified player."
+msgstr ""
+
+#: conf/messages.conf
+# 82: Roulette is disabled.
+#, c-format
+msgctxt "messages.conf"
+msgid "Roulette is disabled."
+msgstr ""
+
+#: conf/messages.conf
+# 83: BG Match Canceled: not enough players.
+#, c-format
+msgctxt "messages.conf"
+msgid "BG Match Canceled: not enough players."
+msgstr ""
+
+#: conf/messages.conf
+# 84: All stats changed!
+#, c-format
+msgctxt "messages.conf"
+msgid "All stats changed!"
+msgstr ""
+
+#: conf/messages.conf
+# 85: Invalid time for ban command.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid time for ban command."
+msgstr ""
+
+#: conf/messages.conf
+# 88: Sending request to login server...
+#, c-format
+msgctxt "messages.conf"
+msgid "Sending request to login server..."
+msgstr ""
+
+#: conf/messages.conf
+# 89: Night mode is already enabled.
+#, c-format
+msgctxt "messages.conf"
+msgid "Night mode is already enabled."
+msgstr ""
+
+#: conf/messages.conf
+# 90: Day mode is already enabled.
+#, c-format
+msgctxt "messages.conf"
+msgid "Day mode is already enabled."
+msgstr ""
+
+#: conf/messages.conf
+# 92: All characters recalled!
+#, c-format
+msgctxt "messages.conf"
+msgid "All characters recalled!"
+msgstr ""
+
+#: conf/messages.conf
+# 93: All online characters of the %s guild have been recalled to your position.
+#, c-format
+msgctxt "messages.conf"
+msgid "All online characters of the %s guild have been recalled to your position."
+msgstr ""
+
+#: conf/messages.conf
+# 94: Incorrect name/ID, or no one from the specified guild is online.
+#, c-format
+msgctxt "messages.conf"
+msgid "Incorrect name/ID, or no one from the specified guild is online."
+msgstr ""
+
+#: conf/messages.conf
+# 95: All online characters of the %s party have been recalled to your position.
+#, c-format
+msgctxt "messages.conf"
+msgid "All online characters of the %s party have been recalled to your position."
+msgstr ""
+
+#: conf/messages.conf
+# 96: Incorrect name/ID, or no one from the specified party is online.
+#, c-format
+msgctxt "messages.conf"
+msgid "Incorrect name/ID, or no one from the specified party is online."
+msgstr ""
+
+#: conf/messages.conf
+# 97: Item database has been reloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Item database has been reloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 98: Monster database has been reloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Monster database has been reloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 99: Skill database has been reloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Skill database has been reloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 100: Scripts have been reloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Scripts have been reloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 102: You have mounted a Peco Peco.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have mounted a Peco Peco."
+msgstr ""
+
+#: conf/messages.conf
+# 103: No longer spying on the %s guild.
+#, c-format
+msgctxt "messages.conf"
+msgid "No longer spying on the %s guild."
+msgstr ""
+
+#: conf/messages.conf
+# 104: Spying on the %s guild.
+#, c-format
+msgctxt "messages.conf"
+msgid "Spying on the %s guild."
+msgstr ""
+
+#: conf/messages.conf
+# 105: No longer spying on the %s party.
+#, c-format
+msgctxt "messages.conf"
+msgid "No longer spying on the %s party."
+msgstr ""
+
+#: conf/messages.conf
+# 106: Spying on the %s party.
+#, c-format
+msgctxt "messages.conf"
+msgid "Spying on the %s party."
+msgstr ""
+
+#: conf/messages.conf
+# 107: All items have been repaired.
+#, c-format
+msgctxt "messages.conf"
+msgid "All items have been repaired."
+msgstr ""
+
+#: conf/messages.conf
+# 108: No item need to be repaired.
+#, c-format
+msgctxt "messages.conf"
+msgid "No item need to be repaired."
+msgstr ""
+
+#: conf/messages.conf
+# 109: Player has been nuked!
+#, c-format
+msgctxt "messages.conf"
+msgid "Player has been nuked!"
+msgstr ""
+
+#: conf/messages.conf
+# 110: NPC Enabled.
+#, c-format
+msgctxt "messages.conf"
+msgid "NPC Enabled."
+msgstr ""
+
+#: conf/messages.conf
+# 111: This NPC doesn't exist.
+#, c-format
+msgctxt "messages.conf"
+msgid "This NPC doesn't exist."
+msgstr ""
+
+#: conf/messages.conf
+# 112: NPC Disabled.
+#, c-format
+msgctxt "messages.conf"
+msgid "NPC Disabled."
+msgstr ""
+
+#: conf/messages.conf
+# 113: %d item(s) removed by a GM.
+#, c-format
+msgctxt "messages.conf"
+msgid "%d item(s) removed by a GM."
+msgstr ""
+
+#: conf/messages.conf
+# 114: %d item(s) removed from the player.
+#, c-format
+msgctxt "messages.conf"
+msgid "%d item(s) removed from the player."
+msgstr ""
+
+#: conf/messages.conf
+# 115: %d item(s) removed. Player had only %d on %d items.
+#, c-format
+msgctxt "messages.conf"
+msgid "%d item(s) removed. Player had only %d on %d items."
+msgstr ""
+
+#: conf/messages.conf
+# 116: Character does not have the specified item.
+#, c-format
+msgctxt "messages.conf"
+msgid "Character does not have the specified item."
+msgstr ""
+
+#: conf/messages.conf
+# 117: You have been jailed by a GM.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have been jailed by a GM."
+msgstr ""
+
+#: conf/messages.conf
+# 118: Player warped to jail.
+#, c-format
+msgctxt "messages.conf"
+msgid "Player warped to jail."
+msgstr ""
+
+#: conf/messages.conf
+# 119: This player is not in jail.
+#, c-format
+msgctxt "messages.conf"
+msgid "This player is not in jail."
+msgstr ""
+
+#: conf/messages.conf
+# 120: A GM has discharged you from jail.
+#, c-format
+msgctxt "messages.conf"
+msgid "A GM has discharged you from jail."
+msgstr ""
+
+#: conf/messages.conf
+# 121: Player unjailed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Player unjailed."
+msgstr ""
+
+#: conf/messages.conf
+# 122: Disguise applied.
+#, c-format
+msgctxt "messages.conf"
+msgid "Disguise applied."
+msgstr ""
+
+#: conf/messages.conf
+# 123: Invalid Monster/NPC name/ID specified.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid Monster/NPC name/ID specified."
+msgstr ""
+
+#: conf/messages.conf
+# 124: Disguise removed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Disguise removed."
+msgstr ""
+
+#: conf/messages.conf
+# 125: You're not disguised.
+#, c-format
+msgctxt "messages.conf"
+msgid "You're not disguised."
+msgstr ""
+
+#: conf/messages.conf
+# 126: Cannot clone a player of higher GM level than yourself.
+#, c-format
+msgctxt "messages.conf"
+msgid "Cannot clone a player of higher GM level than yourself."
+msgstr ""
+
+#: conf/messages.conf
+# 127: You've reached your slave clones limit.
+#, c-format
+msgctxt "messages.conf"
+msgid "You've reached your slave clones limit."
+msgstr ""
+
+#: conf/messages.conf
+# 128: Evil clone spawned.
+#, c-format
+msgctxt "messages.conf"
+msgid "Evil clone spawned."
+msgstr ""
+
+#: conf/messages.conf
+# 129: Unable to spawn evil clone.
+#, c-format
+msgctxt "messages.conf"
+msgid "Unable to spawn evil clone."
+msgstr ""
+
+#: conf/messages.conf
+# 130: Clone spawned.
+#, c-format
+msgctxt "messages.conf"
+msgid "Clone spawned."
+msgstr ""
+
+#: conf/messages.conf
+# 131: Unable to spawn clone.
+#, c-format
+msgctxt "messages.conf"
+msgid "Unable to spawn clone."
+msgstr ""
+
+#: conf/messages.conf
+# 132: Slave clone spawned.
+#, c-format
+msgctxt "messages.conf"
+msgid "Slave clone spawned."
+msgstr ""
+
+#: conf/messages.conf
+# 133: Unable to spawn slave clone.
+#, c-format
+msgctxt "messages.conf"
+msgid "Unable to spawn slave clone."
+msgstr ""
+
+#: conf/messages.conf
+# 137: CvC: Off
+#, c-format
+msgctxt "messages.conf"
+msgid "CvC: Off"
+msgstr ""
+
+#: conf/messages.conf
+# 138: CvC: On
+#, c-format
+msgctxt "messages.conf"
+msgid "CvC: On"
+msgstr ""
+
+#: conf/messages.conf
+# 139: CvC ON |
+#, c-format
+msgctxt "messages.conf"
+msgid "CvC ON |"
+msgstr ""
+
+#: conf/messages.conf
+# 140: You can't join in a clan if you're in a guild.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't join in a clan if you're in a guild."
+msgstr ""
+
+#: conf/messages.conf
+# 141: CvC is already Off.
+#, c-format
+msgctxt "messages.conf"
+msgid "CvC is already Off."
+msgstr ""
+
+#: conf/messages.conf
+# 142: CvC is already On.
+#, c-format
+msgctxt "messages.conf"
+msgid "CvC is already On."
+msgstr ""
+
+#: conf/messages.conf
+# 143: Commands are disabled in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "Commands are disabled in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 144: Invalid e-mail. If your email hasn't been set, use a@a.com.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid e-mail. If your email hasn't been set, use a@a.com."
+msgstr ""
+
+#: conf/messages.conf
+# 145: Invalid new e-mail. Please enter a real e-mail address.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid new e-mail. Please enter a real e-mail address."
+msgstr ""
+
+#: conf/messages.conf
+# 146: New e-mail must be a real e-mail address.
+#, c-format
+msgctxt "messages.conf"
+msgid "New e-mail must be a real e-mail address."
+msgstr ""
+
+#: conf/messages.conf
+# 147: New e-mail must be different from the current e-mail address.
+#, c-format
+msgctxt "messages.conf"
+msgid "New e-mail must be different from the current e-mail address."
+msgstr ""
+
+#: conf/messages.conf
+# 148: Information sent to login-server via char-server.
+#, c-format
+msgctxt "messages.conf"
+msgid "Information sent to login-server via char-server."
+msgstr ""
+
+#: conf/messages.conf
+# 149: Impossible to increase the number/value.
+#, c-format
+msgctxt "messages.conf"
+msgid "Impossible to increase the number/value."
+msgstr ""
+
+#: conf/messages.conf
+# 150: No GM found.
+#, c-format
+msgctxt "messages.conf"
+msgid "No GM found."
+msgstr ""
+
+#: conf/messages.conf
+# 151: 1 GM found.
+#, c-format
+msgctxt "messages.conf"
+msgid "1 GM found."
+msgstr ""
+
+#: conf/messages.conf
+# 152: %d GMs found.
+#, c-format
+msgctxt "messages.conf"
+msgid "%d GMs found."
+msgstr ""
+
+#: conf/messages.conf
+# 153: %s is Unknown Command.
+#, c-format
+msgctxt "messages.conf"
+msgid "%s is Unknown Command."
+msgstr ""
+
+#: conf/messages.conf
+# 154: %s failed.
+#, c-format
+msgctxt "messages.conf"
+msgid "%s failed."
+msgstr ""
+
+#: conf/messages.conf
+# 155: You are unable to change your job.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are unable to change your job."
+msgstr ""
+
+#: conf/messages.conf
+# 156: HP or/and SP modified.
+#, c-format
+msgctxt "messages.conf"
+msgid "HP or/and SP modified."
+msgstr ""
+
+#: conf/messages.conf
+# 157: HP and SP have already been recovered.
+#, c-format
+msgctxt "messages.conf"
+msgid "HP and SP have already been recovered."
+msgstr ""
+
+#: conf/messages.conf
+# 158: Base level can't go any lower.
+#, c-format
+msgctxt "messages.conf"
+msgid "Base level can't go any lower."
+msgstr ""
+
+#: conf/messages.conf
+# 159: Job level can't go any lower.
+#, c-format
+msgctxt "messages.conf"
+msgid "Job level can't go any lower."
+msgstr ""
+
+#: conf/messages.conf
+# 160: PvP is already Off.
+#, c-format
+msgctxt "messages.conf"
+msgid "PvP is already Off."
+msgstr ""
+
+#: conf/messages.conf
+# 161: PvP is already On.
+#, c-format
+msgctxt "messages.conf"
+msgid "PvP is already On."
+msgstr ""
+
+#: conf/messages.conf
+# 162: GvG is already Off.
+#, c-format
+msgctxt "messages.conf"
+msgid "GvG is already Off."
+msgstr ""
+
+#: conf/messages.conf
+# 163: GvG is already On.
+#, c-format
+msgctxt "messages.conf"
+msgid "GvG is already On."
+msgstr ""
+
+#: conf/messages.conf
+# 164: You need to learn the basic skills first.
+#, c-format
+msgctxt "messages.conf"
+msgid "You need to learn the basic skills first."
+msgstr ""
+
+#: conf/messages.conf
+# 165: All monsters killed!
+#, c-format
+msgctxt "messages.conf"
+msgid "All monsters killed!"
+msgstr ""
+
+#: conf/messages.conf
+# 166: No item has been refined.
+#, c-format
+msgctxt "messages.conf"
+msgid "No item has been refined."
+msgstr ""
+
+#: conf/messages.conf
+# 167: 1 item has been refined.
+#, c-format
+msgctxt "messages.conf"
+msgid "1 item has been refined."
+msgstr ""
+
+#: conf/messages.conf
+# 168: %d items have been refined.
+#, c-format
+msgctxt "messages.conf"
+msgid "%d items have been refined."
+msgstr ""
+
+#: conf/messages.conf
+# 169: The item (%d: '%s') is not equippable.
+#, c-format
+msgctxt "messages.conf"
+msgid "The item (%d: '%s') is not equippable."
+msgstr ""
+
+#: conf/messages.conf
+# 170: The item is not equippable.
+#, c-format
+msgctxt "messages.conf"
+msgid "The item is not equippable."
+msgstr ""
+
+#: conf/messages.conf
+# 171: %d - void
+#, c-format
+msgctxt "messages.conf"
+msgid "%d - void"
+msgstr ""
+
+#: conf/messages.conf
+# 172: Speed returned to normal.
+#, c-format
+msgctxt "messages.conf"
+msgid "Speed returned to normal."
+msgstr ""
+
+#: conf/messages.conf
+# 173: Please enter a valid madogear type.
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a valid madogear type."
+msgstr ""
+
+#: conf/messages.conf
+# 174: Number of status points changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Number of status points changed."
+msgstr ""
+
+#: conf/messages.conf
+# 175: Number of skill points changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Number of skill points changed."
+msgstr ""
+
+#: conf/messages.conf
+# 176: Current amount of zeny changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Current amount of zeny changed."
+msgstr ""
+
+#: conf/messages.conf
+# 177: You cannot decrease that stat anymore.
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot decrease that stat anymore."
+msgstr ""
+
+#: conf/messages.conf
+# 178: You cannot increase that stat anymore.
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot increase that stat anymore."
+msgstr ""
+
+#: conf/messages.conf
+# 179: Guild level changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Guild level changed."
+msgstr ""
+
+#: conf/messages.conf
+# 180: The monster/egg name/ID doesn't exist.
+#, c-format
+msgctxt "messages.conf"
+msgid "The monster/egg name/ID doesn't exist."
+msgstr ""
+
+#: conf/messages.conf
+# 181: You already have a pet.
+#, c-format
+msgctxt "messages.conf"
+msgid "You already have a pet."
+msgstr ""
+
+#: conf/messages.conf
+# 182: Pet intimacy changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Pet intimacy changed."
+msgstr ""
+
+#: conf/messages.conf
+# 183: Pet intimacy is already at maximum.
+#, c-format
+msgctxt "messages.conf"
+msgid "Pet intimacy is already at maximum."
+msgstr ""
+
+#: conf/messages.conf
+# 184: Sorry, but you have no pet.
+#, c-format
+msgctxt "messages.conf"
+msgid "Sorry, but you have no pet."
+msgstr ""
+
+#: conf/messages.conf
+# 185: Pet hunger changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Pet hunger changed."
+msgstr ""
+
+#: conf/messages.conf
+# 186: Pet hunger is already at maximum.
+#, c-format
+msgctxt "messages.conf"
+msgid "Pet hunger is already at maximum."
+msgstr ""
+
+#: conf/messages.conf
+# 187: You can now rename your pet.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can now rename your pet."
+msgstr ""
+
+#: conf/messages.conf
+# 188: You can already rename your pet.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can already rename your pet."
+msgstr ""
+
+#: conf/messages.conf
+# 189: Autofeed is disabled for this pet.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autofeed is disabled for this pet."
+msgstr ""
+
+#: conf/messages.conf
+# 195: All players have been kicked!
+#, c-format
+msgctxt "messages.conf"
+msgid "All players have been kicked!"
+msgstr ""
+
+#: conf/messages.conf
+# 196: You already have this quest skill.
+#, c-format
+msgctxt "messages.conf"
+msgid "You already have this quest skill."
+msgstr ""
+
+#: conf/messages.conf
+# 197: This skill number doesn't exist or isn't a quest skill.
+#, c-format
+msgctxt "messages.conf"
+msgid "This skill number doesn't exist or isn't a quest skill."
+msgstr ""
+
+#: conf/messages.conf
+# 198: This skill number doesn't exist.
+#, c-format
+msgctxt "messages.conf"
+msgid "This skill number doesn't exist."
+msgstr ""
+
+#: conf/messages.conf
+# 201: You don't have this quest skill.
+#, c-format
+msgctxt "messages.conf"
+msgid "You don't have this quest skill."
+msgstr ""
+
+#: conf/messages.conf
+# 204: You can't open a shop on this cell.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't open a shop on this cell."
+msgstr ""
+
+#: conf/messages.conf
+# 205: Maybe you meant: 
+#, c-format
+msgctxt "messages.conf"
+msgid "Maybe you meant: "
+msgstr ""
+
+#: conf/messages.conf
+# 206: '%s' skill points reset.
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' skill points reset."
+msgstr ""
+
+#: conf/messages.conf
+# 207: '%s' stats points reset.
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' stats points reset."
+msgstr ""
+
+#: conf/messages.conf
+# 208: '%s' skill and stat points have been reset.
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' skill and stat points have been reset."
+msgstr ""
+
+#: conf/messages.conf
+# 212: Cannot mount while in disguise.
+#, c-format
+msgctxt "messages.conf"
+msgid "Cannot mount while in disguise."
+msgstr ""
+
+#: conf/messages.conf
+# 213: You need %s to mount!
+#, c-format
+msgctxt "messages.conf"
+msgid "You need %s to mount!"
+msgstr ""
+
+#: conf/messages.conf
+# 214: You have released your Peco Peco.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have released your Peco Peco."
+msgstr ""
+
+#: conf/messages.conf
+# 215: Your class can't mount!
+#, c-format
+msgctxt "messages.conf"
+msgid "Your class can't mount!"
+msgstr ""
+
+#: conf/messages.conf
+# 219: %d day
+#, c-format
+msgctxt "messages.conf"
+msgid "%d day"
+msgstr ""
+
+#: conf/messages.conf
+# 220: %d days
+#, c-format
+msgctxt "messages.conf"
+msgid "%d days"
+msgstr ""
+
+#: conf/messages.conf
+# 221: %d hour
+#, c-format
+msgctxt "messages.conf"
+msgid "%d hour"
+msgstr ""
+
+#: conf/messages.conf
+# 222: %d hours
+#, c-format
+msgctxt "messages.conf"
+msgid "%d hours"
+msgstr ""
+
+#: conf/messages.conf
+# 223: %d minute
+#, c-format
+msgctxt "messages.conf"
+msgid "%d minute"
+msgstr ""
+
+#: conf/messages.conf
+# 224: %d minutes
+#, c-format
+msgctxt "messages.conf"
+msgid "%d minutes"
+msgstr ""
+
+#: conf/messages.conf
+# 225: and %d second
+#, c-format
+msgctxt "messages.conf"
+msgid "and %d second"
+msgstr ""
+
+#: conf/messages.conf
+# 226: and %d seconds
+#, c-format
+msgctxt "messages.conf"
+msgid "and %d seconds"
+msgstr ""
+
+#: conf/messages.conf
+# 227: Party modification is disabled in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "Party modification is disabled in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 228: Guild modification is disabled in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "Guild modification is disabled in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 229: Your effect has changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your effect has changed."
+msgstr ""
+
+#: conf/messages.conf
+# 230: Server time (normal time): %A, %B %d %Y %X.
+#, c-format
+msgctxt "messages.conf"
+msgid "Server time (normal time): %A, %B %d %Y %X."
+msgstr ""
+
+#: conf/messages.conf
+# 231: Game time: The game is in permanent daylight.
+#, c-format
+msgctxt "messages.conf"
+msgid "Game time: The game is in permanent daylight."
+msgstr ""
+
+#: conf/messages.conf
+# 232: Game time: The game is in permanent night.
+#, c-format
+msgctxt "messages.conf"
+msgid "Game time: The game is in permanent night."
+msgstr ""
+
+#: conf/messages.conf
+# 233: Game time: The game is in night for %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Game time: The game is in night for %s."
+msgstr ""
+
+#: conf/messages.conf
+# 235: Game time: The game is in daylight for %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Game time: The game is in daylight for %s."
+msgstr ""
+
+#: conf/messages.conf
+# 236: You've got a new mail!
+#, c-format
+msgctxt "messages.conf"
+msgid "You've got a new mail!"
+msgstr ""
+
+#: conf/messages.conf
+# 237: Game time: After, the game will be in night for %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Game time: After, the game will be in night for %s."
+msgstr ""
+
+#: conf/messages.conf
+# 238: Game time: A day cycle has a normal duration of %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Game time: A day cycle has a normal duration of %s."
+msgstr ""
+
+#: conf/messages.conf
+# 239: Game time: After, the game will be in daylight for %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Game time: After, the game will be in daylight for %s."
+msgstr ""
+
+#: conf/messages.conf
+# 240: %d monster(s) summoned!
+#, c-format
+msgctxt "messages.conf"
+msgid "%d monster(s) summoned!"
+msgstr ""
+
+#: conf/messages.conf
+# 241: You can now attack and kill players freely.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can now attack and kill players freely."
+msgstr ""
+
+#: conf/messages.conf
+# 242: You can now be attacked and killed by players.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can now be attacked and killed by players."
+msgstr ""
+
+#: conf/messages.conf
+# 243: Skills have been disabled in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "Skills have been disabled in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 244: Skills have been enabled in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "Skills have been enabled in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 245: Server Uptime: %ld days, %ld hours, %ld minutes, %ld seconds.
+#, c-format
+msgctxt "messages.conf"
+msgid "Server Uptime: %ld days, %ld hours, %ld minutes, %ld seconds."
+msgstr ""
+
+#: conf/messages.conf
+# 246: Your GM level doesn't authorize you to perform this action.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your GM level doesn't authorize you to perform this action."
+msgstr ""
+
+#: conf/messages.conf
+# 247: You are not authorized to warp to this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are not authorized to warp to this map."
+msgstr ""
+
+#: conf/messages.conf
+# 248: You are not authorized to warp from your current map.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are not authorized to warp from your current map."
+msgstr ""
+
+#: conf/messages.conf
+# 249: You are not authorized to warp to your save map.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are not authorized to warp to your save map."
+msgstr ""
+
+#: conf/messages.conf
+# 250: You have already opened your storage. Close it first.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have already opened your storage. Close it first."
+msgstr ""
+
+#: conf/messages.conf
+# 251: You have already opened your guild storage. Close it first.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have already opened your guild storage. Close it first."
+msgstr ""
+
+#: conf/messages.conf
+# 252: You are not in a guild.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are not in a guild."
+msgstr ""
+
+#: conf/messages.conf
+# 253: You already are at your destination!
+#, c-format
+msgctxt "messages.conf"
+msgid "You already are at your destination!"
+msgstr ""
+
+#: conf/messages.conf
+# 254: GM command configuration has been reloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "GM command configuration has been reloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 255: Battle configuration has been reloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Battle configuration has been reloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 256: Status database has been reloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Status database has been reloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 257: Player database has been reloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Player database has been reloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 258: Sent packet 0x%x (%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "Sent packet 0x%x (%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 259: Invalid packet
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid packet"
+msgstr ""
+
+#: conf/messages.conf
+# 260: This item cannot be traded.
+#, c-format
+msgctxt "messages.conf"
+msgid "This item cannot be traded."
+msgstr ""
+
+#: conf/messages.conf
+# 261: Script could not be loaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Script could not be loaded."
+msgstr ""
+
+#: conf/messages.conf
+# 262: Script loaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Script loaded."
+msgstr ""
+
+#: conf/messages.conf
+# 263: This item cannot be dropped.
+#, c-format
+msgctxt "messages.conf"
+msgid "This item cannot be dropped."
+msgstr ""
+
+#: conf/messages.conf
+# 264: This item cannot be stored.
+#, c-format
+msgctxt "messages.conf"
+msgid "This item cannot be stored."
+msgstr ""
+
+#: conf/messages.conf
+# 265: %s has bought your item(s).
+#, c-format
+msgctxt "messages.conf"
+msgid "%s has bought your item(s)."
+msgstr ""
+
+#: conf/messages.conf
+# 266: Some of your items cannot be vended and were removed from the shop.
+#, c-format
+msgctxt "messages.conf"
+msgid "Some of your items cannot be vended and were removed from the shop."
+msgstr ""
+
+#: conf/messages.conf
+# 269: Displaying first %d out of %d matches
+#, c-format
+msgctxt "messages.conf"
+msgid "Displaying first %d out of %d matches"
+msgstr ""
+
+#: conf/messages.conf
+# 270: * :%s %s: *
+#, c-format
+msgctxt "messages.conf"
+msgid "* :%s %s: *"
+msgstr ""
+
+#: conf/messages.conf
+# 271: You can't drop items in this map
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't drop items in this map"
+msgstr ""
+
+#: conf/messages.conf
+# 272: You can't trade in this map
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't trade in this map"
+msgstr ""
+
+#: conf/messages.conf
+# 273: Available commands:
+#, c-format
+msgctxt "messages.conf"
+msgid "Available commands:"
+msgstr ""
+
+#: conf/messages.conf
+# 274: %d commands found.
+#, c-format
+msgctxt "messages.conf"
+msgid "%d commands found."
+msgstr ""
+
+#: conf/messages.conf
+# 275: Custom commands:
+#, c-format
+msgctxt "messages.conf"
+msgid "Custom commands:"
+msgstr ""
+
+#: conf/messages.conf
+# 276: You can't open a shop in this map
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't open a shop in this map"
+msgstr ""
+
+#: conf/messages.conf
+# 277: Usage: @request <petition/message to online GMs>.
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @request <petition/message to online GMs>."
+msgstr ""
+
+#: conf/messages.conf
+# 278: (@request): %s
+#, c-format
+msgctxt "messages.conf"
+msgid "(@request): %s"
+msgstr ""
+
+#: conf/messages.conf
+# 279: @request sent.
+#, c-format
+msgctxt "messages.conf"
+msgid "@request sent."
+msgstr ""
+
+#: conf/messages.conf
+# 280: Invalid name.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid name."
+msgstr ""
+
+#: conf/messages.conf
+# 281: You can't create chat rooms in this map
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't create chat rooms in this map"
+msgstr ""
+
+#: conf/messages.conf
+# 282: You need to be a party leader to use this command.
+#, c-format
+msgctxt "messages.conf"
+msgid "You need to be a party leader to use this command."
+msgstr ""
+
+#: conf/messages.conf
+# 283: Target character must be online and in your current party.
+#, c-format
+msgctxt "messages.conf"
+msgid "Target character must be online and in your current party."
+msgstr ""
+
+#: conf/messages.conf
+# 284: Leadership transferred.
+#, c-format
+msgctxt "messages.conf"
+msgid "Leadership transferred."
+msgstr ""
+
+#: conf/messages.conf
+# 285: You've become the party leader.
+#, c-format
+msgctxt "messages.conf"
+msgid "You've become the party leader."
+msgstr ""
+
+#: conf/messages.conf
+# 286: There's been no change in the setting.
+#, c-format
+msgctxt "messages.conf"
+msgid "There's been no change in the setting."
+msgstr ""
+
+#: conf/messages.conf
+# 287: You cannot change party leaders in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot change party leaders in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 288: You are no longer killable.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are no longer killable."
+msgstr ""
+
+#: conf/messages.conf
+# 291: Weather effects will disappear after teleporting or refreshing.
+#, c-format
+msgctxt "messages.conf"
+msgid "Weather effects will disappear after teleporting or refreshing."
+msgstr ""
+
+#: conf/messages.conf
+# 292: Killer state reset.
+#, c-format
+msgctxt "messages.conf"
+msgid "Killer state reset."
+msgstr ""
+
+#: conf/messages.conf
+# 293: This bound item cannot be traded to that character.
+#, c-format
+msgctxt "messages.conf"
+msgid "This bound item cannot be traded to that character."
+msgstr ""
+
+#: conf/messages.conf
+# 294: This bound item cannot be stored there.
+#, c-format
+msgctxt "messages.conf"
+msgid "This bound item cannot be stored there."
+msgstr ""
+
+#: conf/messages.conf
+# 295: Please enter an item name or ID (usage: @itembound <item name/ID> <quantity> <bound_type>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an item name or ID (usage: @itembound <item name/ID> <quantity> <bound_type>)."
+msgstr ""
+
+#: conf/messages.conf
+# 296: Please enter all parameters (usage: @itembound2 <item name/ID> <quantity>
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter all parameters (usage: @itembound2 <item name/ID> <quantity>"
+msgstr ""
+
+#: conf/messages.conf
+# 297: <identify_flag> <refine> <attribute> <card1> <card2> <card3> <card4> <bound_type>).
+#, c-format
+msgctxt "messages.conf"
+msgid "<identify_flag> <refine> <attribute> <card1> <card2> <card3> <card4> <bound_type>)."
+msgstr ""
+
+#: conf/messages.conf
+# 298: Invalid bound type. Valid types are - 1:Account 2:Guild 3:Party 4:Character
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid bound type. Valid types are - 1:Account 2:Guild 3:Party 4:Character"
+msgstr ""
+
+#: conf/messages.conf
+# 300: None Taken
+#, c-format
+msgctxt "messages.conf"
+msgid "None Taken"
+msgstr ""
+
+#: conf/messages.conf
+# 301: One Castle
+#, c-format
+msgctxt "messages.conf"
+msgid "One Castle"
+msgstr ""
+
+#: conf/messages.conf
+# 302: Two Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Two Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 303: Three Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Three Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 304: Four Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Four Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 305: Five Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Five Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 306: Six Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Six Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 307: Seven Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Seven Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 308: Eight Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Eight Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 309: Nine Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Nine Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 310: Ten Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Ten Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 311: Eleven Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Eleven Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 312: Twelve Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twelve Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 313: Thirteen Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Thirteen Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 314: Fourteen Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Fourteen Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 315: Fifteen Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Fifteen Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 316: Sixteen Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Sixteen Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 317: Seventeen Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Seventeen Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 318: Eighteen Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Eighteen Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 319: Nineteen Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Nineteen Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 320: Twenty Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twenty Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 321: Twenty-One Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twenty-One Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 322: Twenty-Two Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twenty-Two Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 323: Twenty-Three Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twenty-Three Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 324: Twenty-Four Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twenty-Four Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 325: Twenty-Five Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twenty-Five Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 326: Twenty-Six Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twenty-Six Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 327: Twenty-Seven Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twenty-Seven Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 328: Twenty-Eight Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twenty-Eight Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 329: Twenty-Nine Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Twenty-Nine Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 330: Thirty Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Thirty Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 331: Thirty-One Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Thirty-One Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 332: Thirty-Two Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Thirty-Two Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 333: Thirty-Three Castles
+#, c-format
+msgctxt "messages.conf"
+msgid "Thirty-Three Castles"
+msgstr ""
+
+#: conf/messages.conf
+# 334: Total Domination
+#, c-format
+msgctxt "messages.conf"
+msgid "Total Domination"
+msgstr ""
+
+#: conf/messages.conf
+# 343: Name: %s 
+#, c-format
+msgctxt "messages.conf"
+msgid "Name: %s "
+msgstr ""
+
+#: conf/messages.conf
+# 344: (%s) 
+#, c-format
+msgctxt "messages.conf"
+msgid "(%s) "
+msgstr ""
+
+#: conf/messages.conf
+# 345: | Party: '%s' 
+#, c-format
+msgctxt "messages.conf"
+msgid "| Party: '%s' "
+msgstr ""
+
+#: conf/messages.conf
+# 346: | Guild: '%s'
+#, c-format
+msgctxt "messages.conf"
+msgid "| Guild: '%s'"
+msgstr ""
+
+#: conf/messages.conf
+# 347: | Lv:%d/%d | Job: %s
+#, c-format
+msgctxt "messages.conf"
+msgid "| Lv:%d/%d | Job: %s"
+msgstr ""
+
+#: conf/messages.conf
+# 348: | Location: %s %d %d
+#, c-format
+msgctxt "messages.conf"
+msgid "| Location: %s %d %d"
+msgstr ""
+
+#: conf/messages.conf
+# 350: Duel: You can't use @invite. You aren't a duelist.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: You can't use @invite. You aren't a duelist."
+msgstr ""
+
+#: conf/messages.conf
+# 351: Duel: The limit of players has been reached.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: The limit of players has been reached."
+msgstr ""
+
+#: conf/messages.conf
+# 352: Duel: Player name not found.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: Player name not found."
+msgstr ""
+
+#: conf/messages.conf
+# 353: Duel: The Player is in the duel already.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: The Player is in the duel already."
+msgstr ""
+
+#: conf/messages.conf
+# 354: Duel: Invitation has been sent.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: Invitation has been sent."
+msgstr ""
+
+#: conf/messages.conf
+# 355: Duel: You can't use @duel without @reject.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: You can't use @duel without @reject."
+msgstr ""
+
+#: conf/messages.conf
+# 356: Duel: You can take part in duel again after %d seconds.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: You can take part in duel again after %d seconds."
+msgstr ""
+
+#: conf/messages.conf
+# 357: Duel: Invalid value.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: Invalid value."
+msgstr ""
+
+#: conf/messages.conf
+# 358: Duel: You can't use @leave. You aren't a duelist.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: You can't use @leave. You aren't a duelist."
+msgstr ""
+
+#: conf/messages.conf
+# 359: Duel: You've left the duel.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: You've left the duel."
+msgstr ""
+
+#: conf/messages.conf
+# 360: Duel: You can't use @accept without a duel invitation.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: You can't use @accept without a duel invitation."
+msgstr ""
+
+#: conf/messages.conf
+# 361: Duel: The duel invitation has been accepted.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: The duel invitation has been accepted."
+msgstr ""
+
+#: conf/messages.conf
+# 362: Duel: You can't use @reject without a duel invitation.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: You can't use @reject without a duel invitation."
+msgstr ""
+
+#: conf/messages.conf
+# 363: Duel: The duel invitation has been rejected.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: The duel invitation has been rejected."
+msgstr ""
+
+#: conf/messages.conf
+# 364: Duel: You can't invite %s because he/she isn't in the same map.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: You can't invite %s because he/she isn't in the same map."
+msgstr ""
+
+#: conf/messages.conf
+# 365: Duel: Can't use %s in duel.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: Can't use %s in duel."
+msgstr ""
+
+#: conf/messages.conf
+# 366: Styling Shop
+#, c-format
+msgctxt "messages.conf"
+msgid "Styling Shop"
+msgstr ""
+
+#: conf/messages.conf
+# 367: <MSG>2949</MSG>
+#, c-format
+msgctxt "messages.conf"
+msgid "<MSG>2949</MSG>"
+msgstr ""
+
+#: conf/messages.conf
+# 368: <MSG>2950</MSG>
+#, c-format
+msgctxt "messages.conf"
+msgid "<MSG>2950</MSG>"
+msgstr ""
+
+#: conf/messages.conf
+# 370: -- Duels: %d/%d, Members: %d/%d, Max players: %d --
+#, c-format
+msgctxt "messages.conf"
+msgid "-- Duels: %d/%d, Members: %d/%d, Max players: %d --"
+msgstr ""
+
+#: conf/messages.conf
+# 371: -- Duels: %d/%d, Members: %d/%d --
+#, c-format
+msgctxt "messages.conf"
+msgid "-- Duels: %d/%d, Members: %d/%d --"
+msgstr ""
+
+#: conf/messages.conf
+# 372: -- Duel has been created (Use @invite/@leave) --
+#, c-format
+msgctxt "messages.conf"
+msgid "-- Duel has been created (Use @invite/@leave) --"
+msgstr ""
+
+#: conf/messages.conf
+# 373: -- Player %s invites %s to duel --
+#, c-format
+msgctxt "messages.conf"
+msgid "-- Player %s invites %s to duel --"
+msgstr ""
+
+#: conf/messages.conf
+# 374: Blue -- Player %s invites you to PVP duel (Use @accept/@reject) --
+#, c-format
+msgctxt "messages.conf"
+msgid "Blue -- Player %s invites you to PVP duel (Use @accept/@reject) --"
+msgstr ""
+
+#: conf/messages.conf
+# 375: <- Player %s has left the duel --
+#, c-format
+msgctxt "messages.conf"
+msgid "<- Player %s has left the duel --"
+msgstr ""
+
+#: conf/messages.conf
+# 376: -> Player %s has accepted the duel --
+#, c-format
+msgctxt "messages.conf"
+msgid "-> Player %s has accepted the duel --"
+msgstr ""
+
+#: conf/messages.conf
+# 377: -- Player %s has rejected the duel --
+#, c-format
+msgctxt "messages.conf"
+msgid "-- Player %s has rejected the duel --"
+msgstr ""
+
+#: conf/messages.conf
+# 386: %s :Main: %s
+#, c-format
+msgctxt "messages.conf"
+msgid "%s :Main: %s"
+msgstr ""
+
+#: conf/messages.conf
+# 390: Autorejecting is activated.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autorejecting is activated."
+msgstr ""
+
+#: conf/messages.conf
+# 391: Autorejecting is deactivated.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autorejecting is deactivated."
+msgstr ""
+
+#: conf/messages.conf
+# 392: You request has been rejected by autoreject option.
+#, c-format
+msgctxt "messages.conf"
+msgid "You request has been rejected by autoreject option."
+msgstr ""
+
+#: conf/messages.conf
+# 393: Autorejected trade request from %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autorejected trade request from %s."
+msgstr ""
+
+#: conf/messages.conf
+# 394: Autorejected party invite from %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autorejected party invite from %s."
+msgstr ""
+
+#: conf/messages.conf
+# 395: Autorejected guild invite from %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autorejected guild invite from %s."
+msgstr ""
+
+#: conf/messages.conf
+# 396: Autorejected alliance request from %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autorejected alliance request from %s."
+msgstr ""
+
+#: conf/messages.conf
+# 397: Autorejected opposition request from %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autorejected opposition request from %s."
+msgstr ""
+
+#: conf/messages.conf
+# 398: Autorejected friend request from %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autorejected friend request from %s."
+msgstr ""
+
+#: conf/messages.conf
+# 400: Usage: @jailfor <time> <character name>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @jailfor <time> <character name>"
+msgstr ""
+
+#: conf/messages.conf
+# 402: %s in jail for %d years, %d months, %d days, %d hours and %d minutes
+#, c-format
+msgctxt "messages.conf"
+msgid "%s in jail for %d years, %d months, %d days, %d hours and %d minutes"
+msgstr ""
+
+#: conf/messages.conf
+# 403: War of Emperium SE has been initiated.
+#, c-format
+msgctxt "messages.conf"
+msgid "War of Emperium SE has been initiated."
+msgstr ""
+
+#: conf/messages.conf
+# 404: War of Emperium SE is currently in progress.
+#, c-format
+msgctxt "messages.conf"
+msgid "War of Emperium SE is currently in progress."
+msgstr ""
+
+#: conf/messages.conf
+# 405: War of Emperium SE has been ended.
+#, c-format
+msgctxt "messages.conf"
+msgid "War of Emperium SE has been ended."
+msgstr ""
+
+#: conf/messages.conf
+# 406: War of Emperium SE is currently not in progress.
+#, c-format
+msgctxt "messages.conf"
+msgid "War of Emperium SE is currently not in progress."
+msgstr ""
+
+#: conf/messages.conf
+# 408: Disconnecting to perform change-sex request...
+#, c-format
+msgctxt "messages.conf"
+msgid "Disconnecting to perform change-sex request..."
+msgstr ""
+
+#: conf/messages.conf
+# 409: Your sex has been changed (disconnection required to complete the process)...
+#, c-format
+msgctxt "messages.conf"
+msgid "Your sex has been changed (disconnection required to complete the process)..."
+msgstr ""
+
+#: conf/messages.conf
+# 410: Removed %d cash points. Total %d points.
+#, c-format
+msgctxt "messages.conf"
+msgid "Removed %d cash points. Total %d points."
+msgstr ""
+
+#: conf/messages.conf
+# 411: Removed %d Kafra points. Total %d points.
+#, c-format
+msgctxt "messages.conf"
+msgid "Removed %d Kafra points. Total %d points."
+msgstr ""
+
+#: conf/messages.conf
+# 412: Your account is 'Unregistered'.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your account is 'Unregistered'."
+msgstr ""
+
+#: conf/messages.conf
+# 413: Your account has an 'Incorrect Password'...
+#, c-format
+msgctxt "messages.conf"
+msgid "Your account has an 'Incorrect Password'..."
+msgstr ""
+
+#: conf/messages.conf
+# 414: Your account has expired.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your account has expired."
+msgstr ""
+
+#: conf/messages.conf
+# 415: Your account has been rejected from server.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your account has been rejected from server."
+msgstr ""
+
+#: conf/messages.conf
+# 416: Your account has been blocked by the GM Team.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your account has been blocked by the GM Team."
+msgstr ""
+
+#: conf/messages.conf
+# 417: Your Game's EXE file is not the latest version.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your Game's EXE file is not the latest version."
+msgstr ""
+
+#: conf/messages.conf
+# 418: Your account has been prohibited to log in.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your account has been prohibited to log in."
+msgstr ""
+
+#: conf/messages.conf
+# 419: Server is jammed due to overpopulation.
+#, c-format
+msgctxt "messages.conf"
+msgid "Server is jammed due to overpopulation."
+msgstr ""
+
+#: conf/messages.conf
+# 420: Your account is no longer authorized.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your account is no longer authorized."
+msgstr ""
+
+#: conf/messages.conf
+# 421: Your account has been totally erased.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your account has been totally erased."
+msgstr ""
+
+#: conf/messages.conf
+# 423: Your account has been banished until 
+#, c-format
+msgctxt "messages.conf"
+msgid "Your account has been banished until "
+msgstr ""
+
+#: conf/messages.conf
+# 424: Login-server has been asked to %s the player '%.*s'.
+#, c-format
+msgctxt "messages.conf"
+msgid "Login-server has been asked to %s the player '%.*s'."
+msgstr ""
+
+#: conf/messages.conf
+# 425: The player '%.*s' doesn't exist.
+#, c-format
+msgctxt "messages.conf"
+msgid "The player '%.*s' doesn't exist."
+msgstr ""
+
+#: conf/messages.conf
+# 426: Your GM level doesn't authorize you to %s the player '%.*s'.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your GM level doesn't authorize you to %s the player '%.*s'."
+msgstr ""
+
+#: conf/messages.conf
+# 427: Login-server is offline. Impossible to %s the player '%.*s'.
+#, c-format
+msgctxt "messages.conf"
+msgid "Login-server is offline. Impossible to %s the player '%.*s'."
+msgstr ""
+
+#: conf/messages.conf
+# 428: block
+#, c-format
+msgctxt "messages.conf"
+msgid "block"
+msgstr ""
+
+#: conf/messages.conf
+# 429: ban
+#, c-format
+msgctxt "messages.conf"
+msgid "ban"
+msgstr ""
+
+#: conf/messages.conf
+# 430: unblock
+#, c-format
+msgctxt "messages.conf"
+msgid "unblock"
+msgstr ""
+
+#: conf/messages.conf
+# 431: unban
+#, c-format
+msgctxt "messages.conf"
+msgid "unban"
+msgstr ""
+
+#: conf/messages.conf
+# 432: change the sex of
+#, c-format
+msgctxt "messages.conf"
+msgid "change the sex of"
+msgstr ""
+
+#: conf/messages.conf
+# 433: This character has been banned until 
+#, c-format
+msgctxt "messages.conf"
+msgid "This character has been banned until "
+msgstr ""
+
+#: conf/messages.conf
+# 434: Char-server has been asked to %s the character '%.*s'.
+#, c-format
+msgctxt "messages.conf"
+msgid "Char-server has been asked to %s the character '%.*s'."
+msgstr ""
+
+#: conf/messages.conf
+# 449: Homunculus Experience Gained Base:%u (%.2f%%)
+#, c-format
+msgctxt "messages.conf"
+msgid "Homunculus Experience Gained Base:%u (%.2f%%)"
+msgstr ""
+
+#: conf/messages.conf
+# 450: You already have a homunculus.
+#, c-format
+msgctxt "messages.conf"
+msgid "You already have a homunculus."
+msgstr ""
+
+#: conf/messages.conf
+# 451: You can't return your pet because your inventory is full.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't return your pet because your inventory is full."
+msgstr ""
+
+#: conf/messages.conf
+# 452: usage @camerainfo range rotation latitude
+#, c-format
+msgctxt "messages.conf"
+msgid "usage @camerainfo range rotation latitude"
+msgstr ""
+
+#: conf/messages.conf
+# 453: Refinery UI is not available.
+#, c-format
+msgctxt "messages.conf"
+msgid "Refinery UI is not available."
+msgstr ""
+
+#: conf/messages.conf
+# 454: Server : %s is leaving the battlefield...
+#, c-format
+msgctxt "messages.conf"
+msgid "Server : %s is leaving the battlefield..."
+msgstr ""
+
+#: conf/messages.conf
+# 455: Server : %s has been afk-kicked from the battlefield...
+#, c-format
+msgctxt "messages.conf"
+msgid "Server : %s has been afk-kicked from the battlefield..."
+msgstr ""
+
+#: conf/messages.conf
+# 456: You are a deserter! Wait %u minute(s) before you can apply again
+#, c-format
+msgctxt "messages.conf"
+msgid "You are a deserter! Wait %u minute(s) before you can apply again"
+msgstr ""
+
+#: conf/messages.conf
+# 457: You are a deserter! Wait %u seconds before you can apply again
+#, c-format
+msgctxt "messages.conf"
+msgid "You are a deserter! Wait %u seconds before you can apply again"
+msgstr ""
+
+#: conf/messages.conf
+# 458: You can't reapply to this arena so fast. Apply to the different arena or wait %u minute(s)
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't reapply to this arena so fast. Apply to the different arena or wait %u minute(s)"
+msgstr ""
+
+#: conf/messages.conf
+# 459: You can't reapply to this arena so fast. Apply to the different arena or wait %u seconds
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't reapply to this arena so fast. Apply to the different arena or wait %u seconds"
+msgstr ""
+
+#: conf/messages.conf
+# 460: Can't apply: not enough members in your team/guild that have not entered the queue in individual mode, minimum is %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Can't apply: not enough members in your team/guild that have not entered the queue in individual mode, minimum is %d"
+msgstr ""
+
+#: conf/messages.conf
+# 461: Can't apply: not enough members in your team/guild, minimum is %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Can't apply: not enough members in your team/guild, minimum is %d"
+msgstr ""
+
+#: conf/messages.conf
+# 462: Can't apply: not enough members in your team/party that have not entered the queue in individual mode, minimum is %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Can't apply: not enough members in your team/party that have not entered the queue in individual mode, minimum is %d"
+msgstr ""
+
+#: conf/messages.conf
+# 463: Can't apply: not enough members in your team/party, minimum is %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Can't apply: not enough members in your team/party, minimum is %d"
+msgstr ""
+
+#: conf/messages.conf
+# 464: Server : %s has quit the game...
+#, c-format
+msgctxt "messages.conf"
+msgid "Server : %s has quit the game..."
+msgstr ""
+
+#: conf/messages.conf
+# 465: [ #%s ] User IRC.%s left the channel. [Quit: %s]
+#, c-format
+msgctxt "messages.conf"
+msgid "[ #%s ] User IRC.%s left the channel. [Quit: %s]"
+msgstr ""
+
+#: conf/messages.conf
+# 466: [ #%s ] User IRC.%s left the channel. [%s]
+#, c-format
+msgctxt "messages.conf"
+msgid "[ #%s ] User IRC.%s left the channel. [%s]"
+msgstr ""
+
+#: conf/messages.conf
+# 467: [ #%s ] User IRC.%s is now known as IRC.%s
+#, c-format
+msgctxt "messages.conf"
+msgid "[ #%s ] User IRC.%s is now known as IRC.%s"
+msgstr ""
+
+#: conf/messages.conf
+# 468: [ #%s ] User IRC.%s joined the channel.
+#, c-format
+msgctxt "messages.conf"
+msgid "[ #%s ] User IRC.%s joined the channel."
+msgstr ""
+
+#: conf/messages.conf
+# 469: Please enter a Clan ID (usage: @joinclan <clan ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a Clan ID (usage: @joinclan <clan ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 470: You are already in a clan.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are already in a clan."
+msgstr ""
+
+#: conf/messages.conf
+# 471: You must leave your guild before enter in a clan.
+#, c-format
+msgctxt "messages.conf"
+msgid "You must leave your guild before enter in a clan."
+msgstr ""
+
+#: conf/messages.conf
+# 472: Invalid Clan ID.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid Clan ID."
+msgstr ""
+
+#: conf/messages.conf
+# 473: The clan couldn't be joined.
+#, c-format
+msgctxt "messages.conf"
+msgid "The clan couldn't be joined."
+msgstr ""
+
+#: conf/messages.conf
+# 474: You aren't in a clan.
+#, c-format
+msgctxt "messages.conf"
+msgid "You aren't in a clan."
+msgstr ""
+
+#: conf/messages.conf
+# 475: Failed on leaving clan.
+#, c-format
+msgctxt "messages.conf"
+msgid "Failed on leaving clan."
+msgstr ""
+
+#: conf/messages.conf
+# 476: Clan configuration and database have been reloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Clan configuration and database have been reloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 477: You cannot create a guild because you are in a clan.
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot create a guild because you are in a clan."
+msgstr ""
+
+#: conf/messages.conf
+# 498: Cannot create bound pet eggs or pet armors.
+#, c-format
+msgctxt "messages.conf"
+msgid "Cannot create bound pet eggs or pet armors."
+msgstr ""
+
+#: conf/messages.conf
+# 501: Your account time limit is: %d-%m-%Y %H:%M:%S.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your account time limit is: %d-%m-%Y %H:%M:%S."
+msgstr ""
+
+#: conf/messages.conf
+# 502: Day Mode is activated.
+#, c-format
+msgctxt "messages.conf"
+msgid "Day Mode is activated."
+msgstr ""
+
+#: conf/messages.conf
+# 503: Night Mode is activated.
+#, c-format
+msgctxt "messages.conf"
+msgid "Night Mode is activated."
+msgstr ""
+
+#: conf/messages.conf
+# 504: Used %d Kafra points and %d cash points. %d Kafra and %d cash points remaining.
+#, c-format
+msgctxt "messages.conf"
+msgid "Used %d Kafra points and %d cash points. %d Kafra and %d cash points remaining."
+msgstr ""
+
+#: conf/messages.conf
+# 505: Gained %d cash points. Total %d points.
+#, c-format
+msgctxt "messages.conf"
+msgid "Gained %d cash points. Total %d points."
+msgstr ""
+
+#: conf/messages.conf
+# 506: Gained %d Kafra points. Total %d points.
+#, c-format
+msgctxt "messages.conf"
+msgid "Gained %d Kafra points. Total %d points."
+msgstr ""
+
+#: conf/messages.conf
+# 507: This player has been banned for %d minute(s).
+#, c-format
+msgctxt "messages.conf"
+msgid "This player has been banned for %d minute(s)."
+msgstr ""
+
+#: conf/messages.conf
+# 508: This player hasn't been banned (Ban option is disabled).
+#, c-format
+msgctxt "messages.conf"
+msgid "This player hasn't been banned (Ban option is disabled)."
+msgstr ""
+
+#: conf/messages.conf
+# 510: You have %d new emails (%d unread)
+#, c-format
+msgctxt "messages.conf"
+msgid "You have %d new emails (%d unread)"
+msgstr ""
+
+#: conf/messages.conf
+# 511: Inbox is full (Max %d). Delete some mails.
+#, c-format
+msgctxt "messages.conf"
+msgid "Inbox is full (Max %d). Delete some mails."
+msgstr ""
+
+#: conf/messages.conf
+# 538: Hack on trade: character '%s' (account: %d) try to trade more items that he has.
+#, c-format
+msgctxt "messages.conf"
+msgid "Hack on trade: character '%s' (account: %d) try to trade more items that he has."
+msgstr ""
+
+#: conf/messages.conf
+# 539: This player has %d of a kind of item (id: %d), and tried to trade %d of them.
+#, c-format
+msgctxt "messages.conf"
+msgid "This player has %d of a kind of item (id: %d), and tried to trade %d of them."
+msgstr ""
+
+#: conf/messages.conf
+# 540: This player has been definitively blocked.
+#, c-format
+msgctxt "messages.conf"
+msgid "This player has been definitively blocked."
+msgstr ""
+
+#: conf/messages.conf
+# 544: <MSG>3455</MSG>
+#, c-format
+msgctxt "messages.conf"
+msgid "<MSG>3455</MSG>"
+msgstr ""
+
+#: conf/messages.conf
+# 545: <MSG>3456,%d</MSG>
+#, c-format
+msgctxt "messages.conf"
+msgid "<MSG>3456,%d</MSG>"
+msgstr ""
+
+#: conf/messages.conf
+# 546: Please enter a mob name/id (usage: @showmobs <mob name/id>)
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a mob name/id (usage: @showmobs <mob name/id>)"
+msgstr ""
+
+#: conf/messages.conf
+# 547: Invalid mob name %s!
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid mob name %s!"
+msgstr ""
+
+#: conf/messages.conf
+# 548: You can't clean a cart while vending!
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't clean a cart while vending!"
+msgstr ""
+
+#: conf/messages.conf
+# 549: You should have a shop open in order to use @autotrade.
+#, c-format
+msgctxt "messages.conf"
+msgid "You should have a shop open in order to use @autotrade."
+msgstr ""
+
+#: conf/messages.conf
+# 550: Novice
+#, c-format
+msgctxt "messages.conf"
+msgid "Novice"
+msgstr ""
+
+#: conf/messages.conf
+# 551: Swordsman
+#, c-format
+msgctxt "messages.conf"
+msgid "Swordsman"
+msgstr ""
+
+#: conf/messages.conf
+# 552: Magician
+#, c-format
+msgctxt "messages.conf"
+msgid "Magician"
+msgstr ""
+
+#: conf/messages.conf
+# 553: Archer
+#, c-format
+msgctxt "messages.conf"
+msgid "Archer"
+msgstr ""
+
+#: conf/messages.conf
+# 554: Acolyte
+#, c-format
+msgctxt "messages.conf"
+msgid "Acolyte"
+msgstr ""
+
+#: conf/messages.conf
+# 555: Merchant
+#, c-format
+msgctxt "messages.conf"
+msgid "Merchant"
+msgstr ""
+
+#: conf/messages.conf
+# 556: Thief
+#, c-format
+msgctxt "messages.conf"
+msgid "Thief"
+msgstr ""
+
+#: conf/messages.conf
+# 557: Knight
+#, c-format
+msgctxt "messages.conf"
+msgid "Knight"
+msgstr ""
+
+#: conf/messages.conf
+# 558: Priest
+#, c-format
+msgctxt "messages.conf"
+msgid "Priest"
+msgstr ""
+
+#: conf/messages.conf
+# 559: Wizard
+#, c-format
+msgctxt "messages.conf"
+msgid "Wizard"
+msgstr ""
+
+#: conf/messages.conf
+# 560: Blacksmith
+#, c-format
+msgctxt "messages.conf"
+msgid "Blacksmith"
+msgstr ""
+
+#: conf/messages.conf
+# 561: Hunter
+#, c-format
+msgctxt "messages.conf"
+msgid "Hunter"
+msgstr ""
+
+#: conf/messages.conf
+# 562: Assassin
+#, c-format
+msgctxt "messages.conf"
+msgid "Assassin"
+msgstr ""
+
+#: conf/messages.conf
+# 563: Crusader
+#, c-format
+msgctxt "messages.conf"
+msgid "Crusader"
+msgstr ""
+
+#: conf/messages.conf
+# 564: Monk
+#, c-format
+msgctxt "messages.conf"
+msgid "Monk"
+msgstr ""
+
+#: conf/messages.conf
+# 565: Sage
+#, c-format
+msgctxt "messages.conf"
+msgid "Sage"
+msgstr ""
+
+#: conf/messages.conf
+# 566: Rogue
+#, c-format
+msgctxt "messages.conf"
+msgid "Rogue"
+msgstr ""
+
+#: conf/messages.conf
+# 567: Alchemist
+#, c-format
+msgctxt "messages.conf"
+msgid "Alchemist"
+msgstr ""
+
+#: conf/messages.conf
+# 568: Bard
+#, c-format
+msgctxt "messages.conf"
+msgid "Bard"
+msgstr ""
+
+#: conf/messages.conf
+# 569: Dancer
+#, c-format
+msgctxt "messages.conf"
+msgid "Dancer"
+msgstr ""
+
+#: conf/messages.conf
+# 570: Wedding
+#, c-format
+msgctxt "messages.conf"
+msgid "Wedding"
+msgstr ""
+
+#: conf/messages.conf
+# 571: Super Novice
+#, c-format
+msgctxt "messages.conf"
+msgid "Super Novice"
+msgstr ""
+
+#: conf/messages.conf
+# 572: Gunslinger
+#, c-format
+msgctxt "messages.conf"
+msgid "Gunslinger"
+msgstr ""
+
+#: conf/messages.conf
+# 573: Ninja
+#, c-format
+msgctxt "messages.conf"
+msgid "Ninja"
+msgstr ""
+
+#: conf/messages.conf
+# 574: Christmas
+#, c-format
+msgctxt "messages.conf"
+msgid "Christmas"
+msgstr ""
+
+#: conf/messages.conf
+# 575: High Novice
+#, c-format
+msgctxt "messages.conf"
+msgid "High Novice"
+msgstr ""
+
+#: conf/messages.conf
+# 576: High Swordsman
+#, c-format
+msgctxt "messages.conf"
+msgid "High Swordsman"
+msgstr ""
+
+#: conf/messages.conf
+# 577: High Magician
+#, c-format
+msgctxt "messages.conf"
+msgid "High Magician"
+msgstr ""
+
+#: conf/messages.conf
+# 578: High Archer
+#, c-format
+msgctxt "messages.conf"
+msgid "High Archer"
+msgstr ""
+
+#: conf/messages.conf
+# 579: High Acolyte
+#, c-format
+msgctxt "messages.conf"
+msgid "High Acolyte"
+msgstr ""
+
+#: conf/messages.conf
+# 580: High Merchant
+#, c-format
+msgctxt "messages.conf"
+msgid "High Merchant"
+msgstr ""
+
+#: conf/messages.conf
+# 581: High Thief
+#, c-format
+msgctxt "messages.conf"
+msgid "High Thief"
+msgstr ""
+
+#: conf/messages.conf
+# 582: Lord Knight
+#, c-format
+msgctxt "messages.conf"
+msgid "Lord Knight"
+msgstr ""
+
+#: conf/messages.conf
+# 583: High Priest
+#, c-format
+msgctxt "messages.conf"
+msgid "High Priest"
+msgstr ""
+
+#: conf/messages.conf
+# 584: High Wizard
+#, c-format
+msgctxt "messages.conf"
+msgid "High Wizard"
+msgstr ""
+
+#: conf/messages.conf
+# 585: Whitesmith
+#, c-format
+msgctxt "messages.conf"
+msgid "Whitesmith"
+msgstr ""
+
+#: conf/messages.conf
+# 586: Sniper
+#, c-format
+msgctxt "messages.conf"
+msgid "Sniper"
+msgstr ""
+
+#: conf/messages.conf
+# 587: Assassin Cross
+#, c-format
+msgctxt "messages.conf"
+msgid "Assassin Cross"
+msgstr ""
+
+#: conf/messages.conf
+# 588: Paladin
+#, c-format
+msgctxt "messages.conf"
+msgid "Paladin"
+msgstr ""
+
+#: conf/messages.conf
+# 589: Champion
+#, c-format
+msgctxt "messages.conf"
+msgid "Champion"
+msgstr ""
+
+#: conf/messages.conf
+# 590: Professor
+#, c-format
+msgctxt "messages.conf"
+msgid "Professor"
+msgstr ""
+
+#: conf/messages.conf
+# 591: Stalker
+#, c-format
+msgctxt "messages.conf"
+msgid "Stalker"
+msgstr ""
+
+#: conf/messages.conf
+# 592: Creator
+#, c-format
+msgctxt "messages.conf"
+msgid "Creator"
+msgstr ""
+
+#: conf/messages.conf
+# 593: Clown
+#, c-format
+msgctxt "messages.conf"
+msgid "Clown"
+msgstr ""
+
+#: conf/messages.conf
+# 594: Gypsy
+#, c-format
+msgctxt "messages.conf"
+msgid "Gypsy"
+msgstr ""
+
+#: conf/messages.conf
+# 595: Baby Novice
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Novice"
+msgstr ""
+
+#: conf/messages.conf
+# 596: Baby Swordsman
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Swordsman"
+msgstr ""
+
+#: conf/messages.conf
+# 597: Baby Magician
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Magician"
+msgstr ""
+
+#: conf/messages.conf
+# 598: Baby Archer
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Archer"
+msgstr ""
+
+#: conf/messages.conf
+# 599: Baby Acolyte
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Acolyte"
+msgstr ""
+
+#: conf/messages.conf
+# 600: Baby Merchant
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Merchant"
+msgstr ""
+
+#: conf/messages.conf
+# 601: Baby Thief
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Thief"
+msgstr ""
+
+#: conf/messages.conf
+# 602: Baby Knight
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Knight"
+msgstr ""
+
+#: conf/messages.conf
+# 603: Baby Priest
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Priest"
+msgstr ""
+
+#: conf/messages.conf
+# 604: Baby Wizard
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Wizard"
+msgstr ""
+
+#: conf/messages.conf
+# 605: Baby Blacksmith
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Blacksmith"
+msgstr ""
+
+#: conf/messages.conf
+# 606: Baby Hunter
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Hunter"
+msgstr ""
+
+#: conf/messages.conf
+# 607: Baby Assassin
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Assassin"
+msgstr ""
+
+#: conf/messages.conf
+# 608: Baby Crusader
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Crusader"
+msgstr ""
+
+#: conf/messages.conf
+# 609: Baby Monk
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Monk"
+msgstr ""
+
+#: conf/messages.conf
+# 610: Baby Sage
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Sage"
+msgstr ""
+
+#: conf/messages.conf
+# 611: Baby Rogue
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Rogue"
+msgstr ""
+
+#: conf/messages.conf
+# 612: Baby Alchemist
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Alchemist"
+msgstr ""
+
+#: conf/messages.conf
+# 613: Baby Bard
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Bard"
+msgstr ""
+
+#: conf/messages.conf
+# 614: Baby Dancer
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Dancer"
+msgstr ""
+
+#: conf/messages.conf
+# 615: Super Baby
+#, c-format
+msgctxt "messages.conf"
+msgid "Super Baby"
+msgstr ""
+
+#: conf/messages.conf
+# 616: Taekwon
+#, c-format
+msgctxt "messages.conf"
+msgid "Taekwon"
+msgstr ""
+
+#: conf/messages.conf
+# 617: Star Gladiator
+#, c-format
+msgctxt "messages.conf"
+msgid "Star Gladiator"
+msgstr ""
+
+#: conf/messages.conf
+# 618: Soul Linker
+#, c-format
+msgctxt "messages.conf"
+msgid "Soul Linker"
+msgstr ""
+
+#: conf/messages.conf
+# 620: Unknown Job
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown Job"
+msgstr ""
+
+#: conf/messages.conf
+# 621: Summer
+#, c-format
+msgctxt "messages.conf"
+msgid "Summer"
+msgstr ""
+
+#: conf/messages.conf
+# 622: Gangsi
+#, c-format
+msgctxt "messages.conf"
+msgid "Gangsi"
+msgstr ""
+
+#: conf/messages.conf
+# 623: Death Knight
+#, c-format
+msgctxt "messages.conf"
+msgid "Death Knight"
+msgstr ""
+
+#: conf/messages.conf
+# 624: Dark Collector
+#, c-format
+msgctxt "messages.conf"
+msgid "Dark Collector"
+msgstr ""
+
+#: conf/messages.conf
+# 625: Rune Knight
+#, c-format
+msgctxt "messages.conf"
+msgid "Rune Knight"
+msgstr ""
+
+#: conf/messages.conf
+# 626: Warlock
+#, c-format
+msgctxt "messages.conf"
+msgid "Warlock"
+msgstr ""
+
+#: conf/messages.conf
+# 627: Ranger
+#, c-format
+msgctxt "messages.conf"
+msgid "Ranger"
+msgstr ""
+
+#: conf/messages.conf
+# 628: Arch Bishop
+#, c-format
+msgctxt "messages.conf"
+msgid "Arch Bishop"
+msgstr ""
+
+#: conf/messages.conf
+# 629: Mechanic
+#, c-format
+msgctxt "messages.conf"
+msgid "Mechanic"
+msgstr ""
+
+#: conf/messages.conf
+# 630: Guillotine Cross
+#, c-format
+msgctxt "messages.conf"
+msgid "Guillotine Cross"
+msgstr ""
+
+#: conf/messages.conf
+# 631: Royal Guard
+#, c-format
+msgctxt "messages.conf"
+msgid "Royal Guard"
+msgstr ""
+
+#: conf/messages.conf
+# 632: Sorcerer
+#, c-format
+msgctxt "messages.conf"
+msgid "Sorcerer"
+msgstr ""
+
+#: conf/messages.conf
+# 633: Minstrel
+#, c-format
+msgctxt "messages.conf"
+msgid "Minstrel"
+msgstr ""
+
+#: conf/messages.conf
+# 634: Wanderer
+#, c-format
+msgctxt "messages.conf"
+msgid "Wanderer"
+msgstr ""
+
+#: conf/messages.conf
+# 635: Sura
+#, c-format
+msgctxt "messages.conf"
+msgid "Sura"
+msgstr ""
+
+#: conf/messages.conf
+# 636: Genetic
+#, c-format
+msgctxt "messages.conf"
+msgid "Genetic"
+msgstr ""
+
+#: conf/messages.conf
+# 637: Shadow Chaser
+#, c-format
+msgctxt "messages.conf"
+msgid "Shadow Chaser"
+msgstr ""
+
+#: conf/messages.conf
+# 638: Baby Rune Knight
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Rune Knight"
+msgstr ""
+
+#: conf/messages.conf
+# 639: Baby Warlock
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Warlock"
+msgstr ""
+
+#: conf/messages.conf
+# 640: Baby Ranger
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Ranger"
+msgstr ""
+
+#: conf/messages.conf
+# 641: Baby Arch Bishop
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Arch Bishop"
+msgstr ""
+
+#: conf/messages.conf
+# 642: Baby Mechanic
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Mechanic"
+msgstr ""
+
+#: conf/messages.conf
+# 643: Baby Guillotine Cross
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Guillotine Cross"
+msgstr ""
+
+#: conf/messages.conf
+# 644: Baby Royal Guard
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Royal Guard"
+msgstr ""
+
+#: conf/messages.conf
+# 645: Baby Sorcerer
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Sorcerer"
+msgstr ""
+
+#: conf/messages.conf
+# 646: Baby Minstrel
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Minstrel"
+msgstr ""
+
+#: conf/messages.conf
+# 647: Baby Wanderer
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Wanderer"
+msgstr ""
+
+#: conf/messages.conf
+# 648: Baby Sura
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Sura"
+msgstr ""
+
+#: conf/messages.conf
+# 649: Baby Genetic
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Genetic"
+msgstr ""
+
+#: conf/messages.conf
+# 650: Baby Shadow Chaser
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Shadow Chaser"
+msgstr ""
+
+#: conf/messages.conf
+# 651: Expanded Super Novice
+#, c-format
+msgctxt "messages.conf"
+msgid "Expanded Super Novice"
+msgstr ""
+
+#: conf/messages.conf
+# 652: Expanded Super Baby
+#, c-format
+msgctxt "messages.conf"
+msgid "Expanded Super Baby"
+msgstr ""
+
+#: conf/messages.conf
+# 653: Kagerou
+#, c-format
+msgctxt "messages.conf"
+msgid "Kagerou"
+msgstr ""
+
+#: conf/messages.conf
+# 654: Oboro
+#, c-format
+msgctxt "messages.conf"
+msgid "Oboro"
+msgstr ""
+
+#: conf/messages.conf
+# 655: Rebellion
+#, c-format
+msgctxt "messages.conf"
+msgid "Rebellion"
+msgstr ""
+
+#: conf/messages.conf
+# 656: Rune Knight T
+#, c-format
+msgctxt "messages.conf"
+msgid "Rune Knight T"
+msgstr ""
+
+#: conf/messages.conf
+# 657: Warlock T
+#, c-format
+msgctxt "messages.conf"
+msgid "Warlock T"
+msgstr ""
+
+#: conf/messages.conf
+# 658: Ranger T
+#, c-format
+msgctxt "messages.conf"
+msgid "Ranger T"
+msgstr ""
+
+#: conf/messages.conf
+# 659: Arch Bishop T
+#, c-format
+msgctxt "messages.conf"
+msgid "Arch Bishop T"
+msgstr ""
+
+#: conf/messages.conf
+# 660: Mechanic T
+#, c-format
+msgctxt "messages.conf"
+msgid "Mechanic T"
+msgstr ""
+
+#: conf/messages.conf
+# 661: Guillotine Cross T
+#, c-format
+msgctxt "messages.conf"
+msgid "Guillotine Cross T"
+msgstr ""
+
+#: conf/messages.conf
+# 662: Royal Guard T
+#, c-format
+msgctxt "messages.conf"
+msgid "Royal Guard T"
+msgstr ""
+
+#: conf/messages.conf
+# 663: Sorcerer T
+#, c-format
+msgctxt "messages.conf"
+msgid "Sorcerer T"
+msgstr ""
+
+#: conf/messages.conf
+# 664: Minstrel T
+#, c-format
+msgctxt "messages.conf"
+msgid "Minstrel T"
+msgstr ""
+
+#: conf/messages.conf
+# 665: Wanderer T
+#, c-format
+msgctxt "messages.conf"
+msgid "Wanderer T"
+msgstr ""
+
+#: conf/messages.conf
+# 666: Sura T
+#, c-format
+msgctxt "messages.conf"
+msgid "Sura T"
+msgstr ""
+
+#: conf/messages.conf
+# 667: Genetic T
+#, c-format
+msgctxt "messages.conf"
+msgid "Genetic T"
+msgstr ""
+
+#: conf/messages.conf
+# 668: Shadow Chaser T
+#, c-format
+msgctxt "messages.conf"
+msgid "Shadow Chaser T"
+msgstr ""
+
+#: conf/messages.conf
+# 669: Summoner
+#, c-format
+msgctxt "messages.conf"
+msgid "Summoner"
+msgstr ""
+
+#: conf/messages.conf
+# 670: Baby Summoner
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Summoner"
+msgstr ""
+
+#: conf/messages.conf
+# 671: Baby Ninja
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Ninja"
+msgstr ""
+
+#: conf/messages.conf
+# 672: Baby Kagerou
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Kagerou"
+msgstr ""
+
+#: conf/messages.conf
+# 673: Baby Oboro
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Oboro"
+msgstr ""
+
+#: conf/messages.conf
+# 674: Baby Taekwon
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Taekwon"
+msgstr ""
+
+#: conf/messages.conf
+# 675: Baby Star Gladiator
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Star Gladiator"
+msgstr ""
+
+#: conf/messages.conf
+# 676: Baby Soul Linker
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Soul Linker"
+msgstr ""
+
+#: conf/messages.conf
+# 677: Baby Gunslinger
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Gunslinger"
+msgstr ""
+
+#: conf/messages.conf
+# 678: Baby Rebellion
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Rebellion"
+msgstr ""
+
+#: conf/messages.conf
+# 679: Star Emperor
+#, c-format
+msgctxt "messages.conf"
+msgid "Star Emperor"
+msgstr ""
+
+#: conf/messages.conf
+# 680: Baby Star Emperor
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Star Emperor"
+msgstr ""
+
+#: conf/messages.conf
+# 681: Soul Reaper
+#, c-format
+msgctxt "messages.conf"
+msgid "Soul Reaper"
+msgstr ""
+
+#: conf/messages.conf
+# 682: Baby Soul Reaper
+#, c-format
+msgctxt "messages.conf"
+msgid "Baby Soul Reaper"
+msgstr ""
+
+#: conf/messages.conf
+# 850: No Knockback |
+#, c-format
+msgctxt "messages.conf"
+msgid "No Knockback |"
+msgstr ""
+
+#: conf/messages.conf
+# 851: Source For Instance |
+#, c-format
+msgctxt "messages.conf"
+msgid "Source For Instance |"
+msgstr ""
+
+#: conf/messages.conf
+# 852: No Map Channel Auto Join |
+#, c-format
+msgctxt "messages.conf"
+msgid "No Map Channel Auto Join |"
+msgstr ""
+
+#: conf/messages.conf
+# 853: NoPet |
+#, c-format
+msgctxt "messages.conf"
+msgid "NoPet |"
+msgstr ""
+
+#: conf/messages.conf
+# 854: Auto loot item are disabled on this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "Auto loot item are disabled on this map."
+msgstr ""
+
+#: conf/messages.conf
+# 855: Congratulations! You are the MVP! Your reward EXP Points are %u !!
+#, c-format
+msgctxt "messages.conf"
+msgid "Congratulations! You are the MVP! Your reward EXP Points are %u !!"
+msgstr ""
+
+#: conf/messages.conf
+# 856: Tomb
+#, c-format
+msgctxt "messages.conf"
+msgid "Tomb"
+msgstr ""
+
+#: conf/messages.conf
+# 857: [ ^EE0000%s^000000 ]
+#, c-format
+msgctxt "messages.conf"
+msgid "[ ^EE0000%s^000000 ]"
+msgstr ""
+
+#: conf/messages.conf
+# 858: Has met its demise
+#, c-format
+msgctxt "messages.conf"
+msgid "Has met its demise"
+msgstr ""
+
+#: conf/messages.conf
+# 859: Time of death : ^EE0000%s^000000
+#, c-format
+msgctxt "messages.conf"
+msgid "Time of death : ^EE0000%s^000000"
+msgstr ""
+
+#: conf/messages.conf
+# 860: Defeated by
+#, c-format
+msgctxt "messages.conf"
+msgid "Defeated by"
+msgstr ""
+
+#: conf/messages.conf
+# 861: [^EE0000%s^000000]
+#, c-format
+msgctxt "messages.conf"
+msgid "[^EE0000%s^000000]"
+msgstr ""
+
+#: conf/messages.conf
+# 862: You're too close to an NPC, you must be at least %d cells away from any NPC.
+#, c-format
+msgctxt "messages.conf"
+msgid "You're too close to an NPC, you must be at least %d cells away from any NPC."
+msgstr ""
+
+#: conf/messages.conf
+# 863: Duel: Can't use this item in duel.
+#, c-format
+msgctxt "messages.conf"
+msgid "Duel: Can't use this item in duel."
+msgstr ""
+
+#: conf/messages.conf
+# 864: You cannot use this command when dead.
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot use this command when dead."
+msgstr ""
+
+#: conf/messages.conf
+# 865: Can't create chat rooms in this area.
+#, c-format
+msgctxt "messages.conf"
+msgid "Can't create chat rooms in this area."
+msgstr ""
+
+#: conf/messages.conf
+# 866: Pets are disabled in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "Pets are disabled in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 867: You're not dead.
+#, c-format
+msgctxt "messages.conf"
+msgid "You're not dead."
+msgstr ""
+
+#: conf/messages.conf
+# 868: Your current memo positions are:
+#, c-format
+msgctxt "messages.conf"
+msgid "Your current memo positions are:"
+msgstr ""
+
+#: conf/messages.conf
+# 869: You broke the target's weapon.
+#, c-format
+msgctxt "messages.conf"
+msgid "You broke the target's weapon."
+msgstr ""
+
+#: conf/messages.conf
+# 870: You can't leave battleground guilds.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't leave battleground guilds."
+msgstr ""
+
+#: conf/messages.conf
+# 871: Friend already exists.
+#, c-format
+msgctxt "messages.conf"
+msgid "Friend already exists."
+msgstr ""
+
+#: conf/messages.conf
+# 872: Name not found in list.
+#, c-format
+msgctxt "messages.conf"
+msgid "Name not found in list."
+msgstr ""
+
+#: conf/messages.conf
+# 873: This action can't be performed at the moment. Please try again later.
+#, c-format
+msgctxt "messages.conf"
+msgid "This action can't be performed at the moment. Please try again later."
+msgstr ""
+
+#: conf/messages.conf
+# 874: Friend removed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Friend removed."
+msgstr ""
+
+#: conf/messages.conf
+# 875: Cannot send mails too fast!!
+#, c-format
+msgctxt "messages.conf"
+msgid "Cannot send mails too fast!!"
+msgstr ""
+
+#: conf/messages.conf
+# 876: Alliances cannot be made during Guild Wars!
+#, c-format
+msgctxt "messages.conf"
+msgid "Alliances cannot be made during Guild Wars!"
+msgstr ""
+
+#: conf/messages.conf
+# 877: Alliances cannot be broken during Guild Wars!
+#, c-format
+msgctxt "messages.conf"
+msgid "Alliances cannot be broken during Guild Wars!"
+msgstr ""
+
+#: conf/messages.conf
+# 878: You are no longer the Guild Master.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are no longer the Guild Master."
+msgstr ""
+
+#: conf/messages.conf
+# 879: You have become the Guild Master!
+#, c-format
+msgctxt "messages.conf"
+msgid "You have become the Guild Master!"
+msgstr ""
+
+#: conf/messages.conf
+# 880: You have been recovered!
+#, c-format
+msgctxt "messages.conf"
+msgid "You have been recovered!"
+msgstr ""
+
+#: conf/messages.conf
+# 881: Shop is out of stock! Come again later!
+#, c-format
+msgctxt "messages.conf"
+msgid "Shop is out of stock! Come again later!"
+msgstr ""
+
+#: conf/messages.conf
+# 882: %s : %s !!
+#, c-format
+msgctxt "messages.conf"
+msgid "%s : %s !!"
+msgstr ""
+
+#: conf/messages.conf
+# 883: You are too close to a stone or emperium to do this skill
+#, c-format
+msgctxt "messages.conf"
+msgid "You are too close to a stone or emperium to do this skill"
+msgstr ""
+
+#: conf/messages.conf
+# 884: Skill Failed. [%s] requires %dx %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Skill Failed. [%s] requires %dx %s."
+msgstr ""
+
+#: conf/messages.conf
+# 885: Removed %dz.
+#, c-format
+msgctxt "messages.conf"
+msgid "Removed %dz."
+msgstr ""
+
+#: conf/messages.conf
+# 886: Gained %dz.
+#, c-format
+msgctxt "messages.conf"
+msgid "Gained %dz."
+msgstr ""
+
+#: conf/messages.conf
+# 887: %s stole an Unknown Item (id: %i).
+#, c-format
+msgctxt "messages.conf"
+msgid "%s stole an Unknown Item (id: %i)."
+msgstr ""
+
+#: conf/messages.conf
+# 888: %s stole %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "%s stole %s."
+msgstr ""
+
+#: conf/messages.conf
+# 889: Experience Gained Base:%llu (%.2f%%) Job:%llu (%.2f%%)
+#, c-format
+msgctxt "messages.conf"
+msgid "Experience Gained Base:%llu (%.2f%%) Job:%llu (%.2f%%)"
+msgstr ""
+
+#: conf/messages.conf
+# 890: [KS Warning!! - Owner : %s]
+#, c-format
+msgctxt "messages.conf"
+msgid "[KS Warning!! - Owner : %s]"
+msgstr ""
+
+#: conf/messages.conf
+# 891: [Watch out! %s is trying to KS you!]
+#, c-format
+msgctxt "messages.conf"
+msgid "[Watch out! %s is trying to KS you!]"
+msgstr ""
+
+#: conf/messages.conf
+# 892: Growth: hp:%d sp:%d str(%.2f) agi(%.2f) vit(%.2f) int(%.2f) dex(%.2f) luk(%.2f)
+#, c-format
+msgctxt "messages.conf"
+msgid "Growth: hp:%d sp:%d str(%.2f) agi(%.2f) vit(%.2f) int(%.2f) dex(%.2f) luk(%.2f)"
+msgstr ""
+
+#: conf/messages.conf
+# 893: [ Kill Steal Protection Disabled. KS is allowed in this map ]
+#, c-format
+msgctxt "messages.conf"
+msgid "[ Kill Steal Protection Disabled. KS is allowed in this map ]"
+msgstr ""
+
+#: conf/messages.conf
+# 894: %s is in autotrade mode and cannot receive whispered messages.
+#, c-format
+msgctxt "messages.conf"
+msgid "%s is in autotrade mode and cannot receive whispered messages."
+msgstr ""
+
+#: conf/messages.conf
+# 896: Base EXP : %d%% | Base Drop: %d%% | Base Death Penalty: %d%%
+#, c-format
+msgctxt "messages.conf"
+msgid "Base EXP : %d%% | Base Drop: %d%% | Base Death Penalty: %d%%"
+msgstr ""
+
+#: conf/messages.conf
+# 897: #%s '%s' joined
+#, c-format
+msgctxt "messages.conf"
+msgid "#%s '%s' joined"
+msgstr ""
+
+#: conf/messages.conf
+# 898: #%s '%s' left
+#, c-format
+msgctxt "messages.conf"
+msgid "#%s '%s' left"
+msgstr ""
+
+#: conf/messages.conf
+# 900: Usage:
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage:"
+msgstr ""
+
+#: conf/messages.conf
+# 901: @send len <packet hex number>
+#, c-format
+msgctxt "messages.conf"
+msgid "@send len <packet hex number>"
+msgstr ""
+
+#: conf/messages.conf
+# 902: @send <packet hex number> {<value>}*
+#, c-format
+msgctxt "messages.conf"
+msgid "@send <packet hex number> {<value>}*"
+msgstr ""
+
+#: conf/messages.conf
+# 903: Value: <type=B(default),W,L><number> or S<length>"<string>"
+#, c-format
+msgctxt "messages.conf"
+msgid "Value: <type=B(default),W,L><number> or S<length>"<string>""
+msgstr ""
+
+#: conf/messages.conf
+# 904: Packet 0x%x length: %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Packet 0x%x length: %d"
+msgstr ""
+
+#: conf/messages.conf
+# 905: Unknown packet: 0x%x
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown packet: 0x%x"
+msgstr ""
+
+#: conf/messages.conf
+# 906: Not a string:
+#, c-format
+msgctxt "messages.conf"
+msgid "Not a string:"
+msgstr ""
+
+#: conf/messages.conf
+# 907: Not a hexadecimal digit:
+#, c-format
+msgctxt "messages.conf"
+msgid "Not a hexadecimal digit:"
+msgstr ""
+
+#: conf/messages.conf
+# 908: Unknown type of value in:
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown type of value in:"
+msgstr ""
+
+#: conf/messages.conf
+# 909: Please enter a map (usage: @warp/@rura/@mapmove <mapname> <x> <y>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a map (usage: @warp/@rura/@mapmove <mapname> <x> <y>)."
+msgstr ""
+
+#: conf/messages.conf
+# 910: Please enter a player name (usage: @where <char name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @where <char name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 911: Please enter a player name (usage: @jumpto/@warpto/@goto <char name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @jumpto/@warpto/@goto <char name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 912: (CID:%d/AID:%d) 
+#, c-format
+msgctxt "messages.conf"
+msgid "(CID:%d/AID:%d) "
+msgstr ""
+
+#: conf/messages.conf
+# 913: Name: %s (GM)
+#, c-format
+msgctxt "messages.conf"
+msgid "Name: %s (GM)"
+msgstr ""
+
+#: conf/messages.conf
+# 914: Name: %s (GM:%d) | Location: %s %d %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Name: %s (GM:%d) | Location: %s %d %d"
+msgstr ""
+
+#: conf/messages.conf
+# 915: BLvl: %d | Job: %s (Lvl: %d)
+#, c-format
+msgctxt "messages.conf"
+msgid "BLvl: %d | Job: %s (Lvl: %d)"
+msgstr ""
+
+#: conf/messages.conf
+# 916: Party: '%s' | Guild: '%s'
+#, c-format
+msgctxt "messages.conf"
+msgid "Party: '%s' | Guild: '%s'"
+msgstr ""
+
+#: conf/messages.conf
+# 917: None
+#, c-format
+msgctxt "messages.conf"
+msgid "None"
+msgstr ""
+
+#: conf/messages.conf
+# 918: Please enter a speed value (usage: @speed <%d-%d>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a speed value (usage: @speed <%d-%d>)."
+msgstr ""
+
+#: conf/messages.conf
+# 919: Storage opened.
+#, c-format
+msgctxt "messages.conf"
+msgid "Storage opened."
+msgstr ""
+
+#: conf/messages.conf
+# 920: Guild storage opened.
+#, c-format
+msgctxt "messages.conf"
+msgid "Guild storage opened."
+msgstr ""
+
+#: conf/messages.conf
+# 921: Please enter at least one option.
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter at least one option."
+msgstr ""
+
+#: conf/messages.conf
+# 923: You can not change to this job by command.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can not change to this job by command."
+msgstr ""
+
+#: conf/messages.conf
+# 924: Usage: @setzone <zone name>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @setzone <zone name>"
+msgstr ""
+
+#: conf/messages.conf
+# 925: The zone is already set to '%s'.
+#, c-format
+msgctxt "messages.conf"
+msgid "The zone is already set to '%s'."
+msgstr ""
+
+#: conf/messages.conf
+# 926: Zone not found. Keep in mind that the names are CaSe SenSitiVe.
+#, c-format
+msgctxt "messages.conf"
+msgid "Zone not found. Keep in mind that the names are CaSe SenSitiVe."
+msgstr ""
+
+#: conf/messages.conf
+# 927: Zone successfully changed from '%s' to '%s'.
+#, c-format
+msgctxt "messages.conf"
+msgid "Zone successfully changed from '%s' to '%s'."
+msgstr ""
+
+#: conf/messages.conf
+# 979: Reset 'Hatred' targets.
+#, c-format
+msgctxt "messages.conf"
+msgid "Reset 'Hatred' targets."
+msgstr ""
+
+#: conf/messages.conf
+# 980: Please enter a message (usage: @kami <message>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a message (usage: @kami <message>)."
+msgstr ""
+
+#: conf/messages.conf
+# 981: Please enter color and message (usage: @kamic <color> <message>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter color and message (usage: @kamic <color> <message>)."
+msgstr ""
+
+#: conf/messages.conf
+# 982: Invalid color.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid color."
+msgstr ""
+
+#: conf/messages.conf
+# 983: Please enter an item name or ID (usage: @item <item name/ID> <quantity>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an item name or ID (usage: @item <item name/ID> <quantity>)."
+msgstr ""
+
+#: conf/messages.conf
+# 984: Please enter all parameters (usage: @item2 <item name/ID> <quantity>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter all parameters (usage: @item2 <item name/ID> <quantity>)."
+msgstr ""
+
+#: conf/messages.conf
+# 985: <identify_flag> <refine> <attribute> <card1> <card2> <card3> <card4>).
+#, c-format
+msgctxt "messages.conf"
+msgid "<identify_flag> <refine> <attribute> <card1> <card2> <card3> <card4>)."
+msgstr ""
+
+#: conf/messages.conf
+# 986: Please enter a level adjustment (usage: @lvup/@blevel/@baselvlup <number of levels>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a level adjustment (usage: @lvup/@blevel/@baselvlup <number of levels>)."
+msgstr ""
+
+#: conf/messages.conf
+# 987: Please enter a level adjustment (usage: @joblvup/@jlevel/@joblvlup <number of levels>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a level adjustment (usage: @joblvup/@jlevel/@joblvlup <number of levels>)."
+msgstr ""
+
+#: conf/messages.conf
+# 988: There is no help for %c%s.
+#, c-format
+msgctxt "messages.conf"
+msgid "There is no help for %c%s."
+msgstr ""
+
+#: conf/messages.conf
+# 989: Help for command %c%s:
+#, c-format
+msgctxt "messages.conf"
+msgid "Help for command %c%s:"
+msgstr ""
+
+#: conf/messages.conf
+# 990: Available aliases:
+#, c-format
+msgctxt "messages.conf"
+msgid "Available aliases:"
+msgstr ""
+
+#: conf/messages.conf
+# 991: Please enter at least one value (usage: @model <hair ID: %d-%d> <hair color: %d-%d> <clothes color: %d-%d>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter at least one value (usage: @model <hair ID: %d-%d> <hair color: %d-%d> <clothes color: %d-%d>)."
+msgstr ""
+
+#: conf/messages.conf
+# 992: Please enter a clothes color (usage: @dye/@ccolor <clothes color: %d-%d>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a clothes color (usage: @dye/@ccolor <clothes color: %d-%d>)."
+msgstr ""
+
+#: conf/messages.conf
+# 993: Please enter a hair style (usage: @hairstyle/@hstyle <hair ID: %d-%d>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a hair style (usage: @hairstyle/@hstyle <hair ID: %d-%d>)."
+msgstr ""
+
+#: conf/messages.conf
+# 994: Please enter a hair color (usage: @haircolor/@hcolor <hair color: %d-%d>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a hair color (usage: @haircolor/@hcolor <hair color: %d-%d>)."
+msgstr ""
+
+#: conf/messages.conf
+# 996: Please enter a position bitmask and an amount (usage: @refine <equip position> <+/- amount>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a position bitmask and an amount (usage: @refine <equip position> <+/- amount>)."
+msgstr ""
+
+#: conf/messages.conf
+# 997: %d: Headgear (Low)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Headgear (Low)"
+msgstr ""
+
+#: conf/messages.conf
+# 998: %d: Hand (Right)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Hand (Right)"
+msgstr ""
+
+#: conf/messages.conf
+# 999: %d: Garment
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Garment"
+msgstr ""
+
+#: conf/messages.conf
+# 1000: %d: Accessory (Left)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Accessory (Left)"
+msgstr ""
+
+#: conf/messages.conf
+# 1001: %d: Body Armor
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Body Armor"
+msgstr ""
+
+#: conf/messages.conf
+# 1002: %d: Hand (Left)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Hand (Left)"
+msgstr ""
+
+#: conf/messages.conf
+# 1003: %d: Shoes
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Shoes"
+msgstr ""
+
+#: conf/messages.conf
+# 1004: %d: Accessory (Right)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Accessory (Right)"
+msgstr ""
+
+#: conf/messages.conf
+# 1005: %d: Headgear (Top)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Headgear (Top)"
+msgstr ""
+
+#: conf/messages.conf
+# 1006: %d: Headgear (Mid)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Headgear (Mid)"
+msgstr ""
+
+#: conf/messages.conf
+# 1007: Please enter at least one item name/ID (usage: @produce <equip name/ID> <element> <# of very's>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter at least one item name/ID (usage: @produce <equip name/ID> <element> <# of very's>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1008: Please enter a valid position (usage: @memo <memo_position:%d-%d>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a valid position (usage: @memo <memo_position:%d-%d>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1009: Please enter a status type/flag (usage: @displaystatus <status type> <flag> <tick> {<val1> {<val2> {<val3>}}}).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a status type/flag (usage: @displaystatus <status type> <flag> <tick> {<val1> {<val2> {<val3>}}})."
+msgstr ""
+
+#: conf/messages.conf
+# 1010: Please enter a number (usage: @stpoint <number of points>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a number (usage: @stpoint <number of points>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1011: Please enter a number (usage: @skpoint <number of points>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a number (usage: @skpoint <number of points>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1012: Please enter an amount (usage: @zeny <amount>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an amount (usage: @zeny <amount>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1013: Please enter a valid value (usage: @str/@agi/@vit/@int/@dex/@luk <+/-adjustment>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a valid value (usage: @str/@agi/@vit/@int/@dex/@luk <+/-adjustment>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1014: Please enter a valid level (usage: @guildlvup/@guildlvlup <# of levels>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a valid level (usage: @guildlvup/@guildlvlup <# of levels>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1015: Please enter a monster/egg name/ID (usage: @makeegg <pet>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a monster/egg name/ID (usage: @makeegg <pet>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1016: Please enter a valid value (usage: @petfriendly <0-1000>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a valid value (usage: @petfriendly <0-1000>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1017: Please enter a valid number (usage: @pethungry <0-100>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a valid number (usage: @pethungry <0-100>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1018: Please enter a player name (usage: @recall <char name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @recall <char name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1019: You are not authorized to warp someone to this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are not authorized to warp someone to this map."
+msgstr ""
+
+#: conf/messages.conf
+# 1020: You are not authorized to warp this player from their map.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are not authorized to warp this player from their map."
+msgstr ""
+
+#: conf/messages.conf
+# 1021: Please enter a player name (usage: @block <char name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @block <char name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1022: Please enter ban time and a player name (usage: @ban <time> <char name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter ban time and a player name (usage: @ban <time> <char name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1023: You are not allowed to reduce the length of a ban.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are not allowed to reduce the length of a ban."
+msgstr ""
+
+#: conf/messages.conf
+# 1024: Please enter a player name (usage: @unblock <char name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @unblock <char name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1025: Please enter a player name (usage: @unban <char name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @unban <char name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1026: Please enter a player name (usage: @kick <char name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @kick <char name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1027: Please enter a quest skill ID.
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a quest skill ID."
+msgstr ""
+
+#: conf/messages.conf
+# 1028: Please enter an amount (usage: @spiritball <number: 0-%d>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an amount (usage: @spiritball <number: 0-%d>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1029: Please enter a party name (usage: @party <party_name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a party name (usage: @party <party_name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1030: Please enter a guild name (usage: @guild <guild_name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a guild name (usage: @guild <guild_name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1031: Please enter part of an item name (usage: @idsearch <part_of_item_name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter part of an item name (usage: @idsearch <part_of_item_name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1032: You are not authorized to warp someone to your current map.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are not authorized to warp someone to your current map."
+msgstr ""
+
+#: conf/messages.conf
+# 1033: Because you are not authorized to warp from some maps, %d player(s) have not been recalled.
+#, c-format
+msgctxt "messages.conf"
+msgid "Because you are not authorized to warp from some maps, %d player(s) have not been recalled."
+msgstr ""
+
+#: conf/messages.conf
+# 1034: Please enter a guild name/ID (usage: @guildrecall <guild_name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a guild name/ID (usage: @guildrecall <guild_name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1035: Please enter a party name/ID (usage: @partyrecall <party_name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a party name/ID (usage: @partyrecall <party_name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1036: Error reading groups.conf, reload failed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Error reading groups.conf, reload failed."
+msgstr ""
+
+#: conf/messages.conf
+# 1037: Error reading atcommand.conf, reload failed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Error reading atcommand.conf, reload failed."
+msgstr ""
+
+#: conf/messages.conf
+# 1038: Please enter at least one valid list number (usage: @mapinfo <0-3> <map>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter at least one valid list number (usage: @mapinfo <0-3> <map>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1039: ------ Map Info ------
+#, c-format
+msgctxt "messages.conf"
+msgid "------ Map Info ------"
+msgstr ""
+
+#: conf/messages.conf
+# 1040: Map: %s (Zone:%s) | Players: %d | NPCs: %d | Chats: %d | Vendings: %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Map: %s (Zone:%s) | Players: %d | NPCs: %d | Chats: %d | Vendings: %d"
+msgstr ""
+
+#: conf/messages.conf
+# 1041: ------ Map Flags ------
+#, c-format
+msgctxt "messages.conf"
+msgid "------ Map Flags ------"
+msgstr ""
+
+#: conf/messages.conf
+# 1042: Town Map
+#, c-format
+msgctxt "messages.conf"
+msgid "Town Map"
+msgstr ""
+
+#: conf/messages.conf
+# 1043: Autotrade Enabled
+#, c-format
+msgctxt "messages.conf"
+msgid "Autotrade Enabled"
+msgstr ""
+
+#: conf/messages.conf
+# 1044: Autotrade Disabled
+#, c-format
+msgctxt "messages.conf"
+msgid "Autotrade Disabled"
+msgstr ""
+
+#: conf/messages.conf
+# 1045: Battlegrounds ON
+#, c-format
+msgctxt "messages.conf"
+msgid "Battlegrounds ON"
+msgstr ""
+
+#: conf/messages.conf
+# 1046: PvP Flags: 
+#, c-format
+msgctxt "messages.conf"
+msgid "PvP Flags: "
+msgstr ""
+
+#: conf/messages.conf
+# 1047: PvP ON | 
+#, c-format
+msgctxt "messages.conf"
+msgid "PvP ON | "
+msgstr ""
+
+#: conf/messages.conf
+# 1048: NoGuild | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoGuild | "
+msgstr ""
+
+#: conf/messages.conf
+# 1049: NoParty | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoParty | "
+msgstr ""
+
+#: conf/messages.conf
+# 1050: NightmareDrop | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NightmareDrop | "
+msgstr ""
+
+#: conf/messages.conf
+# 1051: NoCalcRank | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoCalcRank | "
+msgstr ""
+
+#: conf/messages.conf
+# 1052: GvG Flags: 
+#, c-format
+msgctxt "messages.conf"
+msgid "GvG Flags: "
+msgstr ""
+
+#: conf/messages.conf
+# 1053: GvG ON | 
+#, c-format
+msgctxt "messages.conf"
+msgid "GvG ON | "
+msgstr ""
+
+#: conf/messages.conf
+# 1054: GvG Dungeon | 
+#, c-format
+msgctxt "messages.conf"
+msgid "GvG Dungeon | "
+msgstr ""
+
+#: conf/messages.conf
+# 1055: GvG Castle | 
+#, c-format
+msgctxt "messages.conf"
+msgid "GvG Castle | "
+msgstr ""
+
+#: conf/messages.conf
+# 1056: NoParty | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoParty | "
+msgstr ""
+
+#: conf/messages.conf
+# 1057: Teleport Flags: 
+#, c-format
+msgctxt "messages.conf"
+msgid "Teleport Flags: "
+msgstr ""
+
+#: conf/messages.conf
+# 1058: NoTeleport | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoTeleport | "
+msgstr ""
+
+#: conf/messages.conf
+# 1059: Monster NoTeleport | 
+#, c-format
+msgctxt "messages.conf"
+msgid "Monster NoTeleport | "
+msgstr ""
+
+#: conf/messages.conf
+# 1060: NoWarp | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoWarp | "
+msgstr ""
+
+#: conf/messages.conf
+# 1061: NoWarpTo | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoWarpTo | "
+msgstr ""
+
+#: conf/messages.conf
+# 1062: NoReturn | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoReturn | "
+msgstr ""
+
+#: conf/messages.conf
+# 1063: NoAutoloot | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoAutoloot | "
+msgstr ""
+
+#: conf/messages.conf
+# 1064: NoMemo | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoMemo | "
+msgstr ""
+
+#: conf/messages.conf
+# 1065: No Exp Penalty: %s | No Zeny Penalty: %s
+#, c-format
+msgctxt "messages.conf"
+msgid "No Exp Penalty: %s | No Zeny Penalty: %s"
+msgstr ""
+
+#: conf/messages.conf
+# 1066: On
+#, c-format
+msgctxt "messages.conf"
+msgid "On"
+msgstr ""
+
+#: conf/messages.conf
+# 1067: Off
+#, c-format
+msgctxt "messages.conf"
+msgid "Off"
+msgstr ""
+
+#: conf/messages.conf
+# 1068: No Save (Return to last Save Point)
+#, c-format
+msgctxt "messages.conf"
+msgid "No Save (Return to last Save Point)"
+msgstr ""
+
+#: conf/messages.conf
+# 1069: No Save, Save Point: %s,Random
+#, c-format
+msgctxt "messages.conf"
+msgid "No Save, Save Point: %s,Random"
+msgstr ""
+
+#: conf/messages.conf
+# 1070: No Save, Save Point: %s,%d,%d
+#, c-format
+msgctxt "messages.conf"
+msgid "No Save, Save Point: %s,%d,%d"
+msgstr ""
+
+#: conf/messages.conf
+# 1071: Weather Flags: 
+#, c-format
+msgctxt "messages.conf"
+msgid "Weather Flags: "
+msgstr ""
+
+#: conf/messages.conf
+# 1072: Snow | 
+#, c-format
+msgctxt "messages.conf"
+msgid "Snow | "
+msgstr ""
+
+#: conf/messages.conf
+# 1073: Fog | 
+#, c-format
+msgctxt "messages.conf"
+msgid "Fog | "
+msgstr ""
+
+#: conf/messages.conf
+# 1074: Sakura | 
+#, c-format
+msgctxt "messages.conf"
+msgid "Sakura | "
+msgstr ""
+
+#: conf/messages.conf
+# 1075: Clouds | 
+#, c-format
+msgctxt "messages.conf"
+msgid "Clouds | "
+msgstr ""
+
+#: conf/messages.conf
+# 1076: Clouds2 | 
+#, c-format
+msgctxt "messages.conf"
+msgid "Clouds2 | "
+msgstr ""
+
+#: conf/messages.conf
+# 1077: Fireworks | 
+#, c-format
+msgctxt "messages.conf"
+msgid "Fireworks | "
+msgstr ""
+
+#: conf/messages.conf
+# 1078: Leaves | 
+#, c-format
+msgctxt "messages.conf"
+msgid "Leaves | "
+msgstr ""
+
+#: conf/messages.conf
+# 1079: NoViewID | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoViewID | "
+msgstr ""
+
+#: conf/messages.conf
+# 1080: Displays Night | 
+#, c-format
+msgctxt "messages.conf"
+msgid "Displays Night | "
+msgstr ""
+
+#: conf/messages.conf
+# 1081: Other Flags: 
+#, c-format
+msgctxt "messages.conf"
+msgid "Other Flags: "
+msgstr ""
+
+#: conf/messages.conf
+# 1082: NoBranch | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoBranch | "
+msgstr ""
+
+#: conf/messages.conf
+# 1083: NoTrade | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoTrade | "
+msgstr ""
+
+#: conf/messages.conf
+# 1084: NoVending | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoVending | "
+msgstr ""
+
+#: conf/messages.conf
+# 1085: NoDrop | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoDrop | "
+msgstr ""
+
+#: conf/messages.conf
+# 1086: NoSkill | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoSkill | "
+msgstr ""
+
+#: conf/messages.conf
+# 1087: NoIcewall | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoIcewall | "
+msgstr ""
+
+#: conf/messages.conf
+# 1088: AllowKS | 
+#, c-format
+msgctxt "messages.conf"
+msgid "AllowKS | "
+msgstr ""
+
+#: conf/messages.conf
+# 1089: Reset | 
+#, c-format
+msgctxt "messages.conf"
+msgid "Reset | "
+msgstr ""
+
+#: conf/messages.conf
+# 1090: Other Flags: 
+#, c-format
+msgctxt "messages.conf"
+msgid "Other Flags: "
+msgstr ""
+
+#: conf/messages.conf
+# 1091: NoCommand | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoCommand | "
+msgstr ""
+
+#: conf/messages.conf
+# 1092: NoBaseEXP | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoBaseEXP | "
+msgstr ""
+
+#: conf/messages.conf
+# 1093: NoJobEXP | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoJobEXP | "
+msgstr ""
+
+#: conf/messages.conf
+# 1094: NoMobLoot | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoMobLoot | "
+msgstr ""
+
+#: conf/messages.conf
+# 1095: NoMVPLoot | 
+#, c-format
+msgctxt "messages.conf"
+msgid "NoMVPLoot | "
+msgstr ""
+
+#: conf/messages.conf
+# 1096: PartyLock | 
+#, c-format
+msgctxt "messages.conf"
+msgid "PartyLock | "
+msgstr ""
+
+#: conf/messages.conf
+# 1097: GuildLock | 
+#, c-format
+msgctxt "messages.conf"
+msgid "GuildLock | "
+msgstr ""
+
+#: conf/messages.conf
+# 1098: ----- Players in Map -----
+#, c-format
+msgctxt "messages.conf"
+msgid "----- Players in Map -----"
+msgstr ""
+
+#: conf/messages.conf
+# 1099: Player '%s' (session #%d) | Location: %d,%d
+#, c-format
+msgctxt "messages.conf"
+msgid "Player '%s' (session #%d) | Location: %d,%d"
+msgstr ""
+
+#: conf/messages.conf
+# 1100: ----- NPCs in Map -----
+#, c-format
+msgctxt "messages.conf"
+msgid "----- NPCs in Map -----"
+msgstr ""
+
+#: conf/messages.conf
+# 1101: North
+#, c-format
+msgctxt "messages.conf"
+msgid "North"
+msgstr ""
+
+#: conf/messages.conf
+# 1102: North West
+#, c-format
+msgctxt "messages.conf"
+msgid "North West"
+msgstr ""
+
+#: conf/messages.conf
+# 1103: West
+#, c-format
+msgctxt "messages.conf"
+msgid "West"
+msgstr ""
+
+#: conf/messages.conf
+# 1104: South West
+#, c-format
+msgctxt "messages.conf"
+msgid "South West"
+msgstr ""
+
+#: conf/messages.conf
+# 1105: South
+#, c-format
+msgctxt "messages.conf"
+msgid "South"
+msgstr ""
+
+#: conf/messages.conf
+# 1106: South East
+#, c-format
+msgctxt "messages.conf"
+msgid "South East"
+msgstr ""
+
+#: conf/messages.conf
+# 1107: East
+#, c-format
+msgctxt "messages.conf"
+msgid "East"
+msgstr ""
+
+#: conf/messages.conf
+# 1108: North East
+#, c-format
+msgctxt "messages.conf"
+msgid "North East"
+msgstr ""
+
+#: conf/messages.conf
+# 1109: North
+#, c-format
+msgctxt "messages.conf"
+msgid "North"
+msgstr ""
+
+#: conf/messages.conf
+# 1110: Unknown
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown"
+msgstr ""
+
+#: conf/messages.conf
+# 1111: NPC %d: %s | Direction: %s | Sprite: %d | Location: %d %d
+#, c-format
+msgctxt "messages.conf"
+msgid "NPC %d: %s | Direction: %s | Sprite: %d | Location: %d %d"
+msgstr ""
+
+#: conf/messages.conf
+# 1112: NPC %d: %s::%s | Direction: %s | Sprite: %d | Location: %d %d 
+#, c-format
+msgctxt "messages.conf"
+msgid "NPC %d: %s::%s | Direction: %s | Sprite: %d | Location: %d %d "
+msgstr ""
+
+#: conf/messages.conf
+# 1113: ----- Chats in Map -----
+#, c-format
+msgctxt "messages.conf"
+msgid "----- Chats in Map -----"
+msgstr ""
+
+#: conf/messages.conf
+# 1114: Chat: %s | Player: %s | Location: %d %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Chat: %s | Player: %s | Location: %d %d"
+msgstr ""
+
+#: conf/messages.conf
+# 1115: Users: %d/%d | Password: %s | Public: %s
+#, c-format
+msgctxt "messages.conf"
+msgid "Users: %d/%d | Password: %s | Public: %s"
+msgstr ""
+
+#: conf/messages.conf
+# 1116: Yes
+#, c-format
+msgctxt "messages.conf"
+msgid "Yes"
+msgstr ""
+
+#: conf/messages.conf
+# 1117: No
+#, c-format
+msgctxt "messages.conf"
+msgid "No"
+msgstr ""
+
+#: conf/messages.conf
+# 1118: Please enter at least one valid list number (usage: @mapinfo <0-3> <map>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter at least one valid list number (usage: @mapinfo <0-3> <map>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1119: You have mounted your Dragon.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have mounted your Dragon."
+msgstr ""
+
+#: conf/messages.conf
+# 1120: You have released your Dragon.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have released your Dragon."
+msgstr ""
+
+#: conf/messages.conf
+# 1121: You have mounted your Warg.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have mounted your Warg."
+msgstr ""
+
+#: conf/messages.conf
+# 1122: You have released your Warg.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have released your Warg."
+msgstr ""
+
+#: conf/messages.conf
+# 1123: You have mounted your Mado Gear.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have mounted your Mado Gear."
+msgstr ""
+
+#: conf/messages.conf
+# 1124: You have released your Mado Gear.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have released your Mado Gear."
+msgstr ""
+
+#: conf/messages.conf
+# 1125: The mapserver has spy command support disabled.
+#, c-format
+msgctxt "messages.conf"
+msgid "The mapserver has spy command support disabled."
+msgstr ""
+
+#: conf/messages.conf
+# 1126: Please enter a guild name/ID (usage: @guildspy <guild_name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a guild name/ID (usage: @guildspy <guild_name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1127: Please enter a party name/ID (usage: @partyspy <party_name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a party name/ID (usage: @partyspy <party_name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1128: Please enter a player name (usage: @nuke <char name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @nuke <char name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1129: Please enter an NPC name (usage: @tonpc <NPC_name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an NPC name (usage: @tonpc <NPC_name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1130: Please enter an NPC name (usage: @enablenpc <NPC_name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an NPC name (usage: @enablenpc <NPC_name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1131: Please enter an NPC name (usage: @hidenpc <NPC_name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an NPC name (usage: @hidenpc <NPC_name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1132: Please enter a script file name (usage: @loadnpc <file name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a script file name (usage: @loadnpc <file name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1133: Please enter an NPC name (Usage: @unloadnpc <NPC_name> {<flag>}).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an NPC name (Usage: @unloadnpc <NPC_name> {<flag>})."
+msgstr ""
+
+#: conf/messages.conf
+# 1134: Please enter a player name (usage: @jail <char_name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @jail <char_name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1135: Please enter a player name (usage: @unjail/@discharge <char_name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @unjail/@discharge <char_name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1136: Invalid time for jail command.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid time for jail command."
+msgstr ""
+
+#: conf/messages.conf
+# 1137: You are now
+#, c-format
+msgctxt "messages.conf"
+msgid "You are now"
+msgstr ""
+
+#: conf/messages.conf
+# 1138: This player is now
+#, c-format
+msgctxt "messages.conf"
+msgid "This player is now"
+msgstr ""
+
+#: conf/messages.conf
+# 1139: You are not in jail.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are not in jail."
+msgstr ""
+
+#: conf/messages.conf
+# 1140: You have been jailed indefinitely.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have been jailed indefinitely."
+msgstr ""
+
+#: conf/messages.conf
+# 1141: You have been jailed for an unknown amount of time.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have been jailed for an unknown amount of time."
+msgstr ""
+
+#: conf/messages.conf
+# 1142: You will remain
+#, c-format
+msgctxt "messages.conf"
+msgid "You will remain"
+msgstr ""
+
+#: conf/messages.conf
+# 1143: Please enter a Monster/NPC name/ID (usage: @disguise <name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a Monster/NPC name/ID (usage: @disguise <name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1144: Character cannot be disguised while mounted.
+#, c-format
+msgctxt "messages.conf"
+msgid "Character cannot be disguised while mounted."
+msgstr ""
+
+#: conf/messages.conf
+# 1145: Please enter a Monster/NPC name/ID (usage: @disguiseall <name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a Monster/NPC name/ID (usage: @disguiseall <name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1146: Please enter a mob name/ID and guild name/ID (usage: @disguiseguild <mob name/ID>, <guild name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a mob name/ID and guild name/ID (usage: @disguiseguild <mob name/ID>, <guild name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1147: Please enter guild name/ID (usage: @undisguiseguild <guild name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter guild name/ID (usage: @undisguiseguild <guild name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1148: Base Level: %d (%.3f%%) | Job Level: %d (%.3f%%)
+#, c-format
+msgctxt "messages.conf"
+msgid "Base Level: %d (%.3f%%) | Job Level: %d (%.3f%%)"
+msgstr ""
+
+#: conf/messages.conf
+# 1149: Please enter a message (usage: @broadcast <message>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a message (usage: @broadcast <message>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1150: Please enter a message (usage: @localbroadcast <message>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a message (usage: @localbroadcast <message>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1151: Please enter two e-mail addresses (usage: @email <current@email> <new@email>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter two e-mail addresses (usage: @email <current@email> <new@email>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1152: Please enter an effect number (usage: @effect <effect number>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an effect number (usage: @effect <effect number>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1153: Usage: @npcmove <X> <Y> <npc_name>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @npcmove <X> <Y> <npc_name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1154: NPC is not in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "NPC is not in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 1155: NPC moved.
+#, c-format
+msgctxt "messages.conf"
+msgid "NPC moved."
+msgstr ""
+
+#: conf/messages.conf
+# 1156: Usage: @addwarp <mapname> <X> <Y> <npc name>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @addwarp <mapname> <X> <Y> <npc name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1157: Unknown map '%s'.
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown map '%s'."
+msgstr ""
+
+#: conf/messages.conf
+# 1158: New warp NPC '%s' created.
+#, c-format
+msgctxt "messages.conf"
+msgid "New warp NPC '%s' created."
+msgstr ""
+
+#: conf/messages.conf
+# 1159: Follow mode OFF.
+#, c-format
+msgctxt "messages.conf"
+msgid "Follow mode OFF."
+msgstr ""
+
+#: conf/messages.conf
+# 1160: Follow mode ON.
+#, c-format
+msgctxt "messages.conf"
+msgid "Follow mode ON."
+msgstr ""
+
+#: conf/messages.conf
+# 1161: You currently cannot open your storage.
+#, c-format
+msgctxt "messages.conf"
+msgid "You currently cannot open your storage."
+msgstr ""
+
+#: conf/messages.conf
+# 1162: All items stored.
+#, c-format
+msgctxt "messages.conf"
+msgid "All items stored."
+msgstr ""
+
+#: conf/messages.conf
+# 1163: Please enter a skill name to look up (usage: @skillid <skill name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a skill name to look up (usage: @skillid <skill name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1164: skill %d: %s (%s)
+#, c-format
+msgctxt "messages.conf"
+msgid "skill %d: %s (%s)"
+msgstr ""
+
+#: conf/messages.conf
+# 1165: Usage: @useskill <skill ID> <skill level> <target>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @useskill <skill ID> <skill level> <target>"
+msgstr ""
+
+#: conf/messages.conf
+# 1166: Usage: @displayskill <skill ID> {<skill level>}
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @displayskill <skill ID> {<skill level>}"
+msgstr ""
+
+#: conf/messages.conf
+# 1167: Usage: @skilltree <skill ID> <target>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @skilltree <skill ID> <target>"
+msgstr ""
+
+#: conf/messages.conf
+# 1168: Player is using %s skill tree (%d basic points).
+#, c-format
+msgctxt "messages.conf"
+msgid "Player is using %s skill tree (%d basic points)."
+msgstr ""
+
+#: conf/messages.conf
+# 1169: The player cannot use that skill.
+#, c-format
+msgctxt "messages.conf"
+msgid "The player cannot use that skill."
+msgstr ""
+
+#: conf/messages.conf
+# 1170: Player requires level %d of skill %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "Player requires level %d of skill %s."
+msgstr ""
+
+#: conf/messages.conf
+# 1171: The player meets all the requirements for that skill.
+#, c-format
+msgctxt "messages.conf"
+msgid "The player meets all the requirements for that skill."
+msgstr ""
+
+#: conf/messages.conf
+# 1172: Usage: @marry <char name>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @marry <char name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1173: They are married... wish them well.
+#, c-format
+msgctxt "messages.conf"
+msgid "They are married... wish them well."
+msgstr ""
+
+#: conf/messages.conf
+# 1174: The two cannot wed because one is either a baby or already married.
+#, c-format
+msgctxt "messages.conf"
+msgid "The two cannot wed because one is either a baby or already married."
+msgstr ""
+
+#: conf/messages.conf
+# 1175: '%s' is not married.
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' is not married."
+msgstr ""
+
+#: conf/messages.conf
+# 1176: '%s' and his/her partner are now divorced.
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' and his/her partner are now divorced."
+msgstr ""
+
+#: conf/messages.conf
+# 1177: Usage: @changelook {<position>} <view id>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @changelook {<position>} <view id>"
+msgstr ""
+
+#: conf/messages.conf
+# 1178: Position: 1:Top 2:Middle 3:Bottom 4:Weapon 5:Shield 6:Shoes 7:Robe 8:Body
+#, c-format
+msgctxt "messages.conf"
+msgid "Position: 1:Top 2:Middle 3:Bottom 4:Weapon 5:Shield 6:Shoes 7:Robe 8:Body"
+msgstr ""
+
+#: conf/messages.conf
+# 1179: Autotrade is not allowed in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autotrade is not allowed in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 1180: You cannot autotrade when dead.
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot autotrade when dead."
+msgstr ""
+
+#: conf/messages.conf
+# 1181: You need to be a Guild Master to use this command.
+#, c-format
+msgctxt "messages.conf"
+msgid "You need to be a Guild Master to use this command."
+msgstr ""
+
+#: conf/messages.conf
+# 1182: You cannot change guild leaders in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot change guild leaders in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 1183: Usage: @changegm <guild_member_name>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @changegm <guild_member_name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1184: Target character must be online and be a guild member.
+#, c-format
+msgctxt "messages.conf"
+msgid "Target character must be online and be a guild member."
+msgstr ""
+
+#: conf/messages.conf
+# 1185: Usage: @changeleader <party_member_name>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @changeleader <party_member_name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1186: Usage: @partyoption <pickup share: yes/no> <item distribution: yes/no>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @partyoption <pickup share: yes/no> <item distribution: yes/no>"
+msgstr ""
+
+#: conf/messages.conf
+# 1187: Autolooting items with drop rates of %0.02f%% and below.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autolooting items with drop rates of %0.02f%% and below."
+msgstr ""
+
+#: conf/messages.conf
+# 1188: Autoloot is now off.
+#, c-format
+msgctxt "messages.conf"
+msgid "Autoloot is now off."
+msgstr ""
+
+#: conf/messages.conf
+# 1189: Item not found.
+#, c-format
+msgctxt "messages.conf"
+msgid "Item not found."
+msgstr ""
+
+#: conf/messages.conf
+# 1190: You're already autolooting this item.
+#, c-format
+msgctxt "messages.conf"
+msgid "You're already autolooting this item."
+msgstr ""
+
+#: conf/messages.conf
+# 1191: Your autolootitem list is full. Remove some items first with @autolootid -<item name or ID>.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your autolootitem list is full. Remove some items first with @autolootid -<item name or ID>."
+msgstr ""
+
+#: conf/messages.conf
+# 1192: Autolooting item: '%s'/'%s' {%d}
+#, c-format
+msgctxt "messages.conf"
+msgid "Autolooting item: '%s'/'%s' {%d}"
+msgstr ""
+
+#: conf/messages.conf
+# 1193: You're currently not autolooting this item.
+#, c-format
+msgctxt "messages.conf"
+msgid "You're currently not autolooting this item."
+msgstr ""
+
+#: conf/messages.conf
+# 1194: Removed item: '%s'/'%s' {%d} from your autolootitem list.
+#, c-format
+msgctxt "messages.conf"
+msgid "Removed item: '%s'/'%s' {%d} from your autolootitem list."
+msgstr ""
+
+#: conf/messages.conf
+# 1195: You can have %d items on your autolootitem list.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can have %d items on your autolootitem list."
+msgstr ""
+
+#: conf/messages.conf
+# 1196: To add an item to the list, use "@alootid +<item name or ID>". To remove an item, use "@alootid -<item name or ID>".
+#, c-format
+msgctxt "messages.conf"
+msgid "To add an item to the list, use "@alootid +<item name or ID>". To remove an item, use "@alootid -<item name or ID>"."
+msgstr ""
+
+#: conf/messages.conf
+# 1197: "@alootid reset" will clear your autolootitem list.
+#, c-format
+msgctxt "messages.conf"
+msgid ""@alootid reset" will clear your autolootitem list."
+msgstr ""
+
+#: conf/messages.conf
+# 1198: Your autolootitem list is empty.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your autolootitem list is empty."
+msgstr ""
+
+#: conf/messages.conf
+# 1199: Items on your autolootitem list:
+#, c-format
+msgctxt "messages.conf"
+msgid "Items on your autolootitem list:"
+msgstr ""
+
+#: conf/messages.conf
+# 1200: Your autolootitem list has been reset.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your autolootitem list has been reset."
+msgstr ""
+
+#: conf/messages.conf
+# 1201: Your guild's storage has already been opened by another member, try again later.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your guild's storage has already been opened by another member, try again later."
+msgstr ""
+
+#: conf/messages.conf
+# 1203: Snow has stopped falling.
+#, c-format
+msgctxt "messages.conf"
+msgid "Snow has stopped falling."
+msgstr ""
+
+#: conf/messages.conf
+# 1204: It has started to snow.
+#, c-format
+msgctxt "messages.conf"
+msgid "It has started to snow."
+msgstr ""
+
+#: conf/messages.conf
+# 1205: Cherry tree leaves no longer fall.
+#, c-format
+msgctxt "messages.conf"
+msgid "Cherry tree leaves no longer fall."
+msgstr ""
+
+#: conf/messages.conf
+# 1206: Cherry tree leaves have begun to fall.
+#, c-format
+msgctxt "messages.conf"
+msgid "Cherry tree leaves have begun to fall."
+msgstr ""
+
+#: conf/messages.conf
+# 1207: Clouds have disappeared.
+#, c-format
+msgctxt "messages.conf"
+msgid "Clouds have disappeared."
+msgstr ""
+
+#: conf/messages.conf
+# 1208: Clouds appeared.
+#, c-format
+msgctxt "messages.conf"
+msgid "Clouds appeared."
+msgstr ""
+
+#: conf/messages.conf
+# 1209: Alternative clouds have disappeared.
+#, c-format
+msgctxt "messages.conf"
+msgid "Alternative clouds have disappeared."
+msgstr ""
+
+#: conf/messages.conf
+# 1210: Alternative clouds appeared.
+#, c-format
+msgctxt "messages.conf"
+msgid "Alternative clouds appeared."
+msgstr ""
+
+#: conf/messages.conf
+# 1211: The fog has gone.
+#, c-format
+msgctxt "messages.conf"
+msgid "The fog has gone."
+msgstr ""
+
+#: conf/messages.conf
+# 1212: Fog hangs over.
+#, c-format
+msgctxt "messages.conf"
+msgid "Fog hangs over."
+msgstr ""
+
+#: conf/messages.conf
+# 1213: Leaves have stopped falling.
+#, c-format
+msgctxt "messages.conf"
+msgid "Leaves have stopped falling."
+msgstr ""
+
+#: conf/messages.conf
+# 1214: Leaves started falling.
+#, c-format
+msgctxt "messages.conf"
+msgid "Leaves started falling."
+msgstr ""
+
+#: conf/messages.conf
+# 1215: Fireworks have ended.
+#, c-format
+msgctxt "messages.conf"
+msgid "Fireworks have ended."
+msgstr ""
+
+#: conf/messages.conf
+# 1216: Fireworks are launched.
+#, c-format
+msgctxt "messages.conf"
+msgid "Fireworks are launched."
+msgstr ""
+
+#: conf/messages.conf
+# 1217: Please enter a sound filename (usage: @sound <filename>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a sound filename (usage: @sound <filename>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1218: Please enter a monster name (usage: @mobsearch <monster name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a monster name (usage: @mobsearch <monster name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1219: Invalid mob ID %s!
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid mob ID %s!"
+msgstr ""
+
+#: conf/messages.conf
+# 1220: Mob Search... %s %s
+#, c-format
+msgctxt "messages.conf"
+msgid "Mob Search... %s %s"
+msgstr ""
+
+#: conf/messages.conf
+# 1221: All dropped items have been cleaned up.
+#, c-format
+msgctxt "messages.conf"
+msgid "All dropped items have been cleaned up."
+msgstr ""
+
+#: conf/messages.conf
+# 1222: Please enter the correct parameters (usage: @npctalk <npc name>, <message>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter the correct parameters (usage: @npctalk <npc name>, <message>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1223: Please enter the correct parameters (usage: @npctalkc <color> <npc name>, <message>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter the correct parameters (usage: @npctalkc <color> <npc name>, <message>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1224: Please enter a message (usage: @pettalk <message>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a message (usage: @pettalk <message>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1225: Please enter a monster name (usage: @summon <monster name> {duration}).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a monster name (usage: @summon <monster name> {duration})."
+msgstr ""
+
+#: conf/messages.conf
+# 1226: Usage: @adjgroup <group_id>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @adjgroup <group_id>"
+msgstr ""
+
+#: conf/messages.conf
+# 1227: Specified group does not exist.
+#, c-format
+msgctxt "messages.conf"
+msgid "Specified group does not exist."
+msgstr ""
+
+#: conf/messages.conf
+# 1228: Group changed successfully.
+#, c-format
+msgctxt "messages.conf"
+msgid "Group changed successfully."
+msgstr ""
+
+#: conf/messages.conf
+# 1229: Your group has been changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your group has been changed."
+msgstr ""
+
+#: conf/messages.conf
+# 1230: Please enter a player name (usage: @trade <char name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @trade <char name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1231: Usage: @setbattleflag <flag> <value>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @setbattleflag <flag> <value>"
+msgstr ""
+
+#: conf/messages.conf
+# 1232: Unknown battle_config flag.
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown battle_config flag."
+msgstr ""
+
+#: conf/messages.conf
+# 1233: Set battle_config as requested.
+#, c-format
+msgctxt "messages.conf"
+msgid "Set battle_config as requested."
+msgstr ""
+
+#: conf/messages.conf
+# 1234: Please enter a player name (usage: @unmute <char name>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a player name (usage: @unmute <char name>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1235: Player is not muted.
+#, c-format
+msgctxt "messages.conf"
+msgid "Player is not muted."
+msgstr ""
+
+#: conf/messages.conf
+# 1236: Player unmuted.
+#, c-format
+msgctxt "messages.conf"
+msgid "Player unmuted."
+msgstr ""
+
+#: conf/messages.conf
+# 1237: Usage: @mute <time> <char name>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @mute <time> <char name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1238: There are no items to appraise.
+#, c-format
+msgctxt "messages.conf"
+msgid "There are no items to appraise."
+msgstr ""
+
+#: conf/messages.conf
+# 1239: Please enter a monster name/ID (usage: @mobinfo <monster_name_or_monster_ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a monster name/ID (usage: @mobinfo <monster_name_or_monster_ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1240: MVP Monster: '%s'/'%s'/'%s' (%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "MVP Monster: '%s'/'%s'/'%s' (%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1241: Monster: '%s'/'%s'/'%s' (%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "Monster: '%s'/'%s'/'%s' (%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1242: Lv:%d  HP:%d  Base EXP:%u  Job EXP:%u  HIT:%d  FLEE:%d
+#, c-format
+msgctxt "messages.conf"
+msgid "Lv:%d  HP:%d  Base EXP:%u  Job EXP:%u  HIT:%d  FLEE:%d"
+msgstr ""
+
+#: conf/messages.conf
+# 1243: DEF:%d  MDEF:%d  STR:%d  AGI:%d  VIT:%d  INT:%d  DEX:%d  LUK:%d
+#, c-format
+msgctxt "messages.conf"
+msgid "DEF:%d  MDEF:%d  STR:%d  AGI:%d  VIT:%d  INT:%d  DEX:%d  LUK:%d"
+msgstr ""
+
+#: conf/messages.conf
+# 1244: ATK:%d~%d  Range:%d~%d~%d  Size:%s  Race: %s  Element: %s (Lv:%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "ATK:%d~%d  Range:%d~%d~%d  Size:%s  Race: %s  Element: %s (Lv:%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1245: Drops:
+#, c-format
+msgctxt "messages.conf"
+msgid "Drops:"
+msgstr ""
+
+#: conf/messages.conf
+# 1246: This monster has no drops.
+#, c-format
+msgctxt "messages.conf"
+msgid "This monster has no drops."
+msgstr ""
+
+#: conf/messages.conf
+# 1247: MVP Bonus EXP:%u
+#, c-format
+msgctxt "messages.conf"
+msgid "MVP Bonus EXP:%u"
+msgstr ""
+
+#: conf/messages.conf
+# 1248: MVP Items:
+#, c-format
+msgctxt "messages.conf"
+msgid "MVP Items:"
+msgstr ""
+
+#: conf/messages.conf
+# 1249: This monster has no MVP prizes.
+#, c-format
+msgctxt "messages.conf"
+msgid "This monster has no MVP prizes."
+msgstr ""
+
+#: conf/messages.conf
+# 1250: Invalid mob id %s!
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid mob id %s!"
+msgstr ""
+
+#: conf/messages.conf
+# 1251: Can't show boss mobs!
+#, c-format
+msgctxt "messages.conf"
+msgid "Can't show boss mobs!"
+msgstr ""
+
+#: conf/messages.conf
+# 1252: Mob Search... %s %s
+#, c-format
+msgctxt "messages.conf"
+msgid "Mob Search... %s %s"
+msgstr ""
+
+#: conf/messages.conf
+# 1253: Please enter a level adjustment (usage: @homlevel <number of levels>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a level adjustment (usage: @homlevel <number of levels>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1254: You do not have a homunculus.
+#, c-format
+msgctxt "messages.conf"
+msgid "You do not have a homunculus."
+msgstr ""
+
+#: conf/messages.conf
+# 1255: Your homunculus doesn't evolve.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your homunculus doesn't evolve."
+msgstr ""
+
+#: conf/messages.conf
+# 1256: Please enter a homunculus ID (usage: @makehomun <homunculus id>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a homunculus ID (usage: @makehomun <homunculus id>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1257: Invalid Homunculus ID.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid Homunculus ID."
+msgstr ""
+
+#: conf/messages.conf
+# 1258: Please enter an intimacy value (usage: @homfriendly <intimacy value [0-1000]>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an intimacy value (usage: @homfriendly <intimacy value [0-1000]>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1259: Please enter a hunger value (usage: @homhungry <hunger value [0-100]>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a hunger value (usage: @homhungry <hunger value [0-100]>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1260: Please enter a message (usage: @homtalk <message>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a message (usage: @homtalk <message>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1261: Homunculus stats:
+#, c-format
+msgctxt "messages.conf"
+msgid "Homunculus stats:"
+msgstr ""
+
+#: conf/messages.conf
+# 1262: HP: %d/%d - SP: %d/%d
+#, c-format
+msgctxt "messages.conf"
+msgid "HP: %d/%d - SP: %d/%d"
+msgstr ""
+
+#: conf/messages.conf
+# 1263: ATK: %d - MATK: %d~%d
+#, c-format
+msgctxt "messages.conf"
+msgid "ATK: %d - MATK: %d~%d"
+msgstr ""
+
+#: conf/messages.conf
+# 1264: Hungry: %d - Intimacy: %u
+#, c-format
+msgctxt "messages.conf"
+msgid "Hungry: %d - Intimacy: %u"
+msgstr ""
+
+#: conf/messages.conf
+# 1265: Stats: Str %d / Agi %d / Vit %d / Int %d / Dex %d / Luk %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Stats: Str %d / Agi %d / Vit %d / Int %d / Dex %d / Luk %d"
+msgstr ""
+
+#: conf/messages.conf
+# 1266: Homunculus growth stats (Lv %d %s):
+#, c-format
+msgctxt "messages.conf"
+msgid "Homunculus growth stats (Lv %d %s):"
+msgstr ""
+
+#: conf/messages.conf
+# 1267: Max HP: %d (%d~%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "Max HP: %d (%d~%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1268: Max SP: %d (%d~%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "Max SP: %d (%d~%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1269: Str: %d (%d~%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "Str: %d (%d~%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1270: Agi: %d (%d~%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "Agi: %d (%d~%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1271: Vit: %d (%d~%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "Vit: %d (%d~%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1272: Int: %d (%d~%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "Int: %d (%d~%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1273: Dex: %d (%d~%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "Dex: %d (%d~%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1274: Luk: %d (%d~%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "Luk: %d (%d~%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1275: Homunculus stats altered.
+#, c-format
+msgctxt "messages.conf"
+msgid "Homunculus stats altered."
+msgstr ""
+
+#: conf/messages.conf
+# 1276: Please enter an item name/ID (usage: @ii/@iteminfo <item name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an item name/ID (usage: @ii/@iteminfo <item name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1277: Item: '%s'/'%s'[%d] (%d) Type: %s | Extra Effect: %s
+#, c-format
+msgctxt "messages.conf"
+msgid "Item: '%s'/'%s'[%d] (%d) Type: %s | Extra Effect: %s"
+msgstr ""
+
+#: conf/messages.conf
+# 1278: None
+#, c-format
+msgctxt "messages.conf"
+msgid "None"
+msgstr ""
+
+#: conf/messages.conf
+# 1279: With script
+#, c-format
+msgctxt "messages.conf"
+msgid "With script"
+msgstr ""
+
+#: conf/messages.conf
+# 1280: NPC Buy:%dz, Sell:%dz | Weight: %.1f 
+#, c-format
+msgctxt "messages.conf"
+msgid "NPC Buy:%dz, Sell:%dz | Weight: %.1f "
+msgstr ""
+
+#: conf/messages.conf
+# 1281: - Available in shops only.
+#, c-format
+msgctxt "messages.conf"
+msgid "- Available in shops only."
+msgstr ""
+
+#: conf/messages.conf
+# 1282: - Maximal monsters drop chance: %02.02f%%
+#, c-format
+msgctxt "messages.conf"
+msgid "- Maximal monsters drop chance: %02.02f%%"
+msgstr ""
+
+#: conf/messages.conf
+# 1283: - Monsters don't drop this item.
+#, c-format
+msgctxt "messages.conf"
+msgid "- Monsters don't drop this item."
+msgstr ""
+
+#: conf/messages.conf
+# 1284: Please enter item name/ID (usage: @whodrops <item name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter item name/ID (usage: @whodrops <item name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1285: Item: '%s'[%d]
+#, c-format
+msgctxt "messages.conf"
+msgid "Item: '%s'[%d]"
+msgstr ""
+
+#: conf/messages.conf
+# 1286: - Item is not dropped by any mobs.
+#, c-format
+msgctxt "messages.conf"
+msgid "- Item is not dropped by any mobs."
+msgstr ""
+
+#: conf/messages.conf
+# 1287: - Common mobs with highest drop chance (only max %d are listed):
+#, c-format
+msgctxt "messages.conf"
+msgid "- Common mobs with highest drop chance (only max %d are listed):"
+msgstr ""
+
+#: conf/messages.conf
+# 1288: Please enter a monster name/ID (usage: @whereis <monster_name_or_monster_ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a monster name/ID (usage: @whereis <monster_name_or_monster_ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1289: %s spawns in:
+#, c-format
+msgctxt "messages.conf"
+msgid "%s spawns in:"
+msgstr ""
+
+#: conf/messages.conf
+# 1290: This monster does not spawn normally.
+#, c-format
+msgctxt "messages.conf"
+msgid "This monster does not spawn normally."
+msgstr ""
+
+#: conf/messages.conf
+# 1291: ATK:%d~%d MATK:%d~%d Range:%d~%d~%d  Size:%s  Race: %s  Element: %s (Lv:%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "ATK:%d~%d MATK:%d~%d Range:%d~%d~%d  Size:%s  Race: %s  Element: %s (Lv:%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1292: PrivateAirshipStartable | 
+#, c-format
+msgctxt "messages.conf"
+msgid "PrivateAirshipStartable | "
+msgstr ""
+
+#: conf/messages.conf
+# 1293: PrivateAirshipEndable | 
+#, c-format
+msgctxt "messages.conf"
+msgid "PrivateAirshipEndable | "
+msgstr ""
+
+#: conf/messages.conf
+# 1294: You're not allowed to talk on this channel
+#, c-format
+msgctxt "messages.conf"
+msgid "You're not allowed to talk on this channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1295: %s revision '%s' (src) / '%s' (scripts)
+#, c-format
+msgctxt "messages.conf"
+msgid "%s revision '%s' (src) / '%s' (scripts)"
+msgstr ""
+
+#: conf/messages.conf
+# 1296: Hercules %d-bit for %s
+#, c-format
+msgctxt "messages.conf"
+msgid "Hercules %d-bit for %s"
+msgstr ""
+
+#: conf/messages.conf
+# 1297: Please enter a time in minutes (usage: @mutearea/@stfu <time in minutes>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a time in minutes (usage: @mutearea/@stfu <time in minutes>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1298: Experience rates: Base %.2fx / Job %.2fx
+#, c-format
+msgctxt "messages.conf"
+msgid "Experience rates: Base %.2fx / Job %.2fx"
+msgstr ""
+
+#: conf/messages.conf
+# 1299: Normal Drop Rates: Common %.2fx / Healing %.2fx / Usable %.2fx / Equipment %.2fx / Card %.2fx
+#, c-format
+msgctxt "messages.conf"
+msgid "Normal Drop Rates: Common %.2fx / Healing %.2fx / Usable %.2fx / Equipment %.2fx / Card %.2fx"
+msgstr ""
+
+#: conf/messages.conf
+# 1300: Boss Drop Rates: Common %.2fx / Healing %.2fx / Usable %.2fx / Equipment %.2fx / Card %.2fx
+#, c-format
+msgctxt "messages.conf"
+msgid "Boss Drop Rates: Common %.2fx / Healing %.2fx / Usable %.2fx / Equipment %.2fx / Card %.2fx"
+msgstr ""
+
+#: conf/messages.conf
+# 1301: Other Drop Rates: MvP %.2fx / Card-Based %.2fx / Treasure %.2fx
+#, c-format
+msgctxt "messages.conf"
+msgid "Other Drop Rates: MvP %.2fx / Card-Based %.2fx / Treasure %.2fx"
+msgstr ""
+
+#: conf/messages.conf
+# 1302: Please enter a message (usage: @me <message>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter a message (usage: @me <message>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1303: Size change applied.
+#, c-format
+msgctxt "messages.conf"
+msgid "Size change applied."
+msgstr ""
+
+#: conf/messages.conf
+# 1304: Please enter guild name/ID (usage: @sizeguild <size> <guild name/ID>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter guild name/ID (usage: @sizeguild <size> <guild name/ID>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1305: You are now immune to attacks.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are now immune to attacks."
+msgstr ""
+
+#: conf/messages.conf
+# 1306: Returned to normal state.
+#, c-format
+msgctxt "messages.conf"
+msgid "Returned to normal state."
+msgstr ""
+
+#: conf/messages.conf
+# 1307: Returned to real name.
+#, c-format
+msgctxt "messages.conf"
+msgid "Returned to real name."
+msgstr ""
+
+#: conf/messages.conf
+# 1308: You must enter a name.
+#, c-format
+msgctxt "messages.conf"
+msgid "You must enter a name."
+msgstr ""
+
+#: conf/messages.conf
+# 1309: Fake name must be at least two characters.
+#, c-format
+msgctxt "messages.conf"
+msgid "Fake name must be at least two characters."
+msgstr ""
+
+#: conf/messages.conf
+# 1310: Fake name enabled.
+#, c-format
+msgctxt "messages.conf"
+msgid "Fake name enabled."
+msgstr ""
+
+#: conf/messages.conf
+# 1311: Enabled Mapflags in this map:
+#, c-format
+msgctxt "messages.conf"
+msgid "Enabled Mapflags in this map:"
+msgstr ""
+
+#: conf/messages.conf
+# 1312: Usage: "@mapflag monster_noteleport 1" (0=Off | 1=On)
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: "@mapflag monster_noteleport 1" (0=Off | 1=On)"
+msgstr ""
+
+#: conf/messages.conf
+# 1313: Type "@mapflag available" to list the available mapflags.
+#, c-format
+msgctxt "messages.conf"
+msgid "Type "@mapflag available" to list the available mapflags."
+msgstr ""
+
+#: conf/messages.conf
+# 1314: Invalid flag name or flag.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid flag name or flag."
+msgstr ""
+
+#: conf/messages.conf
+# 1315: Available Flags:
+#, c-format
+msgctxt "messages.conf"
+msgid "Available Flags:"
+msgstr ""
+
+#: conf/messages.conf
+# 1316: Gained exp will not be shown.
+#, c-format
+msgctxt "messages.conf"
+msgid "Gained exp will not be shown."
+msgstr ""
+
+#: conf/messages.conf
+# 1317: Gained exp is now shown.
+#, c-format
+msgctxt "messages.conf"
+msgid "Gained exp is now shown."
+msgstr ""
+
+#: conf/messages.conf
+# 1318: Gained zeny will not be shown.
+#, c-format
+msgctxt "messages.conf"
+msgid "Gained zeny will not be shown."
+msgstr ""
+
+#: conf/messages.conf
+# 1319: Gained zeny is now shown.
+#, c-format
+msgctxt "messages.conf"
+msgid "Gained zeny is now shown."
+msgstr ""
+
+#: conf/messages.conf
+# 1320: Skill delay failures will not be shown.
+#, c-format
+msgctxt "messages.conf"
+msgid "Skill delay failures will not be shown."
+msgstr ""
+
+#: conf/messages.conf
+# 1321: Skill delay failures are now shown.
+#, c-format
+msgctxt "messages.conf"
+msgid "Skill delay failures are now shown."
+msgstr ""
+
+#: conf/messages.conf
+# 1322: Please enter an amount.
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an amount."
+msgstr ""
+
+#: conf/messages.conf
+# 1323: You must enter a player name or ID.
+#, c-format
+msgctxt "messages.conf"
+msgid "You must enter a player name or ID."
+msgstr ""
+
+#: conf/messages.conf
+# 1324: Reset 'Feeling' maps.
+#, c-format
+msgctxt "messages.conf"
+msgid "Reset 'Feeling' maps."
+msgstr ""
+
+#: conf/messages.conf
+# 1325: [ K.S Protection Inactive ]
+#, c-format
+msgctxt "messages.conf"
+msgid "[ K.S Protection Inactive ]"
+msgstr ""
+
+#: conf/messages.conf
+# 1326: [ K.S Protection Active - Option: Party ]
+#, c-format
+msgctxt "messages.conf"
+msgid "[ K.S Protection Active - Option: Party ]"
+msgstr ""
+
+#: conf/messages.conf
+# 1327: [ K.S Protection Active - Option: Self ]
+#, c-format
+msgctxt "messages.conf"
+msgid "[ K.S Protection Active - Option: Self ]"
+msgstr ""
+
+#: conf/messages.conf
+# 1328: [ K.S Protection Active - Option: Guild ]
+#, c-format
+msgctxt "messages.conf"
+msgid "[ K.S Protection Active - Option: Guild ]"
+msgstr ""
+
+#: conf/messages.conf
+# 1329: Usage: @noks <self|party|guild>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @noks <self|party|guild>"
+msgstr ""
+
+#: conf/messages.conf
+# 1330: [ Map K.S Protection Active ]
+#, c-format
+msgctxt "messages.conf"
+msgid "[ Map K.S Protection Active ]"
+msgstr ""
+
+#: conf/messages.conf
+# 1331: [ Map K.S Protection Inactive ]
+#, c-format
+msgctxt "messages.conf"
+msgid "[ Map K.S Protection Inactive ]"
+msgstr ""
+
+#: conf/messages.conf
+# 1332: ------ %s items list of '%s' ------
+#, c-format
+msgctxt "messages.conf"
+msgid "------ %s items list of '%s' ------"
+msgstr ""
+
+#: conf/messages.conf
+# 1333: | equipped: 
+#, c-format
+msgctxt "messages.conf"
+msgid "| equipped: "
+msgstr ""
+
+#: conf/messages.conf
+# 1334: garment, 
+#, c-format
+msgctxt "messages.conf"
+msgid "garment, "
+msgstr ""
+
+#: conf/messages.conf
+# 1335: left accessory, 
+#, c-format
+msgctxt "messages.conf"
+msgid "left accessory, "
+msgstr ""
+
+#: conf/messages.conf
+# 1336: body/armor, 
+#, c-format
+msgctxt "messages.conf"
+msgid "body/armor, "
+msgstr ""
+
+#: conf/messages.conf
+# 1337: right hand, 
+#, c-format
+msgctxt "messages.conf"
+msgid "right hand, "
+msgstr ""
+
+#: conf/messages.conf
+# 1338: left hand, 
+#, c-format
+msgctxt "messages.conf"
+msgid "left hand, "
+msgstr ""
+
+#: conf/messages.conf
+# 1339: both hands, 
+#, c-format
+msgctxt "messages.conf"
+msgid "both hands, "
+msgstr ""
+
+#: conf/messages.conf
+# 1340: feet, 
+#, c-format
+msgctxt "messages.conf"
+msgid "feet, "
+msgstr ""
+
+#: conf/messages.conf
+# 1341: right accessory, 
+#, c-format
+msgctxt "messages.conf"
+msgid "right accessory, "
+msgstr ""
+
+#: conf/messages.conf
+# 1342: lower head, 
+#, c-format
+msgctxt "messages.conf"
+msgid "lower head, "
+msgstr ""
+
+#: conf/messages.conf
+# 1343: top head, 
+#, c-format
+msgctxt "messages.conf"
+msgid "top head, "
+msgstr ""
+
+#: conf/messages.conf
+# 1344: lower/top head, 
+#, c-format
+msgctxt "messages.conf"
+msgid "lower/top head, "
+msgstr ""
+
+#: conf/messages.conf
+# 1345: mid head, 
+#, c-format
+msgctxt "messages.conf"
+msgid "mid head, "
+msgstr ""
+
+#: conf/messages.conf
+# 1346: lower/mid head, 
+#, c-format
+msgctxt "messages.conf"
+msgid "lower/mid head, "
+msgstr ""
+
+#: conf/messages.conf
+# 1347: lower/mid/top head, 
+#, c-format
+msgctxt "messages.conf"
+msgid "lower/mid/top head, "
+msgstr ""
+
+#: conf/messages.conf
+# 1348: -> (pet egg, pet id: %u, named)
+#, c-format
+msgctxt "messages.conf"
+msgid "-> (pet egg, pet id: %u, named)"
+msgstr ""
+
+#: conf/messages.conf
+# 1349: -> (pet egg, pet id: %u, unnamed)
+#, c-format
+msgctxt "messages.conf"
+msgid "-> (pet egg, pet id: %u, unnamed)"
+msgstr ""
+
+#: conf/messages.conf
+# 1350: -> (crafted item, creator id: %u, star crumbs %d, element %d)
+#, c-format
+msgctxt "messages.conf"
+msgid "-> (crafted item, creator id: %u, star crumbs %d, element %d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1351: -> (produced item, creator id: %u)
+#, c-format
+msgctxt "messages.conf"
+msgid "-> (produced item, creator id: %u)"
+msgstr ""
+
+#: conf/messages.conf
+# 1352: -> (card(s): 
+#, c-format
+msgctxt "messages.conf"
+msgid "-> (card(s): "
+msgstr ""
+
+#: conf/messages.conf
+# 1353: No item found in this player's %s.
+#, c-format
+msgctxt "messages.conf"
+msgid "No item found in this player's %s."
+msgstr ""
+
+#: conf/messages.conf
+# 1354: %d item(s) found in %d %s slots.
+#, c-format
+msgctxt "messages.conf"
+msgid "%d item(s) found in %d %s slots."
+msgstr ""
+
+#: conf/messages.conf
+# 1355: Please enter an item name/ID, a quantity, and a player name (usage: #delitem <player> <item_name_or_ID> <quantity>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Please enter an item name/ID, a quantity, and a player name (usage: #delitem <player> <item_name_or_ID> <quantity>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1356: Returning to normal font.
+#, c-format
+msgctxt "messages.conf"
+msgid "Returning to normal font."
+msgstr ""
+
+#: conf/messages.conf
+# 1357: Use @font <1-9> to change your message font.
+#, c-format
+msgctxt "messages.conf"
+msgid "Use @font <1-9> to change your message font."
+msgstr ""
+
+#: conf/messages.conf
+# 1358: Use 0 or no parameter to return to normal font.
+#, c-format
+msgctxt "messages.conf"
+msgid "Use 0 or no parameter to return to normal font."
+msgstr ""
+
+#: conf/messages.conf
+# 1359: Invalid font. Use a value from 0 to 9.
+#, c-format
+msgctxt "messages.conf"
+msgid "Invalid font. Use a value from 0 to 9."
+msgstr ""
+
+#: conf/messages.conf
+# 1360: Font changed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Font changed."
+msgstr ""
+
+#: conf/messages.conf
+# 1361: You are already using this font.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are already using this font."
+msgstr ""
+
+#: conf/messages.conf
+# 1362: NOTICE: If you crash with mount, your Lua files are outdated.
+#, c-format
+msgctxt "messages.conf"
+msgid "NOTICE: If you crash with mount, your Lua files are outdated."
+msgstr ""
+
+#: conf/messages.conf
+# 1363: You are mounted now.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are mounted now."
+msgstr ""
+
+#: conf/messages.conf
+# 1364: You have released your mount.
+#, c-format
+msgctxt "messages.conf"
+msgid "You have released your mount."
+msgstr ""
+
+#: conf/messages.conf
+# 1365: Usage: @accinfo/@accountinfo <account_id/char name>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @accinfo/@accountinfo <account_id/char name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1366: You may search partial name by making use of '%' in the search, ex. "@accinfo %Mario%" lists all characters whose name contains "Mario".
+#, c-format
+msgctxt "messages.conf"
+msgid "You may search partial name by making use of '%' in the search, ex. "@accinfo %Mario%" lists all characters whose name contains "Mario"."
+msgstr ""
+
+#: conf/messages.conf
+# 1367: Usage: @set <variable name> <value>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @set <variable name> <value>"
+msgstr ""
+
+#: conf/messages.conf
+# 1368: Usage: ex. "@set PoringCharVar 50"
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: ex. "@set PoringCharVar 50""
+msgstr ""
+
+#: conf/messages.conf
+# 1369: Usage: ex. "@set PoringCharVarSTR$ Super Duper String"
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: ex. "@set PoringCharVarSTR$ Super Duper String""
+msgstr ""
+
+#: conf/messages.conf
+# 1370: Usage: ex. "@set PoringCharVarSTR$" outputs its value, Super Duper String.
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: ex. "@set PoringCharVarSTR$" outputs its value, Super Duper String."
+msgstr ""
+
+#: conf/messages.conf
+# 1371: NPC variables may not be used with @set.
+#, c-format
+msgctxt "messages.conf"
+msgid "NPC variables may not be used with @set."
+msgstr ""
+
+#: conf/messages.conf
+# 1372: Instance variables may not be used with @set.
+#, c-format
+msgctxt "messages.conf"
+msgid "Instance variables may not be used with @set."
+msgstr ""
+
+#: conf/messages.conf
+# 1373: %s value is now :%d
+#, c-format
+msgctxt "messages.conf"
+msgid "%s value is now :%d"
+msgstr ""
+
+#: conf/messages.conf
+# 1374: %s value is now :%s
+#, c-format
+msgctxt "messages.conf"
+msgid "%s value is now :%s"
+msgstr ""
+
+#: conf/messages.conf
+# 1375: %s is empty
+#, c-format
+msgctxt "messages.conf"
+msgid "%s is empty"
+msgstr ""
+
+#: conf/messages.conf
+# 1376: %s data type is not supported :%u
+#, c-format
+msgctxt "messages.conf"
+msgid "%s data type is not supported :%u"
+msgstr ""
+
+#: conf/messages.conf
+# 1377: Quest database has been reloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Quest database has been reloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 1378: Usage: %s <permission_name>
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: %s <permission_name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1379: -- Permission List
+#, c-format
+msgctxt "messages.conf"
+msgid "-- Permission List"
+msgstr ""
+
+#: conf/messages.conf
+# 1380: '%s' is not a known permission.
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' is not a known permission."
+msgstr ""
+
+#: conf/messages.conf
+# 1381: User '%s' already possesses the '%s' permission.
+#, c-format
+msgctxt "messages.conf"
+msgid "User '%s' already possesses the '%s' permission."
+msgstr ""
+
+#: conf/messages.conf
+# 1382: User '%s' doesn't possess the '%s' permission.
+#, c-format
+msgctxt "messages.conf"
+msgid "User '%s' doesn't possess the '%s' permission."
+msgstr ""
+
+#: conf/messages.conf
+# 1383: -- User '%s' Permissions
+#, c-format
+msgctxt "messages.conf"
+msgid "-- User '%s' Permissions"
+msgstr ""
+
+#: conf/messages.conf
+# 1384: User '%s' permissions updated successfully. The changes are temporary.
+#, c-format
+msgctxt "messages.conf"
+msgid "User '%s' permissions updated successfully. The changes are temporary."
+msgstr ""
+
+#: conf/messages.conf
+# 1385: Usage: @unloadnpcfile <path> {<flag>}
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @unloadnpcfile <path> {<flag>}"
+msgstr ""
+
+#: conf/messages.conf
+# 1386: File unloaded. Be aware that some changes made by NPC are not reverted on unload. See doc/atcommands.txt for details.
+#, c-format
+msgctxt "messages.conf"
+msgid "File unloaded. Be aware that some changes made by NPC are not reverted on unload. See doc/atcommands.txt for details."
+msgstr ""
+
+#: conf/messages.conf
+# 1387: File not found.
+#, c-format
+msgctxt "messages.conf"
+msgid "File not found."
+msgstr ""
+
+#: conf/messages.conf
+# 1388: Charcommand failed (usage: %c<command> <char name> <parameters>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Charcommand failed (usage: %c<command> <char name> <parameters>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1389: %s failed. Player not found.
+#, c-format
+msgctxt "messages.conf"
+msgid "%s failed. Player not found."
+msgstr ""
+
+#: conf/messages.conf
+# 1390: Unknown Cart (usage: %s <0-%d>).
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown Cart (usage: %s <0-%d>)."
+msgstr ""
+
+#: conf/messages.conf
+# 1391: You do not possess a cart to be removed
+#, c-format
+msgctxt "messages.conf"
+msgid "You do not possess a cart to be removed"
+msgstr ""
+
+#: conf/messages.conf
+# 1392: Cart Added.
+#, c-format
+msgctxt "messages.conf"
+msgid "Cart Added."
+msgstr ""
+
+#: conf/messages.conf
+# 1393: You can't use commands while dead.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't use commands while dead."
+msgstr ""
+
+#: conf/messages.conf
+# 1394: Your storage was cleaned.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your storage was cleaned."
+msgstr ""
+
+#: conf/messages.conf
+# 1395: Your guild storage was cleaned.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your guild storage was cleaned."
+msgstr ""
+
+#: conf/messages.conf
+# 1396: You do not have a cart to be cleaned.
+#, c-format
+msgctxt "messages.conf"
+msgid "You do not have a cart to be cleaned."
+msgstr ""
+
+#: conf/messages.conf
+# 1397: Your cart was cleaned.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your cart was cleaned."
+msgstr ""
+
+#: conf/messages.conf
+# 1398: -- Displaying first %d partial matches
+#, c-format
+msgctxt "messages.conf"
+msgid "-- Displaying first %d partial matches"
+msgstr ""
+
+#: conf/messages.conf
+# 1399: Unknown Channel (usage: %s <#channel_name>)
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown Channel (usage: %s <#channel_name>)"
+msgstr ""
+
+#: conf/messages.conf
+# 1400: Unknown Channel '%s' (usage: %s <#channel_name>)
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown Channel '%s' (usage: %s <#channel_name>)"
+msgstr ""
+
+#: conf/messages.conf
+# 1401: '%s' Channel is password protected (usage: %s <#channel_name> <password>)
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' Channel is password protected (usage: %s <#channel_name> <password>)"
+msgstr ""
+
+#: conf/messages.conf
+# 1402: You're not in that channel, type '@join <#channel_name>'
+#, c-format
+msgctxt "messages.conf"
+msgid "You're not in that channel, type '@join <#channel_name>'"
+msgstr ""
+
+#: conf/messages.conf
+# 1403: You're now in the '%s' channel
+#, c-format
+msgctxt "messages.conf"
+msgid "You're now in the '%s' channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1404: %s failed
+#, c-format
+msgctxt "messages.conf"
+msgid "%s failed"
+msgstr ""
+
+#: conf/messages.conf
+# 1405: Channel name must start with a '#'
+#, c-format
+msgctxt "messages.conf"
+msgid "Channel name must start with a '#'"
+msgstr ""
+
+#: conf/messages.conf
+# 1406: Channel length must be between 3 and %d
+#, c-format
+msgctxt "messages.conf"
+msgid "Channel length must be between 3 and %d"
+msgstr ""
+
+#: conf/messages.conf
+# 1407: Channel '%s' is not available
+#, c-format
+msgctxt "messages.conf"
+msgid "Channel '%s' is not available"
+msgstr ""
+
+#: conf/messages.conf
+# 1408: Channel password may not contain spaces
+#, c-format
+msgctxt "messages.conf"
+msgid "Channel password may not contain spaces"
+msgstr ""
+
+#: conf/messages.conf
+# 1409: - #%s ( %d users )
+#, c-format
+msgctxt "messages.conf"
+msgid "- #%s ( %d users )"
+msgstr ""
+
+#: conf/messages.conf
+# 1410: -- Public Channels
+#, c-format
+msgctxt "messages.conf"
+msgid "-- Public Channels"
+msgstr ""
+
+#: conf/messages.conf
+# 1411: Unknown color '%s'
+#, c-format
+msgctxt "messages.conf"
+msgid "Unknown color '%s'"
+msgstr ""
+
+#: conf/messages.conf
+# 1412: You're not the owner of channel '%s'
+#, c-format
+msgctxt "messages.conf"
+msgid "You're not the owner of channel '%s'"
+msgstr ""
+
+#: conf/messages.conf
+# 1413: '%s' channel color updated to '%s' 
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' channel color updated to '%s' "
+msgstr ""
+
+#: conf/messages.conf
+# 1414: --- Available options:
+#, c-format
+msgctxt "messages.conf"
+msgid "--- Available options:"
+msgstr ""
+
+#: conf/messages.conf
+# 1415: -- %s create <channel name> <channel password>
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s create <channel name> <channel password>"
+msgstr ""
+
+#: conf/messages.conf
+# 1416: - creates a new channel
+#, c-format
+msgctxt "messages.conf"
+msgid "- creates a new channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1417: -- %s list
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s list"
+msgstr ""
+
+#: conf/messages.conf
+# 1418: - lists public channels
+#, c-format
+msgctxt "messages.conf"
+msgid "- lists public channels"
+msgstr ""
+
+#: conf/messages.conf
+# 1419: -- %s list colors
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s list colors"
+msgstr ""
+
+#: conf/messages.conf
+# 1420: - lists colors available to select for custom channels
+#, c-format
+msgctxt "messages.conf"
+msgid "- lists colors available to select for custom channels"
+msgstr ""
+
+#: conf/messages.conf
+# 1421: -- %s setcolor <channel name> <color name>
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s setcolor <channel name> <color name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1422: - changes <channel name> color to <color name>
+#, c-format
+msgctxt "messages.conf"
+msgid "- changes <channel name> color to <color name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1423: -- %s leave <channel name>
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s leave <channel name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1424: - leaves <channel name>
+#, c-format
+msgctxt "messages.conf"
+msgid "- leaves <channel name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1425: You're not part of the '%s' channel
+#, c-format
+msgctxt "messages.conf"
+msgid "You're not part of the '%s' channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1426: You've left the '%s' channel
+#, c-format
+msgctxt "messages.conf"
+msgid "You've left the '%s' channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1427: -- %s bindto <channel name>
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s bindto <channel name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1428: - binds your global chat to <channel name>, making anything you type in global be sent to the channel
+#, c-format
+msgctxt "messages.conf"
+msgid "- binds your global chat to <channel name>, making anything you type in global be sent to the channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1429: -- %s unbind
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s unbind"
+msgstr ""
+
+#: conf/messages.conf
+# 1430: - unbinds your global chat from its attached channel (if bound)
+#, c-format
+msgctxt "messages.conf"
+msgid "- unbinds your global chat from its attached channel (if bound)"
+msgstr ""
+
+#: conf/messages.conf
+# 1431: Your global chat is now bound to the '%s' channel
+#, c-format
+msgctxt "messages.conf"
+msgid "Your global chat is now bound to the '%s' channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1432: Your global chat is not bound to any channel
+#, c-format
+msgctxt "messages.conf"
+msgid "Your global chat is not bound to any channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1433: Your global chat is no longer bound to the '#%s' channel
+#, c-format
+msgctxt "messages.conf"
+msgid "Your global chat is no longer bound to the '#%s' channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1434: Player '%s' was not found
+#, c-format
+msgctxt "messages.conf"
+msgid "Player '%s' was not found"
+msgstr ""
+
+#: conf/messages.conf
+# 1435: You're now in the '#%s' channel for '%s'
+#, c-format
+msgctxt "messages.conf"
+msgid "You're now in the '#%s' channel for '%s'"
+msgstr ""
+
+#: conf/messages.conf
+# 1436: You're already in the '%s' channel
+#, c-format
+msgctxt "messages.conf"
+msgid "You're already in the '%s' channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1437: Player '%s' has now been banned from the '%s' channel
+#, c-format
+msgctxt "messages.conf"
+msgid "Player '%s' has now been banned from the '%s' channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1438: You cannot join the '%s' channel because you've been banned from it
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot join the '%s' channel because you've been banned from it"
+msgstr ""
+
+#: conf/messages.conf
+# 1439: Channel '%s' has no banned players
+#, c-format
+msgctxt "messages.conf"
+msgid "Channel '%s' has no banned players"
+msgstr ""
+
+#: conf/messages.conf
+# 1440: Player '%s' is not banned from this channel
+#, c-format
+msgctxt "messages.conf"
+msgid "Player '%s' is not banned from this channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1441: Player '%s' has now been unbanned from the '%s' channel
+#, c-format
+msgctxt "messages.conf"
+msgid "Player '%s' has now been unbanned from the '%s' channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1442: Removed all bans from the '%s' channel
+#, c-format
+msgctxt "messages.conf"
+msgid "Removed all bans from the '%s' channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1443: -- '%s' ban list
+#, c-format
+msgctxt "messages.conf"
+msgid "-- '%s' ban list"
+msgstr ""
+
+#: conf/messages.conf
+# 1444: - %s
+#, c-format
+msgctxt "messages.conf"
+msgid "- %s"
+msgstr ""
+
+#: conf/messages.conf
+# 1445: - %s (%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "- %s (%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1446: You need to input a option
+#, c-format
+msgctxt "messages.conf"
+msgid "You need to input a option"
+msgstr ""
+
+#: conf/messages.conf
+# 1447: '%s' is not a known channel option
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' is not a known channel option"
+msgstr ""
+
+#: conf/messages.conf
+# 1448: -- Available options
+#, c-format
+msgctxt "messages.conf"
+msgid "-- Available options"
+msgstr ""
+
+#: conf/messages.conf
+# 1449: option '%s' is already enabled, if you'd like to disable it type '@channel opt %s 0'
+#, c-format
+msgctxt "messages.conf"
+msgid "option '%s' is already enabled, if you'd like to disable it type '@channel opt %s 0'"
+msgstr ""
+
+#: conf/messages.conf
+# 1450: option '%s' is now enabled for channel '%s'
+#, c-format
+msgctxt "messages.conf"
+msgid "option '%s' is now enabled for channel '%s'"
+msgstr ""
+
+#: conf/messages.conf
+# 1451: value '%d' for option '%s' is out of range (limit is 0-%d)
+#, c-format
+msgctxt "messages.conf"
+msgid "value '%d' for option '%s' is out of range (limit is 0-%d)"
+msgstr ""
+
+#: conf/messages.conf
+# 1452: option '%s' is now enabled for channel '%s' with %d seconds
+#, c-format
+msgctxt "messages.conf"
+msgid "option '%s' is now enabled for channel '%s' with %d seconds"
+msgstr ""
+
+#: conf/messages.conf
+# 1453: option '%s' is now disabled for channel '%s'
+#, c-format
+msgctxt "messages.conf"
+msgid "option '%s' is now disabled for channel '%s'"
+msgstr ""
+
+#: conf/messages.conf
+# 1454: option '%s' is not enabled on channel '%s'
+#, c-format
+msgctxt "messages.conf"
+msgid "option '%s' is not enabled on channel '%s'"
+msgstr ""
+
+#: conf/messages.conf
+# 1455: You cannot send a message to this channel for another %d seconds.
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot send a message to this channel for another %d seconds."
+msgstr ""
+
+#: conf/messages.conf
+# 1456: -- %s ban <channel name> <character name>
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s ban <channel name> <character name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1457: - bans <character name> from <channel name> channel
+#, c-format
+msgctxt "messages.conf"
+msgid "- bans <character name> from <channel name> channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1458: -- %s banlist <channel name>
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s banlist <channel name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1459: - lists all banned characters from <channel name> channel
+#, c-format
+msgctxt "messages.conf"
+msgid "- lists all banned characters from <channel name> channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1460: -- %s unban <channel name> <character name>
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s unban <channel name> <character name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1461: - unbans <character name> from <channel name> channel
+#, c-format
+msgctxt "messages.conf"
+msgid "- unbans <character name> from <channel name> channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1462: -- %s setopt <channel name> <option name> <option value>
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s setopt <channel name> <option name> <option value>"
+msgstr ""
+
+#: conf/messages.conf
+# 1463: - adds or removes <option name> with <option value> to <channel name> channel
+#, c-format
+msgctxt "messages.conf"
+msgid "- adds or removes <option name> with <option value> to <channel name> channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1464: Ban failed, it is not possible to ban this user.
+#, c-format
+msgctxt "messages.conf"
+msgid "Ban failed, it is not possible to ban this user."
+msgstr ""
+
+#: conf/messages.conf
+# 1465: Player '%s' is already banned from this channel
+#, c-format
+msgctxt "messages.conf"
+msgid "Player '%s' is already banned from this channel"
+msgstr ""
+
+#: conf/messages.conf
+# 1466: For '%s' you need the amount of seconds (from 0 to 10)
+#, c-format
+msgctxt "messages.conf"
+msgid "For '%s' you need the amount of seconds (from 0 to 10)"
+msgstr ""
+
+#: conf/messages.conf
+# 1467: -- %s unbanall <channel name>
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s unbanall <channel name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1468: - unbans everyone from <channel name>
+#, c-format
+msgctxt "messages.conf"
+msgid "- unbans everyone from <channel name>"
+msgstr ""
+
+#: conf/messages.conf
+# 1469: '%s' is not a known costume
+#, c-format
+msgctxt "messages.conf"
+msgid "'%s' is not a known costume"
+msgstr ""
+
+#: conf/messages.conf
+# 1470: You're already with a '%s' costume, type '@costume' to remove it.
+#, c-format
+msgctxt "messages.conf"
+msgid "You're already with a '%s' costume, type '@costume' to remove it."
+msgstr ""
+
+#: conf/messages.conf
+# 1471: -- %s
+#, c-format
+msgctxt "messages.conf"
+msgid "-- %s"
+msgstr ""
+
+#: conf/messages.conf
+# 1472: - Available Costumes
+#, c-format
+msgctxt "messages.conf"
+msgid "- Available Costumes"
+msgstr ""
+
+#: conf/messages.conf
+# 1473: Costume '%s' removed.
+#, c-format
+msgctxt "messages.conf"
+msgid "Costume '%s' removed."
+msgstr ""
+
+#: conf/messages.conf
+# 1474: You cannot use this item while sitting.
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot use this item while sitting."
+msgstr ""
+
+#: conf/messages.conf
+# 1475: You cannot use this item while your storage is open.
+#, c-format
+msgctxt "messages.conf"
+msgid "You cannot use this item while your storage is open."
+msgstr ""
+
+#: conf/messages.conf
+# 1476: You are already mounting something else.
+#, c-format
+msgctxt "messages.conf"
+msgid "You are already mounting something else."
+msgstr ""
+
+#: conf/messages.conf
+# 1477: Item cannot be opened when inventory is full.
+#, c-format
+msgctxt "messages.conf"
+msgid "Item cannot be opened when inventory is full."
+msgstr ""
+
+#: conf/messages.conf
+# 1478: Homunculus reached its maximum level of '%d'.
+#, c-format
+msgctxt "messages.conf"
+msgid "Homunculus reached its maximum level of '%d'."
+msgstr ""
+
+#: conf/messages.conf
+# 1479: Dear angel, can you hear my voice?
+#, c-format
+msgctxt "messages.conf"
+msgid "Dear angel, can you hear my voice?"
+msgstr ""
+
+#: conf/messages.conf
+# 1480: I am %s Super Novice~
+#, c-format
+msgctxt "messages.conf"
+msgid "I am %s Super Novice~"
+msgstr ""
+
+#: conf/messages.conf
+# 1481: Help me out~ Please~ T_T
+#, c-format
+msgctxt "messages.conf"
+msgid "Help me out~ Please~ T_T"
+msgstr ""
+
+#: conf/messages.conf
+# 1482: You can't withdraw that much money.
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't withdraw that much money."
+msgstr ""
+
+#: conf/messages.conf
+# 1483: Banking is disabled.
+#, c-format
+msgctxt "messages.conf"
+msgid "Banking is disabled."
+msgstr ""
+
+#: conf/messages.conf
+# 1484: Auction is disabled.
+#, c-format
+msgctxt "messages.conf"
+msgid "Auction is disabled."
+msgstr ""
+
+#: conf/messages.conf
+# 1485: Title is not yet earned.
+#, c-format
+msgctxt "messages.conf"
+msgid "Title is not yet earned."
+msgstr ""
+
+#: conf/messages.conf
+# 1486: Cannot transform into monster while in disguise.
+#, c-format
+msgctxt "messages.conf"
+msgid "Cannot transform into monster while in disguise."
+msgstr ""
+
+#: conf/messages.conf
+# 1487: Character cannot be disguised while in monster form.
+#, c-format
+msgctxt "messages.conf"
+msgid "Character cannot be disguised while in monster form."
+msgstr ""
+
+#: conf/messages.conf
+# 1488: Transforming into monster is not allowed in Guild Wars.
+#, c-format
+msgctxt "messages.conf"
+msgid "Transforming into monster is not allowed in Guild Wars."
+msgstr ""
+
+#: conf/messages.conf
+# 1489: Cash Shop is disabled in this map.
+#, c-format
+msgctxt "messages.conf"
+msgid "Cash Shop is disabled in this map."
+msgstr ""
+
+#: conf/messages.conf
+# 1490: You're already autolooting this item type.
+#, c-format
+msgctxt "messages.conf"
+msgid "You're already autolooting this item type."
+msgstr ""
+
+#: conf/messages.conf
+# 1491: Item type not found.
+#, c-format
+msgctxt "messages.conf"
+msgid "Item type not found."
+msgstr ""
+
+#: conf/messages.conf
+# 1492: Autolooting item type: '%s'
+#, c-format
+msgctxt "messages.conf"
+msgid "Autolooting item type: '%s'"
+msgstr ""
+
+#: conf/messages.conf
+# 1493: You're currently not autolooting this item type.
+#, c-format
+msgctxt "messages.conf"
+msgid "You're currently not autolooting this item type."
+msgstr ""
+
+#: conf/messages.conf
+# 1494: Removed item type: '%s' from your autoloottype list.
+#, c-format
+msgctxt "messages.conf"
+msgid "Removed item type: '%s' from your autoloottype list."
+msgstr ""
+
+#: conf/messages.conf
+# 1495: Your autoloottype list is empty.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your autoloottype list is empty."
+msgstr ""
+
+#: conf/messages.conf
+# 1496: Item types on your autoloottype list:
+#, c-format
+msgctxt "messages.conf"
+msgid "Item types on your autoloottype list:"
+msgstr ""
+
+#: conf/messages.conf
+# 1497: Your autoloottype list has been reset.
+#, c-format
+msgctxt "messages.conf"
+msgid "Your autoloottype list has been reset."
+msgstr ""
+
+#: conf/messages.conf
+# 1498: You can't add a party bound item to a character without party!
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't add a party bound item to a character without party!"
+msgstr ""
+
+#: conf/messages.conf
+# 1499: You can't add a guild bound item to a character without guild!
+#, c-format
+msgctxt "messages.conf"
+msgid "You can't add a guild bound item to a character without guild!"
+msgstr ""
+
+#: conf/messages.conf
+# 1500: Usage: @dropall {<type>}
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @dropall {<type>}"
+msgstr ""
+
+#: conf/messages.conf
+# 1501: Type List: (default) all = -1, healing = 0, usable = 2, etc = 3, weapon = 4, armor = 5, card = 6, petegg = 7, petarmor = 8, ammo = 10, delayed-consumable = 11, cash = 18 
+#, c-format
+msgctxt "messages.conf"
+msgid "Type List: (default) all = -1, healing = 0, usable = 2, etc = 3, weapon = 4, armor = 5, card = 6, petegg = 7, petarmor = 8, ammo = 10, delayed-consumable = 11, cash = 18 "
+msgstr ""
+
+#: conf/messages.conf
+# 1502: %d items are dropped (%d skipped)!
+#, c-format
+msgctxt "messages.conf"
+msgid "%d items are dropped (%d skipped)!"
+msgstr ""
+
+#: conf/messages.conf
+# 1503: %d: Costume Headgear (Top)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Costume Headgear (Top)"
+msgstr ""
+
+#: conf/messages.conf
+# 1504: %d: Costume Headgear (Mid)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Costume Headgear (Mid)"
+msgstr ""
+
+#: conf/messages.conf
+# 1505: %d: Costume Headgear (Low)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Costume Headgear (Low)"
+msgstr ""
+
+#: conf/messages.conf
+# 1506: %d: Costume Garment
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Costume Garment"
+msgstr ""
+
+#: conf/messages.conf
+# 1507: %d: Shadow Armor
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Shadow Armor"
+msgstr ""
+
+#: conf/messages.conf
+# 1508: %d: Shadow Weapon
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Shadow Weapon"
+msgstr ""
+
+#: conf/messages.conf
+# 1509: %d: Shadow Shield
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Shadow Shield"
+msgstr ""
+
+#: conf/messages.conf
+# 1510: %d: Shadow Shoes
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Shadow Shoes"
+msgstr ""
+
+#: conf/messages.conf
+# 1511: %d: Shadow Accessory (Right)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Shadow Accessory (Right)"
+msgstr ""
+
+#: conf/messages.conf
+# 1512: %d: Shadow Accessory (Left)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Shadow Accessory (Left)"
+msgstr ""
+
+#: conf/messages.conf
+# 1513: %d: Refine All Equip (General)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Refine All Equip (General)"
+msgstr ""
+
+#: conf/messages.conf
+# 1514: %d: Refine All Equip (Costume)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Refine All Equip (Costume)"
+msgstr ""
+
+#: conf/messages.conf
+# 1515: %d: Refine All Equip (Shadow)
+#, c-format
+msgctxt "messages.conf"
+msgid "%d: Refine All Equip (Shadow)"
+msgstr ""
+
+#: conf/messages.conf
+# 1516: Usage: @reloadnpc <path> {<flag>}
+#, c-format
+msgctxt "messages.conf"
+msgid "Usage: @reloadnpc <path> {<flag>}"
+msgstr ""
+
+#: conf/messages.conf
+# 1517: Script could not be unloaded.
+#, c-format
+msgctxt "messages.conf"
+msgid "Script could not be unloaded."
+msgstr ""
+
+#: conf/messages.conf
+# 1518: Not a file.
+#, c-format
+msgctxt "messages.conf"
+msgid "Not a file."
+msgstr ""
+
+#: conf/messages.conf
+# 1519: Can't open file.
+#, c-format
+msgctxt "messages.conf"
+msgid "Can't open file."
+msgstr ""

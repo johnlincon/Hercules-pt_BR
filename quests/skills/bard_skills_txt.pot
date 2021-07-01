@@ -1,0 +1,3500 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Timid Young Man]";
+msgctxt "Young Man#bard_q1"
+msgid "[Timid Young Man]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Eh? Wwwaaaah--!";
+msgctxt "Young Man#bard_q1"
+msgid "Eh? Wwwaaaah--!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Y-you're--it's-it's--";
+msgctxt "Young Man#bard_q1"
+msgid "Y-you're--it's-it's--"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "It's a freakin' Bard!";
+msgctxt "Young Man#bard_q1"
+msgid "It's a freakin' Bard!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "It's a freakin' Minstrel!";
+msgctxt "Young Man#bard_q1"
+msgid "It's a freakin' Minstrel!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "D-don't come any closer!";
+msgctxt "Young Man#bard_q1"
+msgid "D-don't come any closer!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I... I don't like you guys!";
+msgctxt "Young Man#bard_q1"
+msgid "I... I don't like you guys!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# if (select("Wha--? Why the heck not?", "Hey, take it easy, man.") == 1) {
+msgctxt "Young Man#bard_q1"
+msgid "Wha--? Why the heck not?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# if (select("Wha--? Why the heck not?", "Hey, take it easy, man.") == 1) {
+msgctxt "Young Man#bard_q1"
+msgid "Hey, take it easy, man."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "N-no! Don't look at me!";
+msgctxt "Young Man#bard_q1"
+msgid "N-no! Don't look at me!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I know what you're trying";
+msgctxt "Young Man#bard_q1"
+msgid "I know what you're trying"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "to do! Please, I haven't";
+msgctxt "Young Man#bard_q1"
+msgid "to do! Please, I haven't"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "done anything to you!";
+msgctxt "Young Man#bard_q1"
+msgid "done anything to you!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "J-just s-stay away!";
+msgctxt "Young Man#bard_q1"
+msgid "J-just s-stay away!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[" + strcharinfo(PC_NAME) + "]";
+msgctxt "Young Man#bard_q1"
+msgid "["
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Um...";
+msgctxt "Young Man#bard_q1"
+msgid "Um..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I'm not really trying";
+msgctxt "Young Man#bard_q1"
+msgid "I'm not really trying"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "to do anything. Why";
+msgctxt "Young Man#bard_q1"
+msgid "to do anything. Why"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "don't you relax, and--";
+msgctxt "Young Man#bard_q1"
+msgid "don't you relax, and--"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Relax?! Nobody believes me";
+msgctxt "Young Man#bard_q1"
+msgid "Relax?! Nobody believes me"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "when I tell them how dangerous";
+msgctxt "Young Man#bard_q1"
+msgid "when I tell them how dangerous"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you guys are. You think you're";
+msgctxt "Young Man#bard_q1"
+msgid "you guys are. You think you're"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "so smug with your funny jokes";
+msgctxt "Young Man#bard_q1"
+msgid "so smug with your funny jokes"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "and lovely songs, but I know";
+msgctxt "Young Man#bard_q1"
+msgid "and lovely songs, but I know"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "what kind of powers you have!";
+msgctxt "Young Man#bard_q1"
+msgid "what kind of powers you have!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# if (select("Offer him a drink.", "Reassure him that you're safe.") == 1) {
+msgctxt "Young Man#bard_q1"
+msgid "Offer him a drink."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# if (select("Offer him a drink.", "Reassure him that you're safe.") == 1) {
+msgctxt "Young Man#bard_q1"
+msgid "Reassure him that you're safe."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Look, I don't know what";
+msgctxt "Young Man#bard_q1"
+msgid "Look, I don't know what"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you've got against me, but";
+msgctxt "Young Man#bard_q1"
+msgid "you've got against me, but"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you really need to relax.";
+msgctxt "Young Man#bard_q1"
+msgid "you really need to relax."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Here, have a drink on me.";
+msgctxt "Young Man#bard_q1"
+msgid "Here, have a drink on me."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Oh~! Isn't that";
+msgctxt "Young Man#bard_q1"
+msgid "Oh~! Isn't that"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "a Tropical Sograt?";
+msgctxt "Young Man#bard_q1"
+msgid "a Tropical Sograt?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "That's my favorite";
+msgctxt "Young Man#bard_q1"
+msgid "That's my favorite"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "drink in all the world!";
+msgctxt "Young Man#bard_q1"
+msgid "drink in all the world!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Thanks so--waitaminute.";
+msgctxt "Young Man#bard_q1"
+msgid "Thanks so--waitaminute."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "This is some sort";
+msgctxt "Young Man#bard_q1"
+msgid "This is some sort"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "of weird trick, isn't it?";
+msgctxt "Young Man#bard_q1"
+msgid "of weird trick, isn't it?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "And to think I almost";
+msgctxt "Young Man#bard_q1"
+msgid "And to think I almost"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "f-f-fell for it! P-please";
+msgctxt "Young Man#bard_q1"
+msgid "f-f-fell for it! P-please"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "j-just leave me alone!";
+msgctxt "Young Man#bard_q1"
+msgid "j-just leave me alone!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Wait, I've seen you before.";
+msgctxt "Young Man#bard_q1"
+msgid "Wait, I've seen you before."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "And you brought me a drink";
+msgctxt "Young Man#bard_q1"
+msgid "And you brought me a drink"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "just like this one. You...";
+msgctxt "Young Man#bard_q1"
+msgid "just like this one. You..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "You d-didn't learn th-that";
+msgctxt "Young Man#bard_q1"
+msgid "You d-didn't learn th-that"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "w-w-weird skill, d-did you?";
+msgctxt "Young Man#bard_q1"
+msgid "w-w-weird skill, d-did you?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Wait, no. You couldn't have...";
+msgctxt "Young Man#bard_q1"
+msgid "Wait, no. You couldn't have..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Oh, please~";
+msgctxt "Young Man#bard_q1"
+msgid "Oh, please~"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "You know, I think";
+msgctxt "Young Man#bard_q1"
+msgid "You know, I think"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "that maybe you";
+msgctxt "Young Man#bard_q1"
+msgid "that maybe you"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "worry too much.";
+msgctxt "Young Man#bard_q1"
+msgid "worry too much."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^333333*Gulp Gulp*^000000";
+msgctxt "Young Man#bard_q1"
+msgid "^333333*Gulp Gulp*^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Ahhhh~ Oh, you don't";
+msgctxt "Young Man#bard_q1"
+msgid "Ahhhh~ Oh, you don't"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "understand how long I've";
+msgctxt "Young Man#bard_q1"
+msgid "understand how long I've"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "been wanting this drink!";
+msgctxt "Young Man#bard_q1"
+msgid "been wanting this drink!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "It tastes so good, and";
+msgctxt "Young Man#bard_q1"
+msgid "It tastes so good, and"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "now I feel sooo relaxed...";
+msgctxt "Young Man#bard_q1"
+msgid "now I feel sooo relaxed..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# switch(select("See? I'm not dangerous at all~", "So what makes someone like me so scary?")) {
+msgctxt "Young Man#bard_q1"
+msgid "See? I'm not dangerous at all~"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# switch(select("See? I'm not dangerous at all~", "So what makes someone like me so scary?")) {
+msgctxt "Young Man#bard_q1"
+msgid "So what makes someone like me so scary?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Hmmm... Maybe.";
+msgctxt "Young Man#bard_q1"
+msgid "Hmmm... Maybe."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Maybe all of you Bards";
+msgctxt "Young Man#bard_q1"
+msgid "Maybe all of you Bards"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "and Minstrels aren't that";
+msgctxt "Young Man#bard_q1"
+msgid "and Minstrels aren't that"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "bad. But I can never forget";
+msgctxt "Young Man#bard_q1"
+msgid "bad. But I can never forget"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "what that Bard did to me...";
+msgctxt "Young Man#bard_q1"
+msgid "what that Bard did to me..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "It all started when I was";
+msgctxt "Young Man#bard_q1"
+msgid "It all started when I was"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "traveling through Umbala and";
+msgctxt "Young Man#bard_q1"
+msgid "traveling through Umbala and"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "met a strange Bard who was";
+msgctxt "Young Man#bard_q1"
+msgid "met a strange Bard who was"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "studying under the tutelage";
+msgctxt "Young Man#bard_q1"
+msgid "studying under the tutelage"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "of Puchuchartan, the Utan";
+msgctxt "Young Man#bard_q1"
+msgid "of Puchuchartan, the Utan"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Shaman of the village.";
+msgctxt "Young Man#bard_q1"
+msgid "Shaman of the village."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "That Bard and I got along fairly well until he took me to Umbala's";
+msgctxt "Young Man#bard_q1"
+msgid "That Bard and I got along fairly well until he took me to Umbala's"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Bungee Jump. He insisted that I jump at least once for the ''full";
+msgctxt "Young Man#bard_q1"
+msgid "Bungee Jump. He insisted that I jump at least once for the ''full"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Umbala experience.'' I refused, seeing as they don't use bungees.";
+msgctxt "Young Man#bard_q1"
+msgid "Umbala experience.'' I refused, seeing as they don't use bungees."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "The Bard seemed offended";
+msgctxt "Young Man#bard_q1"
+msgid "The Bard seemed offended"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "and claimed it was perfectly";
+msgctxt "Young Man#bard_q1"
+msgid "and claimed it was perfectly"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "safe, and that only a few people";
+msgctxt "Young Man#bard_q1"
+msgid "safe, and that only a few people"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "have died by jumping. Then, he";
+msgctxt "Young Man#bard_q1"
+msgid "have died by jumping. Then, he"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "just... He gave me this intense look.";
+msgctxt "Young Man#bard_q1"
+msgid "just... He gave me this intense look."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "His eyes seemed so full";
+msgctxt "Young Man#bard_q1"
+msgid "His eyes seemed so full"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "of rage! I remember him";
+msgctxt "Young Man#bard_q1"
+msgid "of rage! I remember him"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "mumbling something, and";
+msgctxt "Young Man#bard_q1"
+msgid "mumbling something, and"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "all of a sudden, I lost control";
+msgctxt "Young Man#bard_q1"
+msgid "all of a sudden, I lost control"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "of my body! My arms and legs";
+msgctxt "Young Man#bard_q1"
+msgid "of my body! My arms and legs"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "were just moving on their own!";
+msgctxt "Young Man#bard_q1"
+msgid "were just moving on their own!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Before long, I found myself";
+msgctxt "Young Man#bard_q1"
+msgid "Before long, I found myself"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "struggling to keep myself from";
+msgctxt "Young Man#bard_q1"
+msgid "struggling to keep myself from"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "leaping off that Bungee Jump.";
+msgctxt "Young Man#bard_q1"
+msgid "leaping off that Bungee Jump."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "But the more I resisted, the";
+msgctxt "Young Man#bard_q1"
+msgid "But the more I resisted, the"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "more violently I'd flail toward";
+msgctxt "Young Man#bard_q1"
+msgid "more violently I'd flail toward"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "the edge. It was horrible!";
+msgctxt "Young Man#bard_q1"
+msgid "the edge. It was horrible!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "That was the most terrifying";
+msgctxt "Young Man#bard_q1"
+msgid "That was the most terrifying"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "experience of my life! It was";
+msgctxt "Young Man#bard_q1"
+msgid "experience of my life! It was"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "bad enough that I risked my";
+msgctxt "Young Man#bard_q1"
+msgid "bad enough that I risked my"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "life, but that feeling of not";
+msgctxt "Young Man#bard_q1"
+msgid "life, but that feeling of not"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "having any control over your";
+msgctxt "Young Man#bard_q1"
+msgid "having any control over your"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "body is so overwhelming!";
+msgctxt "Young Man#bard_q1"
+msgid "body is so overwhelming!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Wait, you're saying";
+msgctxt "Young Man#bard_q1"
+msgid "Wait, you're saying"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "a Bard did this to you?";
+msgctxt "Young Man#bard_q1"
+msgid "a Bard did this to you?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I've never heard of a song";
+msgctxt "Young Man#bard_q1"
+msgid "I've never heard of a song"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "or skill with that sort of effect before. That's really strange...";
+msgctxt "Young Man#bard_q1"
+msgid "or skill with that sort of effect before. That's really strange..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Well, I've never heard";
+msgctxt "Young Man#bard_q1"
+msgid "Well, I've never heard"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "of that sort of power up";
+msgctxt "Young Man#bard_q1"
+msgid "of that sort of power up"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "until I had to experience";
+msgctxt "Young Man#bard_q1"
+msgid "until I had to experience"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "it for myself. Oh, I can still";
+msgctxt "Young Man#bard_q1"
+msgid "it for myself. Oh, I can still"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "see that evil smile of his";
+msgctxt "Young Man#bard_q1"
+msgid "see that evil smile of his"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "in my nightmares...";
+msgctxt "Young Man#bard_q1"
+msgid "in my nightmares..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Anyway, thanks for that";
+msgctxt "Young Man#bard_q1"
+msgid "Anyway, thanks for that"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "drink, it really helped me";
+msgctxt "Young Man#bard_q1"
+msgid "drink, it really helped me"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "settle my nerves. But I must";
+msgctxt "Young Man#bard_q1"
+msgid "settle my nerves. But I must"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "warn you not to look for that";
+msgctxt "Young Man#bard_q1"
+msgid "warn you not to look for that"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "strange Bard. I'm sure he's really some sort of demon or something...";
+msgctxt "Young Man#bard_q1"
+msgid "strange Bard. I'm sure he's really some sort of demon or something..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "But... If you really";
+msgctxt "Young Man#bard_q1"
+msgid "But... If you really"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "want to attain that sort";
+msgctxt "Young Man#bard_q1"
+msgid "want to attain that sort"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "of power, I can't really";
+msgctxt "Young Man#bard_q1"
+msgid "of power, I can't really"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "stop you. Thankfully, nobody";
+msgctxt "Young Man#bard_q1"
+msgid "stop you. Thankfully, nobody"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "has any idea of where he is~";
+msgctxt "Young Man#bard_q1"
+msgid "has any idea of where he is~"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Even if you could find that";
+msgctxt "Young Man#bard_q1"
+msgid "Even if you could find that"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Bard to get him to teach you";
+msgctxt "Young Man#bard_q1"
+msgid "Bard to get him to teach you"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "how he did that to me, I'm sure";
+msgctxt "Young Man#bard_q1"
+msgid "how he did that to me, I'm sure"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "he mentioned something about";
+msgctxt "Young Man#bard_q1"
+msgid "he mentioned something about"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "being at least ^660000Job Level 40^000000 to";
+msgctxt "Young Man#bard_q1"
+msgid "being at least ^660000Job Level 40^000000 to"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "be able to handle that power...";
+msgctxt "Young Man#bard_q1"
+msgid "be able to handle that power..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^333333*Sigh*^000000 Well, maybe all Bards";
+msgctxt "Young Man#bard_q1"
+msgid "^333333*Sigh*^000000 Well, maybe all Bards"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "and Minstrels aren't terrifying. But any Bard will remind me";
+msgctxt "Young Man#bard_q1"
+msgid "and Minstrels aren't terrifying. But any Bard will remind me"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "of the one that I met during my";
+msgctxt "Young Man#bard_q1"
+msgid "of the one that I met during my"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "travels. Just thinking about";
+msgctxt "Young Man#bard_q1"
+msgid "travels. Just thinking about"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "that time gives me goosebumps.";
+msgctxt "Young Man#bard_q1"
+msgid "that time gives me goosebumps."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "that a few people have died";
+msgctxt "Young Man#bard_q1"
+msgid "that a few people have died"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "by jumping. Then, he just...";
+msgctxt "Young Man#bard_q1"
+msgid "by jumping. Then, he just..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "He gave me this intense look.";
+msgctxt "Young Man#bard_q1"
+msgid "He gave me this intense look."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Eh...?! Um, th-that's";
+msgctxt "Young Man#bard_q1"
+msgid "Eh...?! Um, th-that's"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "nice of y-you to offer,";
+msgctxt "Young Man#bard_q1"
+msgid "nice of y-you to offer,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "but I'm p-pretty picky";
+msgctxt "Young Man#bard_q1"
+msgid "but I'm p-pretty picky"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "about what I d-drink.";
+msgctxt "Young Man#bard_q1"
+msgid "about what I d-drink."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "P-plus, I don't k-know";
+msgctxt "Young Man#bard_q1"
+msgid "P-plus, I don't k-know"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "if I can t-trust you.";
+msgctxt "Young Man#bard_q1"
+msgid "if I can t-trust you."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I don't think there's";
+msgctxt "Young Man#bard_q1"
+msgid "I don't think there's"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "much that could get m-me";
+msgctxt "Young Man#bard_q1"
+msgid "much that could get m-me"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "to ch-change my m-mind!";
+msgctxt "Young Man#bard_q1"
+msgid "to ch-change my m-mind!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Well... Maybe if you brought";
+msgctxt "Young Man#bard_q1"
+msgid "Well... Maybe if you brought"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "my favorite drink, Tropical";
+msgctxt "Young Man#bard_q1"
+msgid "my favorite drink, Tropical"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Sograt, I would reconsider...";
+msgctxt "Young Man#bard_q1"
+msgid "Sograt, I would reconsider..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Don't worry,";
+msgctxt "Young Man#bard_q1"
+msgid "Don't worry,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I won't hurt you.";
+msgctxt "Young Man#bard_q1"
+msgid "I won't hurt you."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Th-that's what th-they";
+msgctxt "Young Man#bard_q1"
+msgid "Th-that's what th-they"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "all say, right before they";
+msgctxt "Young Man#bard_q1"
+msgid "all say, right before they"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "get into your mind and then";
+msgctxt "Young Man#bard_q1"
+msgid "get into your mind and then"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "twist it as hard as they can!";
+msgctxt "Young Man#bard_q1"
+msgid "twist it as hard as they can!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "J-just don't t-touch me!";
+msgctxt "Young Man#bard_q1"
+msgid "J-just don't t-touch me!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "...Ack! And stay away!";
+msgctxt "Young Man#bard_q1"
+msgid "...Ack! And stay away!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "E-even if you d-don't have";
+msgctxt "Young Man#bard_q1"
+msgid "E-even if you d-don't have"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "that p-power, l-leave me alone!";
+msgctxt "Young Man#bard_q1"
+msgid "that p-power, l-leave me alone!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Oh... Oh goodness.";
+msgctxt "Young Man#bard_q1"
+msgid "Oh... Oh goodness."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Was that a Bard just";
+msgctxt "Young Man#bard_q1"
+msgid "Was that a Bard just"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "over there? Oh, I'm so";
+msgctxt "Young Man#bard_q1"
+msgid "over there? Oh, I'm so"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "afraid of those guys!";
+msgctxt "Young Man#bard_q1"
+msgid "afraid of those guys!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "And those Minstrels";
+msgctxt "Young Man#bard_q1"
+msgid "And those Minstrels"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "are even worse!";
+msgctxt "Young Man#bard_q1"
+msgid "are even worse!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Don't get me wrong, I love";
+msgctxt "Young Man#bard_q1"
+msgid "Don't get me wrong, I love"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "songs and entertainment,";
+msgctxt "Young Man#bard_q1"
+msgid "songs and entertainment,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "but you've got to understand!";
+msgctxt "Young Man#bard_q1"
+msgid "but you've got to understand!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Some of them have powers";
+msgctxt "Young Man#bard_q1"
+msgid "Some of them have powers"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "that you wouldn't believe!";
+msgctxt "Young Man#bard_q1"
+msgid "that you wouldn't believe!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I... I've seen them myself!";
+msgctxt "Young Man#bard_q1"
+msgid "I... I've seen them myself!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Riott]";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "[Riott]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Geh heh heh~";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Geh heh heh~"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Been making good use of";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Been making good use of"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "what I taught you? Just be";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "what I taught you? Just be"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "careful and don't use that skill recklessly. Otherwise, people";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "careful and don't use that skill recklessly. Otherwise, people"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "will hate you as they hate me.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "will hate you as they hate me."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Your enemies, and the";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Your enemies, and the"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "occasional drunkard, on";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "occasional drunkard, on"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "the other hand, are different";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "the other hand, are different"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "matters entirely! Bwah hah hah!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "matters entirely! Bwah hah hah!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Impossible! You forgot";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Impossible! You forgot"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "everything I've taught you?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "everything I've taught you?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "How can that be? Oh well, it's";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "How can that be? Oh well, it's"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "no trouble for me to teach that";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "no trouble for me to teach that"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "to you again if you'd like.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "to you again if you'd like."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# if (select("No, thanks.", "Thanks, I'd appreciate that.") == 1) {
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# if (select("No, thanks.", "Thanks, I'd appreciate that.") == 1) {
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Thanks, I'd appreciate that."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "What...?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "What...?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "You really don't";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "You really don't"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "want to learn it?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "want to learn it?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I assure you there's";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I assure you there's"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "no strings attached.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "no strings attached."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "If you change your mind...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "If you change your mind..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "First, you must stare";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "First, you must stare"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "fiercely into the eyes of";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "fiercely into the eyes of"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "your target, and focus on";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "your target, and focus on"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "thoughts of dominance. This";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "thoughts of dominance. This"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "is the basis for mesmerization. Now listen to this incantation...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "is the basis for mesmerization. Now listen to this incantation..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Uuuummm Baaalaaaa";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Uuuummm Baaalaaaa"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Uuuummmm Baaalaaa~";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Uuuummmm Baaalaaa~"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Kkkkuuurrirrreeee";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Kkkkuuurrirrreeee"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Oooumm guandlejdl";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Oooumm guandlejdl"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Woooo Ei ei ei ei......";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Woooo Ei ei ei ei......"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Pang's Voice is used to";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Pang's Voice is used to"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "confuse people and disrupt";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "confuse people and disrupt"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "control of their bodies. It's not a fatal skill, but it is effective";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "control of their bodies. It's not a fatal skill, but it is effective"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "in mentally upsetting your enemy. Make very wise use of this skill.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "in mentally upsetting your enemy. Make very wise use of this skill."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Ah, you've brought me";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Ah, you've brought me"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "a Munak Doll made by";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "a Munak Doll made by"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Yao Jun, just like you said";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Yao Jun, just like you said"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you would. Ah yes, this is her";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "you would. Ah yes, this is her"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "craftsmanship, impeccable";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "craftsmanship, impeccable"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "as always. You've done well~";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "as always. You've done well~"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "To fulfill my part of this";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "To fulfill my part of this"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "bargain, I shall now teach";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "bargain, I shall now teach"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you my special skill. Now,";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "you my special skill. Now,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I developed this by listening";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I developed this by listening"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "to incantations by the Utan";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "to incantations by the Utan"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Shaman in Umbala.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Shaman in Umbala."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "''Toad's leg, Verit's heart,";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "''Toad's leg, Verit's heart,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "spinning stars, spilling zeny,";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "spinning stars, spilling zeny,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "hands and feet tied. Is this";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "hands and feet tied. Is this"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "voices yours, is this voice";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "voices yours, is this voice"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "mine. Head spinning, head";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "mine. Head spinning, head"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "spinning, head spinning...!''";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "spinning, head spinning...!''"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Remember, it doesn't matter";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Remember, it doesn't matter"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "what you say, but how you say";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "what you say, but how you say"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "it. Hypnotically induce your";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "it. Hypnotically induce your"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "target with a forbiddenly";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "target with a forbiddenly"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "seductive rhythm and your";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "seductive rhythm and your"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "grasp will be inescapable!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "grasp will be inescapable!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Ah, and use sleight of";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Ah, and use sleight of"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "hand to distract your target";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "hand to distract your target"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "from your true motive! I find";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "from your true motive! I find"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "that casting Unbarring Octave";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "that casting Unbarring Octave"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "with this skill works best. This skill's name is ''Pang Voice!''";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "with this skill works best. This skill's name is ''Pang Voice!''"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "''Pang Voice'' will mentally";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "''Pang Voice'' will mentally"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "shock your target and disrupt";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "shock your target and disrupt"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "control of his own body for";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "control of his own body for"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "a while. You can't exert control";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "a while. You can't exert control"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "over victims with this skill, but they usually assume otherwise...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "over victims with this skill, but they usually assume otherwise..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "You need to be judicious in";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "You need to be judicious in"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "your use of this skill! Don't";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "your use of this skill! Don't"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "use it recklessly, or people";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "use it recklessly, or people"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "will come to hate you as they";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "will come to hate you as they"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "hate me. But ''Pang Voice'' can be welcome is certain situations.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "hate me. But ''Pang Voice'' can be welcome is certain situations."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Subject your enemies to";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Subject your enemies to"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Pang Voice as much as you";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Pang Voice as much as you"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "like, and no one will blame";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "like, and no one will blame"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you for it. And you can get away with casting Pang Voice on bullies";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "you for it. And you can get away with casting Pang Voice on bullies"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "and drunkards occasionally...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "and drunkards occasionally..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Hmpf. Weren't able";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Hmpf. Weren't able"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "to find me a Munak Doll";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "to find me a Munak Doll"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "yet? Well, don't worry, I'm";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "yet? Well, don't worry, I'm"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "a patient man. Just try to get";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "a patient man. Just try to get"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "one for me as soon as you can.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "one for me as soon as you can."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "some fresh eggs laid by";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "some fresh eggs laid by"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Yhelle, just like I asked.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Yhelle, just like I asked."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I'm sure it was dangerous";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I'm sure it was dangerous"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "going to Nifflheim, but the flavor of these eggs is worth it.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "going to Nifflheim, but the flavor of these eggs is worth it."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Hmm... You didn't";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Hmm... You didn't"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "bring enough Eggs...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "bring enough Eggs..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "This will not do. It'll";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "This will not do. It'll"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "be a while until Yhelle";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "be a while until Yhelle"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "will be able to lay more";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "will be able to lay more"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "eggs. Yes, this isn't enough...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "eggs. Yes, this isn't enough..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Well, to make up for the";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Well, to make up for the"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "missing eggs, go and get ";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "missing eggs, go and get "
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "me ^4D4DFF1 Munak Doll^000000. I know that";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "me ^4D4DFF1 Munak Doll^000000. I know that"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Yao Jun's Munak Dolls are";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Yao Jun's Munak Dolls are"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "masterpieces, and I am an";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "masterpieces, and I am an"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "an avid collector of her work.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "an avid collector of her work."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "In the meanwhile,";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "In the meanwhile,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I'll enjoy the few";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I'll enjoy the few"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "eggs that you do have!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "eggs that you do have!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Bweh heh heh heh heh!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Bweh heh heh heh heh!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "So have you been";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "So have you been"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "having trouble gathering";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "having trouble gathering"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "eggs from Yhelle? I know";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "eggs from Yhelle? I know"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "she can be one fast running";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "she can be one fast running"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "chicken. But to survive where";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "chicken. But to survive where"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "she roosts, she has to be.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "she roosts, she has to be."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Hmmrmpf!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Hmmrmpf!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Eh heh heh heh!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Eh heh heh heh!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[" + strcharinfo(PC_NAME) + "]";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "["
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Um...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Um..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "What's so funny?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "What's so funny?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Hm? Ah! That's one of the";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Hm? Ah! That's one of the"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Black Seals that can only";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Black Seals that can only"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "be given by Kino Kitty. You";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "be given by Kino Kitty. You"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "must be a person of great";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "must be a person of great"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "emotional depth if he favors";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "emotional depth if he favors"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you enough to give you that.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "you enough to give you that."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Silver Seals that can only";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Silver Seals that can only"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "be given by Errende. You";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "be given by Errende. You"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "must be truly kind at heart";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "must be truly kind at heart"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "if he has offered to be your";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "if he has offered to be your"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "friend. How about that?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "friend. How about that?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Hey, take a look";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Hey, take a look"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "at those two drunks";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "at those two drunks"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "all the way over there.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "all the way over there."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Yeah, I can see them.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Yeah, I can see them."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "But what's so special";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "But what's so special"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "about those two guys?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "about those two guys?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Just...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Just..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Keep watching.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Keep watching."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFRiott stared intensely";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "^3355FFRiott stared intensely"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "at one of the drunken men";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "at one of the drunken men"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "and began to harshly murmur";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "and began to harshly murmur"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "some indistinct words in a";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "some indistinct words in a"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "low, hoarse voice. One of the";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "low, hoarse voice. One of the"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "men starts slightly convulsing.^000000";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "men starts slightly convulsing.^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Little Bit Drunken Guy]";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "[Little Bit Drunken Guy]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "H-hey...! ^333333*Hiccup!*^000000";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "H-hey...! ^333333*Hiccup!*^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "What are you doing?!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "What are you doing?!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "K-keep your hands to";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "K-keep your hands to"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "yourself! Do I look";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "yourself! Do I look"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "like a woman to you?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "like a woman to you?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[More Drunken Guy]";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "[More Drunken Guy]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "What are you talking";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "What are you talking"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "about? Wh-what?! Why";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "about? Wh-what?! Why"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "are my arms all wrapped";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "are my arms all wrapped"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "around you? S-sorry, I was";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "around you? S-sorry, I was"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "trying to just go that w--";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "trying to just go that w--"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I wasn't trying to hug you!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I wasn't trying to hug you!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Bumping into me,";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Bumping into me,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I understand. But a full";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I understand. But a full"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "blown hug? Come on, now!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "blown hug? Come on, now!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "That was totally on purpose!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "That was totally on purpose!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Wh-what? My h-hand! It's...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Wh-what? My h-hand! It's..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "It's moving my itself?!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "It's moving my itself?!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Ack! Wh-what are";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Ack! Wh-what are"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you doing! S-stop";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "you doing! S-stop"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "touching my butt!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "touching my butt!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFThe two men continued";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "^3355FFThe two men continued"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "to gesticulate and move";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "to gesticulate and move"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "wildly without direction.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "wildly without direction."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Those two...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Those two..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Those two probably";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Those two probably"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "had way too much to drink.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "had way too much to drink."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Nah, they just lost";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Nah, they just lost"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "control of their bodies";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "control of their bodies"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "for a bit. It's the result";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "for a bit. It's the result"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "of my skill which sort of";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "of my skill which sort of"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "scrambles their minds.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "scrambles their minds."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Mind scrambling?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Mind scrambling?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Wait, are you the same";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Wait, are you the same"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Bard who made someone";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Bard who made someone"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "jump off Umbala's Bungee";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "jump off Umbala's Bungee"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Jump against his will?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Jump against his will?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Huh? How did you";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Huh? How did you"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "learn about that?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "learn about that?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I'm not proud of that,";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I'm not proud of that,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "(even though it was";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "(even though it was"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "hilarious at the time)";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "hilarious at the time)"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "but yeah, that was me.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "but yeah, that was me."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# if (select("Please teach me that skill!", "Oh, alright. Just checking.") == 1) {
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Please teach me that skill!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# if (select("Please teach me that skill!", "Oh, alright. Just checking.") == 1) {
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Oh, alright. Just checking."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Hm? You want to learn";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Hm? You want to learn"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "how to scramble minds";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "how to scramble minds"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "like I did just now? Well,";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "like I did just now? Well,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I invented this skill, though";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I invented this skill, though"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I did have a lot of help from";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I did have a lot of help from"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "the Utan Shaman. Let's see...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "the Utan Shaman. Let's see..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Alright. If you want me";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Alright. If you want me"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "to teach you, then bring me";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "to teach you, then bring me"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "5 Eggs from a chicken named";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "5 Eggs from a chicken named"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Yhelle. Yhelle lays the highest";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Yhelle. Yhelle lays the highest"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "quality eggs: they're delicious";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "quality eggs: they're delicious"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "and great for a Bard's voice~";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "and great for a Bard's voice~"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "However, this chicken roosts";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "However, this chicken roosts"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "in a strange, dangerous place.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "in a strange, dangerous place."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "You'll need to explore this huge, mysterious tree in Umbala in order";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "You'll need to explore this huge, mysterious tree in Umbala in order"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "to get there. Last time I went,";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "to get there. Last time I went,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I pretty much almost died.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I pretty much almost died."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Alright...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Alright..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "So don't forget";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "So don't forget"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "to come back here";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "to come back here"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "and bring me back";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "and bring me back"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^4D4DFF5 Yhelle's Eggs^000000, alright?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "^4D4DFF5 Yhelle's Eggs^000000, alright?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Boy, you're a curious one.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Boy, you're a curious one."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "But if you know about that";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "But if you know about that"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "and you bumped into me, you";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "and you bumped into me, you"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "must certainly travel around";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "must certainly travel around"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "a lot. I can respect a good,";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "a lot. I can respect a good,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "seasoned adventurer like you.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "seasoned adventurer like you."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Wha...?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Wha...?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I can't believe you.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I can't believe you."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Mind scrambling? That";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Mind scrambling? That"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "doesn't make any sense!";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "doesn't make any sense!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "They're just really drunk...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "They're just really drunk..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "How dare you question my";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "How dare you question my"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "power? Oh well, I suppose";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "power? Oh well, I suppose"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I really can't be too angry.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I really can't be too angry."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Most people who do believe";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Most people who do believe"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "me usually claim that I'm";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "me usually claim that I'm"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "an axis of evil about now...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "an axis of evil about now..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Eh, nothing much. Say,";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Eh, nothing much. Say,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you don't have any Bard";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "you don't have any Bard"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Seals? That's a sure sign";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Seals? That's a sure sign"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "that you haven't been really";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "that you haven't been really"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "connecting with the Bard";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "connecting with the Bard"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "community. That's a shame...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "community. That's a shame..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "*Sigh* Alright, I know";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "*Sigh* Alright, I know"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "how you can meet more Bards.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "how you can meet more Bards."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Why don't you try making friends with Errende? Look for a Bard";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Why don't you try making friends with Errende? Look for a Bard"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "dressed in green in Geffen and";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "dressed in green in Geffen and"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you should be able to find him.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "you should be able to find him."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Yeah, I can see";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Yeah, I can see"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "together. But what";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "together. But what"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "about them?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "about them?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I notice you don't have";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "I notice you don't have"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "any Bard seals. That tells";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "any Bard seals. That tells"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "me that you don't really";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "me that you don't really"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "meet that many Bards. You";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "meet that many Bards. You"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "should really change that.";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "should really change that."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Bards and Minstrels can";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "Bards and Minstrels can"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "make some pretty handy";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "make some pretty handy"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "friends if you give them";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "friends if you give them"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "a chance. Here, why don't";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "a chance. Here, why don't"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you find Errende in Geffen?";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "you find Errende in Geffen?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "He's a pretty popular guy...";
+msgctxt "Spiteful-Looking Bard#bs"
+msgid "He's a pretty popular guy..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Hen Yhelle]";
+msgctxt "Yhelle#bard_chick1"
+msgid "[Hen Yhelle]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck-Cluuuck?";
+msgctxt "Yhelle#bard_chick1"
+msgid "Cluck-Cluuuck?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck cluck cluck!";
+msgctxt "Yhelle#bard_chick1"
+msgid "Cluck cluck cluck!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFUpon sensing your";
+msgctxt "Yhelle#bard_chick1"
+msgid "^3355FFUpon sensing your"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "presense, the hen";
+msgctxt "Yhelle#bard_chick1"
+msgid "presense, the hen"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "quickly ran away.^000000";
+msgctxt "Yhelle#bard_chick1"
+msgid "quickly ran away.^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Hen Yhelle]";
+msgctxt "Yhelle#bard_chick2"
+msgid "[Hen Yhelle]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck-Cluuuck?";
+msgctxt "Yhelle#bard_chick2"
+msgid "Cluck-Cluuuck?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck cluck cluck!";
+msgctxt "Yhelle#bard_chick2"
+msgid "Cluck cluck cluck!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFUpon sensing your";
+msgctxt "Yhelle#bard_chick2"
+msgid "^3355FFUpon sensing your"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "presense, the hen";
+msgctxt "Yhelle#bard_chick2"
+msgid "presense, the hen"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "quickly ran away.^000000";
+msgctxt "Yhelle#bard_chick2"
+msgid "quickly ran away.^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Hen Yhelle]";
+msgctxt "Yhelle#bard_chick3"
+msgid "[Hen Yhelle]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck-Cluuuck?";
+msgctxt "Yhelle#bard_chick3"
+msgid "Cluck-Cluuuck?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck cluck cluck!";
+msgctxt "Yhelle#bard_chick3"
+msgid "Cluck cluck cluck!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFUpon sensing your";
+msgctxt "Yhelle#bard_chick3"
+msgid "^3355FFUpon sensing your"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "presense, the hen";
+msgctxt "Yhelle#bard_chick3"
+msgid "presense, the hen"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "quickly ran away.^000000";
+msgctxt "Yhelle#bard_chick3"
+msgid "quickly ran away.^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Hen Yhelle]";
+msgctxt "Yhelle#bard_chick4"
+msgid "[Hen Yhelle]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck-Cluuuck?";
+msgctxt "Yhelle#bard_chick4"
+msgid "Cluck-Cluuuck?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck cluck cluck!";
+msgctxt "Yhelle#bard_chick4"
+msgid "Cluck cluck cluck!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFUpon sensing your";
+msgctxt "Yhelle#bard_chick4"
+msgid "^3355FFUpon sensing your"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "presense, the hen";
+msgctxt "Yhelle#bard_chick4"
+msgid "presense, the hen"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "quickly ran away.^000000";
+msgctxt "Yhelle#bard_chick4"
+msgid "quickly ran away.^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Hen Yhelle]";
+msgctxt "Yhelle#bard_chick5"
+msgid "[Hen Yhelle]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck-Cluuuck?";
+msgctxt "Yhelle#bard_chick5"
+msgid "Cluck-Cluuuck?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck cluck cluck!";
+msgctxt "Yhelle#bard_chick5"
+msgid "Cluck cluck cluck!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFUpon sensing your";
+msgctxt "Yhelle#bard_chick5"
+msgid "^3355FFUpon sensing your"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "presense, the hen";
+msgctxt "Yhelle#bard_chick5"
+msgid "presense, the hen"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "quickly ran away.^000000";
+msgctxt "Yhelle#bard_chick5"
+msgid "quickly ran away.^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Little Bit Drunken Guy]";
+msgctxt "Customer#bard_skill01"
+msgid "[Little Bit Drunken Guy]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "What do you think";
+msgctxt "Customer#bard_skill01"
+msgid "What do you think"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "is the best drink in";
+msgctxt "Customer#bard_skill01"
+msgid "is the best drink in"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "all the world? I think";
+msgctxt "Customer#bard_skill01"
+msgid "all the world? I think"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "the Tri-- Tristan? What";
+msgctxt "Customer#bard_skill01"
+msgid "the Tri-- Tristan? What"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "was it called again?";
+msgctxt "Customer#bard_skill01"
+msgid "was it called again?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[More Drunken Guy]";
+msgctxt "Customer#bard_skill01"
+msgid "[More Drunken Guy]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Oh! 13 Year Old Tristan?";
+msgctxt "Customer#bard_skill01"
+msgid "Oh! 13 Year Old Tristan?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "That's a great drink, sure,";
+msgctxt "Customer#bard_skill01"
+msgid "That's a great drink, sure,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "but it's way too expensive for";
+msgctxt "Customer#bard_skill01"
+msgid "but it's way too expensive for"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "anything less than a special";
+msgctxt "Customer#bard_skill01"
+msgid "anything less than a special"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "occasion. ^333333*Hiccup*^000000 Personally,";
+msgctxt "Customer#bard_skill01"
+msgid "occasion. ^333333*Hiccup*^000000 Personally,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I really like Ver... Uh, Ver...";
+msgctxt "Customer#bard_skill01"
+msgid "I really like Ver... Uh, Ver..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Vermilion on the Beach?";
+msgctxt "Customer#bard_skill01"
+msgid "Vermilion on the Beach?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Yeah, that's really good,";
+msgctxt "Customer#bard_skill01"
+msgid "Yeah, that's really good,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you'll pass out after just";
+msgctxt "Customer#bard_skill01"
+msgid "you'll pass out after just"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "having one shot! Yeah...";
+msgctxt "Customer#bard_skill01"
+msgid "having one shot! Yeah..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Tro... Tropical! People say";
+msgctxt "Customer#bard_skill01"
+msgid "Tro... Tropical! People say"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "that's good too. Wait, what?";
+msgctxt "Customer#bard_skill01"
+msgid "that's good too. Wait, what?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "H-hey...! ^333333*Hiccup!*^000000";
+msgctxt "Customer#bard_skill01"
+msgid "H-hey...! ^333333*Hiccup!*^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "What are you doing?!";
+msgctxt "Customer#bard_skill01"
+msgid "What are you doing?!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "K-keep your hands to";
+msgctxt "Customer#bard_skill01"
+msgid "K-keep your hands to"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "yourself! Do I look";
+msgctxt "Customer#bard_skill01"
+msgid "yourself! Do I look"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "like a woman to you?";
+msgctxt "Customer#bard_skill01"
+msgid "like a woman to you?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "What are you talking";
+msgctxt "Customer#bard_skill01"
+msgid "What are you talking"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "about? Wh-what?! Why";
+msgctxt "Customer#bard_skill01"
+msgid "about? Wh-what?! Why"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "are my arms all wrapped";
+msgctxt "Customer#bard_skill01"
+msgid "are my arms all wrapped"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "around you? S-sorry, I was";
+msgctxt "Customer#bard_skill01"
+msgid "around you? S-sorry, I was"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "trying to just go that w--";
+msgctxt "Customer#bard_skill01"
+msgid "trying to just go that w--"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I wasn't trying to hug you!";
+msgctxt "Customer#bard_skill01"
+msgid "I wasn't trying to hug you!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Bumping into me,";
+msgctxt "Customer#bard_skill01"
+msgid "Bumping into me,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I understand. But a full";
+msgctxt "Customer#bard_skill01"
+msgid "I understand. But a full"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "blown hug? Come on, now!";
+msgctxt "Customer#bard_skill01"
+msgid "blown hug? Come on, now!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "That was totally on purpose!";
+msgctxt "Customer#bard_skill01"
+msgid "That was totally on purpose!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Wh-what? My h-hand! It's...";
+msgctxt "Customer#bard_skill01"
+msgid "Wh-what? My h-hand! It's..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "It's moving my itself?!";
+msgctxt "Customer#bard_skill01"
+msgid "It's moving my itself?!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Ack! Wh-what are";
+msgctxt "Customer#bard_skill01"
+msgid "Ack! Wh-what are"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you doing! S-stop";
+msgctxt "Customer#bard_skill01"
+msgid "you doing! S-stop"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "touching my butt!";
+msgctxt "Customer#bard_skill01"
+msgid "touching my butt!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFA Bard in the room";
+msgctxt "Customer#bard_skill01"
+msgid "^3355FFA Bard in the room"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "watches the two drunk";
+msgctxt "Customer#bard_skill01"
+msgid "watches the two drunk"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "men intently and giggles";
+msgctxt "Customer#bard_skill01"
+msgid "men intently and giggles"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "at their stupor. Remember:";
+msgctxt "Customer#bard_skill01"
+msgid "at their stupor. Remember:"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "drinking too much isn't good!^000000";
+msgctxt "Customer#bard_skill01"
+msgid "drinking too much isn't good!^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Little Bit Drunken Guy]";
+msgctxt "Customer#bard_skill02"
+msgid "[Little Bit Drunken Guy]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "What do you think";
+msgctxt "Customer#bard_skill02"
+msgid "What do you think"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "is the best drink in";
+msgctxt "Customer#bard_skill02"
+msgid "is the best drink in"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "all the world? I think";
+msgctxt "Customer#bard_skill02"
+msgid "all the world? I think"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "the Tri-- Tristan? What";
+msgctxt "Customer#bard_skill02"
+msgid "the Tri-- Tristan? What"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "was it called again?";
+msgctxt "Customer#bard_skill02"
+msgid "was it called again?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[More Drunken Guy]";
+msgctxt "Customer#bard_skill02"
+msgid "[More Drunken Guy]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Oh! 13 Year Old Tristan?";
+msgctxt "Customer#bard_skill02"
+msgid "Oh! 13 Year Old Tristan?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "That's a great drink, sure,";
+msgctxt "Customer#bard_skill02"
+msgid "That's a great drink, sure,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "but it's way too expensive for";
+msgctxt "Customer#bard_skill02"
+msgid "but it's way too expensive for"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "anything less than a special";
+msgctxt "Customer#bard_skill02"
+msgid "anything less than a special"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "occasion. ^333333*Hiccup*^000000 Personally,";
+msgctxt "Customer#bard_skill02"
+msgid "occasion. ^333333*Hiccup*^000000 Personally,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I really like Ver... Uh, Ver...";
+msgctxt "Customer#bard_skill02"
+msgid "I really like Ver... Uh, Ver..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Vermilion on the Beach?";
+msgctxt "Customer#bard_skill02"
+msgid "Vermilion on the Beach?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Yeah, that's really good,";
+msgctxt "Customer#bard_skill02"
+msgid "Yeah, that's really good,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you'll pass out after just";
+msgctxt "Customer#bard_skill02"
+msgid "you'll pass out after just"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "having one shot! Yeah...";
+msgctxt "Customer#bard_skill02"
+msgid "having one shot! Yeah..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Tro... Tropical! People say";
+msgctxt "Customer#bard_skill02"
+msgid "Tro... Tropical! People say"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "that's good too. Wait, what?";
+msgctxt "Customer#bard_skill02"
+msgid "that's good too. Wait, what?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "H-hey...! ^333333*Hiccup!*^000000";
+msgctxt "Customer#bard_skill02"
+msgid "H-hey...! ^333333*Hiccup!*^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "What are you doing?!";
+msgctxt "Customer#bard_skill02"
+msgid "What are you doing?!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "K-keep your hands to";
+msgctxt "Customer#bard_skill02"
+msgid "K-keep your hands to"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "yourself! Do I look";
+msgctxt "Customer#bard_skill02"
+msgid "yourself! Do I look"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "like a woman to you?";
+msgctxt "Customer#bard_skill02"
+msgid "like a woman to you?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "What are you talking";
+msgctxt "Customer#bard_skill02"
+msgid "What are you talking"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "about? Wh-what?! Why";
+msgctxt "Customer#bard_skill02"
+msgid "about? Wh-what?! Why"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "are my arms all wrapped";
+msgctxt "Customer#bard_skill02"
+msgid "are my arms all wrapped"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "around you? S-sorry, I was";
+msgctxt "Customer#bard_skill02"
+msgid "around you? S-sorry, I was"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "trying to just go that w--";
+msgctxt "Customer#bard_skill02"
+msgid "trying to just go that w--"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I wasn't trying to hug you!";
+msgctxt "Customer#bard_skill02"
+msgid "I wasn't trying to hug you!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Bumping into me,";
+msgctxt "Customer#bard_skill02"
+msgid "Bumping into me,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I understand. But a full";
+msgctxt "Customer#bard_skill02"
+msgid "I understand. But a full"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "blown hug? Come on, now!";
+msgctxt "Customer#bard_skill02"
+msgid "blown hug? Come on, now!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "That was totally on purpose!";
+msgctxt "Customer#bard_skill02"
+msgid "That was totally on purpose!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Wh-what? My h-hand! It's...";
+msgctxt "Customer#bard_skill02"
+msgid "Wh-what? My h-hand! It's..."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "It's moving my itself?!";
+msgctxt "Customer#bard_skill02"
+msgid "It's moving my itself?!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Ack! Wh-what are";
+msgctxt "Customer#bard_skill02"
+msgid "Ack! Wh-what are"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you doing! S-stop";
+msgctxt "Customer#bard_skill02"
+msgid "you doing! S-stop"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "touching my butt!";
+msgctxt "Customer#bard_skill02"
+msgid "touching my butt!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFA Bard in the room";
+msgctxt "Customer#bard_skill02"
+msgid "^3355FFA Bard in the room"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "watches the two drunk";
+msgctxt "Customer#bard_skill02"
+msgid "watches the two drunk"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "men intently and giggles";
+msgctxt "Customer#bard_skill02"
+msgid "men intently and giggles"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "at their stupor. Remember:";
+msgctxt "Customer#bard_skill02"
+msgid "at their stupor. Remember:"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "drinking too much isn't good!^000000";
+msgctxt "Customer#bard_skill02"
+msgid "drinking too much isn't good!^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFHold it right there!";
+msgctxt "Bartender#bard_qskill"
+msgid "^3355FFHold it right there!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "You're carrying too many items and don't have enough inventory space to receive any rewards. Please make more inventory space available and come back to take this challenge.";
+msgctxt "Bartender#bard_qskill"
+msgid "You're carrying too many items and don't have enough inventory space to receive any rewards. Please make more inventory space available and come back to take this challenge."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Bartender]";
+msgctxt "Bartender#bard_qskill"
+msgid "[Bartender]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "So what would";
+msgctxt "Bartender#bard_qskill"
+msgid "So what would"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "you like to order?";
+msgctxt "Bartender#bard_qskill"
+msgid "you like to order?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# switch(select("Tropical Sograt", "Vermilion on the Beach", "Nothing, thanks.")) {
+msgctxt "Bartender#bard_qskill"
+msgid "Tropical Sograt"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# switch(select("Tropical Sograt", "Vermilion on the Beach", "Nothing, thanks.")) {
+msgctxt "Bartender#bard_qskill"
+msgid "Vermilion on the Beach"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# switch(select("Tropical Sograt", "Vermilion on the Beach", "Nothing, thanks.")) {
+msgctxt "Bartender#bard_qskill"
+msgid "Nothing, thanks."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "You sure you can carry";
+msgctxt "Bartender#bard_qskill"
+msgid "You sure you can carry"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "any more stuff with you?";
+msgctxt "Bartender#bard_qskill"
+msgid "any more stuff with you?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Damn, it doesn't look that";
+msgctxt "Bartender#bard_qskill"
+msgid "Damn, it doesn't look that"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "way to me. Take a load off,";
+msgctxt "Bartender#bard_qskill"
+msgid "way to me. Take a load off,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "and put some stuff with in";
+msgctxt "Bartender#bard_qskill"
+msgid "and put some stuff with in"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "your Kafra Storage, alright?";
+msgctxt "Bartender#bard_qskill"
+msgid "your Kafra Storage, alright?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes " You sure you can afford";
+msgctxt "Bartender#bard_qskill"
+msgid " You sure you can afford"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "this now? This drink's";
+msgctxt "Bartender#bard_qskill"
+msgid "this now? This drink's"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "1,000 zeny, so you better";
+msgctxt "Bartender#bard_qskill"
+msgid "1,000 zeny, so you better"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "check the cash you have";
+msgctxt "Bartender#bard_qskill"
+msgid "check the cash you have"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "onhand. Eh, just come back";
+msgctxt "Bartender#bard_qskill"
+msgid "onhand. Eh, just come back"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "later when you have the money.";
+msgctxt "Bartender#bard_qskill"
+msgid "later when you have the money."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Here you are,";
+msgctxt "Bartender#bard_qskill"
+msgid "Here you are,"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "1 Tropical Sograt.";
+msgctxt "Bartender#bard_qskill"
+msgid "1 Tropical Sograt."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "It tastes sweet and";
+msgctxt "Bartender#bard_qskill"
+msgid "It tastes sweet and"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "mild, but if you're not";
+msgctxt "Bartender#bard_qskill"
+msgid "mild, but if you're not"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "careful, you'll pass out";
+msgctxt "Bartender#bard_qskill"
+msgid "careful, you'll pass out"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "in no time flat. Take it easy.";
+msgctxt "Bartender#bard_qskill"
+msgid "in no time flat. Take it easy."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "You sure you can afford";
+msgctxt "Bartender#bard_qskill"
+msgid "You sure you can afford"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Here you go.";
+msgctxt "Bartender#bard_qskill"
+msgid "Here you go."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Be sure that you";
+msgctxt "Bartender#bard_qskill"
+msgid "Be sure that you"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "enjoy your drinking";
+msgctxt "Bartender#bard_qskill"
+msgid "enjoy your drinking"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "without going crazy.";
+msgctxt "Bartender#bard_qskill"
+msgid "without going crazy."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Alright, then.";
+msgctxt "Bartender#bard_qskill"
+msgid "Alright, then."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "I'll see you around.";
+msgctxt "Bartender#bard_qskill"
+msgid "I'll see you around."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFHold it right there!";
+msgctxt "F_BardSkillYhelle"
+msgid "^3355FFHold it right there!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "You're carrying too many items and don't have enough inventory space to receive any rewards. Please make more inventory space available and come back to take this challenge.";
+msgctxt "F_BardSkillYhelle"
+msgid "You're carrying too many items and don't have enough inventory space to receive any rewards. Please make more inventory space available and come back to take this challenge."
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "[Hen Yhelle]";
+msgctxt "F_BardSkillYhelle"
+msgid "[Hen Yhelle]"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck-Cluuuck?";
+msgctxt "F_BardSkillYhelle"
+msgid "Cluck-Cluuuck?"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Cluck cluck cluck!";
+msgctxt "F_BardSkillYhelle"
+msgid "Cluck cluck cluck!"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFUpon sensing your";
+msgctxt "F_BardSkillYhelle"
+msgid "^3355FFUpon sensing your"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "presense, the hen";
+msgctxt "F_BardSkillYhelle"
+msgid "presense, the hen"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "quickly ran away.^000000";
+msgctxt "F_BardSkillYhelle"
+msgid "quickly ran away.^000000"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "^3355FFYou found ^3333331 Egg^3355FF in the";
+msgctxt "F_BardSkillYhelle"
+msgid "^3355FFYou found ^3333331 Egg^3355FF in the"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "place where Yhelle the";
+msgctxt "F_BardSkillYhelle"
+msgid "place where Yhelle the"
+msgstr ""
+
+#: npc/quests/skills/bard_skills.txt
+# mes "Hen was roosting.^000000";
+msgctxt "F_BardSkillYhelle"
+msgid "Hen was roosting.^000000"
+msgstr ""

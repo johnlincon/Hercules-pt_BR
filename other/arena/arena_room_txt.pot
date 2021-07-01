@@ -1,0 +1,1730 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/other/arena/arena_room.txt
+# mes "[Vendigos]";
+msgctxt "Vendigos"
+msgid "[Vendigos]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Welcome to the world of Arena, the battle against a time limit.";
+msgctxt "Vendigos"
+msgid "Welcome to the world of Arena, the battle against a time limit."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "My name is Vendigos, I am here to help you.";
+msgctxt "Vendigos"
+msgid "My name is Vendigos, I am here to help you."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "If you have any questions, feel free to ask me.";
+msgctxt "Vendigos"
+msgid "If you have any questions, feel free to ask me."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("How to challenge", "About Arena Points", "My Current Arena Points", "Cancel")) {
+msgctxt "Vendigos"
+msgid "How to challenge"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("How to challenge", "About Arena Points", "My Current Arena Points", "Cancel")) {
+msgctxt "Vendigos"
+msgid "About Arena Points"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("How to challenge", "About Arena Points", "My Current Arena Points", "Cancel")) {
+msgctxt "Vendigos"
+msgid "My Current Arena Points"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("How to challenge", "About Arena Points", "My Current Arena Points", "Cancel")) {
+msgctxt "Vendigos"
+msgid "Cancel"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "There are two different kinds of arena mode such as ^3131FFPlayer Mode^000000 and ^3131FFParty Mode^000000.";
+msgctxt "Vendigos"
+msgid "There are two different kinds of arena mode such as ^3131FFPlayer Mode^000000 and ^3131FFParty Mode^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "^3131FFPlayer Mode^000000 consists of 4 different stages based on character level from 50~80.";
+msgctxt "Vendigos"
+msgid "^3131FFPlayer Mode^000000 consists of 4 different stages based on character level from 50~80."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "For a party with 5 members, they can participate in ^3131FFParty Mode^000000.";
+msgctxt "Vendigos"
+msgid "For a party with 5 members, they can participate in ^3131FFParty Mode^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "For ^3131FFeach Player Mode Stage^000000, characters who are 20 levels higher than the level requirement on each stage cannot enter. This is to prevent high level characters preoccupying a low level stage.";
+msgctxt "Vendigos"
+msgid "For ^3131FFeach Player Mode Stage^000000, characters who are 20 levels higher than the level requirement on each stage cannot enter. This is to prevent high level characters preoccupying a low level stage."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "There are the NPCs for Player Mode Stages from 12 o'clock direction to the reversed clock direction.";
+msgctxt "Vendigos"
+msgid "There are the NPCs for Player Mode Stages from 12 o'clock direction to the reversed clock direction."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "While you're waiting in a chat room, you will be automatically guided to an arena room by the waiting order.";
+msgctxt "Vendigos"
+msgid "While you're waiting in a chat room, you will be automatically guided to an arena room by the waiting order."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Let me explain about the ^3131FFArena Point^000000.";
+msgctxt "Vendigos"
+msgid "Let me explain about the ^3131FFArena Point^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "It is a reward point for players who ^3131FFsuccessfully cleared a arena stage^000000, a player can possess the maximum 30,000 points.";
+msgctxt "Vendigos"
+msgid "It is a reward point for players who ^3131FFsuccessfully cleared a arena stage^000000, a player can possess the maximum 30,000 points."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Even if you did not clear a stage due to time-over or other errors, you will be given a very small amount of arena points.";
+msgctxt "Vendigos"
+msgid "Even if you did not clear a stage due to time-over or other errors, you will be given a very small amount of arena points."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Regarding the use of Arena Points,";
+msgctxt "Vendigos"
+msgid "Regarding the use of Arena Points,"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "we are providing various services such as souvenir photograph services through an NPC named Givu.";
+msgctxt "Vendigos"
+msgid "we are providing various services such as souvenir photograph services through an NPC named Givu."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Let me check "+strcharinfo(PC_NAME)+"'s current arena points.";
+msgctxt "Vendigos"
+msgid "Let me check "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "If you wish to know how to use arena points, please refer to the 2nd menu ^3131FF'About Arena Points'^000000.";
+msgctxt "Vendigos"
+msgid "If you wish to know how to use arena points, please refer to the 2nd menu ^3131FF'About Arena Points'^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Okay then,";
+msgctxt "Vendigos"
+msgid "Okay then,"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "please have";
+msgctxt "Vendigos"
+msgid "please have"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "a good time.";
+msgctxt "Vendigos"
+msgid "a good time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Is there anything";
+msgctxt "Vendigos"
+msgid "Is there anything"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "more I can help you with?";
+msgctxt "Vendigos"
+msgid "more I can help you with?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Owen Kheuv]";
+msgctxt "Arena Record Staff"
+msgid "[Owen Kheuv]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Hello, my name is Own Kheuv";
+msgctxt "Arena Record Staff"
+msgid "Hello, my name is Own Kheuv"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "in charge of every arena stage record of players.";
+msgctxt "Arena Record Staff"
+msgid "in charge of every arena stage record of players."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Would you like to check the top record players in each stage?";
+msgctxt "Arena Record Staff"
+msgid "Would you like to check the top record players in each stage?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "If so, please choose a menu below.";
+msgctxt "Arena Record Staff"
+msgid "If so, please choose a menu below."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Lv 50 Stage", "Lv 60 Stage", "Lv 70 Stage", "Lv 80 Stage", "Party Stage")) {
+msgctxt "Arena Record Staff"
+msgid "Lv 50 Stage"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Lv 50 Stage", "Lv 60 Stage", "Lv 70 Stage", "Lv 80 Stage", "Party Stage")) {
+msgctxt "Arena Record Staff"
+msgid "Lv 60 Stage"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Lv 50 Stage", "Lv 60 Stage", "Lv 70 Stage", "Lv 80 Stage", "Party Stage")) {
+msgctxt "Arena Record Staff"
+msgid "Lv 70 Stage"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Lv 50 Stage", "Lv 60 Stage", "Lv 70 Stage", "Lv 80 Stage", "Party Stage")) {
+msgctxt "Arena Record Staff"
+msgid "Lv 80 Stage"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Lv 50 Stage", "Lv 60 Stage", "Lv 70 Stage", "Lv 80 Stage", "Party Stage")) {
+msgctxt "Arena Record Staff"
+msgid "Party Stage"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Currently the top player of the arena Lv 50 stage is ^3131FF "+$arena_50topn$+"^000000, the top record is ^3131FF"+$top_50min+"^000000 minutes ^3131FF"+$top_50sec+"^000000 seconds.";
+msgctxt "Arena Record Staff"
+msgid "Currently the top player of the arena Lv 50 stage is ^3131FF "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Currently the top player of the arena Lv 50 stage is ^3131FF "+$arena_50topn$+"^000000, the top record is ^3131FF"+$top_50min+"^000000 minutes ^3131FF"+$top_50sec+"^000000 seconds.";
+msgctxt "Arena Record Staff"
+msgid "^000000, the top record is ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Currently the top player of the arena Lv 50 stage is ^3131FF "+$arena_50topn$+"^000000, the top record is ^3131FF"+$top_50min+"^000000 minutes ^3131FF"+$top_50sec+"^000000 seconds.";
+msgctxt "Arena Record Staff"
+msgid "^000000 minutes ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Currently the top player of the arena Lv 50 stage is ^3131FF "+$arena_50topn$+"^000000, the top record is ^3131FF"+$top_50min+"^000000 minutes ^3131FF"+$top_50sec+"^000000 seconds.";
+msgctxt "Arena Record Staff"
+msgid "^000000 seconds."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Currenly the top player of the arena Lv 60 stage is ^3131FF"+$arena_60topn$+"^000000, the top record is ^3131FF"+$top_60min+"^000000 minutes ^3131FF"+$top_60sec+"^000000 seconds.";
+msgctxt "Arena Record Staff"
+msgid "Currenly the top player of the arena Lv 60 stage is ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Currenly the top player of the arena Lv 70 stage is ^3131FF"+$arena_70topn$+"^000000, the top record is ^3131FF"+$top_70min+"^000000 minutes ^3131FF"+$top_70sec+"^000000 seconds.";
+msgctxt "Arena Record Staff"
+msgid "Currenly the top player of the arena Lv 70 stage is ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Currenly the top player of the arena Lv 80 stage is ^3131FF"+$arena_80topn$+"^000000, the top record is ^3131FF"+$top_80min+"^000000 minutes ^3131FF"+$top_80sec+"^000000 seconds.";
+msgctxt "Arena Record Staff"
+msgid "Currenly the top player of the arena Lv 80 stage is ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Currenly the top party is ^3131FF"+$arena_pttopn$+"^000000, the top record is ^3131FF"+$top_ptmin+"^000000 minutes ^3131FF"+$top_ptsec+"^000000 seconds.";
+msgctxt "Arena Record Staff"
+msgid "Currenly the top party is ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Pat]";
+msgctxt "Helper Pat"
+msgid "[Pat]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Welcome, welcome.";
+msgctxt "Helper Pat"
+msgid "Welcome, welcome."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "I am a helper of the Lv 50 arena stage.";
+msgctxt "Helper Pat"
+msgid "I am a helper of the Lv 50 arena stage."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "This ^3131FFLv 50 arena stage^000000";
+msgctxt "Helper Pat"
+msgid "This ^3131FFLv 50 arena stage^000000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessable to characters from ^FF0000level 50^000000 to ^FF0000level 69^000000.";
+msgctxt "Helper Pat"
+msgid "is accessable to characters from ^FF0000level 50^000000 to ^FF0000level 69^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "This level limitation is to prevent high level characters abusing low level arena stages. I hope you will understand.";
+msgctxt "Helper Pat"
+msgid "This level limitation is to prevent high level characters abusing low level arena stages. I hope you will understand."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Also we accept an entrance fee, 1,000 zeny.";
+msgctxt "Helper Pat"
+msgid "Also we accept an entrance fee, 1,000 zeny."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Let me introduce you about the play rules of arena.";
+msgctxt "Helper Pat"
+msgid "Let me introduce you about the play rules of arena."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "^3131FFWait in a chat room for your turn coming.^000000";
+msgctxt "Helper Pat"
+msgid "^3131FFWait in a chat room for your turn coming.^000000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "When it's your turn, you will be automatically warped to an arena map.";
+msgctxt "Helper Pat"
+msgid "When it's your turn, you will be automatically warped to an arena map."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "As immediately as you enter, a timer to check your play time will be activated.";
+msgctxt "Helper Pat"
+msgid "As immediately as you enter, a timer to check your play time will be activated."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Please follow what ^3131FFHeel and Toe^000000 guides you. ";
+msgctxt "Helper Pat"
+msgid "Please follow what ^3131FFHeel and Toe^000000 guides you. "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have a ^3131FF5 minutes^000000 battle time.";
+msgctxt "Helper Pat"
+msgid "You have a ^3131FF5 minutes^000000 battle time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "After you clear every room including a boss room, you will be warped again to an ^3131FFending waiting room^000000.";
+msgctxt "Helper Pat"
+msgid "After you clear every room including a boss room, you will be warped again to an ^3131FFending waiting room^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You can only allow to stay in the waiting room for ^3131FF1 minute^000000, please hurry up to receive the arena points and leave.";
+msgctxt "Helper Pat"
+msgid "You can only allow to stay in the waiting room for ^3131FF1 minute^000000, please hurry up to receive the arena points and leave."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "If you stay over 1 minute inside the ending waiting room, you will be forced outside and will not receive any arena points. Please remember that.";
+msgctxt "Helper Pat"
+msgid "If you stay over 1 minute inside the ending waiting room, you will be forced outside and will not receive any arena points. Please remember that."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "I hope you will have a good time.";
+msgctxt "Helper Pat"
+msgid "I hope you will have a good time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Ben]";
+msgctxt "Helper Ben"
+msgid "[Ben]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Welcome, welcome.";
+msgctxt "Helper Ben"
+msgid "Welcome, welcome."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "I am a helper of the Lv 60 arena stage.";
+msgctxt "Helper Ben"
+msgid "I am a helper of the Lv 60 arena stage."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "This ^3131FFLv 60 arena stage^000000";
+msgctxt "Helper Ben"
+msgid "This ^3131FFLv 60 arena stage^000000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessable to characters from ^FF0000level 60^000000 to ^FF0000level 79^000000.";
+msgctxt "Helper Ben"
+msgid "is accessable to characters from ^FF0000level 60^000000 to ^FF0000level 79^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "This level limitation is to prevent high level characters abusing low level arena stages. I hope you will understand.";
+msgctxt "Helper Ben"
+msgid "This level limitation is to prevent high level characters abusing low level arena stages. I hope you will understand."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Also we accept an entrance fee, 1,000 zeny.";
+msgctxt "Helper Ben"
+msgid "Also we accept an entrance fee, 1,000 zeny."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Let me introduce you about the play rules of arena.";
+msgctxt "Helper Ben"
+msgid "Let me introduce you about the play rules of arena."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "^3131FFWait in a chat room for your turn coming.^000000";
+msgctxt "Helper Ben"
+msgid "^3131FFWait in a chat room for your turn coming.^000000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "When it's your turn, you will be automatically warped to an arena map.";
+msgctxt "Helper Ben"
+msgid "When it's your turn, you will be automatically warped to an arena map."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "As immediately as you enter, a timer to check your play time will be activated.";
+msgctxt "Helper Ben"
+msgid "As immediately as you enter, a timer to check your play time will be activated."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Please follow what ^3131FFMinilover^000000 guides you. ";
+msgctxt "Helper Ben"
+msgid "Please follow what ^3131FFMinilover^000000 guides you. "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have a ^3131FF6 minutes^000000 battle time.";
+msgctxt "Helper Ben"
+msgid "You have a ^3131FF6 minutes^000000 battle time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "After you clear every room including a boss room, you will be warped again to an ^3131FFending waiting room^000000.";
+msgctxt "Helper Ben"
+msgid "After you clear every room including a boss room, you will be warped again to an ^3131FFending waiting room^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You can only allow to stay in the waiting room for ^3131FF1 minute^000000, please hurry up to receive the arena points and leave.";
+msgctxt "Helper Ben"
+msgid "You can only allow to stay in the waiting room for ^3131FF1 minute^000000, please hurry up to receive the arena points and leave."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "If you stay over 1 minute inside the ending waiting room, you will be forced outside and will not receive any arena points. Please remember that.";
+msgctxt "Helper Ben"
+msgid "If you stay over 1 minute inside the ending waiting room, you will be forced outside and will not receive any arena points. Please remember that."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "I hope you will have a good time.";
+msgctxt "Helper Ben"
+msgid "I hope you will have a good time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Vicious]";
+msgctxt "Helper Vicious"
+msgid "[Vicious]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Hey there.";
+msgctxt "Helper Vicious"
+msgid "Hey there."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "My name is Vicious, I am a helper of Lv 70 arena stage.";
+msgctxt "Helper Vicious"
+msgid "My name is Vicious, I am a helper of Lv 70 arena stage."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "(...I have no clue how the hell I put myself into this crappy work...mumble mumble...grumble grumble..)";
+msgctxt "Helper Vicious"
+msgid "(...I have no clue how the hell I put myself into this crappy work...mumble mumble...grumble grumble..)"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "This ^3131FFLv 70 arena stage^000000";
+msgctxt "Helper Vicious"
+msgid "This ^3131FFLv 70 arena stage^000000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessable to characters from ^FF0000level 70^000000 to ^FF0000level 89^000000.";
+msgctxt "Helper Vicious"
+msgid "is accessable to characters from ^FF0000level 70^000000 to ^FF0000level 89^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "This level limitation is to prevent high level characters abusing low level arena stages. I hope you will understand.";
+msgctxt "Helper Vicious"
+msgid "This level limitation is to prevent high level characters abusing low level arena stages. I hope you will understand."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Also we accept an entrance fee, 1,000 zeny.";
+msgctxt "Helper Vicious"
+msgid "Also we accept an entrance fee, 1,000 zeny."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Let me introduce you about the play rules of arena.";
+msgctxt "Helper Vicious"
+msgid "Let me introduce you about the play rules of arena."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "^3131FFWait in a chat room for your turn coming.^000000";
+msgctxt "Helper Vicious"
+msgid "^3131FFWait in a chat room for your turn coming.^000000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "When it's your turn, you will be automatically warped to an arena map.";
+msgctxt "Helper Vicious"
+msgid "When it's your turn, you will be automatically warped to an arena map."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "As immediately as you enter, a timer to check your play time will be activated.";
+msgctxt "Helper Vicious"
+msgid "As immediately as you enter, a timer to check your play time will be activated."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Please follow what ^3131FFCadilac^000000 guides you. ";
+msgctxt "Helper Vicious"
+msgid "Please follow what ^3131FFCadilac^000000 guides you. "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have a ^3131FF7 minutes^000000 battle time.";
+msgctxt "Helper Vicious"
+msgid "You have a ^3131FF7 minutes^000000 battle time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "After you clear every room including a boss room, you will be warped again to an ^3131FFending waiting room^000000.";
+msgctxt "Helper Vicious"
+msgid "After you clear every room including a boss room, you will be warped again to an ^3131FFending waiting room^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You can only allow to stay in the waiting room for ^3131FF1 minute^000000, please hurry up to receive the arena points and leave.";
+msgctxt "Helper Vicious"
+msgid "You can only allow to stay in the waiting room for ^3131FF1 minute^000000, please hurry up to receive the arena points and leave."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "If you stay over 1 minute inside the ending waiting room, you will be forced outside and will not receive any arena points. Remember that.";
+msgctxt "Helper Vicious"
+msgid "If you stay over 1 minute inside the ending waiting room, you will be forced outside and will not receive any arena points. Remember that."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Okay, take care now.";
+msgctxt "Helper Vicious"
+msgid "Okay, take care now."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Epin]";
+msgctxt "Helper Epin"
+msgid "[Epin]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Good day,";
+msgctxt "Helper Epin"
+msgid "Good day,"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "I am a helper of Lv 80 arena stage and my name is Epin.";
+msgctxt "Helper Epin"
+msgid "I am a helper of Lv 80 arena stage and my name is Epin."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "I like reading and I am 19 years old...huh...? Don't you want to hear about me...?";
+msgctxt "Helper Epin"
+msgid "I like reading and I am 19 years old...huh...? Don't you want to hear about me...?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Okay...";
+msgctxt "Helper Epin"
+msgid "Okay..."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "This ^3131FFLv 80 arena stage^000000";
+msgctxt "Helper Epin"
+msgid "This ^3131FFLv 80 arena stage^000000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessable to characters from ^FF0000level 80^000000 to ^FF0000level "+(RENEWAL?"160":"99")+"^000000.";
+msgctxt "Helper Epin"
+msgid "is accessable to characters from ^FF0000level 80^000000 to ^FF0000level "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessable to characters from ^FF0000level 80^000000 to ^FF0000level "+(RENEWAL?"160":"99")+"^000000.";
+msgctxt "Helper Epin"
+msgid "160"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessable to characters from ^FF0000level 80^000000 to ^FF0000level "+(RENEWAL?"160":"99")+"^000000.";
+msgctxt "Helper Epin"
+msgid "99"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessable to characters from ^FF0000level 80^000000 to ^FF0000level "+(RENEWAL?"160":"99")+"^000000.";
+msgctxt "Helper Epin"
+msgid "^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "This level limitation is to prevent high level characters abusing low level arena stages. I hope you will understand.";
+msgctxt "Helper Epin"
+msgid "This level limitation is to prevent high level characters abusing low level arena stages. I hope you will understand."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Also we accept an entrance fee, 1,000 zeny.";
+msgctxt "Helper Epin"
+msgid "Also we accept an entrance fee, 1,000 zeny."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Let me introduce you about the play rules of arena.";
+msgctxt "Helper Epin"
+msgid "Let me introduce you about the play rules of arena."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "^3131FFWait in a chat room for your turn coming.^000000";
+msgctxt "Helper Epin"
+msgid "^3131FFWait in a chat room for your turn coming.^000000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "When it's your turn, you will be automatically warped to an arena map.";
+msgctxt "Helper Epin"
+msgid "When it's your turn, you will be automatically warped to an arena map."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "As immediately as you enter, a timer to check your play time will be activated.";
+msgctxt "Helper Epin"
+msgid "As immediately as you enter, a timer to check your play time will be activated."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Please follow what ^3131FFActus^000000 guides you. ";
+msgctxt "Helper Epin"
+msgid "Please follow what ^3131FFActus^000000 guides you. "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have a ^3131FF8 minutes^000000 battle time.";
+msgctxt "Helper Epin"
+msgid "You have a ^3131FF8 minutes^000000 battle time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "After you clear every room including a boss room, you will be warped again to an ^3131FFending waiting room^000000.";
+msgctxt "Helper Epin"
+msgid "After you clear every room including a boss room, you will be warped again to an ^3131FFending waiting room^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You can only allow to stay in the waiting room for ^3131FF1 minute^000000, please hurry up to receive the arena points and leave.";
+msgctxt "Helper Epin"
+msgid "You can only allow to stay in the waiting room for ^3131FF1 minute^000000, please hurry up to receive the arena points and leave."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "If you stay over 1 minute inside the ending waiting room, you will be forced outside and will not receive any arena points. Please remember that.";
+msgctxt "Helper Epin"
+msgid "If you stay over 1 minute inside the ending waiting room, you will be forced outside and will not receive any arena points. Please remember that."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "I hope you will have a good time.";
+msgctxt "Helper Epin"
+msgid "I hope you will have a good time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Lunic]";
+msgctxt "Helper Lunic"
+msgid "[Lunic]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Welcome to party arena stage.";
+msgctxt "Helper Lunic"
+msgid "Welcome to party arena stage."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "I hope you will listen carefully to my introduction";
+msgctxt "Helper Lunic"
+msgid "I hope you will listen carefully to my introduction"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "since this party arena stage is a little bit different from player mode stages.";
+msgctxt "Helper Lunic"
+msgid "since this party arena stage is a little bit different from player mode stages."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "^3131FFParty Arena Stage^000000";
+msgctxt "Helper Lunic"
+msgid "^3131FFParty Arena Stage^000000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessible to players from ^FF0000level 10^000000 to ^FF0000level "+(RENEWAL?"160":"99")+"^000000.";
+msgctxt "Helper Lunic"
+msgid "is accessible to players from ^FF0000level 10^000000 to ^FF0000level "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessible to players from ^FF0000level 10^000000 to ^FF0000level "+(RENEWAL?"160":"99")+"^000000.";
+msgctxt "Helper Lunic"
+msgid "160"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessible to players from ^FF0000level 10^000000 to ^FF0000level "+(RENEWAL?"160":"99")+"^000000.";
+msgctxt "Helper Lunic"
+msgid "99"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "is accessible to players from ^FF0000level 10^000000 to ^FF0000level "+(RENEWAL?"160":"99")+"^000000.";
+msgctxt "Helper Lunic"
+msgid "^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Also, arena will be not be started until all of 5 party members enter the room. We accept an entrance fee 1,000 zeny.";
+msgctxt "Helper Lunic"
+msgid "Also, arena will be not be started until all of 5 party members enter the room. We accept an entrance fee 1,000 zeny."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Let me introduce you about the play rules of arena.";
+msgctxt "Helper Lunic"
+msgid "Let me introduce you about the play rules of arena."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "^3131FFGroup a party with your friends and wait in a chat room^000000.";
+msgctxt "Helper Lunic"
+msgid "^3131FFGroup a party with your friends and wait in a chat room^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You must form a party beforehand. If you didn't do, you could still play but you would have a lot of inconvenience.";
+msgctxt "Helper Lunic"
+msgid "You must form a party beforehand. If you didn't do, you could still play but you would have a lot of inconvenience."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Also please remember 5 players automatically warped to the arena room will be in order of ^FF0000entering a chat room^000000 not in order of ^FF0000party^000000. Please remember that.";
+msgctxt "Helper Lunic"
+msgid "Also please remember 5 players automatically warped to the arena room will be in order of ^FF0000entering a chat room^000000 not in order of ^FF0000party^000000. Please remember that."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "And please form a party with ^3131FF5 players^000000 before you enter a chat room.";
+msgctxt "Helper Lunic"
+msgid "And please form a party with ^3131FF5 players^000000 before you enter a chat room."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "When it becomes your turn, you will be warped into a small map where a warp and a help NPC are located.";
+msgctxt "Helper Lunic"
+msgid "When it becomes your turn, you will be warped into a small map where a warp and a help NPC are located."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "In case you enter with members of a different party, use the warp to escape the map. Then you will return to the waiting room.";
+msgctxt "Helper Lunic"
+msgid "In case you enter with members of a different party, use the warp to escape the map. Then you will return to the waiting room."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "In case you enter with your party members, please proceed speaking with the help NPC in the small map.";
+msgctxt "Helper Lunic"
+msgid "In case you enter with your party members, please proceed speaking with the help NPC in the small map."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "The help NPC is only accessible to talk ^FF0000 1 player ^000000at a time.";
+msgctxt "Helper Lunic"
+msgid "The help NPC is only accessible to talk ^FF0000 1 player ^000000at a time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "The NPC will guide you and your party members to the actual arena room.";
+msgctxt "Helper Lunic"
+msgid "The NPC will guide you and your party members to the actual arena room."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "However, if anyone in the party ^3131FFdoes not have enough money to pay the entrance fee, he will be warped outside^000000.";
+msgctxt "Helper Lunic"
+msgid "However, if anyone in the party ^3131FFdoes not have enough money to pay the entrance fee, he will be warped outside^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Also be aware that you can only stay inside the map for ^FF0000 1 minute^000000.";
+msgctxt "Helper Lunic"
+msgid "Also be aware that you can only stay inside the map for ^FF0000 1 minute^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "As immediately as you enter the arena map, a timer which calculates your battle time will be activated.";
+msgctxt "Helper Lunic"
+msgid "As immediately as you enter the arena map, a timer which calculates your battle time will be activated."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Please follow what ^3131FFSlipslowrun^000000 guides you. ";
+msgctxt "Helper Lunic"
+msgid "Please follow what ^3131FFSlipslowrun^000000 guides you. "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You will have ^3131FF10 minutes^000000 to clear the stage however it is not that easy to do. And you're advised to use the time wisely.";
+msgctxt "Helper Lunic"
+msgid "You will have ^3131FF10 minutes^000000 to clear the stage however it is not that easy to do. And you're advised to use the time wisely."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "After you clear every room including a boss room, you will be warped again to an ^3131FFending waiting room^000000.";
+msgctxt "Helper Lunic"
+msgid "After you clear every room including a boss room, you will be warped again to an ^3131FFending waiting room^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You can only allow to stay in the waiting room for ^3131FF1 minute^000000, please hurry up to receive the arena points and leave.";
+msgctxt "Helper Lunic"
+msgid "You can only allow to stay in the waiting room for ^3131FF1 minute^000000, please hurry up to receive the arena points and leave."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "If you stay over 1 minute inside the ending waiting room, you will be forced outside and will not receive any arena points. Please remember that.";
+msgctxt "Helper Lunic"
+msgid "If you stay over 1 minute inside the ending waiting room, you will be forced outside and will not receive any arena points. Please remember that."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Besides, if a party make a new record on time to clear the map,";
+msgctxt "Helper Lunic"
+msgid "Besides, if a party make a new record on time to clear the map,"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "^3131FFthe party master^000000 can record ^3131FFthe party name^000000.";
+msgctxt "Helper Lunic"
+msgid "^3131FFthe party master^000000 can record ^3131FFthe party name^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "In this case, if a party has more than one master or none, it is impossible to write ^FF0000the top party record^000000.";
+msgctxt "Helper Lunic"
+msgid "In this case, if a party has more than one master or none, it is impossible to write ^FF0000the top party record^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Therefore, it is strongly suggested to form one party before entering the arena map.";
+msgctxt "Helper Lunic"
+msgid "Therefore, it is strongly suggested to form one party before entering the arena map."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Thank you for listening and";
+msgctxt "Helper Lunic"
+msgid "Thank you for listening and"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "I hope you will have a good time.";
+msgctxt "Helper Lunic"
+msgid "I hope you will have a good time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Lonik]";
+msgctxt "Helper Lonik"
+msgid "[Lonik]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Tah dah! Here I am!";
+msgctxt "Helper Lonik"
+msgid "Tah dah! Here I am!"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You are curious if there is anyone inside or not, aren't you?";
+msgctxt "Helper Lonik"
+msgid "You are curious if there is anyone inside or not, aren't you?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "My answer is...";
+msgctxt "Helper Lonik"
+msgid "My answer is..."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes ".............";
+msgctxt "Helper Lonik"
+msgid "............."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Yes!";
+msgctxt "Helper Lonik"
+msgid "Yes!"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "There is someone inside.";
+msgctxt "Helper Lonik"
+msgid "There is someone inside."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You'd better wait a little bit longer!";
+msgctxt "Helper Lonik"
+msgid "You'd better wait a little bit longer!"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "No!";
+msgctxt "Helper Lonik"
+msgid "No!"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Go for it, good luck!";
+msgctxt "Helper Lonik"
+msgid "Go for it, good luck!"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Arena Manager]";
+msgctxt "Arena Manager#arena"
+msgid "[Arena Manager]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Command has been canceled.";
+msgctxt "Arena Manager#arena"
+msgid "Command has been canceled."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Password is incorrect.";
+msgctxt "Arena Manager#arena"
+msgid "Password is incorrect."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Select an option.";
+msgctxt "Arena Manager#arena"
+msgid "Select an option."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Restart arena", "Rearrange the Ranking Time")) {
+msgctxt "Arena Manager#arena"
+msgid "Restart arena"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Restart arena", "Rearrange the Ranking Time")) {
+msgctxt "Arena Manager#arena"
+msgid "Rearrange the Ranking Time"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Lv 50", "Lv 60", "Lv 70", "Lv 80", "Party Mode")) {
+msgctxt "Arena Manager#arena"
+msgid "Lv 50"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Lv 50", "Lv 60", "Lv 70", "Lv 80", "Party Mode")) {
+msgctxt "Arena Manager#arena"
+msgid "Lv 60"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Lv 50", "Lv 60", "Lv 70", "Lv 80", "Party Mode")) {
+msgctxt "Arena Manager#arena"
+msgid "Lv 70"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Lv 50", "Lv 60", "Lv 70", "Lv 80", "Party Mode")) {
+msgctxt "Arena Manager#arena"
+msgid "Lv 80"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Lv 50", "Lv 60", "Lv 70", "Lv 80", "Party Mode")) {
+msgctxt "Arena Manager#arena"
+msgid "Party Mode"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "== Caution ==";
+msgctxt "Arena Manager#arena"
+msgid "== Caution =="
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have chosen to restart party arena stage.";
+msgctxt "Arena Manager#arena"
+msgid "You have chosen to restart party arena stage."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Do you wish to proceed?";
+msgctxt "Arena Manager#arena"
+msgid "Do you wish to proceed?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Yes", "No")) {
+msgctxt "Arena Manager#arena"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Yes", "No")) {
+msgctxt "Arena Manager#arena"
+msgid "No"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "The arena stage has been successfuly reactivated.";
+msgctxt "Arena Manager#arena"
+msgid "The arena stage has been successfuly reactivated."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have chosen to restart Lv "+.@arena+" arena stage.";
+msgctxt "Arena Manager#arena"
+msgid "You have chosen to restart Lv "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have chosen to restart Lv "+.@arena+" arena stage.";
+msgctxt "Arena Manager#arena"
+msgid " arena stage."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "^CE0000You have chosen to rearrange the ranking time. Make sure this is not a good decision unless if something serious was happened!^000000";
+msgctxt "Arena Manager#arena"
+msgid "^CE0000You have chosen to rearrange the ranking time. Make sure this is not a good decision unless if something serious was happened!^000000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Are you sure you want to rearrange the ranking time?";
+msgctxt "Arena Manager#arena"
+msgid "Are you sure you want to rearrange the ranking time?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Phew~ :)";
+msgctxt "Arena Manager#arena"
+msgid "Phew~ :)"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Please enter a value for minutes first and then seconds.";
+msgctxt "Arena Manager#arena"
+msgid "Please enter a value for minutes first and then seconds."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Current "+.@mode$+" ranker's play time has been rearranged to ^FF0000"+getd(.@min$)+"^000000 minutes and ^FF0000"+getd(.@sec$)+"^000000 seconds.";
+msgctxt "Arena Manager#arena"
+msgid "Current "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Current "+.@mode$+" ranker's play time has been rearranged to ^FF0000"+getd(.@min$)+"^000000 minutes and ^FF0000"+getd(.@sec$)+"^000000 seconds.";
+msgctxt "Arena Manager#arena"
+msgid " ranker's play time has been rearranged to ^FF0000"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Reward Manager]";
+msgctxt "Reward Manager#arena"
+msgid "[Reward Manager]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Command has been canceled.";
+msgctxt "Reward Manager#arena"
+msgid "Command has been canceled."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Password is incorrect.";
+msgctxt "Reward Manager#arena"
+msgid "Password is incorrect."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have chosen to hide the teleporter NPC.";
+msgctxt "Reward Manager#arena"
+msgid "You have chosen to hide the teleporter NPC."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Cancel", "Yes", "Turn on")) {
+msgctxt "Reward Manager#arena"
+msgid "Cancel"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Cancel", "Yes", "Turn on")) {
+msgctxt "Reward Manager#arena"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Cancel", "Yes", "Turn on")) {
+msgctxt "Reward Manager#arena"
+msgid "Turn on"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have canceled the command.";
+msgctxt "Reward Manager#arena"
+msgid "You have canceled the command."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "NPC has been hidden.";
+msgctxt "Reward Manager#arena"
+msgid "NPC has been hidden."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "NPC has been enabled.";
+msgctxt "Reward Manager#arena"
+msgid "NPC has been enabled."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Teleporter]";
+msgctxt "Teleporter#arena"
+msgid "[Teleporter]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "I can move you to the reward arena!";
+msgctxt "Teleporter#arena"
+msgid "I can move you to the reward arena!"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Would you like to go there?";
+msgctxt "Teleporter#arena"
+msgid "Would you like to go there?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Yes", "No.")) {
+msgctxt "Teleporter#arena"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Yes", "No.")) {
+msgctxt "Teleporter#arena"
+msgid "No."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Let me guide you.";
+msgctxt "Teleporter#arena"
+msgid "Let me guide you."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "No problem, feel free to come back any time.";
+msgctxt "Teleporter#arena"
+msgid "No problem, feel free to come back any time."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "- Wait a moment! -";
+msgctxt "Givu#arena"
+msgid "- Wait a moment! -"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "- Currently you're carrying -";
+msgctxt "Givu#arena"
+msgid "- Currently you're carrying -"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "- too many items with you. -";
+msgctxt "Givu#arena"
+msgid "- too many items with you. -"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "- Please lighten your weight -";
+msgctxt "Givu#arena"
+msgid "- Please lighten your weight -"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "- and try again. -";
+msgctxt "Givu#arena"
+msgid "- and try again. -"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Givu]";
+msgctxt "Givu#arena"
+msgid "[Givu]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Hello, there. Welcome to the world of Arena.";
+msgctxt "Givu#arena"
+msgid "Hello, there. Welcome to the world of Arena."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "My name is Givu, I am in charge of arena point exchange program.";
+msgctxt "Givu#arena"
+msgid "My name is Givu, I am in charge of arena point exchange program."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You can exchange your arena points with various stuffs.";
+msgctxt "Givu#arena"
+msgid "You can exchange your arena points with various stuffs."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Please choose a menu below.";
+msgctxt "Givu#arena"
+msgid "Please choose a menu below."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Exchange with Consumable items", "Exchange with EXP points", "Take a Souvenir Picture", "Check Current Arena Points")) {
+msgctxt "Givu#arena"
+msgid "Exchange with Consumable items"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Exchange with Consumable items", "Exchange with EXP points", "Take a Souvenir Picture", "Check Current Arena Points")) {
+msgctxt "Givu#arena"
+msgid "Exchange with EXP points"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Exchange with Consumable items", "Exchange with EXP points", "Take a Souvenir Picture", "Check Current Arena Points")) {
+msgctxt "Givu#arena"
+msgid "Take a Souvenir Picture"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Exchange with Consumable items", "Exchange with EXP points", "Take a Souvenir Picture", "Check Current Arena Points")) {
+msgctxt "Givu#arena"
+msgid "Check Current Arena Points"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "What consumable item do you wish to exchange?";
+msgctxt "Givu#arena"
+msgid "What consumable item do you wish to exchange?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Honey", "Royal Jelly", "Mastela Fruit", "Condensed White Potion", "Anodyne", "Yggdrasil Seed", "Yggdrasilberry", "Old Blue Box", "Old Purple Box", "Old Card Album")) {
+msgctxt "Givu#arena"
+msgid "Honey"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Honey", "Royal Jelly", "Mastela Fruit", "Condensed White Potion", "Anodyne", "Yggdrasil Seed", "Yggdrasilberry", "Old Blue Box", "Old Purple Box", "Old Card Album")) {
+msgctxt "Givu#arena"
+msgid "Royal Jelly"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Honey", "Royal Jelly", "Mastela Fruit", "Condensed White Potion", "Anodyne", "Yggdrasil Seed", "Yggdrasilberry", "Old Blue Box", "Old Purple Box", "Old Card Album")) {
+msgctxt "Givu#arena"
+msgid "Mastela Fruit"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Honey", "Royal Jelly", "Mastela Fruit", "Condensed White Potion", "Anodyne", "Yggdrasil Seed", "Yggdrasilberry", "Old Blue Box", "Old Purple Box", "Old Card Album")) {
+msgctxt "Givu#arena"
+msgid "Condensed White Potion"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Honey", "Royal Jelly", "Mastela Fruit", "Condensed White Potion", "Anodyne", "Yggdrasil Seed", "Yggdrasilberry", "Old Blue Box", "Old Purple Box", "Old Card Album")) {
+msgctxt "Givu#arena"
+msgid "Anodyne"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Honey", "Royal Jelly", "Mastela Fruit", "Condensed White Potion", "Anodyne", "Yggdrasil Seed", "Yggdrasilberry", "Old Blue Box", "Old Purple Box", "Old Card Album")) {
+msgctxt "Givu#arena"
+msgid "Yggdrasil Seed"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Honey", "Royal Jelly", "Mastela Fruit", "Condensed White Potion", "Anodyne", "Yggdrasil Seed", "Yggdrasilberry", "Old Blue Box", "Old Purple Box", "Old Card Album")) {
+msgctxt "Givu#arena"
+msgid "Yggdrasilberry"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Honey", "Royal Jelly", "Mastela Fruit", "Condensed White Potion", "Anodyne", "Yggdrasil Seed", "Yggdrasilberry", "Old Blue Box", "Old Purple Box", "Old Card Album")) {
+msgctxt "Givu#arena"
+msgid "Old Blue Box"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Honey", "Royal Jelly", "Mastela Fruit", "Condensed White Potion", "Anodyne", "Yggdrasil Seed", "Yggdrasilberry", "Old Blue Box", "Old Purple Box", "Old Card Album")) {
+msgctxt "Givu#arena"
+msgid "Old Purple Box"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Honey", "Royal Jelly", "Mastela Fruit", "Condensed White Potion", "Anodyne", "Yggdrasil Seed", "Yggdrasilberry", "Old Blue Box", "Old Purple Box", "Old Card Album")) {
+msgctxt "Givu#arena"
+msgid "Old Card Album"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Would you like to exchange your arena points with experience points?";
+msgctxt "Givu#arena"
+msgid "Would you like to exchange your arena points with experience points?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "It requires 40 arena points.";
+msgctxt "Givu#arena"
+msgid "It requires 40 arena points."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Cancel", "Yes")) {
+msgctxt "Givu#arena"
+msgid "Cancel"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Cancel", "Yes")) {
+msgctxt "Givu#arena"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have canceled your request.";
+msgctxt "Givu#arena"
+msgid "You have canceled your request."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You do not have enough arena points.";
+msgctxt "Givu#arena"
+msgid "You do not have enough arena points."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Please check the total amount of arena points you have.";
+msgctxt "Givu#arena"
+msgid "Please check the total amount of arena points you have."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have gained experience points. Thank you.";
+msgctxt "Givu#arena"
+msgid "You have gained experience points. Thank you."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have chosen a souvenir picture services.";
+msgctxt "Givu#arena"
+msgid "You have chosen a souvenir picture services."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("About souvenir Picture Services", "Take a picture")) {
+msgctxt "Givu#arena"
+msgid "About souvenir Picture Services"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("About souvenir Picture Services", "Take a picture")) {
+msgctxt "Givu#arena"
+msgid "Take a picture"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Do you see stairs at the right side of me?";
+msgctxt "Givu#arena"
+msgid "Do you see stairs at the right side of me?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "At the stairs, you can take a screenshot with an NPC or a monster.";
+msgctxt "Givu#arena"
+msgid "At the stairs, you can take a screenshot with an NPC or a monster."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "When you choose an NPC or a monster, it will show some emotion icons ^FF0000for 1 minute^000000.";
+msgctxt "Givu#arena"
+msgid "When you choose an NPC or a monster, it will show some emotion icons ^FF0000for 1 minute^000000."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Don't miss the chance to take a picture with your favorite NPC!";
+msgctxt "Givu#arena"
+msgid "Don't miss the chance to take a picture with your favorite NPC!"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "A souvenir picture services is on progress. Please wait.";
+msgctxt "Givu#arena"
+msgid "A souvenir picture services is on progress. Please wait."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Please choose an NPC at below.";
+msgctxt "Givu#arena"
+msgid "Please choose an NPC at below."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "The NPC will appear for 1 minute and this service requires 10 arena points.";
+msgctxt "Givu#arena"
+msgid "The NPC will appear for 1 minute and this service requires 10 arena points."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Baphomet", "Dark Lord", "Doppelganger", "Eddga", "Dracula", "Samurai", "Stormy Knight", "Phreeoni", "Girl", "Valkyrie")) {
+msgctxt "Givu#arena"
+msgid "Baphomet"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Baphomet", "Dark Lord", "Doppelganger", "Eddga", "Dracula", "Samurai", "Stormy Knight", "Phreeoni", "Girl", "Valkyrie")) {
+msgctxt "Givu#arena"
+msgid "Dark Lord"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Baphomet", "Dark Lord", "Doppelganger", "Eddga", "Dracula", "Samurai", "Stormy Knight", "Phreeoni", "Girl", "Valkyrie")) {
+msgctxt "Givu#arena"
+msgid "Doppelganger"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Baphomet", "Dark Lord", "Doppelganger", "Eddga", "Dracula", "Samurai", "Stormy Knight", "Phreeoni", "Girl", "Valkyrie")) {
+msgctxt "Givu#arena"
+msgid "Eddga"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Baphomet", "Dark Lord", "Doppelganger", "Eddga", "Dracula", "Samurai", "Stormy Knight", "Phreeoni", "Girl", "Valkyrie")) {
+msgctxt "Givu#arena"
+msgid "Dracula"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Baphomet", "Dark Lord", "Doppelganger", "Eddga", "Dracula", "Samurai", "Stormy Knight", "Phreeoni", "Girl", "Valkyrie")) {
+msgctxt "Givu#arena"
+msgid "Samurai"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Baphomet", "Dark Lord", "Doppelganger", "Eddga", "Dracula", "Samurai", "Stormy Knight", "Phreeoni", "Girl", "Valkyrie")) {
+msgctxt "Givu#arena"
+msgid "Stormy Knight"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Baphomet", "Dark Lord", "Doppelganger", "Eddga", "Dracula", "Samurai", "Stormy Knight", "Phreeoni", "Girl", "Valkyrie")) {
+msgctxt "Givu#arena"
+msgid "Phreeoni"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Baphomet", "Dark Lord", "Doppelganger", "Eddga", "Dracula", "Samurai", "Stormy Knight", "Phreeoni", "Girl", "Valkyrie")) {
+msgctxt "Givu#arena"
+msgid "Girl"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Baphomet", "Dark Lord", "Doppelganger", "Eddga", "Dracula", "Samurai", "Stormy Knight", "Phreeoni", "Girl", "Valkyrie")) {
+msgctxt "Givu#arena"
+msgid "Valkyrie"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Would you like to take a picture with pretty girls?";
+msgctxt "Givu#arena"
+msgid "Would you like to take a picture with pretty girls?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Would you like to take a picture with a Valkyrie?";
+msgctxt "Givu#arena"
+msgid "Would you like to take a picture with a Valkyrie?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Would you like to take a picture with a "+getmonsterinfo($@arena_picture_id,0)+"?";
+msgctxt "Givu#arena"
+msgid "Would you like to take a picture with a "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Yes", "No")) {
+msgctxt "Givu#arena"
+msgid "No"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Thank you.";
+msgctxt "Givu#arena"
+msgid "Thank you."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Would you like to consider a little longer?";
+msgctxt "Givu#arena"
+msgid "Would you like to consider a little longer?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Let me check "+strcharinfo(PC_NAME)+"'s current arena points.";
+msgctxt "Givu#arena"
+msgid "Let me check "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Picture Manager]";
+msgctxt "Picture Manager#arena"
+msgid "[Picture Manager]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Command has been canceled.";
+msgctxt "Picture Manager#arena"
+msgid "Command has been canceled."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Password is incorrect.";
+msgctxt "Picture Manager#arena"
+msgid "Password is incorrect."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Would you like to reset Picture Reward variable to 0?";
+msgctxt "Picture Manager#arena"
+msgid "Would you like to reset Picture Reward variable to 0?"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Cancel", "Yes")) {
+msgctxt "Picture Manager#arena"
+msgid "Cancel"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# switch(select("Cancel", "Yes")) {
+msgctxt "Picture Manager#arena"
+msgid "Yes"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have canceled your request.";
+msgctxt "Picture Manager#arena"
+msgid "You have canceled your request."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Picture rewarding reseted.";
+msgctxt "Picture Manager#arena"
+msgid "Picture rewarding reseted."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Live Broadcast]";
+msgctxt "Live Broadcast#arena"
+msgid "[Live Broadcast]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Currently there are "+getmapusers("force_1-1")+" people in Lv 50s map.";
+msgctxt "Live Broadcast#arena"
+msgid "Currently there are "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "[Givu]";
+msgctxt "Func_Are_Rew"
+msgid "[Givu]"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Would you like to exchange your arena points with "+getitemname(getarg(0))+"?";
+msgctxt "Func_Are_Rew"
+msgid "Would you like to exchange your arena points with "
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You can exchange ^3131FF"+getarg(2)+" arena points with "+getarg(1)+" "+getitemname(getarg(0))+"^000000.";
+msgctxt "Func_Are_Rew"
+msgid "You can exchange ^3131FF"
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "If you wish to cancel, please enter 0. If you don't, please enter how many ^3131FFtimes^000000 of arena points you wish to spend.";
+msgctxt "Func_Are_Rew"
+msgid "If you wish to cancel, please enter 0. If you don't, please enter how many ^3131FFtimes^000000 of arena points you wish to spend."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have canceled your request.";
+msgctxt "Func_Are_Rew"
+msgid "You have canceled your request."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You have exceeded the maximum capacity.";
+msgctxt "Func_Are_Rew"
+msgid "You have exceeded the maximum capacity."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "You do not have enough arena points.";
+msgctxt "Func_Are_Rew"
+msgid "You do not have enough arena points."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Please check the total amount of arena points you have.";
+msgctxt "Func_Are_Rew"
+msgid "Please check the total amount of arena points you have."
+msgstr ""
+
+#: npc/other/arena/arena_room.txt
+# mes "Thank you, please come again.";
+msgctxt "Func_Are_Rew"
+msgid "Thank you, please come again."
+msgstr ""

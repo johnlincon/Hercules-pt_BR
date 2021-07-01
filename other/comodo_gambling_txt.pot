@@ -1,0 +1,734 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/other/comodo_gambling.txt
+# mes "^3355FFWait a second! Right now, you're carrying too many items with you. Please come back after putting some of your things into Kafra Storage.^000000";
+msgctxt "Kachua"
+msgid "^3355FFWait a second! Right now, you're carrying too many items with you. Please come back after putting some of your things into Kafra Storage.^000000"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "[Kachua]";
+msgctxt "Kachua"
+msgid "[Kachua]"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Diamonds...!";
+msgctxt "Kachua"
+msgid "Diamonds...!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I simply can't get my mind off";
+msgctxt "Kachua"
+msgid "I simply can't get my mind off"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "them! Ever since that man";
+msgctxt "Kachua"
+msgid "them! Ever since that man"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "showed me that diamond,";
+msgctxt "Kachua"
+msgid "showed me that diamond,"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "it's been all I think about!";
+msgctxt "Kachua"
+msgid "it's been all I think about!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# if (select("Would you like to have mine?", "Ah, what a shame...") == 2) {
+msgctxt "Kachua"
+msgid "Would you like to have mine?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# if (select("Would you like to have mine?", "Ah, what a shame...") == 2) {
+msgctxt "Kachua"
+msgid "Ah, what a shame..."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Yes, I know...";
+msgctxt "Kachua"
+msgid "Yes, I know..."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Even among everything";
+msgctxt "Kachua"
+msgid "Even among everything"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "in my collections, nothing";
+msgctxt "Kachua"
+msgid "in my collections, nothing"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "compares to diamonds...";
+msgctxt "Kachua"
+msgid "compares to diamonds..."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "*piff*";
+msgctxt "Kachua"
+msgid "*piff*"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "You don't have any diamonds!";
+msgctxt "Kachua"
+msgid "You don't have any diamonds!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Don't even try to fool me!";
+msgctxt "Kachua"
+msgid "Don't even try to fool me!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Are you sure you don't mind";
+msgctxt "Kachua"
+msgid "Are you sure you don't mind"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "giving this to me? Thank you";
+msgctxt "Kachua"
+msgid "giving this to me? Thank you"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "so much! I don't have much in";
+msgctxt "Kachua"
+msgid "so much! I don't have much in"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "the way of money, but i can give";
+msgctxt "Kachua"
+msgid "the way of money, but i can give"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "you something from one of my";
+msgctxt "Kachua"
+msgid "you something from one of my"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "collections~";
+msgctxt "Kachua"
+msgid "collections~"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Errr...";
+msgctxt "Kachua"
+msgid "Errr..."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "You brought too many things.";
+msgctxt "Kachua"
+msgid "You brought too many things."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "You can't receive this item now.";
+msgctxt "Kachua"
+msgid "You can't receive this item now."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "You better reorganize your inventory and try again.";
+msgctxt "Kachua"
+msgid "You better reorganize your inventory and try again."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "So what would";
+msgctxt "Kachua"
+msgid "So what would"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "you like to have?";
+msgctxt "Kachua"
+msgid "you like to have?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch (select("Weapon", "Armor", "Garment", "Helmet", "Shoes", "Shield")) {
+msgctxt "Kachua"
+msgid "Weapon"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch (select("Weapon", "Armor", "Garment", "Helmet", "Shoes", "Shield")) {
+msgctxt "Kachua"
+msgid "Armor"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch (select("Weapon", "Armor", "Garment", "Helmet", "Shoes", "Shield")) {
+msgctxt "Kachua"
+msgid "Garment"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch (select("Weapon", "Armor", "Garment", "Helmet", "Shoes", "Shield")) {
+msgctxt "Kachua"
+msgid "Helmet"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch (select("Weapon", "Armor", "Garment", "Helmet", "Shoes", "Shield")) {
+msgctxt "Kachua"
+msgid "Shoes"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch (select("Weapon", "Armor", "Garment", "Helmet", "Shoes", "Shield")) {
+msgctxt "Kachua"
+msgid "Shield"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Ah~ that Diamond is so beautiful.";
+msgctxt "Kachua"
+msgid "Ah~ that Diamond is so beautiful."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I wish I could repay you better.";
+msgctxt "Kachua"
+msgid "I wish I could repay you better."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "[Devellin]";
+msgctxt "Devellin"
+msgid "[Devellin]"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "It seems some traveller showed";
+msgctxt "Devellin"
+msgid "It seems some traveller showed"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "a huge diamond to Kachua a while ago. Ever since then, all she's been talking about is diamonds and how much she wants them.";
+msgctxt "Devellin"
+msgid "a huge diamond to Kachua a while ago. Ever since then, all she's been talking about is diamonds and how much she wants them."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "She's been getting pretty obsessive about it, which scares me. It seems she's more than willing to sacrifice anything she owns for a diamond.";
+msgctxt "Devellin"
+msgid "She's been getting pretty obsessive about it, which scares me. It seems she's more than willing to sacrifice anything she owns for a diamond."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "She's the type of person who'll do anything to get what she wants. I'm worried that she might give away something far more valuable than a diamond in exchange...";
+msgctxt "Devellin"
+msgid "She's the type of person who'll do anything to get what she wants. I'm worried that she might give away something far more valuable than a diamond in exchange..."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "[Cain]";
+msgctxt "Suspicious Guy#cmd"
+msgid "[Cain]"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Heeeey...";
+msgctxt "Suspicious Guy#cmd"
+msgid "Heeeey..."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "It seems we share the same line of work, you and me. Heh heh, lemme give you a hot tip.";
+msgctxt "Suspicious Guy#cmd"
+msgid "It seems we share the same line of work, you and me. Heh heh, lemme give you a hot tip."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I've been charging other people for this information, but since, shall we say, we work in the same professional field, I don't have the heart to take your zeny.";
+msgctxt "Suspicious Guy#cmd"
+msgid "I've been charging other people for this information, but since, shall we say, we work in the same professional field, I don't have the heart to take your zeny."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "You see that lady over there?";
+msgctxt "Suspicious Guy#cmd"
+msgid "You see that lady over there?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "She's just totally in love with diamonds. And from what my sources tell me, she's loaded. Tons and tons of valuables.";
+msgctxt "Suspicious Guy#cmd"
+msgid "She's just totally in love with diamonds. And from what my sources tell me, she's loaded. Tons and tons of valuables."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I'm talkin' rare items.";
+msgctxt "Suspicious Guy#cmd"
+msgid "I'm talkin' rare items."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I took the liberty of sneaking a peek at what she owns, and saw she's got a helmet with goat horns and even a crown! She's so rich it's ridiculous!";
+msgctxt "Suspicious Guy#cmd"
+msgid "I took the liberty of sneaking a peek at what she owns, and saw she's got a helmet with goat horns and even a crown! She's so rich it's ridiculous!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "The buzz that's been going around is that she's got a cache of rare equipment and weapons too! So whaddya say? Wanna be partners in crime and rob her house?";
+msgctxt "Suspicious Guy#cmd"
+msgid "The buzz that's been going around is that she's got a cache of rare equipment and weapons too! So whaddya say? Wanna be partners in crime and rob her house?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch(select("No, thanks.", "Sweet, I'm in!")){
+msgctxt "Suspicious Guy#cmd"
+msgid "No, thanks."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch(select("No, thanks.", "Sweet, I'm in!")){
+msgctxt "Suspicious Guy#cmd"
+msgid "Sweet, I'm in!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Wha...?";
+msgctxt "Suspicious Guy#cmd"
+msgid "Wha...?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "C'mon! I thought pilfering was something you do! Aw well, I'm gonna do it, but stay hushed on this, got it?";
+msgctxt "Suspicious Guy#cmd"
+msgid "C'mon! I thought pilfering was something you do! Aw well, I'm gonna do it, but stay hushed on this, got it?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Ha ha ha!";
+msgctxt "Suspicious Guy#cmd"
+msgid "Ha ha ha!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "...^660000Dork^000000!";
+msgctxt "Suspicious Guy#cmd"
+msgid "...^660000Dork^000000!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I'm just jivin'";
+msgctxt "Suspicious Guy#cmd"
+msgid "I'm just jivin'"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "sp fuggedabout it!";
+msgctxt "Suspicious Guy#cmd"
+msgid "sp fuggedabout it!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Ah right. Supposedly, there's a mountain where tons of diamonds are buried. A pal o' mine says there's a mine near the mountain too, so I guess if you went to the mine, you'd find Diamonds.";
+msgctxt "Suspicious Guy#cmd"
+msgid "Ah right. Supposedly, there's a mountain where tons of diamonds are buried. A pal o' mine says there's a mine near the mountain too, so I guess if you went to the mine, you'd find Diamonds."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I guess it can't hurt to gather some Diamonds there and try to exchange them for whatever the old lady's got. Take care, pal~";
+msgctxt "Suspicious Guy#cmd"
+msgid "I guess it can't hurt to gather some Diamonds there and try to exchange them for whatever the old lady's got. Take care, pal~"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Hey...";
+msgctxt "Suspicious Guy#cmd"
+msgid "Hey..."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I got a hot tip for you.";
+msgctxt "Suspicious Guy#cmd"
+msgid "I got a hot tip for you."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "It'll just cost you 500 zeny";
+msgctxt "Suspicious Guy#cmd"
+msgid "It'll just cost you 500 zeny"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "and trust me, it's worth it.";
+msgctxt "Suspicious Guy#cmd"
+msgid "and trust me, it's worth it."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "So whaddya say...?";
+msgctxt "Suspicious Guy#cmd"
+msgid "So whaddya say...?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch(select("Alright.", "No, thanks.")){
+msgctxt "Suspicious Guy#cmd"
+msgid "Alright."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "You see that lady over there? She's just totally in love with diamonds. And from what my sources tell me, she's loaded. Tons and tons of valuables.";
+msgctxt "Suspicious Guy#cmd"
+msgid "You see that lady over there? She's just totally in love with diamonds. And from what my sources tell me, she's loaded. Tons and tons of valuables."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "There's a chance that rare equipment and weapons might be yours! She'll give anything for a 3 carat diamond. So if you have any of those, you might as well see her.";
+msgctxt "Suspicious Guy#cmd"
+msgid "There's a chance that rare equipment and weapons might be yours! She'll give anything for a 3 carat diamond. So if you have any of those, you might as well see her."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Ah right. Supposedly, there's a mountain where tons of diamonds";
+msgctxt "Suspicious Guy#cmd"
+msgid "Ah right. Supposedly, there's a mountain where tons of diamonds"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "are buried. A pal o' mine says there's a mine near the mountain too, so I guess if you went to the mine, you'd find Diamonds.";
+msgctxt "Suspicious Guy#cmd"
+msgid "are buried. A pal o' mine says there's a mine near the mountain too, so I guess if you went to the mine, you'd find Diamonds."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "What the hell?!";
+msgctxt "Suspicious Guy#cmd"
+msgid "What the hell?!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Don't you have any money? Didn't I say 500 zeny? Hey man, info like this doesn't come cheap!";
+msgctxt "Suspicious Guy#cmd"
+msgid "Don't you have any money? Didn't I say 500 zeny? Hey man, info like this doesn't come cheap!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Hey hey!";
+msgctxt "Suspicious Guy#cmd"
+msgid "Hey hey!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "What are you, a cheapskate? You understand that everything has its price and this information is so worth it. C'mon, you can't pass this up, can you?";
+msgctxt "Suspicious Guy#cmd"
+msgid "What are you, a cheapskate? You understand that everything has its price and this information is so worth it. C'mon, you can't pass this up, can you?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "^3355FFWait a second! Right now, you're carrying too many items with you. Please come back after putting some of your things into Kafra Storage.^000000";
+msgctxt "Blacksmith Miner"
+msgid "^3355FFWait a second! Right now, you're carrying too many items with you. Please come back after putting some of your things into Kafra Storage.^000000"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "[Dwayne]";
+msgctxt "Blacksmith Miner"
+msgid "[Dwayne]"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Wahahahaha~";
+msgctxt "Blacksmith Miner"
+msgid "Wahahahaha~"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I've dug up a fortune!";
+msgctxt "Blacksmith Miner"
+msgid "I've dug up a fortune!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Diamonds! Hundreds and";
+msgctxt "Blacksmith Miner"
+msgid "Diamonds! Hundreds and"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "thousands of Diamonds,";
+msgctxt "Blacksmith Miner"
+msgid "thousands of Diamonds,"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "all of them mine!";
+msgctxt "Blacksmith Miner"
+msgid "all of them mine!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I'm rich!";
+msgctxt "Blacksmith Miner"
+msgid "I'm rich!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch(select("I want to buy some.", "Congratulations.")){
+msgctxt "Blacksmith Miner"
+msgid "I want to buy some."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# switch(select("I want to buy some.", "Congratulations.")){
+msgctxt "Blacksmith Miner"
+msgid "Congratulations."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Ah, you have an";
+msgctxt "Blacksmith Miner"
+msgid "Ah, you have an"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "eye for valuables!";
+msgctxt "Blacksmith Miner"
+msgid "eye for valuables!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Sure, sure why not!";
+msgctxt "Blacksmith Miner"
+msgid "Sure, sure why not!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I'll give you a discount, too!";
+msgctxt "Blacksmith Miner"
+msgid "I'll give you a discount, too!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "55,000 Zeny for a diamond,";
+msgctxt "Blacksmith Miner"
+msgid "55,000 Zeny for a diamond,"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "how does that sound?";
+msgctxt "Blacksmith Miner"
+msgid "how does that sound?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "How many";
+msgctxt "Blacksmith Miner"
+msgid "How many"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "diamonds do you need?";
+msgctxt "Blacksmith Miner"
+msgid "diamonds do you need?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "If you change your mind,";
+msgctxt "Blacksmith Miner"
+msgid "If you change your mind,"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "please enter '0' to cancel.";
+msgctxt "Blacksmith Miner"
+msgid "please enter '0' to cancel."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Alright, you've";
+msgctxt "Blacksmith Miner"
+msgid "Alright, you've"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "canceled the trade.";
+msgctxt "Blacksmith Miner"
+msgid "canceled the trade."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Take care!";
+msgctxt "Blacksmith Miner"
+msgid "Take care!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "The maximum";
+msgctxt "Blacksmith Miner"
+msgid "The maximum"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "amount is 500.";
+msgctxt "Blacksmith Miner"
+msgid "amount is 500."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Please enter 500 or less.";
+msgctxt "Blacksmith Miner"
+msgid "Please enter 500 or less."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Errr...";
+msgctxt "Blacksmith Miner"
+msgid "Errr..."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I'm sorry, but you";
+msgctxt "Blacksmith Miner"
+msgid "I'm sorry, but you"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "do not have enough money.";
+msgctxt "Blacksmith Miner"
+msgid "do not have enough money."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I'll be losing money if";
+msgctxt "Blacksmith Miner"
+msgid "I'll be losing money if"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I sell them at that price.";
+msgctxt "Blacksmith Miner"
+msgid "I sell them at that price."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "You're carrying too many items.";
+msgctxt "Blacksmith Miner"
+msgid "You're carrying too many items."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I don't think give you anything if there's no room in your inventory. Why don't you put some of your stuff into Kafra Storage?";
+msgctxt "Blacksmith Miner"
+msgid "I don't think give you anything if there's no room in your inventory. Why don't you put some of your stuff into Kafra Storage?"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Thank you for";
+msgctxt "Blacksmith Miner"
+msgid "Thank you for"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "buying my diamonds!";
+msgctxt "Blacksmith Miner"
+msgid "buying my diamonds!"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "You're welcome to";
+msgctxt "Blacksmith Miner"
+msgid "You're welcome to"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "come back anytime.";
+msgctxt "Blacksmith Miner"
+msgid "come back anytime."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "Haha, thank you~";
+msgctxt "Blacksmith Miner"
+msgid "Haha, thank you~"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "If by any chance";
+msgctxt "Blacksmith Miner"
+msgid "If by any chance"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "you need a diamond,";
+msgctxt "Blacksmith Miner"
+msgid "you need a diamond,"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "please drop by.";
+msgctxt "Blacksmith Miner"
+msgid "please drop by."
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "I'll sell them to";
+msgctxt "Blacksmith Miner"
+msgid "I'll sell them to"
+msgstr ""
+
+#: npc/other/comodo_gambling.txt
+# mes "you at a cheap price.";
+msgctxt "Blacksmith Miner"
+msgid "you at a cheap price."
+msgstr ""

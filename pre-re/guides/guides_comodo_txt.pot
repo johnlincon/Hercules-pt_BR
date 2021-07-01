@@ -1,0 +1,386 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "["+getarg(0)+"]";
+msgctxt "F_CmdGuide"
+msgid "["
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Welcome to Comodo, the";
+msgctxt "F_CmdGuide"
+msgid "Welcome to Comodo, the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "city of dreams and fantasy,";
+msgctxt "F_CmdGuide"
+msgid "city of dreams and fantasy,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "where the nightlife never ends!";
+msgctxt "F_CmdGuide"
+msgid "where the nightlife never ends!"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "I know this area really well,";
+msgctxt "F_CmdGuide"
+msgid "I know this area really well,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "so let me know if you need";
+msgctxt "F_CmdGuide"
+msgid "so let me know if you need"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "directions anywhere here.";
+msgctxt "F_CmdGuide"
+msgid "directions anywhere here."
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# switch(select("Casino", "Hula Dance Stage ^3355FF(Dancer Job Change)^000000", "Weapon and Armor Shop", "Tool Shop", "Tourist Shop", "Kafra Co. Western Branch", "Chief's House", "Pub", "Campground", "End Conversation")) {
+msgctxt "F_CmdGuide"
+msgid "Casino"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# switch(select("Casino", "Hula Dance Stage ^3355FF(Dancer Job Change)^000000", "Weapon and Armor Shop", "Tool Shop", "Tourist Shop", "Kafra Co. Western Branch", "Chief's House", "Pub", "Campground", "End Conversation")) {
+msgctxt "F_CmdGuide"
+msgid "Hula Dance Stage ^3355FF(Dancer Job Change)^000000"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# switch(select("Casino", "Hula Dance Stage ^3355FF(Dancer Job Change)^000000", "Weapon and Armor Shop", "Tool Shop", "Tourist Shop", "Kafra Co. Western Branch", "Chief's House", "Pub", "Campground", "End Conversation")) {
+msgctxt "F_CmdGuide"
+msgid "Weapon and Armor Shop"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# switch(select("Casino", "Hula Dance Stage ^3355FF(Dancer Job Change)^000000", "Weapon and Armor Shop", "Tool Shop", "Tourist Shop", "Kafra Co. Western Branch", "Chief's House", "Pub", "Campground", "End Conversation")) {
+msgctxt "F_CmdGuide"
+msgid "Tool Shop"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# switch(select("Casino", "Hula Dance Stage ^3355FF(Dancer Job Change)^000000", "Weapon and Armor Shop", "Tool Shop", "Tourist Shop", "Kafra Co. Western Branch", "Chief's House", "Pub", "Campground", "End Conversation")) {
+msgctxt "F_CmdGuide"
+msgid "Tourist Shop"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# switch(select("Casino", "Hula Dance Stage ^3355FF(Dancer Job Change)^000000", "Weapon and Armor Shop", "Tool Shop", "Tourist Shop", "Kafra Co. Western Branch", "Chief's House", "Pub", "Campground", "End Conversation")) {
+msgctxt "F_CmdGuide"
+msgid "Kafra Co. Western Branch"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# switch(select("Casino", "Hula Dance Stage ^3355FF(Dancer Job Change)^000000", "Weapon and Armor Shop", "Tool Shop", "Tourist Shop", "Kafra Co. Western Branch", "Chief's House", "Pub", "Campground", "End Conversation")) {
+msgctxt "F_CmdGuide"
+msgid "Chief's House"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# switch(select("Casino", "Hula Dance Stage ^3355FF(Dancer Job Change)^000000", "Weapon and Armor Shop", "Tool Shop", "Tourist Shop", "Kafra Co. Western Branch", "Chief's House", "Pub", "Campground", "End Conversation")) {
+msgctxt "F_CmdGuide"
+msgid "Pub"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# switch(select("Casino", "Hula Dance Stage ^3355FF(Dancer Job Change)^000000", "Weapon and Armor Shop", "Tool Shop", "Tourist Shop", "Kafra Co. Western Branch", "Chief's House", "Pub", "Campground", "End Conversation")) {
+msgctxt "F_CmdGuide"
+msgid "Campground"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# switch(select("Casino", "Hula Dance Stage ^3355FF(Dancer Job Change)^000000", "Weapon and Armor Shop", "Tool Shop", "Tourist Shop", "Kafra Co. Western Branch", "Chief's House", "Pub", "Campground", "End Conversation")) {
+msgctxt "F_CmdGuide"
+msgid "End Conversation"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Please refer to the cross mark,";
+msgctxt "F_CmdGuide"
+msgid "Please refer to the cross mark,"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "^FF6633+^000000, on your Mini-Map to find the";
+msgctxt "F_CmdGuide"
+msgid "^FF6633+^000000, on your Mini-Map to find the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Casino, a haven for rest for";
+msgctxt "F_CmdGuide"
+msgid "Casino, a haven for rest for"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "weary travlers and the heart";
+msgctxt "F_CmdGuide"
+msgid "weary travlers and the heart"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "of Comodo's nightlife.";
+msgctxt "F_CmdGuide"
+msgid "of Comodo's nightlife."
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "^0000FF+^000000, on your Mini-Map to find the";
+msgctxt "F_CmdGuide"
+msgid "^0000FF+^000000, on your Mini-Map to find the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Hula Dance Stage, the place";
+msgctxt "F_CmdGuide"
+msgid "Hula Dance Stage, the place"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "where female Archers can";
+msgctxt "F_CmdGuide"
+msgid "where female Archers can"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "change jobs to Dancers.";
+msgctxt "F_CmdGuide"
+msgid "change jobs to Dancers."
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "^00FFFF+^000000, on your Mini-Map to find the";
+msgctxt "F_CmdGuide"
+msgid "^00FFFF+^000000, on your Mini-Map to find the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Weapon and Armor shop. Be";
+msgctxt "F_CmdGuide"
+msgid "Weapon and Armor shop. Be"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "sure to check that shop for";
+msgctxt "F_CmdGuide"
+msgid "sure to check that shop for"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "any special items that are";
+msgctxt "F_CmdGuide"
+msgid "any special items that are"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "unique to Comodo!";
+msgctxt "F_CmdGuide"
+msgid "unique to Comodo!"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "^515151+^000000, on your Mini-Map to find the";
+msgctxt "F_CmdGuide"
+msgid "^515151+^000000, on your Mini-Map to find the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Tool Shop. If you've never been";
+msgctxt "F_CmdGuide"
+msgid "Tool Shop. If you've never been"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "there before, then I suggest";
+msgctxt "F_CmdGuide"
+msgid "there before, then I suggest"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "you check it out and stock up";
+msgctxt "F_CmdGuide"
+msgid "you check it out and stock up"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "on tools you might need later.";
+msgctxt "F_CmdGuide"
+msgid "on tools you might need later."
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "^3355FF+^000000, on your Mini-Map to find the";
+msgctxt "F_CmdGuide"
+msgid "^3355FF+^000000, on your Mini-Map to find the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Tourist Shop where you can ";
+msgctxt "F_CmdGuide"
+msgid "Tourist Shop where you can "
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "buy gifts that can only be found in the Comodo region~";
+msgctxt "F_CmdGuide"
+msgid "buy gifts that can only be found in the Comodo region~"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "^FF5555+^000000, on your Mini-Map to find the";
+msgctxt "F_CmdGuide"
+msgid "^FF5555+^000000, on your Mini-Map to find the"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Western branch of the Kafra";
+msgctxt "F_CmdGuide"
+msgid "Western branch of the Kafra"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Corporation. They offer some";
+msgctxt "F_CmdGuide"
+msgid "Corporation. They offer some"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "pretty important services that you may want to check out later.";
+msgctxt "F_CmdGuide"
+msgid "pretty important services that you may want to check out later."
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Chief's House. You're welcome";
+msgctxt "F_CmdGuide"
+msgid "Chief's House. You're welcome"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "to visit him, and he's usually";
+msgctxt "F_CmdGuide"
+msgid "to visit him, and he's usually"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "happy to have visitors.";
+msgctxt "F_CmdGuide"
+msgid "happy to have visitors."
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Pub. There, you can meet other";
+msgctxt "F_CmdGuide"
+msgid "Pub. There, you can meet other"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "tourists, relax, and socialize";
+msgctxt "F_CmdGuide"
+msgid "tourists, relax, and socialize"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "in an enjoyable environment~";
+msgctxt "F_CmdGuide"
+msgid "in an enjoyable environment~"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Campground. Gather with your";
+msgctxt "F_CmdGuide"
+msgid "Campground. Gather with your"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "family and friends, and enjoy";
+msgctxt "F_CmdGuide"
+msgid "family and friends, and enjoy"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "the special barbeque of";
+msgctxt "F_CmdGuide"
+msgid "the special barbeque of"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Comodo's camping grounds~";
+msgctxt "F_CmdGuide"
+msgid "Comodo's camping grounds~"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "Actually, it always looks";
+msgctxt "F_CmdGuide"
+msgid "Actually, it always looks"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "like nighttime in Comodo";
+msgctxt "F_CmdGuide"
+msgid "like nighttime in Comodo"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "because it's built in a huge";
+msgctxt "F_CmdGuide"
+msgid "because it's built in a huge"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "cave. We don't get any sunlight";
+msgctxt "F_CmdGuide"
+msgid "cave. We don't get any sunlight"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "here, but the darkness here is";
+msgctxt "F_CmdGuide"
+msgid "here, but the darkness here is"
+msgstr ""
+
+#: npc/pre-re/guides/guides_comodo.txt
+# mes "more exciting than gloomy~";
+msgctxt "F_CmdGuide"
+msgid "more exciting than gloomy~"
+msgstr ""

@@ -1,0 +1,1041 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 11:58-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# .@md_name$ = _("Orc's Memory");
+#: npc/instances/OrcsMemory.txt
+msgctxt "Dimensional Gorge Piece"
+msgid "Orc's Memory"
+msgstr "Memorial dos Orcs"
+
+# mes("Only users between Levels ^ff000030 ~ 80^000000 can enter this Dungeon.");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Dimensional Gorge Piece"
+msgid "Only users between Levels ^ff000030 ~ 80^000000 can enter this Dungeon."
+msgstr ""
+"Somente usuários entre os níveis ^ff000030 ~ 80^000000 podem entrar nesta "
+"Masmorra."
+
+# mes("^0000ffAll records and after-effects related to the Orc's Memory Dungeon are deleted. You can now regenerate or re-enter the dungeon.^000000");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Dimensional Gorge Piece"
+msgid ""
+"^0000ffAll records and after-effects related to the Orc's Memory Dungeon are "
+"deleted. You can now regenerate or re-enter the dungeon.^000000"
+msgstr ""
+"^0000ffTodos os registros e efeitos posteriores relacionados ao calabouço de "
+"memória do Orc são excluídos. Agora você pode regenerar ou reentrar no "
+"calabouço.^000000"
+
+# mes("You can enter the Dungeon if it has been generated.");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Dimensional Gorge Piece"
+msgid "You can enter the Dungeon if it has been generated."
+msgstr "Você pode entrar na Masmorra se ela tiver sido gerada."
+
+# .@str$ = sprintf(_$("Enter the Dungeon %s"), .@md_name$);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid "Enter the Dungeon %s"
+msgstr "Entre na Masmorra %s"
+
+# if (select(.@str$, "Cancel") == 2)
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Dimensional Gorge Piece"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mesf("Party status confirmed. Would you like to book entrance to the %s?", .@md_name$);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid "Party status confirmed. Would you like to book entrance to the %s?"
+msgstr ""
+"Status de partido confirmado. Você gostaria de reservar a entrada para o %s?"
+
+# .@str$ = sprintf(_$("Reserve the %s"), .@md_name$);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid "Reserve the %s"
+msgstr "Reserve o %s"
+
+# switch (select(.@str$, "Enter the Dungeon", "Cancel")) {
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Dimensional Gorge Piece"
+msgid "Enter the Dungeon"
+msgstr "Entrar no calabouço"
+
+# mesf("Party Name: %s", .@p_name$);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid "Party Name: %s"
+msgstr "Nome da festa: %s"
+
+# mesf("Party Leader: %s", strcharinfo(PC_NAME));
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid "Party Leader: %s"
+msgstr "Líder do Partido: %s"
+
+# mesf("^0000ff%s ^000000 - Reservation Failed.", .@md_name$);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid "^0000ff%s ^000000 - Reservation Failed."
+msgstr "^0000ff%s ^000000 - Reserva Falhada."
+
+# mesf("^0000ff%s^000000- Attempting to book an entrance", .@md_name$);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid "^0000ff%s^000000- Attempting to book an entrance"
+msgstr "^0000ff%s^000000- Tentativa de reservar uma entrada"
+
+# mesf("After making a reservation, you have to select 'Enter the Dungeon' from the menu if you wish to enter the %s.", .@md_name$);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid ""
+"After making a reservation, you have to select 'Enter the Dungeon' from the "
+"menu if you wish to enter the %s."
+msgstr ""
+"Após fazer uma reserva, você tem que selecionar 'Enter the Dungeon' no menu, "
+"se desejar entrar no %s."
+
+# } else if (select(sprintf(_$("%s Enter the Memorial Dungeon"), .@md_name$), "Cancel") == 2) {
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid "%s Enter the Memorial Dungeon"
+msgstr "%s Entrar no Calabouço Memorial"
+
+# mesf("Memorial Dungeon %s does not exist.", .@md_name$);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid "Memorial Dungeon %s does not exist."
+msgstr "O Memorial Dungeon %s não existe."
+
+# mes("The party leader has not reserved entrance to the dungeon yet.");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Dimensional Gorge Piece"
+msgid "The party leader has not reserved entrance to the dungeon yet."
+msgstr "O líder do partido ainda não reservou a entrada para o calabouço."
+
+# mes("Once the reservation is complete, the dungeon will be generated.");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Dimensional Gorge Piece"
+msgid "Once the reservation is complete, the dungeon will be generated."
+msgstr "Uma vez concluída a reserva, o calabouço será gerado."
+
+# mes("If your dungeon has been destroyed you must wait 7 days before re-entering.");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Dimensional Gorge Piece"
+msgid ""
+"If your dungeon has been destroyed you must wait 7 days before re-entering."
+msgstr ""
+"Se seu calabouço foi destruído, você deve esperar 7 dias antes de voltar a "
+"entrar."
+
+# mapannounce("gef_fild10", sprintf(_$("%s of the party, %s is entering the %s."), strcharinfo(PC_NAME), .@p_name$, .@md_name$), bc_map, C_SPRINGGREEN);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Dimensional Gorge Piece"
+msgid "%s of the party, %s is entering the %s."
+msgstr "%s do partido, %s está entrando no %s."
+
+# mes("The Mad Scientist doesn't seem to notice you and keeps mumbling to himself...");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid ""
+"The Mad Scientist doesn't seem to notice you and keeps mumbling to himself..."
+msgstr ""
+"O Cientista Louco parece não reparar em você e continua murmurando para si "
+"mesmo."
+
+# mes("[Mad Scientist]");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "[Mad Scientist]"
+msgstr "[Cientista Louco]"
+
+# mes("Haha, no Orcs are coming near me!");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "Haha, no Orcs are coming near me!"
+msgstr "Haha, nenhum Orc está chegando perto de mim!"
+
+# mes("The power of the Dimensional Gorge is undefeatable!!");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "The power of the Dimensional Gorge is undefeatable!!"
+msgstr "O poder do Desfiladeiro Dimensional é imbatível!!"
+
+# switch (select("Orcs don't attack you?", "You wish!")) {
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "Orcs don't attack you?"
+msgstr "Os orcs não o atacam?"
+
+# switch (select("Orcs don't attack you?", "You wish!")) {
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "You wish!"
+msgstr "Você deseja!"
+
+# mes("Yeah, yeah.. I know it's hard to belive. I don't blame ya.");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "Yeah, yeah.. I know it's hard to belive. I don't blame ya."
+msgstr "Sim, sim... Eu sei que é difícil acreditar. Eu não te culpo."
+
+# mes("I used to study the Dimensional Gorge discovered near Morroc.");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "I used to study the Dimensional Gorge discovered near Morroc."
+msgstr ""
+"Eu costumava estudar o desfiladeiro Dimensional descoberto perto de Morroc."
+
+# mes("According to my research, the minerals found there have enormous power inside them!");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid ""
+"According to my research, the minerals found there have enormous power "
+"inside them!"
+msgstr ""
+"De acordo com minhas pesquisas, os minerais ali encontrados têm um enorme "
+"poder dentro deles!"
+
+# mes("You are a pretty distrustful person, huh?");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "You are a pretty distrustful person, huh?"
+msgstr "Você é uma pessoa muito desconfiada, não é?"
+
+# select("Oh? Like what, travel to alternate space?");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "Oh? Like what, travel to alternate space?"
+msgstr "Oh? como o quê, viajar para o espaço alternativo?"
+
+# mes("Very smart! I have actually just done that! See that statue over there? It's not your normal Monolith!");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid ""
+"Very smart! I have actually just done that! See that statue over there? It's "
+"not your normal Monolith!"
+msgstr ""
+"Muito inteligente! Na verdade, acabei de fazer isso! Vê aquela estátua ali? "
+"Não é o seu Monólito normal!"
+
+# mes("I have created it with a combination of our technology and the unlimited energy I discovered from the Gorge! Want to try it?");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid ""
+"I have created it with a combination of our technology and the unlimited "
+"energy I discovered from the Gorge! Want to try it?"
+msgstr ""
+"Eu o criei com uma combinação de nossa tecnologia e a energia ilimitada que "
+"descobri do Desfiladeiro! Quer experimentá-la?"
+
+# select("...Um, that doesn't sound legal?");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "...Um, that doesn't sound legal?"
+msgstr "...Hum, isso não soa legal?"
+
+# mes("Hey, since when did something so interesting have to be legal!? How about it! You can talk to the Orcs! C'mon!");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid ""
+"Hey, since when did something so interesting have to be legal!? How about "
+"it! You can talk to the Orcs! C'mon!"
+msgstr ""
+"Ei, desde quando algo tão interessante tem que ser legal!? Que tal! Você "
+"pode falar com os Orcs! Vá lá!"
+
+# mes("Chances are they'll just give you lots of instructions once they see you, so just wing it! They're always saying the same thing, to the point where I memorized them!");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid ""
+"Chances are they'll just give you lots of instructions once they see you, so "
+"just wing it! They're always saying the same thing, to the point where I "
+"memorized them!"
+msgstr ""
+"É provável que eles lhe dêem muitas instruções assim que o virem, então é só "
+"improvisar! Eles estão sempre dizendo a mesma coisa, ao ponto de eu os "
+"memorizar!"
+
+# switch (select("Alright... What do I do?", "Umm, maybe not.")) {
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "Alright... What do I do?"
+msgstr "Muito bem... O que eu faço?"
+
+# switch (select("Alright... What do I do?", "Umm, maybe not.")) {
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "Umm, maybe not."
+msgstr "Umm, talvez não."
+
+# mes("Very good! Just sit in the hands of this statue! And try to act natural when you're in there!");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid ""
+"Very good! Just sit in the hands of this statue! And try to act natural when "
+"you're in there!"
+msgstr ""
+"Muito bom! Basta sentar-se nas mãos desta estátua! E tente agir naturalmente "
+"quando estiver lá dentro!"
+
+# mes("Oh fine, be that way!");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid "Oh fine, be that way!"
+msgstr "Ótimo, que assim seja!"
+
+# mes("Hmm? Put your hand on that Monemus Statue if you want to experience traveling through dimensions!");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Mad Scientist#orc"
+msgid ""
+"Hmm? Put your hand on that Monemus Statue if you want to experience "
+"traveling through dimensions!"
+msgstr ""
+"Hmm? Coloque sua mão sobre a Estátua de Monemus se você quiser experimentar "
+"viajar através das dimensões!"
+
+# monster(instance_mapname("1@orcs"), 0, 0, _("Orc Warrior"), ORK_WARRIOR, 30, instance_npcname("#Resurrect Monsters1")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters1"
+msgid "Orc Warrior"
+msgstr "Orc Warrior"
+
+# monster(.@map$, 0, 0, _("High Orc"), HIGH_ORC, .@mob_dead_num, instance_npcname("#Resurrect Monsters1")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters1"
+msgid "High Orc"
+msgstr "High Orc"
+
+# mapannounce(.@map$, _("High Orc: We need more defenses! Get more people here!"), bc_map, "0xff4444");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters1"
+msgid "High Orc: We need more defenses! Get more people here!"
+msgstr "Alto Orc: Precisamos de mais defesas! Traga mais gente aqui!"
+
+# mapannounce(.@map$, _("Where are the High Orcs!? Get them to stop the enemies!"), bc_map, "0xff4444");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters1"
+msgid "Where are the High Orcs!? Get them to stop the enemies!"
+msgstr "Onde estão os Altos Orcs!? Faça-os parar os inimigos!"
+
+# mapannounce(.@map$, _("Caution: The army's starting to concentrate at Zone No. 4."), bc_map, "0x77ff77");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters1"
+msgid "Caution: The army's starting to concentrate at Zone No. 4."
+msgstr "Cuidado: O exército está começando a se concentrar na Zona Nº 4."
+
+# mapannounce(instance_mapname("1@orcs"), _("Shouts of the Chief Orc of Safeguards: Looks like this will take longer than expected. Summon the Stalactic Golems!"), bc_map, "0xff4444");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters1"
+msgid ""
+"Shouts of the Chief Orc of Safeguards: Looks like this will take longer than "
+"expected. Summon the Stalactic Golems!"
+msgstr ""
+"Gritos do Chefe Orc de Salvaguardas: Parece que isto vai levar mais tempo do "
+"que o esperado. Invocar os Golems Estalácticos!"
+
+# mapannounce(.@map$, _("Stalactic Golems are digging out of the deep underground."), bc_map, "0x77ff77");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters1"
+msgid "Stalactic Golems are digging out of the deep underground."
+msgstr "Os Golems estalácticos estão escavando no subsolo profundo."
+
+# areamonster(.@map$, 17, 187, 27, 177, _("Stalactic Golem"), STALACTIC_GOLEM, 20, instance_npcname("#Resurrect Monsters1")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters1"
+msgid "Stalactic Golem"
+msgstr "Stalactic Golem"
+
+# monster(instance_mapname("1@orcs"), 0, 0, _("Trained Wolf"), DESERT_WOLF, 15, instance_npcname("#Resurrect Monsters2")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters2"
+msgid "Trained Wolf"
+msgstr "Lobo treinado"
+
+# monster(instance_mapname("1@orcs"), 0, 0, _("Orc Archer"), ORC_ARCHER, 15, instance_npcname("#Resurrect Monsters3")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters3"
+msgid "Orc Archer"
+msgstr "Orc Archer"
+
+# mapannounce(.@map$, _("High Orc: Attack them from behind! Cut off their support!"), bc_map, "0xff4444");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters3"
+msgid "High Orc: Attack them from behind! Cut off their support!"
+msgstr "Alto Orc: Ataque-os por trás! Corte-lhes o apoio!"
+
+# areamonster(instance_mapname("1@orcs"), 98, 35, 178, 115, _("Anopheles"), ANOPHELES, 10, instance_npcname("#Resurrect Monsters4")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Resurrect Monsters4"
+msgid "Anopheles"
+msgstr "Anopheles"
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger: Damn... What took you so long!! I don't have all day!!"), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#1-2"
+msgid "Kruger: Damn... What took you so long!! I don't have all day!!"
+msgstr ""
+"Kruger: Maldição... Por que demoraram tanto!! Eu não tenho o dia todo!!"
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger: My plan was to let our comrades open the gate, but it's all ruined since I got busted by the Orc Shaman."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#1-2"
+msgid ""
+"Kruger: My plan was to let our comrades open the gate, but it's all ruined "
+"since I got busted by the Orc Shaman."
+msgstr ""
+"Kruger: Meu plano era deixar nossos camaradas abrirem o portão, mas está "
+"tudo arruinado desde que fui preso pelo Shaman Orc."
+
+# mapannounce(instance_mapname("1@orcs"), _("Shouts of the Chief Orc of Safeguards: I smell a rat.. Send some patrols to the entrance!!"), bc_map, "0xff4444");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#1-2"
+msgid ""
+"Shouts of the Chief Orc of Safeguards: I smell a rat.. Send some patrols to "
+"the entrance!!"
+msgstr ""
+"Gritos do Chefe Orc de Salvaguardas: Cheira-me a rato... Mande algumas "
+"patrulhas para a entrada!!"
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger: Darn it.. They'll be here any minute. Ok. Listen to me now."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#1-2"
+msgid "Kruger: Darn it.. They'll be here any minute. Ok. Listen to me now."
+msgstr ""
+"Kruger: Maldição... Eles estarão aqui a qualquer minuto. Ok. Ouça-me agora."
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger: The Orc Shaman has sealed the 1st basement by dividing it into 4 zones. Each zone has one Enchanted Orc who has the power to unseal the next zone."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#1-2"
+msgid ""
+"Kruger: The Orc Shaman has sealed the 1st basement by dividing it into 4 "
+"zones. Each zone has one Enchanted Orc who has the power to unseal the next "
+"zone."
+msgstr ""
+"Kruger: O Orc Shaman selou o 1º porão, dividindo-o em 4 zonas. Cada zona tem "
+"um Orc Encantado que tem o poder de des selar a próxima zona."
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger: Find those Enchanted Orcs and get rid of them to move to the next zone."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#1-2"
+msgid ""
+"Kruger: Find those Enchanted Orcs and get rid of them to move to the next "
+"zone."
+msgstr ""
+"Kruger: Encontre os Orcs Encantados e livre-se deles para passar para a "
+"próxima zona."
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger: Try to avoid encountering Orcs other then the Enchanted ones. Everytime you kill a normal Orc, High Orcs will gather at the last path to the 2nd floor."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#1-2"
+msgid ""
+"Kruger: Try to avoid encountering Orcs other then the Enchanted ones. "
+"Everytime you kill a normal Orc, High Orcs will gather at the last path to "
+"the 2nd floor."
+msgstr ""
+"Kruger: Tente evitar encontrar Orcs que não sejam os Encantados. Toda vez "
+"que você matar um Orc normal, os Orcs altos se reunirão no último caminho "
+"para o 2º andar."
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger: In the worst case, the path to the 2nd floor could be completely blocked. For your own sake, you should be as sneaky as possible."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#1-2"
+msgid ""
+"Kruger: In the worst case, the path to the 2nd floor could be completely "
+"blocked. For your own sake, you should be as sneaky as possible."
+msgstr ""
+"Kruger: Na pior das hipóteses, o caminho para o 2º andar poderia ser "
+"completamente bloqueado. Para seu próprio bem, você deve ser o mais "
+"sorrateiro possível."
+
+# mapannounce(instance_mapname("1@orcs"), _("Mission: Sneak in and get rid of the 'Enchanted Orcs'. Avoiding battles with other Orcs is the best way of getting into the 2nd floor."), bc_map, "0x44ffff");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#1-2"
+msgid ""
+"Mission: Sneak in and get rid of the 'Enchanted Orcs'. Avoiding battles with "
+"other Orcs is the best way of getting into the 2nd floor."
+msgstr ""
+"Missão: Entrar sorrateiramente e se livrar dos 'Orcs Encantados'. Evitar "
+"batalhas com outros Orcs é a melhor maneira de entrar no 2º andar."
+
+# areamonster(instance_mapname("1@orcs"), 137, 83, 143, 89, _("Enchanted Orc"), ORK_WARRIOR, 1, instance_npcname("B1 Area Mobs")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#1-2"
+msgid "Enchanted Orc"
+msgstr "Orc Encantado"
+
+# areamonster(instance_mapname("1@orcs"), 103, 105, 109, 111, _("Enchanted Orc"), ORK_WARRIOR, 1, instance_npcname("B1 Area Mobs")+"::OnMyMobDead1");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "B1 Area 1"
+msgid "Enchanted Orc"
+msgstr "Orc Encantado"
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger's Whisper: The Orcs here used to be my companions. They just lost their will ever since the Orc Shaman started to control them with her magic."), bc_map, "0xff4499");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "B1 Area 1"
+msgid ""
+"Kruger's Whisper: The Orcs here used to be my companions. They just lost "
+"their will ever since the Orc Shaman started to control them with her magic."
+msgstr ""
+"O sussurro de Kruger: Os Orcs aqui costumavam ser meus companheiros. Eles "
+"apenas perderam sua vontade desde que o Orc Shaman começou a controlá-los "
+"com sua magia."
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger's Whisper: There's nothing we can do but to defeat the Orc Shaman if we want to save the remaining tribes."), bc_map, "0xff4499");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "B1 Area 1"
+msgid ""
+"Kruger's Whisper: There's nothing we can do but to defeat the Orc Shaman if "
+"we want to save the remaining tribes."
+msgstr ""
+"O sussurro de Kruger: Não há nada que possamos fazer a não ser derrotar o "
+"Orc Shaman se quisermos salvar as tribos restantes."
+
+# areamonster(instance_mapname("1@orcs"), 32, 40, 38, 46, _("Enchanted Orc"), ORK_WARRIOR, 1, instance_npcname("B1 Area Mobs")+"::OnMyMobDead2");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "B1 Area 2"
+msgid "Enchanted Orc"
+msgstr "Orc Encantado"
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger's Whisper: I saw the bodies of our tribe. It seems that the Orc Shaman used those Orcs for her rituals."), bc_map, "0xff4499");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "B1 Area 2"
+msgid ""
+"Kruger's Whisper: I saw the bodies of our tribe. It seems that the Orc "
+"Shaman used those Orcs for her rituals."
+msgstr ""
+"O sussurro de Kruger: Eu vi os corpos de nossa tribo. Parece que o Shaman "
+"Orc usou esses Orcs para seus rituais."
+
+# mapannounce(instance_mapname("1@orcs"), _("Kruger's Whisper: ... It all has to do with me. I am responsible for this evil."), bc_map, "0xff4499");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "B1 Area 2"
+msgid ""
+"Kruger's Whisper: ... It all has to do with me. I am responsible for this "
+"evil."
+msgstr ""
+"Kruger's Whisper: ... Tudo isso tem a ver comigo. Eu sou responsável por "
+"este mal."
+
+# areamonster(instance_mapname("1@orcs"), 19, 177, 25, 183, _("Enchanted Orc"), ORK_WARRIOR, 1, instance_npcname("B1 Area Mobs")+"::OnMyMobDead3");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "B1 Area 3"
+msgid "Enchanted Orc"
+msgstr "Orc Encantado"
+
+# mapannounce(instance_mapname("1@orcs"), _("Please, hang in there!"), bc_map, "0xff4499");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "B1 Area 3"
+msgid "Please, hang in there!"
+msgstr "Por favor, aguente firme!"
+
+# mapannounce(instance_mapname("1@orcs"), _("We'll get some rest when we get to the 2nd basement after passing through here."), bc_map, "0xff4499");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "B1 Area 3"
+msgid ""
+"We'll get some rest when we get to the 2nd basement after passing through "
+"here."
+msgstr ""
+"Descansaremos um pouco quando chegarmos ao segundo subsolo depois de "
+"passarmos por aqui."
+
+# monster(instance_mapname("2@orcs"), 0, 0, _("Vengeful Orc"), ORC_SKELETON, 30, instance_npcname("#2Resurrect Monsters1")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters1"
+msgid "Vengeful Orc"
+msgstr "Orc vingativo"
+
+# monster(.@map$, 0, 0, _("High Orc"), HIGH_ORC, .@mob_dead_num, instance_npcname("#2Resurrect Monsters1")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters1"
+msgid "High Orc"
+msgstr "High Orc"
+
+# mapannounce(.@map$, _("Warning: High Orcs are gathering near area 3."), bc_map, "0xff4444");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters1"
+msgid "Warning: High Orcs are gathering near area 3."
+msgstr "Advertência: Os Orcs altos estão se reunindo perto da área 3."
+
+# mapannounce(.@map$, _("Caution: The Forces have started to concentrate at the Shaman's Altar."), bc_map, "0x77ff77");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters1"
+msgid "Caution: The Forces have started to concentrate at the Shaman's Altar."
+msgstr "Cuidado: As Forças começaram a se concentrar no Altar do Xamã."
+
+# mapannounce(instance_mapname("2@orcs"), _("Voice from somewhere: Foolish... Do you really think the altar would fall like that?"), bc_map, "0xff4444");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters1"
+msgid ""
+"Voice from somewhere: Foolish... Do you really think the altar would fall "
+"like that?"
+msgstr ""
+"Voz de algum lugar: Tolo... Você realmente acha que o altar iria cair assim?"
+
+# mapannounce(.@map$, _("[ Wraiths were summoned by an unknown power ]"), bc_map, "0x77ff77");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters1"
+msgid "[ Wraiths were summoned by an unknown power ]"
+msgstr "[ Os Wraiths foram convocados por um poder desconhecido ]"
+
+# areamonster(.@map$, 167, 25, 177, 35, _("Wraith"), G_WRAITH, 30, instance_npcname("#2Resurrect Monsters1")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters1"
+msgid "Wraith"
+msgstr "Wraith"
+
+# monster(instance_mapname("2@orcs"), 0, 0, _("Orc Zombie"), ORC_ZOMBIE, 15, instance_npcname("#2Resurrect Monsters3")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters3"
+msgid "Orc Zombie"
+msgstr "Orc Zombie"
+
+# monster(.@map$, 0, 0, _("Orc Archer"), ORC_ARCHER, .@mob_dead_num, instance_npcname("#2Resurrect Monsters3")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters3"
+msgid "Orc Archer"
+msgstr "Orc Archer"
+
+# mapannounce(.@map$, _("Warning: Orc Archer teams are gathering near the altar."), bc_map, "0xff4444");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters3"
+msgid "Warning: Orc Archer teams are gathering near the altar."
+msgstr ""
+"Advertência: As equipes do Orc Archer estão se reunindo perto do altar."
+
+# monster(instance_mapname("2@orcs"), 0, 0, _("Anopheles"), ANOPHELES, 10, instance_npcname("#2Resurrect Monsters4")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#2Resurrect Monsters4"
+msgid "Anopheles"
+msgstr "Anopheles"
+
+# mapannounce(instance_mapname("2@orcs"), _("Kruger's Whisper: I'll tell you how to get to the Shaman's altar."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#2-2"
+msgid "Kruger's Whisper: I'll tell you how to get to the Shaman's altar."
+msgstr "O sussurro de Kruger: Eu lhe direi como chegar ao altar do xamã."
+
+# mapannounce(instance_mapname("2@orcs"), _("Kruger's Whisper: Do you see the braziers that light the path? Unseal the next zone by strengthening their flames."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#2-2"
+msgid ""
+"Kruger's Whisper: Do you see the braziers that light the path? Unseal the "
+"next zone by strengthening their flames."
+msgstr ""
+"O sussurro de Kruger: Você vê as braseiras que iluminam o caminho? Desfaçam "
+"a próxima zona reforçando suas chamas."
+
+# mapannounce(instance_mapname("2@orcs"), _("Kruger's Whisper: Of course those monsters won't let you touch the braziers that easily."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#2-2"
+msgid ""
+"Kruger's Whisper: Of course those monsters won't let you touch the braziers "
+"that easily."
+msgstr ""
+"O sussurro de Kruger: É claro que esses monstros não vão deixar você tocar "
+"as brasas tão facilmente."
+
+# mapannounce(instance_mapname("2@orcs"), _("Kruger's Whisper: But still, try keep the battles not too noticable so the Shaman won't guard the altar with her army squad."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#2-2"
+msgid ""
+"Kruger's Whisper: But still, try keep the battles not too noticable so the "
+"Shaman won't guard the altar with her army squad."
+msgstr ""
+"O sussurro de Kruger: Mas ainda assim, tente manter as batalhas não muito "
+"notáveis para que o xamã não guarde o altar com seu esquadrão do exército."
+
+# mapannounce(instance_mapname("2@orcs"), _("Kruger's Whisper: Only the Party Leader can strengthen the flames, so protect your leader."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#2-2"
+msgid ""
+"Kruger's Whisper: Only the Party Leader can strengthen the flames, so "
+"protect your leader."
+msgstr ""
+"O sussurro de Kruger: Somente o Líder do Partido pode fortalecer as chamas, "
+"portanto, proteja seu líder."
+
+# mapannounce(instance_mapname("2@orcs"), _("Mission: Unseal the zone by lighting the braziers. They can only be lit in a certain order, so be careful."), bc_map, "0x4444ff");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#2-2"
+msgid ""
+"Mission: Unseal the zone by lighting the braziers. They can only be lit in a "
+"certain order, so be careful."
+msgstr ""
+"Missão: Desvendar a zona através da iluminação das braseiras. Elas só podem "
+"ser iluminadas em uma determinada ordem, portanto, tenha cuidado."
+
+# monster(.@map$, 109, 156, _("Safeguard Chief"), I_HIGH_ORC, 1, instance_npcname("#Mobs Control")+"::OnMyMobDead1");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Warp2-1"
+msgid "Safeguard Chief"
+msgstr "Chefe da Salvaguarda"
+
+# mapannounce(.@map$, _("The Chief Orc of Safeguards: Oh!! Looks like I have company. Defeat me if you can!!"), bc_map, "0xff8888");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Warp2-1"
+msgid ""
+"The Chief Orc of Safeguards: Oh!! Looks like I have company. Defeat me if "
+"you can!!"
+msgstr ""
+"O Orco Chefe de Salvaguardas: Oh!! Parece que eu tenho companhia. Derrotem-"
+"me se puderem!!"
+
+# monster(.@map$, 67, 64, _("Orc Sniper"), I_ORC_ARCHER, 1, instance_npcname("#Mobs Control")+"::OnMyMobDead2");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Warp2-2"
+msgid "Orc Sniper"
+msgstr "Orc Sniper"
+
+# mapannounce(.@map$, _("Orc Sniper: Hah! Pretty impressive that you made it this far, but your foolish little trip ends here..."), bc_map, "0xff8888");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Warp2-2"
+msgid ""
+"Orc Sniper: Hah! Pretty impressive that you made it this far, but your "
+"foolish little trip ends here..."
+msgstr ""
+"Orc Sniper: Hah! Muito impressionante que tenha chegado até aqui, mas sua "
+"pequena viagem tola termina aqui..."
+
+# monster(.@map$, 152, 147, _("Depraved Orc Spirit"), I_ORC_SKELETON, 1, instance_npcname("#Mobs Control")+"::OnMyMobDead3");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Warp2-3"
+msgid "Depraved Orc Spirit"
+msgstr "Espírito Orc depravado"
+
+# mapannounce(.@map$, _("Depraved Orc Spirit: I smell flesh! Hungry! Wanna try some human meat!!"), bc_map, "0xff8888");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Warp2-3"
+msgid "Depraved Orc Spirit: I smell flesh! Hungry! Wanna try some human meat!!"
+msgstr ""
+"Espírito Orc depravado: Cheira-me a carne! Faminto! Quero provar um pouco de "
+"carne humana!!"
+
+# mapannounce(instance_mapname("2@orcs"), _("Shaman Cargalache: Hahaha!! So, you finally made it here. The assassin you sent was just terrible. That stupid Orc is getting cold under my feet."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Warp2-3"
+msgid ""
+"Shaman Cargalache: Hahaha!! So, you finally made it here. The assassin you "
+"sent was just terrible. That stupid Orc is getting cold under my feet."
+msgstr ""
+"Xamã Cargalache: Hahaha!! Então, você finalmente chegou aqui. O assassino "
+"que você enviou foi simplesmente terrível. Aquele estúpido Orc está ficando "
+"frio debaixo dos meus pés."
+
+# mapannounce(instance_mapname("2@orcs"), _("Shaman Cargalache: My loyal slave, go get those intruders!"), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Warp2-3"
+msgid "Shaman Cargalache: My loyal slave, go get those intruders!"
+msgstr "Xamã Cargalache: Meu leal escravo, vá pegar esses intrusos!"
+
+# mapannounce(instance_mapname("2@orcs"), _("Depraved Orc Hero: Whatever you say, my lord."), bc_map, "0xff7777");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Warp2-3"
+msgid "Depraved Orc Hero: Whatever you say, my lord."
+msgstr "Herói Orc depravado: O que quer que você diga, meu senhor."
+
+# mapannounce(instance_mapname("2@orcs"), _("Caution: You have been discovered by Shaman Cargalache. Kruger's plan to assassinate the Shaman has failed. You must defeat Cargalache and find traces of Kruger."), bc_map, "0x8888ff");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Warp2-3"
+msgid ""
+"Caution: You have been discovered by Shaman Cargalache. Kruger's plan to "
+"assassinate the Shaman has failed. You must defeat Cargalache and find "
+"traces of Kruger."
+msgstr ""
+"Cuidado: Você foi descoberto por Shaman Cargalache. O plano de Kruger de "
+"assassinar o xamã falhou. Você deve derrotar Cargalache e encontrar "
+"vestígios de Kruger."
+
+# monster(.@map$, 185, 8, _("Shaman Cargalache"), I_ORC_LADY, 1, instance_npcname("#Boss Control")+"::OnMyMobDead");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Boss Control"
+msgid "Shaman Cargalache"
+msgstr "Xamã Cargalache"
+
+# monster(.@map$, 179, 15, _("Depraved Orc Hero"), ORK_HERO, 1);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Boss Control"
+msgid "Depraved Orc Hero"
+msgstr "Herói Orc depravado"
+
+# mapannounce(.@map$, _("Shaman Cargalache: How... How could this be... How could someone like you...!!"), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Boss Control"
+msgid ""
+"Shaman Cargalache: How... How could this be... How could someone like "
+"you...!!"
+msgstr ""
+"Xamã Cargalache: Como... Como isso poderia ser... Como poderia alguém como "
+"você...!"
+
+# mapannounce(.@map$, _("Shaman Cargalache: How is it that I've been overpowered by mere humans!"), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Boss Control"
+msgid "Shaman Cargalache: How is it that I've been overpowered by mere humans!"
+msgstr "Xamã Cargalache: Como é que eu fui dominado por meros humanos!"
+
+# mapannounce(.@map$, _("Shaman Cargalache: This... This can't be the end..."), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Boss Control"
+msgid "Shaman Cargalache: This... This can't be the end..."
+msgstr "Xamã Cargalache: Este... Isto não pode ser o fim..."
+
+# mapannounce(.@map$, _("Shaman Cargalache: I... Can't die... Yet...!"), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Boss Control"
+msgid "Shaman Cargalache: I... Can't die... Yet...!"
+msgstr "Xamã Cargalache: I... Não pode morrer... No entanto...!"
+
+# mapannounce(.@map$, _("Shaman Cargalache: Defeated by these fools... It can't be happening...!"), bc_map, C_YELLOW);
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "#Boss Control"
+msgid "Shaman Cargalache: Defeated by these fools... It can't be happening...!"
+msgstr ""
+"Xamã Cargalache: Derrotado por estes tolos... Isso não pode estar "
+"acontecendo...!"
+
+# mes("[Kruger]");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid "[Kruger]"
+msgstr "[Kruger]"
+
+# mes("*Coughing*");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid "*Coughing*"
+msgstr "*Tosse*"
+
+# mesf("%s, it's you...", strcharinfo(PC_NAME));
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Kruger#"
+msgid "%s, it's you..."
+msgstr "%s, é você..."
+
+# mesf("[%s]", strcharinfo(PC_NAME));
+#: npc/instances/OrcsMemory.txt
+#, fuzzy, c-format
+msgctxt "Kruger#"
+msgid "[%s]"
+msgstr "[%s]"
+
+# mes("Don't move! You are wounded!");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid "Don't move! You are wounded!"
+msgstr "Não se mexa! Você está ferido!"
+
+# mes("It's... all right.. I'm dying...");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid "It's... all right.. I'm dying..."
+msgstr "Está... tudo bem... Eu estou morrendo..."
+
+# mes("....");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid "...."
+msgstr "..."
+
+# mes("The Shaman? What about the Shaman?");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid "The Shaman? What about the Shaman?"
+msgstr "O xamã? E o Xamã?"
+
+# mes("The Shaman's dead now. Who was that Shaman really?");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid "The Shaman's dead now. Who was that Shaman really?"
+msgstr "O xamã está morto agora. Quem era realmente esse xamã?"
+
+# mes("Kruger seemed to be relieved as he hears of the death of the Shaman, but you notice the bitter expression on his face.");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid ""
+"Kruger seemed to be relieved as he hears of the death of the Shaman, but you "
+"notice the bitter expression on his face."
+msgstr ""
+"Kruger parecia estar aliviado ao ouvir falar da morte do xamã, mas você "
+"percebe a expressão amarga em seu rosto."
+
+# mes("I.. I just couldn't kill my own daughter...");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid "I.. I just couldn't kill my own daughter..."
+msgstr "Eu... eu não consegui matar minha própria filha..."
+
+# mes("Thank you, I'm sure she's finally free from the nightmare that used to choke her soul.");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid ""
+"Thank you, I'm sure she's finally free from the nightmare that used to choke "
+"her soul."
+msgstr ""
+"Obrigado, tenho certeza de que ela está finalmente livre do pesadelo que "
+"costumava sufocar sua alma."
+
+# mes("Kruger was about to say something more, but he breathed his last breath before he could...");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid ""
+"Kruger was about to say something more, but he breathed his last breath "
+"before he could..."
+msgstr ""
+"Kruger estava prestes a dizer algo mais, mas ele deu seu último suspiro "
+"antes de poder..."
+
+# mes("You can see the dead body of Kruger, peacefully lying on the ground.");
+#: npc/instances/OrcsMemory.txt
+#, fuzzy
+msgctxt "Kruger#"
+msgid "You can see the dead body of Kruger, peacefully lying on the ground."
+msgstr "Você pode ver o corpo morto de Kruger, pacificamente deitado no chão."

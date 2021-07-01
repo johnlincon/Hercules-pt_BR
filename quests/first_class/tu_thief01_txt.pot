@@ -1,0 +1,1682 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+#,fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "[Yierhan]";
+msgctxt "Thief Trainer#T"
+msgid "[Yierhan]"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Eh...?";
+msgctxt "Thief Trainer#T"
+msgid "Eh...?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "A Novice?";
+msgctxt "Thief Trainer#T"
+msgid "A Novice?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Still thinking";
+msgctxt "Thief Trainer#T"
+msgid "Still thinking"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "what job you're";
+msgctxt "Thief Trainer#T"
+msgid "what job you're"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "gonna choose...";
+msgctxt "Thief Trainer#T"
+msgid "gonna choose..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Am I right?";
+msgctxt "Thief Trainer#T"
+msgid "Am I right?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Listen, if you ever decide to become a Thief--a smart choice";
+msgctxt "Thief Trainer#T"
+msgid "Listen, if you ever decide to become a Thief--a smart choice"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I might add--come and talk to me. I'll show you the ropes!";
+msgctxt "Thief Trainer#T"
+msgid "I might add--come and talk to me. I'll show you the ropes!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Whaaaat are you";
+msgctxt "Thief Trainer#T"
+msgid "Whaaaat are you"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "doin' here? There's";
+msgctxt "Thief Trainer#T"
+msgid "doin' here? There's"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "nothing I can teach you!";
+msgctxt "Thief Trainer#T"
+msgid "nothing I can teach you!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You're waaay beyond me!";
+msgctxt "Thief Trainer#T"
+msgid "You're waaay beyond me!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "In fact, I think";
+msgctxt "Thief Trainer#T"
+msgid "In fact, I think"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "you're qualified";
+msgctxt "Thief Trainer#T"
+msgid "you're qualified"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "to teach me some stuff!";
+msgctxt "Thief Trainer#T"
+msgid "to teach me some stuff!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Come on! I need new moves!";
+msgctxt "Thief Trainer#T"
+msgid "Come on! I need new moves!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Heya pal.";
+msgctxt "Thief Trainer#T"
+msgid "Heya pal."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I'm Yierhan.";
+msgctxt "Thief Trainer#T"
+msgid "I'm Yierhan."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I happen to be";
+msgctxt "Thief Trainer#T"
+msgid "I happen to be"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "the guy in charge";
+msgctxt "Thief Trainer#T"
+msgid "the guy in charge"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "of training new Thieves.";
+msgctxt "Thief Trainer#T"
+msgid "of training new Thieves."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("Training?", "Training? Right now?")){
+msgctxt "Thief Trainer#T"
+msgid "Training?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("Training?", "Training? Right now?")){
+msgctxt "Thief Trainer#T"
+msgid "Training? Right now?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Yeah, training. I mean, this kind of stuff is second nature to some people, but other guys need a little more help. So this is one of those 'just in case' things.";
+msgctxt "Thief Trainer#T"
+msgid "Yeah, training. I mean, this kind of stuff is second nature to some people, but other guys need a little more help. So this is one of those 'just in case' things."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Right now?";
+msgctxt "Thief Trainer#T"
+msgid "Right now?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Yeah, right now!";
+msgctxt "Thief Trainer#T"
+msgid "Yeah, right now!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "But if you're not ready for some reason, I guess I can wait.";
+msgctxt "Thief Trainer#T"
+msgid "But if you're not ready for some reason, I guess I can wait."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Alright, first of all, Thieves use melee attacks. Well, most of us do. There are a few who like using long range Bows. But all of us are good at bein' fast!";
+msgctxt "Thief Trainer#T"
+msgid "Alright, first of all, Thieves use melee attacks. Well, most of us do. There are a few who like using long range Bows. But all of us are good at bein' fast!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "So for melee attacks, which stat increases your damage? Come on";
+msgctxt "Thief Trainer#T"
+msgid "So for melee attacks, which stat increases your damage? Come on"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "now, you should know this if you didn't skip the Novice Training Grounds.";
+msgctxt "Thief Trainer#T"
+msgid "now, you should know this if you didn't skip the Novice Training Grounds."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("^6B8E23INT^000000", "^2F4F2FSTR^000000", "^23238EDEX^000000")){
+msgctxt "Thief Trainer#T"
+msgid "^6B8E23INT^000000"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("^6B8E23INT^000000", "^2F4F2FSTR^000000", "^23238EDEX^000000")){
+msgctxt "Thief Trainer#T"
+msgid "^2F4F2FSTR^000000"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("^6B8E23INT^000000", "^2F4F2FSTR^000000", "^23238EDEX^000000")){
+msgctxt "Thief Trainer#T"
+msgid "^23238EDEX^000000"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Say whaaat? ^6B8E23INT^000000 affects magic damage, magic defense and some skills. Thieves don't even work with magic!";
+msgctxt "Thief Trainer#T"
+msgid "Say whaaat? ^6B8E23INT^000000 affects magic damage, magic defense and some skills. Thieves don't even work with magic!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You musta skipped the Novice Training Grounds altogether! Not that I blame you though. Anyway, it's ^2F4F2FSTR^000000 that increases your attack damage, got it?";
+msgctxt "Thief Trainer#T"
+msgid "You musta skipped the Novice Training Grounds altogether! Not that I blame you though. Anyway, it's ^2F4F2FSTR^000000 that increases your attack damage, got it?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "So if you're feeling like the damage you're making is pretty weak, you might want more stat points in ^2F4F2FSTR^000000. How high your raise your own STR is really up to you.";
+msgctxt "Thief Trainer#T"
+msgid "So if you're feeling like the damage you're making is pretty weak, you might want more stat points in ^2F4F2FSTR^000000. How high your raise your own STR is really up to you."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Yeah, that's right! If you wanna increase your damage, you need";
+msgctxt "Thief Trainer#T"
+msgid "Yeah, that's right! If you wanna increase your damage, you need"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "to put some stat points into ^2F4F2FSTR^000000. Increasing STR also increases";
+msgctxt "Thief Trainer#T"
+msgid "to put some stat points into ^2F4F2FSTR^000000. Increasing STR also increases"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "your Max Weight Limit too.";
+msgctxt "Thief Trainer#T"
+msgid "your Max Weight Limit too."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Sure, ^23238EDEX^000000 and LUK can";
+msgctxt "Thief Trainer#T"
+msgid "Sure, ^23238EDEX^000000 and LUK can"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "also increase your attack damage, but they're insignificant compared to STR. I repeat: ^660000insignificant^000000.";
+msgctxt "Thief Trainer#T"
+msgid "also increase your attack damage, but they're insignificant compared to STR. I repeat: ^660000insignificant^000000."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Say whaaat? ^23238EDEX^000000 affects";
+msgctxt "Thief Trainer#T"
+msgid "Say whaaat? ^23238EDEX^000000 affects"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "your attack accuracy, not your damage! Well, unless you're using";
+msgctxt "Thief Trainer#T"
+msgid "your attack accuracy, not your damage! Well, unless you're using"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "a Bow. Otherwise, it increases your damage only by a tiny bit.";
+msgctxt "Thief Trainer#T"
+msgid "a Bow. Otherwise, it increases your damage only by a tiny bit."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Alright, enough about stats.";
+msgctxt "Thief Trainer#T"
+msgid "Alright, enough about stats."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You know what? I think I'll just talk to you about the skills that we Thieves use.";
+msgctxt "Thief Trainer#T"
+msgid "You know what? I think I'll just talk to you about the skills that we Thieves use."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "So level up your skills, learn a few new ones if you want, and";
+msgctxt "Thief Trainer#T"
+msgid "So level up your skills, learn a few new ones if you want, and"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "then come back over here.";
+msgctxt "Thief Trainer#T"
+msgid "then come back over here."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Okay, let me see your skills. You know you gotta change your battle strategy depending on what skills you have, right? Skills are just as important as stats!";
+msgctxt "Thief Trainer#T"
+msgid "Okay, let me see your skills. You know you gotta change your battle strategy depending on what skills you have, right? Skills are just as important as stats!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You haven't learned any skills yet? Come on, it's your skills that'll set you apart from Novices and everyone else!";
+msgctxt "Thief Trainer#T"
+msgid "You haven't learned any skills yet? Come on, it's your skills that'll set you apart from Novices and everyone else!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Ah, so you've learned";
+msgctxt "Thief Trainer#T"
+msgid "Ah, so you've learned"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Level "+.@chk_th_skill1+" Double Attack.";
+msgctxt "Thief Trainer#T"
+msgid "Level "
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Level "+.@chk_th_skill1+" Double Attack.";
+msgctxt "Thief Trainer#T"
+msgid " Double Attack."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Nice! This skill gives you the chance to attack twice in one";
+msgctxt "Thief Trainer#T"
+msgid "Nice! This skill gives you the chance to attack twice in one"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "attack. Wicked!";
+msgctxt "Thief Trainer#T"
+msgid "attack. Wicked!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "It's a Passive skill, so it's always in effect and won't have to use any SP to use it. The higher your Double Attack skill level, the more double attacks you'll do.";
+msgctxt "Thief Trainer#T"
+msgid "It's a Passive skill, so it's always in effect and won't have to use any SP to use it. The higher your Double Attack skill level, the more double attacks you'll do."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Let's see...";
+msgctxt "Thief Trainer#T"
+msgid "Let's see..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Level "+.@chk_th_skill2+" Increase Dodge?";
+msgctxt "Thief Trainer#T"
+msgid " Increase Dodge?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "That increases your Flee Rate, meaning you've got a better chance of dodging attacks from your enemies.";
+msgctxt "Thief Trainer#T"
+msgid "That increases your Flee Rate, meaning you've got a better chance of dodging attacks from your enemies."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Just like the Double Attack skill, Increase Dodge is a Passive skill. It won't use SP and it's always in";
+msgctxt "Thief Trainer#T"
+msgid "Just like the Double Attack skill, Increase Dodge is a Passive skill. It won't use SP and it's always in"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "effect. If you don't like to bruise, this is your skill.";
+msgctxt "Thief Trainer#T"
+msgid "effect. If you don't like to bruise, this is your skill."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Whoa, so you've";
+msgctxt "Thief Trainer#T"
+msgid "Whoa, so you've"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "got Level "+.@chk_th_skill3+" Steal~";
+msgctxt "Thief Trainer#T"
+msgid "got Level "
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "got Level "+.@chk_th_skill3+" Steal~";
+msgctxt "Thief Trainer#T"
+msgid " Steal~"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Now that's the skill which gives our job its name! You can't use";
+msgctxt "Thief Trainer#T"
+msgid "Now that's the skill which gives our job its name! You can't use"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "it against people, though...";
+msgctxt "Thief Trainer#T"
+msgid "it against people, though..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "But you can use Steal to take items from monsters. If you're lucky, you can get some good items that way. Oh, and Steal doesn't affect monster drop rates.";
+msgctxt "Thief Trainer#T"
+msgid "But you can use Steal to take items from monsters. If you're lucky, you can get some good items that way. Oh, and Steal doesn't affect monster drop rates."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You've learned";
+msgctxt "Thief Trainer#T"
+msgid "You've learned"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Level "+.@chk_th_skill4+" Hiding?";
+msgctxt "Thief Trainer#T"
+msgid " Hiding?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Let's see, you can only learn";
+msgctxt "Thief Trainer#T"
+msgid "Let's see, you can only learn"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "that after learning the Steal skill up to a certain level.";
+msgctxt "Thief Trainer#T"
+msgid "that after learning the Steal skill up to a certain level."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Of course, you use ";
+msgctxt "Thief Trainer#T"
+msgid "Of course, you use "
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "the Hiding skill to hide underground in an emergency, like when you're surrounded by tough enemies. Be careful though...";
+msgctxt "Thief Trainer#T"
+msgid "the Hiding skill to hide underground in an emergency, like when you're surrounded by tough enemies. Be careful though..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Certain monsters will still be able to find you, no matter how well you hide. There are even a few monsters that can flush you out of hiding!";
+msgctxt "Thief Trainer#T"
+msgid "Certain monsters will still be able to find you, no matter how well you hide. There are even a few monsters that can flush you out of hiding!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Alright, I see that you";
+msgctxt "Thief Trainer#T"
+msgid "Alright, I see that you"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "know Level "+.@chk_th_skill5+" Envenom.";
+msgctxt "Thief Trainer#T"
+msgid "know Level "
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "know Level "+.@chk_th_skill5+" Envenom.";
+msgctxt "Thief Trainer#T"
+msgid " Envenom."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You like being dangerous,";
+msgctxt "Thief Trainer#T"
+msgid "You like being dangerous,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "don't you?";
+msgctxt "Thief Trainer#T"
+msgid "don't you?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "This attack skill has the chance";
+msgctxt "Thief Trainer#T"
+msgid "This attack skill has the chance"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "to poison your enemy for a set amount of time. While poisoned, an enemy will constantly lose its HP and will have decreased defense.";
+msgctxt "Thief Trainer#T"
+msgid "to poison your enemy for a set amount of time. While poisoned, an enemy will constantly lose its HP and will have decreased defense."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Eh, but remember.";
+msgctxt "Thief Trainer#T"
+msgid "Eh, but remember."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "If the monster's too strong for you, you might not be able to poison it. So don't go crazy.";
+msgctxt "Thief Trainer#T"
+msgid "If the monster's too strong for you, you might not be able to poison it. So don't go crazy."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Level "+.@chk_th_skill6+" Detoxify.";
+msgctxt "Thief Trainer#T"
+msgid " Detoxify."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "If you took the trouble to learn that, you must be the cautious";
+msgctxt "Thief Trainer#T"
+msgid "If you took the trouble to learn that, you must be the cautious"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "type or something.";
+msgctxt "Thief Trainer#T"
+msgid "type or something."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You can only learn Detoxify";
+msgctxt "Thief Trainer#T"
+msgid "You can only learn Detoxify"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "after you learn the Envenom skill. Detoxify allows you to counteract the effects of poison on a target.";
+msgctxt "Thief Trainer#T"
+msgid "after you learn the Envenom skill. Detoxify allows you to counteract the effects of poison on a target."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Alright, I guess";
+msgctxt "Thief Trainer#T"
+msgid "Alright, I guess"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "if you want to know";
+msgctxt "Thief Trainer#T"
+msgid "if you want to know"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "about any other skills,";
+msgctxt "Thief Trainer#T"
+msgid "about any other skills,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I can explain real quick.";
+msgctxt "Thief Trainer#T"
+msgid "I can explain real quick."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "So...";
+msgctxt "Thief Trainer#T"
+msgid "So..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Are there any";
+msgctxt "Thief Trainer#T"
+msgid "Are there any"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "skills you want";
+msgctxt "Thief Trainer#T"
+msgid "skills you want"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "explained or is this";
+msgctxt "Thief Trainer#T"
+msgid "explained or is this"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "pretty much stuff you";
+msgctxt "Thief Trainer#T"
+msgid "pretty much stuff you"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "already know?";
+msgctxt "Thief Trainer#T"
+msgid "already know?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("Double Attack", "Increase Dodge", "Steal", "Hiding", "Envenom", "Detoxify", "I know enough.")) {
+msgctxt "Thief Trainer#T"
+msgid "Double Attack"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("Double Attack", "Increase Dodge", "Steal", "Hiding", "Envenom", "Detoxify", "I know enough.")) {
+msgctxt "Thief Trainer#T"
+msgid "Increase Dodge"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("Double Attack", "Increase Dodge", "Steal", "Hiding", "Envenom", "Detoxify", "I know enough.")) {
+msgctxt "Thief Trainer#T"
+msgid "Steal"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("Double Attack", "Increase Dodge", "Steal", "Hiding", "Envenom", "Detoxify", "I know enough.")) {
+msgctxt "Thief Trainer#T"
+msgid "Hiding"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("Double Attack", "Increase Dodge", "Steal", "Hiding", "Envenom", "Detoxify", "I know enough.")) {
+msgctxt "Thief Trainer#T"
+msgid "Envenom"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("Double Attack", "Increase Dodge", "Steal", "Hiding", "Envenom", "Detoxify", "I know enough.")) {
+msgctxt "Thief Trainer#T"
+msgid "Detoxify"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("Double Attack", "Increase Dodge", "Steal", "Hiding", "Envenom", "Detoxify", "I know enough.")) {
+msgctxt "Thief Trainer#T"
+msgid "I know enough."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Just like its name,";
+msgctxt "Thief Trainer#T"
+msgid "Just like its name,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Double Attack gives your attacks the chance to be a double attack, two strikes in one blow.";
+msgctxt "Thief Trainer#T"
+msgid "Double Attack gives your attacks the chance to be a double attack, two strikes in one blow."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "gives a nice boost";
+msgctxt "Thief Trainer#T"
+msgid "gives a nice boost"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "to your Flee Rate that";
+msgctxt "Thief Trainer#T"
+msgid "to your Flee Rate that"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "the other jobs don't offer.";
+msgctxt "Thief Trainer#T"
+msgid "the other jobs don't offer."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Why take your lumps when you";
+msgctxt "Thief Trainer#T"
+msgid "Why take your lumps when you"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "can avoid them altogether?";
+msgctxt "Thief Trainer#T"
+msgid "can avoid them altogether?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Steal is an Active Skill that has the chance of nabbing you some";
+msgctxt "Thief Trainer#T"
+msgid "Steal is an Active Skill that has the chance of nabbing you some"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "free items! You can't use it against other people, though.";
+msgctxt "Thief Trainer#T"
+msgid "free items! You can't use it against other people, though."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "But you can use Steal to take items from monsters! If you're lucky, you can get some good items that way. Oh, and Steal doesn't affect monster drop rates.";
+msgctxt "Thief Trainer#T"
+msgid "But you can use Steal to take items from monsters! If you're lucky, you can get some good items that way. Oh, and Steal doesn't affect monster drop rates."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Hiding is an active skill where you submerge yourself underground. You can only stay hidden so long, and you can't move, but sometimes it's better than being found!";
+msgctxt "Thief Trainer#T"
+msgid "Hiding is an active skill where you submerge yourself underground. You can only stay hidden so long, and you can't move, but sometimes it's better than being found!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Envenom is an offensive Active Skill that every Thief should know. But that's just what I think.";
+msgctxt "Thief Trainer#T"
+msgid "Envenom is an offensive Active Skill that every Thief should know. But that's just what I think."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Remember that.";
+msgctxt "Thief Trainer#T"
+msgid "Remember that."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Since Thieves deal";
+msgctxt "Thief Trainer#T"
+msgid "Since Thieves deal"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "quite a bit with poison,";
+msgctxt "Thief Trainer#T"
+msgid "quite a bit with poison,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "we've got to have a way";
+msgctxt "Thief Trainer#T"
+msgid "we've got to have a way"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "to, well, have a taste";
+msgctxt "Thief Trainer#T"
+msgid "to, well, have a taste"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "of our own medicine.";
+msgctxt "Thief Trainer#T"
+msgid "of our own medicine."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You can learn Detoxify";
+msgctxt "Thief Trainer#T"
+msgid "You can learn Detoxify"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Yeah...";
+msgctxt "Thief Trainer#T"
+msgid "Yeah..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I'm tired of explaining these skills anyway. Let's move on to";
+msgctxt "Thief Trainer#T"
+msgid "I'm tired of explaining these skills anyway. Let's move on to"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "the next part of Thief training...";
+msgctxt "Thief Trainer#T"
+msgid "the next part of Thief training..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Now that you're such an expert on skills, I want you to level up your skills and come back, got it?";
+msgctxt "Thief Trainer#T"
+msgid "Now that you're such an expert on skills, I want you to level up your skills and come back, got it?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Alright, we studied the skills and you've been practicing a little, right? You better have...";
+msgctxt "Thief Trainer#T"
+msgid "Alright, we studied the skills and you've been practicing a little, right? You better have..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Alright, now I got some actual fight training I want you to do. Here's a chance for you to figure what skills are best for which situations.";
+msgctxt "Thief Trainer#T"
+msgid "Alright, now I got some actual fight training I want you to do. Here's a chance for you to figure what skills are best for which situations."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Go and get me";
+msgctxt "Thief Trainer#T"
+msgid "Go and get me"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "10 ^ff0000Feather of Birds^000000.";
+msgctxt "Thief Trainer#T"
+msgid "10 ^ff0000Feather of Birds^000000."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You can go ahead and kill Pickies to get those. It really shouldn't be that hard. Oh, and use this Wing thingee to come back.";
+msgctxt "Thief Trainer#T"
+msgid "You can go ahead and kill Pickies to get those. It really shouldn't be that hard. Oh, and use this Wing thingee to come back."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "'Ey, you don't have the 10 ^ff0000Feather of Birds^000000 I asked you for! You gotta apply what you know, you know.";
+msgctxt "Thief Trainer#T"
+msgid "'Ey, you don't have the 10 ^ff0000Feather of Birds^000000 I asked you for! You gotta apply what you know, you know."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Now hurry up and do it!";
+msgctxt "Thief Trainer#T"
+msgid "Now hurry up and do it!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Alright...!";
+msgctxt "Thief Trainer#T"
+msgid "Alright...!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Nice work, pal.";
+msgctxt "Thief Trainer#T"
+msgid "Nice work, pal."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Seeing as you got these feathers, you must be really gung-ho about becoming a good Thief.";
+msgctxt "Thief Trainer#T"
+msgid "Seeing as you got these feathers, you must be really gung-ho about becoming a good Thief."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I hope you keep";
+msgctxt "Thief Trainer#T"
+msgid "I hope you keep"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "putting in the work";
+msgctxt "Thief Trainer#T"
+msgid "putting in the work"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "to get better and better.";
+msgctxt "Thief Trainer#T"
+msgid "to get better and better."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Always do your best! Oh,";
+msgctxt "Thief Trainer#T"
+msgid "Always do your best! Oh,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "and do you have any questions?";
+msgctxt "Thief Trainer#T"
+msgid "and do you have any questions?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("About those traces...", "Nope.")) {
+msgctxt "Thief Trainer#T"
+msgid "About those traces..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("About those traces...", "Nope.")) {
+msgctxt "Thief Trainer#T"
+msgid "Nope."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You found out, eh?";
+msgctxt "Thief Trainer#T"
+msgid "You found out, eh?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Well, I didn't really";
+msgctxt "Thief Trainer#T"
+msgid "Well, I didn't really"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "wanna tell you this, on";
+msgctxt "Thief Trainer#T"
+msgid "wanna tell you this, on"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "account of you bein' a brand";
+msgctxt "Thief Trainer#T"
+msgid "account of you bein' a brand"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "brand new Thief and all, but...";
+msgctxt "Thief Trainer#T"
+msgid "brand new Thief and all, but..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "There was this";
+msgctxt "Thief Trainer#T"
+msgid "There was this"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "fight that was in";
+msgctxt "Thief Trainer#T"
+msgid "fight that was in"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "the Southern part";
+msgctxt "Thief Trainer#T"
+msgid "the Southern part"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "of this town.";
+msgctxt "Thief Trainer#T"
+msgid "of this town."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Since it happened late at night, only a few people actually know about it. As for me, I stayed late at a guild meeting, so it was";
+msgctxt "Thief Trainer#T"
+msgid "Since it happened late at night, only a few people actually know about it. As for me, I stayed late at a guild meeting, so it was"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "dumb luck that I saw it.";
+msgctxt "Thief Trainer#T"
+msgid "dumb luck that I saw it."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I went back to where the fight happened and I found traces that showed that the guys who were fighting went south.";
+msgctxt "Thief Trainer#T"
+msgid "I went back to where the fight happened and I found traces that showed that the guys who were fighting went south."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Since poison was used in";
+msgctxt "Thief Trainer#T"
+msgid "Since poison was used in"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "the fight, I'm guessing an Assassin was involved, but I can't be too sure. If you wanna check it out, follow the traces of that fight.";
+msgctxt "Thief Trainer#T"
+msgid "the fight, I'm guessing an Assassin was involved, but I can't be too sure. If you wanna check it out, follow the traces of that fight."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Eh, but be careful";
+msgctxt "Thief Trainer#T"
+msgid "Eh, but be careful"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "not to get too close";
+msgctxt "Thief Trainer#T"
+msgid "not to get too close"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "to the poison! That stuff";
+msgctxt "Thief Trainer#T"
+msgid "to the poison! That stuff"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "is pretty strong!";
+msgctxt "Thief Trainer#T"
+msgid "is pretty strong!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Good!";
+msgctxt "Thief Trainer#T"
+msgid "Good!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Less work for me!";
+msgctxt "Thief Trainer#T"
+msgid "Less work for me!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Alright, you better get stronger the next time I see you. Oh, and you can have this stuff. You know, since you're so gangster and all.";
+msgctxt "Thief Trainer#T"
+msgid "Alright, you better get stronger the next time I see you. Oh, and you can have this stuff. You know, since you're so gangster and all."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("It was nice to meet you.", "Nope.")) {
+msgctxt "Thief Trainer#T"
+msgid "It was nice to meet you."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Yeah, it was pretty cool just hanging out. Keep fighting";
+msgctxt "Thief Trainer#T"
+msgid "Yeah, it was pretty cool just hanging out. Keep fighting"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "monsters the way you do and";
+msgctxt "Thief Trainer#T"
+msgid "monsters the way you do and"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "you'll be a great Thief in no time.";
+msgctxt "Thief Trainer#T"
+msgid "you'll be a great Thief in no time."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "And since I like";
+msgctxt "Thief Trainer#T"
+msgid "And since I like"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "you so much, kid,";
+msgctxt "Thief Trainer#T"
+msgid "you so much, kid,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "you can have this.";
+msgctxt "Thief Trainer#T"
+msgid "you can have this."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Take it, it's yours!";
+msgctxt "Thief Trainer#T"
+msgid "Take it, it's yours!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You know...";
+msgctxt "Thief Trainer#T"
+msgid "You know..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Hey, you might run into";
+msgctxt "Thief Trainer#T"
+msgid "Hey, you might run into"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "poison, so remember that";
+msgctxt "Thief Trainer#T"
+msgid "poison, so remember that"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Green Herbs and Green Potions";
+msgctxt "Thief Trainer#T"
+msgid "Green Herbs and Green Potions"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "will counteract it. Oh, and keep in mind that Red Gemstones can";
+msgctxt "Thief Trainer#T"
+msgid "will counteract it. Oh, and keep in mind that Red Gemstones can"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "be used in poison attacks.";
+msgctxt "Thief Trainer#T"
+msgid "be used in poison attacks."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Hey, if you do";
+msgctxt "Thief Trainer#T"
+msgid "Hey, if you do"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "decide to check it";
+msgctxt "Thief Trainer#T"
+msgid "decide to check it"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "out, be real careful";
+msgctxt "Thief Trainer#T"
+msgid "out, be real careful"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "other there, okay?";
+msgctxt "Thief Trainer#T"
+msgid "other there, okay?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You doin' alright?";
+msgctxt "Thief Trainer#T"
+msgid "You doin' alright?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Fighting against something";
+msgctxt "Thief Trainer#T"
+msgid "Fighting against something"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "you know nothing about is always risky. Since I've heard there are outsiders around flaunting their power, you better be careful.";
+msgctxt "Thief Trainer#T"
+msgid "you know nothing about is always risky. Since I've heard there are outsiders around flaunting their power, you better be careful."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "It's a good policy to just be really careful on your adventures. Look out for monsters and look";
+msgctxt "Thief Trainer#T"
+msgid "It's a good policy to just be really careful on your adventures. Look out for monsters and look"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "out for people! Got it?";
+msgctxt "Thief Trainer#T"
+msgid "out for people! Got it?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I heard there was";
+msgctxt "Thief Trainer#T"
+msgid "I heard there was"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "this one Assassin";
+msgctxt "Thief Trainer#T"
+msgid "this one Assassin"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "that went on a mission";
+msgctxt "Thief Trainer#T"
+msgid "that went on a mission"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "and never returned.";
+msgctxt "Thief Trainer#T"
+msgid "and never returned."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "What's so weird about it was that the Assassin Guild reported that the mission was completed!";
+msgctxt "Thief Trainer#T"
+msgid "What's so weird about it was that the Assassin Guild reported that the mission was completed!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I remember hearing that guy";
+msgctxt "Thief Trainer#T"
+msgid "I remember hearing that guy"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "was really good...";
+msgctxt "Thief Trainer#T"
+msgid "was really good..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Crazy, isn't it?";
+msgctxt "Thief Trainer#T"
+msgid "Crazy, isn't it?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Anyway, take";
+msgctxt "Thief Trainer#T"
+msgid "Anyway, take"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "care of yourself.";
+msgctxt "Thief Trainer#T"
+msgid "care of yourself."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "'Ey, did you";
+msgctxt "Thief Trainer#T"
+msgid "'Ey, did you"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "complete your mission?";
+msgctxt "Thief Trainer#T"
+msgid "complete your mission?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I know, I know, the thing you've gotta do is pretty rough.";
+msgctxt "Thief Trainer#T"
+msgid "I know, I know, the thing you've gotta do is pretty rough."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("I'm still investigating.", "Not yet.", "Yes, I did.")) {
+msgctxt "Thief Trainer#T"
+msgid "I'm still investigating."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("I'm still investigating.", "Not yet.", "Yes, I did.")) {
+msgctxt "Thief Trainer#T"
+msgid "Not yet."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("I'm still investigating.", "Not yet.", "Yes, I did.")) {
+msgctxt "Thief Trainer#T"
+msgid "Yes, I did."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Ah, gotcha. Well, that's understandable. I mean, these things take time, you know?";
+msgctxt "Thief Trainer#T"
+msgid "Ah, gotcha. Well, that's understandable. I mean, these things take time, you know?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Yeah...?";
+msgctxt "Thief Trainer#T"
+msgid "Yeah...?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "That's alright.";
+msgctxt "Thief Trainer#T"
+msgid "That's alright."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I guess these kinds of things require patience. And thinking.";
+msgctxt "Thief Trainer#T"
+msgid "I guess these kinds of things require patience. And thinking."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You know, things I'm horrible at.";
+msgctxt "Thief Trainer#T"
+msgid "You know, things I'm horrible at."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "So what's up?";
+msgctxt "Thief Trainer#T"
+msgid "So what's up?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Hit me up with";
+msgctxt "Thief Trainer#T"
+msgid "Hit me up with"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "what you know~";
+msgctxt "Thief Trainer#T"
+msgid "what you know~"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "^3355FFYou explain the results of your investigation to Yierhan and tell him about the scrap of cloth you found on your mission.^000000";
+msgctxt "Thief Trainer#T"
+msgid "^3355FFYou explain the results of your investigation to Yierhan and tell him about the scrap of cloth you found on your mission.^000000"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Scrap of cloth?";
+msgctxt "Thief Trainer#T"
+msgid "Scrap of cloth?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Huh, alright. Say,";
+msgctxt "Thief Trainer#T"
+msgid "Huh, alright. Say,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "lemme have a looksee.";
+msgctxt "Thief Trainer#T"
+msgid "lemme have a looksee."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Whoa!";
+msgctxt "Thief Trainer#T"
+msgid "Whoa!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You did great.";
+msgctxt "Thief Trainer#T"
+msgid "You did great."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "This is some pretty";
+msgctxt "Thief Trainer#T"
+msgid "This is some pretty"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "important information!";
+msgctxt "Thief Trainer#T"
+msgid "important information!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You see, the pattern on this cloth is sort of like one of the codes Assassins use. And this particular pattern looks like something from one of those higher Assassins.";
+msgctxt "Thief Trainer#T"
+msgid "You see, the pattern on this cloth is sort of like one of the codes Assassins use. And this particular pattern looks like something from one of those higher Assassins."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I might be able to figure out what happened that night with the new information this cloth might lead me to. Thanks a lot!";
+msgctxt "Thief Trainer#T"
+msgid "I might be able to figure out what happened that night with the new information this cloth might lead me to. Thanks a lot!"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "From here on,";
+msgctxt "Thief Trainer#T"
+msgid "From here on,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "the higher ups in the";
+msgctxt "Thief Trainer#T"
+msgid "the higher ups in the"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "guild will take over this investigation. You did your job perfectly, so it's time for you to hone your skills.";
+msgctxt "Thief Trainer#T"
+msgid "guild will take over this investigation. You did your job perfectly, so it's time for you to hone your skills."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Hey, this stuff is yours. Think of it as a reward for helping us out. Take care of yourself now~";
+msgctxt "Thief Trainer#T"
+msgid "Hey, this stuff is yours. Think of it as a reward for helping us out. Take care of yourself now~"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Hey...";
+msgctxt "Thief Trainer#T"
+msgid "Hey..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "You got dreams,";
+msgctxt "Thief Trainer#T"
+msgid "You got dreams,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "don't you? I know,";
+msgctxt "Thief Trainer#T"
+msgid "don't you? I know,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "it's a bit of a deep";
+msgctxt "Thief Trainer#T"
+msgid "it's a bit of a deep"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "subject I pulled outta";
+msgctxt "Thief Trainer#T"
+msgid "subject I pulled outta"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "nowhere, but...";
+msgctxt "Thief Trainer#T"
+msgid "nowhere, but..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I just like telling people to follow their dreams. So do it. Life without anything to look forward to is pretty boring, doncha think?";
+msgctxt "Thief Trainer#T"
+msgid "I just like telling people to follow their dreams. So do it. Life without anything to look forward to is pretty boring, doncha think?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Heya.";
+msgctxt "Thief Trainer#T"
+msgid "Heya."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I'm the Thief trainer around here. Sure, it looks like we don't got much in common, but...";
+msgctxt "Thief Trainer#T"
+msgid "I'm the Thief trainer around here. Sure, it looks like we don't got much in common, but..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I actually got a few magic using friends here and there. That mystic stuff is waaay over my head, but";
+msgctxt "Thief Trainer#T"
+msgid "I actually got a few magic using friends here and there. That mystic stuff is waaay over my head, but"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I got a lotta respect for it.";
+msgctxt "Thief Trainer#T"
+msgid "I got a lotta respect for it."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Hm...?";
+msgctxt "Thief Trainer#T"
+msgid "Hm...?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "That's weird, usually only";
+msgctxt "Thief Trainer#T"
+msgid "That's weird, usually only"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Thieves hang around this joint. What's someone like you doing";
+msgctxt "Thief Trainer#T"
+msgid "Thieves hang around this joint. What's someone like you doing"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "here? Unless...";
+msgctxt "Thief Trainer#T"
+msgid "here? Unless..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("I'm here on behalf of 'Mana.'")) {
+msgctxt "Thief Trainer#T"
+msgid "I'm here on behalf of 'Mana.'"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Right, you must be the help that Mana sent! You came just at the right time. You see, we found something weird in South Morroc.";
+msgctxt "Thief Trainer#T"
+msgid "Right, you must be the help that Mana sent! You came just at the right time. You see, we found something weird in South Morroc."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Basically, we found traces of poison that were used in a fight. We were going to investigate it, but we've been swamped with all this other work.";
+msgctxt "Thief Trainer#T"
+msgid "Basically, we found traces of poison that were used in a fight. We were going to investigate it, but we've been swamped with all this other work."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "That's why we've been asking";
+msgctxt "Thief Trainer#T"
+msgid "That's why we've been asking"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "for help from the Mage Guild. Fortunately, I'm pals with Mana, so...";
+msgctxt "Thief Trainer#T"
+msgid "for help from the Mage Guild. Fortunately, I'm pals with Mana, so..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Anyway, head over to";
+msgctxt "Thief Trainer#T"
+msgid "Anyway, head over to"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "South Morroc since it seems to be a good place to start investigating. You'll see what we found right outside the South Morroc gate.";
+msgctxt "Thief Trainer#T"
+msgid "South Morroc since it seems to be a good place to start investigating. You'll see what we found right outside the South Morroc gate."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Be careful, pal.";
+msgctxt "Thief Trainer#T"
+msgid "Be careful, pal."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "It seems your";
+msgctxt "Thief Trainer#T"
+msgid "It seems your"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "investigation";
+msgctxt "Thief Trainer#T"
+msgid "investigation"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "might be related to";
+msgctxt "Thief Trainer#T"
+msgid "might be related to"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "that mysterious Assassin...";
+msgctxt "Thief Trainer#T"
+msgid "that mysterious Assassin..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "So how's the";
+msgctxt "Thief Trainer#T"
+msgid "So how's the"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "coming along?";
+msgctxt "Thief Trainer#T"
+msgid "coming along?"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I've been so busy,";
+msgctxt "Thief Trainer#T"
+msgid "I've been so busy,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "I couldn't focus";
+msgctxt "Thief Trainer#T"
+msgid "I couldn't focus"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "on it at all...";
+msgctxt "Thief Trainer#T"
+msgid "on it at all..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("I'm still investigating.", "I'm not done yet...", "Oh, I finished~")) {
+msgctxt "Thief Trainer#T"
+msgid "I'm not done yet..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# switch(select("I'm still investigating.", "I'm not done yet...", "Oh, I finished~")) {
+msgctxt "Thief Trainer#T"
+msgid "Oh, I finished~"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Hey, this stuff is yours. Think of it as a reward for helping us out. Right, and I'll let Mana know you did a great job. Take care of yourself now~";
+msgctxt "Thief Trainer#T"
+msgid "Hey, this stuff is yours. Think of it as a reward for helping us out. Right, and I'll let Mana know you did a great job. Take care of yourself now~"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Just as I thought,";
+msgctxt "Thief Trainer#T"
+msgid "Just as I thought,"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "more than one group";
+msgctxt "Thief Trainer#T"
+msgid "more than one group"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "was involved in all this.";
+msgctxt "Thief Trainer#T"
+msgid "was involved in all this."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Huh. Something real bad";
+msgctxt "Thief Trainer#T"
+msgid "Huh. Something real bad"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "might happen soon...";
+msgctxt "Thief Trainer#T"
+msgid "might happen soon..."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "Some people think";
+msgctxt "Thief Trainer#T"
+msgid "Some people think"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "the desert is just a";
+msgctxt "Thief Trainer#T"
+msgid "the desert is just a"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "dangerous, uncomfortable";
+msgctxt "Thief Trainer#T"
+msgid "dangerous, uncomfortable"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "place where no one wants";
+msgctxt "Thief Trainer#T"
+msgid "place where no one wants"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "to be. But there's all";
+msgctxt "Thief Trainer#T"
+msgid "to be. But there's all"
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "sorts of great stuff here.";
+msgctxt "Thief Trainer#T"
+msgid "sorts of great stuff here."
+msgstr ""
+
+#: npc/quests/first_class/tu_thief01.txt
+# mes "We got the blazing heat that encourages skimpy outfits, we got... Cacti. We got more sand than the beach. Um... Sandstorms?";
+msgctxt "Thief Trainer#T"
+msgid "We got the blazing heat that encourages skimpy outfits, we got... Cacti. We got more sand than the beach. Um... Sandstorms?"
+msgstr ""

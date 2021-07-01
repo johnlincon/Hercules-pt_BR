@@ -1,0 +1,663 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-01 13:22-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Peco Peco Breeder]";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "[Peco Peco Breeder]"
+msgstr "[Criador Peco Peco]"
+
+# mes "Welcome.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "Welcome."
+msgstr "Bem-vindo(a)."
+
+# mes "Honorable Knight,";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "Honorable Knight,"
+msgstr "Honorável Cavaleiro,"
+
+# mes "would you like to rent";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "would you like to rent"
+msgstr "você gostaria de alugar"
+
+# mes "a Peco Peco? The rental";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "a Peco Peco? The rental"
+msgstr "um Peco Peco? O aluguel"
+
+# mes "fee is "+.@price+" zeny.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "fee is "
+msgstr "taxa é "
+
+# mes "fee is "+.@price+" zeny.";
+#: npc/merchants/renters.txt
+msgctxt "Peco Peco Breeder#knt"
+msgid " zeny."
+msgstr " zeny."
+
+# switch(select("Rent Peco Peco", "Cancel")) {
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "Rent Peco Peco"
+msgstr "Aluguel Peco Peco"
+
+# switch(select("Rent Peco Peco", "Cancel")) {
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "You do not";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "You do not"
+msgstr "Você não"
+
+# mes "have enough zeny.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "have enough zeny."
+msgstr "tem zeny suficiente."
+
+# mes "Are you...";
+#: npc/merchants/renters.txt
+msgctxt "Peco Peco Breeder#knt"
+msgid "Are you..."
+msgstr "Você está..."
+
+# mes "bankrupt?";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "bankrupt?"
+msgstr "falido?"
+
+# mes "I'm sorry, but you're";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "I'm sorry, but you're"
+msgstr "Sinto muito, mas você é"
+
+# mes "not eligible for this";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "not eligible for this"
+msgstr "não elegível para isto"
+
+# mes "service. Please go learn";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "service. Please go learn"
+msgstr "serviço. Por favor, vá aprender"
+
+# mes "the Peco Peco Ride skill first.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "the Peco Peco Ride skill first."
+msgstr "a habilidade Peco Peco Ride em primeiro lugar."
+
+# mes "You're already";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "You're already"
+msgstr "Você já está"
+
+# mes "mounted on a";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "mounted on a"
+msgstr "montado sobre um"
+
+# mes "Peco Peco.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "Peco Peco."
+msgstr "Peco Peco."
+
+# mes "Please remove your cash mount.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "Please remove your cash mount."
+msgstr "Por favor, retire sua montagem de dinheiro."
+
+# mes "I see.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "I see."
+msgstr "Entendo."
+
+# mes "Well then,";
+#: npc/merchants/renters.txt
+msgctxt "Peco Peco Breeder#knt"
+msgid "Well then,"
+msgstr "Bem, então,"
+
+# mes "have a good day.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "have a good day."
+msgstr "tenha um bom dia."
+
+# mes "I'm sorry, but these";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "I'm sorry, but these"
+msgstr "Sinto muito, mas o"
+
+# mes "Peco Pecos are only";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "Peco Pecos are only"
+msgstr "Peco Pecos são apenas"
+
+# mes "available for Knights";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "available for Knights"
+msgstr "disponível para Cavaleiros"
+
+# mes "and Lord Knights.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#knt"
+msgid "and Lord Knights."
+msgstr "e Lord Knights."
+
+# mes "[PecoPeco Breeder]";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "[PecoPeco Breeder]"
+msgstr "[Criador PecoPeco]"
+
+# if(Upper != 1 ) mes "Welcome, Crusader.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "Welcome, Crusader."
+msgstr "Bem-vindo, Crusader."
+
+# else mes "Welcome, Paladin.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "Welcome, Paladin."
+msgstr "Bem-vindo, Paladin."
+
+# mes "We have a special";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "We have a special"
+msgstr "Temos um"
+
+# mes "Peco Peco prepared";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "Peco Peco prepared"
+msgstr "Peco Peco preparado"
+
+# mes "for you. To rent one";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "for you. To rent one"
+msgstr "para você. Para alugar um"
+
+# mes "will cost "+.@price+" zeny.";
+#: npc/merchants/renters.txt
+msgctxt "Peco Peco Breeder#cru"
+msgid "will cost "
+msgstr "custará "
+
+# mes "will cost "+.@price+" zeny.";
+#: npc/merchants/renters.txt
+msgctxt "Peco Peco Breeder#cru"
+msgid " zeny."
+msgstr " zeny."
+
+# switch(select("Rent a PecoPeco", "Quit")) {
+#: npc/merchants/renters.txt
+msgctxt "Peco Peco Breeder#cru"
+msgid "Rent a PecoPeco"
+msgstr "Alugue um PecoPeco"
+
+# switch(select("Rent a PecoPeco", "Quit")) {
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "Quit"
+msgstr "Sair"
+
+# mes "[Peco Peco Breeder]";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "[Peco Peco Breeder]"
+msgstr "[Criador Peco Peco]"
+
+# mes "You do not";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "You do not"
+msgstr "Você não"
+
+# mes "have enough zeny.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "have enough zeny."
+msgstr "tem zeny suficiente."
+
+# mes "If you would like";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "If you would like"
+msgstr "Se você gostaria de"
+
+# mes "a Peco Peco please";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "a Peco Peco please"
+msgstr "um Peco Peco por favor"
+
+# mes "bring "+.@price+" zeny...";
+#: npc/merchants/renters.txt
+msgctxt "Peco Peco Breeder#cru"
+msgid "bring "
+msgstr "trazer "
+
+# mes "bring "+.@price+" zeny...";
+#: npc/merchants/renters.txt
+msgctxt "Peco Peco Breeder#cru"
+msgid " zeny..."
+msgstr " zeny..."
+
+# mes "You must first learn";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "You must first learn"
+msgstr "Você deve primeiro aprender"
+
+# mes "to ride a PecoPeco before";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "to ride a PecoPeco before"
+msgstr "para montar um PecoPeco antes de"
+
+# mes "I can rent one to you.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "I can rent one to you."
+msgstr "Eu posso alugar um para você."
+
+# mes "You are already";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "You are already"
+msgstr "Você já está"
+
+# mes "mounted on a Peco Peco.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "mounted on a Peco Peco."
+msgstr "montado em um Peco Peco."
+
+# mes "Please remove your cash mount.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "Please remove your cash mount."
+msgstr "Por favor, retire sua montagem de dinheiro."
+
+# mes "See you around.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "See you around."
+msgstr "Vejo vocês por aí."
+
+# mes "What can I do for you?";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "What can I do for you?"
+msgstr "O que posso fazer por você?"
+
+# mes "Please be aware that";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "Please be aware that"
+msgstr "Por favor, esteja ciente de que"
+
+# mes "this Peco Peco rental";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "this Peco Peco rental"
+msgstr "este aluguel Peco Peco"
+
+# mes "service is strictly for";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "service is strictly for"
+msgstr "serviço é estritamente para"
+
+# mes "Crusaders and Paladins.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Peco Peco Breeder#cru"
+msgid "Crusaders and Paladins."
+msgstr "Crusaders e Paladinos."
+
+# mes "[Falcon Breeder]";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "[Falcon Breeder]"
+msgstr "[Criador de Falcões]"
+
+# mes "Um...";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "Um..."
+msgstr "Um..."
+
+# mes "You can't rent a Falcon";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "You can't rent a Falcon"
+msgstr "Você não pode alugar um Falcão"
+
+# mes "until you dismiss your warg first!";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "until you dismiss your warg first!"
+msgstr "até que você dispense seu warg primeiro!"
+
+# mes "Do you need a Falcon?";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "Do you need a Falcon?"
+msgstr "Você precisa de um Falcon?"
+
+# mes "You can rent your own";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "You can rent your own"
+msgstr "Você pode alugar seu próprio"
+
+# mes "trusty bird of prey for a";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "trusty bird of prey for a"
+msgstr "ave de rapina de confiança para uma"
+
+# mes "fee of just "+.@price+" zeny~";
+#: npc/merchants/renters.txt
+msgctxt "Falcon Breeder#hnt"
+msgid "fee of just "
+msgstr "taxa de apenas "
+
+# mes "fee of just "+.@price+" zeny~";
+#: npc/merchants/renters.txt
+msgctxt "Falcon Breeder#hnt"
+msgid " zeny~"
+msgstr " zeny~"
+
+# switch(select("Rent Falcon", "Cancel")) {
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "Rent Falcon"
+msgstr "Alugar Falcão"
+
+# switch(select("Rent Falcon", "Cancel")) {
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "What is this?";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "What is this?"
+msgstr "O que é isso?"
+
+# mes "You don't have";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "You don't have"
+msgstr "Você não tem"
+
+# mes "enough zeny?!";
+#: npc/merchants/renters.txt
+msgctxt "Falcon Breeder#hnt"
+msgid "enough zeny?!"
+msgstr "zeny o suficiente?!"
+
+# mes "You better start";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "You better start"
+msgstr "É melhor você começar"
+
+# mes "hunting money";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "hunting money"
+msgstr "caçando dinheiro"
+
+# mes "instead of monsters~";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "instead of monsters~"
+msgstr "em vez de monstros~"
+
+# mes "Gosh~";
+#: npc/merchants/renters.txt
+msgctxt "Falcon Breeder#hnt"
+msgid "Gosh~"
+msgstr "Caramba~"
+
+# mes "Go learn how to";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "Go learn how to"
+msgstr "Vá aprender como"
+
+# mes "manage a Falcon";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "manage a Falcon"
+msgstr "administrar um Falcão"
+
+# mes "first! I can't rent one";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "first! I can't rent one"
+msgstr "primeiro! Eu não posso alugar um"
+
+# mes "to you if you can't";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "to you if you can't"
+msgstr "para você se você não puder"
+
+# mes "handle it, you know.";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "handle it, you know."
+msgstr "lidar com isso, você sabe."
+
+# mes "You already have";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "You already have"
+msgstr "Você já tem"
+
+# mes "a Falcon. It's right";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "a Falcon. It's right"
+msgstr "um Falcão. Está certo"
+
+# mes "there, can't you see it?";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "there, can't you see it?"
+msgstr "não consegue ver?"
+
+# mes "W-wait, where're";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "W-wait, where're"
+msgstr "Espere, onde estão"
+
+# mes "you goin'? These";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "you goin'? These"
+msgstr "você vai? Estes"
+
+# mes "Falcons are top notch,";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "Falcons are top notch,"
+msgstr "Os falcões são de primeira linha,"
+
+# mes "I guarantee it! C'mon, yo~";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "I guarantee it! C'mon, yo~"
+msgstr "Eu garanto! Vá lá, yo~"
+
+# mes "Young fool!";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "Young fool!"
+msgstr "Jovem tolo!"
+
+# mes "Falcons can only";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "Falcons can only"
+msgstr "Os falcões só podem"
+
+# mes "be used by Hunters";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "be used by Hunters"
+msgstr "ser usado por Hunters"
+
+# mes "and Snipers, capish?";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "and Snipers, capish?"
+msgstr "e Snipers, Capish?"
+
+# mes "...Heh heh, jealous?";
+#: npc/merchants/renters.txt
+#, fuzzy
+msgctxt "Falcon Breeder#hnt"
+msgid "...Heh heh, jealous?"
+msgstr "...Heh heh, ciumenta?"

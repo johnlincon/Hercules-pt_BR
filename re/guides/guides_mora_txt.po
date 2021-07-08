@@ -1,0 +1,845 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 17:30-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Raffoh]";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "[Raffoh]"
+msgstr "[Raffoh]"
+
+# mes "Laoh~!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "Laoh~!"
+msgstr "Laoh~!"
+
+# mes "Welcome to the Village of Mora.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "Welcome to the Village of Mora."
+msgstr "Bem-vindo à Aldeia de Mora."
+
+# mes "I can tell you whatever you want to know about the village~!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "I can tell you whatever you want to know about the village~!"
+msgstr "Posso lhe dizer o que você quiser saber sobre a aldeia~!"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "[ Inn ]"
+msgstr "[ Pousada ]"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "[ Residences ]"
+msgstr "Residências"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "[ Stores ]"
+msgstr "Lojas"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "[ Warehouse ]"
+msgstr "Armazém"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "Remove markers from the mini-map"
+msgstr "Remover marcadores do mini-mapa"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "Quit"
+msgstr "Sair"
+
+# mes "We have an "+F_Navi("Inn","mora,44,138")+" but we can't make travelers sleep like Raffles...";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#north"
+msgid "We have an "
+msgstr "Nós temos um "
+
+# mes "We have an "+F_Navi("Inn","mora,44,138")+" but we can't make travelers sleep like Raffles...";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "Inn"
+msgstr "Pousada"
+
+# mes "We have an "+F_Navi("Inn","mora,44,138")+" but we can't make travelers sleep like Raffles...";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "mora,44,138"
+msgstr "mora,44,138"
+
+# mes "We have an "+F_Navi("Inn","mora,44,138")+" but we can't make travelers sleep like Raffles...";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid " but we can't make travelers sleep like Raffles..."
+msgstr " mas não podemos fazer os viajantes dormirem como rifas..."
+
+# mes "Get some rest!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "Get some rest!"
+msgstr "Descanse um pouco!"
+
+# mes F_Navi("This","mora,119,170")+" is where Raffles' houses are...";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "This"
+msgstr "Esse"
+
+# mes F_Navi("This","mora,119,170")+" is where Raffles' houses are...";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "mora,119,170"
+msgstr "mora,119,170"
+
+# mes F_Navi("This","mora,119,170")+" is where Raffles' houses are...";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid " is where Raffles' houses are..."
+msgstr " é onde estão as casas de Raffles..."
+
+# mes "But keep the noise down because people are asleep~!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "But keep the noise down because people are asleep~!"
+msgstr "Mas mantenha o barulho baixo porque as pessoas estão dormindo!"
+
+# mes "If you are looking for souvenirs, you can buy some in this "+F_Navi("district","mora,112,110")+".";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#north"
+msgid "If you are looking for souvenirs, you can buy some in this "
+msgstr ""
+"Se você está procurando por lembranças, você pode comprar algumas neste "
+
+# mes "If you are looking for souvenirs, you can buy some in this "+F_Navi("district","mora,112,110")+".";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "district"
+msgstr "distrito"
+
+# mes "If you are looking for souvenirs, you can buy some in this "+F_Navi("district","mora,112,110")+".";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "mora,112,110"
+msgstr "mora,112,110"
+
+# mes "If you are looking for souvenirs, you can buy some in this "+F_Navi("district","mora,112,110")+".";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "."
+msgstr "."
+
+# mes F_Navi("This","mora,182,161")+" is where they keep all kinds of packages and groceries.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "mora,182,161"
+msgstr "mora,182,161"
+
+# mes F_Navi("This","mora,182,161")+" is where they keep all kinds of packages and groceries.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid " is where they keep all kinds of packages and groceries."
+msgstr " é onde eles guardam todos os tipos de embalagens e mantimentos."
+
+# mes "There are many things that don't belong to the Raffles, so be careful!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "There are many things that don't belong to the Raffles, so be careful!"
+msgstr "Há muitas coisas que não pertencem às rifas, portanto tenha cuidado!"
+
+# mes "Laoh~! I'm removing them all~!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "Laoh~! I'm removing them all~!"
+msgstr "Laoh~! Estou removendo todos eles~!"
+
+# mes "What kinds of sports are popular in your homeland?";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#north"
+msgid "What kinds of sports are popular in your homeland?"
+msgstr "Que tipos de esportes são populares em sua terra natal?"
+
+# mes "[Raffuh]";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "[Raffuh]"
+msgstr "[Raffuh]"
+
+# mes "Uh...";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "Uh..."
+msgstr "Uh..."
+
+# mes "This, this is the Village of Mora.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "This, this is the Village of Mora."
+msgstr "Esta, esta é a Vila de Mora."
+
+# mes "Uh... which place do you want to know about?";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "Uh... which place do you want to know about?"
+msgstr "Sobre que lugar você quer saber?"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "[ Inn ]"
+msgstr "[ Pousada ]"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "[ Residences ]"
+msgstr "Residências"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "[ Stores ]"
+msgstr "Lojas"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "[ Warehouse ]"
+msgstr "Armazém"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "Remove markers from the mini-map"
+msgstr "Remover marcadores do mini-mapa"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "Quit"
+msgstr "Sair"
+
+# mes "Are, are you sleepy?";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "Are, are you sleepy?"
+msgstr "Você está com sono?"
+
+# mes "You can sleep "+F_Navi("here","mora,44,138")+" uh!! Put your stuff down uh! And-- and---";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#east"
+msgid "You can sleep "
+msgstr "Você pode dormir "
+
+# mes "You can sleep "+F_Navi("here","mora,44,138")+" uh!! Put your stuff down uh! And-- and---";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "here"
+msgstr "aqui"
+
+# mes "You can sleep "+F_Navi("here","mora,44,138")+" uh!! Put your stuff down uh! And-- and---";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "mora,44,138"
+msgstr "mora,44,138"
+
+# mes "You can sleep "+F_Navi("here","mora,44,138")+" uh!! Put your stuff down uh! And-- and---";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#east"
+msgid " uh!! Put your stuff down uh! And-- and---"
+msgstr " uh!! Largue suas coisas uh! E-- e---"
+
+# mes "Why are you trying to find out "+F_Navi("where","mora,119,170")+" I live--?";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#east"
+msgid "Why are you trying to find out "
+msgstr "Por que você está tentando descobrir "
+
+# mes "Why are you trying to find out "+F_Navi("where","mora,119,170")+" I live--?";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "where"
+msgstr "onde"
+
+# mes "Why are you trying to find out "+F_Navi("where","mora,119,170")+" I live--?";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "mora,119,170"
+msgstr "mora,119,170"
+
+# mes "Why are you trying to find out "+F_Navi("where","mora,119,170")+" I live--?";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid " I live--?"
+msgstr " Eu vivo...?"
+
+# mes "Uh, no... I'd like to live with my friends--";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#east"
+msgid "Uh, no... I'd like to live with my friends--"
+msgstr "Uh, não... Eu gostaria de viver com meus amigos--"
+
+# mes "There are a lot of things in those "+F_Navi("stores","mora,112,110")+"-- oh, there is a hot spring also uh!";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#east"
+msgid "There are a lot of things in those "
+msgstr "Há muitas coisas nesses "
+
+# mes "There are a lot of things in those "+F_Navi("stores","mora,112,110")+"-- oh, there is a hot spring also uh!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "stores"
+msgstr "lojas"
+
+# mes "There are a lot of things in those "+F_Navi("stores","mora,112,110")+"-- oh, there is a hot spring also uh!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "mora,112,110"
+msgstr "mora,112,110"
+
+# mes "There are a lot of things in those "+F_Navi("stores","mora,112,110")+"-- oh, there is a hot spring also uh!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "-- oh, there is a hot spring also uh!"
+msgstr "-- oh, há uma fonte quente também uh!"
+
+# mes "You can't just march into the "+F_Navi("warehouse","mora,182,161")+", or you'll be in trouble--";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#east"
+msgid "You can't just march into the "
+msgstr "Você não pode simplesmente marchar para o "
+
+# mes "You can't just march into the "+F_Navi("warehouse","mora,182,161")+", or you'll be in trouble--";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "warehouse"
+msgstr "armazém"
+
+# mes "You can't just march into the "+F_Navi("warehouse","mora,182,161")+", or you'll be in trouble--";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "mora,182,161"
+msgstr "mora,182,161"
+
+# mes "You can't just march into the "+F_Navi("warehouse","mora,182,161")+", or you'll be in trouble--";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#east"
+msgid ", or you'll be in trouble--"
+msgstr ", ou você estará em apuros--"
+
+# mes "Many of the things there are from outside the village-- Raffuh has been in trouble several times--";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#east"
+msgid ""
+"Many of the things there are from outside the village-- Raffuh has been in "
+"trouble several times--"
+msgstr ""
+"Muitas das coisas que existem de fora do vilarejo-- Raffuh já esteve em "
+"apuros várias vezes--"
+
+# mes "Are you sure you want them removed?";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#east"
+msgid "Are you sure you want them removed?"
+msgstr "Você tem certeza de que quer que eles sejam removidos?"
+
+# mes "Being a guide doesn't help much with my social phobia--";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#east"
+msgid "Being a guide doesn't help much with my social phobia--"
+msgstr "Ser um guia não ajuda muito com minha fobia social--"
+
+# mes "[Raffla]";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "[Raffla]"
+msgstr "[Raffla]"
+
+# mes "Lala!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "Lala!"
+msgstr "Lala!"
+
+# mes "Welcome to the Village of Mora la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "Welcome to the Village of Mora la!"
+msgstr "Bem-vindo à Aldeia de Mora la!"
+
+# mes "If you need to know anything about the village, just ask me la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "If you need to know anything about the village, just ask me la!"
+msgstr ""
+"Se você precisa saber alguma coisa sobre a aldeia, basta me perguntar la!"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit.")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "[ Inn ]"
+msgstr "[ Pousada ]"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit.")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "[ Residences ]"
+msgstr "Residências"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit.")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "[ Stores ]"
+msgstr "Lojas"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit.")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "[ Warehouse ]"
+msgstr "Armazém"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit.")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "Remove markers from the mini-map"
+msgstr "Remover marcadores do mini-mapa"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit.")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "Quit."
+msgstr "Sair."
+
+# mes F_Navi("This","mora,44,138")+" is where travelers can rest la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "This"
+msgstr "Esse"
+
+# mes F_Navi("This","mora,44,138")+" is where travelers can rest la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "mora,44,138"
+msgstr "mora,44,138"
+
+# mes F_Navi("This","mora,44,138")+" is where travelers can rest la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid " is where travelers can rest la!"
+msgstr " é onde os viajantes podem descansar la!"
+
+# mes "The innkeeper is very kind, so try to talk to him a lot la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "The innkeeper is very kind, so try to talk to him a lot la!"
+msgstr "O estalajadeiro é muito gentil, então tente falar muito com ele la!"
+
+# mes F_Navi("This","mora,119,170")+" is where Raffles live la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "mora,119,170"
+msgstr "mora,119,170"
+
+# mes F_Navi("This","mora,119,170")+" is where Raffles live la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid " is where Raffles live la!"
+msgstr " é onde mora Raffles la!"
+
+# mes "Head over there la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "Head over there la!"
+msgstr "Vá até lá la!"
+
+# mes "So you want to buy something la?";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "So you want to buy something la?"
+msgstr "Então você quer comprar algo la?"
+
+# mes "There are a lot of "+F_Navi("stores and cafes","mora,112,110")+", so check them out la!";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#center"
+msgid "There are a lot of "
+msgstr "Há muito "
+
+# mes "There are a lot of "+F_Navi("stores and cafes","mora,112,110")+", so check them out la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "stores and cafes"
+msgstr "lojas e cafés"
+
+# mes "There are a lot of "+F_Navi("stores and cafes","mora,112,110")+", so check them out la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "mora,112,110"
+msgstr "mora,112,110"
+
+# mes "There are a lot of "+F_Navi("stores and cafes","mora,112,110")+", so check them out la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid ", so check them out la!"
+msgstr "então, confira-os la!"
+
+# mes "The "+F_Navi("Warehouse","mora,182,161")+" is where you keep your valuables la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "The "
+msgstr "A "
+
+# mes "The "+F_Navi("Warehouse","mora,182,161")+" is where you keep your valuables la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "Warehouse"
+msgstr "Armazém"
+
+# mes "The "+F_Navi("Warehouse","mora,182,161")+" is where you keep your valuables la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "mora,182,161"
+msgstr "mora,182,161"
+
+# mes "The "+F_Navi("Warehouse","mora,182,161")+" is where you keep your valuables la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid " is where you keep your valuables la!"
+msgstr " é onde você guarda seus objetos de valor la!"
+
+# mes "Be careful so you don't get robbed la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "Be careful so you don't get robbed la!"
+msgstr "Tenha cuidado para não ser assaltado la!"
+
+# mes "Okay, I'll remove all the markers from the map la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "Okay, I'll remove all the markers from the map la!"
+msgstr "Ok, eu vou remover todos os marcadores do mapa la!"
+
+# mes "I really don't know how my family ends up doing these things la!";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#center"
+msgid "I really don't know how my family ends up doing these things la!"
+msgstr ""
+"Eu realmente não sei como minha família acaba fazendo essas coisas la!"
+
+# mes "[Raffli]";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "[Raffli]"
+msgstr "[Raffli]"
+
+# mes "Lali?";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "Lali?"
+msgstr "Lali?"
+
+# mes "Welcome to the Village of Mora.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "Welcome to the Village of Mora."
+msgstr "Bem-vindo à Aldeia de Mora."
+
+# mes "If you need to know anything about the village, just ask me.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "If you need to know anything about the village, just ask me."
+msgstr ""
+"Se você precisar saber alguma coisa sobre a aldeia, é só me perguntar."
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "[ Inn ]"
+msgstr "[ Pousada ]"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "[ Residences ]"
+msgstr "Residências"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "[ Stores ]"
+msgstr "Lojas"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "[ Warehouse ]"
+msgstr "Armazém"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "Remove markers from the mini-map"
+msgstr "Remover marcadores do mini-mapa"
+
+# switch(select("[ Inn ]", "[ Residences ]", "[ Stores ]", "[ Warehouse ]", "Remove markers from the mini-map", "Quit")) {
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "Quit"
+msgstr "Sair"
+
+# mes F_Navi("This","mora,44,138")+" is where travelers can rest.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "This"
+msgstr "Esse"
+
+# mes F_Navi("This","mora,44,138")+" is where travelers can rest.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "mora,44,138"
+msgstr "mora,44,138"
+
+# mes F_Navi("This","mora,44,138")+" is where travelers can rest.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid " is where travelers can rest."
+msgstr " é onde os viajantes podem descansar."
+
+# mes "The innkeeper is very kind, so get to know him.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "The innkeeper is very kind, so get to know him."
+msgstr "O estalajadeiro é muito gentil, portanto, conheça-o."
+
+# mes F_Navi("This","mora,119,170")+" is where Raffles live.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "mora,119,170"
+msgstr "mora,119,170"
+
+# mes F_Navi("This","mora,119,170")+" is where Raffles live.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid " is where Raffles live."
+msgstr " é onde mora Raffles."
+
+# mes "Are you coming to Raffli's house li? I'm so happy.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "Are you coming to Raffli's house li? I'm so happy."
+msgstr "Você está vindo para a casa de Raffli li? Estou tão feliz."
+
+# mes "There are a lot of things I want to buy.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "There are a lot of things I want to buy."
+msgstr "Há muitas coisas que eu quero comprar."
+
+# mes "You can find tons of "+F_Navi("places","mora,112,110")+" to eat and shop, and tons of things to buy.";
+#: npc/re/guides/guides_mora.txt
+msgctxt "Raffle Guide#south"
+msgid "You can find tons of "
+msgstr "Você pode encontrar toneladas de "
+
+# mes "You can find tons of "+F_Navi("places","mora,112,110")+" to eat and shop, and tons of things to buy.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "places"
+msgstr "lugares"
+
+# mes "You can find tons of "+F_Navi("places","mora,112,110")+" to eat and shop, and tons of things to buy.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "mora,112,110"
+msgstr "mora,112,110"
+
+# mes "You can find tons of "+F_Navi("places","mora,112,110")+" to eat and shop, and tons of things to buy.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid " to eat and shop, and tons of things to buy."
+msgstr " para comer e fazer compras, e toneladas de coisas para comprar."
+
+# mes "The "+F_Navi("Warehouse","mora,182,161")+" is where you keep your valuables.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "The "
+msgstr "A "
+
+# mes "The "+F_Navi("Warehouse","mora,182,161")+" is where you keep your valuables.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "Warehouse"
+msgstr "Armazém"
+
+# mes "The "+F_Navi("Warehouse","mora,182,161")+" is where you keep your valuables.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "mora,182,161"
+msgstr "mora,182,161"
+
+# mes "The "+F_Navi("Warehouse","mora,182,161")+" is where you keep your valuables.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid " is where you keep your valuables."
+msgstr " é onde você guarda seus objetos de valor."
+
+# mes "But don't get robbed.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "But don't get robbed."
+msgstr "Mas não seja assaltado."
+
+# mes "I'll remove all the markers.";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "I'll remove all the markers."
+msgstr "Vou remover todos os marcadores."
+
+# mes "Brother seems to be upset today li. Did I do anything wrong?";
+#: npc/re/guides/guides_mora.txt
+#, fuzzy
+msgctxt "Raffle Guide#south"
+msgid "Brother seems to be upset today li. Did I do anything wrong?"
+msgstr "O irmão parece estar chateado hoje li. Eu fiz alguma coisa errada?"

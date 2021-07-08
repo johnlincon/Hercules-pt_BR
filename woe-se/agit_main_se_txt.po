@@ -1,0 +1,3599 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: 2021-07-08 16:58-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes("[ Steward ]");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "[ Steward ]"
+msgstr "Diretor"
+
+# mes("I await for the master");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "I await for the master"
+msgstr "Aguardo pelo mestre"
+
+# mes("whom destiny will choose");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "whom destiny will choose"
+msgstr "quem o destino irá escolher"
+
+# mes("for me. Do you think you");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "for me. Do you think you"
+msgstr "para mim. Você acha que você"
+
+# mes("have to courage and strength");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "have to courage and strength"
+msgstr "têm que ter coragem e força"
+
+# mes("to conquer this stronghold?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "to conquer this stronghold?"
+msgstr "para conquistar este reduto?"
+
+# mes("Hmpf. Your threats don't");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Hmpf. Your threats don't"
+msgstr "Hmpf. Suas ameaças não"
+
+# mes("scare me! Guardians, drive");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "scare me! Guardians, drive"
+msgstr "me assuste! Guardiães, dirijam"
+
+# mes("this infidel away from here!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "this infidel away from here!"
+msgstr "este infiel longe daqui!"
+
+# mes("I will always be loyal to the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "I will always be loyal to the"
+msgstr "Serei sempre leal ao"
+
+# mes("master of this stronghold,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "master of this stronghold,"
+msgstr "mestre deste bastião,"
+
+# mesf("the one and only ^FF0000%s^000000.", getguildinfo(GUILDINFO_MASTER_NAME, .@GID));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Steward#template"
+msgid "the one and only ^FF0000%s^000000."
+msgstr "o primeiro e único ^FF0000%s^000000."
+
+# mesf("Ah, Master ^FF0000%s^000000...", getguildinfo(GUILDINFO_MASTER_NAME, .@GID));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Steward#template"
+msgid "Ah, Master ^FF0000%s^000000..."
+msgstr "Ah, Mestre ^FF0000%s^000000..."
+
+# mes("How shall I serve you today?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "How shall I serve you today?"
+msgstr "Como devo servi-lo hoje?"
+
+# mes("Was there an aspect of this");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Was there an aspect of this"
+msgstr "Havia um aspecto disso"
+
+# mes("stronghold's maintenance");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "stronghold's maintenance"
+msgstr "manutenção do bastião"
+
+# mes("you wanted to discuss?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "you wanted to discuss?"
+msgstr "que você queria discutir?"
+
+# switch(select("Stronghold Briefing", "Invest in Commercial Growth", "Invest in Defense growth", "Hire/Fire Storage Staff", "Go to Master's room")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Stronghold Briefing"
+msgstr "Briefing Stronghold Briefing"
+
+# switch(select("Stronghold Briefing", "Invest in Commercial Growth", "Invest in Defense growth", "Hire/Fire Storage Staff", "Go to Master's room")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Invest in Commercial Growth"
+msgstr "Investir no crescimento comercial"
+
+# switch(select("Stronghold Briefing", "Invest in Commercial Growth", "Invest in Defense growth", "Hire/Fire Storage Staff", "Go to Master's room")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Invest in Defense growth"
+msgstr "Investir no crescimento da Defesa"
+
+# switch(select("Stronghold Briefing", "Invest in Commercial Growth", "Invest in Defense growth", "Hire/Fire Storage Staff", "Go to Master's room")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Hire/Fire Storage Staff"
+msgstr "Contratar/Alugar pessoal de armazenamento de fogo"
+
+# switch(select("Stronghold Briefing", "Invest in Commercial Growth", "Invest in Defense growth", "Hire/Fire Storage Staff", "Go to Master's room")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Go to Master's room"
+msgstr "Ir para o quarto do Mestre"
+
+# mes("The Commercial Growth");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "The Commercial Growth"
+msgstr "O crescimento comercial"
+
+# mesf("Level of the stronghold is ^0000ff%d^000000.", getcastledata(strnpcinfo(NPC_MAP),2));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Steward#template"
+msgid "Level of the stronghold is ^0000ff%d^000000."
+msgstr "O nível do bastião é ^0000ff%d^000000."
+
+# mes("Last time, you invested in");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Last time, you invested in"
+msgstr "Na última vez, você investiu em"
+
+# mesf("Commercial Growth ^0000ff%d^000000.", getcastledata(strnpcinfo(NPC_MAP),4));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Steward#template"
+msgid "Commercial Growth ^0000ff%d^000000."
+msgstr "Crescimento Comercial ^0000ff%d^000000."
+
+# mes("Our stronghold's");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Our stronghold's"
+msgstr "Nosso bastião"
+
+# mesf("safeguard level is %d.", getcastledata(strnpcinfo(NPC_MAP),3));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Steward#template"
+msgid "safeguard level is %d."
+msgstr "o nível de salvaguarda é %d."
+
+# mes("Last time, you invested");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Last time, you invested"
+msgstr "Na última vez, você investiu"
+
+# mesf("in defense %d times.", getcastledata(strnpcinfo(NPC_MAP),5));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Steward#template"
+msgid "in defense %d times."
+msgstr "em defesa %d vezes."
+
+# mes(" ");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid " "
+msgstr " "
+
+# mes("That is all, master.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "That is all, master."
+msgstr "Isso é tudo, mestre."
+
+# mes("Raising the stronghold's");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Raising the stronghold's"
+msgstr "Levantando o bastião"
+
+# mes("commercial growth will");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "commercial growth will"
+msgstr "crescimento comercial"
+
+# mes("increase the quantity of");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "increase the quantity of"
+msgstr "aumentar a quantidade de"
+
+# mes("goods produced for the guild.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "goods produced for the guild."
+msgstr "bens produzidos para a guilda."
+
+# mes("Investing in commercial growth");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Investing in commercial growth"
+msgstr "Investindo no crescimento comercial"
+
+# mes("will help the guild's future.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "will help the guild's future."
+msgstr "ajudará o futuro da guilda."
+
+# mes("You can make one investment");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "You can make one investment"
+msgstr "Você pode fazer um investimento"
+
+# mes("each day, but if you can make");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "each day, but if you can make"
+msgstr "cada dia, mas se você puder fazer"
+
+# mes("two investments if you pay");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "two investments if you pay"
+msgstr "dois investimentos se você pagar"
+
+# mes("more Zeny: this will speed");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "more Zeny: this will speed"
+msgstr "mais Zeny: isto vai acelerar"
+
+# mes("up commercial development,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "up commercial development,"
+msgstr "desenvolvimento comercial,"
+
+# mes("but can be quite expensive.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "but can be quite expensive."
+msgstr "mas pode ser bastante caro."
+
+# mes("However, our stronghold's");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "However, our stronghold's"
+msgstr "No entanto, nosso bastião é"
+
+# mes("commerical growth level is");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "commerical growth level is"
+msgstr "nível de crescimento comercial é"
+
+# mes("at 100%. It's not possible to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, no-c-format
+msgctxt "Steward#template"
+msgid "at 100%. It's not possible to"
+msgstr "a 100%. Não é possível"
+
+# mes("develop commercial growth");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "develop commercial growth"
+msgstr "desenvolver o crescimento comercial"
+
+# mes("any further than that.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "any further than that."
+msgstr "mais do que isso."
+
+# mes("You've already made two");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "You've already made two"
+msgstr "Você já fez dois"
+
+# mes("investments today, so you'll");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "investments today, so you'll"
+msgstr "investimentos hoje, então você vai"
+
+# mes("have to wait until tomorrow");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "have to wait until tomorrow"
+msgstr "ter que esperar até amanhã"
+
+# mes("to make another investment.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "to make another investment."
+msgstr "para fazer outro investimento."
+
+# mesf("You must pay ^FF0000%d^000000 Zeny", .@eco_invest);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Steward#template"
+msgid "You must pay ^FF0000%d^000000 Zeny"
+msgstr "Você deve pagar ^FF0000%d^000000 Zeny"
+
+# mes("to make an investment");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "to make an investment"
+msgstr "para fazer um investimento"
+
+# mes("Will you invest in this");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Will you invest in this"
+msgstr "Você investirá nisto"
+
+# mes("stronghold's commerical");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "stronghold's commerical"
+msgstr "fortaleza é comercial"
+
+# mes("development now?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "development now?"
+msgstr "desenvolvimento agora?"
+
+# mesf("You must pay ^FF0000%d^000000", .@eco_invest);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Steward#template"
+msgid "You must pay ^FF0000%d^000000"
+msgstr "Você deve pagar ^FF0000%d^000000"
+
+# mes("more Zeny to make a second");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "more Zeny to make a second"
+msgstr "mais Zeny para fazer um segundo"
+
+# mes("investment today. Will you");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "investment today. Will you"
+msgstr "investimento hoje. Você"
+
+# mes("invest one more time?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "invest one more time?"
+msgstr "investir mais uma vez?"
+
+# switch(select("Invest in Commercial Growth", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("I'm sorry, Master, but");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "I'm sorry, Master, but"
+msgstr "Sinto muito, Mestre, mas"
+
+# mes("you do not have enough");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "you do not have enough"
+msgstr "você não tem o suficiente"
+
+# mes("Zeny to make an investment");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Zeny to make an investment"
+msgstr "Zeny para fazer um investimento"
+
+# mes("for the guild today.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "for the guild today."
+msgstr "para a guilda hoje."
+
+# mes("A wise use of the guild's");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "A wise use of the guild's"
+msgstr "Um sábio uso da guilda"
+
+# mes("funds, Master. We can expect");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "funds, Master. We can expect"
+msgstr "fundos, Mestre. Podemos esperar"
+
+# mes("to see the results of this");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "to see the results of this"
+msgstr "para ver os resultados deste"
+
+# mes("investment by tomorrow.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "investment by tomorrow."
+msgstr "investimento até amanhã."
+
+# mes("As you command, Master.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "As you command, Master."
+msgstr "Como o senhor ordena, Mestre."
+
+# mes("Investing in our stronghold's");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Investing in our stronghold's"
+msgstr "Investindo em nossa fortaleza"
+
+# mes("defense will enhance the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "defense will enhance the"
+msgstr "de defesa irá melhorar a"
+
+# mes("durability of our Guardians");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "durability of our Guardians"
+msgstr "durabilidade de nossos Guardiões"
+
+# mes("and the Emperium. We'll need");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "and the Emperium. We'll need"
+msgstr "e o Emperium. Vamos precisar de"
+
+# mes("every advantage to protect");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "every advantage to protect"
+msgstr "todas as vantagens a proteger"
+
+# mes("ourselves from our enemies.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "ourselves from our enemies."
+msgstr "nós mesmos de nossos inimigos."
+
+# mes("You can invest in defense");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "You can invest in defense"
+msgstr "Você pode investir na defesa"
+
+# mes("once per day, but if you pay");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "once per day, but if you pay"
+msgstr "uma vez por dia, mas se você pagar"
+
+# mes("more Zeny, you can invest");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "more Zeny, you can invest"
+msgstr "mais Zeny, você pode investir"
+
+# mes("a maximum of two times daily.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "a maximum of two times daily."
+msgstr "no máximo duas vezes ao dia."
+
+# mes("The Defense Level of this");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "The Defense Level of this"
+msgstr "O Nível de Defesa deste"
+
+# mes("stronghold is 100%, and");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, no-c-format
+msgctxt "Steward#template"
+msgid "stronghold is 100%, and"
+msgstr "é 100%, e"
+
+# mes("cannot be increased further.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "cannot be increased further."
+msgstr "não pode ser aumentado ainda mais."
+
+# mes("Master, you've already");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Master, you've already"
+msgstr "Mestre, você já"
+
+# mes("invested in Defense twice");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "invested in Defense twice"
+msgstr "investiu duas vezes na Defesa"
+
+# mes("today. You'll need to wait");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "today. You'll need to wait"
+msgstr "hoje. Você vai precisar esperar"
+
+# mes("until tomorrow if you really");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "until tomorrow if you really"
+msgstr "até amanhã, se você realmente"
+
+# mes("want to increase our defenses.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "want to increase our defenses."
+msgstr "querem aumentar nossas defesas."
+
+# mesf("We need ^FF0000%d^000000", .@def_invest);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Steward#template"
+msgid "We need ^FF0000%d^000000"
+msgstr "Precisamos de ^FF0000%d^000000"
+
+# mes("Zeny to invest in our");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Zeny to invest in our"
+msgstr "Zeny para investir em nosso"
+
+# mes("stronghold's defenses.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "stronghold's defenses."
+msgstr "defesas do bastião."
+
+# mes("Will you invest now?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Will you invest now?"
+msgstr "Você vai investir agora?"
+
+# mes("stronghold's defenses");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "stronghold's defenses"
+msgstr "defesas do bastião"
+
+# mes("a second time today.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "a second time today."
+msgstr "uma segunda vez hoje."
+
+# switch(select("Invest in Defense", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Invest in Defense"
+msgstr "Invista na Defesa"
+
+# mes("funds, Master. Increasing");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "funds, Master. Increasing"
+msgstr "fundos, Mestre. Aumentando"
+
+# mes("the frequency of treasure");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "the frequency of treasure"
+msgstr "a freqüência do tesouro"
+
+# mes("procured by the guild will");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "procured by the guild will"
+msgstr "adquiridos pela guilda"
+
+# mes("definitely help us all.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "definitely help us all."
+msgstr "definitivamente ajudar a todos nós."
+
+# mes("Do you wish to dismiss");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Do you wish to dismiss"
+msgstr "Você deseja demitir"
+
+# mes("the Kafra Employee that");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "the Kafra Employee that"
+msgstr "[Kafra]"
+
+# mes("we've hired for the guild?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "we've hired for the guild?"
+msgstr "que contratamos para a guilda?"
+
+# switch(select("Dismiss", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Dismiss"
+msgstr "Dispensar"
+
+# mes("[ Hired Kafra Employee ]");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "[ Hired Kafra Employee ]"
+msgstr "Empregado contratado da Kafra"
+
+# mes("Master, please reconsider!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Master, please reconsider!"
+msgstr "Mestre, por favor, reconsidere!"
+
+# mes("I've been working very hard");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "I've been working very hard"
+msgstr "Eu tenho trabalhado muito"
+
+# mes("for the success of the guild!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "for the success of the guild!"
+msgstr "para o sucesso da guilda!"
+
+# mes("I'll try harder to serve the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "I'll try harder to serve the"
+msgstr "Vou me esforçar mais para servir o"
+
+# mes("guild members of this");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "guild members of this"
+msgstr "membros da guilda desta"
+
+# mes("stronghold, I promise!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "stronghold, I promise!"
+msgstr "fortaleza, eu prometo!"
+
+# mes("Why?! What have I done");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Why?! What have I done"
+msgstr "Por quê?! O que eu fiz"
+
+# mes("to deserve this? Waaah~!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "to deserve this? Waaah~!"
+msgstr "para merecer isto? Waaah~!"
+
+# mes("Thank you, Master!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Thank you, Master!"
+msgstr "Obrigado, Mestre!"
+
+# mes("I'll obey your every");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "I'll obey your every"
+msgstr "Obedecerei a todos os seus"
+
+# mes("command as best I can!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "command as best I can!"
+msgstr "comandar o melhor que eu puder!"
+
+# mes("You won't regret this!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "You won't regret this!"
+msgstr "Você não vai se arrepender disso!"
+
+# mes("She works very hard,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "She works very hard,"
+msgstr "Ela trabalha muito duro,"
+
+# mes("in my opinion. It was in");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "in my opinion. It was in"
+msgstr "na minha opinião. Foi em"
+
+# mes("all of our best interests to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "all of our best interests to"
+msgstr "todos os nossos melhores interesses para"
+
+# mes("allow her to stay with us.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "allow her to stay with us."
+msgstr "permitir que ela fique conosco."
+
+# mes("That Kafra Employee");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "That Kafra Employee"
+msgstr "[Kafra]"
+
+# mes("has been dismissed.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "has been dismissed."
+msgstr "foi demitido."
+
+# mes("Were really dissatisfied");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Were really dissatisfied"
+msgstr "Ficamos realmente insatisfeitos"
+
+# mes("by the quality of her service?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "by the quality of her service?"
+msgstr "pela qualidade de seu serviço?"
+
+# mes("Will you hire a");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Will you hire a"
+msgstr "Você vai contratar um"
+
+# mes("Kafra Employee to serve");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Kafra Employee to serve"
+msgstr "Empregado Kafra para servir"
+
+# mes("our stronghold? You must");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "our stronghold? You must"
+msgstr "nosso refúgio? Você deve"
+
+# mes("pay ^FF000010,000 Zeny^000000 to hire one.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "pay ^FF000010,000 Zeny^000000 to hire one."
+msgstr "pagar ^FF000010.000 Zeny^000000 para contratar um."
+
+# switch(select("Hire", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Hire"
+msgstr "Contratar"
+
+# mes("Master, we cannot hire a");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Master, we cannot hire a"
+msgstr "Mestre, não podemos contratar um"
+
+# mes("Kafra Employee because");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Kafra Employee because"
+msgstr "Empregado Kafra porque"
+
+# mes("you have not yet attained");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "you have not yet attained"
+msgstr "você ainda não atingiu"
+
+# mes("the ^FF0000Contract with Kafra^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "the ^FF0000Contract with Kafra^000000"
+msgstr "o ^FF0000Contrato com a Kafra^000000"
+
+# mes("guild skill.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "guild skill."
+msgstr "habilidade da guilda."
+
+# mes("we do not have enough");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "we do not have enough"
+msgstr "não temos o suficiente"
+
+# mes("funds to pay the contract fee.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "funds to pay the contract fee."
+msgstr "fundos para pagar a taxa do contrato."
+
+# mes("Very well. We have formed");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Very well. We have formed"
+msgstr "Muito bem. Nós formamos"
+
+# mes("a contract with the Kafra");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "a contract with the Kafra"
+msgstr "um contrato com a Kafra"
+
+# mes("Head Office, and hired a");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Head Office, and hired a"
+msgstr "Sede, e contratou um"
+
+# mes("Kafra Employee for our");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Kafra Employee for our"
+msgstr "Empregado Kafra para nosso"
+
+# mes("stronghold. Here she is~");
+#: npc/woe-se/agit_main_se.txt
+msgctxt "Steward#template"
+msgid "stronghold. Here she is~"
+msgstr "fortaleza. Aqui está ela~"
+
+# mes("How do you do? I've");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "How do you do? I've"
+msgstr "Como você faz? Eu tenho"
+
+# mes("been dispatched by the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "been dispatched by the"
+msgstr "foi despachada pela"
+
+# mes("Kafra Head Office to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Kafra Head Office to"
+msgstr "Sede da Kafra para"
+
+# mes("serve your guild's needs.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "serve your guild's needs."
+msgstr "servir às necessidades de sua guilda."
+
+# mes("I'll do my best to follow");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "I'll do my best to follow"
+msgstr "Farei o meu melhor para seguir"
+
+# mes("your every command, Master.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "your every command, Master."
+msgstr "seu comando, Mestre."
+
+# mes("Our contract will expire");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Our contract will expire"
+msgstr "Nosso contrato expirará"
+
+# mes("after one month, so we must");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "after one month, so we must"
+msgstr "após um mês, então devemos"
+
+# mes("pay additional fees to keep");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "pay additional fees to keep"
+msgstr "pagar taxas adicionais para manter"
+
+# mes("this Kafra Employee in");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "this Kafra Employee in"
+msgstr "[Kafra]"
+
+# mes("the service of our guild.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "the service of our guild."
+msgstr "o serviço de nossa guilda."
+
+# mes("However, I suggest hiring");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "However, I suggest hiring"
+msgstr "Entretanto, sugiro contratar"
+
+# mes("a Kafra Employee as soon");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "a Kafra Employee as soon"
+msgstr "um Empregado Kafra assim que"
+
+# mes("as possible since our guild");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "as possible since our guild"
+msgstr "desde nossa guilda"
+
+# mes("would greatly benefit from");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "would greatly benefit from"
+msgstr "se beneficiaria muito com"
+
+# mes("the convenient Kafra services.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "the convenient Kafra services."
+msgstr "os convenientes serviços Kafra."
+
+# mes("Do you wish to enter the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Do you wish to enter the"
+msgstr "Você deseja entrar no"
+
+# mes("Guild Treasure Room?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Guild Treasure Room?"
+msgstr "Sala do Tesouro da Guilda?"
+
+# mes("Only you, the Guild Master,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Only you, the Guild Master,"
+msgstr "Somente você, o Mestre da Guilda,"
+
+# mes("are permitted to enter.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "are permitted to enter."
+msgstr "são permitidos a entrar."
+
+# mes("Please remember to open");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Please remember to open"
+msgstr "Por favor, lembre-se de abrir"
+
+# mes("the Treasure Boxes at the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "the Treasure Boxes at the"
+msgstr "as Caixas do Tesouro no"
+
+# mes("proper time. Otherwise, the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "proper time. Otherwise, the"
+msgstr "tempo adequado. Caso contrário, o"
+
+# mes("treasure may disappear if");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "treasure may disappear if"
+msgstr "tesouro pode desaparecer se"
+
+# mes("something unexpected happens.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "something unexpected happens."
+msgstr "algo inesperado acontece."
+
+# switch(select("Go to Treasure Room", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Go to Treasure Room"
+msgstr "Ir para a Sala do Tesouro"
+
+# mes("Allow me to guide you");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Allow me to guide you"
+msgstr "Permita-me guiá-lo"
+
+# mes("on the secret path to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "on the secret path to"
+msgstr "no caminho secreto para"
+
+# mes("the Treasure Room.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "the Treasure Room."
+msgstr "a Sala do Tesouro."
+
+# mes("Press the secret switch");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Press the secret switch"
+msgstr "Pressione o interruptor secreto"
+
+# mes("when you wish to return here.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "when you wish to return here."
+msgstr "quando você deseja voltar aqui."
+
+# mes("Items in the Treasure Room");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Items in the Treasure Room"
+msgstr "Itens na Sala do Tesouro"
+
+# mes("are produced once each day.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "are produced once each day."
+msgstr "são produzidos uma vez a cada dia."
+
+# mes("Therefore, you must obtain");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "Therefore, you must obtain"
+msgstr "Portanto, você deve obter"
+
+# mes("the treasure items everyday.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "the treasure items everyday."
+msgstr "os itens do tesouro todos os dias."
+
+# mes("For the sake of the guild,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "For the sake of the guild,"
+msgstr "Para o bem da guilda,"
+
+# mes("prioritize treasure harvesting!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Steward#template"
+msgid "prioritize treasure harvesting!"
+msgstr "priorizar a colheita do tesouro!"
+
+# mes("Great job. Now, all you");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Great job. Now, all you"
+msgstr "Ótimo trabalho. Agora, todos vocês"
+
+# mes("need to do is destroy this");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "need to do is destroy this"
+msgstr "necessidade de fazer é destruir isto"
+
+# mes("Emperium to gain ownership");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Emperium to gain ownership"
+msgstr "Emperium para ganhar a propriedade"
+
+# mes("over this stronghold.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "over this stronghold."
+msgstr "sobre este bastião."
+
+# mes("As guardian of this");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "As guardian of this"
+msgstr "Guardião do Acampamento de Croix"
+
+# mes("stronghold, I answer only");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "stronghold, I answer only"
+msgstr "fortaleza, eu respondo apenas"
+
+# mes("to the master of the guild");
+#: npc/woe-se/agit_main_se.txt
+msgctxt "Guardian#template"
+msgid "to the master of the guild"
+msgstr "você não é o líder do seu clã"
+
+# mes("that controls this place.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "that controls this place."
+msgstr "que controla este lugar."
+
+# mesf("I am %s, guardian of", strnpcinfo(NPC_NAME_VISIBLE));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Guardian#template"
+msgid "I am %s, guardian of"
+msgstr "Eu sou %s, guardião do"
+
+# mes("this stronghold. For now,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "this stronghold. For now,"
+msgstr "este bastião. Por enquanto,"
+
+# mes("all is quiet in this place.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "all is quiet in this place."
+msgstr "tudo está calmo neste lugar."
+
+# switch(select("Converse", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Converse"
+msgstr "Converse"
+
+# switch(select("Converse", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("Do you have any questions");
+#: npc/woe-se/agit_main_se.txt
+msgctxt "Guardian#template"
+msgid "Do you have any questions"
+msgstr "Você tem alguma pergunta"
+
+# mes("about this stronghold?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "about this stronghold?"
+msgstr "sobre este bastião?"
+
+# switch(select("Guardian Stones", "Fortress Gates", "Link Flags", "Battle Strategy", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Guardian Stones"
+msgstr "Pedras Guardiãs"
+
+# switch(select("Guardian Stones", "Fortress Gates", "Link Flags", "Battle Strategy", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Fortress Gates"
+msgstr "Portões da fortaleza"
+
+# switch(select("Guardian Stones", "Fortress Gates", "Link Flags", "Battle Strategy", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Link Flags"
+msgstr "Bandeiras de ligação"
+
+# switch(select("Guardian Stones", "Fortress Gates", "Link Flags", "Battle Strategy", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Battle Strategy"
+msgstr "Estratégia de batalha"
+
+# mes("There is one Emperium");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "There is one Emperium"
+msgstr "Existe um Emperium"
+
+# mes("and two Guardian Stones in");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "and two Guardian Stones in"
+msgstr "e duas Pedras Guardiãs em"
+
+# mes("each fortress. These stones");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "each fortress. These stones"
+msgstr "cada fortaleza. Estas pedras"
+
+# mes("are the first line of defense,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "are the first line of defense,"
+msgstr "são a primeira linha de defesa,"
+
+# mes("and must be destroyed before");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "and must be destroyed before"
+msgstr "e deve ser destruída antes"
+
+# mes("enemies can even enter.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "enemies can even enter."
+msgstr "inimigos podem até mesmo entrar."
+
+# mes("The stones are located in");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "The stones are located in"
+msgstr "As pedras estão localizadas em"
+
+# mes("^4D4DFFGate Houses^000000 which must be");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "^4D4DFFGate Houses^000000 which must be"
+msgstr "^4D4DFFGate Houses^000000 que devem ser"
+
+# mes("protected to prevent enemies");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "protected to prevent enemies"
+msgstr "protegidos para evitar inimigos"
+
+# mes("from reaching the Emperium.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "from reaching the Emperium."
+msgstr "de chegar ao Emperium."
+
+# mes("Guardian Stones can ^4D4DFFrecall");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Guardian Stones can ^4D4DFFrecall"
+msgstr "Guardian Stones pode ^4D4DFFrecall"
+
+# mes("your Guardians^000000 for protection.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "your Guardians^000000 for protection."
+msgstr "seus Guardiães^000000 para proteção."
+
+# mes("Fortresses with higher levels");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Fortresses with higher levels"
+msgstr "Fortalezas com níveis mais altos"
+
+# mes("of defense can summon more");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "of defense can summon more"
+msgstr "de defesa pode convocar mais"
+
+# mes("Guardians: this is why it is");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Guardians: this is why it is"
+msgstr "Guardiães: é por isso que é"
+
+# mes("so important for guilds to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "so important for guilds to"
+msgstr "tão importante para as guildas para"
+
+# mes("invest in Defense Growth.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "invest in Defense Growth."
+msgstr "investir no Crescimento da Defesa."
+
+# mes("Guardian Stones that have");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Guardian Stones that have"
+msgstr "Pedras Guardiãs que têm"
+
+# mes("been destroyed can be revived");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "been destroyed can be revived"
+msgstr "foi destruído pode ser revivido"
+
+# mes("after a certain time, but one of the guild members must give");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "after a certain time, but one of the guild members must give"
+msgstr "após um certo tempo, mas um dos membros da guilda deve dar"
+
+# mes("me the order. I can also report the status of the Guardian Stones.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "me the order. I can also report the status of the Guardian Stones."
+msgstr "me o pedido. Também posso relatar a situação das Pedras Guardiãs."
+
+# mes("^4D4DFFFortress Gates^000000 are the second line of guild stronghold defense,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid ""
+"^4D4DFFFortress Gates^000000 are the second  line of guild stronghold "
+"defense,"
+msgstr ""
+"^4D4DFFFortress Gates^000000 são a segunda linha de defesa do bastião da "
+"guilda,"
+
+# mes("and are protected by extra barricades activated by the Guardian Stones.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "and are protected by extra barricades activated by the Guardian Stones."
+msgstr "e são protegidos por barricadas extras ativadas pelas Pedras Guardiãs."
+
+# mes("These gates are located in three different parts of the fortress.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "These gates are located in three different parts of the fortress."
+msgstr ""
+"Estes portões estão localizados em três partes diferentes da fortaleza."
+
+# mes("Barricades are protected by");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Barricades are protected by"
+msgstr "As barricadas são protegidas por"
+
+# mes("Guardian Stones, and are");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Guardian Stones, and are"
+msgstr "Pedras Guardiãs, e são"
+
+# mes("restored when the Guardian");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "restored when the Guardian"
+msgstr "restaurado quando o Guardião"
+
+# mes("Stones are retrieved. However,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Stones are retrieved. However,"
+msgstr "As pedras são recuperadas. No entanto, as pedras são recuperadas,"
+
+# mes("it is not as easy to restore");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "it is not as easy to restore"
+msgstr "não é tão fácil de restaurar"
+
+# mes("destroyed Fortress Gates.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "destroyed Fortress Gates."
+msgstr "destruído Fortress Gates."
+
+# mes("Fortress Gates can only be");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Fortress Gates can only be"
+msgstr "Os Portões da Fortaleza só podem ser"
+
+# mes("restored when the ^4D4DFFguild");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "restored when the ^4D4DFFguild"
+msgstr "restaurado quando o ^4D4DFFguild"
+
+# mes("master of a stronghold");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "master of a stronghold"
+msgstr "mestre de um bastião"
+
+# mes("changes^000000, or if ^4D4DFFrestoration");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "changes^000000, or if ^4D4DFFrestoration"
+msgstr "mudanças^000000, ou se ^4D4DFFrestoration"
+
+# mes("is requested by the guild");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "is requested by the guild"
+msgstr "é solicitado pela guilda"
+
+# mes("master of the stronghold^000000.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "master of the stronghold^000000."
+msgstr "mestre do bastião^000000."
+
+# mes("Strongholds have many");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Strongholds have many"
+msgstr "As fortalezas têm muitos"
+
+# mes("Link Flags that allow you");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Link Flags that allow you"
+msgstr "Bandeiras de link que lhe permitem"
+
+# mes("to access vital areas within");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "to access vital areas within"
+msgstr "para acessar áreas vitais dentro de"
+
+# mes("restrictions placed by the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "restrictions placed by the"
+msgstr "restrições impostas pelo"
+
+# mes("Barricades. Usually, ^4D4DFFFlag 1");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Barricades. Usually, ^4D4DFFFlag 1"
+msgstr "Barricadas. Normalmente, ^4D4DFFFlag 1"
+
+# mes("links to the Gate House^000000.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "links to the Gate House^000000."
+msgstr "links para o Gate House^000000."
+
+# mes("Many flags link directly to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Many flags link directly to"
+msgstr "Muitas bandeiras se ligam diretamente a"
+
+# mes("the flag near the Emperium.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "the flag near the Emperium."
+msgstr "a bandeira perto do Emperium."
+
+# mes("The final numbered flag is");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "The final numbered flag is"
+msgstr "A bandeira numerada final é"
+
+# mes("linked to the Convenience");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "linked to the Convenience"
+msgstr "ligado ao Convenience"
+
+# mes("Facility of the stronghold's");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Facility of the stronghold's"
+msgstr "Facilidade do bastião"
+
+# mes("owner. Keep this in mind.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "owner. Keep this in mind."
+msgstr "proprietário. Tenha isto em mente."
+
+# mes("Strategy? It would be better");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Strategy? It would be better"
+msgstr "Estratégia? Seria melhor"
+
+# mes("to develop your battle plan to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "to develop your battle plan to"
+msgstr "para desenvolver seu plano de batalha para"
+
+# mes("exploit your guild's advantages");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "exploit your guild's advantages"
+msgstr "explorar as vantagens de sua guilda"
+
+# mes("and your enemies' weaknesses.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "and your enemies' weaknesses."
+msgstr "e as fraquezas de seus inimigos."
+
+# mes("Use the Gate Houses and Barricades, and rebuild as quickly as you can!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Use the Gate Houses and Barricades, and rebuild as quickly as you can!"
+msgstr "Use as Portarias e Barricadas, e reconstrua o mais rápido que puder!"
+
+# mes("You have no questions");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "You have no questions"
+msgstr "Você tinha alguma dúvida"
+
+# mes("to ask of me? Well, I'm");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "to ask of me? Well, I'm"
+msgstr "para me perguntar? Bem, eu sou"
+
+# mes("here to serve your needs.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "here to serve your needs."
+msgstr "aqui para atender às suas necessidades."
+
+# mes("I'm always here, so");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "I'm always here, so"
+msgstr "Eu estou sempre aqui, então"
+
+# mes("feel free to request my");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "feel free to request my"
+msgstr "sinta-se à vontade para solicitar meu"
+
+# mes("assistance whenever");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "assistance whenever"
+msgstr "assistência sempre que"
+
+# mes("the need arises.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "the need arises."
+msgstr "a necessidade surge."
+
+# mesf("Greetings, %s.", strcharinfo(PC_NAME));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Guardian#template"
+msgid "Greetings, %s."
+msgstr "Saudações, %s."
+
+# mes("What are your orders?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "What are your orders?"
+msgstr "Quais são suas ordens?"
+
+# switch(select("Increase Stronghold Defense", "Situational Briefing", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Increase Stronghold Defense"
+msgstr "Aumentar a Defesa Stronghold"
+
+# switch(select("Increase Stronghold Defense", "Situational Briefing", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Situational Briefing"
+msgstr "Perspectiva situacional"
+
+# mes("I'm sorry, but the Guardian");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "I'm sorry, but the Guardian"
+msgstr "Sinto muito, mas o Guardião"
+
+# mes("Stones aren't powerful enough");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Stones aren't powerful enough"
+msgstr "As pedras não são suficientemente poderosas"
+
+# mes("to summon Guardians yet. We");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "to summon Guardians yet. We"
+msgstr "para convocar ainda Guardiães. Nós"
+
+# mes("need to accumulate more");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "need to accumulate more"
+msgstr "necessidade de acumular mais"
+
+# mes("knowledge before they can");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "knowledge before they can"
+msgstr "conhecimento antes que eles possam"
+
+# mes("summon any Guardians.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "summon any Guardians."
+msgstr "convocar qualquer Guardião."
+
+# mes("I shall endeavor to summon");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "I shall endeavor to summon"
+msgstr "Vou me esforçar para convocar"
+
+# mes("a Guardian through a Guardian");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "a Guardian through a Guardian"
+msgstr "um Guardião através de um Guardião"
+
+# mes("Stone. However, keep in mind");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Stone. However, keep in mind"
+msgstr "Pedra. Entretanto, tenha em mente"
+
+# mes("that this will not work if the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "that this will not work if the"
+msgstr "que isso não funcionará se o"
+
+# mes("Guardian Stone is destroyed.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Guardian Stone is destroyed."
+msgstr "A Pedra Guardiã é destruída."
+
+# mes("You've already commanded");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "You've already commanded"
+msgstr "Você já comandou"
+
+# mes("me to summon a Guardian");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "me to summon a Guardian"
+msgstr "me para convocar um Guardião"
+
+# mes("to defend the stronghold.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "to defend the stronghold."
+msgstr "para defender o bastião."
+
+# mes("Our defense status is...");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Our defense status is..."
+msgstr "Nosso status de defesa é..."
+
+# mesf("1st Guardian Stone: %s^000000", .@status$[getd("$agit_"+strnpcinfo(NPC_NAME_HIDDEN)+"[0]")]);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Guardian#template"
+msgid "1st Guardian Stone: %s^000000"
+msgstr "1ª Pedra Guardiã: %s^000000"
+
+# mesf("2nd Guardian Stone: %s^000000", .@status$[getd("$agit_"+strnpcinfo(NPC_NAME_HIDDEN)+"[1]")]);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Guardian#template"
+msgid "2nd Guardian Stone: %s^000000"
+msgstr "2ª Pedra Guardiã: %s^000000"
+
+# mesf("1st Fortress Gate: %s^000000", .@status$[getd("$agit_"+strnpcinfo(NPC_NAME_HIDDEN)+"[2]")]);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Guardian#template"
+msgid "1st Fortress Gate: %s^000000"
+msgstr "1º Portão da Fortaleza: %s^000000"
+
+# mesf("2nd Fortress Gate: %s^000000", .@status$[getd("$agit_"+strnpcinfo(NPC_NAME_HIDDEN)+"[3]")]);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Guardian#template"
+msgid "2nd Fortress Gate: %s^000000"
+msgstr "2º Portão da Fortaleza: %s^000000"
+
+# mesf("3rd Fortress Gate: %s^000000", .@status$[getd("$agit_"+strnpcinfo(NPC_NAME_HIDDEN)+"[4]")]);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Guardian#template"
+msgid "3rd Fortress Gate: %s^000000"
+msgstr "3º Portão da Fortaleza: %s^000000"
+
+# mes("I'll be standing by,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "I'll be standing by,"
+msgstr "Estarei a postos,"
+
+# mes("awaiting your orders.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "awaiting your orders."
+msgstr "aguardando suas ordens."
+
+# mes("Who are you? Scoundrel!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Who are you? Scoundrel!"
+msgstr "Quem é você? Canalha!"
+
+# mes("Leave this stronghold now!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian#template"
+msgid "Leave this stronghold now!"
+msgstr "Deixe esta fortaleza agora!"
+
+# mes("[Kafra Employee]");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "[Kafra Employee]"
+msgstr "[Kafra]"
+
+# mes("Welcome, proud member");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Welcome, proud member"
+msgstr "Bem-vindo, membro orgulhoso"
+
+# mesf("of the ^FF0000%s^000000 Guild!", getguildinfo(GUILDINFO_NAME, .@GID));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Kafra#template"
+msgid "of the ^FF0000%s^000000 Guild!"
+msgstr "da Guilda ^FF0000%s^000000!"
+
+# mes("The Kafra Corporation is ready");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "The Kafra Corporation is ready"
+msgstr "A Corporação Kafra está pronta"
+
+# mes("to assist you wherever you go!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "to assist you wherever you go!"
+msgstr "para ajudá-lo aonde quer que você vá!"
+
+# switch(select("Use Storage", "Use Warp Service", "Rent Pushcart", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Use Storage"
+msgstr "Usar Armazenagem"
+
+# switch(select("Use Storage", "Use Warp Service", "Rent Pushcart", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Use Warp Service"
+msgstr "Use o serviço Warp"
+
+# switch(select("Use Storage", "Use Warp Service", "Rent Pushcart", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Rent Pushcart"
+msgstr "Pushcart para aluguel"
+
+# switch(select("Use Storage", "Use Warp Service", "Rent Pushcart", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("I'm so sorry, but you must");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "I'm so sorry, but you must"
+msgstr "Lamento muito, mas você deve"
+
+# mes("have at least Novice Skill");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "have at least Novice Skill"
+msgstr "ter pelo menos a habilidade de novato"
+
+# mes("Lv.6 to use the Storage.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Lv.6 to use the Storage."
+msgstr "Lv.6 para utilizar o Armazenamento."
+
+# mes("Please tell me your");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Please tell me your"
+msgstr "Por favor, diga-me seu"
+
+# mes("Warp destination.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Warp destination."
+msgstr "Destino da urdidura."
+
+# switch(select("Rachel -> 200 z", "Cancel")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Rachel -> 200 z"
+msgstr "Rachel -> 200 z"
+
+# mes("I'm sorry, but you don't");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "I'm sorry, but you don't"
+msgstr "Sinto muito, mas você não"
+
+# mes("have enough Zeny to pay");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "have enough Zeny to pay"
+msgstr "ter zeny suficiente para pagar"
+
+# mes("the warp fee. Would you");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "the warp fee. Would you"
+msgstr "a taxa de urdidura. Você poderia"
+
+# mes("please check your funds again?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "please check your funds again?"
+msgstr "por favor, verifique novamente seus fundos?"
+
+# mes("I'm sorry, but the Pushcart");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "I'm sorry, but the Pushcart"
+msgstr "Sinto muito, mas o Pushcart"
+
+# mes("rental service can only be");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "rental service can only be"
+msgstr "serviço de aluguel só pode ser"
+
+# mes("used by Merchant, Blacksmith,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "used by Merchant, Blacksmith,"
+msgstr "usado por Merchant, Ferreiro,"
+
+# mes("and Alchemist class characters.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "and Alchemist class characters."
+msgstr "e personagens da classe Alquimista."
+
+# mes("Hm? You've already");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Hm? You've already"
+msgstr "Hm? Você já"
+
+# mes("rented a Pushcart.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "rented a Pushcart."
+msgstr "alugou um Pushcart."
+
+# mes("The Pushcart rental fee");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "The Pushcart rental fee"
+msgstr "A taxa de aluguel do Pushcart"
+
+# mes("is 800 Zeny. Would you");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "is 800 Zeny. Would you"
+msgstr "é 800 Zeny. Será que você"
+
+# mes("like to rent a Pushcart?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "like to rent a Pushcart?"
+msgstr "gosta de alugar um Pushcart?"
+
+# mes("have enough Zeny to rent");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "have enough Zeny to rent"
+msgstr "ter Zeny suficiente para alugar"
+
+# mes("one of our Pushcarts.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "one of our Pushcarts."
+msgstr "um de nossos Pushcarts."
+
+# mes("Thank you for using the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Thank you for using the"
+msgstr "Obrigado por usar o"
+
+# mes("Kafra Service. Wherever");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Kafra Service. Wherever"
+msgstr "Serviço Kafra. Onde quer que"
+
+# mes("you go, Kafra will be");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "you go, Kafra will be"
+msgstr "você vai, Kafra será"
+
+# mes("there to support you!");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "there to support you!"
+msgstr "para apoiá-lo!"
+
+# mes("I'm sorry, but I've been");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "I'm sorry, but I've been"
+msgstr "Sinto muito, mas eu tenho sido"
+
+# mes("exclusively contracted");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "exclusively contracted"
+msgstr "exclusivamente contratado"
+
+# mes("to the members of the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "to the members of the"
+msgstr "para os membros do"
+
+# mesf("^FF0000%s^000000 Guild.", getguildinfo(GUILDINFO_NAME, .@GID));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Kafra#template"
+msgid "^FF0000%s^000000 Guild."
+msgstr "^FF0000%s^000000 Guild."
+
+# mes("You'll have to ask another");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "You'll have to ask another"
+msgstr "Você terá que perguntar a outro"
+
+# mes("Kafra Employee to help you...");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Kafra#template"
+msgid "Kafra Employee to help you..."
+msgstr "Empregado Kafra para ajudá-lo..."
+
+# mes("^3355FFYou will need the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFYou will need the"
+msgstr "^3355FF Você vai precisar do"
+
+# mes("following materials to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "following materials to"
+msgstr "seguintes materiais para"
+
+# mes("rebuild a destroyed");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "rebuild a destroyed"
+msgstr "reconstruir um destruído"
+
+# mes("Guardian Stone.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Guardian Stone.^000000"
+msgstr "Pedra Guardiã.^000000"
+
+# mes("1 Oridecon");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "1 Oridecon"
+msgstr "1 Oridecon"
+
+# mes("1 Elunium");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "1 Elunium"
+msgstr "1 Elunium"
+
+# mes("30 Stones");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "30 Stones"
+msgstr "30 Pedras"
+
+# mes("5 Blue Gemstones");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "5 Blue Gemstones"
+msgstr "5 Pedras Gemas Azuis"
+
+# mes("5 Yellow Gemstones");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "5 Yellow Gemstones"
+msgstr "5 Pedras Gemas Amarelas"
+
+# mes("5 Red Gemstones");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "5 Red Gemstones"
+msgstr "5 Pedras Gemas Vermelhas"
+
+# mes("^3355FFDo you want to continue?^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFDo you want to continue?^000000"
+msgstr "^3355FFVocê quer continuar?^000000"
+
+# if(select("No", "Continue") == 1) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "No"
+msgstr "Não"
+
+# if(select("No", "Continue") == 1) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Continue"
+msgstr "Continuar"
+
+# mes("^3355FFWork canceled.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFWork canceled.^000000"
+msgstr "^3355FFWork cancelado.^000000"
+
+# mes("^3355FFArrange Stones, Elunium, and");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFArrange Stones, Elunium, and"
+msgstr "^3355FFArrange Stones, Elunium, e"
+
+# mes("Oridecon, in that order, in the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Oridecon, in that order, in the"
+msgstr "Oridecon, nessa ordem, no"
+
+# mes("center. Then you must arrange");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "center. Then you must arrange"
+msgstr "centro. Então você deve providenciar"
+
+# mes("the enchanted Gemstones to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "the enchanted Gemstones to"
+msgstr "as pedras preciosas encantadas para"
+
+# mes("rebuild the Guardian Stone.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "rebuild the Guardian Stone.^000000"
+msgstr "reconstruir a Pedra Guardiã.^000000"
+
+# .@i = select("Elunium", "Oridecon", "Stone")-1;
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Stone"
+msgstr "Pedra"
+
+# mesf("^3355FF%s has been", .@stone$[.@i]);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Guardian Stone#template"
+msgid "^3355FF%s has been"
+msgstr "^3355FF%s tem sido"
+
+# mes("placed in the center.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "placed in the center.^000000"
+msgstr "colocado no centro.^000000"
+
+# mes("^3355FFYou have lined the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFYou have lined the"
+msgstr "^3355FF Você alinhou o"
+
+# mes("outside of the center");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "outside of the center"
+msgstr "fora do centro"
+
+# mesf("with some %s.^000000", .@stone$[.@i]);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Guardian Stone#template"
+msgid "with some %s.^000000"
+msgstr "com alguns %s.^000000"
+
+# mes("^3355FFYou covered the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFYou covered the"
+msgstr "^3355FFVocê cobriu o"
+
+# mes("rest of the materials");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "rest of the materials"
+msgstr "restante dos materiais"
+
+# mes("^3355FFNow you need to arrange");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFNow you need to arrange"
+msgstr "^3355FFAAgora você precisa organizar"
+
+# mes("the enchanted Gemstones");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "the enchanted Gemstones"
+msgstr "as Pedras Gemas encantadas"
+
+# mes("accordingly. You can identify");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "accordingly. You can identify"
+msgstr "de acordo. Você pode identificar"
+
+# mes("their Magic properties by");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "their Magic properties by"
+msgstr "suas propriedades mágicas por"
+
+# mes("their casting effect.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "their casting effect.^000000"
+msgstr "seu efeito de fundição.^000000"
+
+# mes("^3355FFThe Gemstones must");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFThe Gemstones must"
+msgstr "^3355FFAs Pedras Gemas devem"
+
+# mes("be arranged in the correct");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "be arranged in the correct"
+msgstr "ser organizado no correto"
+
+# mes("order according to their");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "order according to their"
+msgstr "ordem de acordo com sua"
+
+# mes("magic properties and power.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "magic properties and power.^000000"
+msgstr "propriedades mágicas e poder.^000000"
+
+# .@j = select("Red Gemstone", "Yellow Gemstone", "Blue Gemstone")-1;
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Red Gemstone"
+msgstr "Pedra Gema Vermelha"
+
+# .@j = select("Red Gemstone", "Yellow Gemstone", "Blue Gemstone")-1;
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Yellow Gemstone"
+msgstr "Pedra Gema Amarela"
+
+# .@j = select("Red Gemstone", "Yellow Gemstone", "Blue Gemstone")-1;
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Blue Gemstone"
+msgstr "Pedra Gema Azul"
+
+# mesf("^3355FFYou placed the %s Gemstone.^000000", .@color$[.@j]);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "Guardian Stone#template"
+msgid "^3355FFYou placed the %s Gemstone.^000000"
+msgstr "^3355FF Você colocou o %s Gemstone.^000000"
+
+# mes("^3355FFHowever, the Guardian Stone");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFHowever, the Guardian Stone"
+msgstr "^3355FFNo entanto, a Pedra Guardiã"
+
+# mes("Repair System failed because");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Repair System failed because"
+msgstr "O sistema de reparo falhou porque"
+
+# mes("of a magic power conflict.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "of a magic power conflict.^000000"
+msgstr "de um conflito de poder mágico.^000000"
+
+# mes("^3355FFThe Guardian Stone");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFThe Guardian Stone"
+msgstr "^3355FFA Pedra Guardiã"
+
+# mes("Repair System has");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Repair System has"
+msgstr "O Sistema de Reparo tem"
+
+# mes("already completed.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "already completed.^000000"
+msgstr "já concluído.^000000"
+
+# mes("^3355FFIt is impossible to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFIt is impossible to"
+msgstr "^3355FF É impossível"
+
+# mes("rebuild the Guardian");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "rebuild the Guardian"
+msgstr "reconstruir o Guardião"
+
+# mes("Stone because the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Stone because the"
+msgstr "Pedra porque o"
+
+# mes("Emperium is not present.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Emperium is not present.^000000"
+msgstr "Emperium não está presente.^000000"
+
+# mes("^3355FFThe Gemstones have been");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFThe Gemstones have been"
+msgstr "^3355FFAs Pedras Gemas têm sido"
+
+# mes("arranged, and the Guardian");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "arranged, and the Guardian"
+msgstr "arranjado, e o Guardião"
+
+# mes("Stone is successfully repaired.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "Stone is successfully repaired.^000000"
+msgstr "A pedra é consertada com sucesso.^000000"
+
+# mes("^3355FFAfter all of that work...");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFAfter all of that work..."
+msgstr "^3355FF Após todo esse trabalho..."
+
+# mes("It looks like you failed");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "It looks like you failed"
+msgstr "Parece que você falhou"
+
+# mes("to fix the Guardian Stone,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "to fix the Guardian Stone,"
+msgstr "para consertar a Pedra Guardiã,"
+
+# mes("and lost some materials.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "and lost some materials.^000000"
+msgstr "e perdeu alguns materiais.^000000"
+
+# mes("^3355FFYou don't have enough");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "^3355FFYou don't have enough"
+msgstr "^3355FFVocê não tem o suficiente"
+
+# mes("materials to repair");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "materials to repair"
+msgstr "materiais a reparar"
+
+# mes("the Guardian Stone.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Guardian Stone#template"
+msgid "the Guardian Stone.^000000"
+msgstr "a Pedra Guardiã.^000000"
+
+# mes("^3355FFDemolished Fortress");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFDemolished Fortress"
+msgstr "^3355FFDemolida Fortaleza"
+
+# mes("Gates can be repaired,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "Gates can be repaired,"
+msgstr "Os portões podem ser reparados,"
+
+# mes("but you will need to gather");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "but you will need to gather"
+msgstr "mas você precisará reunir"
+
+# mes("the following materials.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "the following materials.^000000"
+msgstr "os seguintes materiais.^000000"
+
+# mes("^4D4DFF10 Steel^000000,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^4D4DFF10 Steel^000000,"
+msgstr "^4D4DFF10 Steel^000000,"
+
+# mes("^4D4DFF30 Trunks^000000,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^4D4DFF30 Trunks^000000,"
+msgstr "^4D4DFF30 Troncos^000000,"
+
+# mes("^4D4DFF5 Oridecon^000000, and");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^4D4DFF5 Oridecon^000000, and"
+msgstr "^4D4DFF5 Oridecon^000000, e"
+
+# mes("^4D4DFF10 Emveretarcon^000000.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^4D4DFF10 Emveretarcon^000000."
+msgstr "^4D4DFF10 Emveretarcon^000000."
+
+# select("Continue");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "Continue"
+msgstr "Continuar"
+
+# mes("^3355FFYou will need Trunks to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou will need Trunks to"
+msgstr "^3355FF Você vai precisar de Trunks para"
+
+# mes("repair the support frame,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "repair the support frame,"
+msgstr "reparar a estrutura de suporte,"
+
+# mes("Oridecon to enhance the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "Oridecon to enhance the"
+msgstr "Oridecon para melhorar o"
+
+# mes("gate's endurance, and");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "gate's endurance, and"
+msgstr "resistência do portão, e"
+
+# mes("Emveretarcon to basically");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "Emveretarcon to basically"
+msgstr "Emveretarcon para basicamente"
+
+# mes("hold everything together.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "hold everything together.^000000"
+msgstr "manter tudo unido.^000000"
+
+# mes("^3355FFThe support frame");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFThe support frame"
+msgstr "^3355FFO quadro de apoio"
+
+# mes("is badly damaged:");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "is badly damaged:"
+msgstr "está muito danificado:"
+
+# mes("fixing this part");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "fixing this part"
+msgstr "fixando esta parte"
+
+# mes("is a top priority.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "is a top priority.^000000"
+msgstr "é uma prioridade máxima.^000000"
+
+# switch(select("Trunk", "Steel", "Emveretarcon", "Oridecon")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "Trunk"
+msgstr "Tronco"
+
+# switch(select("Trunk", "Steel", "Emveretarcon", "Oridecon")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "Steel"
+msgstr "Aço"
+
+# switch(select("Trunk", "Steel", "Emveretarcon", "Oridecon")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "Emveretarcon"
+msgstr "Emveretarcon"
+
+# switch(select("Trunk", "Steel", "Emveretarcon", "Oridecon")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "Oridecon"
+msgstr "Oridecon"
+
+# mes("^3355FFThe frame has been");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFThe frame has been"
+msgstr "^3355FFA moldura tem sido"
+
+# mes("reinforced with wood.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "reinforced with wood.^000000"
+msgstr "reforçado com madeira.^000000"
+
+# mes("^3355FFYou tried using steel,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou tried using steel,"
+msgstr "^3355FF Você tentou usar aço,"
+
+# mes("but it's not working very");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "but it's not working very"
+msgstr "mas não está funcionando muito"
+
+# mes("well. You'll have to try");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "well. You'll have to try"
+msgstr "bem. Você terá que tentar"
+
+# mes("something else.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "something else.^000000"
+msgstr "algo mais.^000000"
+
+# mes("^3355FFYou tried using emveretarcon");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou tried using emveretarcon"
+msgstr "^3355FFVocê tentou usar o emveretarcon"
+
+# mes("to reinforce the gate, but it's");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "to reinforce the gate, but it's"
+msgstr "para reforçar o portão, mas é"
+
+# mes("not working well at all.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "not working well at all."
+msgstr "não funciona bem de todo."
+
+# mes("You'll have to start over.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "You'll have to start over.^000000"
+msgstr "Você terá que começar de novo.^000000"
+
+# mes("^3355FFYou tried using oridecon,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou tried using oridecon,"
+msgstr "^3355FF Você tentou usar oridecon,"
+
+# mes("^3355FFIt looks like the gate's");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFIt looks like the gate's"
+msgstr "^3355FF Parece que o portão"
+
+# mes("overall endurance needs to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "overall endurance needs to"
+msgstr "de resistência geral precisa de"
+
+# mes("be reinforced with something.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "be reinforced with something.^000000"
+msgstr "ser reforçado com algo.^000000"
+
+# mes("^3355FFYou tried using wood");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou tried using wood"
+msgstr "^3355FFVocê tentou usar madeira"
+
+# mes("to reinforce the gate.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "to reinforce the gate.^000000"
+msgstr "para reforçar o portão.^000000"
+
+# mes("^3355FFYou tried using steel");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou tried using steel"
+msgstr "^3355FF Você tentou usar aço"
+
+# mes("to reinforce the gate, but");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "to reinforce the gate, but"
+msgstr "para reforçar o portão, mas"
+
+# mes("it's not working well at all.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "it's not working well at all."
+msgstr "não está funcionando bem de forma alguma."
+
+# mes("^3355FFYou hammered the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou hammered the"
+msgstr "^3355FF Você martelou o"
+
+# mes("oridecon: it looks");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "oridecon: it looks"
+msgstr "oridecon: parece"
+
+# mes("like this will work.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "like this will work.^000000"
+msgstr "como isto vai funcionar.^000000"
+
+# mes("^3355FFThe damage to the gate");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFThe damage to the gate"
+msgstr "^3355FFOs danos ao portão"
+
+# mes("has caused all these");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "has caused all these"
+msgstr "causou todos estes"
+
+# mes("cracks. You'll have to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "cracks. You'll have to"
+msgstr "rachaduras. Você terá que"
+
+# mes("weld them solid somehow.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "weld them solid somehow.^000000"
+msgstr "solde-os sólidos de alguma forma.^000000"
+
+# mes("^3355FFYou tried using wood to fix");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou tried using wood to fix"
+msgstr "^3355FF Você tentou usar madeira para fixar"
+
+# mes("this problem, but it seems");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "this problem, but it seems"
+msgstr "este problema, mas parece"
+
+# mes("to have made it worse.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "to have made it worse."
+msgstr "ter piorado a situação."
+
+# mes("You'll have to start all over.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "You'll have to start all over.^000000"
+msgstr "Você terá que começar tudo de novo.^000000"
+
+# mes("^3355FFYou used steel to weld");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou used steel to weld"
+msgstr "^3355FFVocê usou aço para soldar"
+
+# mes("all the cracks: the gate is");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "all the cracks: the gate is"
+msgstr "todas as rachaduras: o portão é"
+
+# mes("is starting to look more solid.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "is starting to look more solid.^000000"
+msgstr "está começando a parecer mais sólido.^000000"
+
+# mes("^3355FFNow you need to make");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFNow you need to make"
+msgstr "^3355FFAAgora você precisa fazer"
+
+# mes("sure that the gate is held");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "sure that the gate is held"
+msgstr "seguro de que o portão é mantido"
+
+# mes("together pretty solidly.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "together pretty solidly.^000000"
+msgstr "juntos de forma bastante sólida.^000000"
+
+# mes("^3355FFYou successfully used");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou successfully used"
+msgstr "^3355FFVocê usou com sucesso"
+
+# mes("the emveretarcon to repair");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "the emveretarcon to repair"
+msgstr "o emveretarcon a reparar"
+
+# mes("much of the gate's damage.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "much of the gate's damage.^000000"
+msgstr "muito do dano do portão.^000000"
+
+# mes("^3355FFWell, it looks like");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFWell, it looks like"
+msgstr "^3355FFWell, parece que"
+
+# mes("you're just about done");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "you're just about done"
+msgstr "você está prestes a terminar"
+
+# mes("with repairing the gate.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "with repairing the gate.^000000"
+msgstr "com conserto do portão.^000000"
+
+# mes("^3355FFUnfortunately, the Fortress");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFUnfortunately, the Fortress"
+msgstr "^3355FFUnfelizmente, a Fortaleza"
+
+# mes("Gate can't be reconstructed:");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "Gate can't be reconstructed:"
+msgstr "O portão não pode ser reconstruído:"
+
+# mes("the Emperium is no longer here.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "the Emperium is no longer here.^000000"
+msgstr "o Emperium não está mais aqui.^000000"
+
+# mes("^3355FFThe Fortress Gate has");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFThe Fortress Gate has"
+msgstr "^3355FFO Portão da Fortaleza tem"
+
+# mes("been successfully repaired!^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "been successfully repaired!^000000"
+msgstr "foi reparado com sucesso!^000000"
+
+# mes("^3355FFThe wall has been breached,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFThe wall has been breached,"
+msgstr "^3355FF A parede foi quebrada,"
+
+# mes("and the attempt to repair the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "and the attempt to repair the"
+msgstr "e a tentativa de reparar o"
+
+# mes("Fortress Gate has failed.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "Fortress Gate has failed."
+msgstr "O portão da fortaleza falhou."
+
+# mes("You lost some of your");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "You lost some of your"
+msgstr "Você perdeu alguns de seus"
+
+# mes("repair resources...^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "repair resources...^000000"
+msgstr "recursos de reparo...^000000"
+
+# mes("^3355FFYou can't attempt to repair");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "^3355FFYou can't attempt to repair"
+msgstr "^3355FF Você não pode tentar consertar"
+
+# mes("the Fortress Gate if you don't");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "the Fortress Gate if you don't"
+msgstr "o Portão da Fortaleza se você não"
+
+# mes("have all the needed materials.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Control#template"
+msgid "have all the needed materials.^000000"
+msgstr "ter todos os materiais necessários.^000000"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FF Esta é a Fortaleza"
+
+# mes("Teleport Service. Would");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "Teleport Service. Would"
+msgstr "Serviço de teleporte. Seria"
+
+# mes("you like to teleport to the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "you like to teleport to the"
+msgstr "você gosta de se teletransportar para o"
+
+# mes("Convenience Facility for");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "Convenience Facility for"
+msgstr "Facilidade de Conveniência para"
+
+# mes("guild members?^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "guild members?^000000"
+msgstr "membros da guilda?^000000"
+
+# if(select("Go to Convenience Facility", "Cancel") == 1)
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "Go to Convenience Facility"
+msgstr "Ir para as Instalações de Conveniência"
+
+# if(select("Go to Convenience Facility", "Cancel") == 1)
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("you like to teleport to");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "you like to teleport to"
+msgstr "você gosta de se teleportar para"
+
+# mes("the Emperium Center?^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "the Emperium Center?^000000"
+msgstr "o Emperium Center?^000000"
+
+# if(select("Teleport", "Cancel") == 1)
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "Teleport"
+msgstr "Teleporte"
+
+# mes("Teleport Service. Please");
+#: npc/woe-se/agit_main_se.txt
+msgctxt "LinkFlag"
+msgid "Teleport Service. Please"
+msgstr "Serviço de teleporte. Por favor"
+
+# mes("choose a destination");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "choose a destination"
+msgstr "escolha um destino"
+
+# mes("within the stronghold.^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "LinkFlag"
+msgid "within the stronghold.^000000"
+msgstr "dentro do bastião.^000000"
+
+# mesf("[ %s Royal Edict ]", .@str$);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "ReturnFlag"
+msgid "[ %s Royal Edict ]"
+msgstr "Édito Real"
+
+# mes("The Holy Kingdom of");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "The Holy Kingdom of"
+msgstr "O Santo Reino de"
+
+# mesf("%s declares that", .@str$);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "ReturnFlag"
+msgid "%s declares that"
+msgstr "%s declara que"
+
+# mes("one has yet to claim lordship");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "one has yet to claim lordship"
+msgstr "ainda não se reivindicou o senhorio"
+
+# mes("over this stronghold. The one");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "over this stronghold. The one"
+msgstr "sobre este bastião. O único"
+
+# mes("that breaks the Emperium will");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "that breaks the Emperium will"
+msgstr "que quebra a vontade do Emperium"
+
+# mes("be recognized as its new owner.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "be recognized as its new owner."
+msgstr "ser reconhecido como seu novo proprietário."
+
+# mes("[ Ringing Voice ]");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "[ Ringing Voice ]"
+msgstr "Anéis de voz"
+
+# mes("Courageous one,");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "Courageous one,"
+msgstr "Corajoso,"
+
+# mes("do you wish to return");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "do you wish to return"
+msgstr "você deseja retornar"
+
+# mes("to your stronghold?");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "to your stronghold?"
+msgstr "a sua fortaleza?"
+
+# if(select("Return to the Stronghold", "Cancel") == 1 && getcharid(CHAR_ID_GUILD) == getcastledata(getarg(0),1)) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "Return to the Stronghold"
+msgstr "Retorno ao Forte"
+
+# if(select("Return to the Stronghold", "Cancel") == 1 && getcharid(CHAR_ID_GUILD) == getcastledata(getarg(0),1)) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mesf("%s decrees that", .@str$);
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "ReturnFlag"
+msgid "%s decrees that"
+msgstr "%s decreta que"
+
+# mes("this stronghold is owned");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "this stronghold is owned"
+msgstr "este bastião é de propriedade"
+
+# mesf("by the ^FF0000%s^000000 Guild.", getguildinfo(GUILDINFO_NAME, .@GID));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "ReturnFlag"
+msgid "by the ^FF0000%s^000000 Guild."
+msgstr "pela Guilda ^FF0000%s^000000."
+
+# mesf("^FF0000%s^000000 is", getguildinfo(GUILDINFO_MASTER_NAME, .@GID));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "ReturnFlag"
+msgid "^FF0000%s^000000 is"
+msgstr "^FF0000%s^000000 é"
+
+# mesf("Guild Master of ^FF0000%s^000000.", getguildinfo(GUILDINFO_NAME, .@GID));
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy, c-format
+msgctxt "ReturnFlag"
+msgid "Guild Master of ^FF0000%s^000000."
+msgstr "Guild Master de ^FF0000%s^000000."
+
+# mes("Any that object must claim this");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "Any that object must claim this"
+msgstr "Qualquer objeto deve reivindicar isto"
+
+# mes("stronghold through strength of");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "stronghold through strength of"
+msgstr "fortaleza através da força de"
+
+# mes("steel and magic during the");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "steel and magic during the"
+msgstr "aço e magia durante o"
+
+# mes("appointed Guild Siege times.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "ReturnFlag"
+msgid "appointed Guild Siege times."
+msgstr "tempos de Sítio do Grémio nomeado."
+
+# mes(" ");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Switch#template"
+msgid " "
+msgstr " "
+
+# mes("^3355FFWill you pull");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Switch#template"
+msgid "^3355FFWill you pull"
+msgstr "^3355FFVocê vai puxar"
+
+# mes("this small lever?^000000");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Switch#template"
+msgid "this small lever?^000000"
+msgstr "esta pequena alavanca?^000000"
+
+# if(select("Pull Lever", "Cancel") == 2) close;
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Switch#template"
+msgid "Pull Lever"
+msgstr "Alavanca de puxar"
+
+# if(select("Pull Lever", "Cancel") == 2) close;
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Switch#template"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("- It's an amazingly huge sunflower; as big as a human! ... You feel something mysterious emanating from the flower. -");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Sunflower#template"
+msgid ""
+"- It's an amazingly huge sunflower; as big as a human! ... You feel "
+"something mysterious emanating from the flower. -"
+msgstr ""
+"- É um girassol incrivelmente enorme; tão grande quanto um humano! ... Você "
+"sente algo misterioso que emana da flor. -"
+
+# switch(select("Hold the stem.", "Do nothing.")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Sunflower#template"
+msgid "Hold the stem."
+msgstr "Segure a haste."
+
+# switch(select("Hold the stem.", "Do nothing.")) {
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Sunflower#template"
+msgid "Do nothing."
+msgstr "Não fazer nada."
+
+# mes("It's too scary to touch unknown things.");
+#: npc/woe-se/agit_main_se.txt
+#, fuzzy
+msgctxt "Sunflower#template"
+msgid "It's too scary to touch unknown things."
+msgstr "É assustador demais para tocar coisas desconhecidas."

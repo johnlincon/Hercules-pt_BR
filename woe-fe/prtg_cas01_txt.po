@@ -1,0 +1,205 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: 2021-07-08 17:09-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[ Edict of the Divine Rune-Midgarts Kingdom ]";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "[ Edict of the Divine Rune-Midgarts Kingdom ]"
+msgstr "[Édito do Divino Reino de Rune-Midgarts]"
+
+# mes " ";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid " "
+msgstr " "
+
+# mes "1. Follow the ordinance of The Divine Rune-Midgarts Kingdom, ";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "1. Follow the ordinance of The Divine Rune-Midgarts Kingdom, "
+msgstr "1. Siga a ordenança do Reino Divino de Rune-Midgarts, "
+
+# mes "We declare that";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "We declare that"
+msgstr "Declaramos que"
+
+# mes "there is no formal master of this castle.";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "there is no formal master of this castle."
+msgstr "não há um mestre formal deste castelo."
+
+# mes "2. To the one who can ";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "2. To the one who can "
+msgstr "2. Àquele que pode "
+
+# mes "overcome all trials";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "overcome all trials"
+msgstr "superar todas as provas"
+
+# mes "and destroy the Emperium,";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "and destroy the Emperium,"
+msgstr "e destruir o Emperium,"
+
+# mes "the king will endow the one with";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "the king will endow the one with"
+msgstr "o rei dotará aquele de"
+
+# mes "ownership of this castle.";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "ownership of this castle."
+msgstr "propriedade deste castelo."
+
+# mes "[ Echoing Voice ]";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "[ Echoing Voice ]"
+msgstr "A nossa missão"
+
+# mes "Brave ones...";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "Brave ones..."
+msgstr "Os corajosos..."
+
+# mes "Do you wish to return to your honorable place?";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "Do you wish to return to your honorable place?"
+msgstr "Você deseja retornar ao seu lugar de honra?"
+
+# if(select("Return to the guild castle.", "Quit.") == 1) {
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "Return to the guild castle."
+msgstr "Retorno ao castelo da guilda."
+
+# if(select("Return to the guild castle.", "Quit.") == 1) {
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "Quit."
+msgstr "Sair."
+
+# mes "we approve that this place is in";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "we approve that this place is in"
+msgstr "aprovamos que este lugar seja em"
+
+# mes "the private prossession of ^ff0000"+getguildinfo(GUILDINFO_NAME, .@GID)+"^000000 Guild.";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "the private prossession of ^ff0000"
+msgstr "a perseguição privada de ^ff0000"
+
+# mes "2. The guild Master of ^ff0000"+getguildinfo(GUILDINFO_NAME, .@GID)+"^000000 Guild is";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "2. The guild Master of ^ff0000"
+msgstr "2. O Mestre da guilda de ^ff0000"
+
+# mes "^ff0000"+getguildinfo(GUILDINFO_MASTER_NAME, .@GID)+"^000000";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "^ff0000"
+msgstr "^FF0000"
+
+# mes "If there is anyone who objects to this,";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "If there is anyone who objects to this,"
+msgstr "Se houver alguém que se oponha a isso,"
+
+# mes "prove your strength and honor with a steel blade in your hand.";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "Kriemhild#1::OutsideFlagsPR1"
+msgid "prove your strength and honor with a steel blade in your hand."
+msgstr "provar sua força e honra com uma lâmina de aço em sua mão."
+
+# mes " ";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "#Lever_PR01"
+msgid " "
+msgstr " "
+
+# mes "There's a small lever. Will you pull it?";
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "#Lever_PR01"
+msgid "There's a small lever. Will you pull it?"
+msgstr "Há uma pequena alavanca. Você vai puxá-la?"
+
+# if(select("Pull.", "Do not.") == 1) {
+#: npc/woe-fe/prtg_cas01.txt
+#, fuzzy
+msgctxt "#Lever_PR01"
+msgid "Pull."
+msgstr "Puxar."
+
+# if(select("Pull.", "Do not.") == 1) {
+#: npc/woe-fe/prtg_cas01.txt
+msgctxt "#Lever_PR01"
+msgid "Do not."
+msgstr "Não o faça."

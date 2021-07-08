@@ -1,0 +1,409 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 17:32-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Crewman]";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra2"
+msgid "[Crewman]"
+msgstr "[Crewman]"
+
+# mes "Hey, have you heard of a place called Brasilis?";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra2"
+msgid "Hey, have you heard of a place called Brasilis?"
+msgstr "Ei, você já ouviu falar de um lugar chamado Brasilis?"
+
+# mes "It's a tropical city that's hot like the desert but also rainy. It is a very mysterious place.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra2"
+msgid ""
+"It's a tropical city that's hot like the desert but also rainy. It is a very "
+"mysterious place."
+msgstr ""
+"É uma cidade tropical que é quente como o deserto, mas também chuvosa. É um "
+"lugar muito misterioso."
+
+# mes "We recently found a new ocean route to get there easily.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra2"
+msgid "We recently found a new ocean route to get there easily."
+msgstr ""
+"Recentemente encontramos uma nova rota oceânica para chegar lá facilmente."
+
+# mes "It's just 10,000 zeny for a round trip! So do you want to go?";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra2"
+msgid "It's just 10,000 zeny for a round trip! So do you want to go?"
+msgstr ""
+"São apenas 10.000 zeny para uma viagem de ida e volta! Então, você quer ir?"
+
+# switch(select("Take me to Brasilis!", "I'll stay here.")) {
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra2"
+msgid "Take me to Brasilis!"
+msgstr "Leve-me ao Brasilis!"
+
+# switch(select("Take me to Brasilis!", "I'll stay here.")) {
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra2"
+msgid "I'll stay here."
+msgstr "Eu ficarei aqui."
+
+# mes "Cool~!! Let's go~!";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra2"
+msgid "Cool~!! Let's go~!"
+msgstr "Legal~!! Vamos lá~!"
+
+# mes "I said 10,000 zeny.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra2"
+msgid "I said 10,000 zeny."
+msgstr "Eu disse 10.000 zeny."
+
+# mes "Well if you're ever interested, let me know and I can take you there.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra2"
+msgid "Well if you're ever interested, let me know and I can take you there."
+msgstr "Bem, se você estiver interessado, me avise e eu posso levá-lo até lá."
+
+# mes "[Crewman]";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra1"
+msgid "[Crewman]"
+msgstr "[Crewman]"
+
+# mes "My ship is going to back to Alberta, do you want to join us?";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra1"
+msgid "My ship is going to back to Alberta, do you want to join us?"
+msgstr "Meu navio está voltando para Alberta, você quer se juntar a nós?"
+
+# switch(select("Go back to Alberta.", "Not yet~.")) {
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra1"
+msgid "Go back to Alberta."
+msgstr "Volte para Alberta."
+
+# switch(select("Go back to Alberta.", "Not yet~.")) {
+#: npc/re/cities/brasilis.txt
+msgctxt "Crewman#bra1"
+msgid "Not yet~."
+msgstr "Ainda não~."
+
+# mes "I sure do miss home.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra1"
+msgid "I sure do miss home."
+msgstr "Tenho mesmo saudades de casa."
+
+# mes "Ok, suit yourself. We'll see you when we get back then.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Crewman#bra1"
+msgid "Ok, suit yourself. We'll see you when we get back then."
+msgstr "Ok, sirva-se. Vemos você quando voltarmos então."
+
+# mes ":: Art Museum ::";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Signpost#bra1"
+msgid ":: Art Museum ::"
+msgstr ":: Museu de Arte :::"
+
+# mes ":: Verass Monument ::";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Signpost#bra2"
+msgid ":: Verass Monument ::"
+msgstr ":: Monumento Verass ::"
+
+# mes ":: Market ::";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Signpost#bra3"
+msgid ":: Market ::"
+msgstr ":: Mercado ::"
+
+# mes " ";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Signpost#bra3"
+msgid " "
+msgstr " "
+
+# mes "- For your Potions and Weaponry -";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Signpost#bra3"
+msgid "- For your Potions and Weaponry -"
+msgstr "- Para suas Poções e Armas -"
+
+# mes ":: Jungle Cable ::";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Signpost#bra4"
+msgid ":: Jungle Cable ::"
+msgstr ":: Cabo da Selva ::"
+
+# mes "- Not for the faint of heart -";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Signpost#bra4"
+msgid "- Not for the faint of heart -"
+msgstr "- Não para os fracos de coração -"
+
+# mes ":: Brasilis Hotel ::";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Signpost#bra5"
+msgid ":: Brasilis Hotel ::"
+msgstr ":: Brasilis Hotel :::"
+
+# mes "[Ice Cream Maker]";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "[Ice Cream Maker]"
+msgstr "[Fazedor de sorvete]"
+
+# mes "Come~come~";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Come~come~"
+msgstr "Venha"
+
+# mes "Ice cream is the perfect snack for a hot day~";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Ice cream is the perfect snack for a hot day~"
+msgstr "O sorvete é o petisco perfeito para um dia quente~"
+
+# mes "It's just ^3355FF100 Zeny^000000~";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "It's just ^3355FF100 Zeny^000000~"
+msgstr "É só ^3355FF100 Zeny^000000~"
+
+# mes "Ice Cream~";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Ice Cream~"
+msgstr "Sorvete~"
+
+# mes "Get 'yer Ice Cream!";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Get 'yer Ice Cream!"
+msgstr "Pegue \"yer Ice Cream!"
+
+# switch(select("Give me one!", "Ice Cream?", "Cancel.")) {
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Give me one!"
+msgstr "Dê-me um!"
+
+# switch(select("Give me one!", "Ice Cream?", "Cancel.")) {
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Ice Cream?"
+msgstr "Sorvete?"
+
+# switch(select("Give me one!", "Ice Cream?", "Cancel.")) {
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "Since there are so many people want to get a cool ice cream you can order only 5 at a time.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid ""
+"Since there are so many people want to get a cool ice cream you can order "
+"only 5 at a time."
+msgstr ""
+"Como há tantas pessoas que querem um sorvete fresco, você pode pedir apenas "
+"5 de cada vez."
+
+# mes "So how many d'ya want?";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "So how many d'ya want?"
+msgstr "Quantos você quer?"
+
+# mes "None?";
+#: npc/re/cities/brasilis.txt
+msgctxt "Ice-Cream Maker"
+msgid "None?"
+msgstr "Nenhum?"
+
+# mes "Fine get outta the way, I have customers to serve.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Fine get outta the way, I have customers to serve."
+msgstr "Ótimo saia do caminho, tenho clientes para atender."
+
+# mes "Wow.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Wow."
+msgstr "Uau."
+
+# mes "You ordered too much.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "You ordered too much."
+msgstr "Você pediu demais."
+
+# mes "If you eat over 5 you might need to fight with a monster in your stomach. Calm down buddy.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid ""
+"If you eat over 5 you might need to fight with a monster in your stomach. "
+"Calm down buddy."
+msgstr ""
+"Se você comer mais de 5 anos, talvez precise lutar com um monstro no "
+"estômago. Acalme-se, amigo."
+
+# mes "Dood~! You don't have enough money.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Dood~! You don't have enough money."
+msgstr "Dood~! Você não tem dinheiro suficiente."
+
+# mes "It's only ^3355FF100 Zeny^000000~ Seriously!";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "It's only ^3355FF100 Zeny^000000~ Seriously!"
+msgstr "É só ^3355FF100 Zeny^000000~ Sério!"
+
+# mes "You seem to have too much stuff.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "You seem to have too much stuff."
+msgstr "Você parece ter muita coisa."
+
+# mes "Lighten your pack before buying this.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Lighten your pack before buying this."
+msgstr "Alivie sua embalagem antes de comprar isto."
+
+# mes "'Ice cream is...";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "'Ice cream is..."
+msgstr "\"Sorvete é..."
+
+# mes "Wait, don't you know";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Wait, don't you know"
+msgstr "Espere, você não sabe"
+
+# mes "what Ice Cream is?";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "what Ice Cream is?"
+msgstr "o que é Sorvete?"
+
+# mes "What rock have you";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "What rock have you"
+msgstr "Que rocha você tem"
+
+# mes "been living under?";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "been living under?"
+msgstr "tem vivido sob?"
+
+# mes "I'm not going to even start with how weird that sounds.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "I'm not going to even start with how weird that sounds."
+msgstr "Não vou nem mesmo começar com o quão estranho isso soa."
+
+# mes "Anyway, get 'yer Ice Cream right here while it's nice and cold.";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Anyway, get 'yer Ice Cream right here while it's nice and cold."
+msgstr ""
+"De qualquer forma, pegue \"yer Ice Cream aqui mesmo enquanto está bom e frio"
+"\"."
+
+# mes "Don't miss your chance to eat the greatest Ice Cream in all the land~!";
+#: npc/re/cities/brasilis.txt
+#, fuzzy
+msgctxt "Ice-Cream Maker"
+msgid "Don't miss your chance to eat the greatest Ice Cream in all the land~!"
+msgstr "Não perca sua chance de comer o melhor sorvete de toda a terra~!"

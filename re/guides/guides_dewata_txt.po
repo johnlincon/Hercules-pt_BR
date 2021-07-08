@@ -1,0 +1,170 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 17:24-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Dewata Guide]";
+#: npc/re/guides/guides_dewata.txt
+msgctxt "Dewata Guide#dewata01"
+msgid "[Dewata Guide]"
+msgstr "[Guia de Dewata]"
+
+# mes "Welcome to ^8B4513Dewata Island^000000,";
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "Welcome to ^8B4513Dewata Island^000000,"
+msgstr "Bem-vindo à Ilha ^8B4513Dewata^000000,"
+
+# mes "a place with dazzling waves and charming views it's a great place to relax.";
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "a place with dazzling waves and charming views it's a great place to relax."
+msgstr "um lugar com ondas deslumbrantes e vistas encantadoras, é um ótimo lugar para relaxar."
+
+# mes "If you have any questions, please ask me.";
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "If you have any questions, please ask me."
+msgstr "Se você tiver alguma dúvida, por favor, me pergunte."
+
+# mes "Where can I guide you?";
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "Where can I guide you?"
+msgstr "Onde posso orientá-lo?"
+
+# switch(select("[ Kafra Employee ]", "[ Weapon Dealer ]", "[ Armor Dealer ]", "[ Tool Dealer ]", "[ Restauranteur ]", "[ Krakatau Gatekeeper ]", "[ Alberta Sailor ]", "Remove marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "[ Kafra Employee ]"
+msgstr "[Kafra]"
+
+# switch(select("[ Kafra Employee ]", "[ Weapon Dealer ]", "[ Armor Dealer ]", "[ Tool Dealer ]", "[ Restauranteur ]", "[ Krakatau Gatekeeper ]", "[ Alberta Sailor ]", "Remove marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "[ Weapon Dealer ]"
+msgstr "Negociante de Armas"
+
+# switch(select("[ Kafra Employee ]", "[ Weapon Dealer ]", "[ Armor Dealer ]", "[ Tool Dealer ]", "[ Restauranteur ]", "[ Krakatau Gatekeeper ]", "[ Alberta Sailor ]", "Remove marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "[ Armor Dealer ]"
+msgstr "Revendedor de Armaduras"
+
+# switch(select("[ Kafra Employee ]", "[ Weapon Dealer ]", "[ Armor Dealer ]", "[ Tool Dealer ]", "[ Restauranteur ]", "[ Krakatau Gatekeeper ]", "[ Alberta Sailor ]", "Remove marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "[ Tool Dealer ]"
+msgstr "Revendedor de ferramentas"
+
+# switch(select("[ Kafra Employee ]", "[ Weapon Dealer ]", "[ Armor Dealer ]", "[ Tool Dealer ]", "[ Restauranteur ]", "[ Krakatau Gatekeeper ]", "[ Alberta Sailor ]", "Remove marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "[ Restauranteur ]"
+msgstr "Restaurante"
+
+# switch(select("[ Kafra Employee ]", "[ Weapon Dealer ]", "[ Armor Dealer ]", "[ Tool Dealer ]", "[ Restauranteur ]", "[ Krakatau Gatekeeper ]", "[ Alberta Sailor ]", "Remove marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "[ Krakatau Gatekeeper ]"
+msgstr "Guardião do portão de Krakatau"
+
+# switch(select("[ Kafra Employee ]", "[ Weapon Dealer ]", "[ Armor Dealer ]", "[ Tool Dealer ]", "[ Restauranteur ]", "[ Krakatau Gatekeeper ]", "[ Alberta Sailor ]", "Remove marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "[ Alberta Sailor ]"
+msgstr "Marinheiro"
+
+# switch(select("[ Kafra Employee ]", "[ Weapon Dealer ]", "[ Armor Dealer ]", "[ Tool Dealer ]", "[ Restauranteur ]", "[ Krakatau Gatekeeper ]", "[ Alberta Sailor ]", "Remove marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "Remove marks from Mini-Map"
+msgstr "Remover marcas do Mini-Map"
+
+# switch(select("[ Kafra Employee ]", "[ Weapon Dealer ]", "[ Armor Dealer ]", "[ Tool Dealer ]", "[ Restauranteur ]", "[ Krakatau Gatekeeper ]", "[ Alberta Sailor ]", "Remove marks from Mini-Map", "Cancel")) {
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "I'll remove all marks from your mini-map.";
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "I'll remove all marks from your mini-map."
+msgstr "Vou remover todas as marcas do seu mini-mapa."
+
+# mes "Is there anything else I can do for you?";
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "Is there anything else I can do for you?"
+msgstr "Há mais alguma coisa que eu possa fazer por você?"
+
+# mes "Enjoy your trip!!";
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "Enjoy your trip!!"
+msgstr "Aproveite sua viagem!!"
+
+# mes "The "+getarg(0)+" is";
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "The "
+msgstr "A "
+
+# mes "marked on your mini-map.";
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "marked on your mini-map."
+msgstr "marcado em seu mini-mapa."
+
+# mes "Check your mini-map.";
+#: npc/re/guides/guides_dewata.txt
+#, fuzzy
+msgctxt "Dewata Guide#dewata01"
+msgid "Check your mini-map."
+msgstr "Confira seu mini-mapa."

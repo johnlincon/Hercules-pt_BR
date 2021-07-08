@@ -1,0 +1,315 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 14:47-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Al De Baran Guard]";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid "[Al De Baran Guard]"
+msgstr "[Al De Baran Guard]"
+
+# mes "I'm just an ordinary guard";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid "I'm just an ordinary guard"
+msgstr "Eu sou apenas um guarda comum"
+
+# mes "that you could find in any other city. I don't think I even have a name...";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid ""
+"that you could find in any other city. I don't think I even have a name..."
+msgstr ""
+"que você poderia encontrar em qualquer outra cidade. Acho que não tenho "
+"nem mesmo um nome..."
+
+# mes "I am in charge of the Service Guides from the Al De Baran Garrison. Let me guide you";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid ""
+"I am in charge of the Service Guides from the Al De Baran Garrison. Let me "
+"guide you"
+msgstr ""
+"Sou responsável pelos Guias de Serviço do Al De Baran Garrison. Deixe-me "
+"guiá-lo"
+
+# mes "through our town!";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid "through our town!"
+msgstr "através de nossa cidade!"
+
+# if (select("Get Location Guide.", "End conversation.") == 1) {
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid "Get Location Guide."
+msgstr "Obtenha o Guia de Localização."
+
+# if (select("Get Location Guide.", "End conversation.") == 1) {
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid "End conversation."
+msgstr "Encerrar Conversa."
+
+# mes "^FF6633+^000000 -> Kafra Main Office ";
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#alde"
+msgid "^FF6633+^000000 -> Kafra Main Office "
+msgstr "^FF6633+^000000 -> Escritório Principal de Kafra "
+
+# mes "^0000FF+^000000 -> Weapon Shop ";
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#alde"
+msgid "^0000FF+^000000 -> Weapon Shop "
+msgstr "^0000FF+^000000 -> Loja de Armas "
+
+# mes "^00FFFF+^000000 -> Sorcerer Guild (Closed)";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid "^00FFFF+^000000 -> Sorcerer Guild (Closed)"
+msgstr "^00FFFF+^000000 -> Sorcerer Guild (Fechado)"
+
+# mes "^515151+^000000 -> Pub";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid "^515151+^000000 -> Pub"
+msgstr "^515151+^000000 -> Pub"
+
+# mes "^3355FF+^000000 -> Item Shop";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid "^3355FF+^000000 -> Item Shop"
+msgstr "^3355FF+^000000 -> Item Shop"
+
+# mes "^FF5555+^000000 -> Alchemist Guild";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid "^FF5555+^000000 -> Alchemist Guild"
+msgstr "^FF5555+^000000 -> Guilda Alquimista"
+
+# mes "We are sworn to protect Al De Baran! May the forces of evil always be crushed by the";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid ""
+"We are sworn to protect Al De Baran! May the forces of evil always be "
+"crushed by the"
+msgstr ""
+"Juramos proteger Al De Baran! Que as forças do mal sejam sempre esmagadas "
+"pelo"
+
+# mes "righteous fist of good!";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#alde"
+msgid "righteous fist of good!"
+msgstr "punho justo do bem!"
+
+# mes "[Al De Baran Guard]";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "[Al De Baran Guard]"
+msgstr "[Al De Baran Guard]"
+
+# mes "I'm just an";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "I'm just an"
+msgstr "Eu sou apenas um"
+
+# mes "ordinary guard,";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "ordinary guard,"
+msgstr "guarda comum,"
+
+# mes "the kind you can";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "the kind you can"
+msgstr "do tipo que você pode"
+
+# mes "find in any other city.";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "find in any other city."
+msgstr "encontrar em qualquer outra cidade."
+
+# mes "When I'm not too busy";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "When I'm not too busy"
+msgstr "Quando eu não estou muito ocupado"
+
+# mes "protecting the Al De Baran";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "protecting the Al De Baran"
+msgstr "protegendo o Al De Baran"
+
+# mes "populace, I'm here giving directions to adventurers";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "populace, I'm here giving directions to adventurers"
+msgstr "população, estou aqui dando instruções aos aventureiros"
+
+# mes "like yourself.";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "like yourself."
+msgstr "como você."
+
+# switch(select("Kafra Main Office ", "Weapon Shop ", "Sorcerer Guild ", "Pub ", "Item Shop ", "Alchemist Guild ", "End Conversation ")) {
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "Kafra Main Office "
+msgstr "Escritório principal da Kafra "
+
+# switch(select("Kafra Main Office ", "Weapon Shop ", "Sorcerer Guild ", "Pub ", "Item Shop ", "Alchemist Guild ", "End Conversation ")) {
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "Weapon Shop "
+msgstr "Loja de Armas "
+
+# switch(select("Kafra Main Office ", "Weapon Shop ", "Sorcerer Guild ", "Pub ", "Item Shop ", "Alchemist Guild ", "End Conversation ")) {
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "Sorcerer Guild "
+msgstr "Guilda de Feiticeiros "
+
+# switch(select("Kafra Main Office ", "Weapon Shop ", "Sorcerer Guild ", "Pub ", "Item Shop ", "Alchemist Guild ", "End Conversation ")) {
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "Pub "
+msgstr "Pub "
+
+# switch(select("Kafra Main Office ", "Weapon Shop ", "Sorcerer Guild ", "Pub ", "Item Shop ", "Alchemist Guild ", "End Conversation ")) {
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "Item Shop "
+msgstr "Item Loja "
+
+# switch(select("Kafra Main Office ", "Weapon Shop ", "Sorcerer Guild ", "Pub ", "Item Shop ", "Alchemist Guild ", "End Conversation ")) {
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "Alchemist Guild "
+msgstr "Guilda Alquimista "
+
+# switch(select("Kafra Main Office ", "Weapon Shop ", "Sorcerer Guild ", "Pub ", "Item Shop ", "Alchemist Guild ", "End Conversation ")) {
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "End Conversation "
+msgstr "Encerrar Conversa "
+
+# mes "^FF6633+^000000 -> Kafra Main Office ";
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "^FF6633+^000000 -> Kafra Main Office "
+msgstr "^FF6633+^000000 -> Escritório Principal de Kafra "
+
+# mes "^0000FF+^000000 -> Weapon Shop ";
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "^0000FF+^000000 -> Weapon Shop "
+msgstr "^0000FF+^000000 -> Loja de Armas "
+
+# mes "^00FFFF+^000000 -> Sorcerer Guild (Closed)";
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "^00FFFF+^000000 -> Sorcerer Guild (Closed)"
+msgstr "^00FFFF+^000000 -> Sorcerer Guild (Fechado)"
+
+# mes "^515151+^000000 -> Pub ";
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "^515151+^000000 -> Pub "
+msgstr "^515151+^000000 -> Pub "
+
+# mes "^3355FF+^000000 -> Item Shop ";
+#: npc/pre-re/guides/guides_aldebaran.txt
+msgctxt "Soldier#2alde"
+msgid "^3355FF+^000000 -> Item Shop "
+msgstr "^3355FF+^000000 -> Item Shop "
+
+# mes "^FF5555+^000000 -> Alchemist Guild";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "^FF5555+^000000 -> Alchemist Guild"
+msgstr "^FF5555+^000000 -> Guilda Alquimista"
+
+# mes "We are sworn to";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "We are sworn to"
+msgstr "Juramentamos"
+
+# mes "protect Al De Baran!";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "protect Al De Baran!"
+msgstr "proteger Al De Baran!"
+
+# mes "May the forces of good";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "May the forces of good"
+msgstr "Que as forças do bem"
+
+# mes "always prevail over evil~";
+#: npc/pre-re/guides/guides_aldebaran.txt
+#, fuzzy
+msgctxt "Soldier#2alde"
+msgid "always prevail over evil~"
+msgstr "sempre prevalecer sobre o mal~"

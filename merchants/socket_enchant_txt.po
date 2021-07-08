@@ -42,14 +42,14 @@ msgstr "- Espere um minuto!! -"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "- Currently you're carrying -"
-msgstr "- Atualmente você está carregando -"
+msgstr "- Atualmente vocÃª estÃ¡ carregando -"
 
 # mes "- too many items with you. -";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "- too many items with you. -"
-msgstr "- muitos itens com você. -"
+msgstr "- muitos itens com vocÃª. -"
 
 # mes "- Please try again -";
 #: npc/merchants/socket_enchant.txt
@@ -79,7 +79,7 @@ msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid ""
 "I'm an engineer that specializes in adding Slots to normal Weapons and Armor."
 msgstr ""
-"Sou um engenheiro especializado em adicionar Slots às Armas e Armaduras "
+"Sou um engenheiro especializado em adicionar Slots Ã s Armas e Armaduras "
 "normais."
 
 # mes "My service fee, the required materials and the chance of success all depend on the specific item I'm working on.";
@@ -90,8 +90,8 @@ msgid ""
 "My service fee, the required materials and the chance of success all depend "
 "on the specific item I'm working on."
 msgstr ""
-"Minha taxa de serviço, os materiais necessários e a chance de sucesso "
-"dependem todos do item específico em que estou trabalhando."
+"Minha taxa de serviÃ§o, os materiais necessÃ¡rios e a chance de sucesso "
+"dependem todos do item especÃ­fico em que estou trabalhando."
 
 # mes "Adding Slots may seem simple, but it's far more complicated than it looks.";
 #: npc/merchants/socket_enchant.txt
@@ -100,7 +100,7 @@ msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid ""
 "Adding Slots may seem simple, but it's far more complicated than it looks."
 msgstr ""
-"Adicionar Slots pode parecer simples, mas é muito mais complicado do que "
+"Adicionar Slots pode parecer simples, mas Ã© muito mais complicado do que "
 "parece."
 
 # mes "If you're interested in my service, let me know.";
@@ -108,28 +108,28 @@ msgstr ""
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "If you're interested in my service, let me know."
-msgstr "Se você estiver interessado no meu serviço, me avise."
+msgstr "Se vocÃª estiver interessado no meu serviÃ§o, me avise."
 
 # switch(select("Add Slot to Weapon", "Add Slot to Armor", "Slot Attempt Info", "Cancel"))
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Add Slot to Weapon"
-msgstr "Adicionar Slot à Arma"
+msgstr "Adicionar Slot Ã  Arma"
 
 # switch(select("Add Slot to Weapon", "Add Slot to Armor", "Slot Attempt Info", "Cancel"))
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Add Slot to Armor"
-msgstr "Adicionar Slot à Armor"
+msgstr "Adicionar Slot Ã  Armor"
 
 # switch(select("Add Slot to Weapon", "Add Slot to Armor", "Slot Attempt Info", "Cancel"))
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Slot Attempt Info"
-msgstr "Informações sobre a Tentativa de Slot"
+msgstr "InformaÃ§Ãµes sobre a Tentativa de Slot"
 
 # switch(select("Add Slot to Weapon", "Add Slot to Armor", "Slot Attempt Info", "Cancel"))
 #: npc/merchants/socket_enchant.txt
@@ -143,7 +143,7 @@ msgstr "Cancelar"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "You want to add a Slot to a weapon?"
-msgstr "Você quer adicionar uma ranhura a uma arma?"
+msgstr "VocÃª quer adicionar uma ranhura a uma arma?"
 
 # mes "I categorize weapons by their difficulty in adding a Slot, C Class being easiest and S Class the most difficult.";
 #: npc/merchants/socket_enchant.txt
@@ -154,14 +154,14 @@ msgid ""
 "easiest and S Class the most difficult."
 msgstr ""
 "Eu categorizo as armas por sua dificuldade em acrescentar um Slot, sendo a "
-"Classe C a mais fácil e a Classe S a mais difícil."
+"Classe C a mais fÃ¡cil e a Classe S a mais difÃ­cil."
 
 # mes "Which class would you like to try?";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Which class would you like to try?"
-msgstr "Qual classe você gostaria de tentar?"
+msgstr "Qual classe vocÃª gostaria de tentar?"
 
 # switch(select("C Class", "B Class", "A Class", "S Class"))
 #: npc/merchants/socket_enchant.txt
@@ -206,7 +206,7 @@ msgid ""
 "Now, I can only upgrade certain equipment in that class, so please choose "
 "one of the following items, so we can try to add a Slot to it."
 msgstr ""
-"Agora, só posso atualizar certos equipamentos dessa classe, portanto, "
+"Agora, sÃ³ posso atualizar certos equipamentos dessa classe, portanto, "
 "escolha um dos seguintes itens, para que possamos tentar adicionar um Slot a "
 "ele."
 
@@ -243,7 +243,7 @@ msgstr "Classe B?"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Alright, this is the average equipment category."
-msgstr "Muito bem, esta é a categoria média de equipamento."
+msgstr "Muito bem, esta Ã© a categoria mÃ©dia de equipamento."
 
 # mes "Please choose the weapon to which you'd like me to try to add a Slot.";
 #: npc/merchants/socket_enchant.txt
@@ -251,7 +251,7 @@ msgstr "Muito bem, esta é a categoria média de equipamento."
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Please choose the weapon to which you'd like me to try to add a Slot."
 msgstr ""
-"Por favor, escolha a arma à qual você gostaria que eu tentasse adicionar um "
+"Por favor, escolha a arma Ã  qual vocÃª gostaria que eu tentasse adicionar um "
 "Slot."
 
 # switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
@@ -294,7 +294,7 @@ msgstr "Haedonggum"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Lute"
-msgstr "Alaúde"
+msgstr "AlaÃºde"
 
 # switch(select("Chain", "Gladius", "Gakkung Bow", "Pike", "Haedonggum", "Lute", "Wire", "Waghnakh", "Arbalest Bow"))
 #: npc/merchants/socket_enchant.txt
@@ -329,21 +329,21 @@ msgstr "Ooh, Uma Classe."
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "This is some high risk territory!"
-msgstr "Este é um território de alto risco!"
+msgstr "Este Ã© um territÃ³rio de alto risco!"
 
 # mes "Alright, which weapon would you like me to try adding a Slot?";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Alright, which weapon would you like me to try adding a Slot?"
-msgstr "Muito bem, qual arma você gostaria que eu tentasse adicionar um Slot?"
+msgstr "Muito bem, qual arma vocÃª gostaria que eu tentasse adicionar um Slot?"
 
 # switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Hunter Bow"
-msgstr "Arco de Caçador"
+msgstr "Arco de CaÃ§ador"
 
 # switch(select("Hunter Bow", "Survivor's Rod(INT)", "Zweihander", "Flamberge", "Infiltrator", "Ballista", "Stunner", "Berserk", "Claymore"))
 #: npc/merchants/socket_enchant.txt
@@ -490,7 +490,7 @@ msgstr "Vara do Sobrevivente(DEX)"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Armor, you said?"
-msgstr "Armadura, você disse?"
+msgstr "Armadura, vocÃª disse?"
 
 # mes "Sure, no problem.";
 #: npc/merchants/socket_enchant.txt
@@ -506,7 +506,7 @@ msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid ""
 "Armor is divided into 4 different classes, depending on the work difficulty."
 msgstr ""
-"A armadura é dividida em 4 classes diferentes, dependendo da dificuldade de "
+"A armadura Ã© dividida em 4 classes diferentes, dependendo da dificuldade de "
 "trabalho."
 
 # mes "C Class is the easiest one, and S Class is the hardest one.";
@@ -514,7 +514,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "C Class is the easiest one, and S Class is the hardest one."
-msgstr "A Classe C é a mais fácil, e a Classe S é a mais difícil."
+msgstr "A Classe C Ã© a mais fÃ¡cil, e a Classe S Ã© a mais difÃ­cil."
 
 # mes "C Class Armor, eh?";
 #: npc/merchants/socket_enchant.txt
@@ -528,14 +528,14 @@ msgstr "Armadura de Classe C, eh?"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Sounds reasonable."
-msgstr "Parece razoável."
+msgstr "Parece razoÃ¡vel."
 
 # mes "Which armor would you like to try adding a Slot?";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Which armor would you like to try adding a Slot?"
-msgstr "Qual armadura você gostaria de tentar adicionar um Slot?"
+msgstr "Qual armadura vocÃª gostaria de tentar adicionar um Slot?"
 
 # switch(select("Mantle", "Coat", "Circlet", "Biretta"))
 #: npc/merchants/socket_enchant.txt
@@ -570,14 +570,14 @@ msgstr "Biretta"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "You have chosen average B Class."
-msgstr "Você escolheu a classe B média."
+msgstr "VocÃª escolheu a classe B mÃ©dia."
 
 # mes "So, what kind of armor do you have?";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "So, what kind of armor do you have?"
-msgstr "Então, que tipo de armadura você tem?"
+msgstr "EntÃ£o, que tipo de armadura vocÃª tem?"
 
 # switch(select("Mirror Shield", "Chain Mail", "Saint Robe", "Silk Robe", "Boots", "Shoes", "Muffler", "Guard", "Buckler", "Shield", "Bongun Hat"))
 #: npc/merchants/socket_enchant.txt
@@ -654,7 +654,7 @@ msgstr "Escudo"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Bongun Hat"
-msgstr "Chapéu Bongun"
+msgstr "ChapÃ©u Bongun"
 
 # mes "Alright, which armor would you like me to try adding a Slot?";
 #: npc/merchants/socket_enchant.txt
@@ -662,7 +662,7 @@ msgstr "Chapéu Bongun"
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Alright, which armor would you like me to try adding a Slot?"
 msgstr ""
-"Muito bem, qual armadura você gostaria que eu tentasse adicionar um Slot?"
+"Muito bem, qual armadura vocÃª gostaria que eu tentasse adicionar um Slot?"
 
 # switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
 #: npc/merchants/socket_enchant.txt
@@ -676,28 +676,28 @@ msgstr "Sallet Gemmed"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Bucket Hat"
-msgstr "Chapéu de balde"
+msgstr "ChapÃ©u de balde"
 
 # switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Memory Book"
-msgstr "Livro de Memória"
+msgstr "Livro de MemÃ³ria"
 
 # switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Tights"
-msgstr "Meias-calças"
+msgstr "Meias-calÃ§as"
 
 # switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Legion Plate Armor"
-msgstr "Armadura de Placa de Legião"
+msgstr "Armadura de Placa de LegiÃ£o"
 
 # switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
 #: npc/merchants/socket_enchant.txt
@@ -711,7 +711,7 @@ msgstr "Placa completa"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Thief Clothes"
-msgstr "Roupas para ladrões"
+msgstr "Roupas para ladrÃµes"
 
 # switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
 #: npc/merchants/socket_enchant.txt
@@ -767,7 +767,7 @@ msgstr "Cabo Antigo"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Monk Hat"
-msgstr "Chapéu de monge"
+msgstr "ChapÃ©u de monge"
 
 # switch(select("Gemmed Sallet", "Bucket Hat", "Memory Book", "Tights", "Legion Plate Armor", "Full Plate", "Thief Clothes", "Greaves", "Coif", "Manteau", "Helm", "Ninja Suit", "Orc Helm", "Ancient Cape", "Monk Hat", "Golden Gear", "Brooch", "Munak Hat"))
 #: npc/merchants/socket_enchant.txt
@@ -788,7 +788,7 @@ msgstr "Brochura"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Munak Hat"
-msgstr "Chapéu Munak"
+msgstr "ChapÃ©u Munak"
 
 # mes "Um... S Class?";
 #: npc/merchants/socket_enchant.txt
@@ -802,7 +802,7 @@ msgstr "Um... Classe S?"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "You sure about this?"
-msgstr "Você tem certeza disso?"
+msgstr "VocÃª tem certeza disso?"
 
 # mes "Alright... Let me know the Armor to which you'd like to add a Slot, and I'll tell what I need to try it.";
 #: npc/merchants/socket_enchant.txt
@@ -812,8 +812,8 @@ msgid ""
 "Alright... Let me know the Armor to which you'd like to add a Slot, and I'll "
 "tell what I need to try it."
 msgstr ""
-"Muito bem... Avise-me sobre a Armadura à qual você gostaria de acrescentar "
-"um Slot, e eu direi o que preciso para experimentá-la."
+"Muito bem... Avise-me sobre a Armadura Ã  qual vocÃª gostaria de acrescentar "
+"um Slot, e eu direi o que preciso para experimentÃ¡-la."
 
 # switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
 #: npc/merchants/socket_enchant.txt
@@ -862,7 +862,7 @@ msgstr "Tiara"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Sphinx Hat"
-msgstr "Chapéu Esfinge"
+msgstr "ChapÃ©u Esfinge"
 
 # switch(select("Majestic Goat", "Spiky Band", "Bone Helm", "Corsair", "Crown", "Tiara", "Sphinx Hat", "Robe of Cast", "Earring", "Ring", "Bow Thimble"))
 #: npc/merchants/socket_enchant.txt
@@ -897,7 +897,7 @@ msgstr "Dedal de Arco"
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Well, I haven't really refined the art of Slot Addition."
-msgstr "Bem, eu realmente não refinei a arte da Slot Adição."
+msgstr "Bem, eu realmente nÃ£o refinei a arte da Slot AdiÃ§Ã£o."
 
 # mes "It's so complicated that I'd be lying if I told you that I knew every factor that affected the process.";
 #: npc/merchants/socket_enchant.txt
@@ -907,7 +907,7 @@ msgid ""
 "It's so complicated that I'd be lying if I told you that I knew every factor "
 "that affected the process."
 msgstr ""
-"É tão complicado que eu estaria mentindo se lhe dissesse que conhecia todos "
+"Ã‰ tÃ£o complicado que eu estaria mentindo se lhe dissesse que conhecia todos "
 "os fatores que afetavam o processo."
 
 # mes "Still, I do notice a few trends...";
@@ -915,7 +915,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Still, I do notice a few trends..."
-msgstr "Ainda assim, noto algumas tendências..."
+msgstr "Ainda assim, noto algumas tendÃªncias..."
 
 # mes "In some towns, Slot addition attempts are more successful for equipment with fewer upgrades.";
 #: npc/merchants/socket_enchant.txt
@@ -925,29 +925,29 @@ msgid ""
 "In some towns, Slot addition attempts are more successful for equipment with "
 "fewer upgrades."
 msgstr ""
-"Em algumas cidades, as tentativas de adição de Slot são mais bem sucedidas "
-"para equipamentos com menos atualizações."
+"Em algumas cidades, as tentativas de adiÃ§Ã£o de Slot sÃ£o mais bem sucedidas "
+"para equipamentos com menos atualizaÃ§Ãµes."
 
 # mes "In other towns, the opposite is true.";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "In other towns, the opposite is true."
-msgstr "Em outras cidades, o oposto é verdadeiro."
+msgstr "Em outras cidades, o oposto Ã© verdadeiro."
 
 # mes "Isn't that really peculiar?";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Isn't that really peculiar?"
-msgstr "Isso não é realmente peculiar?"
+msgstr "Isso nÃ£o Ã© realmente peculiar?"
 
 # mes "Oh, there's also something really important that you should know.";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Oh, there's also something really important that you should know."
-msgstr "Há também algo realmente importante que você deve saber."
+msgstr "HÃ¡ tambÃ©m algo realmente importante que vocÃª deve saber."
 
 # mes "If you ask me to add a Slot to something, make sure that you don't have multiples of it in your inventory.";
 #: npc/merchants/socket_enchant.txt
@@ -957,8 +957,8 @@ msgid ""
 "If you ask me to add a Slot to something, make sure that you don't have "
 "multiples of it in your inventory."
 msgstr ""
-"Se você me pedir para adicionar um Slot a algo, certifique-se de não ter "
-"múltiplos dele em seu inventário."
+"Se vocÃª me pedir para adicionar um Slot a algo, certifique-se de nÃ£o ter "
+"mÃºltiplos dele em seu inventÃ¡rio."
 
 # mes "Here's an example: if you have a +7 Manteau and a normal Manteau in your inventory, then I will randomly pick one of them for my Slot Addition attempt.";
 #: npc/merchants/socket_enchant.txt
@@ -969,9 +969,9 @@ msgid ""
 "inventory, then I will randomly pick one of them for my Slot Addition "
 "attempt."
 msgstr ""
-"Aqui está um exemplo: se você tiver um Manteau +7 e um Manteau normal em seu "
-"inventário, então eu escolherei aleatoriamente um deles para minha tentativa "
-"de Slot Adição."
+"Aqui estÃ¡ um exemplo: se vocÃª tiver um Manteau +7 e um Manteau normal em seu "
+"inventÃ¡rio, entÃ£o eu escolherei aleatoriamente um deles para minha tentativa "
+"de Slot AdiÃ§Ã£o."
 
 # mes "Just remember to be careful.";
 #: npc/merchants/socket_enchant.txt
@@ -988,7 +988,7 @@ msgid ""
 "Again, ^FF0000only carry one of the equipment to which you want me to add a "
 "Slot^000000."
 msgstr ""
-"Mais uma vez, ^FF0000 apenas carregue um dos equipamentos aos quais você "
+"Mais uma vez, ^FF0000 apenas carregue um dos equipamentos aos quais vocÃª "
 "quer que eu acrescente um Slot^000000."
 
 # mes "All other equipment with the same name should be placed in your Kafra Storage, got it?";
@@ -1007,7 +1007,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Seiyablem#dummy::SocketEnchant"
 msgid "Take it easy, adventurer."
-msgstr "Vá com calma, aventureiro."
+msgstr "VÃ¡ com calma, aventureiro."
 
 # mes "If you ever want to try adding a Slot to some of your equipment, come back and let me know.";
 #: npc/merchants/socket_enchant.txt
@@ -1017,7 +1017,7 @@ msgid ""
 "If you ever want to try adding a Slot to some of your equipment, come back "
 "and let me know."
 msgstr ""
-"Se você quiser tentar adicionar um Slot a algum de seus equipamentos, volte "
+"Se vocÃª quiser tentar adicionar um Slot a algum de seus equipamentos, volte "
 "e me avise."
 
 # mes "Seeya~";
@@ -1038,7 +1038,7 @@ msgstr "[Seiyablem]"
 #: npc/merchants/socket_enchant.txt
 msgctxt "Func_Socket"
 msgid "You want to add a Slot to a "
-msgstr "Você quer adicionar um Slot a um "
+msgstr "VocÃª quer adicionar um Slot a um "
 
 # mes "Alright, please bring me ^FF0000" + getarg(6) + " " + getitemname(getarg(5)) + (getarg(6) > 1 && getarg(5) != 999 ? "s":"") + "^000000, " + (getarg(7,0) != 0 && getarg(8,0) != 0 ? ("^FF0000" + getarg(8,0) + " " + getitemname(getarg(7,0)) + (getarg(8,0) > 1 && getarg(7,0) != 999 ? "s":"") + "^000000 ") : "") + "and my ^FF0000" + (getarg(4) >= 1000 ? (getarg(4)/1000 + ",000") : getarg(4)) + ",000 zeny^000000 service fee.";
 #: npc/merchants/socket_enchant.txt
@@ -1051,7 +1051,7 @@ msgstr "Muito bem, por favor me traga ^FF0000"
 #: npc/merchants/socket_enchant.txt
 msgctxt "Func_Socket"
 msgid "Ah, and don't forget to bring that "
-msgstr "Ah, e não se esqueça de trazer isso "
+msgstr "Ah, e nÃ£o se esqueÃ§a de trazer isso "
 
 # mes "I can try to add a slot now if you have the required items and zeny.";
 #: npc/merchants/socket_enchant.txt
@@ -1059,7 +1059,7 @@ msgstr "Ah, e não se esqueça de trazer isso "
 msgctxt "Func_Socket"
 msgid "I can try to add a slot now if you have the required items and zeny."
 msgstr ""
-"Posso tentar adicionar um espaço agora se você tiver os itens necessários e "
+"Posso tentar adicionar um espaÃ§o agora se vocÃª tiver os itens necessÃ¡rios e "
 "zeny."
 
 # mes "However, you should know that there's a chance that I might fail.";
@@ -1067,7 +1067,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "However, you should know that there's a chance that I might fail."
-msgstr "No entanto, você deve saber que há uma chance de eu falhar."
+msgstr "No entanto, vocÃª deve saber que hÃ¡ uma chance de eu falhar."
 
 # mes "Therefore, I need to give you a fair warning...";
 #: npc/merchants/socket_enchant.txt
@@ -1085,9 +1085,9 @@ msgid ""
 "^FF0000Weapon^000000, ^FF0000and any Cards compounded to it will be "
 "destroyed^000000."
 msgstr ""
-"Se esta tentativa de adicionar um Slot à sua Arma falhar, então o "
-"^FF0000Weapon^000000, ^FF000000, ^FF0000 e quaisquer Cartões que lhe forem "
-"compostos serão destruídos^000000."
+"Se esta tentativa de adicionar um Slot Ã  sua Arma falhar, entÃ£o o "
+"^FF0000Weapon^000000, ^FF000000, ^FF0000 e quaisquer CartÃµes que lhe forem "
+"compostos serÃ£o destruÃ­dos^000000."
 
 # mes "If you have all the required materials, my zeny service fee and the Armor, then we can go ahead with the Slot Addition attempt.";
 #: npc/merchants/socket_enchant.txt
@@ -1097,8 +1097,8 @@ msgid ""
 "If you have all the required materials, my zeny service fee and the Armor, "
 "then we can go ahead with the Slot Addition attempt."
 msgstr ""
-"Se você tiver todos os materiais necessários, minha taxa de serviço zeny e a "
-"Armadura, então podemos prosseguir com a tentativa de Slot Adição."
+"Se vocÃª tiver todos os materiais necessÃ¡rios, minha taxa de serviÃ§o zeny e a "
+"Armadura, entÃ£o podemos prosseguir com a tentativa de Slot AdiÃ§Ã£o."
 
 # mes "But before that, I must warn you of the risk.";
 #: npc/merchants/socket_enchant.txt
@@ -1116,23 +1116,23 @@ msgid ""
 "^FF0000Armor^000000, ^FF0000it's upgrades^000000 ^FF0000and any Cards "
 "compounded to it will be destroyed^000000."
 msgstr ""
-"Se esta tentativa de adicionar um Slot à sua Armadura falhar, então o "
+"Se esta tentativa de adicionar um Slot Ã  sua Armadura falhar, entÃ£o o "
 "^FF0000Armor^000000, ^FF000000 ^FF000000 ^FF000000 e quaisquer Cartas "
-"compostas a ele serão destruídas^000000."
+"compostas a ele serÃ£o destruÃ­das^000000."
 
 # mes "Do you still want to try to add a Slot?";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "Do you still want to try to add a Slot?"
-msgstr "Você ainda quer tentar adicionar um Slot?"
+msgstr "VocÃª ainda quer tentar adicionar um Slot?"
 
 # switch(select("Attempt Slot Addition", "Cancel"))
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "Attempt Slot Addition"
-msgstr "Tentativa de adição de Slot"
+msgstr "Tentativa de adiÃ§Ã£o de Slot"
 
 # switch(select("Attempt Slot Addition", "Cancel"))
 #: npc/merchants/socket_enchant.txt
@@ -1146,35 +1146,35 @@ msgstr "Cancelar"
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "Alright then, let the work begin!"
-msgstr "Muito bem então, que o trabalho comece!"
+msgstr "Muito bem entÃ£o, que o trabalho comece!"
 
 # mes "You'd better pray for a successful result.";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "You'd better pray for a successful result."
-msgstr "É melhor rezar por um resultado bem sucedido."
+msgstr "Ã‰ melhor rezar por um resultado bem sucedido."
 
 # mes "Great, it seems to be successful.";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "Great, it seems to be successful."
-msgstr "Ótimo, parece ser um sucesso."
+msgstr "Ã“timo, parece ser um sucesso."
 
 # mes "It looks pretty well done. Congratulations!";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "It looks pretty well done. Congratulations!"
-msgstr "Parece muito bem feito. Parabéns!"
+msgstr "Parece muito bem feito. ParabÃ©ns!"
 
 # mes "See you again, buddy!";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "See you again, buddy!"
-msgstr "Até a próxima, amigo!"
+msgstr "AtÃ© a prÃ³xima, amigo!"
 
 # mes "Wah! ...I am so sorry, it failed.";
 #: npc/merchants/socket_enchant.txt
@@ -1194,21 +1194,21 @@ msgstr "No entanto, sou completamente inocente."
 #: npc/merchants/socket_enchant.txt
 msgctxt "Func_Socket"
 msgid "This is your luck, and it is destined by god, okay?"
-msgstr "Esta é a sua sorte, e é destinada por Deus, okay?"
+msgstr "Esta Ã© a sua sorte, e Ã© destinada por Deus, okay?"
 
 # mes "Don't be so disappointed, and try next time.";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "Don't be so disappointed, and try next time."
-msgstr "Não fique tão desapontado e tente da próxima vez."
+msgstr "NÃ£o fique tÃ£o desapontado e tente da prÃ³xima vez."
 
 # mes "I wish you good luck next time!";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "I wish you good luck next time!"
-msgstr "Desejo-lhe boa sorte na próxima vez!"
+msgstr "Desejo-lhe boa sorte na prÃ³xima vez!"
 
 # mes "I'd like to go ahead with this Slot Addition attempt, but you're missing a few things.";
 #: npc/merchants/socket_enchant.txt
@@ -1218,7 +1218,7 @@ msgid ""
 "I'd like to go ahead with this Slot Addition attempt, but you're missing a "
 "few things."
 msgstr ""
-"Eu gostaria de prosseguir com esta tentativa de Slot Adição, mas estão "
+"Eu gostaria de prosseguir com esta tentativa de Slot AdiÃ§Ã£o, mas estÃ£o "
 "faltando algumas coisas."
 
 # mes "You sure that you have the equipment, required materials and the zeny?";
@@ -1227,14 +1227,14 @@ msgstr ""
 msgctxt "Func_Socket"
 msgid "You sure that you have the equipment, required materials and the zeny?"
 msgstr ""
-"Você tem certeza de que tem o equipamento, os materiais necessários e o zeny?"
+"VocÃª tem certeza de que tem o equipamento, os materiais necessÃ¡rios e o zeny?"
 
 # mes "Need some time to think about it, huh?";
 #: npc/merchants/socket_enchant.txt
 #, fuzzy
 msgctxt "Func_Socket"
 msgid "Need some time to think about it, huh?"
-msgstr "Precisa de algum tempo para pensar nisso, não?"
+msgstr "Precisa de algum tempo para pensar nisso, nÃ£o?"
 
 # mes "Alright, I can understand.";
 #: npc/merchants/socket_enchant.txt
@@ -1249,7 +1249,7 @@ msgstr "Muito bem, eu posso entender."
 msgctxt "Func_Socket"
 msgid "Just remember that life's no fun if you're always playing it safe~"
 msgstr ""
-"Basta lembrar que a vida não é divertida se você está sempre jogando pelo "
+"Basta lembrar que a vida nÃ£o Ã© divertida se vocÃª estÃ¡ sempre jogando pelo "
 "seguro~"
 
 # mes "[Young Man]";
@@ -1274,8 +1274,8 @@ msgid ""
 "It's a new field where you can add Slots to equipment, and it'd be cool if I "
 "can work in such a lucrative career."
 msgstr ""
-"É um novo campo onde você pode adicionar Slots aos equipamentos, e seria "
-"legal se eu pudesse trabalhar em uma carreira tão lucrativa."
+"Ã‰ um novo campo onde vocÃª pode adicionar Slots aos equipamentos, e seria "
+"legal se eu pudesse trabalhar em uma carreira tÃ£o lucrativa."
 
 # mes "There's a huge element of luck involved in successfully adding Slots from what I can understand.";
 #: npc/merchants/socket_enchant.txt
@@ -1285,7 +1285,7 @@ msgid ""
 "There's a huge element of luck involved in successfully adding Slots from "
 "what I can understand."
 msgstr ""
-"Há um enorme elemento de sorte envolvido na adição bem sucedida de Slots a "
+"HÃ¡ um enorme elemento de sorte envolvido na adiÃ§Ã£o bem sucedida de Slots a "
 "partir do que eu posso entender."
 
 # mes "You fail sometimes, but if you're super lucky, you can add two Slots.";
@@ -1294,7 +1294,7 @@ msgstr ""
 msgctxt "Young Man#dummy::SocketMan"
 msgid "You fail sometimes, but if you're super lucky, you can add two Slots."
 msgstr ""
-"Você falha às vezes, mas se você tiver super sorte, você pode adicionar dois "
+"VocÃª falha Ã s vezes, mas se vocÃª tiver super sorte, vocÃª pode adicionar dois "
 "Slots."
 
 # mes "Crazy. Huh?";
@@ -1309,7 +1309,7 @@ msgstr "Loucura. Eh?"
 #, fuzzy
 msgctxt "Young Man#dummy::SocketMan"
 msgid "But don't get too excited."
-msgstr "Mas não fique muito entusiasmado."
+msgstr "Mas nÃ£o fique muito entusiasmado."
 
 # mes "Only certain equipment can handle the addition of two extra Slots.";
 #: npc/merchants/socket_enchant.txt
@@ -1317,7 +1317,7 @@ msgstr "Mas não fique muito entusiasmado."
 msgctxt "Young Man#dummy::SocketMan"
 msgid "Only certain equipment can handle the addition of two extra Slots."
 msgstr ""
-"Somente determinados equipamentos podem lidar com a adição de dois Slots "
+"Somente determinados equipamentos podem lidar com a adiÃ§Ã£o de dois Slots "
 "extras."
 
 # mes "There's so much more I have to learn before I can even be an apprentice...";
@@ -1326,4 +1326,4 @@ msgstr ""
 msgctxt "Young Man#dummy::SocketMan"
 msgid ""
 "There's so much more I have to learn before I can even be an apprentice..."
-msgstr "Há muito mais que tenho que aprender antes mesmo de ser um aprendiz..."
+msgstr "HÃ¡ muito mais que tenho que aprender antes mesmo de ser um aprendiz..."

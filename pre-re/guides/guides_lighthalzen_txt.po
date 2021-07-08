@@ -1,0 +1,828 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 15:05-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Lighthalzen Guide]";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "[Lighthalzen Guide]"
+msgstr "[Guia Lighthalzen]"
+
+# mes "Welcome to Lighthalzen,";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Welcome to Lighthalzen,"
+msgstr "Bem-vindo à Lighthalzen,"
+
+# mes "the Corporation City-State.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "the Corporation City-State."
+msgstr "a Corporação City-State."
+
+# mes "If you need any guidance";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "If you need any guidance"
+msgstr "Se você precisar de alguma orientação"
+
+# mes "around the city, feel free";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "around the city, feel free"
+msgstr "ao redor da cidade, sinta-se livre"
+
+# mes "to ask me and I'll do my";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "to ask me and I'll do my"
+msgstr "para me pedir e eu farei meu"
+
+# mes "very best to help you.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "very best to help you."
+msgstr "muito melhor para ajudar você."
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "City Guide"
+msgstr "Guia da cidade"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Remove Marks from Mini-Map"
+msgstr "Remover as marcas do Mini-Map"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Notice."
+msgstr "Aviso."
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Please be aware that I'm";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Please be aware that I'm"
+msgstr "Por favor, esteja ciente de que eu sou"
+
+# mes "in charge of providing info";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "in charge of providing info"
+msgstr "encarregado de fornecer informações"
+
+# mes "regarding the West District";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "regarding the West District"
+msgstr "em relação ao Distrito Oeste"
+
+# mes "of Lighthalzen. Now, please";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "of Lighthalzen. Now, please"
+msgstr "de Lighthalzen. Agora, por favor"
+
+# mes "select the location that you'd";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "select the location that you'd"
+msgstr "selecione o local que você"
+
+# mes "like to learn more about.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "like to learn more about."
+msgstr "gostam de saber mais sobre."
+
+# mes "But before that,";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "But before that,"
+msgstr "Mas antes disso,"
+
+# mes "would you like me";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "would you like me"
+msgstr "você gostaria que eu"
+
+# mes "to mark locations";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "to mark locations"
+msgstr "para marcar locais"
+
+# mes "on your Mini-Map?";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "on your Mini-Map?"
+msgstr "em seu Mini-Map?"
+
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Yes."
+msgstr "Sim."
+
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "No."
+msgstr "Nº."
+
+# switch(select("^FF0000Rekenber Corporation^000000", "Train Station", "Police Station", "Bank", "Hotel", "Airport", "Merchant Guild", "Jewelry Shop", "Weapon Shop", "Departement Store", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "^FF0000Rekenber Corporation^000000"
+msgstr "^FF0000Rekenber Corporation^000000"
+
+# switch(select("^FF0000Rekenber Corporation^000000", "Train Station", "Police Station", "Bank", "Hotel", "Airport", "Merchant Guild", "Jewelry Shop", "Weapon Shop", "Departement Store", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Train Station"
+msgstr "Estação de Trem"
+
+# switch(select("^FF0000Rekenber Corporation^000000", "Train Station", "Police Station", "Bank", "Hotel", "Airport", "Merchant Guild", "Jewelry Shop", "Weapon Shop", "Departement Store", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Police Station"
+msgstr "Delegacia de Polícia"
+
+# switch(select("^FF0000Rekenber Corporation^000000", "Train Station", "Police Station", "Bank", "Hotel", "Airport", "Merchant Guild", "Jewelry Shop", "Weapon Shop", "Departement Store", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Bank"
+msgstr "Banco"
+
+# switch(select("^FF0000Rekenber Corporation^000000", "Train Station", "Police Station", "Bank", "Hotel", "Airport", "Merchant Guild", "Jewelry Shop", "Weapon Shop", "Departement Store", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Hotel"
+msgstr "Hotel"
+
+# switch(select("^FF0000Rekenber Corporation^000000", "Train Station", "Police Station", "Bank", "Hotel", "Airport", "Merchant Guild", "Jewelry Shop", "Weapon Shop", "Departement Store", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Airport"
+msgstr "Aeroporto"
+
+# switch(select("^FF0000Rekenber Corporation^000000", "Train Station", "Police Station", "Bank", "Hotel", "Airport", "Merchant Guild", "Jewelry Shop", "Weapon Shop", "Departement Store", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Merchant Guild"
+msgstr "Guilda Mercante"
+
+# switch(select("^FF0000Rekenber Corporation^000000", "Train Station", "Police Station", "Bank", "Hotel", "Airport", "Merchant Guild", "Jewelry Shop", "Weapon Shop", "Departement Store", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Jewelry Shop"
+msgstr "Joalheria"
+
+# switch(select("^FF0000Rekenber Corporation^000000", "Train Station", "Police Station", "Bank", "Hotel", "Airport", "Merchant Guild", "Jewelry Shop", "Weapon Shop", "Departement Store", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("^FF0000Rekenber Corporation^000000", "Train Station", "Police Station", "Bank", "Hotel", "Airport", "Merchant Guild", "Jewelry Shop", "Weapon Shop", "Departement Store", "Cancel")) {
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Departement Store"
+msgstr "Loja de departamentos"
+
+# mes "Rekenber Corporation,";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Rekenber Corporation,"
+msgstr "Rekenber Corporation,"
+
+# mes "the largest company in";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "the largest company in"
+msgstr "a maior empresa em"
+
+# mes "the Schwaltzvalt Republic,";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "the Schwaltzvalt Republic,"
+msgstr "a República de Schwaltzvalt,"
+
+# mes "in located in northwestern";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "in located in northwestern"
+msgstr "em localizada no noroeste"
+
+# mes "Lighthalzen. You can't miss";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Lighthalzen. You can't miss"
+msgstr "Lighthalzen. Você não pode perder"
+
+# mes "the headquarters building.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "the headquarters building."
+msgstr "o edifício sede."
+
+# mes "The Train Station is";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+msgctxt "Guide#lhz::LhzGuide"
+msgid "The Train Station is"
+msgstr "A estação de trem é"
+
+# mes "located in the center of";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "located in the center of"
+msgstr "localizado no centro de"
+
+# mes "the city, where we have";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "the city, where we have"
+msgstr "a cidade, onde temos"
+
+# mes "a direct railroad to Einbroch.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "a direct railroad to Einbroch."
+msgstr "uma estrada de ferro direta para Einbroch."
+
+# mes "Our Police Station is just";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Our Police Station is just"
+msgstr "Nossa delegacia é apenas"
+
+# mes "north of the city's center.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "north of the city's center."
+msgstr "ao norte do centro da cidade."
+
+# mes "Please don't hesitate to report";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Please don't hesitate to report"
+msgstr "Por favor, não hesite em informar"
+
+# mes "any suspicious persons and";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "any suspicious persons and"
+msgstr "quaisquer pessoas suspeitas e"
+
+# mes "activity, or if you have any";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "activity, or if you have any"
+msgstr "atividade, ou se você tiver alguma"
+
+# mes "problems whatsoever.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "problems whatsoever."
+msgstr "problemas de qualquer natureza."
+
+# mes "The Bank is located";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "The Bank is located"
+msgstr "O Banco está localizado"
+
+# mes "just opposite to the";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "just opposite to the"
+msgstr "exatamente ao contrário do"
+
+# mes "Lighthalzen Police Station,";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Lighthalzen Police Station,"
+msgstr "Delegacia de Polícia de Lighthalzen,"
+
+# mes "which is a pretty good idea";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "which is a pretty good idea"
+msgstr "o que é uma idéia muito boa"
+
+# mes "when I think about it, actually. ^FFFFFFspacer^000000";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "when I think about it, actually. ^FFFFFFspacer^000000"
+msgstr "quando penso sobre isso, na verdade. ^FFFFFFFFspacer^000000"
+
+# mes "Our Hotel is located in";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Our Hotel is located in"
+msgstr "Nosso Hotel está localizado em"
+
+# mes "the middle of the South Plaza.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "the middle of the South Plaza."
+msgstr "no meio da Praça Sul."
+
+# mes "Due to its quality services and";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Due to its quality services and"
+msgstr "Devido a seus serviços de qualidade e"
+
+# mes "luxurious accomodations, this";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "luxurious accomodations, this"
+msgstr "acomodações luxuosas, este"
+
+# mes "hotel is extremely popular.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "hotel is extremely popular."
+msgstr "hotel é extremamente popular."
+
+# mes "The Airport is to the far";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "The Airport is to the far"
+msgstr "O Aeroporto está longe"
+
+# mes "west of the Central Promenade.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "west of the Central Promenade."
+msgstr "oeste do Calçadão Central."
+
+# mes "You can travel anywhere within";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "You can travel anywhere within"
+msgstr "Você pode viajar para qualquer lugar dentro de"
+
+# mes "the Schwaltzvalt Republic by";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "the Schwaltzvalt Republic by"
+msgstr "a República de Schwaltzvalt por"
+
+# mes "riding on one of the Airships.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "riding on one of the Airships."
+msgstr "montando em uma das Aeronaves."
+
+# mes "The Merchant Guild can be";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "The Merchant Guild can be"
+msgstr "A Guilda Mercante pode ser"
+
+# mes "found in the southwestern";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "found in the southwestern"
+msgstr "encontrado no sudoeste"
+
+# mes "part of Lighthalzen.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "part of Lighthalzen."
+msgstr "parte de Lighthalzen."
+
+# mes "The Jewelry Shop is";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "The Jewelry Shop is"
+msgstr "A joalheria é"
+
+# mes "located just west of";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "located just west of"
+msgstr "localizado logo a oeste de"
+
+# mes "the South Plaza.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "the South Plaza."
+msgstr "a Praça Sul."
+
+# mes "The Weapon Shop is";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "The Weapon Shop is"
+msgstr "A Loja de Armas"
+
+# mes "located at the end of";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "located at the end of"
+msgstr "localizado no final de"
+
+# mes "the Central Promenade.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "the Central Promenade."
+msgstr "a Promenade Central."
+
+# mes "It's at least worth a look";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "It's at least worth a look"
+msgstr "Vale pelo menos a pena dar uma olhada"
+
+# mes "if you're serious about";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "if you're serious about"
+msgstr "se você está falando sério sobre"
+
+# mes "adventuring around here.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "adventuring around here."
+msgstr "aventurar-se por aqui."
+
+# mes "The Department Store is";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "The Department Store is"
+msgstr "A Loja de Departamento é"
+
+# mes "located in the middle of";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "located in the middle of"
+msgstr "localizado no meio de"
+
+# mes "Lighthalzen and is the biggest";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Lighthalzen and is the biggest"
+msgstr "Lighthalzen e é o maior"
+
+# mes "and most convenient place for";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "and most convenient place for"
+msgstr "e local mais conveniente para"
+
+# mes "shopping for almost everything.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "shopping for almost everything."
+msgstr "compras para quase tudo."
+
+# mes "Please ask me to ''Remove";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Please ask me to ''Remove"
+msgstr "Por favor, me peça para ''Remover"
+
+# mes "Marks from Mini-Map'' if you";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Marks from Mini-Map'' if you"
+msgstr "Marcas do Mini-Mapa'' se você"
+
+# mes "no longer wish to have the";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "no longer wish to have the"
+msgstr "não deseja mais ter o"
+
+# mes "location marks displayed";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "location marks displayed"
+msgstr "marcas de localização exibidas"
+
+# mes "on your Mini-Map.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "on your Mini-Map."
+msgstr "em seu Mini-Mapa."
+
+# mes "Advances in sorcery and";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Advances in sorcery and"
+msgstr "Avanços na feitiçaria e"
+
+# mes "technology have allowed";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "technology have allowed"
+msgstr "a tecnologia tem permitido"
+
+# mes "us to update our information";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "us to update our information"
+msgstr "para atualizar nossas informações"
+
+# mes "system, enabling up to mark";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "system, enabling up to mark"
+msgstr "sistema, permitindo a marcação"
+
+# mes "locations on your Mini-Map";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "locations on your Mini-Map"
+msgstr "locais em seu Mini-Mapa"
+
+# mes "for easier navigation.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "for easier navigation."
+msgstr "para facilitar a navegação."
+
+# mes "Your Mini-Map is located";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Your Mini-Map is located"
+msgstr "Seu Mini-Map está localizado"
+
+# mes "in the upper right corner";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "in the upper right corner"
+msgstr "no canto superior direito"
+
+# mes "of the screen. If you can't";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "of the screen. If you can't"
+msgstr "da tela. Se você não puder"
+
+# mes "see it, press the Ctrl + Tab";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "see it, press the Ctrl + Tab"
+msgstr "ver, pressione a tecla Ctrl + Tab"
+
+# mes "keys or click the ''Map'' button in your Basic Info Window.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "keys or click the ''Map'' button in your Basic Info Window."
+msgstr "ou clique no botão ''Mapa'' em sua Janela de Informações Básicas."
+
+# mes "On your Mini-Map,";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "On your Mini-Map,"
+msgstr "Em seu Mini-Mapa,"
+
+# mes "click on the ''+'' and ''-''";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "click on the ''+'' and ''-''"
+msgstr "clique em ''+'' e ''-''"
+
+# mes "symbols to zoom in and";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "symbols to zoom in and"
+msgstr "símbolos para ampliar e"
+
+# mes "our of your Mini-Map. We";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "our of your Mini-Map. We"
+msgstr "nosso de seu Mini-Mapa. Nós"
+
+# mes "hope you enjoy your travels";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "hope you enjoy your travels"
+msgstr "espero que você aproveite suas viagens"
+
+# mes "here in Lighthalzen.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "here in Lighthalzen."
+msgstr "aqui em Lighthalzen."
+
+# mes "Lighthalzen is divided";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Lighthalzen is divided"
+msgstr "Lighthalzen está dividido"
+
+# mes "into the East and West";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "into the East and West"
+msgstr "no Leste e no Oeste"
+
+# mes "districts by a railroad that";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "districts by a railroad that"
+msgstr "distritos por uma ferrovia que"
+
+# mes "runs right through the middle.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "runs right through the middle."
+msgstr "corre mesmo pelo meio."
+
+# mes "There are always guards on";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "There are always guards on"
+msgstr "Há sempre guardas em"
+
+# mes "watch to protect the peace.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "watch to protect the peace."
+msgstr "vigiar para proteger a paz."
+
+# mes "Please don't hesitate";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "Please don't hesitate"
+msgstr "Por favor, não hesite"
+
+# mes "to report any suspicious";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "to report any suspicious"
+msgstr "para relatar qualquer suspeita"
+
+# mes "activity or persons to us.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "activity or persons to us."
+msgstr "atividade ou pessoas para nós."
+
+# mes "We hope that you enjoy";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "We hope that you enjoy"
+msgstr "Esperamos que você desfrute"
+
+# mes "our fair city, adventurer.";
+#: npc/pre-re/guides/guides_lighthalzen.txt
+#, fuzzy
+msgctxt "Guide#lhz::LhzGuide"
+msgid "our fair city, adventurer."
+msgstr "nossa cidade justa, aventureira."

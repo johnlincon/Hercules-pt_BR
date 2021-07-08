@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
 "Report-Msgid-Bugs-To: dev@herc.ws\n"
 "POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
-"PO-Revision-Date: 2021-07-01 06:31-0300\n"
+"PO-Revision-Date: 2021-07-08 11:16-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -519,7 +519,10 @@ msgstr "Oh uaaaal~"
 #: npc/airports/airships.txt
 msgctxt "Aanos#01airplane"
 msgid "The sky looks\rso different and\rpretty from up there!\r"
-msgstr "O céu parece tão diferente e bonito lá de cima."
+msgstr ""
+"O céu parece\n"
+"tão diferente e\r\n"
+"bonito lá de cima\r"
 
 # mes("[Pilot]");
 #: npc/airports/airships.txt
@@ -824,11 +827,13 @@ msgstr ""
 
 # mesf("A total of ^FF0000%d^000000 Apples\r"
 #: npc/airports/airships.txt
-#, fuzzy, c-format
+#, c-format
 msgctxt "Apple Merchant#airplane"
 msgid ""
 "A total of ^FF0000%d^000000 Apples\rwill cost you ^FF0000%d Zeny^000000."
-msgstr "Um total de ^FF0000%d^000000 Maçãs lhe custará ^FF0000%d Zeny^000000."
+msgstr ""
+"Um total de ^FF0000%d^000000Maçãs\n"
+"lhe custará ^FF0000%d Zeny^000000."
 
 # mes("Would you like to continue?");
 #: npc/airports/airships.txt

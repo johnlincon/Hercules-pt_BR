@@ -1,0 +1,968 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 15:11-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Payon Guide]";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "[Payon Guide]"
+msgstr "[Guia Payon]"
+
+# mes "Welcome to the";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Welcome to the"
+msgstr "Bem-vindo(a) a"
+
+# mes "mountain city of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "mountain city of Payon."
+msgstr "cidade montanhosa de Payon."
+
+# mes "If you're unfamiliar with this";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "If you're unfamiliar with this"
+msgstr "Se você não está familiarizado com isto"
+
+# mes "area, I can help you find what";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "area, I can help you find what"
+msgstr "posso ajudá-lo a encontrar o que"
+
+# mes "you're looking for around here.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "you're looking for around here."
+msgstr "que você está procurando por aqui."
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "City Guide"
+msgstr "Guia da cidade"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Remove Marks from Mini-Map"
+msgstr "Remover as marcas do Mini-Map"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Notice."
+msgstr "Aviso."
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Please select";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Please select"
+msgstr "Por favor selecione"
+
+# mes "a location from";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "a location from"
+msgstr "um local de"
+
+# mes "the following menu.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "the following menu."
+msgstr "o seguinte menu."
+
+# mes "Would you like me";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Would you like me"
+msgstr "Você gostaria que eu"
+
+# mes "to mark locations";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "to mark locations"
+msgstr "para marcar locais"
+
+# mes "on your Mini-Map?";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "on your Mini-Map?"
+msgstr "em seu Mini-Map?"
+
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Yes."
+msgstr "Sim."
+
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "No."
+msgstr "Nº."
+
+# switch(select("^FF0000Archer Guild^000000", "Weapon Shop", "Tool Shop", "Pub", "Central Palace", "The Empress", "Palace Annex", "Royal Kitchen", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "^FF0000Archer Guild^000000"
+msgstr "^FF0000Archer Guild^000000"
+
+# switch(select("^FF0000Archer Guild^000000", "Weapon Shop", "Tool Shop", "Pub", "Central Palace", "The Empress", "Palace Annex", "Royal Kitchen", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("^FF0000Archer Guild^000000", "Weapon Shop", "Tool Shop", "Pub", "Central Palace", "The Empress", "Palace Annex", "Royal Kitchen", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("^FF0000Archer Guild^000000", "Weapon Shop", "Tool Shop", "Pub", "Central Palace", "The Empress", "Palace Annex", "Royal Kitchen", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Pub"
+msgstr "Pub"
+
+# switch(select("^FF0000Archer Guild^000000", "Weapon Shop", "Tool Shop", "Pub", "Central Palace", "The Empress", "Palace Annex", "Royal Kitchen", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Central Palace"
+msgstr "Palácio Central"
+
+# switch(select("^FF0000Archer Guild^000000", "Weapon Shop", "Tool Shop", "Pub", "Central Palace", "The Empress", "Palace Annex", "Royal Kitchen", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "The Empress"
+msgstr "A Imperatriz"
+
+# switch(select("^FF0000Archer Guild^000000", "Weapon Shop", "Tool Shop", "Pub", "Central Palace", "The Empress", "Palace Annex", "Royal Kitchen", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Palace Annex"
+msgstr "Anexo do Palácio"
+
+# switch(select("^FF0000Archer Guild^000000", "Weapon Shop", "Tool Shop", "Pub", "Central Palace", "The Empress", "Palace Annex", "Royal Kitchen", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Royal Kitchen"
+msgstr "Cozinha Real"
+
+# switch(select("^FF0000Archer Guild^000000", "Weapon Shop", "Tool Shop", "Pub", "Central Palace", "The Empress", "Palace Annex", "Royal Kitchen", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Forge"
+msgstr "Forja"
+
+# mes "The Archer Guild handles";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "The Archer Guild handles"
+msgstr "A Guilda Archer maneja"
+
+# mes "Job Changes to the Archer";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Job Changes to the Archer"
+msgstr "Mudanças no trabalho do Arqueiro"
+
+# mes "Class. You'll need to enter";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Class. You'll need to enter"
+msgstr "Classe. Você precisará entrar"
+
+# mes "the Archer Village which is";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "the Archer Village which is"
+msgstr "a Vila Archer, que é"
+
+# mes "to the northeast of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "to the northeast of Payon."
+msgstr "para o nordeste de Payon."
+
+# mes "The Weapon Shop";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "The Weapon Shop"
+msgstr "A Loja de Armas"
+
+# mes "can be found in the";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "can be found in the"
+msgstr "pode ser encontrado no"
+
+# mes "northwest corner of";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "northwest corner of"
+msgstr "canto noroeste de"
+
+# mes "the city of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "the city of Payon."
+msgstr "a cidade de Payon."
+
+# mes "The Tool Shop";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "The Tool Shop"
+msgstr "Loja de Utilidades"
+
+# mes "is located near";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "is located near"
+msgstr "está localizada perto de"
+
+# mes "the northwest";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "the northwest"
+msgstr "o noroeste"
+
+# mes "corner of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "corner of Payon."
+msgstr "canto de Payon."
+
+# mes "The Pub can be";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "The Pub can be"
+msgstr "O Pub pode ser"
+
+# mes "found in the northeast";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "found in the northeast"
+msgstr "encontrado no nordeste"
+
+# mes "part of Payon. It's the";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "part of Payon. It's the"
+msgstr "parte do Payon. É a parte de"
+
+# mes "best place to relax after";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "best place to relax after"
+msgstr "melhor lugar para relaxar depois"
+
+# mes "a long day of hunting.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "a long day of hunting."
+msgstr "um longo dia de caça."
+
+# mes "The Central Palace";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "The Central Palace"
+msgstr "O Palácio Central"
+
+# mes "is located to the north";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "is located to the north"
+msgstr "está localizada ao norte"
+
+# mes "within the city of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "within the city of Payon."
+msgstr "dentro da cidade de Payon."
+
+# mes "can be found to the";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "can be found to the"
+msgstr "pode ser encontrado para o"
+
+# mes "northwest in Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "northwest in Payon."
+msgstr "noroeste em Payon."
+
+# mes "The Palace Annex";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "The Palace Annex"
+msgstr "O Anexo do Palácio"
+
+# mes "western part of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "western part of Payon."
+msgstr "parte ocidental de Payon."
+
+# mes "The Royal Kitchen";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "The Royal Kitchen"
+msgstr "A Cozinha Real"
+
+# mes "is located near the";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "is located near the"
+msgstr "está localizada perto do"
+
+# mes "northern end of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "northern end of Payon."
+msgstr "extremo norte de Payon."
+
+# mes "The Forge is";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "The Forge is"
+msgstr "A Forja é"
+
+# mes "situated near";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "situated near"
+msgstr "situado perto de"
+
+# mes "the center of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "the center of Payon."
+msgstr "o centro de Payon."
+
+# mes "Please ask me to ''Remove";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Please ask me to ''Remove"
+msgstr "Por favor, me peça para ''Remover"
+
+# mes "Marks from Mini-Map'' if you";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Marks from Mini-Map'' if you"
+msgstr "Marcas do Mini-Mapa'' se você"
+
+# mes "no longer wish to have the";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "no longer wish to have the"
+msgstr "não deseja mais ter o"
+
+# mes "location marks displayed";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "location marks displayed"
+msgstr "marcas de localização exibidas"
+
+# mes "on your Mini-Map.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "on your Mini-Map."
+msgstr "em seu Mini-Mapa."
+
+# mes "Advances in sorcery and";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Advances in sorcery and"
+msgstr "Avanços na feitiçaria e"
+
+# mes "technology have allowed";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "technology have allowed"
+msgstr "a tecnologia tem permitido"
+
+# mes "us to update our information";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "us to update our information"
+msgstr "para atualizar nossas informações"
+
+# mes "system, enabling up to mark";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "system, enabling up to mark"
+msgstr "sistema, permitindo a marcação"
+
+# mes "locations on your Mini-Map";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "locations on your Mini-Map"
+msgstr "locais em seu Mini-Mapa"
+
+# mes "for easier navigation.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "for easier navigation."
+msgstr "para facilitar a navegação."
+
+# mes "Your Mini-Map is located";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "Your Mini-Map is located"
+msgstr "Seu Mini-Map está localizado"
+
+# mes "in the upper right corner";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "in the upper right corner"
+msgstr "no canto superior direito"
+
+# mes "of the screen. If you can't";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "of the screen. If you can't"
+msgstr "da tela. Se você não puder"
+
+# mes "see it, press the Ctrl + Tab";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "see it, press the Ctrl + Tab"
+msgstr "ver, pressione a tecla Ctrl + Tab"
+
+# mes "keys or click the ''Map'' button in your Basic Info Window.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "keys or click the ''Map'' button in your Basic Info Window."
+msgstr "ou clique no botão ''Mapa'' em sua Janela de Informações Básicas."
+
+# mes "On your Mini-Map,";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "On your Mini-Map,"
+msgstr "Em seu Mini-Mapa,"
+
+# mes "click on the ''+'' and ''-''";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "click on the ''+'' and ''-''"
+msgstr "clique em ''+'' e ''-''"
+
+# mes "symbols to zoom in and";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "symbols to zoom in and"
+msgstr "símbolos para ampliar e"
+
+# mes "our of your Mini-Map. We";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "our of your Mini-Map. We"
+msgstr "nosso de seu Mini-Mapa. Nós"
+
+# mes "hope you enjoy your travels";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "hope you enjoy your travels"
+msgstr "espero que você aproveite suas viagens"
+
+# mes "here in the city of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "here in the city of Payon."
+msgstr "aqui na cidade de Payon."
+
+# mes "Be safe in";
+#: npc/pre-re/guides/guides_payon.txt
+msgctxt "Guide#pay"
+msgid "Be safe in"
+msgstr "Esteja seguro em"
+
+# mes "your travels,";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "your travels,"
+msgstr "suas viagens,"
+
+# mes "brave adventurer.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#pay"
+msgid "brave adventurer."
+msgstr "aventureiro corajoso."
+
+# mes "[Payon Guide]";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "[Payon Guide]"
+msgstr "[Guia Payon]"
+
+# mes "Welcome to the";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Welcome to the"
+msgstr "Bem-vindo(a) a"
+
+# mes "mountain city of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "mountain city of Payon."
+msgstr "cidade montanhosa de Payon."
+
+# mes "If you're unfamiliar with this";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "If you're unfamiliar with this"
+msgstr "Se você não está familiarizado com isto"
+
+# mes "area, I can help you find what";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "area, I can help you find what"
+msgstr "posso ajudá-lo a encontrar o que"
+
+# mes "you're looking for around here.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "you're looking for around here."
+msgstr "que você está procurando por aqui."
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "City Guide"
+msgstr "Guia da cidade"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Remove Marks from Mini-Map"
+msgstr "Remover as marcas do Mini-Map"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Notice"
+msgstr "Aviso"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Please, select a menu.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Please, select a menu."
+msgstr "Por favor, selecione um menu."
+
+# mes "Would you like to leave indicators on the mini-map?";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Would you like to leave indicators on the mini-map?"
+msgstr "Você gostaria de deixar indicadores no mini-mapa?"
+
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Yes."
+msgstr "Sim."
+
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "No."
+msgstr "Nº."
+
+# switch(select("^FF0000Archer Guild^000000", "Tool Shop", "Payon Dungeon", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "^FF0000Archer Guild^000000"
+msgstr "^FF0000Archer Guild^000000"
+
+# switch(select("^FF0000Archer Guild^000000", "Tool Shop", "Payon Dungeon", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("^FF0000Archer Guild^000000", "Tool Shop", "Payon Dungeon", "Cancel")) {
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Payon Dungeon"
+msgstr "Caverna de Payon"
+
+# mes "The Archer Guild,";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "The Archer Guild,"
+msgstr "O Grémio Archer,"
+
+# mes "found northeast in";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "found northeast in"
+msgstr "encontrado no nordeste em"
+
+# mes "the Archer Village,";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "the Archer Village,"
+msgstr "a Vila Archer,"
+
+# mes "handles Job Changes";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "handles Job Changes"
+msgstr "lida com mudanças de trabalho"
+
+# mes "to the Archer Class.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "to the Archer Class."
+msgstr "para a classe Archer."
+
+# mes "You can find";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "You can find"
+msgstr "Você pode encontrar"
+
+# mes "a Tool Shop in";
+#: npc/pre-re/guides/guides_payon.txt
+msgctxt "Guide#2pay"
+msgid "a Tool Shop in"
+msgstr "uma loja de ferramentas"
+
+# mes "the northeast corner";
+#: npc/pre-re/guides/guides_payon.txt
+msgctxt "Guide#2pay"
+msgid "the northeast corner"
+msgstr "no canto nordeste"
+
+# mes "of the Archer Village.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "of the Archer Village."
+msgstr "da Vila Archer."
+
+# mes "The entrance to";
+#: npc/pre-re/guides/guides_payon.txt
+msgctxt "Guide#2pay"
+msgid "The entrance to"
+msgstr "A entrada para"
+
+# mes "the Payon Dungeon";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "the Payon Dungeon"
+msgstr "a Masmorra Payon"
+
+# mes "is located at the west";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "is located at the west"
+msgstr "está localizada no oeste"
+
+# mes "end of the village.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "end of the village."
+msgstr "fim da aldeia."
+
+# mes "If you'd like to erase the marks on the mini-map, select menu, 'Wipe all indicators on the mini-map'.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid ""
+"If you'd like to erase the marks on the mini-map, select menu, 'Wipe all "
+"indicators on the mini-map'."
+msgstr ""
+"Se você quiser apagar as marcas no mini-mapa, selecione o menu, 'Limpar "
+"todos os indicadores no mini-mapa'."
+
+# mes "Advances in sorcery and";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Advances in sorcery and"
+msgstr "Avanços na feitiçaria e"
+
+# mes "technology have allowed";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "technology have allowed"
+msgstr "a tecnologia tem permitido"
+
+# mes "us to update our information";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "us to update our information"
+msgstr "para atualizar nossas informações"
+
+# mes "system, enabling up to mark";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "system, enabling up to mark"
+msgstr "sistema, permitindo a marcação"
+
+# mes "locations on your Mini-Map";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "locations on your Mini-Map"
+msgstr "locais em seu Mini-Mapa"
+
+# mes "for easier navigation.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "for easier navigation."
+msgstr "para facilitar a navegação."
+
+# mes "Your Mini-Map is located";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "Your Mini-Map is located"
+msgstr "Seu Mini-Map está localizado"
+
+# mes "in the upper right corner";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "in the upper right corner"
+msgstr "no canto superior direito"
+
+# mes "of the screen. If you can't";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "of the screen. If you can't"
+msgstr "da tela. Se você não puder"
+
+# mes "see it, press the Ctrl + Tab";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "see it, press the Ctrl + Tab"
+msgstr "ver, pressione a tecla Ctrl + Tab"
+
+# mes "keys or click the ''Map'' button in your Basic Info Window.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "keys or click the ''Map'' button in your Basic Info Window."
+msgstr "ou clique no botão ''Mapa'' em sua Janela de Informações Básicas."
+
+# mes "On your Mini-Map,";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "On your Mini-Map,"
+msgstr "Em seu Mini-Mapa,"
+
+# mes "click on the ''+'' and ''-''";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "click on the ''+'' and ''-''"
+msgstr "clique em ''+'' e ''-''"
+
+# mes "symbols to zoom in and";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "symbols to zoom in and"
+msgstr "símbolos para ampliar e"
+
+# mes "our of your Mini-Map. We";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "our of your Mini-Map. We"
+msgstr "nosso de seu Mini-Mapa. Nós"
+
+# mes "hope you enjoy your travels";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "hope you enjoy your travels"
+msgstr "espero que você aproveite suas viagens"
+
+# mes "here in the city of Payon.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "here in the city of Payon."
+msgstr "aqui na cidade de Payon."
+
+# mes "Be safe in";
+#: npc/pre-re/guides/guides_payon.txt
+msgctxt "Guide#2pay"
+msgid "Be safe in"
+msgstr "Boa sorte em"
+
+# mes "your travels,";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "your travels,"
+msgstr "suas viagens,"
+
+# mes "brave adventurer.";
+#: npc/pre-re/guides/guides_payon.txt
+#, fuzzy
+msgctxt "Guide#2pay"
+msgid "brave adventurer."
+msgstr "aventureiro corajoso."

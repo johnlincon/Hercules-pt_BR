@@ -1,0 +1,750 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 15:12-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live."
+"com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Prontera Guide]";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "[Prontera Guide]"
+msgstr "[Guia Prontera]"
+
+# mes "Welcome to Prontera,";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Welcome to Prontera,"
+msgstr "Bem-vindo à Prontera,"
+
+# mes "the beautiful capital of the";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "the beautiful capital of the"
+msgstr "a bela capital da"
+
+# mes "Rune-Midgarts Kingdom. If";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Rune-Midgarts Kingdom. If"
+msgstr "Reino Rune-Midgarts. Se"
+
+# mes "you have questions or need help finding something in the city, don't hesitate to ask.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid ""
+"you have questions or need help finding something in the city, don't "
+"hesitate to ask."
+msgstr ""
+"você tem dúvidas ou precisa de ajuda para encontrar algo na cidade, "
+"não hesite em perguntar."
+
+# switch(select("City Guide.", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "City Guide."
+msgstr "Guia da cidade."
+
+# switch(select("City Guide.", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Remove Marks from Mini-Map"
+msgstr "Remover as marcas do Mini-Map"
+
+# switch(select("City Guide.", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Notice"
+msgstr "Aviso"
+
+# switch(select("City Guide.", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Please select";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Please select"
+msgstr "Por favor selecione"
+
+# mes "a location from";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "a location from"
+msgstr "um local de"
+
+# mes "the following menu.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "the following menu."
+msgstr "o seguinte menu."
+
+# mes "Would you like me";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Would you like me"
+msgstr "Você gostaria que eu"
+
+# mes "to mark locations";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "to mark locations"
+msgstr "para marcar locais"
+
+# mes "on your Mini-Map?";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "on your Mini-Map?"
+msgstr "em seu Mini-Map?"
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "No"
+msgstr "Não"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Swordman Association"
+msgstr "Associação Swordman"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "^0000FFSanctuary^000000"
+msgstr "^0000FFSanctuary^000000"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Prontera Chivalry"
+msgstr "Cavalaria Prontera"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Inn"
+msgstr "Pousada"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Trading Post"
+msgstr "Posto de comércio"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Pub"
+msgstr "Pub"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Library"
+msgstr "Biblioteca"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Job Agency"
+msgstr "Agência de empregos"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Prontera Castle"
+msgstr "Castelo de Prontera"
+
+# switch(select("Swordman Association", "^0000FFSanctuary^000000", "Prontera Chivalry", "Weapon Shop", "Tool Shop", "Inn", "Trading Post", "Pub", "Library", "Job Agency", "Prontera Castle", "City Hall", "Cancel")) {
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "City Hall"
+msgstr "Prefeitura"
+
+# mes "The Swordman Association,";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The Swordman Association,"
+msgstr "A Associação Swordman,"
+
+# mes "which handles Job Changes";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "which handles Job Changes"
+msgstr "que lida com mudanças de trabalho"
+
+# mes "to the Swordman class, has";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "to the Swordman class, has"
+msgstr "para a classe Swordman, tem"
+
+# mes "moved to Izlude. This facility";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "moved to Izlude. This facility"
+msgstr "mudou-se para Izlude. Esta instalação"
+
+# mes "is just an empty building now.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "is just an empty building now."
+msgstr "é apenas um edifício vazio agora."
+
+# mes "The Prontera Sanctuary";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The Prontera Sanctuary"
+msgstr "O Santuário de Prontera"
+
+# mes "handles Job Changes to";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "handles Job Changes to"
+msgstr "lida com mudanças de trabalho para"
+
+# mes "the Acolyte class, and can";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "the Acolyte class, and can"
+msgstr "a classe Acolyte, e pode"
+
+# mes "be found in the northeast";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "be found in the northeast"
+msgstr "ser encontrado no nordeste"
+
+# mes "corner of Prontera.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "corner of Prontera."
+msgstr "canto de Prontera."
+
+# mes "The Prontera Chivralry,";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The Prontera Chivralry,"
+msgstr "A Prontera Chivralry,"
+
+# mes "which is responsible for";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "which is responsible for"
+msgstr "que é responsável por"
+
+# mes "the safety of our capital, is";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "the safety of our capital, is"
+msgstr "a segurança de nosso capital, é"
+
+# mes "in Prontera's northwest corner.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "in Prontera's northwest corner."
+msgstr "no canto noroeste de Prontera."
+
+# mes "The Weapon Shop";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The Weapon Shop"
+msgstr "A Loja de Armas"
+
+# mes "is located northeast";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "is located northeast"
+msgstr "está localizada no nordeste"
+
+# mes "of the central fountain.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "of the central fountain."
+msgstr "da fonte central."
+
+# mes "The Tool Shop";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The Tool Shop"
+msgstr "Loja de Utilidades"
+
+# mes "is located northwest";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "is located northwest"
+msgstr "está localizada a noroeste"
+
+# mes "The Inns in Prontera are";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The Inns in Prontera are"
+msgstr "As pousadas em Prontera são"
+
+# mes "located both to the east";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "located both to the east"
+msgstr "localizado tanto ao leste"
+
+# mes "and west of Prontera's";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "and west of Prontera's"
+msgstr "e a oeste de Prontera's"
+
+# mes "central fountain area.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "central fountain area."
+msgstr "área central da fonte."
+
+# mes "The Trading Post";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The Trading Post"
+msgstr "O Posto de Comércio"
+
+# mes "can be found southeast";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "can be found southeast"
+msgstr "pode ser encontrado no sudeste"
+
+# mes "from the central fountain.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "from the central fountain."
+msgstr "da fonte central."
+
+# mes "The Pub is located";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The Pub is located"
+msgstr "O Pub está localizado"
+
+# mes "southeast of the fountain,";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "southeast of the fountain,"
+msgstr "sudeste da fonte,"
+
+# mes "behind the Trading Post.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "behind the Trading Post."
+msgstr "por trás do Posto de Comércio."
+
+# mes "If you head north from";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "If you head north from"
+msgstr "Se você for para o norte de"
+
+# mes "the central fountain, you'll";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "the central fountain, you'll"
+msgstr "a fonte central, você vai"
+
+# mes "find an empty area in which";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "find an empty area in which"
+msgstr "encontrar uma área vazia na qual"
+
+# mes "both branches of the Prontera";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "both branches of the Prontera"
+msgstr "ambos os ramos do Prontera"
+
+# mes "Library can be accessed if you";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Library can be accessed if you"
+msgstr "A biblioteca pode ser acessada se você"
+
+# mes "head towards the east or west.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "head towards the east or west."
+msgstr "dirigir-se para o leste ou oeste."
+
+# mes "The Job Agency is";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The Job Agency is"
+msgstr "A Agência de Emprego é"
+
+# mes "just southwest of the";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "just southwest of the"
+msgstr "a sudoeste do"
+
+# mes "The Prontera Castle is";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The Prontera Castle is"
+msgstr "O Castelo de Prontera é"
+
+# mes "located at the northern";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "located at the northern"
+msgstr "localizado no norte"
+
+# mes "sector of this city. You can";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "sector of this city. You can"
+msgstr "setor desta cidade. Você pode"
+
+# mes "go to the fields that are north";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "go to the fields that are north"
+msgstr "ir para os campos que estão ao norte"
+
+# mes "of Prontera by going through";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "of Prontera by going through"
+msgstr "de Prontera, passando por"
+
+# mes "the castle's rear exit.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "the castle's rear exit."
+msgstr "a saída traseira do castelo."
+
+# mes "The City Hall";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "The City Hall"
+msgstr "A Prefeitura"
+
+# mes "is located in the";
+#: npc/pre-re/guides/guides_prontera.txt
+msgctxt "Guide#prt::PrtGuide"
+msgid "is located in the"
+msgstr "está localizado no"
+
+# mes "southwest corner";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "southwest corner"
+msgstr "canto sudoeste"
+
+# mes "in our city of Prontera.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "in our city of Prontera."
+msgstr "em nossa cidade de Prontera."
+
+# mes "Please ask me to ''Remove";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Please ask me to ''Remove"
+msgstr "Por favor, me peça para ''Remover"
+
+# mes "Marks from Mini-Map'' if you";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Marks from Mini-Map'' if you"
+msgstr "Marcas do Mini-Mapa'' se você"
+
+# mes "no longer wish to have the";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "no longer wish to have the"
+msgstr "não deseja mais ter o"
+
+# mes "location marks displayed";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "location marks displayed"
+msgstr "marcas de localização exibidas"
+
+# mes "on your Mini-Map.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "on your Mini-Map."
+msgstr "em seu Mini-Mapa."
+
+# mes "Advances in sorcery and";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Advances in sorcery and"
+msgstr "Avanços na feitiçaria e"
+
+# mes "technology have allowed";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "technology have allowed"
+msgstr "a tecnologia tem permitido"
+
+# mes "us to update our information";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "us to update our information"
+msgstr "para atualizar nossas informações"
+
+# mes "system, enabling up to mark";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "system, enabling up to mark"
+msgstr "sistema, permitindo a marcação"
+
+# mes "locations on your Mini-Map";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "locations on your Mini-Map"
+msgstr "locais em seu Mini-Mapa"
+
+# mes "for easier navigation.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "for easier navigation."
+msgstr "para facilitar a navegação."
+
+# mes "Your Mini-Map is located";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Your Mini-Map is located"
+msgstr "Seu Mini-Map está localizado"
+
+# mes "in the upper right corner";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "in the upper right corner"
+msgstr "no canto superior direito"
+
+# mes "of the screen. If you can't";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "of the screen. If you can't"
+msgstr "da tela. Se você não puder"
+
+# mes "see it, press the Ctrl + Tab";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "see it, press the Ctrl + Tab"
+msgstr "ver, pressione a tecla Ctrl + Tab"
+
+# mes "keys or click the ''Map'' button in your Basic Info Window.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "keys or click the ''Map'' button in your Basic Info Window."
+msgstr ""
+"ou clique no botão ''Mapa'' em sua Janela de Informações Básicas."
+
+# mes "On your Mini-Map,";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "On your Mini-Map,"
+msgstr "Em seu Mini-Mapa,"
+
+# mes "click on the ''+'' and ''-''";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "click on the ''+'' and ''-''"
+msgstr "clique em ''+'' e ''-''"
+
+# mes "symbols to zoom in and";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "symbols to zoom in and"
+msgstr "símbolos para ampliar e"
+
+# mes "our of your Mini-Map. We";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "our of your Mini-Map. We"
+msgstr "nosso de seu Mini-Mapa. Nós"
+
+# mes "hope you enjoy your travels";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "hope you enjoy your travels"
+msgstr "espero que você aproveite suas viagens"
+
+# mes "here in the city of Prontera.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "here in the city of Prontera."
+msgstr "aqui na cidade de Prontera."
+
+# mes "Well, adventurer...";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "Well, adventurer..."
+msgstr "Bem, aventureiro..."
+
+# mes "I hope your journeys";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "I hope your journeys"
+msgstr "Espero que suas viagens"
+
+# mes "through Rune-Midgard";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "through Rune-Midgard"
+msgstr "através de Rune-Midgard"
+
+# mes "are both fun and safe.";
+#: npc/pre-re/guides/guides_prontera.txt
+#, fuzzy
+msgctxt "Guide#prt::PrtGuide"
+msgid "are both fun and safe."
+msgstr "são ao mesmo tempo divertidos e seguros."

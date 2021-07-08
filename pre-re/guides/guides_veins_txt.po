@@ -1,0 +1,387 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 15:15-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Veins Guide]";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "[Veins Guide]"
+msgstr "[Guia Veios]"
+
+# mes "Desert City Veins welcomes adventurers seeking shelter from harsh sandstorms.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid ""
+"Desert City Veins welcomes adventurers seeking shelter from harsh sandstorms."
+msgstr ""
+"As veias do Desert City dão as boas-vindas aos aventureiros que procuram "
+"abrigo contra duras tempestades de areia."
+
+# mes "If this is the first time for you to use the guide services, why don't you check the...";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid ""
+"If this is the first time for you to use the guide services, why don't you "
+"check the..."
+msgstr ""
+"Se esta é a primeira vez que você utiliza os serviços de guia, por que você "
+"não verifica os..."
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Village Guide"
+msgstr "Guia da vila"
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Remove Marks from Mini-Map"
+msgstr "Remover as marcas do Mini-Map"
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Notice"
+msgstr "Aviso"
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "I can tell you any building location as long as it is in Veins.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "I can tell you any building location as long as it is in Veins."
+msgstr ""
+"Posso dizer-lhe qualquer localização de edifício, desde que seja em Veins."
+
+# mes "So where do you want to go?";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "So where do you want to go?"
+msgstr "Então, para onde você quer ir?"
+
+# mes "Would you like me";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Would you like me"
+msgstr "Você gostaria que eu"
+
+# mes "to mark locations";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "to mark locations"
+msgstr "para marcar locais"
+
+# mes "on your Mini-Map?";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "on your Mini-Map?"
+msgstr "em seu Mini-Map?"
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "No"
+msgstr "Não"
+
+# switch(select("Temple", "Inn", "Weapon Shop", "Tool Shop", "Airship", "Tavern", "Geological Research Institute", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Temple"
+msgstr "Templo"
+
+# switch(select("Temple", "Inn", "Weapon Shop", "Tool Shop", "Airship", "Tavern", "Geological Research Institute", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Inn"
+msgstr "Pousada"
+
+# switch(select("Temple", "Inn", "Weapon Shop", "Tool Shop", "Airship", "Tavern", "Geological Research Institute", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("Temple", "Inn", "Weapon Shop", "Tool Shop", "Airship", "Tavern", "Geological Research Institute", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("Temple", "Inn", "Weapon Shop", "Tool Shop", "Airship", "Tavern", "Geological Research Institute", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Airship"
+msgstr "Aeronave"
+
+# switch(select("Temple", "Inn", "Weapon Shop", "Tool Shop", "Airship", "Tavern", "Geological Research Institute", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Tavern"
+msgstr "Taberna"
+
+# switch(select("Temple", "Inn", "Weapon Shop", "Tool Shop", "Airship", "Tavern", "Geological Research Institute", "Cancel")) {
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Geological Research Institute"
+msgstr "Instituto de Pesquisa Geológica"
+
+# mes "Our temple is located north,";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Our temple is located north,"
+msgstr "Nosso templo está localizado ao norte,"
+
+# mes "and always crowded with sincere followers of Goddess Freya.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "and always crowded with sincere followers of Goddess Freya."
+msgstr "e sempre lotado de seguidores sinceros da Deusa Freya."
+
+# mes "You can rest your fatigue of the journey in the Inn.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "You can rest your fatigue of the journey in the Inn."
+msgstr "Você pode descansar seu cansaço da viagem na pousada."
+
+# mes "The left building next to me is the Inn of Veins.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "The left building next to me is the Inn of Veins."
+msgstr "O prédio à esquerda ao meu lado é o Inn of Veins."
+
+# mes "Yes, you should protect yourself from danger on your own.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Yes, you should protect yourself from danger on your own."
+msgstr "Sim, você deve se proteger do perigo por conta própria."
+
+# mes "Purchase high quality weapons at affordable prices.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Purchase high quality weapons at affordable prices."
+msgstr "Adquira armas de alta qualidade a preços acessíveis."
+
+# mes "The Veins Weapon Shop is located to the West.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "The Veins Weapon Shop is located to the West."
+msgstr "A loja de armas de veias está localizada a oeste."
+
+# mes "Have you packed enough necessities for your adventure?";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Have you packed enough necessities for your adventure?"
+msgstr "Você já embalou o suficiente para sua aventura?"
+
+# mes "If not, I suggest you check what the Veins in the Center can offer you.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "If not, I suggest you check what the Veins in the Center can offer you."
+msgstr ""
+"Caso contrário, sugiro que você verifique o que as veias do Centro podem lhe "
+"oferecer."
+
+# mes "Please be aware that Veins only operates cargo airships.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Please be aware that Veins only operates cargo airships."
+msgstr "Por favor, esteja ciente de que a Veins opera somente navios de carga."
+
+# mes "If you'd like to make friends with";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "If you'd like to make friends with"
+msgstr "Se você gostaria de fazer amizade com"
+
+# mes "the townspeople, I suggest you";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "the townspeople, I suggest you"
+msgstr "o povo da cidade, sugiro a vocês"
+
+# mes "go have a drink at the tavern to";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "go have a drink at the tavern to"
+msgstr "ir tomar uma bebida na taverna para"
+
+# mes "the west.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "the west."
+msgstr "o oeste."
+
+# mes "Are you interested in studying geology?";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Are you interested in studying geology?"
+msgstr "Você está interessado em estudar geologia?"
+
+# mes "Then you'd better go check out the";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Then you'd better go check out the"
+msgstr "Então é melhor você ir verificar o"
+
+# mes "Geological Research Institute on";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Geological Research Institute on"
+msgstr "Instituto de Pesquisa Geológica sobre"
+
+# mes "the 2nd floor of the weapon shop.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "the 2nd floor of the weapon shop."
+msgstr "o 2º andar da loja de armas."
+
+# mes "If you like to get rid of all the location marks on your Mini-Map,";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "If you like to get rid of all the location marks on your Mini-Map,"
+msgstr ""
+"Se você gosta de se livrar de todas as marcas de localização em seu Mini-Map,"
+
+# mes "just ask me again, and choose 'Remove Marks from Mini-Map' menu.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "just ask me again, and choose 'Remove Marks from Mini-Map' menu."
+msgstr ""
+"basta me perguntar novamente e escolher 'Remover Marcas do Mini-Mapa' no "
+"menu."
+
+# mes "Okay, they are gone now. If you have more locations to ask, just let me know.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid ""
+"Okay, they are gone now. If you have more locations to ask, just let me know."
+msgstr ""
+"Pronto, eles já se foram. Se você tiver mais locais para perguntar, é só me "
+"avisar."
+
+# mes "Enjoy your stay in Veins.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "Enjoy your stay in Veins."
+msgstr "Aproveite sua estadia em Veins."
+
+# mes "When you are using the ''Village Guide'' menu,";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid "When you are using the ''Village Guide'' menu,"
+msgstr "Quando você estiver usando o menu ''Guia da Cidade'',"
+
+# mes "make sure that building locations will be marked on your mini-map at the upper right side of your screen.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid ""
+"make sure that building locations will be marked on your mini-map at the "
+"upper right side of your screen."
+msgstr ""
+"certifique-se de que os locais de construção serão marcados em seu mini-mapa "
+"no lado superior direito de sua tela."
+
+# mes "If you cannot see your mini-map, use the short cut key ''ctrl+tab'' or press the ''Map'' button on your basic information windows, okay?";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid ""
+"If you cannot see your mini-map, use the short cut key ''ctrl+tab'' or press "
+"the ''Map'' button on your basic information windows, okay?"
+msgstr ""
+"Se você não conseguir ver seu mini-mapa, use a tecla de atalho \"ctrl+tab\" "
+"ou pressione o botão \"Mapa\" em suas janelas de informações básicas, ok?"
+
+# mes "And you can also zoom out your mini-map by using the ''-'' button in case you cannot view the entire map of the village.";
+#: npc/pre-re/guides/guides_veins.txt
+#, fuzzy
+msgctxt "Veins Guide#1::ve_guide"
+msgid ""
+"And you can also zoom out your mini-map by using the ''-'' button in case "
+"you cannot view the entire map of the village."
+msgstr ""
+"E você também pode ampliar seu mini-mapa usando o botão ''-'' caso não "
+"consiga visualizar o mapa inteiro da aldeia."

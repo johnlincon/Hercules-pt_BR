@@ -1,0 +1,1112 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-07-08 13:51-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Mercenary Manager]";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "[Mercenary Manager]"
+msgstr "[Gerente Mercenary]"
+
+# mes "Welcome to the";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Welcome to the"
+msgstr "Bem-vindo(a) a"
+
+# mes .@npc$ + " Mercenary Guild.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid " Mercenary Guild."
+msgstr " Mercenary Guild."
+
+# mes "What can I do for you?";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "What can I do for you?"
+msgstr "O que posso fazer por você?"
+
+# switch(select("Hire Mercenary", "Mercenary Info", "Nothing", "10th Grade Mercenaries")) {
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Hire Mercenary"
+msgstr "Contratar Mercenary"
+
+# switch(select("Hire Mercenary", "Mercenary Info", "Nothing", "10th Grade Mercenaries")) {
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Mercenary Info"
+msgstr "Informações sobre Mercenários"
+
+# switch(select("Hire Mercenary", "Mercenary Info", "Nothing", "10th Grade Mercenaries")) {
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Nothing"
+msgstr "Nada"
+
+# switch(select("Hire Mercenary", "Mercenary Info", "Nothing", "10th Grade Mercenaries")) {
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "10th Grade Mercenaries"
+msgstr "Mercenários do 10º Grau"
+
+# mes "You want to hire a";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "You want to hire a"
+msgstr "Você quer contratar um"
+
+# mes .@npc$ + " Mercenary?";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid " Mercenary?"
+msgstr " Mercenários?"
+
+# mes "Which Grade were you";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Which Grade were you"
+msgstr "Qual a sua classificação"
+
+# mes "interested in hiring?";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "interested in hiring?"
+msgstr "interessado em contratar?"
+
+# mes "So you want to hire a " + .@Grade + .@suffix$[((.@Grade <= 3)? .@i : 0)];
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Manager#main"
+msgid "So you want to hire a "
+msgstr "Então você quer contratar um "
+
+# mes "Grade " + .@npc$ + " Mercenary?";
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Manager#main"
+msgid "Grade "
+msgstr "Grau "
+
+# mes "You need to have attained";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "You need to have attained"
+msgstr "Você precisa ter atingido"
+
+# mes "Base Level " + .@BaseLevel + " or higher, and";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Base Level "
+msgstr "Subiu de nível base "
+
+# mes "Base Level " + .@BaseLevel + " or higher, and";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid " or higher, and"
+msgstr " ou superior, e"
+
+# mes "must pay the " + .@ZenyCost + ",000 zeny fee.";
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Manager#main"
+msgid "must pay the "
+msgstr "deve pagar o "
+
+# mes "must pay the " + .@ZenyCost + ",000 zeny fee.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid ",000 zeny fee."
+msgstr "000 taxa zeny."
+
+# if(select("Yes", "No") == 2) {
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Yes"
+msgstr "Sim"
+
+# if(select("Yes", "No") == 2) {
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "No"
+msgstr "Não"
+
+# mes "Oh, really? Well, now";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Oh, really? Well, now"
+msgstr "Ah, realmente? Bem, agora"
+
+# mes "might not be a good time";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "might not be a good time"
+msgstr "pode não ser um bom momento"
+
+# mes "for you to consider hiring";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "for you to consider hiring"
+msgstr "para você considerar a possibilidade de contratar"
+
+# mes "a Mercenary, but please feel";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "a Mercenary, but please feel"
+msgstr "um Mercenário, mas, por favor, sinta"
+
+# mes "free to come back if your";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "free to come back if your"
+msgstr "livre para voltar se seu"
+
+# mes "needs change. Thank you~";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "needs change. Thank you~"
+msgstr "precisa mudar. Obrigado~"
+
+# mes "Oh... Your Loyalty rating";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Oh... Your Loyalty rating"
+msgstr "Oh... Sua taxa de lealdade"
+
+# mes "with the " + .@npc$ + " Mercenary";
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Manager#main"
+msgid "with the "
+msgstr "com o "
+
+# mes "with the " + .@npc$ + " Mercenary";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid " Mercenary"
+msgstr " Mercenários"
+
+# mes "Guild isn't high enough to";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Guild isn't high enough to"
+msgstr "O grêmio não é alto o suficiente para"
+
+# mes "hire this Mercenary. Please";
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Manager#main"
+msgid "hire this Mercenary. Please"
+msgstr "contratar esta Mercenária. Por favor"
+
+# mes "come back after you earn";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "come back after you earn"
+msgstr "voltar depois que você ganhar"
+
+# mes "" + .@FaithCost + " or more Loyalty with us.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid " or more Loyalty with us."
+msgstr " ou mais Lealdade para conosco."
+
+# mes "I'm sorry, but your Base";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "I'm sorry, but your Base"
+msgstr "Sinto muito, mas sua Base"
+
+# mes "Level isn't high enough";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Level isn't high enough"
+msgstr "O nível não é alto o suficiente"
+
+# mes "to hire this Mercenary.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "to hire this Mercenary."
+msgstr "para contratar esta Mercenária."
+
+# mes "Please come back to me";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Please come back to me"
+msgstr "Por favor, volte para mim"
+
+# mes "once you reach Base Level " + .@BaseLevel + ".";
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Manager#main"
+msgid "once you reach Base Level "
+msgstr "uma vez alcançado o Nível Base "
+
+# mes "once you reach Base Level " + .@BaseLevel + ".";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "."
+msgstr "."
+
+# mes "I'm sorry, but you";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "I'm sorry, but you"
+msgstr "Sinto muito, mas você"
+
+# mes "don't have enough zeny";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "don't have enough zeny"
+msgstr "não têm zeny suficiente"
+
+# mes "The hiring fee is " + .@ZenyCost + ",000 zeny.";
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Manager#main"
+msgid "The hiring fee is "
+msgstr "A taxa de contratação é "
+
+# mes "The hiring fee is " + .@ZenyCost + ",000 zeny.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid ",000 zeny."
+msgstr "000 zeny."
+
+# mes "Great! Our Mercenaries";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Great! Our Mercenaries"
+msgstr "Ótimo! Nossos Mercenários"
+
+# mes "are sincere and devoted";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "are sincere and devoted"
+msgstr "são sinceros e dedicados"
+
+# mes "to protecting their clients.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "to protecting their clients."
+msgstr "para proteger seus clientes."
+
+# mes "Summoned Mercenaries will";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Summoned Mercenaries will"
+msgstr "Os Mercenários convocados"
+
+# mes "offer their support to you for";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "offer their support to you for"
+msgstr "oferecer seu apoio a você para"
+
+# mes "30 minutes. Take care now.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "30 minutes. Take care now."
+msgstr "30 minutos. Tome cuidado agora."
+
+# mes "Mercenaries are soldiers";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Mercenaries are soldiers"
+msgstr "Os mercenários são soldados"
+
+# mes "that will fight at your side";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "that will fight at your side"
+msgstr "que lutará a seu lado"
+
+# mes "on the battlefield, but there";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "on the battlefield, but there"
+msgstr "no campo de batalha, mas lá"
+
+# mes "are a few terms and conditions";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "are a few terms and conditions"
+msgstr "são alguns termos e condições"
+
+# mes "you must fulfill to hire them.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "you must fulfill to hire them."
+msgstr "você deve cumprir para contratá-los."
+
+# mes "You must fulfill a level";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "You must fulfill a level"
+msgstr "Você deve cumprir um nível"
+
+# mes "requirement and pay a zeny";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "requirement and pay a zeny"
+msgstr "exigência e pagar um zeny"
+
+# mes "fee to hire a Mercenary.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "fee to hire a Mercenary."
+msgstr "taxa para contratar um Mercenário."
+
+# mes "Higher grade Mercenaries";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Higher grade Mercenaries"
+msgstr "Mercenários de grau superior"
+
+# mes "will also require that you";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "will also require that you"
+msgstr "também exigirá que você"
+
+# mes "build a Loyalty rating with us.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "build a Loyalty rating with us."
+msgstr "construir conosco uma classificação de lealdade."
+
+# mes "Mercenary contracts can't be";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Mercenary contracts can't be"
+msgstr "Os contratos mercenários não podem ser"
+
+# mes "transferred to other people,";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "transferred to other people,"
+msgstr "transferidos para outras pessoas,"
+
+# mes "and we only allow a 5 Base Level difference between the Mercenary";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "and we only allow a 5 Base Level difference between the Mercenary"
+msgstr "e permitimos apenas uma diferença de 5 níveis básicos entre os Mercenários"
+
+# mes "and client so you can't hire one much stronger than you.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "and client so you can't hire one much stronger than you."
+msgstr "e cliente para que você não possa contratar um muito mais forte do que você."
+
+# mes "Well, you can figure out the";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Well, you can figure out the"
+msgstr "Bem, você pode descobrir o"
+
+# mes "details when you actually form";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "details when you actually form"
+msgstr "detalhes quando você realmente formar"
+
+# mes "a contract with one of our";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "a contract with one of our"
+msgstr "um contrato com um de nossos"
+
+# mes "Mercenaries, and receive";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Mercenaries, and receive"
+msgstr "Mercenários, e receber"
+
+# mes "the Summon Scroll that will";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "the Summon Scroll that will"
+msgstr "o Pergaminho de Convocação que irá"
+
+# mes "call a Mercenary to your side.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "call a Mercenary to your side."
+msgstr "chame um Mercenário ao seu lado."
+
+# mes "You can't give this scroll";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "You can't give this scroll"
+msgstr "Você não pode dar este pergaminho"
+
+# mes "to anyone else, and the";
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Manager#main"
+msgid "to anyone else, and the"
+msgstr "a qualquer outra pessoa, e o"
+
+# mes "Mercenary will only remain";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Mercenary will only remain"
+msgstr "Mercenários só permanecerão"
+
+# mes "with you for 30 minutes after";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "with you for 30 minutes after"
+msgstr "com você por 30 minutos após"
+
+# mes "you summon him. Don't forget";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "you summon him. Don't forget"
+msgstr "você o convoca. Não se esqueça de que"
+
+# mes "about the time limit, okay?";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "about the time limit, okay?"
+msgstr "sobre o limite de tempo, certo?"
+
+# mes "No? You didn't need any";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "No? You didn't need any"
+msgstr "Não? Você não precisava de nenhum"
+
+# mes "help? Well, feel free to";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "help? Well, feel free to"
+msgstr "ajuda? Bem, sinta-se à vontade para"
+
+# mes "ask me if you have any";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "ask me if you have any"
+msgstr "me pergunte se você tem algum"
+
+# mes "questions about Mercenaries.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "questions about Mercenaries."
+msgstr "perguntas sobre Mercenários."
+
+# mes "10th Grade Mercenaries are";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "10th Grade Mercenaries are"
+msgstr "Os Mercenários de 10º Grau são"
+
+# mes "the best we have to offer,";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "the best we have to offer,"
+msgstr "o melhor que temos a oferecer,"
+
+# mes "and we use different criteria";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "and we use different criteria"
+msgstr "e usamos critérios diferentes"
+
+# mes "for our clients to hire them.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "for our clients to hire them."
+msgstr "para que nossos clientes os contratem."
+
+# mes "There's no zeny fee, but you";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "There's no zeny fee, but you"
+msgstr "Não há taxa zeny, mas você"
+
+# mes "must have 500 Loyalty.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "must have 500 Loyalty."
+msgstr "deve ter 500 Lealdade."
+
+# mes "Once you make a contract";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Once you make a contract"
+msgstr "Uma vez que você faça um contrato"
+
+# mes "with a 10th Grade Mercenary,";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "with a 10th Grade Mercenary,"
+msgstr "com um Mercenário de 10º Grau,"
+
+# mes "your Loyalty rating will be";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "your Loyalty rating will be"
+msgstr "sua taxa de lealdade será"
+
+# mes "decreased by 400. In other";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "decreased by 400. In other"
+msgstr "diminuiu em 400. Em outros"
+
+# mes "words, you pay 400 Loyalty";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "words, you pay 400 Loyalty"
+msgstr "palavras, você paga 400 Fidelidade"
+
+# mes "to hire a 10th Grade Mercenary.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "to hire a 10th Grade Mercenary."
+msgstr "para contratar um Mercenário de 10º Grau."
+
+# mes "You must also be at";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "You must also be at"
+msgstr "Você também deve estar em"
+
+# mes "Base Level 90 or higher to";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Base Level 90 or higher to"
+msgstr "Nível básico 90 ou superior para"
+
+# mes "hire a 10th Grade Mercenary.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "hire a 10th Grade Mercenary."
+msgstr "contratar um Mercenário de 10º Grau."
+
+# mes "Are you still interested in";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Are you still interested in"
+msgstr "Você ainda está interessado em"
+
+# mes "forming this contract?";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "forming this contract?"
+msgstr "formando este contrato?"
+
+# mes "I understand... It takes";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "I understand... It takes"
+msgstr "Eu entendo... É preciso"
+
+# mes "hard work and sacrifice to";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "hard work and sacrifice to"
+msgstr "trabalho duro e sacrifício para"
+
+# mes "even reach the point where";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "even reach the point where"
+msgstr "até chegar ao ponto em que"
+
+# mes "you can hire a 10th Grade";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "you can hire a 10th Grade"
+msgstr "você pode contratar um 10º Grau"
+
+# mes "Mercenary. Have you considered";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Mercenary. Have you considered"
+msgstr "Mercenários. Você já considerou"
+
+# mes "hiring a lower grade Mercenary?";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "hiring a lower grade Mercenary?"
+msgstr "contratando um Mercenário de grau inferior?"
+
+# mes "I'm sorry, but your";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "I'm sorry, but your"
+msgstr "Sinto muito, mas seu"
+
+# mes "Loyalty rating is too";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Loyalty rating is too"
+msgstr "A taxa de lealdade também é"
+
+# mes "low to hire a 10th Grade";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "low to hire a 10th Grade"
+msgstr "baixo para contratar uma 10ª série"
+
+# mes "Mercenary. You must have";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Mercenary. You must have"
+msgstr "Mercenários. Você deve ter"
+
+# mes "500 or more Loyalty to";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "500 or more Loyalty to"
+msgstr "500 ou mais Fidelidade a"
+
+# mes "form a contract with one.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "form a contract with one."
+msgstr "formar um contrato com um."
+
+# mes "I'm sorry, but you must";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "I'm sorry, but you must"
+msgstr "Sinto muito, mas você deve"
+
+# mes "be at Base Level 90 or";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "be at Base Level 90 or"
+msgstr "estar no Nível Base 90 ou"
+
+# mes "higher to form a contract";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "higher to form a contract"
+msgstr "mais alto para formar um contrato"
+
+# mes "with a 10th Grade Mercenary.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "with a 10th Grade Mercenary."
+msgstr "com um Mercenário de 10º Grau."
+
+# mes "Congratulations! It looks";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Congratulations! It looks"
+msgstr "Parabéns! Parece que"
+
+# mes "like you're planning in taking";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "like you're planning in taking"
+msgstr "como se você estivesse planejando tomar"
+
+# mes "on some very dangerous work";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "on some very dangerous work"
+msgstr "em alguns trabalhos muito perigosos"
+
+# mes "since you're hiring a 10th";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "since you're hiring a 10th"
+msgstr "já que você está contratando um 10o"
+
+# mes "Grade Mercenary. I wish you";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "Grade Mercenary. I wish you"
+msgstr "Grau Mercenário. Desejo-lhe"
+
+# mes "the best of luck with him.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Manager#main"
+msgid "the best of luck with him."
+msgstr "a melhor das sortes com ele."
+
+# mes "[Mercenary Goods Merchant]";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "[Mercenary Goods Merchant]"
+msgstr "[Mercadoria Mercenária]"
+
+# mes "Hello, I sell goods";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "Hello, I sell goods"
+msgstr "Olá, eu vendo mercadorias"
+
+# mes "that Mercenaries can";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "that Mercenaries can"
+msgstr "que os mercenários podem"
+
+# mes "use. Is there anything";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "use. Is there anything"
+msgstr "uso. Existe alguma coisa"
+
+# mes "in particular that";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "in particular that"
+msgstr "em particular que"
+
+# mes "you're looking for?";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "you're looking for?"
+msgstr "que você está procurando?"
+
+# mes "each cost " + .@str_cost$ + " zeny.";
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "each cost "
+msgstr "cada custo "
+
+# mes "each cost " + .@str_cost$ + " zeny.";
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid " zeny."
+msgstr " zeny."
+
+# mes "How many would you like?";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "How many would you like?"
+msgstr "Quantos você gostaria de ter?"
+
+# mes "You changed your mind?";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "You changed your mind?"
+msgstr "Você mudou de idéia?"
+
+# mes "Alright, feel free to come";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "Alright, feel free to come"
+msgstr "Muito bem, sinta-se à vontade para vir"
+
+# mes "back to me whenever you want";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "back to me whenever you want"
+msgstr "de volta para mim sempre que você quiser"
+
+# mes "to buy any Mercenary Potions.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "to buy any Mercenary Potions."
+msgstr "para comprar quaisquer Poções Mercenárias."
+
+# mes "I'm sorry, but you";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "I'm sorry, but you"
+msgstr "Sinto muito, mas você"
+
+# mes "can only buy up to";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "can only buy up to"
+msgstr "só pode comprar até"
+
+# mes "10,000 of these potions";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "10,000 of these potions"
+msgstr "10.000 destas poções"
+
+# mes "at a time. Please enter";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "at a time. Please enter"
+msgstr "de cada vez. Favor entrar"
+
+# mes "a number from 1 to 10,000.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "a number from 1 to 10,000."
+msgstr "um número de 1 a 10.000."
+
+# mes "I'm sorry, but you don't";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "I'm sorry, but you don't"
+msgstr "Sinto muito, mas você não"
+
+# mes "have enough zeny for this";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "have enough zeny for this"
+msgstr "tem zeny suficiente para"
+
+# mes "many potions. Well, I'll be";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "many potions. Well, I'll be"
+msgstr "muitas poções. Bem, eu vou ser"
+
+# mes "be here when you're ready";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "be here when you're ready"
+msgstr "estar aqui quando você estiver pronto"
+
+# mes "to purchase something";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "to purchase something"
+msgstr "para comprar algo"
+
+# mes "for your Mercenaries.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "for your Mercenaries."
+msgstr "para seus Mercenários."
+
+# mes "If I gave you that many";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "If I gave you that many"
+msgstr "Se eu lhe desse tantos"
+
+# mes "potions, you wouldn't be";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "potions, you wouldn't be"
+msgstr "poções, você não seria"
+
+# mes "able to carry them with you.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "able to carry them with you."
+msgstr "capaz de levá-los com você."
+
+# mes "Please come back after";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "Please come back after"
+msgstr "Por favor, volte depois de"
+
+# mes "you free up some space";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "you free up some space"
+msgstr "você liberta algum espaço"
+
+# mes "in your Inventory.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "in your Inventory."
+msgstr "em seu Inventário."
+
+# mes "Here's your " + getitemname(.@item[.@m]) + ".";
+#: npc/other/mercenary_rent.txt
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "Here's your "
+msgstr "Aqui está seu "
+
+# mes "Here you are, this is exactly";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "Here you are, this is exactly"
+msgstr "Aqui você está, isto é exatamente"
+
+# mes .@input + " " + getitemname(.@item[.@m]) + "s.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid " "
+msgstr " "
+
+# mes "Thank you, and please come";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "Thank you, and please come"
+msgstr "Obrigado, e por favor venha"
+
+# mes "again when you need more";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "again when you need more"
+msgstr "novamente quando você precisar de mais"
+
+# mes "potions for your Mercenaries.";
+#: npc/other/mercenary_rent.txt
+#, fuzzy
+msgctxt "Mercenary Merchant#dummy::MercMerchant"
+msgid "potions for your Mercenaries."
+msgstr "poções para seus Mercenários."

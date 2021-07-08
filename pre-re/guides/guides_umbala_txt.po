@@ -1,0 +1,402 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 15:15-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Adventurer]";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "[Adventurer]"
+msgstr "[Aventureiro]"
+
+# mes "This is a very strange place...";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "This is a very strange place..."
+msgstr "Este é um lugar muito estranho..."
+
+# mes "It's underdeveloped, and there";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "It's underdeveloped, and there"
+msgstr "É subdesenvolvido, e lá"
+
+# mes "are a number of complex, winding paths...";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "are a number of complex, winding paths..."
+msgstr "são uma série de caminhos complexos e sinuosos."
+
+# mes "However, since I have been here";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "However, since I have been here"
+msgstr "Entretanto, desde que estou aqui"
+
+# mes "for months, I am familiar with";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "for months, I am familiar with"
+msgstr "durante meses, estou familiarizado com"
+
+# mes "this area's geography and points";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "this area's geography and points"
+msgstr "a geografia e os pontos desta área"
+
+# mes "of interest in this village.";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "of interest in this village."
+msgstr "de interesse nesta aldeia."
+
+# mes "You're welcome to ask me about the";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "You're welcome to ask me about the"
+msgstr "Você está convidado a me perguntar sobre o"
+
+# mes "locations of buildings.";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "locations of buildings."
+msgstr "localização dos edifícios."
+
+# switch(select("Locations of buildings.", "Remove marks on the mini map.", "Quit.")) {
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Locations of buildings."
+msgstr "Localização dos edifícios."
+
+# switch(select("Locations of buildings.", "Remove marks on the mini map.", "Quit.")) {
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Remove marks on the mini map."
+msgstr "Remover marcas no mini mapa."
+
+# switch(select("Locations of buildings.", "Remove marks on the mini map.", "Quit.")) {
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Quit."
+msgstr "Sair."
+
+# mes "So, which one do you want to check?";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "So, which one do you want to check?"
+msgstr "Então, qual deles você quer verificar?"
+
+# switch(select("Chief's House", "Shaman's House", "Weapon Shop", "Tool Shop", "Bungee Jump Place", "Cancel")) {
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Chief's House"
+msgstr "Casa do Chefe"
+
+# switch(select("Chief's House", "Shaman's House", "Weapon Shop", "Tool Shop", "Bungee Jump Place", "Cancel")) {
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Shaman's House"
+msgstr "Casa do Xamã"
+
+# switch(select("Chief's House", "Shaman's House", "Weapon Shop", "Tool Shop", "Bungee Jump Place", "Cancel")) {
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("Chief's House", "Shaman's House", "Weapon Shop", "Tool Shop", "Bungee Jump Place", "Cancel")) {
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("Chief's House", "Shaman's House", "Weapon Shop", "Tool Shop", "Bungee Jump Place", "Cancel")) {
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Bungee Jump Place"
+msgstr "Bungee Jump Place"
+
+# switch(select("Chief's House", "Shaman's House", "Weapon Shop", "Tool Shop", "Bungee Jump Place", "Cancel")) {
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "I have made a ^FF3355+^000000 mark";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "I have made a ^FF3355+^000000 mark"
+msgstr "Eu fiz uma marca ^FF3355+^000000"
+
+# mes "on your mini map.";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "on your mini map."
+msgstr "em seu mini mapa."
+
+# mes "Only the chief knows the language";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Only the chief knows the language"
+msgstr "Somente o chefe conhece o idioma"
+
+# mes "of the outside world. So you'd";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "of the outside world. So you'd"
+msgstr "do mundo exterior. Então, você"
+
+# mes "better visit him before anything else.";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "better visit him before anything else."
+msgstr "é melhor visitá-lo antes de qualquer outra coisa."
+
+# mes "I have made a ^CE6300+^000000 mark";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "I have made a ^CE6300+^000000 mark"
+msgstr "Eu fiz uma marca ^CE6300+^000000"
+
+# mes "The Utan Shaman has some";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "The Utan Shaman has some"
+msgstr "O Utan Shaman tem alguns"
+
+# mes "sort of mystic power...";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "sort of mystic power..."
+msgstr "tipo de poder místico..."
+
+# mes "People say she can create rough";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "People say she can create rough"
+msgstr "As pessoas dizem que ela pode criar"
+
+# mes "enchanted stones, and divide a";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "enchanted stones, and divide a"
+msgstr "pedras encantadas, e dividir um"
+
+# mes "pure enchanted stone into rough ones.";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "pure enchanted stone into rough ones."
+msgstr "pura pedra encantada em ásperas."
+
+# mes "I have made a ^55FF33+^000000 mark";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "I have made a ^55FF33+^000000 mark"
+msgstr "Eu fiz uma marca ^55FF33+^000000"
+
+# mes "The Utans are usually well armed";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "The Utans are usually well armed"
+msgstr "Os Utans geralmente estão bem armados"
+
+# mes "in preparation for attacks from";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "in preparation for attacks from"
+msgstr "em preparação para ataques de"
+
+# mes "their enemies. Apparently, they";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "their enemies. Apparently, they"
+msgstr "seus inimigos. Aparentemente, eles"
+
+# mes "have been attacked from the outside many times in the past.";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "have been attacked from the outside many times in the past."
+msgstr "têm sido atacadas de fora muitas vezes no passado."
+
+# mes "I have made a ^3355FF+^000000 mark";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "I have made a ^3355FF+^000000 mark"
+msgstr "Eu fiz uma marca ^3355FF+^000000"
+
+# mes "There are many useful things for";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "There are many useful things for"
+msgstr "Há muitas coisas úteis para"
+
+# mes "traveling in the Tool Shop, so why don't you go look around?";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "traveling in the Tool Shop, so why don't you go look around?"
+msgstr "viajando na Loja de Ferramentas, então por que você não vai dar uma olhada em volta?"
+
+# mes "I have made a ^00FF00+^000000 mark";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "I have made a ^00FF00+^000000 mark"
+msgstr "Eu fiz uma marca ^00FF00+^000000"
+
+# mes "Umbala has a unique locale called";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "Umbala has a unique locale called"
+msgstr "Umbala tem um local único chamado"
+
+# mes "the 'Bungee Jump Place'.";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "the 'Bungee Jump Place'."
+msgstr "o 'Bungee Jump Place'."
+
+# mes "If you're interested in testing";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "If you're interested in testing"
+msgstr "Se você estiver interessado em testar"
+
+# mes "your courage, why don't you go";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "your courage, why don't you go"
+msgstr "sua coragem, por que você não vai"
+
+# mes "and partake in this Utan";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "and partake in this Utan"
+msgstr "e participe deste Utan"
+
+# mes "ritual yourself?";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "ritual yourself?"
+msgstr "ritual você mesmo?"
+
+# mes "If you want to remove the location";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "If you want to remove the location"
+msgstr "Se você quiser remover o local"
+
+# mes "marks on your mini map, please";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "marks on your mini map, please"
+msgstr "marcas em seu mini mapa, por favor"
+
+# mes "choose 'Remove marks on the mini map' menu.";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "choose 'Remove marks on the mini map' menu."
+msgstr "escolha 'Remover marcas no menu do mini mapa'."
+
+# mes "I removed all the marks from your";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "I removed all the marks from your"
+msgstr "Eu removi todas as marcas de seu"
+
+# mes "mini map. Feel free to ask me";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "mini map. Feel free to ask me"
+msgstr "mini mapa. Sinta-se à vontade para me perguntar"
+
+# mes "again if you want me to mark building locations.";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "again if you want me to mark building locations."
+msgstr "novamente se você quiser que eu marque locais de construção."
+
+# mes "It's fun to learn Utan culture on your own. Take care.";
+#: npc/pre-re/guides/guides_umbala.txt
+#, fuzzy
+msgctxt "Adventurer#um"
+msgid "It's fun to learn Utan culture on your own. Take care."
+msgstr "É divertido aprender a cultura Utan por conta própria. Cuide-se."

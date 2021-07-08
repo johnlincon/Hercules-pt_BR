@@ -35,7 +35,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "[Apprentice Craftsman]"
-msgstr "[Aprendiz de Artesão]"
+msgstr "[Aprendiz de ArtesÃ£o]"
 
 # mes "I've been studying ways to enhance an armor to maximize its capability.";
 #: npc/merchants/enchan_arm.txt
@@ -54,7 +54,7 @@ msgid ""
 "Enchanting is an awesome skill that infuses a mysterious status powers into "
 "the armor's hidden socket."
 msgstr ""
-"Encantar é uma habilidade incrível que infunde um misterioso poder de status "
+"Encantar Ã© uma habilidade incrÃ­vel que infunde um misterioso poder de status "
 "no soquete oculto da armadura."
 
 # mes "However, you have to keep in mind that if there are two armors of the same kind in your possession, the Enchantment will be applied in the order they are placed in your inventory.";
@@ -66,9 +66,9 @@ msgid ""
 "kind in your possession, the Enchantment will be applied in the order they "
 "are placed in your inventory."
 msgstr ""
-"Entretanto, você tem que ter em mente que se houver duas armaduras do mesmo "
-"tipo em sua posse, o Encantamento será aplicado na ordem em que forem "
-"colocadas em seu inventário."
+"Entretanto, vocÃª tem que ter em mente que se houver duas armaduras do mesmo "
+"tipo em sua posse, o Encantamento serÃ¡ aplicado na ordem em que forem "
+"colocadas em seu inventÃ¡rio."
 
 # mes "In that case, the Enchantment may be applied to an item which you didn't mean to Enchant. So just bring ^5555ffONE Armor^000000 you want enchanted to be safe...";
 #: npc/merchants/enchan_arm.txt
@@ -79,8 +79,8 @@ msgid ""
 "mean to Enchant. So just bring ^5555ffONE Armor^000000 you want enchanted to "
 "be safe..."
 msgstr ""
-"Nesse caso, o Encantamento pode ser aplicado a um item que você não "
-"pretendia Encantar. Portanto, basta trazer ^5555ffONE Armor^000000 que você "
+"Nesse caso, o Encantamento pode ser aplicado a um item que vocÃª nÃ£o "
+"pretendia Encantar. Portanto, basta trazer ^5555ffONE Armor^000000 que vocÃª "
 "quer encantado para estar seguro..."
 
 # mes "I'm not responsible for what would happen if you have more than one of the same kind in your inventory.";
@@ -91,8 +91,8 @@ msgid ""
 "I'm not responsible for what would happen if you have more than one of the "
 "same kind in your inventory."
 msgstr ""
-"Eu não sou responsável pelo que aconteceria se você tivesse mais de um do "
-"mesmo tipo em seu inventário."
+"Eu nÃ£o sou responsÃ¡vel pelo que aconteceria se vocÃª tivesse mais de um do "
+"mesmo tipo em seu inventÃ¡rio."
 
 # switch(select("Non Slotted Armor.", "Slotted Armor.", "High Grade Armor.", "Maybe next time.")) {
 #: npc/merchants/enchan_arm.txt
@@ -120,7 +120,7 @@ msgstr "Armadura de alto grau."
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "Maybe next time."
-msgstr "Talvez na próxima vez."
+msgstr "Talvez na prÃ³xima vez."
 
 # mes "Please come back when you have any interest in enchanting your armor.";
 #: npc/merchants/enchan_arm.txt
@@ -149,8 +149,8 @@ msgid ""
 "If by any chance, you would want to enchant your armor, bring me 400,000 "
 "zeny and the armor you want to enchant and you are all set to go."
 msgstr ""
-"Se por acaso, você quiser encantar sua armadura, traga-me 400.000 zeny e a "
-"armadura que você quer encantar e você está pronto para ir."
+"Se por acaso, vocÃª quiser encantar sua armadura, traga-me 400.000 zeny e a "
+"armadura que vocÃª quer encantar e vocÃª estÃ¡ pronto para ir."
 
 # mes "Socket enchant will cost you 400,000 zeny. And there will be a random option enchanted. Of course, there is a chance of breaking your armor.";
 #: npc/merchants/enchan_arm.txt
@@ -160,8 +160,8 @@ msgid ""
 "Socket enchant will cost you 400,000 zeny. And there will be a random option "
 "enchanted. Of course, there is a chance of breaking your armor."
 msgstr ""
-"O soquete encantador custará a você 400.000 zeny. E haverá uma opção "
-"aleatória encantada. É claro, há uma chance de quebrar sua armadura."
+"O soquete encantador custarÃ¡ a vocÃª 400.000 zeny. E haverÃ¡ uma opÃ§Ã£o "
+"aleatÃ³ria encantada. Ã‰ claro, hÃ¡ uma chance de quebrar sua armadura."
 
 # mes "First and most importantly.";
 #: npc/merchants/enchan_arm.txt
@@ -175,21 +175,21 @@ msgstr "Primeiro e mais importante."
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "^ff5555Existing Refine Level of the Armor"
-msgstr "^ff5555Nível de Refinamento Existente da Armadura"
+msgstr "^ff5555NÃ­vel de Refinamento Existente da Armadura"
 
 # mes "and Cards will be GONE.^000000";
 #: npc/merchants/enchan_arm.txt
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "and Cards will be GONE.^000000"
-msgstr "e Cartões serão GONE.^000000"
+msgstr "e CartÃµes serÃ£o GONE.^000000"
 
 # mes "Do you still want to try an Enchant?";
 #: npc/merchants/enchan_arm.txt
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "Do you still want to try an Enchant?"
-msgstr "Você ainda quer experimentar um Enchant?"
+msgstr "VocÃª ainda quer experimentar um Enchant?"
 
 # if(select("Hmm... Let me think it over.", "Go ahead.") == 1) {
 #: npc/merchants/enchan_arm.txt
@@ -203,21 +203,21 @@ msgstr "Hmm... Deixe-me pensar sobre isso."
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "Go ahead."
-msgstr "Vá em frente."
+msgstr "VÃ¡ em frente."
 
 # mes "Well, I can't blame you. Safety first, eh?";
 #: npc/merchants/enchan_arm.txt
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "Well, I can't blame you. Safety first, eh?"
-msgstr "Bem, não posso censurá-lo. Segurança primeiro, não é?"
+msgstr "Bem, nÃ£o posso censurÃ¡-lo. SeguranÃ§a primeiro, nÃ£o Ã©?"
 
 # mes "Now you have a nice day.";
 #: npc/merchants/enchan_arm.txt
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "Now you have a nice day."
-msgstr "Agora você tem um bom dia."
+msgstr "Agora vocÃª tem um bom dia."
 
 # mes "Quite of an adventurer huh? Well, shall we?";
 #: npc/merchants/enchan_arm.txt
@@ -231,28 +231,28 @@ msgstr "Um aventureiro e tanto, hein? Bem, devemos?"
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "Sorry, but you don't have enough zeny."
-msgstr "Desculpe, mas você não tem zeny suficiente."
+msgstr "Desculpe, mas vocÃª nÃ£o tem zeny suficiente."
 
 # mes "Well that's too bad.";
 #: npc/merchants/enchan_arm.txt
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "Well that's too bad."
-msgstr "Bem, isso é uma pena."
+msgstr "Bem, isso Ã© uma pena."
 
 # mes "The requested equipment has failed to enchant.";
 #: npc/merchants/enchan_arm.txt
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "The requested equipment has failed to enchant."
-msgstr "O equipamento solicitado não conseguiu encantar."
+msgstr "O equipamento solicitado nÃ£o conseguiu encantar."
 
 # mes "Hmm? There's nothing to be enchanted!";
 #: npc/merchants/enchan_arm.txt
 #, fuzzy
 msgctxt "Apprentice Craftsman"
 msgid "Hmm? There's nothing to be enchanted!"
-msgstr "Hmm? Não há nada para se encantar!"
+msgstr "Hmm? NÃ£o hÃ¡ nada para se encantar!"
 
 # mes "Please come back with just ONE equipment to be enchanted.";
 #: npc/merchants/enchan_arm.txt

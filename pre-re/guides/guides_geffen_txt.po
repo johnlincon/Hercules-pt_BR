@@ -1,0 +1,555 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 14:57-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Geffen Guide]";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "[Geffen Guide]"
+msgstr "[Guia Geffen]"
+
+# mes "Welcome to Geffen,";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Welcome to Geffen,"
+msgstr "Bem-vindo a Geffen,"
+
+# mes "the City of Magic. If you";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "the City of Magic. If you"
+msgstr "a Cidade da Magia. Se você"
+
+# mes "need any guidance around";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "need any guidance around"
+msgstr "precisam de qualquer orientação em torno de"
+
+# mes "the city, feel free to ask me";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "the city, feel free to ask me"
+msgstr "a cidade, sinta-se à vontade para me perguntar"
+
+# mes "and I'll do my best to assist you. ^FFFFFFcobo^000000";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "and I'll do my best to assist you. ^FFFFFFcobo^000000"
+msgstr "e farei o meu melhor para auxiliá-lo. ^FFFFFFcobo^000000"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "City Guide"
+msgstr "Guia da cidade"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Remove Marks from Mini-Map"
+msgstr "Remover as marcas do Mini-Map"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Notice."
+msgstr "Aviso."
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice.", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Please select";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Please select"
+msgstr "Por favor selecione"
+
+# mes "a location from";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "a location from"
+msgstr "um local de"
+
+# mes "the following menu.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "the following menu."
+msgstr "o seguinte menu."
+
+# mes "Would you like me";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Would you like me"
+msgstr "Você gostaria que eu"
+
+# mes "to mark locations";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "to mark locations"
+msgstr "para marcar locais"
+
+# mes "on your Mini-Map?";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "on your Mini-Map?"
+msgstr "em seu Mini-Map?"
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "No"
+msgstr "Não"
+
+# switch(select("^FF0000Magic Acedemy^000000", "Forge Shop", "Weapon Shop", "Tool Shop", "Pub", "Inn", "Geffen Tower", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "^FF0000Magic Acedemy^000000"
+msgstr "^FF0000Magic Acedemy^000000"
+
+# switch(select("^FF0000Magic Acedemy^000000", "Forge Shop", "Weapon Shop", "Tool Shop", "Pub", "Inn", "Geffen Tower", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Forge Shop"
+msgstr "Loja de forja"
+
+# switch(select("^FF0000Magic Acedemy^000000", "Forge Shop", "Weapon Shop", "Tool Shop", "Pub", "Inn", "Geffen Tower", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("^FF0000Magic Acedemy^000000", "Forge Shop", "Weapon Shop", "Tool Shop", "Pub", "Inn", "Geffen Tower", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("^FF0000Magic Acedemy^000000", "Forge Shop", "Weapon Shop", "Tool Shop", "Pub", "Inn", "Geffen Tower", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Pub"
+msgstr "Pub"
+
+# switch(select("^FF0000Magic Acedemy^000000", "Forge Shop", "Weapon Shop", "Tool Shop", "Pub", "Inn", "Geffen Tower", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Inn"
+msgstr "Pousada"
+
+# switch(select("^FF0000Magic Acedemy^000000", "Forge Shop", "Weapon Shop", "Tool Shop", "Pub", "Inn", "Geffen Tower", "Cancel")) {
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Geffen Tower"
+msgstr "Torre Geffen"
+
+# mes "The Magic Academy in";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "The Magic Academy in"
+msgstr "A Academia Mágica em"
+
+# mes "northwest Geffen handles";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "northwest Geffen handles"
+msgstr "alças noroeste de Geffen"
+
+# mes "Job Changes to the Mage class.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Job Changes to the Mage class."
+msgstr "Mudanças de trabalho para a classe Mage."
+
+# mes "The Forge Shop is";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "The Forge Shop is"
+msgstr "A Loja de Forja é"
+
+# mes "located just southeast";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "located just southeast"
+msgstr "localizado logo ao sudeste"
+
+# mes "from the center of Geffen.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "from the center of Geffen."
+msgstr "do centro de Geffen."
+
+# mes "The Weapon Shop";
+#: npc/pre-re/guides/guides_geffen.txt
+msgctxt "Guide#gef::GefGuide"
+msgid "The Weapon Shop"
+msgstr "A Loja de Armas"
+
+# mes "can be found northwest";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "can be found northwest"
+msgstr "pode ser encontrada a noroeste"
+
+# mes "You can find the";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "You can find the"
+msgstr "Você pode encontrar o"
+
+# mes "Tool Shop by heading";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Tool Shop by heading"
+msgstr "Loja de ferramentas por título"
+
+# mes "southwest from the";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "southwest from the"
+msgstr "do sudoeste do"
+
+# mes "center of Geffen.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "center of Geffen."
+msgstr "centro de Geffen."
+
+# mes "The Pub can be";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "The Pub can be"
+msgstr "O Pub pode ser"
+
+# mes "found northeast";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "found northeast"
+msgstr "encontrado no nordeste"
+
+# mes "from the Geffen Tower.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "from the Geffen Tower."
+msgstr "da Torre Geffen."
+
+# mes "The Inn can be";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "The Inn can be"
+msgstr "A Pousada pode ser"
+
+# mes "found by traveling";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "found by traveling"
+msgstr "encontrado ao viajar"
+
+# mes "northeast from the";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "northeast from the"
+msgstr "nordeste do"
+
+# mes "Geffen Tower is found";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Geffen Tower is found"
+msgstr "A Torre Geffen é encontrada"
+
+# mes "in the center of the city.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "in the center of the city."
+msgstr "no centro da cidade."
+
+# mes "The Wizard Guild is at the";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "The Wizard Guild is at the"
+msgstr "A Wizard Guild está no"
+
+# mes "top, and there's even a dungeon";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "top, and there's even a dungeon"
+msgstr "e há até uma masmorra"
+
+# mes "underneath it. There's many a";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "underneath it. There's many a"
+msgstr "embaixo dela. Há muitos"
+
+# mes "mystery surrounding that tower...";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "mystery surrounding that tower..."
+msgstr "mistério em torno daquela torre..."
+
+# mes "Please ask me to ''Remove";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Please ask me to ''Remove"
+msgstr "Por favor, me peça para ''Remover"
+
+# mes "Marks from Mini-Map'' if you";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Marks from Mini-Map'' if you"
+msgstr "Marcas do Mini-Mapa'' se você"
+
+# mes "no longer wish to have the";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "no longer wish to have the"
+msgstr "não deseja mais ter o"
+
+# mes "location marks displayed";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "location marks displayed"
+msgstr "marcas de localização exibidas"
+
+# mes "on your Mini-Map.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "on your Mini-Map."
+msgstr "em seu Mini-Mapa."
+
+# mes "Advances in sorcery and";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Advances in sorcery and"
+msgstr "Avanços na feitiçaria e"
+
+# mes "technology have allowed";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "technology have allowed"
+msgstr "a tecnologia tem permitido"
+
+# mes "us to update our information";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "us to update our information"
+msgstr "para atualizar nossas informações"
+
+# mes "system, enabling up to mark";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "system, enabling up to mark"
+msgstr "sistema, permitindo a marcação"
+
+# mes "locations on your Mini-Map";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "locations on your Mini-Map"
+msgstr "locais em seu Mini-Mapa"
+
+# mes "for easier navigation.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "for easier navigation."
+msgstr "para facilitar a navegação."
+
+# mes "Your Mini-Map is located";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Your Mini-Map is located"
+msgstr "Seu Mini-Map está localizado"
+
+# mes "in the upper right corner";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "in the upper right corner"
+msgstr "no canto superior direito"
+
+# mes "of the screen. If you can't";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "of the screen. If you can't"
+msgstr "da tela. Se você não puder"
+
+# mes "see it, press the Ctrl + Tab";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "see it, press the Ctrl + Tab"
+msgstr "ver, pressione a tecla Ctrl + Tab"
+
+# mes "keys or click the ''Map'' button in your Basic Info Window.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "keys or click the ''Map'' button in your Basic Info Window."
+msgstr "ou clique no botão ''Mapa'' em sua Janela de Informações Básicas."
+
+# mes "On your Mini-Map,";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "On your Mini-Map,"
+msgstr "Em seu Mini-Mapa,"
+
+# mes "click on the ''+'' and ''-''";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "click on the ''+'' and ''-''"
+msgstr "clique em ''+'' e ''-''"
+
+# mes "symbols to zoom in and";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "symbols to zoom in and"
+msgstr "símbolos para ampliar e"
+
+# mes "our of your Mini-Map. We";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "our of your Mini-Map. We"
+msgstr "nosso de seu Mini-Mapa. Nós"
+
+# mes "hope you enjoy your travels";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "hope you enjoy your travels"
+msgstr "espero que você aproveite suas viagens"
+
+# mes "here in the city of Geffen.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "here in the city of Geffen."
+msgstr "aqui na cidade de Geffen."
+
+# mes "Alright, adventurer.";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "Alright, adventurer."
+msgstr "Muito bem, aventureiro."
+
+# mes "I wish you safety on";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "I wish you safety on"
+msgstr "Desejo-lhe segurança no"
+
+# mes "your journeys through";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "your journeys through"
+msgstr "suas viagens através de"
+
+# mes "the lands you may travel...";
+#: npc/pre-re/guides/guides_geffen.txt
+#, fuzzy
+msgctxt "Guide#gef::GefGuide"
+msgid "the lands you may travel..."
+msgstr "as terras que você pode viajar..."

@@ -1,0 +1,805 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 15:06-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Soldier]";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "[Soldier]"
+msgstr "[Soldado]"
+
+# mes "Welcome to Louyang,";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Welcome to Louyang,"
+msgstr "Bem-vindo a Louyang,"
+
+# mes "a city with a long";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "a city with a long"
+msgstr "uma cidade com uma longa"
+
+# mes "and colorful history.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "and colorful history."
+msgstr "e história colorida."
+
+# mes "Recently we've developed";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Recently we've developed"
+msgstr "Recentemente desenvolvemos"
+
+# mes "an ocean lane to accomodate";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "an ocean lane to accomodate"
+msgstr "um caminho para o mar para acomodar"
+
+# mes "positive exchange with";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "positive exchange with"
+msgstr "intercâmbio positivo com"
+
+# mes "foreign nations.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "foreign nations."
+msgstr "nações estrangeiras."
+
+# mes "Louyang is well-known for various specialties in addition to its rich history. Here you can find many things unique to our land.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid ""
+"Louyang is well-known for various specialties in addition to its rich "
+"history. Here you can find many things unique to our land."
+msgstr ""
+"Louyang é conhecida por várias especialidades, além de sua rica história. "
+"Aqui você pode encontrar muitas coisas exclusivas de nossa terra."
+
+# mes "Please take your time";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Please take your time"
+msgstr "Por favor, leve seu tempo"
+
+# mes "and we invite you to enjoy";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "and we invite you to enjoy"
+msgstr "e convidamos você a desfrutar"
+
+# mes "your trip here in Louyang.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "your trip here in Louyang."
+msgstr "sua viagem aqui em Louyang."
+
+# switch(select("Ask Building Locations.", "Remove all marks from mini-map.", "Cancel.")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Ask Building Locations."
+msgstr "Pergunte aos locais de construção."
+
+# switch(select("Ask Building Locations.", "Remove all marks from mini-map.", "Cancel.")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Remove all marks from mini-map."
+msgstr "Remover todas as marcas do mini-mapa."
+
+# switch(select("Ask Building Locations.", "Remove all marks from mini-map.", "Cancel.")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "Where would you like to go?";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Where would you like to go?"
+msgstr "Aonde você gostaria de ir?"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Dragon Castle"
+msgstr "Castelo do Dragão"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Doctor's Office"
+msgstr "Consultório Médico"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "City Hall"
+msgstr "Prefeitura"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Tavern"
+msgstr "Taberna"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "The Dragon Castle is located at ^FF3355+^000000. It is where all the nobles reside, including our lord.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid ""
+"The Dragon Castle is located at ^FF3355+^000000. It is where all the nobles "
+"reside, including our lord."
+msgstr ""
+"O Castelo do Dragão está localizado em ^FF3355+^000000. É onde residem todos "
+"os nobres, incluindo nosso senhor."
+
+# mes "Since you're an outsider, I guess it would be appropriate for you to visit our lord first.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid ""
+"Since you're an outsider, I guess it would be appropriate for you to visit "
+"our lord first."
+msgstr ""
+"Já que você é um forasteiro, acho que seria apropriado para você visitar "
+"nosso senhor primeiro."
+
+# mes "We have a very skillful doctor.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "We have a very skillful doctor."
+msgstr "Temos um médico muito habilidoso."
+
+# mes "You can find her office at ^CE6300+^000000.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "You can find her office at ^CE6300+^000000."
+msgstr "Você pode encontrar seu escritório em ^CE6300+^000000."
+
+# mes "It is said that there";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "It is said that there"
+msgstr "Diz-se que ali"
+
+# mes "is no disease she cannot cure. Well, I can't guarantee if that's true or not.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid ""
+"is no disease she cannot cure. Well, I can't guarantee if that's true or not."
+msgstr ""
+"não é uma doença que ela não possa curar. Bem, não posso garantir se isso é "
+"verdade ou não."
+
+# mes "We have a City Hall where the federal government operates.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "We have a City Hall where the federal government operates."
+msgstr "Temos uma Prefeitura Municipal onde o governo federal opera."
+
+# mes "It is located at ^A5BAAD+^000000.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "It is located at ^A5BAAD+^000000."
+msgstr "Está localizado em ^A5BAAD+^000000."
+
+# mes "If you have any problems,";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "If you have any problems,"
+msgstr "Se você tiver algum problema,"
+
+# mes "you should talk with the";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "you should talk with the"
+msgstr "você deve conversar com o"
+
+# mes "employees in City Hall.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "employees in City Hall."
+msgstr "funcionários da prefeitura."
+
+# mes "The Weapon Shop is located at ^55FF33+^000000.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "The Weapon Shop is located at ^55FF33+^000000."
+msgstr "A Loja de Armas está localizada em ^55FF33+^000000."
+
+# mes "You will see";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "You will see"
+msgstr "Você vai ver"
+
+# mes "marvelous weapons forged";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "marvelous weapons forged"
+msgstr "armas maravilhosas forjadas"
+
+# mes "by the well-experienced";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "by the well-experienced"
+msgstr "pelos bem experientes"
+
+# mes "blacksmiths of Louyang.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "blacksmiths of Louyang."
+msgstr "ferreiros de Louyang."
+
+# mes "The Tool Shop is located at ^3355FF+^000000.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "The Tool Shop is located at ^3355FF+^000000."
+msgstr "A Loja de Ferramentas está localizada em ^3355FF+^000000."
+
+# mes "Knowing your enemy";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "Knowing your enemy"
+msgstr "Conhecendo seu inimigo"
+
+# mes "is half the battle!";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "is half the battle!"
+msgstr "é a metade da batalha!"
+
+# mes "It's also safer to prepare yourself than to be sorry later. Why don't you go check their supplies?";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid ""
+"It's also safer to prepare yourself than to be sorry later. Why don't you go "
+"check their supplies?"
+msgstr ""
+"Também é mais seguro se preparar do que se arrepender depois. Por que você "
+"não vai verificar os suprimentos deles?"
+
+# mes "When you get tired during your trip, I suggest that you visit the Tavern. It's located at ^00FF00+^000000.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid ""
+"When you get tired during your trip, I suggest that you visit the Tavern. "
+"It's located at ^00FF00+^000000."
+msgstr ""
+"Quando você ficar cansado durante sua viagem, sugiro que visite a Taverna. "
+"Ela está localizada em ^00FF00+^000000."
+
+# mes "The Tavern is a good place";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "The Tavern is a good place"
+msgstr "A Taverna é um bom lugar"
+
+# mes "to meet other tourists, as well as to hear of any news that may be helpful to know.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid ""
+"to meet other tourists, as well as to hear of any news that may be helpful "
+"to know."
+msgstr ""
+"para encontrar outros turistas, bem como para saber de qualquer notícia que "
+"possa ser útil para conhecer."
+
+# mes "If you wish to remove all marks";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "If you wish to remove all marks"
+msgstr "Se você deseja remover todas as marcas"
+
+# mes "on your mini-map, please choose 'Remove all marks from mini-map.' from the menu.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid ""
+"on your mini-map, please choose 'Remove all marks from mini-map.' from the "
+"menu."
+msgstr ""
+"em seu mini-mapa, por favor escolha 'Remover todas as marcas do mini-mapa' "
+"no menu."
+
+# mes "There, I've erased all the marks on your mini-map. Feel free to ask me about building locations whenever you need to.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid ""
+"There, I've erased all the marks on your mini-map. Feel free to ask me about "
+"building locations whenever you need to."
+msgstr ""
+"Ali, apaguei todas as marcas em seu mini-mapa. Sinta-se à vontade para me "
+"perguntar sobre locais de construção sempre que precisar."
+
+# mes "I guess it's fun";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "I guess it's fun"
+msgstr "Acho que é divertido"
+
+# mes "sometimes to go exploring";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "sometimes to go exploring"
+msgstr "às vezes para ir explorar"
+
+# mes "on your own. Take care.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Soldier#BA::LouGuide"
+msgid "on your own. Take care."
+msgstr "por sua conta. Cuide-se."
+
+# mes "[Representative]";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "[Representative]"
+msgstr "[Representante]"
+
+# mes "Welcome to Louyang,";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Welcome to Louyang,"
+msgstr "Bem-vindo a Louyang,"
+
+# mes "an ancient land with";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "an ancient land with"
+msgstr "uma terra antiga com"
+
+# mes "a history full of tales";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "a history full of tales"
+msgstr "uma história cheia de contos"
+
+# mes "of bravery.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "of bravery."
+msgstr "de bravura."
+
+# mes "We now provide an ocean lane to accomodate foreign travelers and intercultural exchange from which all can benefit.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid ""
+"We now provide an ocean lane to accomodate foreign travelers and "
+"intercultural exchange from which all can benefit."
+msgstr ""
+"Agora fornecemos uma via marítima para acomodar viajantes estrangeiros e "
+"intercâmbio intercultural do qual todos podem se beneficiar."
+
+# mes "Louyang is famous for";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Louyang is famous for"
+msgstr "Louyang é famosa por"
+
+# mes "its elaborate history, as well as specialties that are unique to this nation. Please take your time and enjoy your stay.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid ""
+"its elaborate history, as well as specialties that are unique to this "
+"nation. Please take your time and enjoy your stay."
+msgstr ""
+"sua elaborada história, bem como suas especialidades únicas para esta nação. "
+"Por favor, reserve seu tempo e aproveite sua estadia."
+
+# switch(select("Ask Building Locations.", "Remove all marks from mini-map.", "Cancel.")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Ask Building Locations."
+msgstr "Pergunte aos locais de construção."
+
+# switch(select("Ask Building Locations.", "Remove all marks from mini-map.", "Cancel.")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Remove all marks from mini-map."
+msgstr "Remover todas as marcas do mini-mapa."
+
+# switch(select("Ask Building Locations.", "Remove all marks from mini-map.", "Cancel.")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "Where would you like to go?";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Where would you like to go?"
+msgstr "Aonde você gostaria de ir?"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Dragon Castle"
+msgstr "Castelo do Dragão"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Doctor's Office"
+msgstr "Consultório Médico"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "City Hall"
+msgstr "Prefeitura"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Tavern"
+msgstr "Taberna"
+
+# switch(select("Dragon Castle", "Doctor's Office", "City Hall", "Weapon Shop", "Tool Shop", "Tavern", "Cancel")) {
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "The Dragon Castle is located at ^FF3355+^000000. It is where all the nobles reside, including our lord.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid ""
+"The Dragon Castle is located at ^FF3355+^000000. It is where all the nobles "
+"reside, including our lord."
+msgstr ""
+"O Castelo do Dragão está localizado em ^FF3355+^000000. É onde residem todos "
+"os nobres, incluindo nosso senhor."
+
+# mes "Since you're an outsider, I guess it would be appropriate for you to visit our lord first.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid ""
+"Since you're an outsider, I guess it would be appropriate for you to visit "
+"our lord first."
+msgstr ""
+"Já que você é um forasteiro, acho que seria apropriado para você visitar "
+"nosso senhor primeiro."
+
+# mes "We have a very skillful doctor.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "We have a very skillful doctor."
+msgstr "Temos um médico muito habilidoso."
+
+# mes "You can find her office at ^CE6300+^000000.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "You can find her office at ^CE6300+^000000."
+msgstr "Você pode encontrar seu escritório em ^CE6300+^000000."
+
+# mes "It is said that there";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "It is said that there"
+msgstr "Diz-se que ali"
+
+# mes "is no disease she cannot cure. Well, I can't guarantee if that's true or not.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid ""
+"is no disease she cannot cure. Well, I can't guarantee if that's true or not."
+msgstr ""
+"não é uma doença que ela não possa curar. Bem, não posso garantir se isso é "
+"verdade ou não."
+
+# mes "We have a City Hall where the federal government operates.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "We have a City Hall where the federal government operates."
+msgstr "Temos uma Prefeitura Municipal onde o governo federal opera."
+
+# mes "It is located at ^A5BAAD+^000000.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "It is located at ^A5BAAD+^000000."
+msgstr "Está localizado em ^A5BAAD+^000000."
+
+# mes "If you have any problems,";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "If you have any problems,"
+msgstr "Se você tiver algum problema,"
+
+# mes "you should talk with the";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "you should talk with the"
+msgstr "você deve conversar com o"
+
+# mes "employees in City Hall.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "employees in City Hall."
+msgstr "funcionários da prefeitura."
+
+# mes "The Weapon Shop is located at ^55FF33+^000000.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "The Weapon Shop is located at ^55FF33+^000000."
+msgstr "A Loja de Armas está localizada em ^55FF33+^000000."
+
+# mes "You will see";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "You will see"
+msgstr "Você vai ver"
+
+# mes "marvelous weapons forged";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "marvelous weapons forged"
+msgstr "armas maravilhosas forjadas"
+
+# mes "by the well-experienced";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "by the well-experienced"
+msgstr "pelos bem experientes"
+
+# mes "blacksmiths of Louyang.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "blacksmiths of Louyang."
+msgstr "ferreiros de Louyang."
+
+# mes "The Tool Shop is located at ^3355FF+^000000.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "The Tool Shop is located at ^3355FF+^000000."
+msgstr "A Loja de Ferramentas está localizada em ^3355FF+^000000."
+
+# mes "Knowing your enemy";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "Knowing your enemy"
+msgstr "Conhecendo seu inimigo"
+
+# mes "is half the battle!";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "is half the battle!"
+msgstr "é a metade da batalha!"
+
+# mes "It's also safer to prepare yourself than to be sorry later. Why don't you go check their supplies?";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid ""
+"It's also safer to prepare yourself than to be sorry later. Why don't you go "
+"check their supplies?"
+msgstr ""
+"Também é mais seguro se preparar do que se arrepender depois. Por que você "
+"não vai verificar os suprimentos deles?"
+
+# mes "When you get tired during your trip, I suggest that you visit the Tavern. It's located at ^00FF00+^000000.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid ""
+"When you get tired during your trip, I suggest that you visit the Tavern. "
+"It's located at ^00FF00+^000000."
+msgstr ""
+"Quando você ficar cansado durante sua viagem, sugiro que visite a Taverna. "
+"Ela está localizada em ^00FF00+^000000."
+
+# mes "[Soldier]";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "[Soldier]"
+msgstr "[Soldado]"
+
+# mes "The Tavern is a good place";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "The Tavern is a good place"
+msgstr "A Taverna é um bom lugar"
+
+# mes "to meet other tourists, as well as to hear of any news that may be helpful to know.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid ""
+"to meet other tourists, as well as to hear of any news that may be helpful "
+"to know."
+msgstr ""
+"para encontrar outros turistas, bem como para saber de qualquer notícia que "
+"possa ser útil para conhecer."
+
+# mes "If you wish to remove all marks";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "If you wish to remove all marks"
+msgstr "Se você deseja remover todas as marcas"
+
+# mes "on your mini-map, please choose 'Remove all marks from mini-map.' from the menu.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid ""
+"on your mini-map, please choose 'Remove all marks from mini-map.' from the "
+"menu."
+msgstr ""
+"em seu mini-mapa, por favor escolha 'Remover todas as marcas do mini-mapa' "
+"no menu."
+
+# mes "Done! All the marks on your mini-map are erased. Feel free to ask me about building locations whenever you need to.";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid ""
+"Done! All the marks on your mini-map are erased. Feel free to ask me about "
+"building locations whenever you need to."
+msgstr ""
+"Feito! Todas as marcas em seu mini-mapa são apagadas. Sinta-se à vontade "
+"para me perguntar sobre locais de construção sempre que precisar."
+
+# mes "I understand that you want to explore Louyang and see the";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "I understand that you want to explore Louyang and see the"
+msgstr "Entendo que você queira explorar Louyang e ver o"
+
+# mes "sights for yourself. Alright then, take care!";
+#: npc/pre-re/guides/guides_louyang.txt
+#, fuzzy
+msgctxt "Representative#lou"
+msgid "sights for yourself. Alright then, take care!"
+msgstr "para você mesmo. Muito bem, então, tome cuidado!"

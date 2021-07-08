@@ -1,0 +1,381 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 14:50-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Noi]";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "[Noi]"
+msgstr "[Noi]"
+
+# mes "Welcome to Ayothaya.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Welcome to Ayothaya."
+msgstr "Bem-vindo à Ayothaya."
+
+# mes "Our beautiful village is built";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Our beautiful village is built"
+msgstr "Nossa bela aldeia é construída"
+
+# mes "above the water, surrounded";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "above the water, surrounded"
+msgstr "acima da água, cercado"
+
+# mes "by a dense forest.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "by a dense forest."
+msgstr "por uma floresta densa."
+
+# mes "There are many tourist attractions in this village that you won't be able to find anywhere else. Our fish markets and the the unique architecture of our buildings is enough reason to visit Ayothaya.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid ""
+"There are many tourist attractions in this village that you won't be able to "
+"find anywhere else. Our fish markets and the the unique architecture of our "
+"buildings is enough reason to visit Ayothaya."
+msgstr ""
+"Há muitas atrações turísticas nesta vila que você não conseguirá encontrar "
+"em nenhum outro lugar. Nossos mercados de peixe e a arquitetura única de "
+"nossos edifícios são motivo suficiente para visitar Ayothaya."
+
+# mes "Please feel free";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Please feel free"
+msgstr "Por favor, sinta-se livre"
+
+# mes "to take a look around.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "to take a look around."
+msgstr "para dar uma olhada ao redor."
+
+# switch(select("Building Locations.", "Remove marks from mini-map.", "Cancel.")) {
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Building Locations."
+msgstr "Locais de construção."
+
+# switch(select("Building Locations.", "Remove marks from mini-map.", "Cancel.")) {
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Remove marks from mini-map."
+msgstr "Remover marcas do mini-mapa."
+
+# switch(select("Building Locations.", "Remove marks from mini-map.", "Cancel.")) {
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "Where would";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Where would"
+msgstr "Onde"
+
+# mes "you like to visit?";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "you like to visit?"
+msgstr "você gosta de visitar?"
+
+# switch(select("Weapon Shop", "Tool Shop", "Tavern", "Shrine", "Fishing Spot", "Cancel")) {
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("Weapon Shop", "Tool Shop", "Tavern", "Shrine", "Fishing Spot", "Cancel")) {
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("Weapon Shop", "Tool Shop", "Tavern", "Shrine", "Fishing Spot", "Cancel")) {
+#: npc/pre-re/guides/guides_ayothaya.txt
+msgctxt "Noi#ayo"
+msgid "Tavern"
+msgstr "Taberna"
+
+# switch(select("Weapon Shop", "Tool Shop", "Tavern", "Shrine", "Fishing Spot", "Cancel")) {
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Shrine"
+msgstr "Santuário"
+
+# switch(select("Weapon Shop", "Tool Shop", "Tavern", "Shrine", "Fishing Spot", "Cancel")) {
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Fishing Spot"
+msgstr "Ponto de pesca"
+
+# switch(select("Weapon Shop", "Tool Shop", "Tavern", "Shrine", "Fishing Spot", "Cancel")) {
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "At our Weapon Shop,";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "At our Weapon Shop,"
+msgstr "Em nossa Loja de Armas,"
+
+# mes "you will find great weapons";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "you will find great weapons"
+msgstr "você encontrará grandes armas"
+
+# mes "favored by brave Ayothayan seafarers.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "favored by brave Ayothayan seafarers."
+msgstr "favorecido pelos bravos marinheiros ayothayan."
+
+# mes "Our Weapon Shop";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Our Weapon Shop"
+msgstr "Nossa Loja de Armas"
+
+# mes "is located at ^55FF33+^000000.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "is located at ^55FF33+^000000."
+msgstr "está localizado em ^55FF33+^000000."
+
+# mes "We Ayothayans always make sure we have everything we need before we go traveling. It never hurts to be prepared, doesn't it?";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid ""
+"We Ayothayans always make sure we have everything we need before we go "
+"traveling. It never hurts to be prepared, doesn't it?"
+msgstr ""
+"Nós Ayothayans sempre nos certificamos de ter tudo o que precisamos antes de "
+"viajarmos. Nunca dói estar preparado, não é mesmo?"
+
+# mes "Our Tool Shop";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Our Tool Shop"
+msgstr "Nossa loja de ferramentas"
+
+# mes "is located at ^3355FF+^000000.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "is located at ^3355FF+^000000."
+msgstr "está localizado em ^3355FF+^000000."
+
+# mes "One of the basics of adventuring is gathering information, or at least that's what they say. You can meet people from all sorts of places in the Tavern. I'm sure you can learn something useful there.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid ""
+"One of the basics of adventuring is gathering information, or at least "
+"that's what they say. You can meet people from all sorts of places in the "
+"Tavern. I'm sure you can learn something useful there."
+msgstr ""
+"Uma das bases do aventurar-se é coletar informações, ou pelo menos é o que "
+"dizem. Você pode conhecer pessoas de todos os tipos de lugares da Taverna. "
+"Tenho certeza de que você pode aprender algo útil lá."
+
+# mes "Of course, you must";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Of course, you must"
+msgstr "É claro, você deve"
+
+# mes "drop by our Tavern.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "drop by our Tavern."
+msgstr "passar por nossa Taverna."
+
+# mes "It is located at ^00FF00+^000000.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "It is located at ^00FF00+^000000."
+msgstr "Está localizado em ^00FF00+^000000."
+
+# mes "If you wish to pray to God, or achieve a state of peace in your mind, why don't you visit our Shrine? Even if it's just for sight-seeing, everyone is";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid ""
+"If you wish to pray to God, or achieve a state of peace in your mind, why "
+"don't you visit our Shrine? Even if it's just for sight-seeing, everyone is"
+msgstr ""
+"Se você deseja rezar a Deus, ou alcançar um estado de paz em sua mente, por "
+"que não visita nosso Santuário? Mesmo que seja apenas para ver, todos estão"
+
+# mes "welcome there.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+msgctxt "Noi#ayo"
+msgid "welcome there."
+msgstr "bem-vindo lá."
+
+# mes "Our Shrine";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Our Shrine"
+msgstr "Nosso Santuário"
+
+# mes "is located at ^00FF00+^000000.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "is located at ^00FF00+^000000."
+msgstr "está localizado em ^00FF00+^000000."
+
+# mes "Since Ayothaya was built above the surface of the water and close to a beach, it's been a favorite spot for fishermen. Why don't you catch some fish for dinner at the Fishing Spot?";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid ""
+"Since Ayothaya was built above the surface of the water and close to a "
+"beach, it's been a favorite spot for fishermen. Why don't you catch some "
+"fish for dinner at the Fishing Spot?"
+msgstr ""
+"Desde que Ayothaya foi construída acima da superfície da água e perto de uma "
+"praia, tem sido um lugar favorito dos pescadores. Por que você não pesca um "
+"pouco de peixe para o jantar no Fishing Spot?"
+
+# mes "Our famous";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Our famous"
+msgstr "Nosso famoso"
+
+# mes "is located at ^00FF00+^000000";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "is located at ^00FF00+^000000"
+msgstr "está localizado em ^00FF00+^000000"
+
+# mes "If you wish to remove location marks on your mini-map, please select the 'Remove marks from mini-map' command from the menu.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid ""
+"If you wish to remove location marks on your mini-map, please select the "
+"'Remove marks from mini-map' command from the menu."
+msgstr ""
+"Se você deseja remover marcas de localização em seu mini-mapa, selecione o "
+"comando 'Remover marcas do mini-mapa' no menu."
+
+# mes "Alright...";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Alright..."
+msgstr "Muito bem..."
+
+# mes "I've removed all the";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "I've removed all the"
+msgstr "Eu removi todos os"
+
+# mes "location marks from";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "location marks from"
+msgstr "marcas de localização de"
+
+# mes "your mini-map.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "your mini-map."
+msgstr "seu mini-mapa."
+
+# mes "Thank you.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Thank you."
+msgstr "Obrigado por atualizar para a versão mais recente."
+
+# mes "Please enjoy";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "Please enjoy"
+msgstr "Por favor, aproveite"
+
+# mes "your travels.";
+#: npc/pre-re/guides/guides_ayothaya.txt
+#, fuzzy
+msgctxt "Noi#ayo"
+msgid "your travels."
+msgstr "suas viagens."

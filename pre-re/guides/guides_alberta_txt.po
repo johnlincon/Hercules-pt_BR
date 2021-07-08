@@ -1,0 +1,529 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 14:45-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Alberta Guide]";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "[Alberta Guide]"
+msgstr "[Guia de Alberta]"
+
+# mes "Welcome to Alberta,";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Welcome to Alberta,"
+msgstr "Bem-vindo a Alberta,"
+
+# mes "the Port City. Feel free";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "the Port City. Feel free"
+msgstr "a Cidade do Porto. Sinta-se livre"
+
+# mes "to ask me if you're having";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "to ask me if you're having"
+msgstr "para me perguntar se você está tendo"
+
+# mes "trouble finding anything in";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "trouble finding anything in"
+msgstr "problemas para encontrar qualquer coisa em"
+
+# mes "town, or if you just need";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "town, or if you just need"
+msgstr "cidade, ou se você só precisar"
+
+# mes "guidance around the city.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "guidance around the city."
+msgstr "orientação em torno da cidade."
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "City Guide"
+msgstr "Guia da cidade"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Remove Marks from Mini-Map"
+msgstr "Remover as marcas do Mini-Map"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Notice"
+msgstr "Aviso"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Please select";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Please select"
+msgstr "Por favor selecione"
+
+# mes "a location from";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "a location from"
+msgstr "um local de"
+
+# mes "the following menu.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "the following menu."
+msgstr "o seguinte menu."
+
+# mes "Would you like me";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Would you like me"
+msgstr "Você gostaria que eu"
+
+# mes "to mark locations";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "to mark locations"
+msgstr "para marcar locais"
+
+# mes "on your Mini-Map?";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "on your Mini-Map?"
+msgstr "em seu Mini-Map?"
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Yes"
+msgstr "Sim"
+
+# if (select("Yes", "No") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "No"
+msgstr "Não"
+
+# switch(select("^FF0000Merchant Guild^000000", "Weapon Shop", "Tool Shop", "Inn", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "^FF0000Merchant Guild^000000"
+msgstr "^FF0000Merchant Guild^000000"
+
+# switch(select("^FF0000Merchant Guild^000000", "Weapon Shop", "Tool Shop", "Inn", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_alberta.txt
+msgctxt "Guide#alb::AlbGuide"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("^FF0000Merchant Guild^000000", "Weapon Shop", "Tool Shop", "Inn", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_alberta.txt
+msgctxt "Guide#alb::AlbGuide"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("^FF0000Merchant Guild^000000", "Weapon Shop", "Tool Shop", "Inn", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Inn"
+msgstr "Pousada"
+
+# switch(select("^FF0000Merchant Guild^000000", "Weapon Shop", "Tool Shop", "Inn", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Forge"
+msgstr "Forja"
+
+# mes "The Merchant Guild";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "The Merchant Guild"
+msgstr "A Guilda Mercante"
+
+# mes "handles Job Changes";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "handles Job Changes"
+msgstr "lida com mudanças de trabalho"
+
+# mes "to the Merchant Class,";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "to the Merchant Class,"
+msgstr "para a Classe Mercante,"
+
+# mes "and is located in the";
+#: npc/pre-re/guides/guides_alberta.txt
+msgctxt "Guide#alb::AlbGuide"
+msgid "and is located in the"
+msgstr "e está localizado no"
+
+# mes "southwest corner";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "southwest corner"
+msgstr "canto sudoeste"
+
+# mes "of Alberta.";
+#: npc/pre-re/guides/guides_alberta.txt
+msgctxt "Guide#alb::AlbGuide"
+msgid "of Alberta."
+msgstr "de Alberta."
+
+# mes "The Weapon Shop";
+#: npc/pre-re/guides/guides_alberta.txt
+msgctxt "Guide#alb::AlbGuide"
+msgid "The Weapon Shop"
+msgstr "A Loja de Armas"
+
+# mes "can be found in the";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "can be found in the"
+msgstr "pode ser encontrado no"
+
+# mes "southern end of Alberta.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "southern end of Alberta."
+msgstr "extremo sul de Alberta."
+
+# mes "The Tool Shop";
+#: npc/pre-re/guides/guides_alberta.txt
+msgctxt "Guide#alb::AlbGuide"
+msgid "The Tool Shop"
+msgstr "Loja de Utilidades"
+
+# mes "is kind of close";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "is kind of close"
+msgstr "é um pouco próximo"
+
+# mes "to the center of";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "to the center of"
+msgstr "para o centro de"
+
+# mes "Alberta. It shouldn't";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Alberta. It shouldn't"
+msgstr "Alberta. Não deveria"
+
+# mes "be too hard to find.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "be too hard to find."
+msgstr "ser muito difícil de encontrar."
+
+# mes "There's an Inn";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "There's an Inn"
+msgstr "Há uma pousada"
+
+# mes "at the northern";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "at the northern"
+msgstr "no norte"
+
+# mes "end of Alberta";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "end of Alberta"
+msgstr "final de Alberta"
+
+# mes "where you can rest.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "where you can rest."
+msgstr "onde você pode descansar."
+
+# mes "The Forge in Alberta";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "The Forge in Alberta"
+msgstr "A Frágua em Alberta"
+
+# mes "is in the same building";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "is in the same building"
+msgstr "está no mesmo prédio"
+
+# mes "as the Merchant Guild.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "as the Merchant Guild."
+msgstr "como o Grémio Mercador."
+
+# mes "It's to the southwest.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "It's to the southwest."
+msgstr "É para o sudoeste."
+
+# mes "Please ask me to ''Remove";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Please ask me to ''Remove"
+msgstr "Por favor, me peça para ''Remover"
+
+# mes "Marks from Mini-Map'' if you";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Marks from Mini-Map'' if you"
+msgstr "Marcas do Mini-Mapa'' se você"
+
+# mes "no longer wish to have the";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "no longer wish to have the"
+msgstr "não deseja mais ter o"
+
+# mes "location marks displayed";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "location marks displayed"
+msgstr "marcas de localização exibidas"
+
+# mes "on your Mini-Map.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "on your Mini-Map."
+msgstr "em seu Mini-Mapa."
+
+# mes "Advances in sorcery and";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Advances in sorcery and"
+msgstr "Avanços na feitiçaria e"
+
+# mes "technology have allowed";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "technology have allowed"
+msgstr "a tecnologia tem permitido"
+
+# mes "us to update our information";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "us to update our information"
+msgstr "para atualizar nossas informações"
+
+# mes "system, enabling up to mark";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "system, enabling up to mark"
+msgstr "sistema, permitindo a marcação"
+
+# mes "locations on your Mini-Map";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "locations on your Mini-Map"
+msgstr "locais em seu Mini-Mapa"
+
+# mes "for easier navigation.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "for easier navigation."
+msgstr "para facilitar a navegação."
+
+# mes "Your Mini-Map is located";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Your Mini-Map is located"
+msgstr "Seu Mini-Map está localizado"
+
+# mes "in the upper right corner";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "in the upper right corner"
+msgstr "no canto superior direito"
+
+# mes "of the screen. If you can't";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "of the screen. If you can't"
+msgstr "da tela. Se você não puder"
+
+# mes "see it, press the Ctrl + Tab";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "see it, press the Ctrl + Tab"
+msgstr "ver, pressione a tecla Ctrl + Tab"
+
+# mes "keys or click the ''Map'' button in your Basic Info Window.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "keys or click the ''Map'' button in your Basic Info Window."
+msgstr "ou clique no botão ''Mapa'' em sua Janela de Informações Básicas."
+
+# mes "On your Mini-Map,";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "On your Mini-Map,"
+msgstr "Em seu Mini-Mapa,"
+
+# mes "click on the ''+'' and ''-''";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "click on the ''+'' and ''-''"
+msgstr "clique em ''+'' e ''-''"
+
+# mes "symbols to zoom in and";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "symbols to zoom in and"
+msgstr "símbolos para ampliar e"
+
+# mes "our of your Mini-Map. We";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "our of your Mini-Map. We"
+msgstr "nosso de seu Mini-Mapa. Nós"
+
+# mes "hope you enjoy your travels";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "hope you enjoy your travels"
+msgstr "espero que você aproveite suas viagens"
+
+# mes "here in the city of Alberta.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "here in the city of Alberta."
+msgstr "aqui na cidade de Alberta."
+
+# mes "Be safe when you";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "Be safe when you"
+msgstr "Fique seguro quando você"
+
+# mes "travel and don't hesitate";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "travel and don't hesitate"
+msgstr "viaje e não hesite"
+
+# mes "to ask me if you have any";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "to ask me if you have any"
+msgstr "para me perguntar se você tem algum"
+
+# mes "questions about Alberta.";
+#: npc/pre-re/guides/guides_alberta.txt
+#, fuzzy
+msgctxt "Guide#alb::AlbGuide"
+msgid "questions about Alberta."
+msgstr "perguntas sobre Alberta."

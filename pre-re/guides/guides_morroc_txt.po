@@ -1,0 +1,542 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 15:07-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Morroc Guide]";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "[Morroc Guide]"
+msgstr "[Guia Morroc]"
+
+# mes "Welcome to Morroc,";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Welcome to Morroc,"
+msgstr "Bem-vindo a Morroc,"
+
+# mes "the frontier town of the";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "the frontier town of the"
+msgstr "a cidade fronteiriça da"
+
+# mes "Rune-Midgarts Kingdom.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Rune-Midgarts Kingdom."
+msgstr "Reino Rune-Midgarts."
+
+# mes "Please ask me for help if";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Please ask me for help if"
+msgstr "Por favor, peça-me ajuda se"
+
+# mes "you're having any trouble";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "you're having any trouble"
+msgstr "você está tendo qualquer problema"
+
+# mes "finding anything in town.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "finding anything in town."
+msgstr "encontrar qualquer coisa na cidade."
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "City Guide"
+msgstr "Guia da cidade"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Remove Marks from Mini-Map"
+msgstr "Remover as marcas do Mini-Map"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Notice"
+msgstr "Aviso"
+
+# switch(select("City Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Please select";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Please select"
+msgstr "Por favor selecione"
+
+# mes "a location from";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "a location from"
+msgstr "um local de"
+
+# mes "the following menu.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "the following menu."
+msgstr "o seguinte menu."
+
+# mes "Would you like me";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Would you like me"
+msgstr "Você gostaria que eu"
+
+# mes "to mark locations";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "to mark locations"
+msgstr "para marcar locais"
+
+# mes "on your Mini-Map?";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "on your Mini-Map?"
+msgstr "em seu Mini-Map?"
+
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Yes."
+msgstr "Sim."
+
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "No."
+msgstr "Nº."
+
+# switch(select("^FF0000Thief Guild^000000", "Weapon Shop", "Inn", "Pub", "Mercenary Guild", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "^FF0000Thief Guild^000000"
+msgstr "^FF0000Grupo de ladrões^000000"
+
+# switch(select("^FF0000Thief Guild^000000", "Weapon Shop", "Inn", "Pub", "Mercenary Guild", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("^FF0000Thief Guild^000000", "Weapon Shop", "Inn", "Pub", "Mercenary Guild", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Inn"
+msgstr "Pousada"
+
+# switch(select("^FF0000Thief Guild^000000", "Weapon Shop", "Inn", "Pub", "Mercenary Guild", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Pub"
+msgstr "Pub"
+
+# switch(select("^FF0000Thief Guild^000000", "Weapon Shop", "Inn", "Pub", "Mercenary Guild", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Mercenary Guild"
+msgstr "Guilda Mercenária"
+
+# switch(select("^FF0000Thief Guild^000000", "Weapon Shop", "Inn", "Pub", "Mercenary Guild", "Forge", "Cancel")) {
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Forge"
+msgstr "Forja"
+
+# mes "The Thief Guild is";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "The Thief Guild is"
+msgstr "O Grémio dos Ladrões é"
+
+# mes "in charge of all Job";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "in charge of all Job"
+msgstr "encarregado de todos os trabalhos"
+
+# mes "Changes to the Thief";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Changes to the Thief"
+msgstr "Mudanças no Ladrão"
+
+# mes "Class. From what I hear,";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Class. From what I hear,"
+msgstr "Classe. Pelo que ouvi,"
+
+# mes "you can find them inside";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "you can find them inside"
+msgstr "você pode encontrá-los dentro"
+
+# mes "the Pyramids nearby...";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "the Pyramids nearby..."
+msgstr "as Pirâmides próximas..."
+
+# mes "The Weapon Shop";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "The Weapon Shop"
+msgstr "A Loja de Armas"
+
+# mes "is in the southeast";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "is in the southeast"
+msgstr "está no sudeste"
+
+# mes "end of Morroc.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "end of Morroc."
+msgstr "final de Morroc."
+
+# mes "There are Inns";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "There are Inns"
+msgstr "Existem pousadas"
+
+# mes "where you can rest";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "where you can rest"
+msgstr "onde você pode descansar"
+
+# mes "at the southeast and";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "at the southeast and"
+msgstr "no sudeste e"
+
+# mes "northeast ends of Morroc.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "northeast ends of Morroc."
+msgstr "nordeste de Morroc."
+
+# mes "You can find the";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "You can find the"
+msgstr "Você pode encontrar o"
+
+# mes "Pub in northeast Morroc.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Pub in northeast Morroc."
+msgstr "Pub no nordeste de Morroc."
+
+# mes "The Mercenary";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "The Mercenary"
+msgstr "A Mercenária"
+
+# mes "Guild is located";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Guild is located"
+msgstr "O Grêmio está localizado"
+
+# mes "in East Morroc.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "in East Morroc."
+msgstr "em East Morroc."
+
+# mes "The Forge is";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "The Forge is"
+msgstr "A Forja é"
+
+# mes "located just";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "located just"
+msgstr "localizado apenas"
+
+# mes "southwest from";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "southwest from"
+msgstr "sudoeste de"
+
+# mes "the center of Morroc.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "the center of Morroc."
+msgstr "o centro de Morroc."
+
+# mes "Please ask me to ''Remove";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Please ask me to ''Remove"
+msgstr "Por favor, me peça para ''Remover"
+
+# mes "Marks from Mini-Map'' if you";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Marks from Mini-Map'' if you"
+msgstr "Marcas do Mini-Mapa'' se você"
+
+# mes "no longer wish to have the";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "no longer wish to have the"
+msgstr "não deseja mais ter o"
+
+# mes "location marks displayed";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "location marks displayed"
+msgstr "marcas de localização exibidas"
+
+# mes "on your Mini-Map.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "on your Mini-Map."
+msgstr "em seu Mini-Mapa."
+
+# mes "Advances in sorcery and";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Advances in sorcery and"
+msgstr "Avanços na feitiçaria e"
+
+# mes "technology have allowed";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "technology have allowed"
+msgstr "a tecnologia tem permitido"
+
+# mes "us to update our information";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "us to update our information"
+msgstr "para atualizar nossas informações"
+
+# mes "system, enabling up to mark";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "system, enabling up to mark"
+msgstr "sistema, permitindo a marcação"
+
+# mes "locations on your Mini-Map";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "locations on your Mini-Map"
+msgstr "locais em seu Mini-Mapa"
+
+# mes "for easier navigation.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "for easier navigation."
+msgstr "para facilitar a navegação."
+
+# mes "Your Mini-Map is located";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Your Mini-Map is located"
+msgstr "Seu Mini-Map está localizado"
+
+# mes "in the upper right corner";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "in the upper right corner"
+msgstr "no canto superior direito"
+
+# mes "of the screen. If you can't";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "of the screen. If you can't"
+msgstr "da tela. Se você não puder"
+
+# mes "see it, press the Ctrl + Tab";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "see it, press the Ctrl + Tab"
+msgstr "ver, pressione a tecla Ctrl + Tab"
+
+# mes "keys or click the ''Map'' button in your Basic Info Window.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "keys or click the ''Map'' button in your Basic Info Window."
+msgstr "ou clique no botão ''Mapa'' em sua Janela de Informações Básicas."
+
+# mes "On your Mini-Map,";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "On your Mini-Map,"
+msgstr "Em seu Mini-Mapa,"
+
+# mes "click on the ''+'' and ''-''";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "click on the ''+'' and ''-''"
+msgstr "clique em ''+'' e ''-''"
+
+# mes "symbols to zoom in and";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "symbols to zoom in and"
+msgstr "símbolos para ampliar e"
+
+# mes "our of your Mini-Map. We";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "our of your Mini-Map. We"
+msgstr "nosso de seu Mini-Mapa. Nós"
+
+# mes "hope you enjoy your travels";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "hope you enjoy your travels"
+msgstr "espero que você aproveite suas viagens"
+
+# mes "here in the city of Morroc.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "here in the city of Morroc."
+msgstr "aqui na cidade de Morroc."
+
+# mes "Alright then,";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "Alright then,"
+msgstr "Muito bem, então,"
+
+# mes "try to stay out of";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "try to stay out of"
+msgstr "tentar ficar fora de"
+
+# mes "too much trouble";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "too much trouble"
+msgstr "muito trabalho"
+
+# mes "out there, adventurer.";
+#: npc/pre-re/guides/guides_morroc.txt
+#, fuzzy
+msgctxt "Guide#moc::MocGuide"
+msgid "out there, adventurer."
+msgstr "lá fora, aventureiro."

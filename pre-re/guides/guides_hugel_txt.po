@@ -1,0 +1,479 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:36+0000\n"
+"PO-Revision-Date: 2021-07-08 15:00-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Hugel Guide Granny]";
+#: npc/pre-re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#huge"
+msgid "[Hugel Guide Granny]"
+msgstr "[Hugel Guide Granny]"
+
+# mes "Oh, hello~ you are one energetic adventurer.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Oh, hello~ you are one energetic adventurer."
+msgstr "Oh, olá~ você é um aventureiro enérgico."
+
+# mes "Welcome to Hugel. I was honored to guide you to this beautiful village.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Welcome to Hugel. I was honored to guide you to this beautiful village."
+msgstr "Bem-vindo à Hugel. Tive a honra de guiá-los a esta bela aldeia."
+
+# mes "If this is the first time for you to use the guide services, why don't you check the ''Notice'' menu first?";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"If this is the first time for you to use the guide services, why don't you "
+"check the ''Notice'' menu first?"
+msgstr ""
+"Se esta é a primeira vez que você utiliza os serviços de guia, por que você "
+"não verifica primeiro o menu \"Aviso\"?"
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Village Guide"
+msgstr "Guia da vila"
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Remove Marks from Mini-Map"
+msgstr "Remover as marcas do Mini-Map"
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Notice"
+msgstr "Aviso"
+
+# switch(select("Village Guide", "Remove Marks from Mini-Map", "Notice", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "I can tell you any building location as long as it is in Hugel.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "I can tell you any building location as long as it is in Hugel."
+msgstr ""
+"Posso dizer-lhe qualquer localização de edifício, desde que seja em Hugel."
+
+# mes "So where do you want to go?";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "So where do you want to go?"
+msgstr "Então, para onde você quer ir?"
+
+# mes "Would you like me";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Would you like me"
+msgstr "Você gostaria que eu"
+
+# mes "to mark locations";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "to mark locations"
+msgstr "para marcar locais"
+
+# mes "on your Mini-Map?";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "on your Mini-Map?"
+msgstr "em seu Mini-Map?"
+
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Yes."
+msgstr "Sim."
+
+# if (select("Yes.", "No.") == 1) .@compass_check = 1;
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "No."
+msgstr "Nº."
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Church"
+msgstr "Igreja"
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Inn"
+msgstr "Pousada"
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Pub"
+msgstr "Pub"
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Airport"
+msgstr "Aeroporto"
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Weapon Shop"
+msgstr "Loja de Armas"
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Tool Shop"
+msgstr "Loja de Utilidades"
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Party Supplies Shop"
+msgstr "Loja de material para festas"
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "^3131FFHunter Job Change Place^000000"
+msgstr "^3131FFH Hunter Job Change Place^000000"
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "^3131FFShrine Expedition's Place^000000"
+msgstr "^3131FFShrine Expedition's Place^000000"
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Monster Race Arena"
+msgstr "Monster Race Arena"
+
+# switch(select("Church", "Inn", "Pub", "Airport", "Weapon Shop", "Tool Shop", "Party Supplies Shop", "^3131FFHunter Job Change Place^000000", "^3131FFShrine Expedition's Place^000000", "Monster Race Arena", "Bingo Game Room", "Cancel")) {
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Bingo Game Room"
+msgstr "Sala de Jogos de Bingo"
+
+# mes "Well, to me, this Church is rather like a place for old folks like me, you know...";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"Well, to me, this Church is rather like a place for old folks like me, you "
+"know..."
+msgstr "Bem, para mim, esta Igreja é como um lugar para velhos como eu..."
+
+# mes "Pudding rather than praise.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Pudding rather than praise."
+msgstr "Pudim em vez de elogios."
+
+# mes "You'd better unpack your stuffs first before you start looking around this village.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"You'd better unpack your stuffs first before you start looking around this "
+"village."
+msgstr ""
+"É melhor você desembalar suas coisas antes de começar a olhar ao redor desta "
+"aldeia."
+
+# mes "It is the building right next to me.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "It is the building right next to me."
+msgstr "É o prédio bem ao meu lado."
+
+# mes "Yes, when you travel, you want to drop by a pub and make new friends.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Yes, when you travel, you want to drop by a pub and make new friends."
+msgstr ""
+"Sim, quando você viaja, você quer passar por um pub e fazer novos amigos."
+
+# mes "Go east from here, then you will arrive at the pub.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Go east from here, then you will arrive at the pub."
+msgstr "Vá para o leste a partir daqui, depois você chegará ao pub."
+
+# mes "A while ago, strangers came to village and built that strange airport kind of thing...";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"A while ago, strangers came to village and built that strange airport kind "
+"of thing..."
+msgstr ""
+"Há algum tempo, estranhos vieram à aldeia e construíram aquele tipo estranho "
+"de aeroporto."
+
+# mes "What do they call it? Airship?";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "What do they call it? Airship?"
+msgstr "Como lhe chamam? Aeronave?"
+
+# mes "Well, we have a weapon shop in the center of village.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Well, we have a weapon shop in the center of village."
+msgstr "Bem, temos uma loja de armas no centro da vila."
+
+# mes "But I don't know if there is any weapon that you find useful.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "But I don't know if there is any weapon that you find useful."
+msgstr "Mas eu não sei se existe alguma arma que você considere útil."
+
+# mes "Yes, I love Hugel brand Red Potions. I haven't tasted Red Potions from any other brands yet...hohoho. ";
+#: npc/pre-re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"Yes, I love Hugel brand Red Potions. I haven't tasted Red Potions from any "
+"other brands yet...hohoho. "
+msgstr ""
+"Sim, amo as Poções Vermelhas da marca Hugel. Eu ainda não provei Red Potions "
+"de nenhuma outra marca...hohoho. "
+
+# mes "The tool shop is located in the center of village.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "The tool shop is located in the center of village."
+msgstr "A loja de ferramentas está localizada no centro da vila."
+
+# mes "The party supplies shop is around the center of village.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "The party supplies shop is around the center of village."
+msgstr "A loja de materiais para festas fica ao redor do centro da vila."
+
+# mes "Make sure that you will not use any firecracker stuffs near other people, because it is dangerous, you know?";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"Make sure that you will not use any firecracker stuffs near other people, "
+"because it is dangerous, you know?"
+msgstr ""
+"Certifique-se de que você não usará nenhum material de bombinha perto de "
+"outras pessoas, porque é perigoso, você sabe?"
+
+# mes "Oh, are you an aspiring Hunter?";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Oh, are you an aspiring Hunter?"
+msgstr "Oh, você é um aspirante a caçador?"
+
+# mes "Then head northeast following the beach, then you will find the Hunter job change place.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"Then head northeast following the beach, then you will find the Hunter job "
+"change place."
+msgstr ""
+"Depois siga para o nordeste seguindo a praia, e então você encontrará o "
+"local de troca de trabalho do Hunter."
+
+# mes "I heard that the shrine expedition is staying in a house at the west.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "I heard that the shrine expedition is staying in a house at the west."
+msgstr ""
+"Ouvi dizer que a expedição do santuário está hospedada em uma casa no oeste."
+
+# mes "They have put some kind of sign in the middle of village, so I guess that they are hiring people for something...";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"They have put some kind of sign in the middle of village, so I guess that "
+"they are hiring people for something..."
+msgstr ""
+"Eles colocaram algum tipo de sinal no meio da aldeia, então acho que estão "
+"contratando pessoas para algo..."
+
+# mes "I wonder what they are doing in here...hmmm.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "I wonder what they are doing in here...hmmm."
+msgstr "O que será que eles estão fazendo aqui...hmmm."
+
+# mes "I also like playing Monster Race games. It is pretty fun, you know?";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "I also like playing Monster Race games. It is pretty fun, you know?"
+msgstr ""
+"Também gosto de jogar jogos de corrida de monstros. É muito divertido, você "
+"sabe?"
+
+# mes "Oh, you haven't tried it yet? No~ you'd better try. Trust me, you will like it.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"Oh, you haven't tried it yet? No~ you'd better try. Trust me, you will like "
+"it."
+msgstr ""
+"Oh, você ainda não tentou? Não~ é melhor você tentar. Confie em mim, você "
+"vai gostar."
+
+# mes "Do you like bingo games? If you do, go visit Euklan's Bingo Game Room.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "Do you like bingo games? If you do, go visit Euklan's Bingo Game Room."
+msgstr ""
+"Você gosta de jogos de bingo? Se você gosta, visite a Sala de Jogos de Bingo "
+"da Euklan."
+
+# mes "If you like to get rid of all the location marks on your Mini-Map,";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "If you like to get rid of all the location marks on your Mini-Map,"
+msgstr ""
+"Se você gosta de se livrar de todas as marcas de localização em seu Mini-Map,"
+
+# mes "just ask me again, and choose ''Remove Marks from Mini-Map'' menu.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "just ask me again, and choose ''Remove Marks from Mini-Map'' menu."
+msgstr ""
+"basta me perguntar novamente e escolher \"Remover Marcas do Mini-Mapa\" no "
+"menu."
+
+# mes "Okay, they are gone now. If you have more locations to ask, just let me know.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"Okay, they are gone now. If you have more locations to ask, just let me know."
+msgstr ""
+"Pronto, eles já se foram. Se você tiver mais locais para perguntar, é só me "
+"avisar."
+
+# mes "When you are using the ''Village Guide'' menu, ";
+#: npc/pre-re/guides/guides_hugel.txt
+msgctxt "Hugel Guide Granny#huge"
+msgid "When you are using the ''Village Guide'' menu, "
+msgstr "Quando você estiver usando o menu ''Guia da Cidade'', "
+
+# mes "make sure that building locations will be marked on your mini-map at the upper right side of your screen.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"make sure that building locations will be marked on your mini-map at the "
+"upper right side of your screen."
+msgstr ""
+"certifique-se de que os locais de construção serão marcados em seu mini-mapa "
+"no lado superior direito de sua tela."
+
+# mes "If you cannot see your mini-map, use the short cut key ''ctrl+tab'' or press the ''Map'' button on your basic information windows, okay?";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"If you cannot see your mini-map, use the short cut key ''ctrl+tab'' or press "
+"the ''Map'' button on your basic information windows, okay?"
+msgstr ""
+"Se você não conseguir ver seu mini-mapa, use a tecla de atalho \"ctrl+tab\" "
+"ou pressione o botão \"Mapa\" em suas janelas de informações básicas, ok?"
+
+# mes "And you can also zoom out your mini-map by using the ''-'' button in case you cannot view the entire map of the village.";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid ""
+"And you can also zoom out your mini-map by using the ''-'' button in case "
+"you cannot view the entire map of the village."
+msgstr ""
+"E você também pode ampliar seu mini-mapa usando o botão ''-'' caso não "
+"consiga visualizar o mapa inteiro da aldeia."
+
+# mes "This guide job is pretty exciting. Hohoho~";
+#: npc/pre-re/guides/guides_hugel.txt
+#, fuzzy
+msgctxt "Hugel Guide Granny#huge"
+msgid "This guide job is pretty exciting. Hohoho~"
+msgstr "Este trabalho de guia é bastante empolgante. Hohoho~"

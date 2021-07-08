@@ -11,3 +11,5 @@ Como instalar?
 1. Baixe os arquivos;
 2. Copie e cole na raiz do seu emulador.
  2.1 Caso você já tenha configurador o emulador, entre na pasta /conf/map/map-server.conf e reponha suas mudanças sem alterar a linha 51.
+
+Não deixe de reportar probemas.

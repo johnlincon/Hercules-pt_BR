@@ -35,35 +35,35 @@ msgstr ""
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "It looks like you're carrying too many things."
-msgstr "Parece que vocÃª estÃ¡ carregando muitas coisas."
+msgstr "Parece que você está carregando muitas coisas."
 
 # mes "Why not put some of your items in storage and come back?";
 #: npc/merchants/coin_exchange.txt
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "Why not put some of your items in storage and come back?"
-msgstr "Por que nÃ£o colocar alguns de seus itens em estoque e voltar?"
+msgstr "Por que não colocar alguns de seus itens em estoque e voltar?"
 
 # mes "Hello.";
 #: npc/merchants/coin_exchange.txt
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "Hello."
-msgstr "OlÃ¡."
+msgstr "Olá."
 
 # mes "What are you looking for?";
 #: npc/merchants/coin_exchange.txt
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "What are you looking for?"
-msgstr "O que vocÃª estÃ¡ procurando?"
+msgstr "O que você está procurando?"
 
 # .@i = select("View item description", "Manuk's Opportunity", "Manuk's Courage", "Manuk's Faith", "Cancel");
 #: npc/merchants/coin_exchange.txt
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "View item description"
-msgstr "Ver descriÃ§Ã£o do item"
+msgstr "Ver descrição do item"
 
 # .@i = select("View item description", "Manuk's Opportunity", "Manuk's Courage", "Manuk's Faith", "Cancel");
 #: npc/merchants/coin_exchange.txt
@@ -84,7 +84,7 @@ msgstr "A Coragem de Manuk"
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "Manuk's Faith"
-msgstr "A FÃ© de Manuk"
+msgstr "A Fé de Manuk"
 
 # .@i = select("View item description", "Manuk's Opportunity", "Manuk's Courage", "Manuk's Faith", "Cancel");
 #: npc/merchants/coin_exchange.txt
@@ -98,14 +98,14 @@ msgstr "Cancelar"
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "Buy Pinguicula's Fruit Jam"
-msgstr "Comprar gelÃ©ia de frutas Pinguicula"
+msgstr "Comprar geléia de frutas Pinguicula"
 
 # .@i = select("View item description", "Buy Pinguicula's Fruit Jam", "Buy Luciola's Honey Jam", "Buy Cornus' Tears", "Do nothing");
 #: npc/merchants/coin_exchange.txt
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "Buy Luciola's Honey Jam"
-msgstr "Comprar gelÃ©ia de mel Luciola's"
+msgstr "Comprar geléia de mel Luciola's"
 
 # .@i = select("View item description", "Buy Pinguicula's Fruit Jam", "Buy Luciola's Honey Jam", "Buy Cornus' Tears", "Do nothing");
 #: npc/merchants/coin_exchange.txt
@@ -119,20 +119,20 @@ msgstr "Comprar Cornus' Tears"
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "Do nothing"
-msgstr "NÃ£o fazer nada"
+msgstr "Não fazer nada"
 
 # mes "Here are the item descriptions.";
 #: npc/merchants/coin_exchange.txt
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "Here are the item descriptions."
-msgstr "Aqui estÃ£o as descriÃ§Ãµes dos itens."
+msgstr "Aqui estão as descrições dos itens."
 
 # mes "I can sell you 3 "+getitemname(.@items[.@i])+" for ^3131FF1 coin^000000.";
 #: npc/merchants/coin_exchange.txt
 msgctxt "::merchant_13_2"
 msgid "I can sell you 3 "
-msgstr "Posso vendÃª-lo 3 "
+msgstr "Posso vendê-lo 3 "
 
 # switch(select("Purchase", "Do not purchase")) {
 #: npc/merchants/coin_exchange.txt
@@ -146,7 +146,7 @@ msgstr "Comprar"
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "Do not purchase"
-msgstr "NÃ£o compre"
+msgstr "Não compre"
 
 # mes "Thank you for coming.";
 #: npc/merchants/coin_exchange.txt
@@ -160,14 +160,14 @@ msgstr "Obrigado por terem vindo."
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "You don't have enough coins."
-msgstr "VocÃª nÃ£o tem moedas suficientes."
+msgstr "Você não tem moedas suficientes."
 
 # mes "Come again if you change your mind.";
 #: npc/merchants/coin_exchange.txt
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "Come again if you change your mind."
-msgstr "Volte se vocÃª mudar de idÃ©ia."
+msgstr "Volte se você mudar de idéia."
 
 # mes "Rtt od d";
 #: npc/merchants/coin_exchange.txt
@@ -181,7 +181,7 @@ msgstr "Rtt od d"
 #, fuzzy
 msgctxt "::merchant_13_2"
 msgid "Qwo hd is d irr"
-msgstr "Qwo hd Ã© d irrita"
+msgstr "Qwo hd é d irrita"
 
 # mes "BurWehAla";
 #: npc/merchants/coin_exchange.txt

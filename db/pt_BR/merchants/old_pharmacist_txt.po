@@ -42,14 +42,14 @@ msgstr "- Espere um momento! -"
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "- Currently you're carrying -"
-msgstr "- Atualmente vocÃª estÃ¡ carregando -"
+msgstr "- Atualmente você está carregando -"
 
 # mes "- too many items with you. -";
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "- too many items with you. -"
-msgstr "- muitos itens com vocÃª. -"
+msgstr "- muitos itens com você. -"
 
 # mes "- Please come back later -";
 #: npc/merchants/old_pharmacist.txt
@@ -70,7 +70,7 @@ msgstr "- depois de colocar alguns itens no armazenamento de kafra. -"
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "[Old Pharmacist]"
-msgstr "[Velho FarmacÃªutico]"
+msgstr "[Velho Farmacêutico]"
 
 # mes "Ummmm...";
 #: npc/merchants/old_pharmacist.txt
@@ -91,7 +91,7 @@ msgstr "O que o traz aqui...?"
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Make Potion"
-msgstr "Fazer PoÃ§Ã£o"
+msgstr "Fazer Poção"
 
 # switch(select("Make Potion", "Talk.", "Mixing Information", "Cancel")) {
 #: npc/merchants/old_pharmacist.txt
@@ -104,7 +104,7 @@ msgstr "Conversa."
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Mixing Information"
-msgstr "InformaÃ§Ãµes sobre a mistura"
+msgstr "Informações sobre a mistura"
 
 # switch(select("Make Potion", "Talk.", "Mixing Information", "Cancel")) {
 #: npc/merchants/old_pharmacist.txt
@@ -118,98 +118,98 @@ msgstr "Cancelar"
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Why are you carrying these so many!"
-msgstr "Por que vocÃª estÃ¡ carregando tantos!"
+msgstr "Por que você está carregando tantos!"
 
 # mes "Don't be greedy, carry only as much you need!";
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Don't be greedy, carry only as much you need!"
-msgstr "NÃ£o seja ganancioso, leve apenas o que precisar!"
+msgstr "Não seja ganancioso, leve apenas o que precisar!"
 
 # mes "You are too heavy to receive potions from me...";
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "You are too heavy to receive potions from me..."
-msgstr "VocÃª Ã© pesado demais para receber poÃ§Ãµes de mim..."
+msgstr "Você é pesado demais para receber poções de mim..."
 
 # mes "Go store some items in your storage first!";
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Go store some items in your storage first!"
-msgstr "VÃ¡ armazenar primeiro alguns itens em seu depÃ³sito!"
+msgstr "Vá armazenar primeiro alguns itens em seu depósito!"
 
 # mes "You have all the stuff ready, right? Which one would you like?";
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "You have all the stuff ready, right? Which one would you like?"
-msgstr "VocÃª tem tudo pronto, certo? Qual vocÃª gostaria de ter?"
+msgstr "Você tem tudo pronto, certo? Qual você gostaria de ter?"
 
 # switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Red Potion."
-msgstr "PoÃ§Ã£o Vermelha."
+msgstr "Poção Vermelha."
 
 # switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Orange Potion."
-msgstr "PoÃ§Ã£o Laranja."
+msgstr "Poção Laranja."
 
 # switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Yellow Potion."
-msgstr "PoÃ§Ã£o Amarela."
+msgstr "Poção Amarela."
 
 # switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "White Potion."
-msgstr "PoÃ§Ã£o Branca."
+msgstr "Poção Branca."
 
 # switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Blue Potion."
-msgstr "PoÃ§Ã£o Azul."
+msgstr "Poção Azul."
 
 # switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Green Potion."
-msgstr "PoÃ§Ã£o Verde."
+msgstr "Poção Verde."
 
 # switch(select("Red Potion.", "Orange Potion.", "Yellow Potion.", "White Potion.", "Blue Potion.", "Green Potion.", "Actually, I don't want anything.")) {
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Actually, I don't want anything."
-msgstr "Na verdade, eu nÃ£o quero nada."
+msgstr "Na verdade, eu não quero nada."
 
 # mes "You rascal! What did you expect?! Coming here with nothing. Tsk!";
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "You rascal! What did you expect?! Coming here with nothing. Tsk!"
-msgstr "Seu malandro! O que vocÃª esperava?! Vir aqui sem nada. Tsk!"
+msgstr "Seu malandro! O que você esperava?! Vir aqui sem nada. Tsk!"
 
 # mes "Get lost!";
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Get lost!"
-msgstr "DesapareÃ§a!"
+msgstr "Desapareça!"
 
 # mes "How many?";
 #: npc/merchants/old_pharmacist.txt
@@ -222,7 +222,7 @@ msgstr "Quantos?"
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Make as many as I can."
-msgstr "FaÃ§a o mÃ¡ximo que eu puder."
+msgstr "Faça o máximo que eu puder."
 
 # switch(select("Make as many as I can.", "I want to choose an amount.", "Actually, I don't want anything.")) {
 #: npc/merchants/old_pharmacist.txt
@@ -239,8 +239,8 @@ msgid ""
 "You rascal! You don't even have all the materials and you want me to make "
 "you potions?!"
 msgstr ""
-"Seu malandro! VocÃª nÃ£o tem nem mesmo todo o material e quer que eu faÃ§a "
-"poÃ§Ãµes para vocÃª?!"
+"Seu malandro! Você não tem nem mesmo todo o material e quer que eu faça "
+"poções para você?!"
 
 # mes "Then pick a number below 100. If you don't want any, just enter '0'. With the materials you have, you can make about "+.@max+" potions.";
 #: npc/merchants/old_pharmacist.txt
@@ -249,15 +249,15 @@ msgid ""
 "Then pick a number below 100. If you don't want any, just enter '0'. With "
 "the materials you have, you can make about "
 msgstr ""
-"Em seguida, escolha um nÃºmero abaixo de 100. Se vocÃª nÃ£o quiser nenhum, "
-"basta digitar '0'. Com os materiais que vocÃª tem, vocÃª pode fazer cerca de "
+"Em seguida, escolha um número abaixo de 100. Se você não quiser nenhum, "
+"basta digitar '0'. Com os materiais que você tem, você pode fazer cerca de "
 
 # mes "Then pick a number below 100. If you don't want any, just enter '0'. With the materials you have, you can make about "+.@max+" potions.";
 #: npc/merchants/old_pharmacist.txt
 #, fuzzy
 msgctxt "Pharmacist"
 msgid " potions."
-msgstr " poÃ§Ãµes."
+msgstr " poções."
 
 # mes "Make up your mind, will you?!";
 #: npc/merchants/old_pharmacist.txt
@@ -271,13 +271,13 @@ msgstr "Decida-se, sim?!"
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Are you deaf? I said less than 100!"
-msgstr "VocÃª Ã© surdo? Eu disse menos de 100!"
+msgstr "Você é surdo? Eu disse menos de 100!"
 
 # mes "What?!";
 #: npc/merchants/old_pharmacist.txt
 msgctxt "Pharmacist"
 msgid "What?!"
-msgstr "O quÃª?!"
+msgstr "O quê?!"
 
 # mes "Grrr...";
 #: npc/merchants/old_pharmacist.txt
@@ -301,8 +301,8 @@ msgid ""
 "Here you go. It's all done so you can take it. But remember! Abusing "
 "medicine is not good."
 msgstr ""
-"Aqui estÃ¡. EstÃ¡ tudo feito para que vocÃª possa levÃ¡-lo. Mas lembre-se! "
-"Abusar da medicina nÃ£o Ã© bom."
+"Aqui está. Está tudo feito para que você possa levá-lo. Mas lembre-se! "
+"Abusar da medicina não é bom."
 
 # mes "With medicine, you can increase a person's ability to regenerate. But, they're only good up to a point. *Sigh* I'm starting to think of the days when I was young. I must be getting old.";
 #: npc/merchants/old_pharmacist.txt
@@ -313,8 +313,8 @@ msgid ""
 "they're only good up to a point. *Sigh* I'm starting to think of the days "
 "when I was young. I must be getting old."
 msgstr ""
-"Com a medicina, vocÃª pode aumentar a capacidade de regeneraÃ§Ã£o de uma "
-"pessoa. Mas, eles sÃ³ sÃ£o bons atÃ© certo ponto. *Suspiro* ComeÃ§o a pensar nos "
+"Com a medicina, você pode aumentar a capacidade de regeneração de uma "
+"pessoa. Mas, eles só são bons até certo ponto. *Suspiro* Começo a pensar nos "
 "dias em que eu era jovem. Eu devo estar ficando velho."
 
 # mes "Anyways, a potion is merely a potion. Nothing more and nothing less.";
@@ -323,7 +323,7 @@ msgstr ""
 msgctxt "Pharmacist"
 msgid "Anyways, a potion is merely a potion. Nothing more and nothing less."
 msgstr ""
-"De qualquer forma, uma poÃ§Ã£o Ã© apenas uma poÃ§Ã£o. Nada mais e nada menos que "
+"De qualquer forma, uma poção é apenas uma poção. Nada mais e nada menos que "
 "isso."
 
 # mes "Hrrrmm...";
@@ -340,7 +340,7 @@ msgctxt "Pharmacist"
 msgid ""
 "You young ones can be quite annoying. But, since you asked, I'll explain."
 msgstr ""
-"VocÃªs, jovens, podem ser bastante irritantes. Mas, jÃ¡ que vocÃª perguntou, "
+"Vocês, jovens, podem ser bastante irritantes. Mas, já que você perguntou, "
 "vou explicar."
 
 # mes "Herbs work well by themselves, but if you use my special techniques and skills to make potions out of them, the effect is much much greater.";
@@ -351,8 +351,8 @@ msgid ""
 "Herbs work well by themselves, but if you use my special techniques and "
 "skills to make potions out of them, the effect is much much greater."
 msgstr ""
-"As ervas funcionam bem sozinhas, mas se vocÃª usar minhas tÃ©cnicas e "
-"habilidades especiais para fazer poÃ§Ãµes com elas, o efeito Ã© muito maior."
+"As ervas funcionam bem sozinhas, mas se você usar minhas técnicas e "
+"habilidades especiais para fazer poções com elas, o efeito é muito maior."
 
 # mes "If you ask eagerly and politely, I will make them for you. But, not for free... Don't worry though, I only charge a small fee, so it's not that expensive.";
 #: npc/merchants/old_pharmacist.txt
@@ -363,9 +363,9 @@ msgid ""
 "free... Don't worry though, I only charge a small fee, so it's not that "
 "expensive."
 msgstr ""
-"Se vocÃª pedir com avidez e delicadeza, eu as farei para vocÃª. Mas, nÃ£o de "
-"graÃ§a... Mas nÃ£o se preocupe, eu cobro apenas uma pequena taxa, por isso nÃ£o "
-"Ã© tÃ£o cara assim."
+"Se você pedir com avidez e delicadeza, eu as farei para você. Mas, não de "
+"graça... Mas não se preocupe, eu cobro apenas uma pequena taxa, por isso não "
+"é tão cara assim."
 
 # mes "Red Potion - ^0098E52 Red Herbs, 1 Empty Bottle, 2 zeny fee.^000000";
 #: npc/merchants/old_pharmacist.txt
@@ -382,7 +382,7 @@ msgid ""
 "Orange Potion - ^0098E51 Red Herb, 1 Yellow Herb, 1 Empty Bottle, 5 zeny fee."
 "^000000"
 msgstr ""
-"PoÃ§Ã£o Laranja - ^0098E51 Erva Vermelha, 1 Erva Amarela, 1 Garrafa Vazia, 5 "
+"Poção Laranja - ^0098E51 Erva Vermelha, 1 Erva Amarela, 1 Garrafa Vazia, 5 "
 "taxa zeny.^000000"
 
 # mes "Yellow Potion - ^0098E52 Yellow Herbs, 1 Empty Bottle, 10 zeny.^000000";
@@ -407,7 +407,7 @@ msgstr ""
 #, fuzzy
 msgctxt "Pharmacist"
 msgid "Blue Potion - ^0098E52 Blue Herbs, 1 Empty Bottle, 30 zeny fee.^000000"
-msgstr "PoÃ§Ã£o Azul - ^0098E52 Blue Herbs, 1 Garrafa Vazia, 30 zeny fee.^000000"
+msgstr "Poção Azul - ^0098E52 Blue Herbs, 1 Garrafa Vazia, 30 zeny fee.^000000"
 
 # mes "Green Potion - ^0098E52 Green Herbs, 1 Empty Bottle, 3 zeny fee.^000000";
 #: npc/merchants/old_pharmacist.txt
@@ -415,7 +415,7 @@ msgstr "PoÃ§Ã£o Azul - ^0098E52 Blue Herbs, 1 Garrafa Vazia, 30 zeny fee.^000000
 msgctxt "Pharmacist"
 msgid "Green Potion - ^0098E52 Green Herbs, 1 Empty Bottle, 3 zeny fee.^000000"
 msgstr ""
-"PoÃ§Ã£o Verde - ^0098E52 Ervas Verdes, 1 Garrafa Vazia, 3 taxa zeny.^000000"
+"Poção Verde - ^0098E52 Ervas Verdes, 1 Garrafa Vazia, 3 taxa zeny.^000000"
 
 # mes "What a boring person. If you have something to say, why don't you say it?!";
 #: npc/merchants/old_pharmacist.txt
@@ -423,4 +423,4 @@ msgstr ""
 msgctxt "Pharmacist"
 msgid ""
 "What a boring person. If you have something to say, why don't you say it?!"
-msgstr "Que pessoa entediante. Se vocÃª tem algo a dizer, por que nÃ£o o diz?!"
+msgstr "Que pessoa entediante. Se você tem algo a dizer, por que não o diz?!"

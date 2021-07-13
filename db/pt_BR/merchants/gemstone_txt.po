@@ -1,4 +1,4 @@
-ï»¿# This file is part of Hercules.
+# This file is part of Hercules.
 # http://herc.ws - http://github.com/HerculesWS/Hercules
 #
 # Copyright (C) 2013-2021 Hercules Dev Team
@@ -37,8 +37,8 @@ msgid ""
 "^3355FFWait a second! Right now, you're carrying too many items with you. "
 "Please come back after putting some of your things into Kafra Storage.^000000"
 msgstr ""
-"^3355FFEspere um segundo! Pronto, você está carregando muitos itens com "
-"você. Por favor, volte depois de colocar algumas de suas coisas no Kafra "
+"^3355FFEspere um segundo! Pronto, voc?st?arregando muitos itens com "
+"voc?Por favor, volte depois de colocar algumas de suas coisas no Kafra "
 "Storage.^000000"
 
 # mes "[Jade]";
@@ -74,7 +74,7 @@ msgstr "mesma cor, e eu irei"
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "change them to Gemstones"
-msgstr "mudá-los para Gemstones"
+msgstr "mud?os para Gemstones"
 
 # mes "of a different color.";
 #: npc/merchants/gemstone.txt
@@ -116,28 +116,28 @@ msgstr "Hah...!"
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "You're kidding me, right?"
-msgstr "Você está brincando comigo, certo?"
+msgstr "Voc?st?rincando comigo, certo?"
 
 # mes "I can't provide you with this";
 #: npc/merchants/gemstone.txt
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "I can't provide you with this"
-msgstr "Eu não posso lhe fornecer isto"
+msgstr "Eu n?posso lhe fornecer isto"
 
 # mes "service if you don't";
 #: npc/merchants/gemstone.txt
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "service if you don't"
-msgstr "serviço se você não"
+msgstr "servi?se voc??
 
 # mes "give me at least";
 #: npc/merchants/gemstone.txt
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "give me at least"
-msgstr "me dê pelo menos"
+msgstr "me d?elo menos"
 
 # mes "2 "+getitemname(getarg(0))+"s!";
 #: npc/merchants/gemstone.txt
@@ -177,21 +177,21 @@ msgstr "usando o "
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "that you currently have."
-msgstr "que você tem atualmente."
+msgstr "que voc?em atualmente."
 
 # mes "What do you want to do?";
 #: npc/merchants/gemstone.txt
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "What do you want to do?"
-msgstr "O que você quer fazer?"
+msgstr "O que voc?uer fazer?"
 
 # switch(select("Give me as many as you can.", "I want to set the amount.", "I quit.")) {
 #: npc/merchants/gemstone.txt
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "Give me as many as you can."
-msgstr "Dê-me o máximo que puder."
+msgstr "D?e o m?mo que puder."
 
 # switch(select("Give me as many as you can.", "I want to set the amount.", "I quit.")) {
 #: npc/merchants/gemstone.txt
@@ -218,21 +218,21 @@ msgstr "Quantos"
 #: npc/merchants/gemstone.txt
 msgctxt "Jade#pay"
 msgid "do you want?"
-msgstr "você quer?"
+msgstr "voc?uer?"
 
 # mes "The maximum number";
 #: npc/merchants/gemstone.txt
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "The maximum number"
-msgstr "O número máximo"
+msgstr "O número m?mo"
 
 # mes "that you can enter is 100.";
 #: npc/merchants/gemstone.txt
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "that you can enter is 100."
-msgstr "que você pode entrar é 100."
+msgstr "que voc?ode entrar ?00."
 
 # mes "None at all?";
 #: npc/merchants/gemstone.txt
@@ -246,14 +246,13 @@ msgstr "Nenhuma?"
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "I guess you"
-msgstr "Eu acho que você"
-
+msgstr "Eu acho que voc?
 # mes "changed your mind...";
 #: npc/merchants/gemstone.txt
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "changed your mind..."
-msgstr "mudou de idéia..."
+msgstr "mudou de id?..."
 
 # mes "Errm...";
 #: npc/merchants/gemstone.txt
@@ -274,7 +273,7 @@ msgstr "Eu lhe pedi para entrar"
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "an amount no greater"
-msgstr "uma quantia não maior"
+msgstr "uma quantia n?maior"
 
 # mes "than 100, remember...?";
 #: npc/merchants/gemstone.txt
@@ -288,7 +287,7 @@ msgstr "do que 100, lembra-se...?"
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "You don't have that"
-msgstr "Você não tem isso"
+msgstr "Voc??tem isso"
 
 # mes "many gems to trade...";
 #: npc/merchants/gemstone.txt
@@ -316,14 +315,14 @@ msgstr "Volte a qualquer momento."
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "There you go."
-msgstr "Aí está."
+msgstr "A?st?
 
 # mes "Feel free to come";
 #: npc/merchants/gemstone.txt
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "Feel free to come"
-msgstr "Sinta-se à vontade para vir"
+msgstr "Sinta-se ?ontade para vir"
 
 # mes "back any time.";
 #: npc/merchants/gemstone.txt
@@ -337,11 +336,11 @@ msgstr "voltar a qualquer momento."
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "Hm, what's that look for?"
-msgstr "Hm, o que é que isso procura?"
+msgstr "Hm, o que ?ue isso procura?"
 
 # mes "Is there something on my face?";
 #: npc/merchants/gemstone.txt
 #, fuzzy
 msgctxt "Jade#pay"
 msgid "Is there something on my face?"
-msgstr "Há algo no meu rosto?"
+msgstr "H?lgo no meu rosto?"

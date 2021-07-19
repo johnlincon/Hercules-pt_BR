@@ -12,4 +12,4 @@ Como instalar?
 Muito provavelmente há erro de sintaxe e concordância, eu sozinho não consigo descobrir todos.
 Usem e reportem no projeto.
 
-Não deixe de reportar probemas.
+Não deixe de reportar problemas.

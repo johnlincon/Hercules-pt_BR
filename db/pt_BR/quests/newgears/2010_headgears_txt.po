@@ -1,0 +1,2532 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: 2021-07-17 10:40-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Yotang]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "[Yotang]"
+msgstr "[Yotang]"
+
+# mes "There lives a fairy on the 3rd floor of Gonryun.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "There lives a fairy on the 3rd floor of Gonryun."
+msgstr "Ali vive uma fada no 3º andar de Gonryun."
+
+# mes "She is so famous for her beauty";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "She is so famous for her beauty"
+msgstr "Ela é tão famosa por sua beleza"
+
+# mes "that she even got a fan club.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "that she even got a fan club."
+msgstr "que ela até conseguiu um fã-clube."
+
+# mes "Of course, I am the master of the fan club.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Of course, I am the master of the fan club."
+msgstr "É claro, eu sou o mestre do fã-clube."
+
+# mes "How about joining the fairy fan club?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "How about joining the fairy fan club?"
+msgstr "Que tal entrar para o fã-clube das fadas?"
+
+# if (select("I'm not that interested!!", "I'll join it right away!!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "I'm not that interested!!"
+msgstr "Eu não estou tão interessado!!"
+
+# if (select("I'm not that interested!!", "I'll join it right away!!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "I'll join it right away!!"
+msgstr "Vou me juntar a ele imediatamente!!"
+
+# mes "What! I'm going to tell on you!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "What! I'm going to tell on you!"
+msgstr "O quê! Vou contar sobre você!"
+
+# mes "Oh, aren't those....!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Oh, aren't those....!"
+msgstr "Oh, esses não são....!"
+
+# mes "the materials for the Flower of Fairy?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "the materials for the Flower of Fairy?"
+msgstr "os materiais para a Flor da Fada?"
+
+# mes "Have we met before? You already know everything...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Have we met before? You already know everything..."
+msgstr "Já nos encontramos antes? Você já sabe tudo..."
+
+# mes "Anyway, do you want me to make the Flower of Fairy?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Anyway, do you want me to make the Flower of Fairy?"
+msgstr "De qualquer forma, você quer que eu faça a Flor da Fada?"
+
+# mes "^FF0000Please be aware that^000000";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "^FF0000Please be aware that^000000"
+msgstr "^FF0000Por favor esteja ciente de que^000000"
+
+# mes "^FF0000the refinement on the matereials will all disapper^000000";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "^FF0000the refinement on the matereials will all disapper^000000"
+msgstr "^FF0000 o refinamento das matérias desaparecerá^000000"
+
+# mes "^FF0000if you once combine those.^000000";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "^FF0000if you once combine those.^000000"
+msgstr "^FF0000 se você uma vez combinar esses.^000000"
+
+# if (select("No, next time.", "Make it right now!!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "No, next time."
+msgstr "Não, na próxima vez."
+
+# if (select("No, next time.", "Make it right now!!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Make it right now!!"
+msgstr "Faça isso agora mesmo!!"
+
+# mes "You'll regret it!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "You'll regret it!"
+msgstr "Você vai se arrepender!"
+
+# mes "You're speedy!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "You're speedy!"
+msgstr "Você é rápido!"
+
+# mes "You deserve to be a master of the fanclub for the next term.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "You deserve to be a master of the fanclub for the next term."
+msgstr "Você merece ser um mestre do clube de fãs para o próximo período."
+
+# mes "Combining... ... ...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Combining... ... ..."
+msgstr "Combinando... ... ... ..."
+
+# mes "Huh? You don't have enough";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Huh? You don't have enough"
+msgstr "O que é isso? Você não tem o suficiente"
+
+# mes "materials for it..";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "materials for it.."
+msgstr "materiais para ele..."
+
+# mes "Aren't you wearing Bandana?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Aren't you wearing Bandana?"
+msgstr "Você não está usando Bandana?"
+
+# mes "Check it out!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Check it out!"
+msgstr "Confira!"
+
+# mes "Bring me all the materials,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Bring me all the materials,"
+msgstr "Traga-me todos os materiais,"
+
+# mes "If you want to get the Flower of Fairy.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "If you want to get the Flower of Fairy."
+msgstr "Se você quiser obter a Flor da Fada."
+
+# mes "If you bring me ^0000FF100 Limpid Celestial Robes, 100 Soft Silk Cloth,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "If you bring me ^0000FF100 Limpid Celestial Robes, 100 Soft Silk Cloth,"
+msgstr ""
+"Se você me trouxer ^0000FF100 Telas Celestiais Límpidas, 100 Pano de Seda "
+"Macia,"
+
+# mes "1 Wedding Bouquet, 1 Violet Dyestuffs";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "1 Wedding Bouquet, 1 Violet Dyestuffs"
+msgstr "1 Bouquet de Casamento, 1 Corante Violeta"
+
+# mes "and ^0000FF1 Bandana^000000 which you can find at a store,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "and ^0000FF1 Bandana^000000 which you can find at a store,"
+msgstr "e ^0000FF1 Bandana^000000 que você pode encontrar em uma loja,"
+
+# mes "I will make you a ^0000FFFlower of Fairy^000000.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "I will make you a ^0000FFFlower of Fairy^000000."
+msgstr "Eu farei de você um ^0000FFFlower of Fairy^000000."
+
+# mes "Your bag is too heavy, isn't it?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Your bag is too heavy, isn't it?"
+msgstr "Sua bolsa é muito pesada, não é?"
+
+# mes "Come to me again";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Come to me again"
+msgstr "Venha até mim novamente"
+
+# mes "after emptying your bag.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "after emptying your bag."
+msgstr "depois de esvaziar sua bolsa."
+
+# mes "- Wait !! -";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "- Wait !! -"
+msgstr "- Espere!! -"
+
+# mes "- You have too many items, so it's -";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "- You have too many items, so it's -"
+msgstr "- Você tem muitos itens, então é -"
+
+# mes "- impossible to have more. -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "- impossible to have more. -"
+msgstr "- impossível ter mais. -"
+
+# mes "- Come to me again -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "- Come to me again -"
+msgstr "- Venha até mim novamente -"
+
+# mes "- after emptying some of it. -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "- after emptying some of it. -"
+msgstr "- depois de esvaziar parte dele. -"
+
+# mes "Here, the Flower of Fairy.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Here, the Flower of Fairy."
+msgstr "Aqui, a Flor da Fada."
+
+# mes "See you on the fan meeting!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "See you on the fan meeting!"
+msgstr "Vejo vocês na reunião dos fãs!"
+
+# mes "You can meet the fairy soon";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "You can meet the fairy soon"
+msgstr "Você pode conhecer a fada em breve"
+
+# mes "for there will be a fan meeting";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "for there will be a fan meeting"
+msgstr "pois haverá uma reunião de fãs"
+
+# mes "in the near future.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "in the near future."
+msgstr "num futuro próximo."
+
+# mes "The Flower of Fairy is necessary";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "The Flower of Fairy is necessary"
+msgstr "A Flor da Fada é necessária"
+
+# mes "for joining the fan meeting. Everyone wears it.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "for joining the fan meeting. Everyone wears it."
+msgstr "por participar da reunião de fãs. Todos a usam."
+
+# mes "If you bring me some materials";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "If you bring me some materials"
+msgstr "Se você me trouxer alguns materiais"
+
+# mes "I'll make it for you.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "I'll make it for you."
+msgstr "Eu o farei para você."
+
+# mes "I need ^0000FF100 Limpid Celestial Robes, 100 Soft Silk Cloth,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "I need ^0000FF100 Limpid Celestial Robes, 100 Soft Silk Cloth,"
+msgstr ""
+"Preciso de ^0000FF100 Telas Celestiais Límpidas, 100 Pano de Seda Macia,"
+
+# if (select("I won't do it.", "Here, I have the materials!")==1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "I won't do it."
+msgstr "Eu não o farei."
+
+# if (select("I won't do it.", "Here, I have the materials!")==1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Here, I have the materials!"
+msgstr "Aqui, eu tenho os materiais!"
+
+# mes "Huh? Are you kidding me?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "Huh? Are you kidding me?"
+msgstr "O que é isso? Você está brincando comigo?"
+
+# mes "and ^0000FF1 Bandana^000000 which you can find at a store";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "and ^0000FF1 Bandana^000000 which you can find at a store"
+msgstr "e ^0000FF1 Bandana^000000 que você pode encontrar em uma loja"
+
+# mes "to make a ^0000FFFlower of Fairy^000000.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Yotang#Flower_Of_Fairy"
+msgid "to make a ^0000FFFlower of Fairy^000000."
+msgstr "para fazer um ^0000FFFlower of Fairy^000000."
+
+# mes "[Drunken Man]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "[Drunken Man]"
+msgstr "[Homem bêbado]"
+
+# mes "Hey.. you wanna fight?!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Hey.. you wanna fight?!"
+msgstr "Ei... você quer lutar?!"
+
+# mes "He seems to be drunken badly. What should I do?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "He seems to be drunken badly. What should I do?"
+msgstr "Ele parece estar muito bêbado. O que eu devo fazer?"
+
+# if (select("Just ignore him.", "Fight!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Just ignore him."
+msgstr "Basta ignorá-lo."
+
+# if (select("Just ignore him.", "Fight!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Fight!"
+msgstr "Luta!"
+
+# mes "Why are you ignoring me?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Why are you ignoring me?"
+msgstr "Por que você está me ignorando?"
+
+# mes "Are you afraid of me?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Are you afraid of me?"
+msgstr "Você está com medo de mim?"
+
+# mes "What... you're weaker than me.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "What... you're weaker than me."
+msgstr "O que... você é mais fraco do que eu."
+
+# mes "Go and reach the higher level!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Go and reach the higher level!"
+msgstr "Vá e alcance o nível mais alto!"
+
+# mes "Hold! I need some armor to wear.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Hold! I need some armor to wear."
+msgstr "Espere! Preciso de uma armadura para usar."
+
+# mes "That's it, Necktie, Necktie...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "That's it, Necktie, Necktie..."
+msgstr "É isso aí, Necktie, Necktie..."
+
+# mes "Once I wear the Necktie on my head,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Once I wear the Necktie on my head,"
+msgstr "Uma vez que uso a gravata na minha cabeça,"
+
+# mes "I will be no match for you!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "I will be no match for you!"
+msgstr "Eu não estarei à sua altura!"
+
+# mes "You must be nervous...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "You must be nervous..."
+msgstr "Você deve estar nervoso..."
+
+# mes "Hmm... where is the Necktie?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Hmm... where is the Necktie?"
+msgstr "Hmm... onde está a gravata?"
+
+# mes "Oh, you're having the materials for Necktie! give them to me!!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Oh, you're having the materials for Necktie! give them to me!!"
+msgstr "Oh, você está tendo os materiais para Necktie! dê-os a mim!"
+
+# if (select("No way!", "Here you are.")==1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "No way!"
+msgstr "Claro que não!"
+
+# if (select("No way!", "Here you are.")==1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Here you are."
+msgstr "Aqui está você."
+
+# mes "Ohh, you are scared!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Ohh, you are scared!"
+msgstr "Ohh, você está assustado!"
+
+# mes "I won again!!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "I won again!!"
+msgstr "Eu ganhei novamente!!"
+
+# mes "Great, wait for a moment!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Great, wait for a moment!"
+msgstr "Ótimo, espere por um momento!"
+
+# mes "Combining... ch...ch... ...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Combining... ch...ch... ..."
+msgstr "Combinando... ch... ch... ..."
+
+# mes "Drunk...drunk.... Zzzzz...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Drunk...drunk.... Zzzzz..."
+msgstr "Bêbado...bêbado.... Zzzzz..."
+
+# mes "Necktie is heavier than I thought.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Necktie is heavier than I thought."
+msgstr "A gravata é mais pesada do que eu pensava."
+
+# mes "Seems like the very legendary Necktie.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Seems like the very legendary Necktie."
+msgstr "Parece ser a lendária gravata."
+
+# mes "- Wait !! -";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Drunken Man#Necktie"
+msgid "- Wait !! -"
+msgstr "- Espere!! -"
+
+# mes "- You have too many items, so it's -";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Drunken Man#Necktie"
+msgid "- You have too many items, so it's -"
+msgstr "- Você tem muitos itens, então é -"
+
+# mes "- impossible to have more. -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "- impossible to have more. -"
+msgstr "- impossível ter mais. -"
+
+# mes "- Come to me again -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "- Come to me again -"
+msgstr "- Venha até mim novamente -"
+
+# mes "- after emptying some of it. -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "- after emptying some of it. -"
+msgstr "- depois de esvaziar parte dele. -"
+
+# mes "He zonked out as soon as";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "He zonked out as soon as"
+msgstr "Ele se retirou assim que"
+
+# mes "he finished it.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "he finished it."
+msgstr "ele o terminou."
+
+# mes "Let's just take the Necktie.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Let's just take the Necktie."
+msgstr "Vamos apenas levar a gravata."
+
+# mes "Huh? Where are all the materials gone?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Huh? Where are all the materials gone?"
+msgstr "O que é isso? Para onde foram todos os materiais?"
+
+# mes "Did you take it back that you're so afraid of me?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Did you take it back that you're so afraid of me?"
+msgstr "Você retirou o que disse, que tem tanto medo de mim?"
+
+# mes "Hey, go and get";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Hey, go and get"
+msgstr "Ei, vá e pegue"
+
+# mes "^FF00001 Cobaltblue Dyestuff, 30 Oil Papers, 100 Transparent Cloth, 20 Spools^000000!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid ""
+"^FF00001 Cobaltblue Dyestuff, 30 Oil Papers, 100 Transparent Cloth, 20 "
+"Spools^000000!"
+msgstr ""
+"^FF00001 Cobaltblue Dyestuff, 30 Oil Papers, 100 Transparent Cloth, 20 "
+"Spools^000000!"
+
+# mes "I will beat you off wearing the legendary Necktie!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "I will beat you off wearing the legendary Necktie!"
+msgstr "Eu vou te bater usando a lendária gravata!"
+
+# if (select("I won't.", "Let's go and get them.") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "I won't."
+msgstr "Não direi."
+
+# if (select("I won't.", "Let's go and get them.") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Let's go and get them."
+msgstr "Vamos buscá-los."
+
+# mes "Are you dropping out?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Are you dropping out?"
+msgstr "Você está desistindo?"
+
+# mes "Did I win again?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Did I win again?"
+msgstr "Eu ganhei novamente?"
+
+# mes "I'm telling you once more";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "I'm telling you once more"
+msgstr "Estou lhe dizendo mais uma vez"
+
+# mes "for you might forget it, dumbhead!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "for you might forget it, dumbhead!"
+msgstr "pois você pode esquecer, idiota!"
+
+# mes "Hurry! I'll be futzing around with others.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Drunken Man#Necktie"
+msgid "Hurry! I'll be futzing around with others."
+msgstr "Rápido! Estarei futuramente com outros."
+
+# mes "[Hat Girl]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "[Hat Girl]"
+msgstr "[Menina do chapéu]"
+
+# mes "Isn't the unique hat much better";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Isn't the unique hat much better"
+msgstr "O chapéu único não é muito melhor"
+
+# mes "than the common hairbands?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "than the common hairbands?"
+msgstr "do que as comuns faixas de cabelo?"
+
+# if (select("I still prefer hairbands!", "Hat is the best!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "I still prefer hairbands!"
+msgstr "Eu ainda prefiro as bandas de cabelo!"
+
+# if (select("I still prefer hairbands!", "Hat is the best!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Hat is the best!"
+msgstr "O chapéu é o melhor!"
+
+# mes "Wear your boring hairband for the whole lifetime!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Wear your boring hairband for the whole lifetime!"
+msgstr "Use sua fita aborrecida para o cabelo por toda a vida!"
+
+# mes "You have a good sense!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "You have a good sense!"
+msgstr "Você tem um bom senso!"
+
+# mes "I thought I would make";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "I thought I would make"
+msgstr "Eu pensei em fazer"
+
+# mes "a trendy hat.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "a trendy hat."
+msgstr "um chapéu da moda."
+
+# mes "I will give you an honor,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "I will give you an honor,"
+msgstr "Eu lhe darei uma honra,"
+
+# mes "to be a fashion superstar,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "to be a fashion superstar,"
+msgstr "para ser uma superestrela da moda,"
+
+# mes "if you bring me the materials for it.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "if you bring me the materials for it."
+msgstr "se você me trouxer os materiais para isso."
+
+# mes "Oh! you're bringing ^0000FFthe materials for Hair Brush^000000.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Oh! you're bringing ^0000FFthe materials for Hair Brush^000000."
+msgstr ""
+"Oh! você está trazendo ^0000FF os materiais para escova de cabelo^000000."
+
+# mes "Do you want me to make it now?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Do you want me to make it now?"
+msgstr "Você quer que eu consiga agora?"
+
+# if (select("I think the hairband is better...", "Yes, please make it!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "I think the hairband is better..."
+msgstr "Acho que a faixa de cabelo é melhor..."
+
+# if (select("I think the hairband is better...", "Yes, please make it!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Yes, please make it!"
+msgstr "Sim, por favor, faça isso!"
+
+# mes "Okay, I'll do it right away!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Okay, I'll do it right away!"
+msgstr "Está bem, vou fazer isso imediatamente!"
+
+# mes "Ch ch ch... combining...ch ch...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Ch ch ch... combining...ch ch..."
+msgstr "Ch ch ch... combinando...ch ch..."
+
+# mes "Here, it's done!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Here, it's done!"
+msgstr "Aqui, está feito!"
+
+# mes "Now you're the fashionista!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Now you're the fashionista!"
+msgstr "Agora você é o fashionista!"
+
+# mes "You're carrying too much stuff.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "You're carrying too much stuff."
+msgstr "Você está carregando muita coisa."
+
+# mes "Come again after emptying your bag.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Come again after emptying your bag."
+msgstr "Volte depois de esvaziar sua bolsa."
+
+# mes "- Wait !! -";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Hat Girl#Hair_Brush"
+msgid "- Wait !! -"
+msgstr "- Espere!! -"
+
+# mes "- You have too many items, so it's -";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Hat Girl#Hair_Brush"
+msgid "- You have too many items, so it's -"
+msgstr "- Você tem muitos itens, então é -"
+
+# mes "- impossible to have more. -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "- impossible to have more. -"
+msgstr "- impossível ter mais. -"
+
+# mes "- Come to me again -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "- Come to me again -"
+msgstr "- Venha até mim novamente -"
+
+# mes "- after emptying some of it. -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "- after emptying some of it. -"
+msgstr "- depois de esvaziar parte dele. -"
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "["
+msgstr "["
+
+# mes "I got the Hair Brush.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "I got the Hair Brush."
+msgstr "Eu tenho a escova de cabelo."
+
+# mes "...but it makes me sad.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "...but it makes me sad."
+msgstr "...mas isso me deixa triste."
+
+# mes "Huh? Don't you want to be";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Huh? Don't you want to be"
+msgstr "O que é isso? Você não quer ser"
+
+# mes "the best fashionista?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "the best fashionista?"
+msgstr "o melhor fashionista?"
+
+# mes "You don't have enough materials?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "You don't have enough materials?"
+msgstr "Você não tem materiais suficientes?"
+
+# mes "To make the latest style ^0000FFHair_Brush^000000,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "To make the latest style ^0000FFHair_Brush^000000,"
+msgstr "Para fazer o último estilo ^0000FFHair_Brush^000000,"
+
+# mes "I need ^0000FF1 Mixture, 1 Scarlet Dyestuffs,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "I need ^0000FF1 Mixture, 1 Scarlet Dyestuffs,"
+msgstr "Preciso de ^0000FF1 Mistura, 1 Corante Escarlate,"
+
+# mes "50 Solid Shells, 5 Eluniums,^000000";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "50 Solid Shells, 5 Eluniums,^000000"
+msgstr "50 conchas sólidas, 5 Eluniums,^000000"
+
+# mes "also 1 ^0000FFAxe^000000 with 4 sockets on it.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "also 1 ^0000FFAxe^000000 with 4 sockets on it."
+msgstr "também 1 ^0000FFAxe^000000 com 4 soquetes."
+
+# mes "What are you doing? Hurry!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "What are you doing? Hurry!"
+msgstr "O que você está fazendo? Depressa!"
+
+# mes "Here is one tip for you.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "Here is one tip for you."
+msgstr "Aqui está uma dica para você."
+
+# mes "You can easily get Solid Shells and Elunium from the monsters.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Hat Girl#Hair_Brush"
+msgid "You can easily get Solid Shells and Elunium from the monsters."
+msgstr "Você pode facilmente obter conchas sólidas e Elunium dos monstros."
+
+# mes "[Bebete]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "[Bebete]"
+msgstr "[Bebete]"
+
+# mes "A fake angel? Go away!!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "A fake angel? Go away!!"
+msgstr "Um anjo falso? Vá embora!!"
+
+# mes "The real angel has";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "The real angel has"
+msgstr "O verdadeiro anjo tem"
+
+# mes "the wings on the head!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "the wings on the head!"
+msgstr "as asas na cabeça!"
+
+# mes "A fake angel? Go away!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "A fake angel? Go away!"
+msgstr "Um anjo falso? Vá embora!"
+
+# mes "The real angel";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "The real angel"
+msgstr "O verdadeiro anjo"
+
+# mes "is not as weak as you.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "is not as weak as you."
+msgstr "não é tão fraco quanto você."
+
+# mes "Oh, the angel came again.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Oh, the angel came again."
+msgstr "Oh, o anjo veio novamente."
+
+# mes "Are you quite satisfied with ^FF0000Statue Of Baby Angel^000000, aren't you?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid ""
+"Are you quite satisfied with ^FF0000Statue Of Baby Angel^000000, aren't you?"
+msgstr ""
+"Você está bastante satisfeito com ^FF0000Statue Of Baby Angel^000000, não "
+"está?"
+
+# mes "Ah! Hey, angel~ angel~";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Ah! Hey, angel~ angel~"
+msgstr "Ah! Ei, anjo~ anjo~"
+
+# mes "Please show me the Statue of Baby Angel!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Please show me the Statue of Baby Angel!"
+msgstr "Por favor, mostre-me a Estátua do Bebê Anjo!"
+
+# mes "I heard every angel has it!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "I heard every angel has it!"
+msgstr "Ouvi dizer que todos os anjos o têm!"
+
+# select("Statue of Baby Angel?");
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Statue of Baby Angel?"
+msgstr "Estátua de Baby Angel?"
+
+# mes "Did you lose it?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Did you lose it?"
+msgstr "Você o perdeu?"
+
+# mes "Do you want me to make it for you?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Do you want me to make it for you?"
+msgstr "Você quer que eu faça isso para você?"
+
+# if (select("No, thanks.", "Yes, I want it now.") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "No, thanks."
+msgstr "Não, obrigado."
+
+# if (select("No, thanks.", "Yes, I want it now.") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Yes, I want it now."
+msgstr "Sim, eu quero isso agora."
+
+# mes "Oh... it's not easy to make a living!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Oh... it's not easy to make a living!"
+msgstr "Oh... não é fácil ganhar a vida!"
+
+# mes "Wow, you already know all the materials, angel.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Wow, you already know all the materials, angel."
+msgstr "Uau, você já conhece todos os materiais, anjo."
+
+# mes "You're lucky. I have one statue on going.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "You're lucky. I have one statue on going."
+msgstr "Você tem sorte. Eu tenho uma estátua em andamento."
+
+# mes "So you don't need to wait for long.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "So you don't need to wait for long."
+msgstr "Portanto, não é preciso esperar muito tempo."
+
+# mes "What are you carrying that much, angel?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "What are you carrying that much, angel?"
+msgstr "O que você está carregando tanto, anjo?"
+
+# mes "I can't give you the item";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "I can't give you the item"
+msgstr "Eu não posso lhe dar o item"
+
+# mes "because your bag is too full.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "because your bag is too full."
+msgstr "porque sua bolsa está muito cheia."
+
+# mes "- Wait !! -";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "- Wait !! -"
+msgstr "- Espere!! -"
+
+# mes "- You have too many items, so it's -";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "- You have too many items, so it's -"
+msgstr "- Você tem muitos itens, então é -"
+
+# mes "- impossible to have more. -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "- impossible to have more. -"
+msgstr "- impossível ter mais. -"
+
+# mes "- Come to me again -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "- Come to me again -"
+msgstr "- Venha até mim novamente -"
+
+# mes "- after emptying some of it. -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "- after emptying some of it. -"
+msgstr "- depois de esvaziar parte dele. -"
+
+# mes "I got the ^FF0000Statue of Baby Angel^000000.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "I got the ^FF0000Statue of Baby Angel^000000."
+msgstr "Eu tenho o ^FF0000Statue of Baby Angel^000000."
+
+# mes "See you again, my angel~!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "See you again, my angel~!"
+msgstr "Até a próxima, meu anjo!"
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "["
+msgstr "["
+
+# mes "... ...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "... ..."
+msgstr "... ..."
+
+# mes "Hmm... I guess I was fooled by that little kid.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Hmm... I guess I was fooled by that little kid."
+msgstr "Hmm... Acho que fui enganado por aquele garotinho."
+
+# mes "Hey, I don't see";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Hey, I don't see"
+msgstr "Ei, eu não vejo"
+
+# mes "any materials in your bag..";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "any materials in your bag.."
+msgstr "qualquer material em sua bolsa..."
+
+# mes "Hey, angel...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Hey, angel..."
+msgstr "Ei, anjo..."
+
+# mes "Wow, the angel!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Wow, the angel!"
+msgstr "Uau, o anjo!"
+
+# mes "Are you a real angel? Have you been to heaven?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Are you a real angel? Have you been to heaven?"
+msgstr "Você é um anjo de verdade? Você já esteve no céu?"
+
+# if (select("What a bullshit!", "Let's keep the childhood innocence!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "What a bullshit!"
+msgstr "Que besteira!"
+
+# if (select("What a bullshit!", "Let's keep the childhood innocence!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Let's keep the childhood innocence!"
+msgstr "Vamos manter a inocência infantil!"
+
+# mes "Angel and heaven? It's all made up! ";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Angel and heaven? It's all made up! "
+msgstr "O anjo e o céu? É tudo inventado! "
+
+# mes "There's nothing. Everything is lie!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "There's nothing. Everything is lie!"
+msgstr "Não há nada. Tudo é mentira!"
+
+# mes "You're a devil! a monster! an idiot!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "You're a devil! a monster! an idiot!"
+msgstr "Você é um demônio! um monstro! um idiota!"
+
+# mes "Of course. I used to dance with the dragon and zebra";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Of course. I used to dance with the dragon and zebra"
+msgstr "É claro. Eu costumava dançar com o dragão e a zebra"
+
+# mes "on the vanilla-taste clouds.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "on the vanilla-taste clouds."
+msgstr "nas nuvens com sabor de baunilha."
+
+# mes "That's just what I've been imagining!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "That's just what I've been imagining!"
+msgstr "Isso é exatamente o que eu tenho imaginado!"
+
+# mes "Oops, did you lose it?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Oops, did you lose it?"
+msgstr "Oops, você o perdeu?"
+
+# mes "Do you want me to make one for you?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Do you want me to make one for you?"
+msgstr "Você quer que eu faça um para você?"
+
+# mes "I made it several times before";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "I made it several times before"
+msgstr "Eu o fiz várias vezes antes"
+
+# mes "for the angels like you.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "for the angels like you."
+msgstr "para os anjos como você."
+
+# mes "I can make it with ^FF0000 500 Feather Of Birds, 1 Holy Water, 10 Muscovite, 1 Spirit Chain and 1 Shining Stone^000000.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid ""
+"I can make it with ^FF0000 500 Feather Of Birds, 1 Holy Water, 10 Muscovite, "
+"1 Spirit Chain and 1 Shining Stone^000000."
+msgstr ""
+"Posso fazê-lo com ^FF0000 500 penas de pássaros, 1 água benta, 10 "
+"moscovitas, 1 corrente espiritual e 1 pedra brilhante^000000."
+
+# mes "Okay, hurry!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Bebete#Baby_Angel_Status"
+msgid "Okay, hurry!"
+msgstr "Ok, rápido!"
+
+# mes "[???]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "[???]"
+msgstr "[???]"
+
+# mes "Hmm..Hm..";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Hmm..Hm.."
+msgstr "Hmm...Hm..."
+
+# mes "It seems my transformation into the child's appearance is succeessful.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "It seems my transformation into the child's appearance is succeessful."
+msgstr "Parece que minha transformação na aparência da criança é um sucesso."
+
+# mes "[" + strcharinfo(PC_NAME) + "]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "["
+msgstr "["
+
+# mes "... ... ... ...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "... ... ... ..."
+msgstr "... ... ... ..."
+
+# mes "Human! I am here to ask you some help.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Human! I am here to ask you some help."
+msgstr "Humano! Estou aqui para lhe pedir ajuda."
+
+# mes "... ... ...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "... ... ..."
+msgstr "... ... ..."
+
+# mes "I am the great king Froggie Vll!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I am the great king Froggie Vll!"
+msgstr "Eu sou o grande rei Froggie Vll!"
+
+# mes "[King Froggie Vll]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "[King Froggie Vll]"
+msgstr "[Rei Froggie Vll]"
+
+# mes "but I think you're not strong enough to help us.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "but I think you're not strong enough to help us."
+msgstr "mas eu acho que você não é forte o suficiente para nos ajudar."
+
+# mes "Go and train more!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Go and train more!"
+msgstr "Vá e treine mais!"
+
+# mes "Over lvl 65 human will be fine for us.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Over lvl 65 human will be fine for us."
+msgstr "Mais de 65 pessoas estarão bem para nós."
+
+# mes "I am the great king, Froggie Vll..";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I am the great king, Froggie Vll.."
+msgstr "Eu sou o grande rei, Froggie Vll."
+
+# mes "I need your help!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I need your help!"
+msgstr "Eu preciso de sua ajuda!"
+
+# if (select("Just ignore it.", "Let's help him.") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Just ignore it."
+msgstr "Basta ignorá-lo."
+
+# if (select("Just ignore it.", "Let's help him.") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Let's help him."
+msgstr "Vamos ajudá-lo."
+
+# mes "Talking frog...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Talking frog..."
+msgstr "Sapo falante..."
+
+# mes "Now I've seen everything.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Now I've seen everything."
+msgstr "Agora eu já vi de tudo."
+
+# mes "Croaking...Croaking...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Croaking...Croaking..."
+msgstr "Croaking...Croaking..."
+
+# mes "What can I help you?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "What can I help you?"
+msgstr "Em que posso ajudá-lo?"
+
+# mes "Our great frog race is now endangered because many travellers came here and take our eggs as a kind of souvenirs. I even heard there are many left on the ground here and there, so I need your help. Please bring back ^FF0000100 Frogspawn^000000.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"Our great frog race is now endangered because many travellers came here and "
+"take our eggs as a kind of souvenirs. I even heard there are many left on "
+"the ground here and there, so I need your help. Please bring back ^FF0000100 "
+"Frogspawn^000000."
+msgstr ""
+"Nossa grande raça de sapos está agora em perigo porque muitos viajantes "
+"vieram aqui e levaram nossos ovos como uma espécie de lembranças. Eu até "
+"ouvi dizer que ainda há muitos no chão aqui e ali, por isso preciso de sua "
+"ajuda. Por favor, traga de volta ^FF0000100 Frogspawn^000000."
+
+# mes "Sure, I will.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Sure, I will."
+msgstr "Claro que sim."
+
+# mes "I will be waiting for you!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I will be waiting for you!"
+msgstr "Eu estarei esperando por você!"
+
+# mes "What are you doing here?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "What are you doing here?"
+msgstr "O que você faz aqui?"
+
+# mes "Go and get ^FF0000100 Frogspawn^000000!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Go and get ^FF0000100 Frogspawn^000000!"
+msgstr "Vá e pegue ^FF0000100 Frogspawn^000000!"
+
+# mes "Oh, you brought all of them!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Oh, you brought all of them!"
+msgstr "Oh, você trouxe todos eles!"
+
+# mes "Thank you so much, " + strcharinfo(PC_NAME) + ".";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Thank you so much, "
+msgstr "Muito obrigado, "
+
+# mes "By the way, we have another urgent matter. So I would ask you one more help.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"By the way, we have another urgent matter. So I would ask you one more help."
+msgstr ""
+"A propósito, temos outro assunto urgente. Por isso, gostaria de pedir mais "
+"uma ajuda."
+
+# mes "Frogs are healthy food to the snakes.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Frogs are healthy food to the snakes."
+msgstr "As rãs são alimentos saudáveis para as cobras."
+
+# mes "I know well.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I know well."
+msgstr "Eu sei bem."
+
+# mes "Well, that's good. Aren't you feel sorry for our race?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Well, that's good. Aren't you feel sorry for our race?"
+msgstr "Bem, isso é bom. Você não sente pena de nossa raça?"
+
+# mes "So, I hereby ask you to take revenge on them. Kill ^FF000050 Side Winder^000000 for us.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"So, I hereby ask you to take revenge on them. Kill ^FF000050 Side "
+"Winder^000000 for us."
+msgstr ""
+"Por isso, peço-lhes que se vinguem deles. Matar ^FF000050 Side Winder^000000 "
+"para nós."
+
+# mes "I'll be waiting for your news!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I'll be waiting for your news!"
+msgstr "Ficarei esperando suas notícias!"
+
+# mes "I'm waiting for your good news.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I'm waiting for your good news."
+msgstr "Estou esperando suas boas notícias."
+
+# mes "It would be a piece of cake for you";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "It would be a piece of cake for you"
+msgstr "Seria canja para você"
+
+# mes "to kill ^FF000050 Side Winders^000000. Keep it up!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "to kill ^FF000050 Side Winders^000000. Keep it up!"
+msgstr "para matar ^FF000050 Side Winders^000000. Continuem assim!"
+
+# mes "I'm back.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I'm back."
+msgstr "Estou de volta."
+
+# mes "You seemingly killed all the Side Winders!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "You seemingly killed all the Side Winders!"
+msgstr "Você aparentemente matou todos os bobinadores laterais!"
+
+# mes "You became an example for the young frogs. Thank you again.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "You became an example for the young frogs. Thank you again."
+msgstr ""
+"Você se tornou um exemplo para os jovens sapos. Mais uma vez, obrigado."
+
+# mes "Therefore, I'm considering adding your outstanding exploit to our frog's history book. But I need your evidence for your work.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"Therefore, I'm considering adding your outstanding exploit to our frog's "
+"history book. But I need your evidence for your work."
+msgstr ""
+"Portanto, estou considerando acrescentar sua extraordinária façanha ao livro "
+"de história do nosso sapo. Mas eu preciso de suas provas para seu trabalho."
+
+# mes "Please bring me ^FF0000 100 ^000000 ^FF0000Poisonous Canines^000000 from the snakes.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"Please bring me ^FF0000 100 ^000000 ^FF0000Poisonous Canines^000000 from the "
+"snakes."
+msgstr ""
+"Por favor, traga-me ^FF0000100 ^FF000000 ^FF0000Caninos ^000000 das "
+"serpentes."
+
+# mes "I'm happy to be added in the history book. I'll go and get them.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I'm happy to be added in the history book. I'll go and get them."
+msgstr "Estou feliz por ser incluído no livro de história. Eu vou buscá-los."
+
+# mes "Obedient, hard-working... I hope I have a loyal frog like you.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Obedient, hard-working... I hope I have a loyal frog like you."
+msgstr "Obedientes, trabalhadoras... Espero ter um sapo leal como você."
+
+# mes "How about ^FF0000100 Poisonous Canines^000000?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "How about ^FF0000100 Poisonous Canines^000000?"
+msgstr "Que tal ^FF0000100 Caninos Venenosos^000000?"
+
+# mes "Hurry, it's a rare opportunity to be added in the frog histroy book!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Hurry, it's a rare opportunity to be added in the frog histroy book!"
+msgstr ""
+"Depressa, é uma oportunidade rara de ser incluída no livro de histórias de "
+"sapos!"
+
+# mes "Oh, you brought Poisonous Canines! Now, I'm able to put you in the frog history book officially.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"Oh, you brought Poisonous Canines! Now, I'm able to put you in the frog "
+"history book officially."
+msgstr ""
+"Oh, você trouxe os caninos venenosos! Agora, eu posso colocá-lo oficialmente "
+"no livro de história dos sapos."
+
+# mes "That's good for me.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "That's good for me."
+msgstr "Isso é bom para mim."
+
+# mes "I have a better news!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I have a better news!"
+msgstr "Eu tenho uma notícia melhor!"
+
+# mes "I found a great method to keep our race while I was looking up the history book!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"I found a great method to keep our race while I was looking up the history "
+"book!"
+msgstr ""
+"Encontrei um ótimo método para manter nossa raça enquanto eu procurava o "
+"livro de história!"
+
+# mes "The answer was in the frog history book. In the old days, the great King Froggie lll made a secret medicine enabling us to use a hiding skill from the snakes.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"The answer was in the frog history book. In the old days, the great King "
+"Froggie lll made a secret medicine enabling us to use a hiding skill from "
+"the snakes."
+msgstr ""
+"A resposta estava no livro de história do sapo. Antigamente, o grande rei "
+"Froggie lll fazia um remédio secreto que nos permitia usar uma habilidade de "
+"esconder das cobras."
+
+# mes "I should have known this earlier...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I should have known this earlier..."
+msgstr "Eu deveria ter sabido disso antes..."
+
+# mes "Please get me ^FF000050 Scaled Skins^000000.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Please get me ^FF000050 Scaled Skins^000000."
+msgstr "Por favor, me consiga ^FF000050 Scaled Skins^000000."
+
+# mes "It's not easy to get, but I'm sure you can do it.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "It's not easy to get, but I'm sure you can do it."
+msgstr ""
+"Não é fácil de conseguir, mas tenho certeza de que você pode fazer isso."
+
+# mes "Still here? Go and get ^FF000050 Scaled Skins^000000! Please hurry!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Still here? Go and get ^FF000050 Scaled Skins^000000! Please hurry!"
+msgstr ""
+"Ainda aqui? Vá e pegue ^FF000050 Scaled Skins^000000! Por favor, apresse-se!"
+
+# mes "Excellent!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Excellent!"
+msgstr "Excelente!"
+
+# mes "You're like the great King Froggie lll in his young days!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "You're like the great King Froggie lll in his young days!"
+msgstr "Você é como o grande Rei Froggie lll em seus dias de juventude!"
+
+# mes "You are already the hero for our frogs! If I have a child, I would marry you up with my child.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"You are already the hero for our frogs! If I have a child, I would marry you "
+"up with my child."
+msgstr ""
+"Você já é o herói de nossos sapos! Se eu tivesse um filho, eu o casaria com "
+"meu filho."
+
+# mes "Ah.. No, thanks.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Ah.. No, thanks."
+msgstr "Ah... Não, obrigado."
+
+# mes "^FF0000(Are you telling me to marry with A Frog???)^000000";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "^FF0000(Are you telling me to marry with A Frog???)^000000"
+msgstr "^FF0000(Você está me dizendo para casar com A Frog????)^000000"
+
+# mes "Thanks to you, the population of frog has increased but we're short of food.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"Thanks to you, the population of frog has increased but we're short of food."
+msgstr ""
+"Graças a você, a população de sapos aumentou, mas estamos com falta de "
+"alimentos."
+
+# mes "The best food for us is ^FF0000Argiope^000000.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "The best food for us is ^FF0000Argiope^000000."
+msgstr "A melhor comida para nós é ^FF0000Argiope^000000."
+
+# mes "Now, what are you doing, our hero?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Now, what are you doing, our hero?"
+msgstr "Agora, o que você está fazendo, nosso herói?"
+
+# mes "Go and get ^FF000050 Argiopes^000000!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Go and get ^FF000050 Argiopes^000000!"
+msgstr "Vá e pegue ^FF000050 Argiopes^000000!"
+
+# mes "My hero, are you going to starve us to death?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "My hero, are you going to starve us to death?"
+msgstr "Meu herói, você vai nos matar de fome?"
+
+# mes "Go and bring us ^FF000050 Argiopes^000000!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Go and bring us ^FF000050 Argiopes^000000!"
+msgstr "Vá e traga-nos ^FF000050 Argiopes^000000!"
+
+# mes "I think I saw you a while ago, but now you became the hero for the frogs...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid ""
+"I think I saw you a while ago, but now you became the hero for the frogs..."
+msgstr ""
+"Acho que o vi há algum tempo, mas agora você se tornou o herói dos sapos..."
+
+# mes "It was really lucky for me to ask you a favor.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "It was really lucky for me to ask you a favor."
+msgstr "Foi realmente uma sorte para mim pedir-lhe um favor."
+
+# mes "I'd like to give you a reward, our hero. But your bag is now too heavy.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I'd like to give you a reward, our hero. But your bag is now too heavy."
+msgstr ""
+"Eu gostaria de lhe dar uma recompensa, nosso herói. Mas sua bolsa agora está "
+"muito pesada."
+
+# mes "- Wait !! -";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Roda Frog#Frog_Cap"
+msgid "- Wait !! -"
+msgstr "- Espere!! -"
+
+# mes "- You have too many items, so it's -";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Roda Frog#Frog_Cap"
+msgid "- You have too many items, so it's -"
+msgstr "- Você tem muitos itens, então é -"
+
+# mes "- impossible to have more. -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "- impossible to have more. -"
+msgstr "- impossível ter mais. -"
+
+# mes "- Come to me again -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "- Come to me again -"
+msgstr "- Venha até mim novamente -"
+
+# mes "- after emptying some of it. -";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "- after emptying some of it. -"
+msgstr "- depois de esvaziar parte dele. -"
+
+# mes "Frogs, do you have any objection";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Frogs, do you have any objection"
+msgstr "Você tem alguma pergunta"
+
+# mes "to give our hero, " + strcharinfo(PC_NAME) + "";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Roda Frog#Frog_Cap"
+msgid "to give our hero, "
+msgstr "para dar ao nosso herói, "
+
+# mes "a Frog Hat which is one of our precious treasures?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "a Frog Hat which is one of our precious treasures?"
+msgstr "um chapéu de sapo que é um de nossos preciosos tesouros?"
+
+# mes "[Sounds from somewhere]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "[Sounds from somewhere]"
+msgstr "[Sons de algum lugar]"
+
+# mes "Croak...croak...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Croak...croak..."
+msgstr "Croak...croak..."
+
+# mes "croooooaaaaak~~~";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "croooooaaaaak~~~"
+msgstr "croooooaaaak~~~~"
+
+# mes "Croak croak";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Croak croak"
+msgstr "Croak croak"
+
+# mes "Hmm, there is no objection.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Hmm, there is no objection."
+msgstr "Hmm, não há objeção."
+
+# mes "I hearby give " + strcharinfo(PC_NAME) + ", our hero, this Frog Hat.";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Roda Frog#Frog_Cap"
+msgid "I hearby give "
+msgstr "Eu ouço dizer que "
+
+# mes "You are always welcome.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "You are always welcome."
+msgstr "Você é sempre bem-vindo."
+
+# mes "Visit here at any time.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Visit here at any time."
+msgstr "Visite aqui a qualquer momento."
+
+# mes "All the frogs in the world, praise " + strcharinfo(PC_NAME) + ", our eternal hero!";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Roda Frog#Frog_Cap"
+msgid "All the frogs in the world, praise "
+msgstr "Todos os sapos do mundo, louvor "
+
+# mes "There is a frog. What should I do?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "There is a frog. What should I do?"
+msgstr "Há um sapo. O que eu devo fazer?"
+
+# if (select("Throw it a stone.", "Have a conversation.") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Throw it a stone."
+msgstr "Atire uma pedra."
+
+# if (select("Throw it a stone.", "Have a conversation.") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Have a conversation."
+msgstr "Tenha uma conversa."
+
+# mes "Ouch~";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Ouch~"
+msgstr "Ouch~"
+
+# mes "It's so amazing to see";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "It's so amazing to see"
+msgstr "É tão incrível ver"
+
+# mes "the frog which transforms itself.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "the frog which transforms itself."
+msgstr "o sapo que se transforma."
+
+# mes "Oh my.. the frog transformed into a child...";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Roda Frog#Frog_Cap"
+msgid "Oh my.. the frog transformed into a child..."
+msgstr "Oh meu... o sapo transformado em uma criança..."
+
+# mes "[Alonie]";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "[Alonie]"
+msgstr "[Alonie]"
+
+# mes "I am an expert at playing alone.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "I am an expert at playing alone."
+msgstr "Sou um especialista em jogar sozinho."
+
+# mes "I'm trying my best to play alone!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "I'm trying my best to play alone!"
+msgstr "Estou dando o meu melhor para jogar sozinho!"
+
+# mes "HuHu, Yapyap!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "HuHu, Yapyap!"
+msgstr "HuHu, Yapyap!"
+
+# mes "I can feel your admiration for me.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "I can feel your admiration for me."
+msgstr "Eu posso sentir sua admiração por mim."
+
+# mes "Wanna be my student?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Wanna be my student?"
+msgstr "Quer ser meu aluno?"
+
+# if (select("You're out of your mind!", "Please let me be your disciple!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "You're out of your mind!"
+msgstr "Você está fora de si!"
+
+# if (select("You're out of your mind!", "Please let me be your disciple!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Please let me be your disciple!"
+msgstr "Por favor, deixe-me ser seu discípulo!"
+
+# mes "Yes, I'm out of my mind.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Yes, I'm out of my mind."
+msgstr "Sim, estou fora de mim."
+
+# mes "Huhu, Yapyap!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Huhu, Yapyap!"
+msgstr "Huhu, Yapyap!"
+
+# mes "I can feel you are lack of affection. Okay!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "I can feel you are lack of affection. Okay!"
+msgstr "Eu posso sentir a sua falta de afeto. Está bem!"
+
+# mes "Now, let's start the training!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Now, let's start the training!"
+msgstr "Agora, vamos começar o treinamento!"
+
+# mes "The special training, to play alone in Sphinx Dungeon!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "The special training, to play alone in Sphinx Dungeon!"
+msgstr "O treinamento especial, para jogar sozinho no calabouço Sphinx!"
+
+# mes "For make it";
+#: npc/quests/newgears/2010_headgears.txt
+msgctxt "Alonie#Solo_Play_Box"
+msgid "For make it"
+msgstr "Para fazê-la"
+
+# mes "the fruitful training,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "the fruitful training,"
+msgstr "o treinamento profícuo,"
+
+# mes "Get around and kill";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Get around and kill"
+msgstr "Dar a volta e matar"
+
+# mes "^FF000020 Zeroms, 20 Requiems^000000!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "^FF000020 Zeroms, 20 Requiems^000000!"
+msgstr "^FF000020 Zeroms, 20 Requiems^000000!"
+
+# mes "Hurry!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Hurry!"
+msgstr "Rápido...!"
+
+# if (select("What a bullshit!", "Let's go!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "What a bullshit!"
+msgstr "Que besteira!"
+
+# if (select("What a bullshit!", "Let's go!") == 1) {
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Let's go!"
+msgstr "Vamos!"
+
+# mes "Of course, I don't care.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Of course, I don't care."
+msgstr "É claro, não me importo."
+
+# mes "Hurry up, my student.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Hurry up, my student."
+msgstr "Apresse-se, meu aluno."
+
+# mes "I am so capricious";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "I am so capricious"
+msgstr "Eu sou tão caprichoso"
+
+# mes "so I don't know what I will";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "so I don't know what I will"
+msgstr "por isso não sei o que farei"
+
+# mes "give you as a reward!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "give you as a reward!"
+msgstr "lhe dar como recompensa!"
+
+# mes "Already finished?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Already finished?"
+msgstr "Já terminou?"
+
+# mes "Good, here is the next training";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Good, here is the next training"
+msgstr "Ótimo, aqui está o próximo treinamento"
+
+# mes "to be a playing-alone expert!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "to be a playing-alone expert!"
+msgstr "para ser um especialista em jogos sozinho!"
+
+# mes "The special training, to play alone at Clock Tower!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "The special training, to play alone at Clock Tower!"
+msgstr "O treinamento especial, para brincar sozinho na Torre do Relógio!"
+
+# mes "^FF000040 Arclouses and 30 High Orcs^000000";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "^FF000040 Arclouses and 30 High Orcs^000000"
+msgstr "^FF000040 Arclouses e 30 Orcs altos^000000"
+
+# mes "Hmm, it's not enough.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Hmm, it's not enough."
+msgstr "Hmm, não é suficiente."
+
+# mes "Playing alone is not that easy!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Playing alone is not that easy!"
+msgstr "Brincar sozinho não é tão fácil!"
+
+# mes "Go and kill";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Go and kill"
+msgstr "Vá e mate"
+
+# mes "You're really good at playing alone...!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "You're really good at playing alone...!"
+msgstr "Você é realmente bom em jogar sozinho!"
+
+# mes "Are you lonely?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Are you lonely?"
+msgstr "Você se sente só?"
+
+# mes "Well, here is the next training";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Well, here is the next training"
+msgstr "Bem, aqui está o próximo treinamento"
+
+# mes "The special training, to play alone in Louyang!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "The special training, to play alone in Louyang!"
+msgstr "O treinamento especial, para brincar sozinho em Louyang!"
+
+# mes "^FF000020 Chung E and 50 Civil Servant^000000!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "^FF000020 Chung E and 50 Civil Servant^000000!"
+msgstr "^FF000020 Chung E e 50 Funcionário Público^000000!"
+
+# mes "Hmm, It's not enough.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Hmm, It's not enough."
+msgstr "Hmm, não é o suficiente."
+
+# mes "^FF000040 Arclouses and 30 High Orcs^000000!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "^FF000040 Arclouses and 30 High Orcs^000000!"
+msgstr "^FF000040 Arclouses e 30 High Orcs^000000!"
+
+# mes "Great job.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Great job."
+msgstr "Ótimo trabalho."
+
+# mes "How lonely you are!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "How lonely you are!"
+msgstr "Como você é solitário!"
+
+# mes "Okay, here is the last training";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Okay, here is the last training"
+msgstr "Certo, aqui está o último treinamento"
+
+# mes "to be a real playing-alone expert!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "to be a real playing-alone expert!"
+msgstr "para ser um verdadeiro especialista em jogos de futebol!"
+
+# mes "The special training, to play alone in Amatsu Dungeon!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "The special training, to play alone in Amatsu Dungeon!"
+msgstr "O treinamento especial, para jogar sozinho no calabouço Amatsu!"
+
+# mes "^FF000020 The Papers and 40 Antique Firelocks^000000!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "^FF000020 The Papers and 40 Antique Firelocks^000000!"
+msgstr "^FF000020 The Papers and 40 Antique Firelocks^000000!"
+
+# mes "huhu, Yapyap!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "huhu, Yapyap!"
+msgstr "huhu, Yapyap!"
+
+# mes "Hurry up, my student!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Hurry up, my student!"
+msgstr "Apresse-se, meu aluno!"
+
+# mes "Playing outside with this heavy bag?";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Playing outside with this heavy bag?"
+msgstr "Brincando lá fora com este saco pesado?"
+
+# mes "You are the real";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "You are the real"
+msgstr "Você é o verdadeiro"
+
+# mes "expert to play alone!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "expert to play alone!"
+msgstr "especialista para jogar sozinho!"
+
+# mes "If you want the reward, empty your bag, first!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "If you want the reward, empty your bag, first!"
+msgstr "Se você quer a recompensa, esvazie sua bolsa, primeiro!"
+
+# mes "Finally you did it.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Finally you did it."
+msgstr "Finalmente você o fez."
+
+# mes "My affection-lacked student!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "My affection-lacked student!"
+msgstr "Meu aluno carinhoso e carinhoso!"
+
+# mes "This is the end of your training!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "This is the end of your training!"
+msgstr "Este é o fim do seu treinamento!"
+
+# mes "Here! The solo play box";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Here! The solo play box"
+msgstr "Aqui! A caixa de jogo solo"
+
+# mes "the most effective at AM!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "the most effective at AM!"
+msgstr "o mais eficaz em AM!"
+
+# mes "After putting on this box,";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "After putting on this box,"
+msgstr "Depois de colocar esta caixa,"
+
+# mes "you're the best lonely being!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "you're the best lonely being!"
+msgstr "você é o melhor ser solitário!"
+
+# mes "Fight back your tears!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Fight back your tears!"
+msgstr "Lute contra suas lágrimas!"
+
+# mes "the most effective at PM!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "the most effective at PM!"
+msgstr "o mais eficaz em PM!"
+
+# mes "Hmmm, It's not enough.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Hmmm, It's not enough."
+msgstr "Hmmm, não é o suficiente."
+
+# mes "Playing alone is not that easy thing!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Playing alone is not that easy thing!"
+msgstr "Brincar sozinho não é tão fácil assim!"
+
+# mes "I am the playing-alone expert.";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "I am the playing-alone expert."
+msgstr "Eu sou o especialista em jogar sozinho."
+
+# mes "Always trying my best to play alone!";
+#: npc/quests/newgears/2010_headgears.txt
+#, fuzzy
+msgctxt "Alonie#Solo_Play_Box"
+msgid "Always trying my best to play alone!"
+msgstr "Sempre tentando meu melhor para jogar sozinho!"

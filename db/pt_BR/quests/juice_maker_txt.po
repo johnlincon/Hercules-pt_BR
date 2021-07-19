@@ -1,0 +1,869 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: 2021-07-17 15:25-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Housewife Marianne]";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "[Housewife Marianne]"
+msgstr "[Dona de casa Marianne]"
+
+# mes "Whew...!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Whew...!"
+msgstr "Whew...!"
+
+# mes "Still, he won't eat anything unless it's Meat. But maybe he will eat fruit if it was cut so that it was easy to eat. Like, if it was blended into juice...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid ""
+"Still, he won't eat anything unless it's Meat. But maybe he will eat fruit "
+"if it was cut so that it was easy to eat. Like, if it was blended into "
+"juice..."
+msgstr ""
+"Mesmo assim, ele não vai comer nada a menos que seja Carne. Mas talvez ele "
+"coma fruta se ela foi cortada de forma que fosse fácil de comer. Tipo, se "
+"fosse misturada em suco..."
+
+# mes "Ah! Come to think of it, I heard they were making fruit juice somewhere. Now where was it... Payon Village, or Morroc?";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid ""
+"Ah! Come to think of it, I heard they were making fruit juice somewhere. Now "
+"where was it... Payon Village, or Morroc?"
+msgstr ""
+"Ah! Pensando bem, ouvi dizer que eles estavam fazendo suco de frutas em "
+"algum lugar. Agora, onde estava... Payon Village, ou Morroc?"
+
+# mes "Morrison!! Eat some fruits!! You don't want to become a slobby fat pig when you grow up, do you?";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid ""
+"Morrison!! Eat some fruits!! You don't want to become a slobby fat pig when "
+"you grow up, do you?"
+msgstr ""
+"Morrison!! Coma algumas frutas!! Você não quer se tornar um porco gordo "
+"quando crescer, não é mesmo?"
+
+# if (select("Talk", "Cancel") == 1) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Talk"
+msgstr "Conversa"
+
+# if (select("Talk", "Cancel") == 1) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Hm? ...You!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Hm? ...You!"
+msgstr "Hm? ... ...Você!"
+
+# mes "You're the one who gave, my little Morrison that Meat?! Did you come here thinking I wouldn't know about it?!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid ""
+"You're the one who gave, my little Morrison that Meat?! Did you come here "
+"thinking I wouldn't know about it?!"
+msgstr ""
+"Foi você quem deu, meu pequeno Morrison que Carne?! Você veio aqui pensando "
+"que eu não saberia disso?!"
+
+# mes "Go away, get out of my house NOW!!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Go away, get out of my house NOW!!"
+msgstr "Vá embora, saia de minha casa AGORA!"
+
+# mes "Morrison!! I'm going to be very very mad if you keep doing this!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Morrison!! I'm going to be very very mad if you keep doing this!"
+msgstr "Morrison!! Eu vou ficar muito louco se você continuar fazendo isso!"
+
+# mes "Oh!!.... This...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Oh!!.... This..."
+msgstr "Oh não! Oh não, não, não, não, não."
+
+# mes "what is this...??";
+#: npc/quests/juice_maker.txt
+msgctxt "Marianne#juice"
+msgid "what is this...??"
+msgstr "o que é isso...??"
+
+# mes "How could you do something like this to my boy?!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "How could you do something like this to my boy?!"
+msgstr "Como você pôde fazer algo assim com meu filho?!"
+
+# mes "Argh! Get out of my house right this instant!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Argh! Get out of my house right this instant!"
+msgstr "Argh! Saia da minha casa agora mesmo!"
+
+# mes "Morrison!! Please eat some fruits!! Please~!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Morrison!! Please eat some fruits!! Please~!"
+msgstr "Morrison!! Por favor, coma algumas frutas!! Por favor~!"
+
+# mes "[Housewife Marinaa]";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "[Housewife Marinaa]"
+msgstr "[Dona de casa Marinaa]"
+
+# mes "Sigh~!! Like father, like son...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Sigh~!! Like father, like son..."
+msgstr "Suspire!! Como pai, como filho..."
+
+# mes "*Sigh*... This is Morrison...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "*Sigh*... This is Morrison..."
+msgstr "*Suspire*... Este é Morrison..."
+
+# mes "My one and only son.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "My one and only son."
+msgstr "Meu primeiro e único filho."
+
+# mes "But these days, he just won't eat fruits. His face is so dull because he refuses to eat healthy. He just wants to eat Meat. I need to find a way to feed him fruits or vegetables....";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid ""
+"But these days, he just won't eat fruits. His face is so dull because he "
+"refuses to eat healthy. He just wants to eat Meat. I need to find a way to "
+"feed him fruits or vegetables...."
+msgstr ""
+"Mas hoje em dia, ele simplesmente não come frutas. Seu rosto é tão monótono "
+"porque ele se recusa a comer com saúde. Ele só quer comer carne. Preciso "
+"encontrar uma maneira de alimentá-lo com frutas ou legumes...."
+
+# mes "Morrison!! You're going to be in big trouble if you keep this up!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marianne#juice"
+msgid "Morrison!! You're going to be in big trouble if you keep this up!"
+msgstr "Morrison!! Você vai estar em grandes apuros se continuar assim!"
+
+# mes "[Little Morrison]";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "[Little Morrison]"
+msgstr "[Pequeno Morrison]"
+
+# mes "Bleh... Forget it.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Bleh... Forget it."
+msgstr "Bleh... Esqueça."
+
+# mes "I'm just going to shrivel to death just eating fruits. Don't bother worrying about me .";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid ""
+"I'm just going to shrivel to death just eating fruits. Don't bother worrying "
+"about me ."
+msgstr "Eu vou murchar até a morte só de comer frutas. Não se preocupe comigo."
+
+# mes "Ah... so full~";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Ah... so full~"
+msgstr "Ah... tão cheio~"
+
+# mes "I think I can live now.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "I think I can live now."
+msgstr "Acho que posso viver agora."
+
+# mes "You don't have to give me any more Meat. I feel like I'm going to explode if I eat any more.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid ""
+"You don't have to give me any more Meat. I feel like I'm going to explode if "
+"I eat any more."
+msgstr ""
+"Você não precisa me dar mais Carne. Sinto que vou explodir se eu comer mais."
+
+# mes "Oh... and... um.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Oh... and... um."
+msgstr "Oh... e... um."
+
+# mes "Take this.";
+#: npc/quests/juice_maker.txt
+msgctxt "Morrison#juice"
+msgid "Take this."
+msgstr "Tome isto."
+
+# mes "It's a little something I've been saving to eat for later, but since you gave me Meat, I think I can pass on the sweets.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid ""
+"It's a little something I've been saving to eat for later, but since you "
+"gave me Meat, I think I can pass on the sweets."
+msgstr ""
+"É uma coisinha que tenho guardado para comer mais tarde, mas desde que você "
+"me deu Carne, acho que posso passar adiante os doces."
+
+# mes "Agh....Noooo!!!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Agh....Noooo!!!"
+msgstr "Agh....Noooo!!!"
+
+# mes "No, don't make me eat it! I can't bear to taste fruits!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "No, don't make me eat it! I can't bear to taste fruits!"
+msgstr ""
+"Não, não me obrigue a comê-lo! Eu não posso suportar o gosto de frutas!"
+
+# switch(select("Talk", "Show the Meat", "Cancel")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Talk"
+msgstr "Conversa"
+
+# switch(select("Talk", "Show the Meat", "Cancel")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Show the Meat"
+msgstr "Mostrar a carne"
+
+# switch(select("Talk", "Show the Meat", "Cancel")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Aaaagh!! Once or twice is enough!! I refuse to eat any more fruits! You have to peel them and there's so much juice that it makes you feel icky...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid ""
+"Aaaagh!! Once or twice is enough!! I refuse to eat any more fruits! You have "
+"to peel them and there's so much juice that it makes you feel icky..."
+msgstr ""
+"Aaaagh!! Uma ou duas vezes é suficiente!! Eu me recuso a comer mais frutas! "
+"Você tem que descascá-las e há tanto suco que te faz sentir nojento..."
+
+# mes "And they're all slippery and sour... Even if I eat it, I still feel hungry. Aaaah~! Give me Meat!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid ""
+"And they're all slippery and sour... Even if I eat it, I still feel hungry. "
+"Aaaah~! Give me Meat!"
+msgstr ""
+"E são todos escorregadios e azedos... Mesmo que eu coma, ainda sinto fome. "
+"Aaaah~! Me dê Carne!"
+
+# mes "Ooh! M-Meaaat~";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Ooh! M-Meaaat~"
+msgstr "Ooh! M-Meaaat~"
+
+# mes "Ah... hu...hungry...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Ah... hu...hungry..."
+msgstr "Ah... hu...faminto..."
+
+# mes "The scent of Meat...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "The scent of Meat..."
+msgstr "O cheiro da carne..."
+
+# mes "Excuse me...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Excuse me..."
+msgstr "Desculpe-me..."
+
+# mes "C-can I please have one?";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "C-can I please have one?"
+msgstr "C - Posso ter um?"
+
+# if (select("Give Meat", "Don't Give Meat") == 1) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Give Meat"
+msgstr "Dê Carne"
+
+# if (select("Give Meat", "Don't Give Meat") == 1) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Don't Give Meat"
+msgstr "Não Dê Carne"
+
+# mes "Wow~!!! Meat!!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Wow~!!! Meat!!"
+msgstr "Uau~!!! Carne!!"
+
+# mes "So yummy!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "So yummy!"
+msgstr "Tão gostoso!"
+
+# mes "Thank you,";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Thank you,"
+msgstr "Obrigado,"
+
+# mes "I think I can";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "I think I can"
+msgstr "Eu acho que posso"
+
+# mes "live now.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "live now."
+msgstr "ao vivo agora."
+
+# mes "*Chew chew*";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "*Chew chew*"
+msgstr "*Mastigar mastigar*"
+
+# mes "Waah...!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Waah...!"
+msgstr "Waah...!"
+
+# mes "Fine, I get it now.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Fine, I get it now."
+msgstr "Muito bem, agora entendi."
+
+# mes "Adults are all the same!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Adults are all the same!"
+msgstr "Os adultos são todos iguais!"
+
+# mes "Aaaaah!!! No matter what, I'm not going to eat fruits and vegetables!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Aaaaah!!! No matter what, I'm not going to eat fruits and vegetables!"
+msgstr ""
+"Aaaaaah!!! Não importa o que aconteça, eu não vou comer frutas e verduras!"
+
+# mes "Aaah!! I can't eat any more fruits!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Aaah!! I can't eat any more fruits!"
+msgstr "Aaah!! Eu não posso comer mais frutas!"
+
+# mes "I refuse to eat any more fruits! You have to peel them and there's so much juice that it makes you feel icky...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid ""
+"I refuse to eat any more fruits! You have to peel them and there's so much "
+"juice that it makes you feel icky..."
+msgstr ""
+"Eu me recuso a comer mais frutas! Você tem que descascá-las e há tanto suco "
+"que te faz sentir nojento..."
+
+# mes "And they're all slippery and sour... Even if I eat it, I still feel hungry.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid ""
+"And they're all slippery and sour... Even if I eat it, I still feel hungry."
+msgstr ""
+"E são todos escorregadios e azedos... Mesmo que eu coma, ainda sinto fome."
+
+# mes "Aaaah~!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Aaaah~!"
+msgstr "Aaaah~!"
+
+# mes "Give me Meat!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Morrison#juice"
+msgid "Give me Meat!"
+msgstr "Dê-me Carne!"
+
+# mes "- Wait a moment! -";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "- Wait a moment! -"
+msgstr "- Espere um momento! -"
+
+# mes "- Currently you're carrying -";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "- Currently you're carrying -"
+msgstr "- Atualmente você está carregando -"
+
+# mes "- too many items with you. -";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "- too many items with you. -"
+msgstr "- muitos itens com você. -"
+
+# mes "- Please come back later -";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "- Please come back later -"
+msgstr "- Por favor, volte mais tarde -"
+
+# mes "- after you put some items into kafra storage. -";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "- after you put some items into kafra storage. -"
+msgstr "- depois de colocar alguns itens no armazenamento de kafra. -"
+
+# mes "[Merchant Marx Hansen]";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "[Merchant Marx Hansen]"
+msgstr "[Mercador Marx Hansen]"
+
+# mes "Welcome.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Welcome."
+msgstr "Bem-vindo(a)."
+
+# mes "Did you come to";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Did you come to"
+msgstr "Você chegou a"
+
+# mes "process fruits as well?";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "process fruits as well?"
+msgstr "processar frutas também?"
+
+# switch(select("Make Juice.", "Talk and get information about fruit processing.", "Cancel.")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Make Juice."
+msgstr "Faça suco."
+
+# switch(select("Make Juice.", "Talk and get information about fruit processing.", "Cancel.")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Talk and get information about fruit processing."
+msgstr "Conversar e obter informações sobre o processamento de frutas."
+
+# switch(select("Make Juice.", "Talk and get information about fruit processing.", "Cancel.")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Cancel."
+msgstr "Cancelar."
+
+# mes "What kind of fruit juice would you like to make?";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "What kind of fruit juice would you like to make?"
+msgstr "Que tipo de suco de frutas você gostaria de fazer?"
+
+# switch(select("Apple Juice", "Banana Juice", "Carrot Juice", "Grape Juice", "Cancel")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Apple Juice"
+msgstr "Suco de maçã"
+
+# switch(select("Apple Juice", "Banana Juice", "Carrot Juice", "Grape Juice", "Cancel")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Banana Juice"
+msgstr "Suco de Banana"
+
+# switch(select("Apple Juice", "Banana Juice", "Carrot Juice", "Grape Juice", "Cancel")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Carrot Juice"
+msgstr "Suco de cenoura"
+
+# switch(select("Apple Juice", "Banana Juice", "Carrot Juice", "Grape Juice", "Cancel")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Grape Juice"
+msgstr "Suco de uva"
+
+# switch(select("Apple Juice", "Banana Juice", "Carrot Juice", "Grape Juice", "Cancel")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Well then...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Well then..."
+msgstr "Bem, então..."
+
+# mes "See you next time.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "See you next time."
+msgstr "Nos vemos na próxima vez."
+
+# mes "Oh no...";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Oh no..."
+msgstr "Oh não! Oh não, não, não, não, não."
+
+# mes "You don't have all the necessary materials. To make "+getitemname(.@juice)+", I need 1 "+getitemname(.@fruit)+" and 1 Empty Bottle. I will also need a 3 zeny fee.";
+#: npc/quests/juice_maker.txt
+msgctxt "Marx Hansen#juice"
+msgid "You don't have all the necessary materials. To make "
+msgstr "Você não dispõe de todos os materiais necessários. Para fazer "
+
+# mes "When you have prepared everything, I will blend the fruit to give you delicious juice.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid ""
+"When you have prepared everything, I will blend the fruit to give you "
+"delicious juice."
+msgstr ""
+"Quando você tiver preparado tudo, eu misturo a fruta para lhe dar um suco "
+"delicioso."
+
+# mes "How many would you like?";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "How many would you like?"
+msgstr "Quantos você gostaria de ter?"
+
+# switch(select("As many as I can.", "I want a certain amount.", "Cancel.")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "As many as I can."
+msgstr "Tantos quantos eu puder."
+
+# switch(select("As many as I can.", "I want a certain amount.", "Cancel.")) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "I want a certain amount."
+msgstr "Eu quero uma certa quantia."
+
+# mes "Choose a number less than 100. If you don't want to, put '0'. You can make up to " + countitem(.@fruit) + " bottles of juice.";
+#: npc/quests/juice_maker.txt
+msgctxt "Marx Hansen#juice"
+msgid ""
+"Choose a number less than 100. If you don't want to, put '0'. You can make "
+"up to "
+msgstr ""
+"Escolha um número inferior a 100. Se você não quiser, coloque '0'. Você pode "
+"compensar até "
+
+# mes "Come again.";
+#: npc/quests/juice_maker.txt
+msgctxt "Marx Hansen#juice"
+msgid "Come again."
+msgstr "Volte novamente."
+
+# mes "More than 100 bottles is impossible. Choose a different amount.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "More than 100 bottles is impossible. Choose a different amount."
+msgstr "Mais de 100 garrafas é impossível. Escolha uma quantidade diferente."
+
+# mes "You don't have all the necessary materials. I can't help a situation like this. I guess you collect what you need.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid ""
+"You don't have all the necessary materials. I can't help a situation like "
+"this. I guess you collect what you need."
+msgstr ""
+"Você não dispõe de todos os materiais necessários. Não posso evitar uma "
+"situação como esta. Acho que você recolhe o que precisa."
+
+# mes "Here you go! Fresh and delicious juice as promised. It should be very refreshing and palatable.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid ""
+"Here you go! Fresh and delicious juice as promised. It should be very "
+"refreshing and palatable."
+msgstr ""
+"Aqui está! Suco fresco e delicioso, como prometido. Deve ser muito "
+"refrescante e palatável."
+
+# mes "Before humans were able to develop such vast societies, they gathered fruit from trees to survive. Fruits may have been nature's blessing that allowed us to exist in the world.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid ""
+"Before humans were able to develop such vast societies, they gathered fruit "
+"from trees to survive. Fruits may have been nature's blessing that allowed "
+"us to exist in the world."
+msgstr ""
+"Antes que os humanos conseguissem desenvolver sociedades tão vastas, eles "
+"colhiam frutos das árvores para sobreviver. Os frutos podem ter sido a "
+"benção da natureza que nos permitiu existir no mundo."
+
+# mes "Since life became so prosperous, the younger generation seems not to eat fruit any more. So, I started thinking of ways to make fruit easier to eat.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid ""
+"Since life became so prosperous, the younger generation seems not to eat "
+"fruit any more. So, I started thinking of ways to make fruit easier to eat."
+msgstr ""
+"Desde que a vida se tornou tão próspera, a geração mais jovem parece não "
+"comer mais frutas. Então, comecei a pensar em maneiras de tornar a fruta "
+"mais fácil de comer."
+
+# mes "I realized that when you make fruit juice, it's more convenient to eat and has a much better taste.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid ""
+"I realized that when you make fruit juice, it's more convenient to eat and "
+"has a much better taste."
+msgstr ""
+"Percebi que quando se faz suco de frutas, é mais conveniente comê-lo e tem "
+"um sabor muito melhor."
+
+# mes "# Fruit Juice Information #";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "# Fruit Juice Information #"
+msgstr "# Informações sobre suco de frutas"
+
+# mes "^CC4E5C- Apple Juice -^000000";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "^CC4E5C- Apple Juice -^000000"
+msgstr "^CC4E5C- Suco de maçã -^000000"
+
+# mes "Apple x 1 ea, Empty Bottle x 1 ea, 3 zeny.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Apple x 1 ea, Empty Bottle x 1 ea, 3 zeny."
+msgstr "Maçã x 1 ea, Garrafa Vazia x 1 ea, 3 zeny."
+
+# mes "^E3CF57- Banana Juice -^000000";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "^E3CF57- Banana Juice -^000000"
+msgstr "^E3CF57- Suco de Banana -^000000"
+
+# mes "Banana x 1 ea, Empty Bottle x 1 ea, 3 zeny.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Banana x 1 ea, Empty Bottle x 1 ea, 3 zeny."
+msgstr "Banana x 1 ea, Garrafa Vazia x 1 ea, 3 zeny."
+
+# mes "^ED9121- Carrot Juice -^000000";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "^ED9121- Carrot Juice -^000000"
+msgstr "^ED9121- Suco de Cenoura -^000000"
+
+# mes "Carrot x 1 ea, Empty Bottle x 1 ea, 3 zeny.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Carrot x 1 ea, Empty Bottle x 1 ea, 3 zeny."
+msgstr "Cenoura x 1 ea, Garrafa Vazia x 1 ea, 3 zeny."
+
+# mes "^CC00FF- Grape Juice -^000000";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "^CC00FF- Grape Juice -^000000"
+msgstr "^CC00FF- Suco de uva -^000000"
+
+# mes "Grape x 1 ea, Empty Bottle x 1 ea, 3 zeny.";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Grape x 1 ea, Empty Bottle x 1 ea, 3 zeny."
+msgstr "Uva x 1 ea, Garrafa Vazia x 1 ea, 3 zeny."
+
+# mes "Hey!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Hey!"
+msgstr "Ei!"
+
+# mes "If you visit";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "If you visit"
+msgstr "Se você visitar"
+
+# mes "somebody, talk to them!";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "somebody, talk to them!"
+msgstr "alguém, fale com eles!"
+
+# mes "How may I help you?";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "How may I help you?"
+msgstr "Como posso ajudar?"
+
+# if (select("Talk", "Cancel") == 1) {
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "Talk"
+msgstr "Conversa"
+
+# mes "If you vist";
+#: npc/quests/juice_maker.txt
+#, fuzzy
+msgctxt "Marx Hansen#juice"
+msgid "If you vist"
+msgstr "Se você vistes"

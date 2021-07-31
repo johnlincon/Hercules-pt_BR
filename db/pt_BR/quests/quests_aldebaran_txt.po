@@ -1,0 +1,272 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: 2021-07-30 16:14-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Trader]";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid "[Trader]"
+msgstr "[Trader]"
+
+# mes "Who is this mysterious man?";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid "Who is this mysterious man?"
+msgstr "Quem é este homem misterioso?"
+
+# mes "I, the enigmatic and debonair 'Trader?'";
+#: npc/quests/quests_aldebaran.txt
+msgctxt "Trader#01"
+msgid "I, the enigmatic and debonair 'Trader?'"
+msgstr "Eu, o enigmático e debochado 'Trader?'"
+
+# mes "Traveling about the Rune-Midgard Continent, with all of his wonderful hats? Nobody knows...";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid ""
+"Traveling about the Rune-Midgard Continent, with all of his wonderful hats? "
+"Nobody knows..."
+msgstr ""
+"Viajando pelo continente Rune-Midgard, com todos os seus chapéus "
+"maravilhosos? Ninguém sabe..."
+
+# mes "For what purpose do I collect and trade these hats from all around the world? Choose a hat, get closer to unraveling the mystery...";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid ""
+"For what purpose do I collect and trade these hats from all around the "
+"world? Choose a hat, get closer to unraveling the mystery..."
+msgstr ""
+"Para que propósito eu recolho e troco esses chapéus de todo o mundo? "
+"Escolher um chapéu, ficar mais perto de desvendar o mistério..."
+
+# mes " (1) ^3355FFDoctor Band^000000:";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid " (1) ^3355FFDoctor Band^000000:"
+msgstr " (1) ^3355FFDoctor Band^000000:"
+
+# mes "1 Red Bandana + 50 Irons + 1 Cracked Diamond + 3500 Zeny";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid "1 Red Bandana + 50 Irons + 1 Cracked Diamond + 3500 Zeny"
+msgstr "1 bandana vermelha + 50 ferros + 1 diamante rachado + 3500 Zeny"
+
+# mes " (2)^3355FFFeather Bonnet^000000:";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid " (2)^3355FFFeather Bonnet^000000:"
+msgstr " (2)^3355FFFeather Bonnet^000000:"
+
+# mes "1 Romantic Gent + 300 Feather of Birds + 500 Zeny";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid "1 Romantic Gent + 300 Feather of Birds + 500 Zeny"
+msgstr "1 Gent Romântico + 300 Feather of Birds + 500 Zeny"
+
+# mes " (3) ^3355FFPhantom of Opera^000000:";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid " (3) ^3355FFPhantom of Opera^000000:"
+msgstr " (3) ^3355FFFantasma de Ópera^000000:"
+
+# mes "20 Iron + 1 Singing Plant + 5000 Zeny ";
+#: npc/quests/quests_aldebaran.txt
+msgctxt "Trader#01"
+msgid "20 Iron + 1 Singing Plant + 5000 Zeny "
+msgstr "20 Ferro + 1 Planta de Canto + 5000 Zeny "
+
+# mes " (4) ^3355FFSakkat^000000:";
+#: npc/quests/quests_aldebaran.txt
+msgctxt "Trader#01"
+msgid " (4) ^3355FFSakkat^000000:"
+msgstr " (4) ^3355FFSakkat^000000:"
+
+# mes "120 Trunks + 10000 Zeny ";
+#: npc/quests/quests_aldebaran.txt
+msgctxt "Trader#01"
+msgid "120 Trunks + 10000 Zeny "
+msgstr "120 Troncos + 10000 Zeny "
+
+# switch(select(" Doctor Band ", " Feather Bonnet ", " Phantom of Opera ", " Sakkat ")) {
+#: npc/quests/quests_aldebaran.txt
+msgctxt "Trader#01"
+msgid " Doctor Band "
+msgstr " Banda de Doutor "
+
+# switch(select(" Doctor Band ", " Feather Bonnet ", " Phantom of Opera ", " Sakkat ")) {
+#: npc/quests/quests_aldebaran.txt
+msgctxt "Trader#01"
+msgid " Feather Bonnet "
+msgstr " Touca de Penas "
+
+# switch(select(" Doctor Band ", " Feather Bonnet ", " Phantom of Opera ", " Sakkat ")) {
+#: npc/quests/quests_aldebaran.txt
+msgctxt "Trader#01"
+msgid " Phantom of Opera "
+msgstr " O Fantasma da Ópera "
+
+# switch(select(" Doctor Band ", " Feather Bonnet ", " Phantom of Opera ", " Sakkat ")) {
+#: npc/quests/quests_aldebaran.txt
+msgctxt "Trader#01"
+msgid " Sakkat "
+msgstr " Sakkat "
+
+# mes "Hm! You don't have a medical license, do you? It's alright, I've heard about a rogue, unlicensed physician who performed medical miracles! But... That might have been a comic book.";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid ""
+"Hm! You don't have a medical license, do you? It's alright, I've heard about "
+"a rogue, unlicensed physician who performed medical miracles! But... That "
+"might have been a comic book."
+msgstr ""
+"Hm! Você não tem uma licença médica, tem? Está tudo bem, já ouvi falar de um "
+"médico desonesto, sem licença, que fez milagres médicos! Mas... Isso pode "
+"ter sido uma história em quadrinhos."
+
+# mes "Oh whatever. Just don't get caught.";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid "Oh whatever. Just don't get caught."
+msgstr "Ah, tanto faz. Só não seja pego."
+
+# mes "You guy~";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid "You guy~"
+msgstr "Você"
+
+# mes "Check the requirements again.";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid "Check the requirements again."
+msgstr "Verifique novamente os requisitos."
+
+# mes "You don't look like an idiot though. So c'mon man, get real.";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid "You don't look like an idiot though. So c'mon man, get real."
+msgstr "Mas você não parece um idiota. Então, vamos lá homem, torne-se real."
+
+# mes "Ooh~! You have good fashion sense. I know you've had a hard time collecting this stuff, but this hat is worth it. Take it. All you need now is a fur coat and a cane!";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid ""
+"Ooh~! You have good fashion sense. I know you've had a hard time collecting "
+"this stuff, but this hat is worth it. Take it. All you need now is a fur "
+"coat and a cane!"
+msgstr ""
+"Ooh~! Você tem bom senso de moda. Sei que você teve dificuldades para "
+"colecionar estas coisas, mas este chapéu vale a pena. Pegue-o. Tudo o que "
+"você precisa agora é de um casaco de pele e uma bengala!"
+
+# mes "Go check my requirements again. You don't look like an idiot though. C'mon man, get real.";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid ""
+"Go check my requirements again. You don't look like an idiot though. C'mon "
+"man, get real."
+msgstr ""
+"Vá verificar minhas exigências novamente. Mas você não parece um idiota. Vá "
+"lá, homem, seja real."
+
+# mes "This one? It's a little bit scary, though it has some sort of romantic quality. What do you think? You like it? Alright, take it, it's yours!";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid ""
+"This one? It's a little bit scary, though it has some sort of romantic "
+"quality. What do you think? You like it? Alright, take it, it's yours!"
+msgstr ""
+"Este aqui? É um pouco assustador, embora tenha algum tipo de qualidade "
+"romântica. O que você acha? Você gosta dele? Muito bem, pegue-o, é seu!"
+
+# mes "Buffoon. Go check the requirements again. ^3355FFPhantom of Opera^000000 isn't easy to come by. So c'mon man, get real.";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid ""
+"Buffoon. Go check the requirements again. ^3355FFPhantom of Opera^000000 "
+"isn't easy to come by. So c'mon man, get real."
+msgstr ""
+"Buffoon. Vá verificar novamente as exigências. ^3355FFFantasma de "
+"Ópera^000000 não é fácil de encontrar. Então, vamos lá homem, torne-se real."
+
+# mes "If you have a chance to visit the Uplander Village, Payon, please go and meet the Sakkat Craftsman.";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid ""
+"If you have a chance to visit the Uplander Village, Payon, please go and "
+"meet the Sakkat Craftsman."
+msgstr ""
+"Se você tiver a oportunidade de visitar a Aldeia Uplander, Payon, por favor, "
+"vá conhecer o Sakkat Craftsman."
+
+# mes "He's never sold Sakkat to Traders other than me, since only I can recognize its quality. Due to its rarity, Sakkat has become a very unique and exceptional product. Okay! Take it, it's yours!";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid ""
+"He's never sold Sakkat to Traders other than me, since only I can recognize "
+"its quality. Due to its rarity, Sakkat has become a very unique and "
+"exceptional product. Okay! Take it, it's yours!"
+msgstr ""
+"Ele nunca vendeu Sakkat a outros comerciantes além de mim, já que só eu "
+"posso reconhecer sua qualidade. Devido a sua raridade, Sakkat se tornou um "
+"produto muito único e excepcional. Certo! Pegue-o, é seu!"
+
+# mes "MORON~ Check my requirements again. C'mon man, you don't look like an idiot, so get real~";
+#: npc/quests/quests_aldebaran.txt
+#, fuzzy
+msgctxt "Trader#01"
+msgid ""
+"MORON~ Check my requirements again. C'mon man, you don't look like an idiot, "
+"so get real~"
+msgstr ""
+"MORON~ Verifique novamente minhas exigências. Vamos, cara, você não parece "
+"um idiota, então, torne-se real~"

@@ -1,0 +1,861 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: 2021-07-31 10:50-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "^3355FFWait a second! Right now, you're carrying too many items with you. Please come back after putting some of your things into Kafra Storage.^000000";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid ""
+"^3355FFWait a second! Right now, you're carrying too many items with you. "
+"Please come back after putting some of your things into Kafra Storage.^000000"
+msgstr ""
+"^3355FFEspere um segundo! Pronto, você está carregando muitos itens com "
+"você. Por favor, volte depois de colocar algumas de suas coisas no Kafra "
+"Storage.^000000"
+
+# mes "[Granny]";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid "[Granny]"
+msgstr "[Avózinha]"
+
+# mes "I wish I could make some clothing for my grandchildren for the festival season...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid ""
+"I wish I could make some clothing for my grandchildren for the festival "
+"season..."
+msgstr ""
+"Gostaria de poder fazer algumas roupas para meus netos para a temporada do "
+"festival."
+
+# mes "Oh! Would you give me your ^3355FFSkirt of Virgin^000000? I'd need four of them. Please, I'm begging you.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid ""
+"Oh! Would you give me your ^3355FFSkirt of Virgin^000000? I'd need four of "
+"them. Please, I'm begging you."
+msgstr ""
+"Oh! Você me daria sua ^3355FFSkirt da Virgin^000000? Eu precisaria de quatro "
+"delas. Por favor, estou lhe implorando."
+
+# switch(select("Alright.", "No way!")) {
+#: npc/quests/quests_payon.txt
+msgctxt "Granny"
+msgid "Alright."
+msgstr "Certo."
+
+# switch(select("Alright.", "No way!")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid "No way!"
+msgstr "Claro que não!"
+
+# mes "Oh! Thank you so much~ Now I can make some clothes for Kitty Cutty~";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid "Oh! Thank you so much~ Now I can make some clothes for Kitty Cutty~"
+msgstr ""
+"Oh! Muito obrigado~ Agora eu posso fazer algumas roupas para a Kitty Cutty~"
+
+# mes "Ah, Wait! I almost forgot. I was quite a popular actress back in my youth. My actor friends gave me a wedding present when I left the Troupe. I've kept it to remind me of those precious times.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid ""
+"Ah, Wait! I almost forgot. I was quite a popular actress back in my youth. "
+"My actor friends gave me a wedding present when I left the Troupe. I've kept "
+"it to remind me of those precious times."
+msgstr ""
+"Ah, espere! quase esqueci. Eu era uma atriz bastante popular na minha "
+"juventude. Meus amigos atores me deram um presente de casamento quando eu "
+"deixei a Troupe. Guardei-o para me lembrar daqueles tempos preciosos."
+
+# mes "If it's okay...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid "If it's okay..."
+msgstr "Tudo bem, então."
+
+# mes "I'd like to give you this.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid "I'd like to give you this."
+msgstr "Eu gostaria de lhe dar isto."
+
+# mes "Goodbye, adventurer~!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid "Goodbye, adventurer~!"
+msgstr "Adeus, aventureiro~!"
+
+# mes "Thank you for making an old woman so happy...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid "Thank you for making an old woman so happy..."
+msgstr "Obrigado por fazer uma mulher velha tão feliz..."
+
+# mes "*Sigh* How can I get ^3355FFSkirt of Virgin^000000 by myself? I'm just so weak and feeble, even rolling in my rocking chair exhausts me. *Sniff* All I want is to make my grandchildren happy...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid ""
+"*Sigh* How can I get ^3355FFSkirt of Virgin^000000 by myself? I'm just so "
+"weak and feeble, even rolling in my rocking chair exhausts me. *Sniff* All I "
+"want is to make my grandchildren happy..."
+msgstr ""
+"*Sigh* Como posso conseguir ^3355FFSkirt of Virgin^000000 sozinho? Estou tão "
+"fraco e fraco, mesmo rolando na minha cadeira de baloiço me esgota. "
+"*Farejar* Tudo o que quero é fazer meus netos felizes..."
+
+# mes "I gather Mushrooms on the Mountain of Payon everyday. Time passes and before I know it, it's already fesitval season. I wish I could make clothing for my family this time of the year.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid ""
+"I gather Mushrooms on the Mountain of Payon everyday. Time passes and before "
+"I know it, it's already fesitval season. I wish I could make clothing for my "
+"family this time of the year."
+msgstr ""
+"Eu recolho Cogumelos na Montanha de Payon todos os dias. O tempo passa e, "
+"antes que eu saiba, já é época de festa. Eu gostaria de poder fazer roupas "
+"para minha família nesta época do ano."
+
+# mes "...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid "..."
+msgstr "..."
+
+# mes "But for that, I need ^3355FF4 Skirt of Virgin^000000...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid "But for that, I need ^3355FF4 Skirt of Virgin^000000..."
+msgstr "Mas para isso, preciso de ^3355FF4 Saia da Virgem ^000000..."
+
+# mes "Young traveler, please help me. When you find some ^3355FFSkirt of Virgin^000000, please bring them to me. I'd really appreciate it...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Granny"
+msgid ""
+"Young traveler, please help me. When you find some ^3355FFSkirt of "
+"Virgin^000000, please bring them to me. I'd really appreciate it..."
+msgstr ""
+"Jovem viajante, por favor, me ajude. Quando você encontrar alguma "
+"^3355FFSkirt da Virgin^000000, por favor, traga-as para mim. Eu realmente "
+"apreciaria..."
+
+# mes "[Mystic Lady]";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid "[Mystic Lady]"
+msgstr "[Mystic Lady]"
+
+# mes "My family has produced and sold the special Winter product ^3355FFEar Muffs^000000 for many years. We just moved here, but the weather is always warm so we can hardly make a living.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid ""
+"My family has produced and sold the special Winter product ^3355FFEar "
+"Muffs^000000 for many years. We just moved here, but the weather is always "
+"warm so we can hardly make a living."
+msgstr ""
+"Minha família tem produzido e vendido o produto especial de inverno "
+"^3355FFEar Muffs^000000 por muitos anos. Acabamos de nos mudar para cá, mas "
+"o tempo está sempre quente, portanto, dificilmente podemos ganhar a vida."
+
+# mes "If you plan to travel to colder regions, I suggest that you bring some ^3355FFEar Muffs^000000...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid ""
+"If you plan to travel to colder regions, I suggest that you bring some "
+"^3355FFEar Muffs^000000..."
+msgstr ""
+"Se você planeja viajar para regiões mais frias, sugiro que você traga alguns "
+"^3355FFEar Muffs^000000..."
+
+# mes "Ear Muffs are my family's specialty, and we provide it to customers who have ^FF33551 Cursed Ruby^000000, ^3311AA1 Headset,^000000 ^3355FF 200 Feathers^000000 and ^DDDD005000 Zeny^000000.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid ""
+"Ear Muffs are my family's specialty, and we provide it to customers who have "
+"^FF33551 Cursed Ruby^000000, ^3311AA1 Headset,^000000 ^3355FF 200 "
+"Feathers^000000 and ^DDDD005000 Zeny^000000."
+msgstr ""
+"Muffs são a especialidade da minha família, e nós fornecemos aos clientes "
+"que têm ^FF33551 Cursed Ruby^000000, ^3311AAA1 Headset,^000000 ^3355FF 200 "
+"Feathers^000000 e ^DDDD005000 Zeny^000000."
+
+# switch(select("Oh Yeah? That sounds good.", "No thank you, Ma'am.")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid "Oh Yeah? That sounds good."
+msgstr "Ah, sim? Isso soa bem."
+
+# switch(select("Oh Yeah? That sounds good.", "No thank you, Ma'am.")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid "No thank you, Ma'am."
+msgstr "Não, obrigado, senhora."
+
+# mes "Here, I will give you this pre-made one.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid "Here, I will give you this pre-made one."
+msgstr "Aqui, eu lhe darei este pré-fabricado."
+
+# mes "Thank you for buying our product. You won't regret purchasing our Ear Muffs: Satisfaction guaranteed~";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid ""
+"Thank you for buying our product. You won't regret purchasing our Ear Muffs: "
+"Satisfaction guaranteed~"
+msgstr ""
+"Obrigado por comprar nosso produto. Você não se arrependerá de ter comprado "
+"nossos Ear Muffs: Satisfação garantida~"
+
+# mes "Oh dear...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid "Oh dear..."
+msgstr "Oh meu Deus..."
+
+# mes "You don't have enough money or items. Unfortunately, we can't give any discounts. Please understand that we have to make a living...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid ""
+"You don't have enough money or items. Unfortunately, we can't give any "
+"discounts. Please understand that we have to make a living..."
+msgstr ""
+"Você não tem dinheiro ou itens suficientes. Infelizmente, não podemos dar "
+"nenhum desconto. Por favor, entenda que temos que ganhar a vida..."
+
+# mes "That's fine.";
+#: npc/quests/quests_payon.txt
+msgctxt "Mystic Lady"
+msgid "That's fine."
+msgstr "Tudo bem."
+
+# mes "I believe we";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid "I believe we"
+msgstr "Eu acredito que nós"
+
+# mes "will meet again.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid "will meet again."
+msgstr "se reunirão novamente."
+
+# mes "...One of these days.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Mystic Lady"
+msgid "...One of these days."
+msgstr "...Um desses dias."
+
+# mes "[Young Man]";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "[Young Man]"
+msgstr "[Jovem]"
+
+# mes "ArrrGggghh!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "ArrrGggghh!"
+msgstr "ArrrGggghh!"
+
+# mes "Ah, No I can't...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Ah, No I can't..."
+msgstr "Ah, não, não posso..."
+
+# mes "*Huk*";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "*Huk*"
+msgstr "*Huk*"
+
+# mes "Now even my eyes have gone mad!! Why do these bugs suddenly seem so cute?! Nooooooo~!!!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"Now even my eyes have gone mad!! Why do these bugs suddenly seem so cute?! "
+"Nooooooo~!!!"
+msgstr ""
+"Agora até meus olhos enlouqueceram!! Por que estes insetos de repente "
+"parecem tão bonitinhos?! Nããããããããããããããããããããããããoo!!"
+
+# switch(select("Show Ora Ora", "Give Ora Ora", "Cancel")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Show Ora Ora"
+msgstr "Mostrar Ora Ora"
+
+# switch(select("Show Ora Ora", "Give Ora Ora", "Cancel")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Give Ora Ora"
+msgstr "Dar Ora Ora"
+
+# switch(select("Show Ora Ora", "Give Ora Ora", "Cancel")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Oooooohhhh!!!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Oooooohhhh!!!"
+msgstr "Oooooohhhh!!!"
+
+# mes "Is, is this";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Is, is this"
+msgstr "É, é isto"
+
+# mes "the one?!";
+#: npc/quests/quests_payon.txt
+msgctxt "Boy"
+msgid "the one?!"
+msgstr "o único?!"
+
+# mes "This is...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "This is..."
+msgstr "Isto é..."
+
+# mes "Ora Ora!!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Ora Ora!!"
+msgstr "Ora Ora!!"
+
+# mes "I'll make it short! Give it to me, and I will give you my treasure! So how's my idea? Wanna deal?";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"I'll make it short! Give it to me, and I will give you my treasure! So how's "
+"my idea? Wanna deal?"
+msgstr ""
+"Serei breve! Dê-me isso e eu lhe darei meu tesouro! Então, como está minha "
+"idéia? Quer negociar?"
+
+# mes "Muhahahahah!!!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Muhahahahah!!!"
+msgstr "Muhahahahah!!!"
+
+# mes "I finally have this!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "I finally have this!"
+msgstr "Finalmente eu tenho isto!"
+
+# mes "Ora Ora!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Ora Ora!"
+msgstr "Ora Ora!"
+
+# mes "Stupid and Disgusting";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Stupid and Disgusting"
+msgstr "Estúpido e nojento"
+
+# mes "Thief Bugs!!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Thief Bugs!!"
+msgstr "Ladrão Bugs!!"
+
+# mes "You will pay!!!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "You will pay!!!"
+msgstr "Você vai pagar!!!"
+
+# mes "Huk...Huk...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Huk...Huk..."
+msgstr "Huk...Huk..."
+
+# mes "Sorry, I was out of control with pleasure for a while. Now, I will give my treasure as promised.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"Sorry, I was out of control with pleasure for a while. Now, I will give my "
+"treasure as promised."
+msgstr ""
+"Desculpe, fiquei fora de controle com prazer por um tempo. Agora, vou dar "
+"meu tesouro como prometido."
+
+# mes "When you wear this over your mouth and start to breathe, it filters junk out before getting to your lungs.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"When you wear this over your mouth and start to breathe, it filters junk out "
+"before getting to your lungs."
+msgstr ""
+"Quando você usa isto sobre sua boca e começa a respirar, filtra o lixo antes "
+"de chegar aos seus pulmões."
+
+# mes "Kakakakakaka!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Kakakakakaka!"
+msgstr "Kakakakakaka!"
+
+# mes "I can't wait";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "I can't wait"
+msgstr "Mal posso esperar"
+
+# mes "to use this";
+#: npc/quests/quests_payon.txt
+msgctxt "Boy"
+msgid "to use this"
+msgstr "para utilizar isto"
+
+# mes "Huhuhuhuhu...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Huhuhuhuhu..."
+msgstr "Huhuhuhuhuhu..."
+
+# mes "What if I can't get rid of all these Thief Bugs? I might even grow to love them... *Huk*";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"What if I can't get rid of all these Thief Bugs? I might even grow to love "
+"them... *Huk*"
+msgstr ""
+"E se eu não conseguir me livrar de todos esses insetos ladrões? Posso até "
+"crescer para amá-los... *Huk*"
+
+# mes "Wahhhhhh! I, I...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Wahhhhhh! I, I..."
+msgstr "Wahhhhhh! I, I..."
+
+# mes "I can't take it any more!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "I can't take it any more!"
+msgstr "Eu não aguento mais!"
+
+# mes "You little stinky filthy bastards!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "You little stinky filthy bastards!"
+msgstr "Seus pequenos bastardos fedorentos e imundos!"
+
+# switch(select("Continue", "Cancel")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Continue"
+msgstr "Continuar"
+
+# mes "Oh man...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Oh man..."
+msgstr "Oh cara…"
+
+# mes "It all started when my parents passed away when I was a little kid. Early on I had to work for a living, and had a really hard time.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"It all started when my parents passed away when I was a little kid. Early on "
+"I had to work for a living, and had a really hard time."
+msgstr ""
+"Tudo começou quando meus pais faleceram quando eu era uma criança pequena. "
+"Desde cedo tive que trabalhar para viver, e passei por um momento muito "
+"difícil."
+
+# mes "I've worked for 10 years in hopes of buying my dream house where I could find some sense of peace and comfort again. Eventually I thought I had enough zeny to afford my very own sweet home.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"I've worked for 10 years in hopes of buying my dream house where I could "
+"find some sense of peace and comfort again. Eventually I thought I had "
+"enough zeny to afford my very own sweet home."
+msgstr ""
+"Trabalhei por 10 anos na esperança de comprar a casa dos meus sonhos, onde "
+"eu poderia encontrar um pouco de paz e conforto novamente. Por fim, pensei "
+"que já tinha zeny suficiente para pagar minha própria casa doce."
+
+# mes "Unfortunately I didn't have enough money to buy the nice house that I had my eye on. But then, I found this house, which was bigger and cheaper than the first. I bought it without thinking...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"Unfortunately I didn't have enough money to buy the nice house that I had my "
+"eye on. But then, I found this house, which was bigger and cheaper than the "
+"first. I bought it without thinking..."
+msgstr ""
+"Infelizmente eu não tinha dinheiro suficiente para comprar a bela casa que "
+"eu tinha debaixo de olho. Mas então, encontrei esta casa, que era maior e "
+"mais barata do que a primeira. Comprei-a sem pensar..."
+
+# mes "Sweet Jesus! Turns out, it's a Heaven for Thief Bugs!!!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid "Sweet Jesus! Turns out, it's a Heaven for Thief Bugs!!!"
+msgstr "Doce Jesus! Acontece que é um paraíso para os insetos ladrões!!!"
+
+# mes "I tried to do everything I could do. I coaxed them, killed them, but it only brought peace for a moment! I even tried to burn this house down...!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"I tried to do everything I could do. I coaxed them, killed them, but it only "
+"brought peace for a moment! I even tried to burn this house down...!"
+msgstr ""
+"Eu tentei fazer tudo o que podia fazer. Eu os persuadi, os matei, mas isso "
+"só trouxe paz por um momento! Até tentei incendiar esta casa...!"
+
+# mes "*Gasp* I mean, really, do I need ^3355FF Ora Ora^000000 to get rid of them? People say it is very rarely seen in distant countries.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"*Gasp* I mean, really, do I need ^3355FF Ora Ora^000000 to get rid of them? "
+"People say it is very rarely seen in distant countries."
+msgstr ""
+"*Gasp* Quero dizer, realmente, preciso ^3355FF Ora Ora^000000 para me livrar "
+"deles? As pessoas dizem que isso é muito raramente visto em países distantes."
+
+# mes "If I could afford 5 of them, I won't have to be frustrated with these disgusting bugs any more...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"If I could afford 5 of them, I won't have to be frustrated with these "
+"disgusting bugs any more..."
+msgstr ""
+"Se eu pudesse pagar 5 deles, não precisaria mais ficar frustrado com esses "
+"insetos nojentos..."
+
+# mes "This never ending fight with the bugs has really exhausted me. I give up. Do as you wish you scumbags!";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Boy"
+msgid ""
+"This never ending fight with the bugs has really exhausted me. I give up. Do "
+"as you wish you scumbags!"
+msgstr ""
+"Esta luta interminável com os insetos realmente me esgotou. Eu desisto. "
+"Façam o que quiserem, escumalha!"
+
+# mes "[Young man]";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "[Young man]"
+msgstr "[Jovem]"
+
+# mes "...What is it?";
+#: npc/quests/quests_payon.txt
+msgctxt "Young man#12"
+msgid "...What is it?"
+msgstr "...O que é isso?"
+
+# switch(select("Can you make me a special item?", "Hey.")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Can you make me a special item?"
+msgstr "Você pode me fazer um item especial?"
+
+# switch(select("Can you make me a special item?", "Hey.")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Hey."
+msgstr "Ei."
+
+# mes "Huh? So you already know what I specialize in, eh? I suppose there's no need for the usual secrecy. Tell me what you want.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid ""
+"Huh? So you already know what I specialize in, eh? I suppose there's no need "
+"for the usual secrecy. Tell me what you want."
+msgstr ""
+"O que é isso? Então você já sabe no que sou especialista, hein? Suponho que "
+"não há necessidade do sigilo habitual. Diga-me o que você quer."
+
+# switch(select("Helm of Angel.", "Deviruchi Cap.", "I will come next time.")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Helm of Angel."
+msgstr "Leme de Anjo."
+
+# switch(select("Helm of Angel.", "Deviruchi Cap.", "I will come next time.")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Deviruchi Cap."
+msgstr "Deviruchi Cap."
+
+# switch(select("Helm of Angel.", "Deviruchi Cap.", "I will come next time.")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "I will come next time."
+msgstr "Eu virei na próxima vez."
+
+# mes "1 Helm (with slot).";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "1 Helm (with slot)."
+msgstr "1 Leme (com ranhura)."
+
+# mes "1 Angel Wing.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "1 Angel Wing."
+msgstr "1 Asa de Anjo."
+
+# mes "5 Fang of Garm.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "5 Fang of Garm."
+msgstr "5 Fang of Garm."
+
+# mes "That's all I require.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "That's all I require."
+msgstr "Isso é tudo o que eu preciso."
+
+# mes "Wait! Just so you know, I don't care if the items in your inventory have been upgraded, or have cards attached.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid ""
+"Wait! Just so you know, I don't care if the items in your inventory have "
+"been upgraded, or have cards attached."
+msgstr ""
+"Espere! Só para que você saiba, não me importa se os itens em seu inventário "
+"foram atualizados, ou se têm cartões anexados."
+
+# mes "I mean, any cards or upgrades in the items I will use to make something for you will be lost once I make the item. So be careful when you hand stuff over to me.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid ""
+"I mean, any cards or upgrades in the items I will use to make something for "
+"you will be lost once I make the item. So be careful when you hand stuff "
+"over to me."
+msgstr ""
+"Quero dizer, quaisquer cartões ou atualizações nos itens que eu usarei para "
+"fazer algo para você serão perdidos assim que eu fizer o item. Portanto, "
+"tenha cuidado quando você me entregar as coisas."
+
+# mes "Did you gather the items? Then hand them over.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Did you gather the items? Then hand them over."
+msgstr "Você reuniu os itens? Então, entregue-os."
+
+# switch(select("Give him the items.", "Don't give him the items.")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Give him the items."
+msgstr "Entregue-lhe os itens."
+
+# switch(select("Give him the items.", "Don't give him the items.")) {
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Don't give him the items."
+msgstr "Não lhe dê os itens."
+
+# mes ".....Hm.";
+#: npc/quests/quests_payon.txt
+msgctxt "Young man#12"
+msgid ".....Hm."
+msgstr ".....Hm."
+
+# mes "Fine, here's your Helm of Angel. Take it.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Fine, here's your Helm of Angel. Take it."
+msgstr "Muito bem, aqui está seu Leme de Anjo. Pegue-o."
+
+# mes "...The number of items is not right. You better double check.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "...The number of items is not right. You better double check."
+msgstr ""
+"...O número de itens não é o correto. É melhor você verificar duas vezes."
+
+# mes "Do as you wish...";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Do as you wish..."
+msgstr "Faça o que quiser..."
+
+# mes "600 Little Evil Horn.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "600 Little Evil Horn."
+msgstr "600 Chifre Pequeno Maligno."
+
+# mes "40 Talon of Griffon.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "40 Talon of Griffon."
+msgstr "40 Garra de Griffon."
+
+# mes ".....Hm. Here's your Deviruchi Hat. Please take it.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid ".....Hm. Here's your Deviruchi Hat. Please take it."
+msgstr ".....Hm. Aqui está seu chapéu Deviruchi. Por favor, pegue-o."
+
+# mes "...The number of items isn't right. You better double check.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "...The number of items isn't right. You better double check."
+msgstr ""
+"...O número de itens não é o correto. É melhor você verificar duas vezes."
+
+# mes "Hm. Alright.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Hm. Alright."
+msgstr "Hm. Muito bem."
+
+# mes "Then we shall meet again.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Then we shall meet again."
+msgstr "Então nos encontraremos novamente."
+
+# mes "Hm.";
+#: npc/quests/quests_payon.txt
+msgctxt "Young man#12"
+msgid "Hm."
+msgstr "Hm."
+
+# mes "Take care.";
+#: npc/quests/quests_payon.txt
+#, fuzzy
+msgctxt "Young man#12"
+msgid "Take care."
+msgstr "Cuide-se."

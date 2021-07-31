@@ -1,0 +1,908 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
+"PO-Revision-Date: 2021-07-31 13:36-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Titicupe]";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "[Titicupe]"
+msgstr "[Titicupe]"
+
+# mes "Hmm...?";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Hmm...?"
+msgstr "Hmm...?"
+
+# mes "I, Titicupe, esteemed manager of the Toy Factory and genius inventor, has done it again! I've just created the world's most sophisticated vending machine!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid ""
+"I, Titicupe, esteemed manager of the Toy Factory and genius inventor, has "
+"done it again! I've just created the world's most sophisticated vending "
+"machine!"
+msgstr ""
+"Eu, Titicupe, estimado gerente da Fábrica de Brinquedos e inventor genial, "
+"fiz isso novamente! Eu acabo de criar a máquina de venda automática mais "
+"sofisticada do mundo!"
+
+# switch(select("Talk to him about the Vending Machine", "Items in the Vending Machine", "Stop talking")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Talk to him about the Vending Machine"
+msgstr "Fale com ele sobre a máquina de venda automática"
+
+# switch(select("Talk to him about the Vending Machine", "Items in the Vending Machine", "Stop talking")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Items in the Vending Machine"
+msgstr "Itens na máquina de venda automática"
+
+# switch(select("Talk to him about the Vending Machine", "Items in the Vending Machine", "Stop talking")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Stop talking"
+msgstr "Pare de falar"
+
+# mes "Can you see the little snowman to the left side of me? Can you? If you look at his mouth closely, you'll see that it's been built quite largely. You might say, a bit too large for normal purposes...";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid ""
+"Can you see the little snowman to the left side of me? Can you? If you look "
+"at his mouth closely, you'll see that it's been built quite largely. You "
+"might say, a bit too large for normal purposes..."
+msgstr ""
+"Você consegue ver o pequeno boneco de neve do meu lado esquerdo? Você "
+"consegue? Se você olhar atentamente para a boca dele, verá que ela foi "
+"construída em grande parte. Pode-se dizer, um pouco grande demais para fins "
+"normais."
+
+# mes "You see, that snowman is actually an amazing vending machine that I invented out of my blood, sweat, tears and snow.";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid ""
+"You see, that snowman is actually an amazing vending machine that I invented "
+"out of my blood, sweat, tears and snow."
+msgstr ""
+"Veja, aquele boneco de neve é na verdade uma máquina de venda automática "
+"incrível que inventei a partir do meu sangue, suor, lágrimas e neve."
+
+# mes "You can put all sorts of things inside its mouth, and if you insert the right items, you'll get some hats in return...";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid ""
+"You can put all sorts of things inside its mouth, and if you insert the "
+"right items, you'll get some hats in return..."
+msgstr ""
+"Você pode colocar todo tipo de coisas dentro de sua boca, e se você inserir "
+"os itens certos, você receberá alguns chapéus em troca..."
+
+# mes "Fashionable hats that you've always dreamed of wearing...! Bwahahahaha~!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid ""
+"Fashionable hats that you've always dreamed of wearing...! Bwahahahaha~!"
+msgstr "Chapéus da moda que você sempre sonhou em usar...! Bwahahahaha~!"
+
+# mes "Oh, this creation of mine is so magnificent!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Oh, this creation of mine is so magnificent!"
+msgstr "Oh, esta minha criação é tão magnífica!"
+
+# mes "And the headgears--! I... I can't contain myself!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "And the headgears--! I... I can't contain myself!"
+msgstr "E os capacete...! I... Eu não consigo me conter!"
+
+# mes "^3355FFToy factory manager Titicupe jumps and convulses with joy. Clearly he's insane, but it may be possible that he may be brilliant.^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid ""
+"^3355FFToy factory manager Titicupe jumps and convulses with joy. Clearly "
+"he's insane, but it may be possible that he may be brilliant.^000000"
+msgstr ""
+"^3355FFToy gerente da fábrica Titicupe salta e convulsiona com alegria. "
+"Claramente ele é louco, mas pode ser possível que ele seja brilhante.^000000"
+
+# mes "Oh right! You need to know what kind of items to put into the Vending Machine to get what you want, yes? Go ahead... Ask me~";
+#: npc/quests/quests_lutie.txt
+msgctxt "Vending Machine Man"
+msgid ""
+"Oh right! You need to know what kind of items to put into the Vending "
+"Machine to get what you want, yes? Go ahead... Ask me~"
+msgstr ""
+"Oh, certo! Você precisa saber que tipo de itens colocar na máquina de venda "
+"automática para obter o que você quer, sim? Vá em frente... Pergunte-me~"
+
+# switch(select("Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Ranbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "End Conversation")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Raccoon Hat"
+msgstr "Chapéu de guaxinim"
+
+# switch(select("Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Ranbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "End Conversation")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Spore Hat"
+msgstr "Chapéu de esporos"
+
+# switch(select("Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Ranbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "End Conversation")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Wonder Nutshell"
+msgstr "Maravilhosa Nutshell"
+
+# switch(select("Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Ranbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "End Conversation")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Ranbow Eggshell"
+msgstr "Casca de ovo Ranbow"
+
+# switch(select("Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Ranbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "End Conversation")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Blush"
+msgstr "Corar"
+
+# switch(select("Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Ranbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "End Conversation")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Chef Hat"
+msgstr "Chapéu de cozinheiro"
+
+# switch(select("Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Ranbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "End Conversation")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Candle"
+msgstr "Vela"
+
+# switch(select("Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Ranbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "End Conversation")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Cake Hat"
+msgstr "Chapéu de bolo"
+
+# switch(select("Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Ranbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "End Conversation")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "End Conversation"
+msgstr "Encerrar Conversa"
+
+# mes "Raccoon Hat?";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Raccoon Hat?"
+msgstr "Chapéu de guaxinim?"
+
+# mes "1 Kitty Band";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "1 Kitty Band"
+msgstr "1 Faixa de Kitty"
+
+# mes "20 Dragon Scale";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "20 Dragon Scale"
+msgstr "20 Escala de Dragão"
+
+# mes "200 Tough Scalelike Stem";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "200 Tough Scalelike Stem"
+msgstr "200 Tough Scalelike Stem"
+
+# mes "300 Sea-otter Fur";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "300 Sea-otter Fur"
+msgstr "300 Peles de mar"
+
+# mes "Spore Hat?";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Spore Hat?"
+msgstr "Chapéu de esporo?"
+
+# mes "850 Poison Spore";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "850 Poison Spore"
+msgstr "850 esporos de veneno"
+
+# mes "300 Burnt Tree";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "300 Burnt Tree"
+msgstr "300 Árvore Queimada"
+
+# mes "1 Tongue";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "1 Tongue"
+msgstr "1 Língua"
+
+# mes "Wonder Nutshell?";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Wonder Nutshell?"
+msgstr "Maravilhosa Nutshell?"
+
+# mes "1 Nut Shell";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "1 Nut Shell"
+msgstr "1 casca de noz"
+
+# mes "500 Wing of Dragonfly";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "500 Wing of Dragonfly"
+msgstr "500 Asas de Libélula"
+
+# mes "Rainbow Eggshell?";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Rainbow Eggshell?"
+msgstr "Casca de ovo arco-íris?"
+
+# mes "1 Egg Shell";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "1 Egg Shell"
+msgstr "1 casca de ovo"
+
+# mes "1 Cobaltblue Dyestuffs";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "1 Cobaltblue Dyestuffs"
+msgstr "1 Corantes de Cobalto-azulado"
+
+# mes "50 Claw of Desert Wolf";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "50 Claw of Desert Wolf"
+msgstr "50 Garra do Lobo do Deserto"
+
+# mes "Blush?!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Blush?!"
+msgstr "Corar?!"
+
+# mes "You!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "You!"
+msgstr "Você!"
+
+# mes "You know something...";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "You know something..."
+msgstr "Você sabe algo..."
+
+# mes "Heh heh~ Anyway";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Heh heh~ Anyway"
+msgstr "Heh heh~ De qualquer forma"
+
+# mes "100 Alice's Apron";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "100 Alice's Apron"
+msgstr "100 Avental de Alice"
+
+# mes "Chef Hat?";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Chef Hat?"
+msgstr "Chapéu de cozinheiro?"
+
+# mes "120 Piece of Cake";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "120 Piece of Cake"
+msgstr "120 Pedaço de bolo"
+
+# mes "1 White Dyestuffs";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "1 White Dyestuffs"
+msgstr "1 Corantes brancos"
+
+# mes "330 Feather";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "330 Feather"
+msgstr "330 Pena"
+
+# mes "450 Dragon Scale";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "450 Dragon Scale"
+msgstr "Escala de Dragão 450"
+
+# mes "Candle?";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Candle?"
+msgstr "Vela?"
+
+# mes "1 Bomb Wick";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "1 Bomb Wick"
+msgstr "1 Bombas de pavio"
+
+# mes "50 Matchstick";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "50 Matchstick"
+msgstr "50 Fósforos"
+
+# mes "100 Royal Jelly";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "100 Royal Jelly"
+msgstr "100 Geleia Real"
+
+# mes "Cake Hat?";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Cake Hat?"
+msgstr "Chapéu de bolo?"
+
+# mes "10 Candy";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "10 Candy"
+msgstr "10 Doces"
+
+# mes "5 Candy Cane";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "5 Candy Cane"
+msgstr "5 Candy Cane"
+
+# mes "15 Well-baked Cookie";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "15 Well-baked Cookie"
+msgstr "15 Biscoito bem assado"
+
+# mes "20 Piece Of Cake";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "20 Piece Of Cake"
+msgstr "20 Pedaços de Bolo"
+
+# mes "10 Steel";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "10 Steel"
+msgstr "10 Aço"
+
+# mes "Ask me anytime. Those kinds of questions are no problem for geniuses like me!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid ""
+"Ask me anytime. Those kinds of questions are no problem for geniuses like me!"
+msgstr ""
+"Pergunte-me a qualquer momento. Esses tipos de perguntas não são problema "
+"para gênios como eu!"
+
+# mes "So happy!!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "So happy!!"
+msgstr "Tão feliz!!"
+
+# mes "I'm a genius~!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "I'm a genius~!"
+msgstr "Eu sou um gênio~!"
+
+# mes "Ho ho ho";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Ho ho ho"
+msgstr "Ho ho ho"
+
+# mes "Ho ho ho ho!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Ho ho ho ho!"
+msgstr "Ho ho ho ho ho!"
+
+# mes "Sometimes, I can't believe how magnificent this invention of mine is...!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid ""
+"Sometimes, I can't believe how magnificent this invention of mine is...!"
+msgstr "Às vezes, não acredito como esta minha invenção é magnífica...!"
+
+# mes "I...";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "I..."
+msgstr "Eu..."
+
+# mes "I love you";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "I love you"
+msgstr "Eu te amo"
+
+# mes "Mister Snowman";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Mister Snowman"
+msgstr "Senhor Snowman"
+
+# mes "Vending Machine.";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid "Vending Machine."
+msgstr "Máquina de venda automática."
+
+# mes "^3355FFToy factory manager Titicupe begins to jump around and emit screams of unbridled ecstacy. At this point, it's not difficult to doubt his sanity, as well as his genius.";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine Man"
+msgid ""
+"^3355FFToy factory manager Titicupe begins to jump around and emit screams "
+"of unbridled ecstacy. At this point, it's not difficult to doubt his sanity, "
+"as well as his genius."
+msgstr ""
+"^3355FFToy gerente da fábrica Titicupe começa a pular e emitir gritos de "
+"êxtase desenfreado. Neste ponto, não é difícil duvidar de sua sanidade, bem "
+"como de sua genialidade."
+
+# mes "[Audi]";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "[Audi]"
+msgstr "[Audi]"
+
+# mes "^555555Exciting item vending machine. Invented by great Titicupe. Select the desired item and place required items into snowmouth receptacle.^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid ""
+"^555555Exciting item vending machine. Invented by great Titicupe. Select the "
+"desired item and place required items into snowmouth receptacle.^000000"
+msgstr ""
+"^5555555555 Máquina de venda automática de artigos excitante. Inventada pelo "
+"grande Titicupe. Selecione o item desejado e coloque os itens desejados "
+"dentro do receptáculo snowmouth.^000000"
+
+# switch(select("^FF3355Notice (Must Read)^000000", "Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Rainbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "Cancel")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "^FF3355Notice (Must Read)^000000"
+msgstr "^FF3355Notificação (Deve ser lida)^000000"
+
+# switch(select("^FF3355Notice (Must Read)^000000", "Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Rainbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "Cancel")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Raccoon Hat"
+msgstr "Chapéu de guaxinim"
+
+# switch(select("^FF3355Notice (Must Read)^000000", "Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Rainbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "Cancel")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Spore Hat"
+msgstr "Chapéu de esporos"
+
+# switch(select("^FF3355Notice (Must Read)^000000", "Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Rainbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "Cancel")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Wonder Nutshell"
+msgstr "Maravilhosa Nutshell"
+
+# switch(select("^FF3355Notice (Must Read)^000000", "Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Rainbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "Cancel")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Rainbow Eggshell"
+msgstr "Casca de ovo arco-íris"
+
+# switch(select("^FF3355Notice (Must Read)^000000", "Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Rainbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "Cancel")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Blush"
+msgstr "Corar"
+
+# switch(select("^FF3355Notice (Must Read)^000000", "Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Rainbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "Cancel")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Chef Hat"
+msgstr "Chapéu de cozinheiro"
+
+# switch(select("^FF3355Notice (Must Read)^000000", "Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Rainbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "Cancel")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Candle"
+msgstr "Vela"
+
+# switch(select("^FF3355Notice (Must Read)^000000", "Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Rainbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "Cancel")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Cake Hat"
+msgstr "Chapéu de bolo"
+
+# switch(select("^FF3355Notice (Must Read)^000000", "Raccoon Hat", "Spore Hat", "Wonder Nutshell", "Rainbow Eggshell", "Blush", "Chef Hat", "Candle", "Cake Hat", "Cancel")) {
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes "Hi~ !";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Hi~ !"
+msgstr "Oi~ !"
+
+# mes "I need to tell you one important thing. This vending machine is not equipped to differentiate between special items and ordinary items.";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid ""
+"I need to tell you one important thing. This vending machine is not equipped "
+"to differentiate between special items and ordinary items."
+msgstr ""
+"Preciso lhe dizer uma coisa importante. Esta máquina de venda automática não "
+"está equipada para diferenciar entre itens especiais e itens comuns."
+
+# mes "So if you use an item that has been ^FF3355upgraded, or has a card compounded to it^000000, any cards or upgrades will be lost in creating the new item.";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid ""
+"So if you use an item that has been ^FF3355upgraded, or has a card "
+"compounded to it^000000, any cards or upgrades will be lost in creating the "
+"new item."
+msgstr ""
+"Portanto, se você usar um item que foi ^FF3355 atualizado, ou tem um cartão "
+"composto para ele ^000000, qualquer cartão ou atualização será perdido na "
+"criação do novo item."
+
+# mes "So when you try to exchange and generate items, please put all the valuable items you won't be using into the Kafra Storage.";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid ""
+"So when you try to exchange and generate items, please put all the valuable "
+"items you won't be using into the Kafra Storage."
+msgstr ""
+"Portanto, quando você tentar trocar e gerar itens, por favor, coloque todos "
+"os itens valiosos que você não estará usando no Kafra Storage."
+
+# mes "Please keep this in mind because this Vending Machine does not provide any returns, refunds or exchanges.";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid ""
+"Please keep this in mind because this Vending Machine does not provide any "
+"returns, refunds or exchanges."
+msgstr ""
+"Por favor, tenha isto em mente porque esta máquina de venda automática não "
+"oferece nenhuma devolução, reembolso ou troca."
+
+# mes "Have a great time!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Have a great time!"
+msgstr "Divirta-se muito!"
+
+# mes "Thank you!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Thank you!"
+msgstr "Obrigado!"
+
+# mes "^3355FFYou gingerly place the items into the snowman's mouth.^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "^3355FFYou gingerly place the items into the snowman's mouth.^000000"
+msgstr ""
+"^3355FFVocê coloca os itens na boca do boneco de neve com cuidado.^000000"
+
+# mes "^3355FF*Vroooooom~~*";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "^3355FF*Vroooooom~~*"
+msgstr "^3355FF*Vroooooom~~*"
+
+# mes "*Bzzzzzt*";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*Bzzzzzt*"
+msgstr "*Bzzzzzt*"
+
+# mes "*choogachooga*";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*choogachooga*"
+msgstr "*choogachooga*"
+
+# mes "*Kapang!*^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*Kapang!*^000000"
+msgstr "*Kapang!*^000000"
+
+# mes "^555555Thank you for coming by.";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "^555555Thank you for coming by."
+msgstr "^55555555Obrigado por ter vindo."
+
+# mes "Please come again!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Please come again!"
+msgstr "Por favor, venha novamente!"
+
+# mes "Oh, and tell a friend!^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Oh, and tell a friend!^000000"
+msgstr "Oh, e diga a um amigo!^000000"
+
+# mes "*Kapang!*";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*Kapang!*"
+msgstr "*Kapang!*"
+
+# mes "*Wek Wek*^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*Wek Wek*^000000"
+msgstr "*Wek Wek*^000000"
+
+# mes "*BeepBoopBeepBoop*";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*BeepBoopBeepBoop*"
+msgstr "*BeepBoopBeepBoop*"
+
+# mes "*Beeeeeeoop*^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*Beeeeeeoop*^000000"
+msgstr "*Beeeeeeoop*^000000"
+
+# mes "*OoooEeeeeeee~*^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*OoooEeeeeeee~*^000000"
+msgstr "*OoooEeeeeeee~*^000000"
+
+# mes "^3355FFYou gingerly place all 100 Aprons into the snowman's mouth.^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid ""
+"^3355FFYou gingerly place all 100 Aprons into the snowman's mouth.^000000"
+msgstr ""
+"^3355FFVocê coloca todos os 100 Aventais na boca do boneco de neve. ^000000"
+
+# mes "*ChoopChoop*";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*ChoopChoop*"
+msgstr "*ChoopChoop*"
+
+# mes "*Chaaawah!*^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*Chaaawah!*^000000"
+msgstr "*Chaaawah!*^000000"
+
+# mes "[Titicupe]";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "[Titicupe]"
+msgstr "[Titicupe]"
+
+# mes "You got Blush?! Huh. I guess you really like looking glamourous~! I bet you really appreciate my genius now, huh?";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid ""
+"You got Blush?! Huh. I guess you really like looking glamourous~! I bet you "
+"really appreciate my genius now, huh?"
+msgstr ""
+"Você tem Blush?! Huh. Acho que você realmente gosta de parecer glamouroso~! "
+"Aposto que agora você realmente aprecia minha genialidade, hein?"
+
+# mes "*Muuuuuuugeeee*^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "*Muuuuuuugeeee*^000000"
+msgstr "*Muuuuuuugeeee*^000000"
+
+# mes "^555555Please...";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "^555555Please..."
+msgstr "^55555555Por favor..."
+
+# mes "Insert...";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Insert..."
+msgstr "Inserir..."
+
+# mes "Items.^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Items.^000000"
+msgstr "Itens.^000000"
+
+# mes "^555555Error Error!";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "^555555Error Error!"
+msgstr "^55555555Error Error!"
+
+# mes "Incorrect items!^000000";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "Incorrect items!^000000"
+msgstr "Itens incorretos!^000000"
+
+# mes "I...";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid "I..."
+msgstr "Eu..."
+
+# mes "I guess a lot of people would do anything to get their hands on some Blush.";
+#: npc/quests/quests_lutie.txt
+#, fuzzy
+msgctxt "Vending Machine"
+msgid ""
+"I guess a lot of people would do anything to get their hands on some Blush."
+msgstr ""
+"Acho que muitas pessoas fariam qualquer coisa para colocar as mãos em algum "
+"Blush."

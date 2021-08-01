@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
 "Report-Msgid-Bugs-To: dev@herc.ws\n"
 "POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
-"PO-Revision-Date: 2021-07-30 21:20-0300\n"
+"PO-Revision-Date: 2021-07-31 17:55-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,1161 +34,1392 @@ msgstr ""
 #: npc/quests/quests_geffen.txt
 msgctxt "Blacksmith"
 msgid "[Blacksmith]"
-msgstr ""
+msgstr "[Ferreiro]"
 
 # mes "You've never heard of me? Why, I'm the Veteran Blacksmith of this land. I've spent 30 years in this hot and bloody hellfire, bending steel to my iron will!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "You've never heard of me? Why, I'm the Veteran Blacksmith of this land. I've "
 "spent 30 years in this hot and bloody hellfire, bending steel to my iron "
 "will!"
 msgstr ""
+"Você nunca ouviu falar de mim? Ora, eu sou o ferreiro veterano desta terra. "
+"Eu passei 30 anos neste fogo infernal quente e sangrento, dobrando aço à "
+"minha vontade de ferro!"
 
 # mes "But...";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "But..."
-msgstr ""
+msgstr "Mas..."
 
 # mes "I am growing older and my prowess begins to fade with age. So I've invented something for young, hot, upcoming Blacksmiths, in hopes that they too will master my craft...";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "I am growing older and my prowess begins to fade with age. So I've invented "
 "something for young, hot, upcoming Blacksmiths, in hopes that they too will "
 "master my craft..."
 msgstr ""
+"Estou envelhecendo e minha proeza começa a desvanecer com a idade. Por isso, "
+"inventei algo para os ferreiros jovens, quentes e futuros, na esperança de "
+"que eles também dominem minha arte..."
 
 # switch(select("What is it?", "...")) {
 #: npc/quests/quests_geffen.txt
 msgctxt "Blacksmith"
 msgid "What is it?"
-msgstr ""
+msgstr "O que é isso?"
 
 # switch(select("What is it?", "...")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 # mes "We Blacksmiths must always manipulate steel under extreme heat, and the hot air and melted metals are more than most people can stand.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "We Blacksmiths must always manipulate steel under extreme heat, and the hot "
 "air and melted metals are more than most people can stand."
 msgstr ""
+"Nós, ferreiros, devemos sempre manipular o aço sob calor extremo, e o ar "
+"quente e os metais derretidos são mais do que a maioria das pessoas pode "
+"suportar."
 
 # mes "For the sake of our craft, our beautiful, yet masculine faces are put at risk...";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "For the sake of our craft, our beautiful, yet masculine faces are put at "
 "risk..."
 msgstr ""
+"Em nome de nosso ofício, nossos rostos bonitos, porém masculinos, são postos "
+"em risco."
 
 # mes "But with this wonder of technology, there's no need to worry! Behold, the ^3355FFWelding Mask^000000 !!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "But with this wonder of technology, there's no need to worry! Behold, the "
 "^3355FFWelding Mask^000000 !!"
 msgstr ""
+"Mas com esta maravilha da tecnologia, não há necessidade de se preocupar! "
+"Eis, a Máscara de Solda ^3355FF000000 !!"
 
 # mes "It works by covering your face with a fat metal plate. Truly, it's an item that everyone should want! If not yourself, it'd be a good idea to give this to a friend who is studying smithing.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "It works by covering your face with a fat metal plate. Truly, it's an item "
 "that everyone should want! If not yourself, it'd be a good idea to give this "
 "to a friend who is studying smithing."
 msgstr ""
+"Funciona cobrindo seu rosto com uma placa de metal gordo. Realmente, é um "
+"item que todos deveriam querer! Se não for você mesmo, seria uma boa idéia "
+"dar isto a um amigo que está estudando a ferragem."
 
 # mes "So how about it ? If you give me ^2244FF50 Steel^000000 and ^4422FFonly 2000 Zeny^000000, I will make it for you right away~!!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "So how about it ? If you give me ^2244FF50 Steel^000000 and ^4422FFonly 2000 "
 "Zeny^000000, I will make it for you right away~!!"
 msgstr ""
+"Então, que tal ? Se você me der ^2244FF50 Steel^000000 e ^4422FFonly 2000 "
+"Zeny^000000, eu farei isso para você imediatamente~!!"
 
 # switch(select("Hm... Not bad. Alright.", "How does it work again?")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "Hm... Not bad. Alright."
-msgstr ""
+msgstr "Hm... Nada mal. Muito bem."
 
 # switch(select("Hm... Not bad. Alright.", "How does it work again?")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "How does it work again?"
-msgstr ""
+msgstr "Como funciona novamente?"
 
 # mes "Ah, I see that you appreciate a Blacksmith's work! Alright, I'll do it right away !!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "Ah, I see that you appreciate a Blacksmith's work! Alright, I'll do it right "
 "away !!"
 msgstr ""
+"Ah, eu vejo que você aprecia o trabalho de um ferreiro! Muito bem, vou fazer "
+"isso imediatamente!!"
 
 # mes "Hahaha~! Make good use of that!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "Hahaha~! Make good use of that!"
-msgstr ""
+msgstr "Hahaha~! Faça bom uso disso!"
 
 # mes "Hmmm...";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "Hmmm..."
-msgstr ""
+msgstr "Hmmm..."
 
 # mes "You do not have the items I require.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "You do not have the items I require."
-msgstr ""
+msgstr "Você não tem os itens que eu preciso."
 
 # mes "A common Blacksmith would interpret this as a sign of disrepect, but I will forgive you. Just don't forget what I need if you want me to make you this mask.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "A common Blacksmith would interpret this as a sign of disrepect, but I will "
 "forgive you. Just don't forget what I need if you want me to make you this "
 "mask."
 msgstr ""
+"Um ferreiro comum interpretaria isto como um sinal de desrespeito, mas eu o "
+"perdoarei. Só não esqueça o que eu preciso se você quiser que eu faça para "
+"você esta máscara."
 
 # mes "The ^3355FFWelding Mask^000000 protects your face by covering it with a fat metal plate. This invention is the result of 30 years of endless toil at the hammer and anvil.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "The ^3355FFWelding Mask^000000 protects your face by covering it with a fat "
 "metal plate. This invention is the result of 30 years of endless toil at the "
 "hammer and anvil."
 msgstr ""
+"A Máscara de Solda ^3355FFWelding Mask^000000 protege seu rosto cobrindo-o "
+"com uma placa de metal gordo. Esta invenção é o resultado de 30 anos de "
+"labuta sem fim no martelo e na bigorna."
 
 # mes "Ah...!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "Ah...!"
-msgstr ""
+msgstr "Ah...!"
 
 # mes "I guess this is the first time you've met a Blacksmith as great as me, and you're just speechless with awe. Please, take your time and speak up when you are ready.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid ""
 "I guess this is the first time you've met a Blacksmith as great as me, and "
 "you're just speechless with awe. Please, take your time and speak up when "
 "you are ready."
 msgstr ""
+"Acho que esta é a primeira vez que você conhece um ferreiro tão grande como "
+"eu, e você fica sem palavras com admiração. Por favor, tome seu tempo e fale "
+"quando estiver pronto."
 
 # mes "^3355FFThis guy seems";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "^3355FFThis guy seems"
-msgstr ""
+msgstr "^3355FF Este cara parece"
 
 # mes "a little full";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "a little full"
-msgstr ""
+msgstr "um pouco cheio"
 
 # mes "of himself.^000000";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Blacksmith"
 msgid "of himself.^000000"
-msgstr ""
+msgstr "de si mesmo.^000000"
 
 # mes "[Eric]";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "[Eric]"
-msgstr ""
+msgstr "[Eric]"
 
 # mes "Please listen";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "Please listen"
-msgstr ""
+msgstr "Por favor, escute"
 
 # mes "to my story";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "to my story"
-msgstr ""
+msgstr "à minha história"
 
 # mes "of my blessed";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "of my blessed"
-msgstr ""
+msgstr "de minha abençoada"
 
 # mes "grandfather.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "grandfather."
-msgstr ""
+msgstr "avô."
 
 # switch(select("Talk", "Ask about Items needed", "Manufacture", "Quit")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "Talk"
-msgstr ""
+msgstr "Conversa"
 
 # switch(select("Talk", "Ask about Items needed", "Manufacture", "Quit")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "Ask about Items needed"
-msgstr ""
+msgstr "Pergunte sobre Itens necessários"
 
 # switch(select("Talk", "Ask about Items needed", "Manufacture", "Quit")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "Manufacture"
-msgstr ""
+msgstr "Fabricação"
 
 # switch(select("Talk", "Ask about Items needed", "Manufacture", "Quit")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "Quit"
-msgstr ""
+msgstr "Sair"
 
 # mes "My Grandfather, who passed away a few years ago, was special to me. He always stayed with me, and took care of me. He was much better than my old man, who was always busy working.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "My Grandfather, who passed away a few years ago, was special to me. He "
 "always stayed with me, and took care of me. He was much better than my old "
 "man, who was always busy working."
 msgstr ""
+"Meu avô, que faleceu há alguns anos, era especial para mim. Ele sempre ficou "
+"comigo, e cuidou de mim. Ele era muito melhor que meu avô, que estava sempre "
+"ocupado trabalhando."
 
 # mes "To me, Grandfather's library was always like a fantasy land where I could escape. I spent most of my time there.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "To me, Grandfather's library was always like a fantasy land where I could "
 "escape. I spent most of my time there."
 msgstr ""
+"Para mim, a biblioteca do avô sempre foi como uma terra de fantasia onde eu "
+"podia escapar. Eu passava a maior parte do meu tempo lá."
 
 # mes "I learned a lot of things from his books in the Library. Grandfather was interested in Alchemy and Music, and his Library was filled with many mysterious old books.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "I learned a lot of things from his books in the Library. Grandfather was "
 "interested in Alchemy and Music, and his Library was filled with many "
 "mysterious old books."
 msgstr ""
+"Aprendi muitas coisas com seus livros na Biblioteca. O avô estava "
+"interessado em Alquimia e Música, e sua Biblioteca estava repleta de muitos "
+"livros antigos misteriosos."
 
 # mes "One day...";
 #: npc/quests/quests_geffen.txt
 msgctxt "Eric"
 msgid "One day..."
-msgstr ""
+msgstr "Um dia..."
 
 # mes "As usual, I went to the Library and discovered an interesting schematic.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "As usual, I went to the Library and discovered an interesting schematic."
-msgstr ""
+msgstr "Como sempre, fui à Biblioteca e descobri um esquema interessante."
 
 # mes "It showed some instrument which looked like Ear Muffs that, when worn on the head, could transmit music or whispers to the ears through a thin wire.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "It showed some instrument which looked like Ear Muffs that, when worn on the "
 "head, could transmit music or whispers to the ears through a thin wire."
 msgstr ""
+"Mostrou um instrumento que se parecia com os Ear Muffs que, quando usado na "
+"cabeça, podia transmitir música ou sussurros para os ouvidos através de um "
+"fio fino."
 
 # mes "I guess...";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "I guess..."
-msgstr ""
+msgstr "Acho que sim."
 
 # mes "It is my grand father's unfinished work. I met a few Alchemists and asked them to produce it, but they rejected my offer...";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "It is my grand father's unfinished work. I met a few Alchemists and asked "
 "them to produce it, but they rejected my offer..."
 msgstr ""
+"É o trabalho inacabado do meu avô. Conheci alguns alquimistas e pedi-lhes "
+"que o produzissem, mas eles rejeitaram minha oferta."
 
 # mes "In the end, I thought 'I've gotta make it myself.' So I researched for a few years, and now I fully understand how to make that thing. But, I could never gather the materials to make it!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "In the end, I thought 'I've gotta make it myself.' So I researched for a few "
 "years, and now I fully understand how to make that thing. But, I could never "
 "gather the materials to make it!"
 msgstr ""
+"No final, pensei: \"Tenho que ser eu mesmo a fazer\" Por isso pesquisei por "
+"alguns anos e agora entendo perfeitamente como fazer essa coisa. Mas, eu "
+"nunca consegui reunir os materiais para fazê-la!"
 
 # mes "If I can get those articles, I would build it right away. If you are interested in my idea, would you bring them for me?";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "If I can get those articles, I would build it right away. If you are "
 "interested in my idea, would you bring them for me?"
 msgstr ""
+"Se eu pudesse obter esses artigos, eu os construiria imediatamente. Se você "
+"estiver interessado na minha idéia, poderia trazê-los para mim?"
 
 # mes "All I wanna do is build this thing in honor of my grandfather and finish the work he started. If you ask me to keep it, I wouldn't mind.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "All I wanna do is build this thing in honor of my grandfather and finish the "
 "work he started. If you ask me to keep it, I wouldn't mind."
 msgstr ""
+"Tudo o que quero fazer é construir isto em homenagem ao meu avô e terminar o "
+"trabalho que ele começou. Se você me pedir para ficar com ele, eu não me "
+"importaria."
 
 # mes "40 ^3355FFSteel^000000";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "40 ^3355FFSteel^000000"
-msgstr ""
+msgstr "40 ^3355FFSteel^000000"
 
 # mes "1 ^3355FFOridecon^000000";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "1 ^3355FFOridecon^000000"
-msgstr ""
+msgstr "1 ^3355FFOridecon^000000"
 
 # mes "1 ^3355FFAlcohol^000000";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "1 ^3355FFAlcohol^000000"
-msgstr ""
+msgstr "1 ^3355FFÁlcool ^000000"
 
 # mes "1 ^3355FFCoal^000000";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "1 ^3355FFCoal^000000"
-msgstr ""
+msgstr "1 ^3355FFCoal^000000"
 
 # mes "These are the things I need for Grandfather's masterpiece.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "These are the things I need for Grandfather's masterpiece."
-msgstr ""
+msgstr "Estas são as coisas que eu preciso para a obra-prima do avô."
 
 # mes "*Tap! Tap! Tap!*";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "*Tap! Tap! Tap!*"
-msgstr ""
+msgstr "*Toque! Torneira! Torneira!*"
 
 # mes "Thank you.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "Thank you."
-msgstr ""
+msgstr "Obrigado por atualizar para a versão mais recente."
 
 # mes "Because of you, I could accomplish my grandfather's wish. He would be happy if he looked down on me from Heaven.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "Because of you, I could accomplish my grandfather's wish. He would be happy "
 "if he looked down on me from Heaven."
 msgstr ""
+"Por sua causa, eu poderia realizar o desejo de meu avô. Ele ficaria feliz se "
+"me olhasse de cima do céu."
 
 # mes "As I said, please take this. I am just proud that I can make this by myself.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "As I said, please take this. I am just proud that I can make this by myself."
 msgstr ""
+"Como eu disse, por favor, tome isto. Estou apenas orgulhoso de poder fazer "
+"isto sozinho."
 
 # mes "Thank you for trying to help me, but you didn't bring all the items I need. I think you will find them all soon though.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid ""
 "Thank you for trying to help me, but you didn't bring all the items I need. "
 "I think you will find them all soon though."
 msgstr ""
+"Obrigado por tentar me ajudar, mas você não trouxe todos os itens que eu "
+"preciso. Acho que você vai encontrá-los todos em breve."
 
 # mes "N-no?";
 #: npc/quests/quests_geffen.txt
 msgctxt "Eric"
 msgid "N-no?"
-msgstr ""
+msgstr "Nã-não?"
 
 # mes "Well...";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "Well..."
-msgstr ""
+msgstr "Bem..."
 
 # mes "You have your own";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "You have your own"
-msgstr ""
+msgstr "Você tem seu próprio"
 
 # mes "worries, I suppose.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Eric"
 msgid "worries, I suppose."
-msgstr ""
+msgstr "preocupações, eu suponho."
 
 # mes "Farewell.";
 #: npc/quests/quests_geffen.txt
 msgctxt "Eric"
 msgid "Farewell."
-msgstr ""
+msgstr "Adeus."
 
 # mes "[Nia]";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "[Nia]"
-msgstr ""
+msgstr "[Nia]"
 
 # mes "Hello, I'm Nia, the fifth";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Hello, I'm Nia, the fifth"
-msgstr ""
+msgstr "Olá, eu sou Nia, a quinta"
 
 # mes "disciple of Mawong, the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "disciple of Mawong, the"
-msgstr ""
+msgstr "discípulo de Mawong, o"
 
 # mes "gaming mastermind. Now,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "gaming mastermind. Now,"
-msgstr ""
+msgstr "mestre do jogo. Agora,"
 
 # mes "how would you like to play a";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "how would you like to play a"
-msgstr ""
+msgstr "como você gostaria de jogar um"
 
 # mes "Number Match game with me?";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Number Match game with me?"
-msgstr ""
+msgstr "Jogo de partida de números comigo?"
 
 # switch(select("Number Match Game?", "Practice Number Match", "Play Number Match", "Record Holder", "Cancel")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Number Match Game?"
-msgstr ""
+msgstr "Jogo de números?"
 
 # switch(select("Number Match Game?", "Practice Number Match", "Play Number Match", "Record Holder", "Cancel")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Practice Number Match"
-msgstr ""
+msgstr "Prática de número de correspondência"
 
 # switch(select("Number Match Game?", "Practice Number Match", "Play Number Match", "Record Holder", "Cancel")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Play Number Match"
-msgstr ""
+msgstr "Jogo Jogo de números"
 
 # switch(select("Number Match Game?", "Practice Number Match", "Play Number Match", "Record Holder", "Cancel")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Record Holder"
-msgstr ""
+msgstr "Detentor do registro"
 
 # switch(select("Number Match Game?", "Practice Number Match", "Play Number Match", "Record Holder", "Cancel")) {
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 # mes "Ah, well, the objective of";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Ah, well, the objective of"
-msgstr ""
+msgstr "Ah, bem, o objetivo de"
 
 # mes "the Number Match game is to";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "the Number Match game is to"
-msgstr ""
+msgstr "o jogo da partida de números é para"
 
 # mes "guess the number I'm thinking";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "guess the number I'm thinking"
-msgstr ""
+msgstr "adivinhe o número que estou pensando"
 
 # mes "of. Of course, there are a few";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "of. Of course, there are a few"
-msgstr ""
+msgstr "de. É claro, existem alguns"
 
 # mes "rules that limit the numbers";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "rules that limit the numbers"
-msgstr ""
+msgstr "regras que limitam os números"
 
 # mes "that I can choose from.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "that I can choose from."
-msgstr ""
+msgstr "que eu possa escolher."
 
 # mes "All the numbers that I make";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "All the numbers that I make"
-msgstr ""
+msgstr "Todos os números que eu faço"
 
 # mes "up must be 3 digits, I can't";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "up must be 3 digits, I can't"
-msgstr ""
+msgstr "para cima deve ter 3 dígitos, eu não posso"
 
 # mes "use 0 for any of the digits,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "use 0 for any of the digits,"
-msgstr ""
+msgstr "usar 0 para qualquer um dos dígitos,"
 
 # mes "and I can't use the same";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "and I can't use the same"
-msgstr ""
+msgstr "e eu não posso usar o mesmo"
 
 # mes "number for any of the digits";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "number for any of the digits"
-msgstr ""
+msgstr "número para qualquer um dos dígitos"
 
 # mes "more than once.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "more than once."
-msgstr ""
+msgstr "mais de uma vez."
 
 # mes "So, for example, I can't";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "So, for example, I can't"
-msgstr ""
+msgstr "Então, por exemplo, eu não posso"
 
 # mes "use the numbers 103, 112,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "use the numbers 103, 112,"
-msgstr ""
+msgstr "usar os números 103, 112,"
 
 # mes "252, or 701. Those numbers";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "252, or 701. Those numbers"
-msgstr ""
+msgstr "252, ou 701. Esses números"
 
 # mes "either have a 0, or they use";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "either have a 0, or they use"
-msgstr ""
+msgstr "ou têm um 0, ou usam"
 
 # mes "the same number in the digits";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "the same number in the digits"
-msgstr ""
+msgstr "o mesmo número nos dígitos"
 
 # mes "more than once. Got it now?";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "more than once. Got it now?"
-msgstr ""
+msgstr "mais de uma vez. Entendeu agora?"
 
 # mes "Now, you only get 5 guesses,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Now, you only get 5 guesses,"
-msgstr ""
+msgstr "Agora, você só tem 5 palpites,"
 
 # mes "and after each guess, I'll tell";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "and after each guess, I'll tell"
-msgstr ""
+msgstr "e depois de cada palpite, eu direi"
 
 # mes "you how many digits you guessed";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "you how many digits you guessed"
-msgstr ""
+msgstr "você quantos dígitos você adivinhou"
 
 # mes "correctly, followed by the number of correctly guessed digits in";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "correctly, followed by the number of correctly guessed digits in"
-msgstr ""
+msgstr "corretamente, seguido do número de dígitos corretamente adivinhados em"
 
 # mes "the correct digit place.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "the correct digit place."
-msgstr ""
+msgstr "o lugar correto dos dígitos."
 
 # mes "For example, let's say the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "For example, let's say the"
-msgstr ""
+msgstr "Por exemplo, digamos que o"
 
 # mes "number I come up with is 168.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "number I come up with is 168."
-msgstr ""
+msgstr "o número que eu invento é 168."
 
 # mes "If your first guess is 678, then you guessed two of the digits,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "If your first guess is 678, then you guessed two of the digits,"
-msgstr ""
+msgstr "Se seu primeiro palpite é 678, então você adivinhou dois dos dígitos,"
 
 # mes "6 and 8, correctly. However,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "6 and 8, correctly. However,"
-msgstr ""
+msgstr "6 e 8, corretamente. No entanto,"
 
 # mes "only 8 is in the correct place.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "only 8 is in the correct place."
-msgstr ""
+msgstr "apenas 8 está no lugar correto."
 
 # mes "You know, it'd be a good idea";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "You know, it'd be a good idea"
-msgstr ""
+msgstr "Sabe, seria uma boa idéia"
 
 # mes "if you try the Practice Mode";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "if you try the Practice Mode"
-msgstr ""
+msgstr "se você tentar o Modo de Prática"
 
 # mes "first. Then, when you're more";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "first. Then, when you're more"
-msgstr ""
+msgstr "primeiro. Depois, quando você estiver mais"
 
 # mes "comfortable, play the actual";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "comfortable, play the actual"
-msgstr ""
+msgstr "confortável, toque o real"
 
 # mes "Number Match game. Don't forget that speed counts for your score!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Number Match game. Don't forget that speed counts for your score!"
 msgstr ""
+"Jogo de partida de números. Não esqueça que a velocidade conta para sua "
+"pontuação!"
 
 # mes "Ah, if you happen to";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Ah, if you happen to"
-msgstr ""
+msgstr "Ah, se por acaso você"
 
 # mes "make a new record in the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "make a new record in the"
-msgstr ""
+msgstr "fazer um novo recorde no"
 
 # mes "Number Match game, you'll";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Number Match game, you'll"
-msgstr ""
+msgstr "Jogo de partida de números, você vai"
 
 # mes "have your name recorded,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "have your name recorded,"
-msgstr ""
+msgstr "ter seu nome registrado,"
 
 # mes "so don't miss this chance for";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "so don't miss this chance for"
-msgstr ""
+msgstr "então não perca esta oportunidade para"
 
 # mes "fame and maybe even fortune~";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "fame and maybe even fortune~"
-msgstr ""
+msgstr "fama e talvez até fortuna~"
 
 # mes "Great, let's do a practice";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Great, let's do a practice"
-msgstr ""
+msgstr "Ótimo, vamos fazer uma prática"
 
 # mes "Number Match game. Please";
 #: npc/quests/quests_geffen.txt
 msgctxt "Nia#yagu"
 msgid "Number Match game. Please"
-msgstr ""
+msgstr "Jogo de partida de números. Por favor"
 
 # mes "try to guess my number, okay?";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "try to guess my number, okay?"
-msgstr ""
+msgstr "tente adivinhar meu número, está bem?"
 
 # mes "If you want to cancel, then please enter a number greater than 1,000.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "If you want to cancel, then please enter a number greater than 1,000."
-msgstr ""
+msgstr "Se você quiser cancelar, insira um número maior que 1.000."
 
 # mes "Great, let's play Number Match!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Great, let's play Number Match!"
-msgstr ""
+msgstr "Ótimo, vamos jogar a partida de números!"
 
 # mes "You will have 5 chances to guess the number that I'm thinking of.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "You will have 5 chances to guess the number that I'm thinking of."
-msgstr ""
+msgstr "Você terá 5 chances de adivinhar o número que eu estou pensando."
 
 # mes "^ff0000" + .@name_record$ + "^000000 is the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "^ff0000"
-msgstr ""
+msgstr "^FF0000"
 
 # mes "^ff0000" + .@name_record$ + "^000000 is the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "^000000 is the"
-msgstr ""
+msgstr "Não....^000000"
 
 # mes "record holder for the Number";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "record holder for the Number"
-msgstr ""
+msgstr "recordista para o número"
 
 # mes "Match game with a time of";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Match game with a time of"
-msgstr ""
+msgstr "Jogo de partida com um tempo de"
 
 # mes "^ff0000" + .@score_min + " minutes, " + .@score_sec + " seconds^000000.";
 #: npc/quests/quests_geffen.txt
 msgctxt "Nia#yagu"
 msgid " minutes, "
-msgstr ""
+msgstr " minutos, "
 
 # mes "^ff0000" + .@score_min + " minutes, " + .@score_sec + " seconds^000000.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid " seconds^000000."
-msgstr ""
+msgstr " segundos^000000."
 
 # mes "Take care of yourself,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Take care of yourself,"
-msgstr ""
+msgstr "Cuide de si mesmo,"
 
 # mes "adventurer. If you ever";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "adventurer. If you ever"
-msgstr ""
+msgstr "aventureiro. Se você alguma vez"
 
 # mes "feel like playing a Number";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "feel like playing a Number"
-msgstr ""
+msgstr "apetece tocar um número"
 
 # mes "Match game, come and talk";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Match game, come and talk"
-msgstr ""
+msgstr "Jogo de partida, venha e fale"
 
 # mes "to me, alright? See you~";
 #: npc/quests/quests_geffen.txt
 msgctxt "Nia#yagu"
 msgid "to me, alright? See you~"
-msgstr ""
+msgstr "para mim, está bem? Até a próxima~"
 
 # mes "You've canceled the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "You've canceled the"
-msgstr ""
+msgstr "Você cancelou o"
 
 # mes "Number Match game.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Number Match game."
-msgstr ""
+msgstr "Jogo de partida de números."
 
 # mes "You entered one of the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "You entered one of the"
-msgstr ""
+msgstr "Você entrou em um dos"
 
 # mes "digits as 0, or input the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "digits as 0, or input the"
-msgstr ""
+msgstr "dígitos como 0, ou digite o"
 
 # mes "same numerical value in";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "same numerical value in"
-msgstr ""
+msgstr "mesmo valor numérico em"
 
 # mes "the digits more than once.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "the digits more than once."
-msgstr ""
+msgstr "os dígitos mais de uma vez."
 
 # mes "Please enter another guess.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Please enter another guess."
-msgstr ""
+msgstr "Por favor, dê outro palpite."
 
 # mes "your guess is ^0000ff"+.@input+"^000000.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "your guess is ^0000ff"
-msgstr ""
+msgstr "seu palpite é ^0000ff"
 
 # mes "your guess is ^0000ff"+.@input+"^000000.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "^000000."
-msgstr ""
+msgstr "^000000."
 
 # mes "Give me a moment to";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Give me a moment to"
-msgstr ""
+msgstr "Dê-me só um momento e--"
 
 # mes "come up with your results.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "come up with your results."
-msgstr ""
+msgstr "apresentar seus resultados."
 
 # mes "Yes, the number that";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Yes, the number that"
-msgstr ""
+msgstr "Sim, o número que"
 
 # mes "I guessed was ^ff0000"+.@yagu+"^000000!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "I guessed was ^ff0000"
-msgstr ""
+msgstr "Eu adivinhei que era ^ff0000"
 
 # mes "I guessed was ^ff0000"+.@yagu+"^000000!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "^000000!"
-msgstr ""
+msgstr "^000000!"
 
 # mes "Congratulations, you";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Congratulations, you"
-msgstr ""
+msgstr "Parabéns, você"
 
 # mes "just won this practice";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "just won this practice"
-msgstr ""
+msgstr "acabou de ganhar esta prática"
 
 # mes "game! Now you should be";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "game! Now you should be"
-msgstr ""
+msgstr "jogo! Agora você deve ser"
 
 # mes "ready for the real thing~";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "ready for the real thing~"
-msgstr ""
+msgstr "pronto para a coisa real~"
 
 # mes "Great! You guessed";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Great! You guessed"
-msgstr ""
+msgstr "Ótimo! Você adivinhou"
 
 # mes "my number, which was";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "my number, which was"
-msgstr ""
+msgstr "meu número, que era"
 
 # mes "^ff0000" + .@yagu + "^000000. You finished in";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "^000000. You finished in"
-msgstr ""
+msgstr "^000000. Você terminou em"
 
 # mes "^ff0000" + .@total_min + " minutes, " + .@total_sec + " seconds^000000,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid " seconds^000000,"
-msgstr ""
+msgstr " segundos^000000,"
 
 # mes "breaking the previous record";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "breaking the previous record"
-msgstr ""
+msgstr "quebrando o recorde anterior"
 
 # mes "of ^ff0000" + .@score_min + " minutes, " + .@score_sec + " seconds^000000.";
 #: npc/quests/quests_geffen.txt
 msgctxt "Nia#yagu"
 msgid "of ^ff0000"
-msgstr ""
+msgstr "de ^ff0000"
 
 # mes "^ff0000" + .@name_record$ + "^000000";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "^000000"
-msgstr ""
+msgstr "^000000"
 
 # mes "set that old record,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "set that old record,"
-msgstr ""
+msgstr "estabelecer esse antigo recorde,"
 
 # mes "but now you are the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "but now you are the"
-msgstr ""
+msgstr "mas agora você é o"
 
 # mes "new person to beat in the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "new person to beat in the"
-msgstr ""
+msgstr "nova pessoa para bater no"
 
 # mes "Match Game. Congratulations";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Match Game. Congratulations"
-msgstr ""
+msgstr "Jogo de partida. Parabéns"
 
 # mes "for setting a new record!";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "for setting a new record!"
-msgstr ""
+msgstr "por estabelecer um novo recorde!"
 
 # mes "Nice work, you guessed";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Nice work, you guessed"
-msgstr ""
+msgstr "Bom trabalho, você adivinhou"
 
 # mes "my number! The answer, of";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "my number! The answer, of"
-msgstr ""
+msgstr "meu número! A resposta, de"
 
 # mes "course, was ^ff0000" + .@yagu + "^000000. You managed";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "course, was ^ff0000"
-msgstr ""
+msgstr "curso, foi ^ff0000"
 
 # mes "course, was ^ff0000" + .@yagu + "^000000. You managed";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "^000000. You managed"
-msgstr ""
+msgstr "^000000. Você conseguiu"
 
 # mes "to guess this number correctly";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "to guess this number correctly"
-msgstr ""
+msgstr "para adivinhar este número corretamente"
 
 # mes "in ^ff0000" + .@total_min + " minutes, " + .@total_sec + " seconds^000000.";
 #: npc/quests/quests_geffen.txt
 msgctxt "Nia#yagu"
 msgid "in ^ff0000"
-msgstr ""
+msgstr "em ^ff0000"
 
 # mes "^ff0000" + .@name_record$ + "^000000 is";
 #: npc/quests/quests_geffen.txt
 msgctxt "Nia#yagu"
 msgid "^000000 is"
-msgstr ""
+msgstr "^000000 é"
 
 # mes "the current Number Match";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "the current Number Match"
-msgstr ""
+msgstr "a correspondência numérica atual"
 
 # mes "record holder with a time";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "record holder with a time"
-msgstr ""
+msgstr "recordista com um tempo"
 
 # mes "Good luck, and hopefully you";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Good luck, and hopefully you"
-msgstr ""
+msgstr "Boa sorte, e espero que você"
 
 # mes "can break this record someday~";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "can break this record someday~"
-msgstr ""
+msgstr "pode quebrar este recorde algum dia~"
 
 # mes "Your guess has ^ff0000" + .@ball + "^000000 of the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Your guess has ^ff0000"
-msgstr ""
+msgstr "Seu palpite tem ^ff0000"
 
 # mes "Your guess has ^ff0000" + .@ball + "^000000 of the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "^000000 of the"
-msgstr ""
+msgstr "Não....^000000"
 
 # mes "correct numbers. ^ff0000" + .@strike + "^000000 of the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "correct numbers. ^ff0000"
-msgstr ""
+msgstr "números corretos. ^ff0000"
 
 # mes "digits in your guess have";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "digits in your guess have"
-msgstr ""
+msgstr "dígitos em seu palpite têm"
 
 # mes "the correct number in the";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "the correct number in the"
-msgstr ""
+msgstr "o número correto no"
 
 # mes "correct digit placement.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "correct digit placement."
-msgstr ""
+msgstr "colocação correta dos dígitos."
 
 # mes "Alright, try it again~";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Alright, try it again~"
-msgstr ""
+msgstr "Muito bem, tente novamente~"
 
 # mes "Your last guess had ^ff0000" + .@ball + "^000000";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "Your last guess had ^ff0000"
-msgstr ""
+msgstr "Seu último palpite tinha ^ff0000"
 
 # mes "of the correct numbers,";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "of the correct numbers,"
-msgstr ""
+msgstr "dos números corretos,"
 
 # mes "and ^ff0000" + .@strike + "^000000 digits in your guess";
 #: npc/quests/quests_geffen.txt
 msgctxt "Nia#yagu"
 msgid "and ^ff0000"
-msgstr ""
+msgstr "e ^ff0000"
 
 # mes "and ^ff0000" + .@strike + "^000000 digits in your guess";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "^000000 digits in your guess"
-msgstr ""
+msgstr "^000000 dígitos em seu palpite"
 
 # mes "had the correct number in";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "had the correct number in"
-msgstr ""
+msgstr "tinha o número correto em"
 
 # mes "the correct digit placement.";
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "the correct digit placement."
-msgstr ""
+msgstr "a colocação correta dos dígitos."
 
 # case 1: mes "You have four guesses left."; break;
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "You have four guesses left."
-msgstr ""
+msgstr "Você ainda tem quatro palpites."
 
 # case 2: mes "You have three guesses left."; break;
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "You have three guesses left."
-msgstr ""
+msgstr "Você ainda tem três palpites."
 
 # case 3: mes "You have two guesses left."; break;
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "You have two guesses left."
-msgstr ""
+msgstr "Você ainda tem dois palpites."
 
 # case 4: mes "You only have one guess left..."; break;
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "You only have one guess left..."
-msgstr ""
+msgstr "Você só tem um palpite..."
 
 # case 5: mes "The answer was ^ff0000" + .@yagu + "^000000."; close;
 #: npc/quests/quests_geffen.txt
+#, fuzzy
 msgctxt "Nia#yagu"
 msgid "The answer was ^ff0000"
-msgstr ""
+msgstr "A resposta foi ^ff0000"

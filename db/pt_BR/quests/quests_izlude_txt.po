@@ -20,7 +20,7 @@ msgstr ""
 "Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
 "Report-Msgid-Bugs-To: dev@herc.ws\n"
 "POT-Creation-Date: 2021-07-01 00:55:35+0000\n"
-"PO-Revision-Date: 2021-07-30 21:21-0300\n"
+"PO-Revision-Date: 2021-07-31 17:11-0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -32,212 +32,259 @@ msgstr ""
 
 # mes "[Edgar]";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "[Edgar]"
-msgstr ""
+msgstr "[Edgar]"
 
 # mes "So are you heading to Alberta again? Let me give you the same discount and only charge 250 Zeny, just like the last time.";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid ""
 "So are you heading to Alberta again? Let me give you the same discount and "
 "only charge 250 Zeny, just like the last time."
 msgstr ""
+"Então, você está indo para Alberta novamente? Deixe-me dar-lhe o mesmo "
+"desconto e cobrar apenas 250 Zeny, exatamente como da última vez."
 
 # mes "How's that sound?";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "How's that sound?"
-msgstr ""
+msgstr "Como é que isso soa?"
 
 # if (select("Alrighty~!", "Why are you being so nice to me?!") == 1) {
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Alrighty~!"
-msgstr ""
+msgstr "Muito bem~!"
 
 # if (select("Alrighty~!", "Why are you being so nice to me?!") == 1) {
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Why are you being so nice to me?!"
-msgstr ""
+msgstr "Por que você está sendo tão gentil comigo?!"
 
 # mes "Um...";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Um..."
-msgstr ""
+msgstr "Um..."
 
 # mes "This isn't";
 #: npc/quests/quests_izlude.txt
 msgctxt "::Edgar_izlude"
 msgid "This isn't"
-msgstr ""
+msgstr "Isso não é"
 
 # mes "enough money.";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "enough money."
-msgstr ""
+msgstr "dinheiro suficiente."
 
 # mes "Why don't you go";
 #: npc/quests/quests_izlude.txt
 msgctxt "::Edgar_izlude"
 msgid "Why don't you go"
-msgstr ""
+msgstr "Por que você não vai"
 
 # mes "get some more cash?";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "get some more cash?"
-msgstr ""
+msgstr "conseguir mais algum dinheiro?"
 
 # mes "It's just the way I am. That, and your devilish smile reminds me of my beloved blond haired son who left home years ago to become a Sailor on his own ship. Bless his soul, wherever he is.";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid ""
 "It's just the way I am. That, and your devilish smile reminds me of my "
 "beloved blond haired son who left home years ago to become a Sailor on his "
 "own ship. Bless his soul, wherever he is."
 msgstr ""
+"É assim que eu sou. Isso, e seu sorriso diabólico me lembra meu amado filho "
+"louro de cabelos louros que saiu de casa há anos para se tornar um "
+"marinheiro em seu próprio navio. Abençoe sua alma, onde quer que ele esteja."
 
 # mes "My town, Izlude, is connected to Alberta by the harbor in the West. There is so much traffic between us, I almost become an Albertian. Hehehe~";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid ""
 "My town, Izlude, is connected to Alberta by the harbor in the West. There is "
 "so much traffic between us, I almost become an Albertian.  Hehehe~"
 msgstr ""
+"Minha cidade, Izlude, está conectada a Alberta pelo porto do Ocidente. Há "
+"tanto tráfego entre nós, que quase me tornei um alberciano.  Hehehe~"
 
 # mes "There's this guy I know pretty well, Phelix, who lives in Alberta. That guy is really stingy... He charges for everything!";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid ""
 "There's this guy I know pretty well, Phelix, who lives in Alberta. That guy "
 "is really stingy... He charges for everything!"
 msgstr ""
+"Há um cara que eu conheço muito bem, Phelix, que mora em Alberta. Esse cara "
+"é realmente mesquinho... Ele cobra por tudo!"
 
 # mes "But he's really a nice guy and likes helping other people. He has a good heart and will give you his support if you meet his price.";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid ""
 "But he's really a nice guy and likes helping other people. He has a good "
 "heart and will give you his support if you meet his price."
 msgstr ""
+"Mas ele é realmente um cara legal e gosta de ajudar outras pessoas. Ele tem "
+"um bom coração e lhe dará seu apoio se você cumprir seu preço."
 
 # mes "Lately, people in Alberta say that he is really trying to help folks and that his demand for Jellopies is just a coverup. Well, you should take a look at what he has to offer.";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid ""
 "Lately, people in Alberta say that he is really trying to help folks and "
 "that his demand for Jellopies is just a coverup.  Well, you should take a "
 "look at what he has to offer."
 msgstr ""
+"Ultimamente, as pessoas em Alberta dizem que ele está realmente tentando "
+"ajudar as pessoas e que sua demanda por Jellopies é apenas um encobrimento.  "
+"Bem, você deveria dar uma olhada no que ele tem a oferecer."
 
 # if (select("Can you tell me how to get to Alberta?", "End Conversation") == 1) {
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Can you tell me how to get to Alberta?"
-msgstr ""
+msgstr "Você pode me dizer como chegar a Alberta?"
 
 # if (select("Can you tell me how to get to Alberta?", "End Conversation") == 1) {
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "End Conversation"
-msgstr ""
+msgstr "Encerrar Conversa"
 
 # mes "Huh? Well, you can use your feet and just walk. But if you have money, I'd like to suggest that you take a ship.";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid ""
 "Huh? Well, you can use your feet and just walk.  But if you have money, I'd "
 "like to suggest that you take a ship."
 msgstr ""
+"O que é isso? Bem, você pode usar seus pés e simplesmente andar.  Mas se "
+"você tiver dinheiro, eu gostaria de sugerir que você pegue um navio."
 
 # if (select("Okay, gotcha.", "But I'm sick of walking and I'm broke!") == 1) {
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Okay, gotcha."
-msgstr ""
+msgstr "Certo, entendi."
 
 # if (select("Okay, gotcha.", "But I'm sick of walking and I'm broke!") == 1) {
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "But I'm sick of walking and I'm broke!"
-msgstr ""
+msgstr "Mas estou farto de andar e estou falido!"
 
 # mes "Alrighty, take care~";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Alrighty, take care~"
-msgstr ""
+msgstr "Muito bem, tome cuidado~"
 
 # mes "Okay...";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Okay..."
-msgstr ""
+msgstr "Certo..."
 
 # mes "You don't want to walk AND you've got no cash, but you still want to go there? Oh geez...";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid ""
 "You don't want to walk AND you've got no cash, but you still want to go "
 "there? Oh geez..."
 msgstr ""
+"Você não quer andar E não tem dinheiro, mas ainda quer ir lá? Oh meu Deus..."
 
 # mes "Fine fine. Me, being the captain of a ship, can afford to bring you there at a lower price. How does 250 Zeny sound?";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid ""
 "Fine fine. Me, being the captain of a ship, can afford to bring you there at "
 "a lower price. How does 250 Zeny sound?"
 msgstr ""
+"Multa fina. Eu, sendo o capitão de um navio, posso me dar ao luxo de levá-lo "
+"até lá a um preço mais baixo. Como soa 250 Zeny?"
 
 # if (select("Alrighty~!", "Bah, what a rip off!!") == 1) {
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Bah, what a rip off!!"
-msgstr ""
+msgstr "Bah, que roubo!!"
 
 # mes "Go and get";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Go and get"
-msgstr ""
+msgstr "Vá e obtenha"
 
 # mes "some more.";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "some more."
-msgstr ""
+msgstr "mais alguns."
 
 # mes "Boy oh boy,";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Boy oh boy,"
-msgstr ""
+msgstr "Caramba, caramba,"
 
 # mes "if you think";
 #: npc/quests/quests_izlude.txt
 msgctxt "::Edgar_izlude"
 msgid "if you think"
-msgstr ""
+msgstr "se você acha"
 
 # mes "that's a rip off...";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "that's a rip off..."
-msgstr ""
+msgstr "isso é um roubo..."
 
 # mes "Yeah, alright.";
 #: npc/quests/quests_izlude.txt
+#, fuzzy
 msgctxt "::Edgar_izlude"
 msgid "Yeah, alright."
-msgstr ""
+msgstr "Sim, está bem."
 
 # mes "See you later~";
 #: npc/quests/quests_izlude.txt
 msgctxt "::Edgar_izlude"
 msgid "See you later~"
-msgstr ""
+msgstr "A gente se vê~"

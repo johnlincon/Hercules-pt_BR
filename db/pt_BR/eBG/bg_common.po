@@ -1,0 +1,1835 @@
+# This file is part of ExtendedBG.
+# http://herc.ws/board/topic/8814-releaseextendedbg
+msgid ""
+msgstr ""
+"Project-Id-Version: 723b82a77e6d1fe69b0b7a07eebe345f8af8003c\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2018-09-30 23:28:28+0530\n"
+"PO-Revision-Date: 2021-08-01 16:30-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# return _("Blue Team");
+#: npc/eBG/bg_functions.txt
+msgctxt "F_eBGTeamName"
+msgid "Blue Team"
+msgstr "Time azul"
+
+# return _("Red Team");
+#: npc/eBG/bg_functions.txt
+msgctxt "F_eBGTeamName"
+msgid "Red Team"
+msgstr "Time Vermelho"
+
+# return _("Green Team");
+#: npc/eBG/bg_functions.txt
+msgctxt "F_eBGTeamName"
+msgid "Green Team"
+msgstr "Time Verde"
+
+# return _("Null - Error");
+#: npc/eBG/bg_functions.txt
+#, fuzzy
+msgctxt "F_eBGTeamName"
+msgid "Null - Error"
+msgstr "Nulo - Erro"
+
+# return _("Guillaume");
+#: npc/eBG/bg_functions.txt
+msgctxt "F_eBGNPCName"
+msgid "Guillaume"
+msgstr "Guillaume"
+
+# return _("Croix");
+#: npc/eBG/bg_functions.txt
+msgctxt "F_eBGNPCName"
+msgid "Croix"
+msgstr "Croix"
+
+# return _("Traitor");
+#: npc/eBG/bg_functions.txt
+msgctxt "F_eBGNPCName"
+msgid "Traitor"
+msgstr "Traidor"
+
+# return _("Neutral");
+#: npc/eBG/bg_functions.txt
+msgctxt "F_eBGNPCName"
+msgid "Neutral"
+msgstr "Neutro"
+
+# return _("Waiting for Players");
+#: npc/eBG/bg_functions.txt
+msgctxt "F_eBG_Status"
+msgid "Waiting for Players"
+msgstr "Esperando por Jogadores"
+
+# return _("In Progress");
+#: npc/eBG/bg_functions.txt
+#, fuzzy
+msgctxt "F_eBG_Status"
+msgid "In Progress"
+msgstr "Em Progresso"
+
+# return _("About to End");
+#: npc/eBG/bg_functions.txt
+msgctxt "F_eBG_Status"
+msgid "About to End"
+msgstr "Prestes a Terminar"
+
+# return _("-----");
+#: npc/eBG/bg_functions.txt
+msgctxt "F_eBG_Status"
+msgid "-----"
+msgstr "-----"
+
+# dispbottom(sprintf(_$("Time Left: %d minutes %d seconds."), .@time_minutes, (60-.@timer)));
+#: npc/eBG/bg_functions.txt
+#, c-format
+msgctxt "F_eBG_Time_Left"
+msgid "Time Left: %d minutes %d seconds."
+msgstr "Tempo Restante: %d minutos %d segundos."
+
+# dispbottom(_("Current BG does not have any specific time to end."));
+#: npc/eBG/bg_functions.txt
+#, fuzzy
+msgctxt "F_eBG_Time_Left"
+msgid "Current BG does not have any specific time to end."
+msgstr "O BG atual não tem um horário específico para terminar."
+
+# dispbottom(_("This BG is not yet supported. Contact GM."));
+#: npc/eBG/bg_functions.txt
+#, fuzzy
+msgctxt "F_eBG_Time_Left"
+msgid "This BG is not yet supported. Contact GM."
+msgstr "Este BG ainda não é compatível. Entre em contato com a GM."
+
+# waitingroom(sprintf(_$("Battle Station(%s) [%d/%d] Players"), getelementofarray(getvariableofnpc(.bg_name$, "BG_Settings"), .bg_type[.@array_index]), .@c, .@max_player), .@max_player);
+#: npc/eBG/bg_common.txt
+#, fuzzy, c-format
+msgctxt "Register#eBG_Fake00"
+msgid "Battle Station(%s) [%d/%d] Players"
+msgstr "Estação de batalha (%s) [%d / %d] Jogadores"
+
+# mes("[Battleground Helper]");
+#: npc/eBG/bg_common.txt
+msgctxt "Join Battleground"
+msgid "[Battleground Helper]"
+msgstr "[Ajudante do BG]"
+
+# mes("Would you like to join the Battleground?");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "Join Battleground"
+msgid "Would you like to join the Battleground?"
+msgstr "Você gostaria de entrar no campo de batalha?"
+
+# mesf("Current BG: %d", getelementofarray(getvariableofnpc(.bg_name$, "BG_Settings"), .@bg_type));
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "Join Battleground"
+msgid "Current BG: %d"
+msgstr "BG Atual: %d"
+
+# mesf("Status: %s", callfunc("F_eBG_Status", $@eBG_start[.@bg_type]));
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "Join Battleground"
+msgid "Status: %s"
+msgstr "Status: %s"
+
+# mesf("Please wait for %d Seconds, to join the bg again", bg_join_time - gettimetick(2));
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "Join Battleground"
+msgid "Please wait for %d Seconds, to join the bg again"
+msgstr "Aguarde %d segundos para se juntar ao BG novamente"
+
+# mes("NOTE: ^FF0000 Registration to this BG only through @joinbg ^000000");
+#: npc/eBG/bg_common.txt
+msgctxt "Join Battleground"
+msgid "NOTE: ^FF0000 Registration to this BG only through @joinbg ^000000"
+msgstr "NOTA: ^FF0000 Registro para este BG apenas por meio de @joinbg ^000000"
+
+# mes("NOTE: ^FF0000 Not Accepting New Entries ^000000");
+#: npc/eBG/bg_common.txt
+msgctxt "Join Battleground"
+msgid "NOTE: ^FF0000 Not Accepting New Entries ^000000"
+msgstr "NOTA: ^FF0000 No momento, não estamos aceitando entradas ^000000"
+
+# switch(select("Join the BG!!", "Wait, BG, ehh... No")) {
+#: npc/eBG/bg_common.txt
+msgctxt "Join Battleground"
+msgid "Join the BG!!"
+msgstr "Entre no BG!!"
+
+# switch(select("Join the BG!!", "Wait, BG, ehh... No")) {
+#: npc/eBG/bg_common.txt
+msgctxt "Join Battleground"
+msgid "Wait, BG, ehh... No"
+msgstr "Espere, BG, ehh... Não"
+
+# mes("Choose Team");
+#: npc/eBG/bg_common.txt
+msgctxt "Join Battleground"
+msgid "Choose Team"
+msgstr "Escolher Time"
+
+# mes("Press Close to Join the Battlegrounds");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "Join Battleground"
+msgid "Press Close to Join the Battlegrounds"
+msgstr "Pressione Fechar para entrar no campo de batalha"
+
+# setarray .bg_name$[BGT_CTF], _("Flavius - CTF"), _("Tierra - Bossnia"), _("Tierra - Triple Infierno"), _("Tierra - Eye of Storm"), _("Flavius - Team Deathmatch"), _("Flavius - Stone Control"), _("Conquest"), _("Rush"), _("Tierra - Domination"), _("Fumbi - Touchdown");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "Flavius - CTF"
+msgstr "Flavius - CTF"
+
+# setarray .bg_name$[BGT_CTF], _("Flavius - CTF"), _("Tierra - Bossnia"), _("Tierra - Triple Infierno"), _("Tierra - Eye of Storm"), _("Flavius - Team Deathmatch"), _("Flavius - Stone Control"), _("Conquest"), _("Rush"), _("Tierra - Domination"), _("Fumbi - Touchdown");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "Tierra - Bossnia"
+msgstr "Tierra - Bossnia"
+
+# setarray .bg_name$[BGT_CTF], _("Flavius - CTF"), _("Tierra - Bossnia"), _("Tierra - Triple Infierno"), _("Tierra - Eye of Storm"), _("Flavius - Team Deathmatch"), _("Flavius - Stone Control"), _("Conquest"), _("Rush"), _("Tierra - Domination"), _("Fumbi - Touchdown");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "Tierra - Triple Infierno"
+msgstr "Tierra - Triplo Infierno"
+
+# setarray .bg_name$[BGT_CTF], _("Flavius - CTF"), _("Tierra - Bossnia"), _("Tierra - Triple Infierno"), _("Tierra - Eye of Storm"), _("Flavius - Team Deathmatch"), _("Flavius - Stone Control"), _("Conquest"), _("Rush"), _("Tierra - Domination"), _("Fumbi - Touchdown");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "Tierra - Eye of Storm"
+msgstr "Tierra - Eye of Storm"
+
+# setarray .bg_name$[BGT_CTF], _("Flavius - CTF"), _("Tierra - Bossnia"), _("Tierra - Triple Infierno"), _("Tierra - Eye of Storm"), _("Flavius - Team Deathmatch"), _("Flavius - Stone Control"), _("Conquest"), _("Rush"), _("Tierra - Domination"), _("Fumbi - Touchdown");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "Flavius - Team Deathmatch"
+msgstr "Flavius - Team Deathmatch"
+
+# setarray .bg_name$[BGT_CTF], _("Flavius - CTF"), _("Tierra - Bossnia"), _("Tierra - Triple Infierno"), _("Tierra - Eye of Storm"), _("Flavius - Team Deathmatch"), _("Flavius - Stone Control"), _("Conquest"), _("Rush"), _("Tierra - Domination"), _("Fumbi - Touchdown");
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "Flavius - Stone Control"
+msgstr "Flavius - Stone Control"
+
+# setarray .bg_name$[BGT_CTF], _("Flavius - CTF"), _("Tierra - Bossnia"), _("Tierra - Triple Infierno"), _("Tierra - Eye of Storm"), _("Flavius - Team Deathmatch"), _("Flavius - Stone Control"), _("Conquest"), _("Rush"), _("Tierra - Domination"), _("Fumbi - Touchdown");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "Conquest"
+msgstr "Conquista"
+
+# setarray .bg_name$[BGT_CTF], _("Flavius - CTF"), _("Tierra - Bossnia"), _("Tierra - Triple Infierno"), _("Tierra - Eye of Storm"), _("Flavius - Team Deathmatch"), _("Flavius - Stone Control"), _("Conquest"), _("Rush"), _("Tierra - Domination"), _("Fumbi - Touchdown");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "Rush"
+msgstr "Rush"
+
+# setarray .bg_name$[BGT_CTF], _("Flavius - CTF"), _("Tierra - Bossnia"), _("Tierra - Triple Infierno"), _("Tierra - Eye of Storm"), _("Flavius - Team Deathmatch"), _("Flavius - Stone Control"), _("Conquest"), _("Rush"), _("Tierra - Domination"), _("Fumbi - Touchdown");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "Tierra - Domination"
+msgstr "Tierra - Dominação"
+
+# setarray .bg_name$[BGT_CTF], _("Flavius - CTF"), _("Tierra - Bossnia"), _("Tierra - Triple Infierno"), _("Tierra - Eye of Storm"), _("Flavius - Team Deathmatch"), _("Flavius - Stone Control"), _("Conquest"), _("Rush"), _("Tierra - Domination"), _("Fumbi - Touchdown");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "Fumbi - Touchdown"
+msgstr "Fumbi - Touchdown"
+
+# dispbottom(_("You are not playing eBattlegrounds."));
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "You are not playing eBattlegrounds."
+msgstr "Você não está jogando rBerry Battlegrounds."
+
+# bg_announce(sprintf(_$("ExtendedBG -- %s -- %d more players to start."), .bg_name$[.bg_change], (.@min_p - .@player_joined)), .@type, .bg_colors$[.bg_change]);
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "ExtendedBG -- %s -- %d more players to start."
+msgstr "rBerry BG -- %s -- %d ou mais jogadores para começar."
+
+# .@msg$ += _(" vs ");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid " vs "
+msgstr "vs"
+
+# .@msg$ += sprintf(_$("%d/%d"), bg_get_data(getd("$@"+ .bg_mapname$[.bg_change] +"_BG_id"+ .@i), 0), .bg_maxplayer[.bg_change]);
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "%d/%d"
+msgstr "%d/%d"
+
+# bg_announce(sprintf(_$("ExtendedBG -- %s -- %s Playing"), .bg_name$[.bg_change], .@msg$), .@type, .bg_colors$[.bg_change]);
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "ExtendedBG -- %s -- %s Playing"
+msgstr "rBerry BG -- %s -- %s Jogando"
+
+# dispbottom(sprintf(_$("Party Join is disabled for %s BG."), .bg_name$[.bg_change]));
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "Party Join is disabled for %s BG."
+msgstr "Entrar em um grupo está desativado para %s BG."
+
+# dispbottom(sprintf(_$("Guild Join is disabled for %s BG."), .bg_name$[.bg_change]));
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "Guild Join is disabled for %s BG."
+msgstr "Entrar em um clã está desativado para %s BG."
+
+# dispbottom(sprintf(_$("Individual Join is disabled for %s BG."), .bg_name$[.bg_change]));
+#: npc/eBG/bg_common.txt
+#, fuzzy, c-format
+msgctxt "BG_Settings"
+msgid "Individual Join is disabled for %s BG."
+msgstr "A associação individual está desativada para %s BG."
+
+# dispbottom(_("You are already queued."));
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "You are already queued."
+msgstr "Você já está na fila."
+
+# dispbottom(_("You are Already on BG"));
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "You are Already on BG"
+msgstr "Você já está no BG"
+
+# dispbottom(sprintf(_$("Please wait for %d Seconds, to join the bg again"), (bg_join_time - gettimetick(2))));
+#: npc/eBG/bg_common.txt
+#, fuzzy, c-format
+msgctxt "BG_Settings"
+msgid "Please wait for %d Seconds, to join the bg again"
+msgstr "Aguarde %d segundos para se juntar ao bg novamente"
+
+# dispbottom(_("Someone else from same IP is already On BG."));
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "Someone else from same IP is already On BG."
+msgstr "Alguém com mesmo IP já está no BG."
+
+# dispbottom(_("You can only join when in town."));
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "You can only join when in town."
+msgstr "Você só pode entrar quando estiver em uma cidade."
+
+# dispbottom(_("Please Wait till Current BG gets Over..."));
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "Please Wait till Current BG gets Over..."
+msgstr "Por favor, espere até que o BG atual termine..."
+
+# dispbottom(_("Failed to Join BG. Try again later."));
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "Failed to Join BG. Try again later."
+msgstr "Falha ao entrar no BG. Tente mais tarde."
+
+# mes("------------------------");
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "------------------------"
+msgstr "------------------------"
+
+# mesf("Current BG: %s", .bg_mapname$[.bg_change]);
+#: npc/eBG/bg_common.txt
+#, fuzzy, c-format
+msgctxt "BG_Settings"
+msgid "Current BG: %s"
+msgstr "BG atual: %s"
+
+# mes("Format: <ID>.) <MapName> : <Start Status>");
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "Format: <ID>.) <MapName> : <Start Status>"
+msgstr "Formato: <ID>.) <MapName> : <Start Status>"
+
+# mesf("%d.) %s : %d", .@i, .bg_mapname$[.@i], $@eBG_start[.@i]);
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "%d.) %s : %d"
+msgstr "%d.) %s : %d"
+
+# mes("Ranking Info: ");
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "Ranking Info: "
+msgstr "Classificação: "
+
+# mesf("Last Ranked Time: %d", $BGRanked_);
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "Last Ranked Time: %d"
+msgstr "Última Classificação: %d"
+
+# mesf("Current Status: %s", ($BGRanked == 1) ? "ON" : "OFF");
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "Current Status: %s"
+msgstr "Status Atual: %s"
+
+# mesf("Current Status: %s", ($BGRanked == 1) ? "ON" : "OFF");
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "ON"
+msgstr "ON"
+
+# mesf("Current Status: %s", ($BGRanked == 1) ? "ON" : "OFF");
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "OFF"
+msgstr "OFF"
+
+# mesf("Server Time(in hour): %d", gettime(3));
+#: npc/eBG/bg_common.txt
+#, c-format
+msgctxt "BG_Settings"
+msgid "Server Time(in hour): %d"
+msgstr "Hora do Servidor(em horas): %d"
+
+# switch(select("Close", "Execute OnMinute00", "Enable/Disable BGRanked", "RotateBG", "Set BGType")) {
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "Close"
+msgstr "Fechar"
+
+# switch(select("Close", "Execute OnMinute00", "Enable/Disable BGRanked", "RotateBG", "Set BGType")) {
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "Execute OnMinute00"
+msgstr "Execute OnMinute00"
+
+# switch(select("Close", "Execute OnMinute00", "Enable/Disable BGRanked", "RotateBG", "Set BGType")) {
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "Enable/Disable BGRanked"
+msgstr "Habilitar/Desabilitar BGRanked"
+
+# switch(select("Close", "Execute OnMinute00", "Enable/Disable BGRanked", "RotateBG", "Set BGType")) {
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "RotateBG"
+msgstr "RotateBG"
+
+# switch(select("Close", "Execute OnMinute00", "Enable/Disable BGRanked", "RotateBG", "Set BGType")) {
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "Set BGType"
+msgstr "Set BGType"
+
+# dispbottom(_("You are Not on Any Kind of BG"));
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "BG_Settings"
+msgid "You are Not on Any Kind of BG"
+msgstr "Você não está em nenhum tipo de BG"
+
+# dispbottom(_("BG Leaved"));
+#: npc/eBG/bg_common.txt
+msgctxt "BG_Settings"
+msgid "BG Leaved"
+msgstr "BG Leaved"
+
+# .@announce$ = _("-- Reinforcements entering the Battle of Conquest --");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "respawn_script#bg"
+msgid "-- Reinforcements entering the Battle of Conquest --"
+msgstr "- Reforços entrando na Batalha de Conquista -"
+
+# .@announce$ = _("-- Reinforcements entering the Battle of Rush --");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "respawn_script#bg"
+msgid "-- Reinforcements entering the Battle of Rush --"
+msgstr "- Reforços entrando na Batalha de Rush -"
+
+# mes("[Therapist in battle]");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "Therapist#eBG"
+msgid "[Therapist in battle]"
+msgstr "[Terapeuta em batalha]"
+
+# mes("Just close your eyes, and take a deep breathe.");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "Therapist#eBG"
+msgid "Just close your eyes, and take a deep breathe."
+msgstr "Apenas feche os olhos e respire fundo."
+
+# mes("You can be free from pain.");
+#: npc/eBG/bg_common.txt
+#, fuzzy
+msgctxt "Therapist#eBG"
+msgid "You can be free from pain."
+msgstr "Você pode se libertar da dor agora."
+
+# announce(sprintf(_$("%s Has Joined BG"), strcharinfo(0)), bc_all); //Customization Needed.
+#: npc/BGQueue.txt
+#, c-format
+msgctxt "F_warpTeam"
+msgid "%s Has Joined BG"
+msgstr "%s entrou no BG"
+
+# debugmes(_("Unable to make BG Data, GuildID Invalid. Ending Script..."));
+#: npc/BGQueue.txt
+msgctxt "F_splitTeams"
+msgid "Unable to make BG Data, GuildID Invalid. Ending Script..."
+msgstr "Unable to make BG Data, GuildID Invalid. Ending Script..."
+
+# debugmes(sprintf(_$("Teams: %d, GuildID: %d"), .@teams, getarraysize(.@guild)));
+#: npc/BGQueue.txt
+#, c-format
+msgctxt "F_splitTeams"
+msgid "Teams: %d, GuildID: %d"
+msgstr "Times: %d, GuildID: %d"
+
+# debugmes(_("Unable to make BG Data, LogoutEvent Invalid. Ending Script..."));
+#: npc/BGQueue.txt
+msgctxt "F_splitTeams"
+msgid "Unable to make BG Data, LogoutEvent Invalid. Ending Script..."
+msgstr "Unable to make BG Data, LogoutEvent Invalid. Ending Script..."
+
+# debugmes(sprintf(_$("Teams: %d, LogoutSize: %d"), .@teams, getarraysize(.@logout$)));
+#: npc/BGQueue.txt
+#, c-format
+msgctxt "F_splitTeams"
+msgid "Teams: %d, LogoutSize: %d"
+msgstr "Times: %d, LogoutSize: %d"
+
+# debugmes(sprintf(_$("F_splitTeams: Unable to make BG data: sent empty or nonexistent(%s:%s) map name. Ending script..."), @map$[0], @map$[1]));
+#: npc/BGQueue.txt
+#, c-format
+msgctxt "F_splitTeams"
+msgid ""
+"F_splitTeams: Unable to make BG data: sent empty or nonexistent(%s:%s) map "
+"name. Ending script..."
+msgstr ""
+"F_splitTeams: Incapaz de criar dados BG: enviado vazio ou nome de mapa "
+"inexistente(%s:%s). Terminando o script..."
+
+# debugmes(_("F_balanceTeams: Minimum Player cannot be more than maximum Player. Ending Script."));
+#: npc/BGQueue.txt
+msgctxt "F_balanceTeams"
+msgid ""
+"F_balanceTeams: Minimum Player cannot be more than maximum Player. Ending "
+"Script."
+msgstr ""
+"F_balanceTeams: O mínimo de Jogadores não pode ser maior que o máximo de "
+"Jogadores. Terminando o Script."
+
+# debugmes(_("F_balanceTeams: Unable to make BG Data, GuildID Invalid. Ending Script..."));
+#: npc/BGQueue.txt
+msgctxt "F_balanceTeams"
+msgid ""
+"F_balanceTeams: Unable to make BG Data, GuildID Invalid. Ending Script..."
+msgstr ""
+"F_balanceTeams: Incapaz de tornar os dados BG, GuildID Inválidos. Terminando "
+"Script..."
+
+# debugmes(sprintf(_$("F_balanceTeams: Unable to make BG data: sent empty or nonexistent(%s:%s) map name. Ending script..."), @map$[0], @map$[1]));
+#: npc/BGQueue.txt
+#, c-format
+msgctxt "F_balanceTeams"
+msgid ""
+"F_balanceTeams: Unable to make BG data: sent empty or nonexistent(%s:%s) map "
+"name. Ending script..."
+msgstr ""
+"F_balanceTeams: Incapaz de criar dados BG: enviado vazio ou nome do mapa "
+"inexistente (%s:%s). Terminando o script ..."
+
+# dispbottom(_("Failed to Join Battleground, Please try Again."));
+#: npc/BGQueue.txt
+msgctxt "F_balanceTeams"
+msgid "Failed to Join Battleground, Please try Again."
+msgstr "Falha ao entrar no BG, tente novamente."
+
+# debugmes(_("Unable to make BG Data, GuildID Invalid. Ending Script..."));
+#: npc/BGQueue.txt
+msgctxt "F_joinTeams"
+msgid "Unable to make BG Data, GuildID Invalid. Ending Script..."
+msgstr "Incapaz de tornar os dados BG, GuildID Inválidos. Terminando Script..."
+
+# debugmes(sprintf(_$("F_joinTeams: Unable to make BG data: sent empty or nonexistent(%s:%s) map name. Ending script..."), @map$[0], @map$[1]));
+#: npc/BGQueue.txt
+#, c-format
+msgctxt "F_joinTeams"
+msgid ""
+"F_joinTeams: Unable to make BG data: sent empty or nonexistent(%s:%s) map "
+"name. Ending script..."
+msgstr ""
+"F_joinTeams: Incapaz de criar dados BG: enviado vazio ou nome de mapa "
+"inexistente (%s:%s). Terminando o script ..."
+
+# .@team_$ = ((.@self==CROIX)? _("Croix") : _("Guillaume"));
+#: npc/eBG/bg_flavius_ctf.txt
+msgctxt "BG_Flag#eBG"
+msgid "Croix"
+msgstr "Croix"
+
+# .@team_$ = ((.@self==CROIX)? _("Croix") : _("Guillaume"));
+#: npc/eBG/bg_flavius_ctf.txt
+msgctxt "BG_Flag#eBG"
+msgid "Guillaume"
+msgstr "Guillaume"
+
+# mapannounce("ebg_ctf", sprintf(_$("%s Crystal Taken by [%s]"), .@team$, strcharinfo(0)), bc_map, callfunc("F_eBGTeamColor", .@oppose));
+#: npc/eBG/bg_flavius_ctf.txt
+#, c-format
+msgctxt "BG_Flag#eBG"
+msgid "%s Crystal Taken by [%s]"
+msgstr "%s Cristal Levado por [%s]"
+
+# mapannounce("ebg_ctf", sprintf(_$("%s Crystal Captured by [%s]!!"), .@oppose$, strcharinfo(0)), bc_map, .@color); // Announce Team2 Captured Team1 Flag
+#: npc/eBG/bg_flavius_ctf.txt
+#, c-format
+msgctxt "BG_Flag#eBG"
+msgid "%s Crystal Captured by [%s]!!"
+msgstr "%s Cristal Capturado por [%s]!!"
+
+# mapannounce("ebg_ctf", sprintf(_$("%s Crystal Returned by [%s]!!"), .@team$, strcharinfo(0)), bc_map, .@color); // Flag Returns
+#: npc/eBG/bg_flavius_ctf.txt
+#, c-format
+msgctxt "BG_Flag#eBG"
+msgid "%s Crystal Returned by [%s]!!"
+msgstr "%s Cristal Devolvido por [%s]!!"
+
+# callsub(OnTeamDie, .@team, CROIX, _("Croix"));
+#: npc/eBG/bg_flavius_ctf.txt
+msgctxt "CTF_Flavius"
+msgid "Croix"
+msgstr "Croix"
+
+# callsub(OnTeamDie, .@team, GUILLAUME, _("Guillaume"));
+#: npc/eBG/bg_flavius_ctf.txt
+msgctxt "CTF_Flavius"
+msgid "Guillaume"
+msgstr "Guillaume"
+
+# mapannounce("ebg_ctf", sprintf(_$("%s Flag Dropped by [%s]"), .@oppose$, strcharinfo(0)), bc_map, 0xFF0000);
+#: npc/eBG/bg_flavius_ctf.txt
+#, c-format
+msgctxt "CTF_Flavius"
+msgid "%s Flag Dropped by [%s]"
+msgstr "%s Flag Dropped by [%s]"
+
+# bg_announce(_("Battleground -- Flavius CTF has started!"), bc_map | bc_npc, "0xA0522D");
+#: npc/eBG/bg_flavius_ctf.txt
+msgctxt "CTF_Flavius"
+msgid "Battleground -- Flavius CTF has started!"
+msgstr "Campo de batalha -- Flavius CTF começou!"
+
+# mapannounce("ebg_ctf", _("The Flags have been set to their Bases!!"), bc_map | bc_blue);
+#: npc/eBG/bg_flavius_ctf.txt
+msgctxt "CTF_Flavius"
+msgid "The Flags have been set to their Bases!!"
+msgstr "As Bandeiras foram definidas em suas bases!!"
+
+# mapannounce("ebg_ctf", sprintf(_$("The Battle will end in %d Minutes!!"), .time_remaining), bc_map, 0xA0522D);
+#: npc/eBG/bg_flavius_ctf.txt
+#, c-format
+msgctxt "CTF_Flavius"
+msgid "The Battle will end in %d Minutes!!"
+msgstr "A Batalha vai terminar em %d Minutos!!"
+
+# mapannounce("ebg_ctf", sprintf(_$("The %s army has won the Battle of Flavius CTF!"), callfunc("F_eBGTeamName", .@win)), bc_map, callfunc("F_eBGTeamColor", .@win));
+#: npc/eBG/bg_flavius_ctf.txt
+#, c-format
+msgctxt "CTF_Flavius"
+msgid "The %s army has won the Battle of Flavius CTF!"
+msgstr "O time %s venceu a Batalha de Flavius CTF!"
+
+# mapannounce("ebg_ctf", _("The battle is over. This is a Tie...!"), bc_map, 0xA0522D);
+#: npc/eBG/bg_flavius_ctf.txt
+msgctxt "CTF_Flavius"
+msgid "The battle is over. This is a Tie...!"
+msgstr "A Batalha acabou. Houve um empate ...!"
+
+# mapannounce("ebg_td", sprintf(_$("The %s army has won the Battle of Flavius TD!"), callfunc("F_eBGTeamName", .@win)), bc_map, callfunc("F_eBGTeamColor", .@win));
+#: npc/eBG/bg_flavius_td.txt
+#, c-format
+msgctxt "TDM_Flavius"
+msgid "The %s army has won the Battle of Flavius TD!"
+msgstr "O time %s venceu a Batalha de Flavius TD!"
+
+# mapannounce("ebg_td", _("The battle is over. There are no Winners!"), bc_map, 0x808000);
+#: npc/eBG/bg_flavius_td.txt
+msgctxt "TDM_Flavius"
+msgid "The battle is over. There are no Winners!"
+msgstr "A Batalha acabou. Não há vencedores!"
+
+# mapannounce("ebg_td", sprintf(_$("The Battle will end in %d Minutes!!"), .time_remaining), bc_map, 0x808000);
+#: npc/eBG/bg_flavius_td.txt
+#, c-format
+msgctxt "TDM_Flavius"
+msgid "The Battle will end in %d Minutes!!"
+msgstr "A Batalha terminará em %d Minutos!!"
+
+# mapannounce("ebg_sc", sprintf(_$("Neutral Stone Dropped by [%s]"), strcharinfo(0)), 1, 0xFFFFFF);
+#: npc/eBG/bg_flavius_sc.txt
+#, c-format
+msgctxt "SC_Flavius"
+msgid "Neutral Stone Dropped by [%s]"
+msgstr "Neutral Stone Dropped by [%s]"
+
+# mapannounce("ebg_sc", sprintf(_$("The Battle will end in %d Minutes!!"), .time_remaining), bc_map, 0x9ACD32);
+#: npc/eBG/bg_flavius_sc.txt
+#, c-format
+msgctxt "SC_Flavius"
+msgid "The Battle will end in %d Minutes!!"
+msgstr "A Batalha terminará em %d Minutos!!"
+
+# mapannounce("ebg_sc", sprintf(_$("The %s army has won the Battle of Tierra SC!"), callfunc("F_eBGTeamName", .@win)), bc_map, callfunc("F_eBGTeamColor", .@win));
+#: npc/eBG/bg_flavius_sc.txt
+#, c-format
+msgctxt "SC_Flavius"
+msgid "The %s army has won the Battle of Tierra SC!"
+msgstr "O time %s venceu a Batalha de Tierra SC!"
+
+# mapannounce("ebg_sc", _("The battle is over. This is a Tie...!"), bc_map, 0x9ACD32);
+#: npc/eBG/bg_flavius_sc.txt
+msgctxt "SC_Flavius"
+msgid "The battle is over. This is a Tie...!"
+msgstr "A Batalha acabou. Houve um empate...!"
+
+# mapannounce("ebg_sc", sprintf(_$("[%s] Got the Neutral Stone."), strcharinfo(0)), bc_map, 0xFFFFFF);
+#: npc/eBG/bg_flavius_sc.txt
+#, c-format
+msgctxt "Neutral Stone#1"
+msgid "[%s] Got the Neutral Stone."
+msgstr "[%s] Got the Neutral Stone."
+
+# mapannounce("ebg_sc", sprintf(_$("%s Stone has been stole by [%s]"), callfunc("F_eBGTeamName", .@team), strcharinfo(0)), 1, callfunc("F_eBGTeamColor", .@oppose));
+#: npc/eBG/bg_flavius_sc.txt
+#, fuzzy, c-format
+msgctxt "Stone Point#1::cSC1"
+msgid "%s Stone has been stole by [%s]"
+msgstr "%s Pedra foi roubada por [%s]"
+
+# mapannounce("ebg_sc", sprintf(_$("%s Stone Captured by [%s]"), callfunc("F_eBGTeamName", .@team), strcharinfo(0)), 1, callfunc("F_eBGTeamColor",.@team));
+#: npc/eBG/bg_flavius_sc.txt
+#, c-format
+msgctxt "Stone Point#1::cSC1"
+msgid "%s Stone Captured by [%s]"
+msgstr "%s Pedra Capturada por [%s]"
+
+# mapannounce("ebg_boss", _("-- Capture Balance Flag to remove inmunity of Enemy Guardians --"), 1, 0x483D8B);
+#: npc/eBG/bg_tierra_boss.txt
+msgctxt "BOSS_Tierra"
+msgid "-- Capture Balance Flag to remove inmunity of Enemy Guardians --"
+msgstr "-- Capture Balance Flag to remove inmunity of Enemy Guardians --"
+
+# mapannounce("ebg_boss", _("-- Balance Flag returned to normality --"), 1, 0x483D8B);
+#: npc/eBG/bg_tierra_boss.txt
+msgctxt "BOSS_Tierra"
+msgid "-- Balance Flag returned to normality --"
+msgstr "-- Balance Flag returned to normality --"
+
+# mapannounce("ebg_boss", _("-- Guillaume captured the Balance Flag. Croix guardian now is vulnerable to attacks!! --"), 1, 0x0000FF);
+#: npc/eBG/bg_tierra_boss.txt
+msgctxt "BOSS_Tierra"
+msgid ""
+"-- Guillaume captured the Balance Flag. Croix guardian now is vulnerable to "
+"attacks!! --"
+msgstr ""
+"-- Guillaume capturou a Bandeira do Equilíbrio. O Guardião Croix agora está "
+"vulnerável a ataques!! --"
+
+# bg_monster bg_get_npc_data(), "ebg_boss", 273, 204, _("Guillaume Flag"), $bg_tierra_boss[11], "BOSS_Tierra::OnNeutralBreak";
+#: npc/eBG/bg_tierra_boss.txt
+#, fuzzy
+msgctxt "BOSS_Tierra"
+msgid "Guillaume Flag"
+msgstr "Bandeira Guillaume"
+
+# mapannounce("ebg_boss", _("-- Croix captured the Balance Flag. Guillaume guardian now is vulnerable to attacks!! --"), 1, 0xFF0000);
+#: npc/eBG/bg_tierra_boss.txt
+msgctxt "BOSS_Tierra"
+msgid ""
+"-- Croix captured the Balance Flag. Guillaume guardian now is vulnerable to "
+"attacks!! --"
+msgstr ""
+"-- Croix capturou a bandeira de equilíbrio. O Guardião de Guillaume agora "
+"está vulnerável a ataques!! --"
+
+# bg_monster bg_get_npc_data(), "ebg_boss", 273, 204, _("Croix Flag"), $bg_tierra_boss[12], "BOSS_Tierra::OnNeutralBreak";
+#: npc/eBG/bg_tierra_boss.txt
+#, fuzzy
+msgctxt "BOSS_Tierra"
+msgid "Croix Flag"
+msgstr "Bandeira Croix"
+
+# mapannounce("ebg_boss", sprintf(_$("The Battle will end in %d Minutes!!"), .time_remaining), bc_map, 0x483D8B);
+#: npc/eBG/bg_tierra_boss.txt
+#, c-format
+msgctxt "BOSS_Tierra"
+msgid "The Battle will end in %d Minutes!!"
+msgstr "A Batalha terminará em %d Minutos!!"
+
+# mapannounce("ebg_boss", sprintf(_$("The %s army has won the Battle of Tierra Bossnia!"), callfunc("F_eBGTeamName",.@win)), bc_map, callfunc("F_eBGTeamColor", .@win));
+#: npc/eBG/bg_tierra_boss.txt
+#, c-format
+msgctxt "BOSS_Tierra"
+msgid "The %s army has won the Battle of Tierra Bossnia!"
+msgstr "O time %s venceu a Batalha de Tierra Bossnia!"
+
+# mapannounce("ebg_boss", _("The battle is over. This is a Tie...!"), bc_map, 0x483D8B);
+#: npc/eBG/bg_tierra_boss.txt
+msgctxt "BOSS_Tierra"
+msgid "The battle is over. This is a Tie...!"
+msgstr "A batalha acabou. houve um empate...!"
+
+# mapannounce("ebg_boss", sprintf(_$("-- %s Guardian [%s] entering the battle --"), .@teamName$, strmobinfo(2, .@Boss)), bc_map, .@color);
+#: npc/eBG/bg_tierra_boss.txt
+#, c-format
+msgctxt "CommonBoss#eBG"
+msgid "-- %s Guardian [%s] entering the battle --"
+msgstr "-- %s Guardião [%s] entrando na batalha --"
+
+# bg_monster 0, "ebg_boss", 273, 204, _("Balance Flag"), $bg_tierra_boss[10], "BOSS_Tierra::OnNeutralBreak";
+#: npc/eBG/bg_tierra_boss.txt
+msgctxt "Balance_Flag"
+msgid "Balance Flag"
+msgstr "Balance Flag"
+
+# mapannounce("ebg_tti", sprintf(_$("The Battle will end in %d Minutes!!"), .time_remaining), bc_map, 0x696969);
+#: npc/eBG/bg_tierra_ti.txt
+#, c-format
+msgctxt "TI_Tierra"
+msgid "The Battle will end in %d Minutes!!"
+msgstr "A Batalha vai terminar em %d Minutos!!"
+
+# mapannounce("ebg_tti", sprintf(_$("The %s has won the Battle of Tierra Inferno!"), callfunc("F_eBGTeamName", .@win)), bc_map, callfunc("F_eBGTeamColor", .@win));
+#: npc/eBG/bg_tierra_ti.txt
+#, fuzzy, c-format
+msgctxt "TI_Tierra"
+msgid "The %s has won the Battle of Tierra Inferno!"
+msgstr "O %s venceu a Batalha de Tierra Inferno!"
+
+# mapannounce("ebg_tti", _("The battle is over. There are no Winners!"), bc_map, 0x696969);
+#: npc/eBG/bg_tierra_ti.txt
+#, fuzzy
+msgctxt "TI_Tierra"
+msgid "The battle is over. There are no Winners!"
+msgstr "A batalha acabou. Não há vencedores!"
+
+# mapannounce("ebg_tti", sprintf(_$("%s : %d slaughtered skulls by %s [%d/%d]"), callfunc("F_eBGTeamName",.@id), .@Points, strcharinfo(0), .@Score, $bg_tierra_ti[3]), bc_map, callfunc("F_eBGTeamColor", .@id));
+#: npc/eBG/bg_tierra_ti.txt
+#, c-format
+msgctxt "Sacrifice_Totem_eBG"
+msgid "%s : %d slaughtered skulls by %s [%d/%d]"
+msgstr "%s : %d slaughtered skulls by %s [%d/%d]"
+
+# mapannounce("ebg_eos", _("The Battle of Tierra Valley - Eye of Storm has begun"), bc_map, 0x4169E1);
+#: npc/eBG/bg_tierra_eos.txt
+msgctxt "EOS_Tierra"
+msgid "The Battle of Tierra Valley - Eye of Storm has begun"
+msgstr "A Batalha de Tierra Valley - Eye of Storm começou"
+
+# mapannounce("ebg_eos", sprintf(_$("%s captured the Flag [+%d points]"), .@team_name$, .@points), bc_map, callfunc("F_eBGTeamColor",getarg(0)));
+#: npc/eBG/bg_tierra_eos.txt
+#, c-format
+msgctxt "EOS_Tierra"
+msgid "%s captured the Flag [+%d points]"
+msgstr "%s capturou a bandeira [+%d pontos]"
+
+# mapannounce("ebg_eos", _("The battle is over. Nobody won the match...!"), bc_map, 0x4169E1);
+#: npc/eBG/bg_tierra_eos.txt
+msgctxt "EOS_Tierra"
+msgid "The battle is over. Nobody won the match...!"
+msgstr "A batalha acabou. Ninguém ganhou a partida...!"
+
+# mapannounce("ebg_eos", sprintf(_$("The %s army has won the Battle of Tierra EoS!"), callfunc("F_eBGTeamName", .@win)), bc_map, callfunc("F_eBGTeamColor", .@win));
+#: npc/eBG/bg_tierra_eos.txt
+#, c-format
+msgctxt "EOS_Tierra"
+msgid "The %s army has won the Battle of Tierra EoS!"
+msgstr "O time %s venceu a Batalha de Tierra EoS!"
+
+# mapannounce("ebg_eos", _("The battle is over. This is a Tie...!"), bc_map, 0x4169E1);
+#: npc/eBG/bg_tierra_eos.txt
+msgctxt "EOS_Tierra"
+msgid "The battle is over. This is a Tie...!"
+msgstr "A batalha acabou. Houve um empate...!"
+
+# mapannounce("ebg_eos", sprintf(_$("Neutral Flag Taken by %s"), callfunc("F_eBGTeamName", 1)), bc_map, callfunc("F_eBGTeamColor", 1));
+#: npc/eBG/bg_tierra_eos.txt
+#, c-format
+msgctxt "EOS_Tierra"
+msgid "Neutral Flag Taken by %s"
+msgstr "Neutral Flag Taken by %s"
+
+# mapannounce("ebg_eos", sprintf(_$("Neutral Flag Taken by %s"), callfunc("F_eBGTeamName", 1)), bc_map, callfunc("F_eBGTeamColor", 1));
+#: npc/eBG/bg_tierra_eos.txt
+#, c-format
+msgctxt "Neutral Flag#eBG"
+msgid "Neutral Flag Taken by %s"
+msgstr "Neutral Flag Taken by %s"
+
+# mapannounce("ebg_eos", _("The Neutral Flag have been set!!"), bc_map, 0xFFFFFF);
+#: npc/eBG/bg_tierra_eos.txt
+msgctxt "Neutral Flag#eBG"
+msgid "The Neutral Flag have been set!!"
+msgstr "The Neutral Flag have been set!!"
+
+# showscript(sprintf(_$("Points: %d (T1: 50, T2: -50)."), .Balance[.@id]));
+#: npc/eBG/bg_tierra_eos.txt
+#, fuzzy, c-format
+msgctxt "North_Base#1"
+msgid "Points: %d (T1: 50, T2: -50)."
+msgstr "Pontos: %d (T1: 50, T2: -50)."
+
+# showscript(sprintf(_$("Points: %d (T1: 50, T2: -50). Points are gained every 7 seconds."), .Balance[.@id]));
+#: npc/eBG/bg_tierra_eos.txt
+#, fuzzy, c-format
+msgctxt "North_Base#1"
+msgid "Points: %d (T1: 50, T2: -50). Points are gained every 7 seconds."
+msgstr "Pontos: %d (T1: 50, T2: -50). Os pontos são ganhos a cada 7 segundos."
+
+# mapannounce(.@map$, sprintf(_$("%s captured by %s"), strnpcinfo(1), callfunc("F_eBGTeamName",.@team)), bc_map, callfunc("F_eBGTeamColor", .@team));
+#: npc/eBG/bg_tierra_eos.txt
+#, fuzzy, c-format
+msgctxt "North_Base#1"
+msgid "%s captured by %s"
+msgstr "%s capturado por %s"
+
+# mapannounce(.@map$, sprintf(_$("Guillaume Team lost control of the %s Base"), .@base$), bc_map, 0x0000FF);
+#: npc/eBG/bg_tierra_eos.txt
+#, c-format
+msgctxt "North_Base#1"
+msgid "Guillaume Team lost control of the %s Base"
+msgstr "O Time Guillaume perdeu o controle da %s Base"
+
+# mapannounce(.@map$, sprintf(_$("Croix Team lost control of the %s Base"), .@base$), bc_map, 0xFF0000);
+#: npc/eBG/bg_tierra_eos.txt
+#, c-format
+msgctxt "North_Base#1"
+msgid "Croix Team lost control of the %s Base"
+msgstr "O Time Croix perdeu o controle da %s Base"
+
+# dispbottom(sprintf(_$("You will be warped to %s Base"), ((.@id==1)?"North":"South")));
+#: npc/eBG/bg_tierra_eos.txt
+#, c-format
+msgctxt "North Base Warp#1"
+msgid "You will be warped to %s Base"
+msgstr "Você será teletransportado para a %s Base"
+
+# mapannounce("ebg_dom", _("The battle is over. Nobody won the match...!"), bc_map, 0x4169E1);
+#: npc/eBG/bg_tierra_dom.txt
+msgctxt "DOM_Tierra"
+msgid "The battle is over. Nobody won the match...!"
+msgstr "A batalha acabou. Ninguém ganhou a partida...!"
+
+# mapannounce("ebg_dom", sprintf(_$("The %s army has won the Battle of Tierra DoM!"), callfunc("F_eBGTeamName", .@win)), bc_map, callfunc("F_eBGTeamColor", .@win));
+#: npc/eBG/bg_tierra_dom.txt
+#, c-format
+msgctxt "DOM_Tierra"
+msgid "The %s army has won the Battle of Tierra DoM!"
+msgstr "O time %s venceu a Batalha de Tierra DoM!"
+
+# mapannounce("ebg_dom", _("The battle is over. This is a Tie...!"), bc_map, 0x4169E1);
+#: npc/eBG/bg_tierra_dom.txt
+msgctxt "DOM_Tierra"
+msgid "The battle is over. This is a Tie...!"
+msgstr "A batalha acabou. Houve um empate...!"
+
+# .@mob[0] = bg_monster(.Defender, .Castle$, 27, 35, _("1st Guardian Stone"), S_EMPEL_1, "eBG_Conquest::OnGuardianStone");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG_Conquest"
+msgid "1st Guardian Stone"
+msgstr "1ª Pedra Guardiã"
+
+# .@mob[1] = bg_monster(.Defender, .Castle$, 335, 230, _("2nd Guardian Stone"), S_EMPEL_2, "eBG_Conquest::OnGuardianStone");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG_Conquest"
+msgid "2nd Guardian Stone"
+msgstr "2ª Pedra Guardiã"
+
+# .@mob[0] = bg_monster(.Defender, .Castle$, 120, 272, _("Emperium"), EMPELIUM, "eBG_Conquest::OnEmperium");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG_Conquest"
+msgid "Emperium"
+msgstr "Emperium"
+
+# mapannounce(.Castle$, sprintf(_$("%s : Move on warriors!! Let's capture this Castle!!"), bg_info(.Attacker, 1)), bc_map, bg_info(.Attacker, 2));
+#: npc/eBG/bg_conquest.txt
+#, c-format
+msgctxt "eBG_Conquest"
+msgid "%s : Move on warriors!! Let's capture this Castle!!"
+msgstr "%s : Avancem guerreiros!! Vamos capturar este Castelo!!"
+
+# mapannounce(.Castle$, sprintf(_$("%s : Protect the Castle and it's Defences to all cost!!"), bg_info(.Defender, 1)), bc_map, bg_info(.Defender, 2));
+#: npc/eBG/bg_conquest.txt
+#, c-format
+msgctxt "eBG_Conquest"
+msgid "%s : Protect the Castle and it's Defences to all cost!!"
+msgstr "%s : Proteja o castelo e suas Defesas a todo custo!!"
+
+# mapannounce(.Castle$, _("Guardian Stone has fallen - 6 minutes to destroy the other Stone"), bc_map, 0xFFA500);
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG_Conquest"
+msgid "Guardian Stone has fallen - 6 minutes to destroy the other Stone"
+msgstr "A Pedra da Guarda caiu - 6 minutos para destruir a outra Pedra"
+
+# mapannounce(.Castle$, _("Both Guardian Stones has fallen - 6 minutes to destroy the 1st Fortress Gate"), bc_map, 0xFFA500);
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG_Conquest"
+msgid ""
+"Both Guardian Stones has fallen - 6 minutes to destroy the 1st Fortress Gate"
+msgstr ""
+"Ambas as Pedras Guardiãs caíram - 6 minutos para destruir o primeiro Portão "
+"da Fortaleza"
+
+# mapannounce(.Castle$, sprintf(_$("%d%s Fortress Gate has fallen - 6 minutes to destroy the %s"), .@barricade, ((.@barricade == 1) ? "st" : ((.@barricade == 2) ? "nd" : "rd")), ((.@barricade == 1) ? _("2nd Barricade") : ((.@barricade == 2) ? _("3rd Barricade") : _("Emperium")))), bc_map, 0xFFA500);
+#: npc/eBG/bg_conquest.txt
+#, c-format
+msgctxt "eBG_Conquest"
+msgid "%d%s Fortress Gate has fallen - 6 minutes to destroy the %s"
+msgstr "%d%s Fortress Gate has fallen - 6 minutes to destroy the %s"
+
+# mapannounce(.Castle$, sprintf(_$("%d%s Fortress Gate has fallen - 6 minutes to destroy the %s"), .@barricade, ((.@barricade == 1) ? "st" : ((.@barricade == 2) ? "nd" : "rd")), ((.@barricade == 1) ? _("2nd Barricade") : ((.@barricade == 2) ? _("3rd Barricade") : _("Emperium")))), bc_map, 0xFFA500);
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG_Conquest"
+msgid "2nd Barricade"
+msgstr "2nd Barricada"
+
+# mapannounce(.Castle$, sprintf(_$("%d%s Fortress Gate has fallen - 6 minutes to destroy the %s"), .@barricade, ((.@barricade == 1) ? "st" : ((.@barricade == 2) ? "nd" : "rd")), ((.@barricade == 1) ? _("2nd Barricade") : ((.@barricade == 2) ? _("3rd Barricade") : _("Emperium")))), bc_map, 0xFFA500);
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG_Conquest"
+msgid "3rd Barricade"
+msgstr "3rd Barricada"
+
+# mapannounce(.Castle$, sprintf(_$("The %s army has won the Battle and captured the Castle!!"), bg_info(.Attacker,0)), bc_map, bg_info(.Attacker, 2));
+#: npc/eBG/bg_conquest.txt
+#, c-format
+msgctxt "eBG_Conquest"
+msgid "The %s army has won the Battle and captured the Castle!!"
+msgstr "O time %s venceu a batalha e capturou o Castelo!!"
+
+# mapannounce(.Castle$, sprintf(_$("Battle of Conquest will ends in %d Minutes!!"), .time_remaining), bc_map, 0xFFA500);
+#: npc/eBG/bg_conquest.txt
+#, c-format
+msgctxt "eBG_Conquest"
+msgid "Battle of Conquest will ends in %d Minutes!!"
+msgstr "A Batalha da Conquista terminará em %d Minutos!!"
+
+# mapannounce(.Castle$, sprintf(_$("The %s army has won the Battle and protected the Castle!!"), bg_info(.Defender,0)), bc_map, bg_info(.Defender, 2));
+#: npc/eBG/bg_conquest.txt
+#, c-format
+msgctxt "eBG_Conquest"
+msgid "The %s army has won the Battle and protected the Castle!!"
+msgstr "O time %s venceu a batalha e protegeu o Castelo!!"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Please");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "Teleport Service. Please"
+msgstr "Serviço de Teleporte. Por favor"
+
+# mes("choose a destination");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#01"
+msgid "choose a destination"
+msgstr "escolha um destino"
+
+# mes("within the stronghold.^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "within the stronghold.^000000"
+msgstr "dentro da fortaleza.^000000"
+
+# .@opt = select(.menu$[.@index] +":Cancel") - 1;
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid ":Cancel"
+msgstr ":Cancelar"
+
+# setarray .menu$,_("First Gate House:Second Gate House"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "First Gate House:Second Gate House"
+msgstr "First Gate House:Second Gate House"
+
+# _("Defence Area 1-1:Defence Area 1-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "Defence Area 1-1:Defence Area 1-2"
+msgstr "Área de defesa 1-1:Área de defesa 1-2"
+
+# _("Defence Area 2-1:Defence Area 2-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "Defence Area 2-1:Defence Area 2-2"
+msgstr "Área de defesa 2-1:Área de defesa 2-2"
+
+# _("Defence Area 2-3:Defence Area 2-4"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "Defence Area 2-3:Defence Area 2-4"
+msgstr "Área de defesa 2-3:Área de defesa 2-4"
+
+# _("Defence Area 3-1:Defence Area 3-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "Defence Area 3-1:Defence Area 3-2"
+msgstr "Área de defesa 3-1:Área de defesa 3-2"
+
+# _("Defence Area 3-3:Defence Area 3-4"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "Defence Area 3-3:Defence Area 3-4"
+msgstr "Área de defesa 3-3:Área de defesa 3-4"
+
+# _("Area, Centre 1:Area, Centre 2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "Area, Centre 1:Area, Centre 2"
+msgstr "Área, Centro 1:Área, Centro 2"
+
+# _("Area 1-1:Area 2-1:Area 3-1"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "Area 1-1:Area 2-1:Area 3-1"
+msgstr "Área 1-1:Área 2-1:Área 3-1"
+
+# _("Area 1-2:Area 2-3:Area 3-2");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#01"
+msgid "Area 1-2:Area 2-3:Area 3-2"
+msgstr "Área 1-2:Área 2-3:Área 3-2"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Castle#eLF_sc06_1::eBG_LF_sc06_1"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Would");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Castle#eLF_sc06_1::eBG_LF_sc06_1"
+msgid "Teleport Service. Would"
+msgstr "Serviço de Teleporte. Você"
+
+# mes("you like to teleport to");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Castle#eLF_sc06_1::eBG_LF_sc06_1"
+msgid "you like to teleport to"
+msgstr "gostaria de se teletransportar para"
+
+# mes("the Flag Center?^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Castle#eLF_sc06_1::eBG_LF_sc06_1"
+msgid "the Flag Center?^000000"
+msgstr "o Flag Center?^000000"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Castle#eLF_sc06_1::eBG_LF_sc06_1"
+msgid "Teleport"
+msgstr "Teleporte"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Castle#eLF_sc06_1::eBG_LF_sc06_1"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-02#11"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Please");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-02#11"
+msgid "Teleport Service. Please"
+msgstr "Serviço de Teleporte. Por favor"
+
+# mes("choose a destination");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-02#11"
+msgid "choose a destination"
+msgstr "escolha um destino"
+
+# mes("within the stronghold.^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-02#11"
+msgid "within the stronghold.^000000"
+msgstr "dentro da fortaleza.^000000"
+
+# .@opt = select(.menu$[.@index]+":Cancel")-1;
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-02#11"
+msgid ":Cancel"
+msgstr ":Cancelar"
+
+# setarray .menu$,_("First Gate House:Second Gate House"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-02#11"
+msgid "First Gate House:Second Gate House"
+msgstr "First Gate House:Second Gate House"
+
+# _("Defence Area 1-1:Defence Area 1-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-02#11"
+msgid "Defence Area 1-1:Defence Area 1-2"
+msgstr "Área de defesa 1-1:Área de defesa 1-2"
+
+# _("Defence Area 2-1:Defence Area 2-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-02#11"
+msgid "Defence Area 2-1:Defence Area 2-2"
+msgstr "Área de defesa 2-1:Área de defesa 2-2"
+
+# _("Defence Area 3-1:Defence Area 3-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-02#11"
+msgid "Defence Area 3-1:Defence Area 3-2"
+msgstr "Área de defesa 3-1:Área de defesa 3-2"
+
+# _("Area, Centre 1:Area, Centre 2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-02#11"
+msgid "Area, Centre 1:Area, Centre 2"
+msgstr "Área, Centro 1:Área, Centro 2"
+
+# _("Area 1-1:Area 2-1:Area 3-1"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-02#11"
+msgid "Area 1-1:Area 2-1:Area 3-1"
+msgstr "Área 1-1:Área 2-1:Área 3-1"
+
+# _("Area 1-2:Area 2-3:Area 3-2");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-02#11"
+msgid "Area 1-2:Area 2-3:Area 3-2"
+msgstr "Área 1-2:Área 2-3:Área 3-2"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Andlangr#eLF_sc07_1::eBG_LF_sc07_1"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Would");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Andlangr#eLF_sc07_1::eBG_LF_sc07_1"
+msgid "Teleport Service. Would"
+msgstr "Serviço de Teleporte. Gostaria"
+
+# mes("you like to teleport to");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Andlangr#eLF_sc07_1::eBG_LF_sc07_1"
+msgid "you like to teleport to"
+msgstr "você gosta de se teletransportar para"
+
+# mes("the Flag Center?^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Andlangr#eLF_sc07_1::eBG_LF_sc07_1"
+msgid "the Flag Center?^000000"
+msgstr "o Flag Center?^000000"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Andlangr#eLF_sc07_1::eBG_LF_sc07_1"
+msgid "Teleport"
+msgstr "Teleporte"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Andlangr#eLF_sc07_1::eBG_LF_sc07_1"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#21"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Please");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#21"
+msgid "Teleport Service. Please"
+msgstr "Serviço de Teleporte. Por favor"
+
+# mes("choose a destination");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#21"
+msgid "choose a destination"
+msgstr "escolha um destino"
+
+# mes("within the stronghold.^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#21"
+msgid "within the stronghold.^000000"
+msgstr "dentro da fortaleza.^000000"
+
+# .@opt = select(.menu$[.@index]+":Cancel")-1;
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#21"
+msgid ":Cancel"
+msgstr ":Cancelar"
+
+# setarray .menu$,_("First Gate House:Second Gate House"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#21"
+msgid "First Gate House:Second Gate House"
+msgstr "First Gate House:Second Gate House"
+
+# _("Area, Centre 1"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#21"
+msgid "Area, Centre 1"
+msgstr "Área, Centro 1"
+
+# _("Defence Area 2-1:Defence Area 2-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#21"
+msgid "Defence Area 2-1:Defence Area 2-2"
+msgstr "Área de defesa 2-1:Área de defesa 2-2"
+
+# _("Area, Centre 2"),
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#21"
+msgid "Area, Centre 2"
+msgstr "Área, Centro 2"
+
+# _("Defence Area 3-1:Defence Area 3-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#21"
+msgid "Defence Area 3-1:Defence Area 3-2"
+msgstr "Área de defesa 3-1:Área de defesa 3-2"
+
+# _("Area, Centre 3"),
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#21"
+msgid "Area, Centre 3"
+msgstr "Área, Centro 3"
+
+# _("Area 1-2:Area 2-2:Area 3-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#21"
+msgid "Area 1-2:Area 2-2:Area 3-2"
+msgstr "Área 1-2:Área 2-2:Área 3-2"
+
+# _("Area 2-1:Area 2-2:Area, Centre 2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#21"
+msgid "Area 2-1:Area 2-2:Area, Centre 2"
+msgstr "Área 2-1:Área 2-2:Área, Centro 2"
+
+# _("Area 3-1:Area 3-2:Area, Centre 3");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#21"
+msgid "Area 3-1:Area 3-2:Area, Centre 3"
+msgstr "Área 3-1:Área 3-2:Área, Centro 3"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Vidblainn#eLF_sc08_1::eLF_sc08_1"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Would");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Vidblainn#eLF_sc08_1::eLF_sc08_1"
+msgid "Teleport Service. Would"
+msgstr "Serviço de Teleporte. Gostaria"
+
+# mes("you like to teleport to");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Vidblainn#eLF_sc08_1::eLF_sc08_1"
+msgid "you like to teleport to"
+msgstr "você gosta de se teletransportar para"
+
+# mes("the Flag Center?^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Vidblainn#eLF_sc08_1::eLF_sc08_1"
+msgid "the Flag Center?^000000"
+msgstr "o Flag Center?^000000"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Vidblainn#eLF_sc08_1::eLF_sc08_1"
+msgid "Teleport"
+msgstr "Teleporte"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Vidblainn#eLF_sc08_1::eLF_sc08_1"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Please");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "Teleport Service. Please"
+msgstr "Serviço de Teleporte. Por favor"
+
+# mes("choose a destination");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#31"
+msgid "choose a destination"
+msgstr "escolha um destino"
+
+# mes("within the stronghold.^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "within the stronghold.^000000"
+msgstr "dentro da fortaleza.^000000"
+
+# .@opt = select(.menu$[.@index]+":Cancel")-1;
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#31"
+msgid ":Cancel"
+msgstr ":Cancelar"
+
+# setarray .menu$,_("First Gate House:Second Gate House"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "First Gate House:Second Gate House"
+msgstr "First Gate House:Second Gate House"
+
+# _("Defence Area 1-1:Defence Area 1-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "Defence Area 1-1:Defence Area 1-2"
+msgstr "Área de defesa 1-1:Área de defesa 1-2"
+
+# _("Defence Area 2-1:Defence Area 2-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "Defence Area 2-1:Defence Area 2-2"
+msgstr "Área de defesa 2-1:Área de defesa 2-2"
+
+# _("Defence Area 2-3:Defence Area 2-4"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "Defence Area 2-3:Defence Area 2-4"
+msgstr "Área de defesa 2-3:Área de defesa 2-4"
+
+# _("Defence Area 3-1:Defence Area 3-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "Defence Area 3-1:Defence Area 3-2"
+msgstr "Área de defesa 3-1:Área de defesa 3-2"
+
+# _("Defence Area 3-3:Defence Area 3-4"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "Defence Area 3-3:Defence Area 3-4"
+msgstr "Área de defesa 3-3:Área de defesa 3-4"
+
+# _("Gate House Fork"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "Gate House Fork"
+msgstr "Gate House Fork"
+
+# _("Area 1-1:Area 2-1:Area 3-1"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "Area 1-1:Area 2-1:Area 3-1"
+msgstr "Área 1-1:Área 2-1:Área 3-1"
+
+# _("Area 1-2:Area 2-2:Area 3-3");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#31"
+msgid "Area 1-2:Area 2-2:Area 3-3"
+msgstr "Área 1-2:Área 2-2:Área 3-3"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Mardol#eLF_ar06_1::eLF_ar06_1"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFEsta é a Fortaleza"
+
+# mes("Teleport Service. Would");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Mardol#eLF_ar06_1::eLF_ar06_1"
+msgid "Teleport Service. Would"
+msgstr "Serviço de Teleporte. Você"
+
+# mes("you like to teleport to");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Mardol#eLF_ar06_1::eLF_ar06_1"
+msgid "you like to teleport to"
+msgstr "gostaria de se teletransportar para"
+
+# mes("the Flag Center?^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Mardol#eLF_ar06_1::eLF_ar06_1"
+msgid "the Flag Center?^000000"
+msgstr "o Flag Center?^000000"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Mardol#eLF_ar06_1::eLF_ar06_1"
+msgid "Teleport"
+msgstr "Teleporte"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Mardol#eLF_ar06_1::eLF_ar06_1"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#41"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Please");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#41"
+msgid "Teleport Service. Please"
+msgstr "Serviço de Teleporte. Por favor"
+
+# mes("choose a destination");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#41"
+msgid "choose a destination"
+msgstr "escolha um destino"
+
+# mes("within the stronghold.^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#41"
+msgid "within the stronghold.^000000"
+msgstr "dentro da fortaleza.^000000"
+
+# .@opt = select(.menu$[.@index]+":Cancel")-1;
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#41"
+msgid ":Cancel"
+msgstr ":Cancelar"
+
+# setarray .menu$,_("First Gate House:Second Gate House"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#41"
+msgid "First Gate House:Second Gate House"
+msgstr "First Gate House:Second Gate House"
+
+# _("Defence Area 1-1:Defence Area 1-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#41"
+msgid "Defence Area 1-1:Defence Area 1-2"
+msgstr "Área de defesa 1-1:Área de defesa 1-2"
+
+# _("Defence Area 1-3:Defence Area 1-4"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#41"
+msgid "Defence Area 1-3:Defence Area 1-4"
+msgstr "Área de defesa 1-3:Área de defesa 1-4"
+
+# _("Defence Area 2-1:Defence Area 2-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#41"
+msgid "Defence Area 2-1:Defence Area 2-2"
+msgstr "Área de defesa 2-1:Área de defesa 2-2"
+
+# _("Defence Area 2-3:Defence Area 2-4"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#41"
+msgid "Defence Area 2-3:Defence Area 2-4"
+msgstr "Área de defesa 2-3:Área de defesa 2-4"
+
+# _("Defence Area 3-1:Defence Area 3-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#41"
+msgid "Defence Area 3-1:Defence Area 3-2"
+msgstr "Área de defesa 3-1:Área de defesa 3-2"
+
+# _("Area, Centre 1:Area, Centre 3");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#41"
+msgid "Area, Centre 1:Area, Centre 3"
+msgstr "Área, Centro 1:Área, Centro 3"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Cyr#eLF_ar07_1::eLF_ar07_1"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Would");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Cyr#eLF_ar07_1::eLF_ar07_1"
+msgid "Teleport Service. Would"
+msgstr "Serviço de Teleporte. Você"
+
+# mes("you like to teleport to");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Cyr#eLF_ar07_1::eLF_ar07_1"
+msgid "you like to teleport to"
+msgstr "gostaria de se teletransportar para"
+
+# mes("the Flag Center?^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Cyr#eLF_ar07_1::eLF_ar07_1"
+msgid "the Flag Center?^000000"
+msgstr "o Flag Center?^000000"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Cyr#eLF_ar07_1::eLF_ar07_1"
+msgid "Teleport"
+msgstr "Teleporte"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Cyr#eLF_ar07_1::eLF_ar07_1"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Please");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "Teleport Service. Please"
+msgstr "Serviço de Teleporte. Por favor"
+
+# mes("choose a destination");
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#51"
+msgid "choose a destination"
+msgstr "escolha um destino"
+
+# mes("within the stronghold.^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "within the stronghold.^000000"
+msgstr "dentro da fortaleza.^000000"
+
+# .@opt = select(.menu$[.@index]+":Cancel")-1;
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "eBG-LF-01#51"
+msgid ":Cancel"
+msgstr ":Cancelar"
+
+# setarray .menu$,_("First Gate House:Second Gate House"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "First Gate House:Second Gate House"
+msgstr "First Gate House:Second Gate House"
+
+# _("Defence Area 1-1:Defence Area 1-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "Defence Area 1-1:Defence Area 1-2"
+msgstr "Área de defesa 1-1:Área de defesa 1-2"
+
+# _("Defence Area 1-3:Defence Area 1-4"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "Defence Area 1-3:Defence Area 1-4"
+msgstr "Área de defesa 1-3:Área de defesa 1-4"
+
+# _("Defence Area 2-1:Defence Area 2-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "Defence Area 2-1:Defence Area 2-2"
+msgstr "Área de defesa 2-1:Área de defesa 2-2"
+
+# _("Defence Area 2-3:Defence Area 2-4"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "Defence Area 2-3:Defence Area 2-4"
+msgstr "Área de defesa 2-3:Área de defesa 2-4"
+
+# _("Defence Area 3-1:Defence Area 3-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "Defence Area 3-1:Defence Area 3-2"
+msgstr "Área de defesa 3-1:Área de defesa 3-2"
+
+# _("Defence Area 1-1:Defence Area 2-1:Defence Area 3-1"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "Defence Area 1-1:Defence Area 2-1:Defence Area 3-1"
+msgstr "Área de defesa 1-1:Área de defesa 2-1:Área de defesa 3-1"
+
+# _("Defence Area 1-2:Defence Area 2-3:Defence Area 3-2"),
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "Defence Area 1-2:Defence Area 2-3:Defence Area 3-2"
+msgstr "Área de defesa 1-2:Área de defesa 2-3:Área de defesa 3-2"
+
+# _("Defence Area 1-4:Defence Area 2-4");
+#: npc/eBG/bg_conquest.txt
+msgctxt "eBG-LF-01#51"
+msgid "Defence Area 1-4:Defence Area 2-4"
+msgstr "Área de defesa 1-4:Área de defesa 2-4"
+
+# mes("^3355FFThis is the Stronghold");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Horn#eLF_ar08_01::eLF_ar08_01"
+msgid "^3355FFThis is the Stronghold"
+msgstr "^3355FFThis is the Stronghold"
+
+# mes("Teleport Service. Would");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Horn#eLF_ar08_01::eLF_ar08_01"
+msgid "Teleport Service. Would"
+msgstr "Serviço de Teleporte. Você"
+
+# mes("you like to teleport to");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Horn#eLF_ar08_01::eLF_ar08_01"
+msgid "you like to teleport to"
+msgstr "gostaria de se teletransportar para"
+
+# mes("the Flag Center?^000000");
+#: npc/eBG/bg_conquest.txt
+msgctxt "Horn#eLF_ar08_01::eLF_ar08_01"
+msgid "the Flag Center?^000000"
+msgstr "o Flag Center?^000000"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Horn#eLF_ar08_01::eLF_ar08_01"
+msgid "Teleport"
+msgstr "Teleporte"
+
+# if (select("Teleport", "Cancel") == 2)
+#: npc/eBG/bg_conquest.txt
+#, fuzzy
+msgctxt "Horn#eLF_ar08_01::eLF_ar08_01"
+msgid "Cancel"
+msgstr "Cancelar"
+
+# mapannounce(.Castle$, _("Move on warriors!! Let's capture this Castle!!"), bc_map, 0xDDA0DD);
+#: npc/eBG/bg_rush.txt
+msgctxt "eBG_Rush"
+msgid "Move on warriors!! Let's capture this Castle!!"
+msgstr "Movam-se guerreiros!! Vamos capturar este Castelo!!"
+
+# mapannounce(.Castle$, sprintf(_$("%s : Castle captured, now prepare to Defend it!!"), bg_info(.Defender, 1)), bc_map, bg_info(.Defender,2));
+#: npc/eBG/bg_rush.txt
+#, c-format
+msgctxt "eBG_Rush"
+msgid "%s : Castle captured, now prepare to Defend it!!"
+msgstr "%s : Castelo capturado, agora prepare-se para Defendê-lo!!"
+
+# mapannounce(.Castle$, sprintf(_$("%s : Capture the Castle, it's our last chance to Win!!"), bg_info(.Attacker, 1)), 1, bg_info(.Attacker, 2));
+#: npc/eBG/bg_rush.txt
+#, c-format
+msgctxt "eBG_Rush"
+msgid "%s : Capture the Castle, it's our last chance to Win!!"
+msgstr "%s : Capture o castelo, é nossa última chance de ganhar!!"
+
+# mapannounce(.Castle$, sprintf(_$("%s : Castle captured, we won the Battle!!"), bg_info(.Attacker, 1)), 1, bg_info(.Attacker, 2));
+#: npc/eBG/bg_rush.txt
+#, c-format
+msgctxt "eBG_Rush"
+msgid "%s : Castle captured, we won the Battle!!"
+msgstr "%s : Castelo capturado, ganhamos a batalha!!"
+
+# mapannounce(.Castle$, sprintf(_$("Battle of Rush will ends in %d Minutes!!"), .time_remaining), bc_map, 0xDDA0DD);
+#: npc/eBG/bg_rush.txt
+#, c-format
+msgctxt "eBG_Rush"
+msgid "Battle of Rush will ends in %d Minutes!!"
+msgstr "A Batalha do Rush terminará em %d Minutos!!"
+
+# mapannounce(.Castle$, _("Castle captured Fail. No winners"), bc_map, 0xDDA0DD);
+#: npc/eBG/bg_rush.txt
+msgctxt "eBG_Rush"
+msgid "Castle captured Fail. No winners"
+msgstr "Nenhum Castelo foi conquistado. Sem vencedores"
+
+# mapannounce(.Castle$, sprintf(_$("%s : Castle protected, we won the Battle!!"), bg_info(.Defender, 1)), 1, bg_info(.Defender,2));
+#: npc/eBG/bg_rush.txt
+#, c-format
+msgctxt "eBG_Rush"
+msgid "%s : Castle protected, we won the Battle!!"
+msgstr "%s : Castelo protegido, ganhamos a batalha!!"

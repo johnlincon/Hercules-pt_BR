@@ -1,0 +1,6410 @@
+# This file is part of Hercules.
+# http://herc.ws - http://github.com/HerculesWS/Hercules
+#
+# Copyright (C) 2013-2021 Hercules Dev Team
+#
+# Hercules is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+msgid ""
+msgstr ""
+"Project-Id-Version: 35d77357c3f75520a3c1a8cdf3f124b845c66f08\n"
+"Report-Msgid-Bugs-To: dev@herc.ws\n"
+"POT-Creation-Date: 2021-07-01 00:55:34+0000\n"
+"PO-Revision-Date: 2021-08-06 21:39-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: John Lincon (Discord:Linc#6099) <johnlincon@live.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+
+# mes "[Priest Praupin]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "[Priest Praupin]"
+msgstr "[Sacerdote Praupin]"
+
+# mes "Oh...!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Oh...!"
+msgstr "Oh uaaaal!"
+
+# mes "You're "+strcharinfo(PC_NAME)+" !";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "You're "
+msgstr "Você, "
+
+# mes "You've grown so much!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "You've grown so much!"
+msgstr "Você cresceu tanto!"
+
+# mes "I'm truly proud of you.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "I'm truly proud of you."
+msgstr "Estou verdadeiramente orgulhoso de você."
+
+# mes "May you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "May you"
+msgstr "Que você"
+
+# mes "always be blessed...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "always be blessed..."
+msgstr "sejam sempre abençoados..."
+
+# mes "Welcome, little one.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Welcome, little one."
+msgstr "Bem-vindo, pequenino."
+
+# mes "Fate must have brought";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Fate must have brought"
+msgstr "O destino deve ter trazido"
+
+# mes "us together so that we'd";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "us together so that we'd"
+msgstr "nos juntos para que pudéssemos"
+
+# mes "meet today. It's nice to meet you.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "meet today. It's nice to meet you."
+msgstr "se reúnem hoje. É um prazer conhecê-lo."
+
+# mes "But I am concerned that";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "But I am concerned that"
+msgstr "Mas estou preocupado que"
+
+# mes "you may not know what to do";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "you may not know what to do"
+msgstr "você pode não saber o que fazer"
+
+# mes "as an Acolyte from here on...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "as an Acolyte from here on..."
+msgstr "como um Acolyte a partir daqui..."
+
+# switch(select("I'm not worried.", "What should I do?")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "I'm not worried."
+msgstr "Eu não estou preocupado."
+
+# switch(select("I'm not worried.", "What should I do?")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "What should I do?"
+msgstr "O que eu devo fazer?"
+
+# mes "Seeing your eyes filled with such determination assures me. But if you run into any trouble, feel free to ask me for help. Good bye for now, blessed child.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid ""
+"Seeing your eyes filled with such determination assures me. But if you run "
+"into any trouble, feel free to ask me for help. Good bye for now, blessed "
+"child."
+msgstr ""
+"Ver seus olhos cheios de tal determinação me assegura. Mas se você tiver "
+"algum problema, sinta-se à vontade para me pedir ajuda. Adeus por agora, "
+"bendita criança."
+
+# mes "There is a convent northeast";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "There is a convent northeast"
+msgstr "Existe um convento no nordeste"
+
+# mes "of Prontera called the Saint Capitolina Convent. Go there and look for ^3131FF Sister Asthe^000000. She is a sweet and gentle soul who has";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid ""
+"of Prontera called the Saint Capitolina Convent. Go there and look for "
+"^3131FF Sister Asthe^000000. She is a sweet and gentle soul who has"
+msgstr ""
+"de Prontera chamado Convento de Saint Capitolina. Vá até lá e procure "
+"^3131FF Sister Asthe^000000. Ela é uma alma doce e gentil que tem"
+
+# mes "much to teach you.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "much to teach you."
+msgstr "muito para lhe ensinar."
+
+# mes "I look forward to seeing you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "I look forward to seeing you"
+msgstr "Estou ansioso para vê-lo"
+
+# mes "become a better Acolyte after learning from Sister Asthe's instructions. If you like, I can send you to the convent.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid ""
+"become a better Acolyte after learning from Sister Asthe's instructions. If "
+"you like, I can send you to the convent."
+msgstr ""
+"tornar-se um Acolyte melhor depois de aprender com as instruções da Irmã "
+"Asthe. Se você quiser, posso enviá-lo ao convento."
+
+# if(select("Go to the convent.", "Do not go.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Go to the convent."
+msgstr "Vá para o convento."
+
+# if(select("Go to the convent.", "Do not go.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Do not go."
+msgstr "Não vá."
+
+# mes "Please say hello";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Please say hello"
+msgstr "Por favor, diga \"olá\""
+
+# mes "to Sister Asthe for me.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "to Sister Asthe for me."
+msgstr "à Irmã Asthe para mim."
+
+# mes "Have a safe trip, little one...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Have a safe trip, little one..."
+msgstr "Tenha uma viagem segura, pequenino..."
+
+# mes "If you'd like,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "If you'd like,"
+msgstr "Se você quiser,"
+
+# mes "I can send you to";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "I can send you to"
+msgstr "Eu posso enviar você para"
+
+# mes "the convent at anytime.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "the convent at anytime."
+msgstr "o convento, a qualquer momento."
+
+# mes "Whenever you feel like";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Whenever you feel like"
+msgstr "Sempre que você sentir vontade"
+
+# mes "you need help, come to me.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "you need help, come to me."
+msgstr "você precisa de ajuda, venha até mim."
+
+# mes "You're looking for someone";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "You're looking for someone"
+msgstr "Você está à procura de alguém"
+
+# mes "that handles things with Archers";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "that handles things with Archers"
+msgstr "que trata das coisas com os arqueiros"
+
+# mes "at the church? Hmm...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "at the church? Hmm..."
+msgstr "na igreja? Hmm..."
+
+# mes "Ah, he's away at the convent right now. If you want to meet Bishop Maugins in the Saint Capitolina Convent, travel ^3131FFnorth^000000, ^3131FFeast^000000, ^3131FFeast^000000 and then ^3131FFeast^000000 from Prontera.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid ""
+"Ah, he's away at the convent right now. If you want to meet Bishop Maugins "
+"in the Saint Capitolina Convent, travel ^3131FFnorth^000000, "
+"^3131FFeast^000000, ^3131FFeast^000000 and then ^3131FFeast^000000 from "
+"Prontera."
+msgstr ""
+"Ah, ele está fora no convento agora mesmo. Se você quiser conhecer o Bispo "
+"Maugins no Convento de Saint Capitolina, viaje ^3131FFnorth^000000, "
+"^3131FFeast^000000, ^3131FFeast^000000 e depois ^3131FFeast^000000 de "
+"Prontera."
+
+# mes "Oh my, you seem";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Oh my, you seem"
+msgstr "Oh meu Deus, você parece"
+
+# mes "to be growing quickly";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "to be growing quickly"
+msgstr "estar crescendo rapidamente"
+
+# mes "into your role as an Acolyte.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "into your role as an Acolyte."
+msgstr "em seu papel de Acolyte."
+
+# mes "Was the training difficult?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Was the training difficult?"
+msgstr "O treinamento foi difícil?"
+
+# mes "You have something";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "You have something"
+msgstr "Você tem algo"
+
+# mes "to give me? Oh yes, the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "to give me? Oh yes, the"
+msgstr "para me dar? Oh sim, o"
+
+# mes "receipt! I was wondering";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "receipt! I was wondering"
+msgstr "recibo! Eu estava me perguntando"
+
+# mes "what had happened. Thank";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "what had happened. Thank"
+msgstr "o que tinha acontecido. Obrigado"
+
+# mes "you for all of your trouble.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "you for all of your trouble."
+msgstr "você por todos os seus problemas."
+
+# mes "Oh my, oh my.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Oh my, oh my."
+msgstr "Oh meu, oh meu."
+
+# mes "It's been a while.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "It's been a while."
+msgstr "Já faz um bom tempo."
+
+# mes "I wonder if there is";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid "I wonder if there is"
+msgstr "Eu me pergunto se há"
+
+# mes "anything I can give you?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "anything I can give you?"
+msgstr "qualquer coisa que eu possa lhe dar?"
+
+# mes "How about one of these?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "How about one of these?"
+msgstr "Que tal um destes?"
+
+# mes "I know I'm not offering much,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "I know I'm not offering much,"
+msgstr "Eu sei que não estou oferecendo muito,"
+
+# mes "but they were quite helpful to me when I was a young Acolyte like yourself.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Praupin"
+msgid ""
+"but they were quite helpful to me when I was a young Acolyte like yourself."
+msgstr ""
+"mas foram bastante úteis para mim quando eu era um jovem Noviço como você."
+
+# switch(select("Wand", "Flail")) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Wand"
+msgstr "Varinha de Condomínio"
+
+# switch(select("Wand", "Flail")) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Flail"
+msgstr "Flail"
+
+# mes "You are such a good person,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "You are such a good person,"
+msgstr "Você é uma pessoa tão boa,"
+
+# mes "a true child of the light. I hope that many others will benefit from the purity of your heart and mind.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid ""
+"a true child of the light. I hope that many others will benefit from the "
+"purity of your heart and mind."
+msgstr ""
+"uma verdadeira criança da luz. Espero que muitos outros se beneficiem com a "
+"pureza de seu coração e de sua mente."
+
+# mes "You must now find";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "You must now find"
+msgstr "Agora você deve encontrar"
+
+# mes "your own path and become";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "your own path and become"
+msgstr "seu próprio caminho e tornar-se"
+
+# mes "a better Acolyte using";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "a better Acolyte using"
+msgstr "um Acolyte melhor usando"
+
+# mes "your own strength.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "your own strength."
+msgstr "sua própria força."
+
+# mes "I am worried, but I trust in your courage and affection. May you always be protected and may";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid ""
+"I am worried, but I trust in your courage and affection. May you always be "
+"protected and may"
+msgstr ""
+"Estou preocupada, mas confio em sua coragem e afeto. Que você esteja sempre "
+"protegido e possa"
+
+# mes "you always be blessed.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "you always be blessed."
+msgstr "você sempre será abençoado."
+
+# mes "Sister Asthe in the Saint Capitolina Convent is such";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Sister Asthe in the Saint Capitolina Convent is such"
+msgstr "A Irmã Asthe no Convento de Saint Capitolina é tal"
+
+# mes "a sincere and loving person.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "a sincere and loving person."
+msgstr "uma pessoa sincera e amorosa."
+
+# mes "Would you like me to send you to the convent so that you can learn from this wonderful teacher?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid ""
+"Would you like me to send you to the convent so that you can learn from this "
+"wonderful teacher?"
+msgstr ""
+"Você gostaria que eu o enviasse ao convento para que você possa aprender com "
+"este professor maravilhoso?"
+
+# if(select("Yes, please.", "No thanks.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "Yes, please."
+msgstr "Sim, por favor."
+
+# if(select("Yes, please.", "No thanks.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Praupin"
+msgid "No thanks."
+msgstr "Não, obrigado."
+
+# mes "[Asthe]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "[Asthe]"
+msgstr "[Asthe]"
+
+# mes "Oh my...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Oh my..."
+msgstr "Oh meu..."
+
+# mes "How did such";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "How did such"
+msgstr "Como é que tal"
+
+# mes "a young Acolyte";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "a young Acolyte"
+msgstr "um jovem Acolyte"
+
+# mes "manage to reach";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "manage to reach"
+msgstr "conseguir alcançar"
+
+# mes "this remote place?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "this remote place?"
+msgstr "este lugar remoto?"
+
+# if(select("I came for fun.", "Priest Praupin suggested I come here.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "I came for fun."
+msgstr "Eu vim por diversão."
+
+# if(select("I came for fun.", "Priest Praupin suggested I come here.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Priest Praupin suggested I come here."
+msgstr "O padre Praupin sugeriu que eu viesse aqui."
+
+# mes "This convent is always quiet and peaceful. Sitting on the benches and feeling the almighty presense all around you is such a relaxing, meditative experience.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"This convent is always quiet and peaceful. Sitting on the benches and "
+"feeling the almighty presense all around you is such a relaxing, meditative "
+"experience."
+msgstr ""
+"Este convento é sempre tranquilo e pacífico. Sentar-se nas bancadas e sentir "
+"a presença onipotente ao seu redor é uma experiência tão relaxante e "
+"meditativa."
+
+# mes "Priest Praupin?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Priest Praupin?"
+msgstr "Sacerdote Praupin?"
+
+# mes "He's a very kind man";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "He's a very kind man"
+msgstr "Ele é um homem muito gentil"
+
+# mes "who's always thinking";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "who's always thinking"
+msgstr "que está sempre pensando"
+
+# mes "about others. So he's";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "about others. So he's"
+msgstr "sobre outros. Então, ele é"
+
+# mes "sent you to me for training?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "sent you to me for training?"
+msgstr "enviou-o a mim para treinamento?"
+
+# mes "Before we begin,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Before we begin,"
+msgstr "Antes de começarmos,"
+
+# mes "why don't you rest";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "why don't you rest"
+msgstr "porque você não descansa"
+
+# mes "for a little bit? You must be tired after traveling all the way here. When you're ready, just come";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"for a little bit? You must be tired after traveling all the way here. When "
+"you're ready, just come"
+msgstr ""
+"por um pouquinho? Você deve estar cansado depois de ter percorrido todo o "
+"caminho até aqui. Quando você estiver pronto, basta vir"
+
+# mes "see me, okay?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "see me, okay?"
+msgstr "me ver, está bem?"
+
+# mes "This castle, Saint Capitolina Convent, is a beautiful and peaceful place that brings";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"This castle, Saint Capitolina Convent, is a beautiful and peaceful place "
+"that brings"
+msgstr ""
+"Este castelo, Convento de Santa Capitolina, é um lugar bonito e pacífico que "
+"traz"
+
+# mes "calm to any heart.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "calm to any heart."
+msgstr "calma para qualquer coração."
+
+# mes "Well then...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Well then..."
+msgstr "Bem, então..."
+
+# mes "Shall we begin";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Shall we begin"
+msgstr "Vamos começar"
+
+# mes "the lessons?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "the lessons?"
+msgstr "as lições?"
+
+# mes "have you thought about what kind of Acolyte you would like to become? It's very important that you plan for the future that you want.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"have you thought about what kind of Acolyte you would like to become? It's "
+"very important that you plan for the future that you want."
+msgstr ""
+"você já pensou em que tipo de Acolyte você gostaria de se tornar? É muito "
+"importante que você planeje para o futuro que deseja."
+
+# if(select("One that supports others.", "One that punishes evil.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "One that supports others."
+msgstr "Uma que apóia os outros."
+
+# if(select("One that supports others.", "One that punishes evil.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "One that punishes evil."
+msgstr "Uma que pune o mal."
+
+# mes "Ah, you have such";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Ah, you have such"
+msgstr "Ah, você tem tal"
+
+# mes "a generous heart!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "a generous heart!"
+msgstr "um coração generoso!"
+
+# mes "Healing the pain of others and supporting your comrades in battle. You must have become an Acolyte in order to become a ^3131FFPriest^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Healing the pain of others and supporting your comrades in battle. You must "
+"have become an Acolyte in order to become a ^3131FFPriest^000000."
+msgstr ""
+"Curar a dor dos outros e apoiar seus camaradas na batalha. Você deve ter se "
+"tornado um Acolyte para se tornar um ^3131FFPriest^000000."
+
+# mes "Priests have great supportive abilities and the power to battle evil. They use weapons to battle monsters like other fighters, but are ^3131FFforbidden from using blades^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Priests have great supportive abilities and the power to battle evil. They "
+"use weapons to battle monsters like other fighters, but are ^3131FFforbidden "
+"from using blades^000000."
+msgstr ""
+"Os padres têm grandes habilidades de apoio e o poder de combater o mal. Eles "
+"usam armas para combater monstros como outros lutadores, mas são ^3131FF "
+"proibidos de usar lâminas ^000000."
+
+# mes "We call those who use their fists as tools of divine punishment Monks. They deliver our message";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"We call those who use their fists as tools of divine punishment Monks. They "
+"deliver our message"
+msgstr ""
+"Chamamos aqueles que usam seus punhos como ferramentas de punição divina de "
+"monges. Eles entregam nossa mensagem"
+
+# mes "of love and peace in a more... colorful manner.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "of love and peace in a more... colorful manner."
+msgstr "de amor e paz de uma maneira mais... colorida."
+
+# mes "But the path towards becoming";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "But the path towards becoming"
+msgstr "Mas o caminho para se tornar"
+
+# mes "a Monk will require great patience and self-restraint. You'll often see Monks training their minds";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"a Monk will require great patience and self-restraint. You'll often see "
+"Monks training their minds"
+msgstr ""
+"um monge vai exigir muita paciência e autocontenção. Você verá "
+"frequentemente monges treinando suas mentes"
+
+# mes "and bodies throughout the land.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "and bodies throughout the land."
+msgstr "e corpos em toda a terra."
+
+# mes "Well, you still have a long way to go. The best thing to do would be to take your time planning and consider your future seriously.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Well, you still have a long way to go. The best thing to do would be to take "
+"your time planning and consider your future seriously."
+msgstr ""
+"Bem, você ainda tem um longo caminho a percorrer. A melhor coisa a fazer "
+"seria levar seu tempo planejado e considerar seriamente seu futuro."
+
+# mes "Now,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Now,"
+msgstr "Agora,"
+
+# mes "What do you think";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "What do you think"
+msgstr "O que pensa"
+
+# mes "is the most necessary";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "is the most necessary"
+msgstr "é o mais necessário"
+
+# mes "skill for an Acolyte?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "skill for an Acolyte?"
+msgstr "habilidade para um Acolyte?"
+
+# switch(select("Heal", "Aqua Benedicta", "Teleport")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Heal"
+msgstr "Curar"
+
+# switch(select("Heal", "Aqua Benedicta", "Teleport")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Aqua Benedicta"
+msgstr "Aqua Benedicta"
+
+# switch(select("Heal", "Aqua Benedicta", "Teleport")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Teleport"
+msgstr "Teleporte"
+
+# mes "Ah, yes.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Ah, yes."
+msgstr "Ah, sim."
+
+# mes "^3131FFHeal ^000000 is a basic, yet important skill for people like us. It can recover your own health as";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"^3131FFHeal ^000000 is a basic, yet important skill for people like us. It "
+"can recover your own health as"
+msgstr ""
+"^3131FFHeal ^000000 é uma habilidade básica, mas importante para pessoas "
+"como nós. Ela pode recuperar sua própria saúde como"
+
+# mes "well as that of others.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "well as that of others."
+msgstr "assim como a de outros."
+
+# mes "^3131FFAqua Benedicta^000000 blesses";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "^3131FFAqua Benedicta^000000 blesses"
+msgstr "^3131FFAqua Benedicta^000000 bênçãos"
+
+# mes "normal water and turns it into Holy Water. This is an important skill, but not considered one of the essentials that all Acolytes";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"normal water and turns it into Holy Water. This is an important skill, but "
+"not considered one of the essentials that all Acolytes"
+msgstr ""
+"água normal e a transforma em água benta. Esta é uma habilidade importante, "
+"mas não considerada uma das essências que todos os Acolytes"
+
+# mes "should know.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "should know."
+msgstr "deve saber."
+
+# mes "In my opinion,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "In my opinion,"
+msgstr "Na minha opinião,"
+
+# mes "^3131FFHeal^000000 is the most important";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "^3131FFHeal^000000 is the most important"
+msgstr "^3131FFHeal^000000 é o mais importante"
+
+# mes "skill that an Acolyte can learn. It's a special ability that can save others and defeat the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"skill that an Acolyte can learn. It's a special ability that can save others "
+"and defeat the"
+msgstr ""
+"habilidade que um Acolyte pode aprender. É uma habilidade especial que pode "
+"salvar outros e derrotar o"
+
+# mes "monsters borne of darkness.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "monsters borne of darkness."
+msgstr "monstros carregados de escuridão."
+
+# mes "^3131FFTeleport^000000 allows you to instantly move to another place. It is a great skill, but it's difficult to consider it necessary for all Acolytes.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"^3131FFTeleport^000000 allows you to instantly move to another place. It is "
+"a great skill, but it's difficult to consider it necessary for all Acolytes."
+msgstr ""
+"^3131FFTeleport^000000 permite que você se mude instantaneamente para outro "
+"lugar. É uma grande habilidade, mas é difícil considerá-la necessária para "
+"todos os Acolytes."
+
+# mes "^3131FFHeal^000000 is the most important skill that an Acolyte can learn. It's a special ability that can save others and defeat the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"^3131FFHeal^000000 is the most important skill that an Acolyte can learn. "
+"It's a special ability that can save others and defeat the"
+msgstr ""
+"^3131FFHeal^000000 é a habilidade mais importante que um Acolyte pode "
+"aprender. É uma habilidade especial que pode salvar outros e derrotar o"
+
+# mes "You can use the holy power";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "You can use the holy power"
+msgstr "Você pode usar o poder sagrado"
+
+# mes "in the Heal skill to attack Undead monsters (^3131FFShift + Heal^000000). The light of truth protects the righteous and destroys the wicked.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"in the Heal skill to attack Undead monsters (^3131FFShift + Heal^000000). "
+"The light of truth protects the righteous and destroys the wicked."
+msgstr ""
+"na habilidade de Curar para atacar monstros mortos-vivos (^3131FFShift + "
+"Heal^000000). A luz da verdade protege os justos e destrói os ímpios."
+
+# mes "Just gather the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Just gather the"
+msgstr "Basta reunir o"
+
+# mes "strength within your";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "strength within your"
+msgstr "força dentro de seu"
+
+# mes "heart into your hands...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "heart into your hands..."
+msgstr "coração em suas mãos..."
+
+# mes "HEAL !!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "HEAL !!"
+msgstr "SAUDE !!"
+
+# mes "I would like to give you an assignment, but what do you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "I would like to give you an assignment, but what do you"
+msgstr "Eu gostaria de lhe dar uma tarefa, mas o que você"
+
+# mes "think? I believe learning the basics is your most important";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "think? I believe learning the basics is your most important"
+msgstr "pensar? Acredito que aprender o básico é seu mais importante"
+
+# mes "task for now.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "task for now."
+msgstr "tarefa, por enquanto."
+
+# mes "Well then, learn";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Well then, learn"
+msgstr "Bem, então, aprenda"
+
+# mes "the Heal skill up to";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "the Heal skill up to"
+msgstr "a habilidade de Curar até"
+
+# mes "^3131FFLevel 3 ^000000 and then";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "^3131FFLevel 3 ^000000 and then"
+msgstr "^3131FFLevel 3 ^000000 e depois"
+
+# mes "return to me.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "return to me."
+msgstr "voltar para mim."
+
+# mes "Your strength is undeveloped,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Your strength is undeveloped,"
+msgstr "Sua força não está desenvolvida,"
+
+# mes "so fight weaker monsters for now.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "so fight weaker monsters for now."
+msgstr "por enquanto, combater os monstros mais fracos."
+
+# mes "I will lend you a Mace from the church, so use it well and ^3131FFreturn it^000000 when you're done, alright?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"I will lend you a Mace from the church, so use it well and ^3131FFreturn "
+"it^000000 when you're done, alright?"
+msgstr ""
+"Eu lhe emprestarei um Mace da igreja, então use-o bem e ^3131FFretreturn "
+"it^000000 quando você terminar, certo?"
+
+# mes "First ^0033FFstart fighting monsters around each town such as Prontera^000000. It'd be more convenient to fight the monsters here, but they might be too strong for you right now.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"First ^0033FFstart fighting monsters around each town such as "
+"Prontera^000000. It'd be more convenient to fight the monsters here, but "
+"they might be too strong for you right now."
+msgstr ""
+"Primeiro ^0033FFstart lutando contra monstros em cada cidade como "
+"Prontera^000000. Seria mais conveniente combater os monstros aqui, mas eles "
+"podem ser fortes demais para você agora mesmo."
+
+# mes "I'll change your Save Point so that you will respawn in the convent. Once you've learned Level 3 Heal, you can use a Butterfly Wing to return here.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"I'll change your Save Point so that you will respawn in the convent. Once "
+"you've learned Level 3 Heal, you can use a Butterfly Wing to return here."
+msgstr ""
+"Mudarei seu Save Point para que você volte a pintar no convento. Uma vez que "
+"você tenha aprendido o Nível 3 de Cura, você pode usar uma Asa Borboleta "
+"para voltar aqui."
+
+# mes "You can also speak to ^3131FFPriest Praupin at the Prontera Church^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"You can also speak to ^3131FFPriest Praupin at the Prontera Church^000000"
+msgstr ""
+"Você também pode falar com ^3131FFPriest Praupin na Igreja Prontera ^000000"
+
+# mes "and he will send you back here.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "and he will send you back here."
+msgstr "e ele o enviará de volta para cá."
+
+# mes "He takes special care in helping young Acolytes.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "He takes special care in helping young Acolytes."
+msgstr "Ele tem um cuidado especial em ajudar os jovens Acolytes."
+
+# mes "Well then,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Well then,"
+msgstr "Bem então,"
+
+# mes "I hope you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "I hope you"
+msgstr "Espero que você"
+
+# mes "have a safe trip.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "have a safe trip."
+msgstr "tenha uma viagem segura."
+
+# mes "Oh my!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Oh my!"
+msgstr "Oh meu Deus!"
+
+# mes "You've already";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "You've already"
+msgstr "Você já"
+
+# mes "learned how to";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "learned how to"
+msgstr "aprendeu como"
+
+# mes "properly use the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "properly use the"
+msgstr "usar corretamente o"
+
+# mes "Heal skill. Very good!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Heal skill. Very good!"
+msgstr "Habilidade para curar. Muito bom!"
+
+# mes "I believe you're";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "I believe you're"
+msgstr "Acredito que você é"
+
+# mes "ready for me to discuss";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "ready for me to discuss"
+msgstr "pronto para eu discutir"
+
+# mes "the next subject. Now,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "the next subject. Now,"
+msgstr "o próximo assunto. Agora,"
+
+# mes "let's see... Hmm...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "let's see... Hmm..."
+msgstr "vamos ver... Hmm..."
+
+# mes "Welcome back~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Welcome back~"
+msgstr "Bem-vindo de volta~"
+
+# mes "I see that you've";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "I see that you've"
+msgstr "Vejo que você tem"
+
+# mes "completed the assignment";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "completed the assignment"
+msgstr "completou a tarefa"
+
+# mes "already. Good work!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "already. Good work!"
+msgstr "já. Bom trabalho!"
+
+# mes "Now, I would like to have the Mace back, if you don't mind.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Now, I would like to have the Mace back, if you don't mind."
+msgstr "Agora, eu gostaria de ter o Mace de volta, se você não se importa."
+
+# mes "By any chance, do you carry ^FF0000any other Mace with an elemental Property^000000?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"By any chance, do you carry ^FF0000any other Mace with an elemental "
+"Property^000000?"
+msgstr ""
+"Por acaso, você carrega ^FF0000000000 qualquer outro Mace com uma "
+"propriedade elementar?"
+
+# mes "If so, please store the mace somewhere first.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "If so, please store the mace somewhere first."
+msgstr "Se for o caso, por favor, guarde o maça em algum lugar primeiro."
+
+# mes "I am afraid that my sight is too bad to distinguish the difference...Hoho.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"I am afraid that my sight is too bad to distinguish the difference...Hoho."
+msgstr ""
+"Temo que minha visão seja ruim demais para distinguir a diferença... Hoho."
+
+# mes "Would you like me to take the mace away from your inventory now?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Would you like me to take the mace away from your inventory now?"
+msgstr "Você gostaria que eu tirasse o mace do seu inventário agora?"
+
+# if(select("Sure.", "Let me check again.") == 2) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Sure."
+msgstr "Claro."
+
+# if(select("Sure.", "Let me check again.") == 2) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Let me check again."
+msgstr "Deixe-me verificar novamente."
+
+# mes "Okay, no problem.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Okay, no problem."
+msgstr "Tudo bem, sem problemas."
+
+# mes "Please make sure that you do not carry any ^FF0000Mace with an elemental Property^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Please make sure that you do not carry any ^FF0000Mace with an elemental "
+"Property^000000."
+msgstr ""
+"Por favor, certifique-se de não carregar nenhum ^FF0000Mace com uma "
+"propriedade elementar^000000."
+
+# mes "Thank you so much.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Thank you so much."
+msgstr "Muito Obrigado."
+
+# mes "You have returned the Mace.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "You have returned the Mace."
+msgstr "Você devolveu o Mace."
+
+# mes "completed the assignment.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "completed the assignment."
+msgstr "completou a tarefa."
+
+# mes "But you must have forgotten the Mace I've lent you. Would you bring it back so that I can return it to the church?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"But you must have forgotten the Mace I've lent you. Would you bring it back "
+"so that I can return it to the church?"
+msgstr ""
+"Mas você deve ter esquecido o Mace que lhe emprestei. Você poderia trazê-lo "
+"de volta para que eu possa devolvê-lo à igreja?"
+
+# mes "Are you having";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Are you having"
+msgstr "Você está tendo"
+
+# mes "a hard time training";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "a hard time training"
+msgstr "um treinamento difícil"
+
+# mes "to learn Level 3 Heal?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "to learn Level 3 Heal?"
+msgstr "para aprender o Nível 3 Curar?"
+
+# mes "Please don't be discouraged.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Please don't be discouraged."
+msgstr "Por favor, não se desencoraje."
+
+# mes "The basics are crucial to gaining mastery of the more advanced skills that you'll learn later. Just keep in mind that all of your efforts and suffering will become glory";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"The basics are crucial to gaining mastery of the more advanced skills that "
+"you'll learn later. Just keep in mind that all of your efforts and suffering "
+"will become glory"
+msgstr ""
+"As noções básicas são cruciais para obter o domínio das habilidades mais "
+"avançadas que você aprenderá mais tarde. Basta ter em mente que todos os "
+"seus esforços e sofrimentos se tornarão glória"
+
+# mes "and happiness.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "and happiness."
+msgstr "e felicidade."
+
+# mes "I suppose I can tell you a little more about the Acolyte job. You already know that Novices must train and go to Prontera Church to become an Acolyte, your First Job Class.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"I suppose I can tell you a little more about the Acolyte job. You already "
+"know that Novices must train and go to Prontera Church to become an Acolyte, "
+"your First Job Class."
+msgstr ""
+"Suponho que posso lhe falar um pouco mais sobre o trabalho da Acolyte. Você "
+"já sabe que os noviços devem treinar e ir à Igreja Prontera para se tornar "
+"um Acolyte, sua Primeira Turma de Trabalho."
+
+# mes "After you become an Acolyte";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "After you become an Acolyte"
+msgstr "Depois que você se tornar um Acolyte"
+
+# mes "at ^3131FFJob Level 40^000000, you will have the opportunity to change to a more specialized Second Job Class.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"at ^3131FFJob Level 40^000000, you will have the opportunity to change to a "
+"more specialized Second Job Class."
+msgstr ""
+"no Nível 40 ^3131FFJob, você terá a oportunidade de mudar para uma Classe de "
+"Segundo Emprego mais especializada."
+
+# mes "When changing";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "When changing"
+msgstr "Ao mudar"
+
+# mes "to the Second Jobs,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "to the Second Jobs,"
+msgstr "para os segundos empregos,"
+
+# mes "Acolytes can become ^3131FFPriests^000000,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Acolytes can become ^3131FFPriests^000000,"
+msgstr "Os Acolytes podem tornar-se ^3131FFPriests^000000,"
+
+# mes "the apostles of mercy, or ^3131FFMonks^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "the apostles of mercy, or ^3131FFMonks^000000"
+msgstr "os apóstolos da misericórdia, ou ^3131FFMonks^000000"
+
+# mes "who carry out God's wrath.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "who carry out God's wrath."
+msgstr "que levam a cabo a ira de Deus."
+
+# mes "Priests and Monks can";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Priests and Monks can"
+msgstr "Sacerdotes e Monges podem"
+
+# mes "change to the Transcendent Class";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "change to the Transcendent Class"
+msgstr "mudança para a classe Transcendent"
+
+# mes "by visiting Valkyrie in Valhalla. Priests can become ^3131FFHigh Priests^000000 and Monks can become ^3131FFChampions^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"by visiting Valkyrie in Valhalla. Priests can become ^3131FFHigh "
+"Priests^000000 and Monks can become ^3131FFChampions^000000."
+msgstr ""
+"visitando Valkyrie em Valhalla. Sacerdotes podem tornar-se ^3131FFHigh "
+"Priests^000000 e Monges podem tornar-se ^3131FFChampions^000000."
+
+# mes "Did you undertand all that?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Did you undertand all that?"
+msgstr "Você entendeu tudo isso?"
+
+# mes "Ho ho ho~ No need to try to remember everything right now. You'll get the hang of it.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Ho ho ho~ No need to try to remember everything right now. You'll get the "
+"hang of it."
+msgstr ""
+"Ho ho ho~ Não há necessidade de tentar lembrar tudo agora mesmo. Você vai "
+"pegar o jeito."
+
+# mes "I just received this letter, but it seems to have been a mistake.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "I just received this letter, but it seems to have been a mistake."
+msgstr "Acabo de receber esta carta, mas parece ter sido um erro."
+
+# mes "It's actually addressed";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "It's actually addressed"
+msgstr "Na verdade, é abordado"
+
+# mes "to Priest Gardron.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "to Priest Gardron."
+msgstr "ao Sacerdote Gardron."
+
+# mes "However, I'm a little busy with";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "However, I'm a little busy with"
+msgstr "No entanto, estou um pouco ocupado com"
+
+# mes "my work right now, so would you deliver this to Priest Gardron in the next building for me?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"my work right now, so would you deliver this to Priest Gardron in the next "
+"building for me?"
+msgstr ""
+"meu trabalho agora mesmo, então você entregaria isto ao Padre Gardron no "
+"próximo prédio para mim?"
+
+# mes "Would you please";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Would you please"
+msgstr "Você poderia, por favor, trazer"
+
+# mes "deliver this letter";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "deliver this letter"
+msgstr "entregar esta carta"
+
+# mes "to Priest Gardron for me?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "to Priest Gardron for me?"
+msgstr "para Sacerdote Gardron para mim?"
+
+# mes "You can find him in the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "You can find him in the"
+msgstr "Você pode encontrá-lo no"
+
+# mes "building nearby.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "building nearby."
+msgstr "edifício próximo."
+
+# mes "You went to "+(RENEWAL?"Prontera":"Payon")+" on behalf of the convent for Priest Gardron? That must have been tough...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "You went to "
+msgstr "Você foi para "
+
+# mes "You went to "+(RENEWAL?"Prontera":"Payon")+" on behalf of the convent for Priest Gardron? That must have been tough...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Prontera"
+msgstr "Prontera"
+
+# mes "You went to "+(RENEWAL?"Prontera":"Payon")+" on behalf of the convent for Priest Gardron? That must have been tough...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Payon"
+msgstr "Payon"
+
+# mes "You went to "+(RENEWAL?"Prontera":"Payon")+" on behalf of the convent for Priest Gardron? That must have been tough...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+" on behalf of the convent for Priest Gardron? That must have been tough..."
+msgstr ""
+" em nome do convento para Sacerdote Gardron? Isso deve ter sido difícil..."
+
+# mes "Blessing!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Blessing!"
+msgstr "Bênção!"
+
+# mes "Now I'm going to teach you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Now I'm going to teach you"
+msgstr "Agora eu vou ensinar-lhe"
+
+# mes "about ^FF0000Blessing^000000. This is a holy skill that delivers the blessing of God. Blessing will temporarily raise ^3131FFSTR^000000,^3131FFINT^000000,^3131FFDEX^000000 and remove ^3131FFCurse^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"about ^FF0000Blessing^000000. This is a holy skill that delivers the "
+"blessing of God. Blessing will temporarily raise ^3131FFSTR^000000,"
+"^3131FFINT^000000,^3131FFDEX^000000 and remove ^3131FFCurse^000000."
+msgstr ""
+"sobre ^FF0000Blessing^000000. Esta é uma habilidade sagrada que entrega a "
+"bênção de Deus. A bênção irá elevar temporariamente ^3131FFSTR^000000,"
+"^3131FFINT^000000,^3131FFDEX^000000 e remover ^3131FFCurse^000000."
+
+# mes "Like Heal,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Like Heal,"
+msgstr "Como Curar,"
+
+# mes "Blessing can be used";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Blessing can be used"
+msgstr "A bênção pode ser usada"
+
+# mes "against Undead monsters.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "against Undead monsters."
+msgstr "contra monstros mortos-vivos."
+
+# mes "(^3131FFSHIFT + Blessing^000000)";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "(^3131FFSHIFT + Blessing^000000)"
+msgstr "(^3131FFSHIFT + Blessing^000000)"
+
+# mes "Blessing will actually";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Blessing will actually"
+msgstr "A bênção será de fato"
+
+# mes "place a curse on the Undead.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "place a curse on the Undead."
+msgstr "colocar uma maldição sobre os mortos-vivos."
+
+# mes "Blessing can be learned after you learn Level 5 ^3131FFDivine Protection^000000. That's the skill that will increase your resistance to damage from Undead and Demon monsters.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Blessing can be learned after you learn Level 5 ^3131FFDivine "
+"Protection^000000. That's the skill that will increase your resistance to "
+"damage from Undead and Demon monsters."
+msgstr ""
+"A bênção pode ser aprendida depois de aprender o nível 5 ^3131FFDivine "
+"Protection^000000. Essa é a habilidade que aumentará sua resistência aos "
+"danos causados por monstros não-mortos e demônios."
+
+# mes "Being able to serve God and";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Being able to serve God and"
+msgstr "Ser capaz de servir a Deus e"
+
+# mes "bless others with his glory is a great honor. Well, that's all for this lesson.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"bless others with his glory is a great honor. Well, that's all for this "
+"lesson."
+msgstr ""
+"abençoar os outros com sua glória é uma grande honra. Bem, isso é tudo por "
+"esta lição."
+
+# mes "Oh, yes...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Oh, yes...!"
+msgstr "Ah, sim...!"
+
+# mes "In the cemetary northwest";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "In the cemetary northwest"
+msgstr "No noroeste do cemitério"
+
+# mes "of here, I've been taking care of a lost dog. Right now, it's time to feed him.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"of here, I've been taking care of a lost dog. Right now, it's time to feed "
+"him."
+msgstr ""
+"daqui, tenho tomado conta de um cão perdido. Agora mesmo, é hora de alimentá-"
+"lo."
+
+# mes "Sorry for the hassle,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Sorry for the hassle,"
+msgstr "Desculpe pelo incômodo,"
+
+# mes "but would you go and";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "but would you go and"
+msgstr "mas você iria e"
+
+# mes "feed the dog for me?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "feed the dog for me?"
+msgstr "alimentar o cão para mim?"
+
+# mes "^3355FFSister Asthe gives";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "^3355FFSister Asthe gives"
+msgstr "^3355FFSister Asthe dá"
+
+# mes "you some dog food.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "you some dog food.^000000"
+msgstr "você algum alimento para cães.^000000"
+
+# mes "How to expel";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "How to expel"
+msgstr "Como expulsar"
+
+# mes "an evil spirit?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "an evil spirit?"
+msgstr "um espírito maligno?"
+
+# mes "Why, it's the same";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Why, it's the same"
+msgstr "Ora, é a mesma coisa"
+
+# mes "way that you would";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "way that you would"
+msgstr "maneira que você faria"
+
+# mes "remove a curse...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "remove a curse..."
+msgstr "remover uma maldição..."
+
+# mes "Ah...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Ah..."
+msgstr "Ah..."
+
+# mes "I believe";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "I believe"
+msgstr "Eu acredito que"
+
+# mes "this is a test";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "this is a test"
+msgstr "este é um teste"
+
+# mes "given to you by God.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "given to you by God."
+msgstr "que lhe foi dado por Deus."
+
+# mes "You already";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "You already"
+msgstr "Você já"
+
+# mes "know the answer.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "know the answer."
+msgstr "saiba a resposta."
+
+# mes "Think carefully";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Think carefully"
+msgstr "Pense cuidadosamente"
+
+# mes "and it will come.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "and it will come."
+msgstr "e ele virá."
+
+# mes "You remember that";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "You remember that"
+msgstr "Você se lembra que"
+
+# mes "you can learn Divine";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "you can learn Divine"
+msgstr "você pode aprender Divino"
+
+# mes "Protection after learning";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Protection after learning"
+msgstr "Proteção após a aprendizagem"
+
+# mes "Blessing, right?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Blessing, right?"
+msgstr "Bênção, certo?"
+
+# mes "When you open the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "When you open the"
+msgstr "Quando você abre o"
+
+# mes "Skill Window, you'll see that you can also learn ^3131FFDemon Bane^000000 and ^3131FFAngelus^000000, depending on your level of Divine Protection.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Skill Window, you'll see that you can also learn ^3131FFDemon Bane^000000 "
+"and ^3131FFAngelus^000000, depending on your level of Divine Protection."
+msgstr ""
+"Skill Window, você verá que você também pode aprender ^3131FFDemon "
+"Bane^000000 e ^3131FFAngelus^000000, dependendo do seu nível de Proteção "
+"Divina."
+
+# mes "Now, ^3131FFDemon Bane^000000 increases your Attack Strength against Undead and Demon monsters, so it's useful for those of us who serve God by expelling evil.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Now, ^3131FFDemon Bane^000000 increases your Attack Strength against Undead "
+"and Demon monsters, so it's useful for those of us who serve God by "
+"expelling evil."
+msgstr ""
+"Agora, ^3131FFDemon Bane^000000 aumenta sua força de ataque contra monstros "
+"não-mortos e demônios, por isso é útil para aqueles de nós que servem a "
+"Deus, expulsando o mal."
+
+# mes "Once you have learned Level 3 Demon Bane, you can learn ^3131FFSignum Crucis^000000 which decreases the defense of the targeted Undead or Ghost monster.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Once you have learned Level 3 Demon Bane, you can learn ^3131FFSignum "
+"Crucis^000000 which decreases the defense of the targeted Undead or Ghost "
+"monster."
+msgstr ""
+"Uma vez que você tenha aprendido o Nível 3 Demon Bane, você pode aprender "
+"^3131FFSignum Crucis^000000 o que diminui a defesa do monstro não-morto ou "
+"fantasma alvo."
+
+# mes "^3131FFAngelus^000000 increases the defense in your party, including yourself. It is affected by the VIT stat, so the higher your VIT, the better it works.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"^3131FFAngelus^000000 increases the defense in your party, including "
+"yourself. It is affected by the VIT stat, so the higher your VIT, the better "
+"it works."
+msgstr ""
+"^3131FFAngelus^000000 aumenta a defesa em seu partido, incluindo você mesmo. "
+"Ele é afetado pelo estatuto VIT, portanto, quanto maior o seu VIT, melhor "
+"ele funciona."
+
+# mes "That's about it";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "That's about it"
+msgstr "E é tudo"
+
+# mes "for Divine Protection.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "for Divine Protection."
+msgstr "para a Proteção Divina."
+
+# mes "Let's take a break before";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Let's take a break before"
+msgstr "Vamos fazer uma pausa antes de"
+
+# mes "we proceed to the next lesson,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "we proceed to the next lesson,"
+msgstr "prosseguimos para a próxima lição,"
+
+# mes "alright? I'll be right here.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "alright? I'll be right here."
+msgstr "tudo bem? Eu estarei bem aqui."
+
+# mes "Now it's time";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Now it's time"
+msgstr "Agora é a hora"
+
+# mes "for your next lesson.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "for your next lesson."
+msgstr "para sua próxima lição."
+
+# mes "Let's talk about the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Let's talk about the"
+msgstr "Vamos falar sobre o"
+
+# mes "^3131FFIncrease AGI^000000 skill which is";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "^3131FFIncrease AGI^000000 skill which is"
+msgstr "^3131FFIncrease AGI^000000 habilidade que é"
+
+# mes "part of the Heal skill tree.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "part of the Heal skill tree."
+msgstr "parte da árvore das habilidades de cura."
+
+# mes "You can learn Increase AGI after you learn Level 3 ^3131FFHeal^000000. True to its name, Increase AGI temporarily increases the ^3131FFagility (AGI)^000000 of its target.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"You can learn Increase AGI after you learn Level 3 ^3131FFHeal^000000. True "
+"to its name, Increase AGI temporarily increases the ^3131FFagility "
+"(AGI)^000000 of its target."
+msgstr ""
+"Você pode aprender Aumentar AGI depois de aprender o Nível 3 "
+"^3131FFHeal^000000. Fiel ao seu nome, Aumentar AGI aumenta temporariamente a "
+"^3131FFagility (AGI)^000000 de seu alvo."
+
+# mes "Increase AGI";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Increase AGI"
+msgstr "Aumentar a AGI"
+
+# mes "also increases";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "also increases"
+msgstr "também aumenta"
+
+# mes "^3131FFDodge Rate^000000,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "^3131FFDodge Rate^000000,"
+msgstr "^3131FFDodge Rate^000000,"
+
+# mes "^3131FFAttack Speed^000000,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "^3131FFAttack Speed^000000,"
+msgstr "^3131FFV Velocidade de Ataque^000000,"
+
+# mes "and ^3131FFMovement Speed^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "and ^3131FFMovement Speed^000000."
+msgstr "e ^3131FFMovement Speed^000000."
+
+# mes "Try it for";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Try it for"
+msgstr "Experimente"
+
+# mes "yourself, okay?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "yourself, okay?"
+msgstr "você mesmo, está bem?"
+
+# mes "Once you learn";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Once you learn"
+msgstr "Uma vez que você aprenda"
+
+# mes "Level 1 Increase AGI,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Level 1 Increase AGI,"
+msgstr "Nível 1 Aumente a AGI,"
+
+# mes "you can begin learning";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "you can begin learning"
+msgstr "você pode começar a aprender"
+
+# mes "^3131FFDecrease AGI^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "^3131FFDecrease AGI^000000."
+msgstr "^3131FFDecrease AGI^000000."
+
+# mes "Like you'd expect, Decrease AGI slows down enemies, reducing their agility, Movement Speed, Dodge Rate and Attack Speed. Its effect is the exact reverse of Increase AGI.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Like you'd expect, Decrease AGI slows down enemies, reducing their agility, "
+"Movement Speed, Dodge Rate and Attack Speed. Its effect is the exact reverse "
+"of Increase AGI."
+msgstr ""
+"Como seria de se esperar, Diminuir a AGI retarda os inimigos, reduzindo sua "
+"agilidade, Velocidade de Movimento, Taxa de Dodge e Velocidade de Ataque. "
+"Seu efeito é exatamente o contrário de Aumentar o AGI."
+
+# mes "The last skill in the Heal skill tree is ^3131FFCure^000000. You can learn Cure after learning Level 2 Heal.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"The last skill in the Heal skill tree is ^3131FFCure^000000. You can learn "
+"Cure after learning Level 2 Heal."
+msgstr ""
+"A última habilidade na árvore de habilidades de cura é ^3131FFCure^000000. "
+"Você pode aprender Cura após aprender Cura de Nível 2."
+
+# mes "Cure can remove irregular";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Cure can remove irregular"
+msgstr "A cura pode remover irregularidades"
+
+# mes "statuses like ^3131FFSilence^000000, ^3131FFCurse^000000,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "statuses like ^3131FFSilence^000000, ^3131FFCurse^000000,"
+msgstr "status como ^3131FFSilence^000000, ^3131FFCurse^000000,"
+
+# mes "and ^3131FFStone Curse^000000. When used on Undead monsters, Cure will";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "and ^3131FFStone Curse^000000. When used on Undead monsters, Cure will"
+msgstr ""
+"e ^3131FFStone Curse^000000. Quando usado em monstros mortos-vivos, Cure will"
+
+# mes "actually curse them.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "actually curse them."
+msgstr "na verdade os amaldiçoam."
+
+# mes "For now, don't forget that the Increase AGI, Decrease AGI and";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "For now, don't forget that the Increase AGI, Decrease AGI and"
+msgstr "Por enquanto, não esqueça que o aumento da AGI, a diminuição da AGI e"
+
+# mes "Cure skills can only be learned";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Cure skills can only be learned"
+msgstr "Habilidades de cura só podem ser aprendidas"
+
+# mes "by learning the Heal skill.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "by learning the Heal skill."
+msgstr "aprendendo a habilidade de Curar."
+
+# mes "You've been learning";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "You've been learning"
+msgstr "Você tem aprendido"
+
+# mes "really quickly. I'm glad";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "really quickly. I'm glad"
+msgstr "muito rapidamente. Estou contente por"
+
+# mes "that we've gotten to this";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "that we've gotten to this"
+msgstr "que chegamos a isto"
+
+# mes "point already.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "point already."
+msgstr "ponto já."
+
+# mes "Once you become";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Once you become"
+msgstr "Uma vez que você se torne"
+
+# mes "an Acolyte, you can";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "an Acolyte, you can"
+msgstr "uma Acolyte, você pode"
+
+# mes "learn the ^3131FFRuwach^000000 skill.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "learn the ^3131FFRuwach^000000 skill."
+msgstr "aprender a habilidade ^3131FFRuwach^000000."
+
+# mes "Ruwach is used to detect ^3131FFhidden enemies^000000. Mages have a similar skill called Sight, but only it can only detect enemies. Ruwach will simultaneously detect and";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Ruwach is used to detect ^3131FFhidden enemies^000000. Mages have a similar "
+"skill called Sight, but only it can only detect enemies. Ruwach will "
+"simultaneously detect and"
+msgstr ""
+"Ruwach é usado para detectar ^3131FF inimigos ocultos^000000. Os magos têm "
+"uma habilidade semelhante chamada Sight, mas somente ele pode detectar "
+"inimigos. Ruwach irá simultaneamente detectar e"
+
+# mes "damage hidden enemies.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "damage hidden enemies."
+msgstr "danifica inimigos ocultos."
+
+# mes "After you have learned Ruwach,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "After you have learned Ruwach,"
+msgstr "Depois de ter aprendido Ruwach,"
+
+# mes "you can learn ^3131FFTeleport^000000. Teleport will instantly send you to a random spot on the map or to your Save Point.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"you can learn ^3131FFTeleport^000000. Teleport will instantly send you to a "
+"random spot on the map or to your Save Point."
+msgstr ""
+"você pode aprender ^3131FFTeleport^000000. O Teleporto o enviará "
+"instantaneamente para um ponto aleatório no mapa ou para o seu Ponto de "
+"Salvamento."
+
+# mes "After learning Level 2 Teleport, you can learn ^3131FFWarp Portal^000000 which will allow you to warp to a Memo Point, or saved destination, by consuming ^FF00001 Blue Gemstone^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"After learning Level 2 Teleport, you can learn ^3131FFWarp Portal^000000 "
+"which will allow you to warp to a Memo Point, or saved destination, by "
+"consuming ^FF00001 Blue Gemstone^000000."
+msgstr ""
+"Após aprender o Nível 2 de Teleporte, você pode aprender ^3131FFWarp "
+"Portal^000000 que lhe permitirá empenar para um Ponto de Memo, ou destino "
+"salvo, consumindo ^FF00001 Blue Gemstone^000000."
+
+# mes "Once you have mastered Warp Portal you can ^3131FFremember three Memo Points^000000. You can't save Memo Points in in most fields or dungeons, but you can use the ^FF0000/memo^000000 command in";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Once you have mastered Warp Portal you can ^3131FFremember three Memo "
+"Points^000000. You can't save Memo Points in in most fields or dungeons, but "
+"you can use the ^FF0000/memo^000000 command in"
+msgstr ""
+"Uma vez que você tenha dominado o Portal Warp, você pode ^3131FFrembrar três "
+"Memo Points^000000. Você não pode salvar Pontos de Memo na maioria dos "
+"campos ou masmorras, mas você pode usar o comando ^FF0000/memo^000000 em"
+
+# mes "towns and certain fields.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "towns and certain fields."
+msgstr "cidades e certos campos."
+
+# mes "Was that confusing?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Was that confusing?"
+msgstr "Isso foi confuso?"
+
+# mes "Just think that Teleport";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Just think that Teleport"
+msgstr "Basta pensar que o Teleporto"
+
+# mes "and Warp Portal allow servants";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "and Warp Portal allow servants"
+msgstr "e o Portal Warp permitem aos servidores"
+
+# mes "of God to move swiftly from place";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "of God to move swiftly from place"
+msgstr "de Deus para se mover rapidamente do lugar"
+
+# mes "to place.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "to place."
+msgstr "para colocar."
+
+# mes "I have my home and the convent saved as Memo Points, so I simply warp back and forth between work and home.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"I have my home and the convent saved as Memo Points, so I simply warp back "
+"and forth between work and home."
+msgstr ""
+"Tenho minha casa e o convento guardados como Memo Points, então eu "
+"simplesmente empurro para frente e para trás entre o trabalho e a casa."
+
+# mes "Now...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Now..."
+msgstr "Agora..."
+
+# mes "The last skill";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "The last skill"
+msgstr "A última habilidade"
+
+# mes "of the Ruwach tree";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "of the Ruwach tree"
+msgstr "da árvore Ruwach"
+
+# mes "is called ^3131FFPneuma^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "is called ^3131FFPneuma^000000."
+msgstr "é chamado ^3131FFPneuma^000000."
+
+# mes "Pneuma shields characters";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Pneuma shields characters"
+msgstr "Pneumáticos de proteção de caracteres"
+
+# mes "within a 3*3 block, or a 9 cell area, from ^FF0000long range attacks^000000. If you party with Archers or other Bow users, be careful since you might accidentally block their attacks.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"within a 3*3 block, or a 9 cell area, from ^FF0000long range attacks^000000. "
+"If you party with Archers or other Bow users, be careful since you might "
+"accidentally block their attacks."
+msgstr ""
+"dentro de um bloco de 3*3, ou uma área de 9 células, de ataques de "
+"^FF0000long range ^000000. Se você se diverte com arqueiros ou outros "
+"usuários do Arco, tenha cuidado, pois pode bloquear acidentalmente seus "
+"ataques."
+
+# mes "There are some Undead monsters";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "There are some Undead monsters"
+msgstr "Existem alguns monstros mortos-vivos"
+
+# mes "that can attack from a distance, so protecting yourself with Pneuma and attacking with Heal would be a good strategy.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"that can attack from a distance, so protecting yourself with Pneuma and "
+"attacking with Heal would be a good strategy."
+msgstr ""
+"que pode atacar à distância, portanto, proteger-se com Pneuma e atacar com "
+"Heal seria uma boa estratégia."
+
+# mes "Now, we've covered some";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Now, we've covered some"
+msgstr "Agora, nós cobrimos alguns"
+
+# mes "pretty complicated material in this lesson. Would you like to hear this again?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"pretty complicated material in this lesson. Would you like to hear this "
+"again?"
+msgstr ""
+"material bastante complicado nesta lição. Você gostaria de ouvir isto "
+"novamente?"
+
+# if(select("Listen again.", "Move to the next topic.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Listen again."
+msgstr "Ouça novamente."
+
+# if(select("Listen again.", "Move to the next topic.")==1){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Move to the next topic."
+msgstr "Passe para o próximo tópico."
+
+# mes "Alright,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Alright,"
+msgstr "Muito bem,"
+
+# mes "give me a moment";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "give me a moment"
+msgstr "me dê um momento"
+
+# mes "to catch my breath~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "to catch my breath~"
+msgstr "para recuperar o fôlego~"
+
+# mes "Ho ho!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Ho ho!"
+msgstr "Ho ho!"
+
+# mes "What a smart Acolyte~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "What a smart Acolyte~"
+msgstr "Que Acolyte inteligente~"
+
+# mes "Oh dear...!";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "Oh dear...!"
+msgstr "Oh querido...!"
+
+# mes "All of these things were delivered to me by accident! And some of these packages were supposed to";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"All of these things were delivered to me by accident! And some of these "
+"packages were supposed to"
+msgstr ""
+"Todas essas coisas foram-me entregues por acidente! E alguns desses pacotes "
+"deveriam"
+
+# mes "be sent to the Prontera Sanctuary!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "be sent to the Prontera Sanctuary!"
+msgstr "ser enviado para o Santuário Prontera!"
+
+# mes "Would you do another favor for me again? Please distribute the mail here and to Prontera Church since";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Would you do another favor for me again? Please distribute the mail here and "
+"to Prontera Church since"
+msgstr ""
+"Você faria outro favor para mim novamente? Por favor, distribua o correio "
+"aqui e para a Igreja Prontera desde"
+
+# mes "I simply don't have the time.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "I simply don't have the time."
+msgstr "Eu simplesmente não tenho tempo."
+
+# mes "It seems that some of these are more urgent than others, so would you please deliver them in a certain order?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"It seems that some of these are more urgent than others, so would you please "
+"deliver them in a certain order?"
+msgstr ""
+"Parece que alguns deles são mais urgentes do que outros, então você gostaria "
+"de entregá-los em uma determinada ordem?"
+
+# mes "The first is a package to a worker in the north. His name is ^3131FFVeiner^000000. The next delivery is for ^3131FFHedrick^000000, who's near the convent entrance.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"The first is a package to a worker in the north. His name is "
+"^3131FFVeiner^000000. The next delivery is for ^3131FFHedrick^000000, who's "
+"near the convent entrance."
+msgstr ""
+"O primeiro é um pacote para um trabalhador do norte. Seu nome é "
+"^3131FFVeiner^000000. A próxima entrega é para ^3131FFHedrick^000000, que "
+"está perto da entrada do convento."
+
+# mes "The third one is from the Blacksmith Guild to the ^3131FFBlacksmith^000000 who makes weapons and armor for Monks. The fourth delivery goes to ^3131FFPriest Karven^000000 in the next building.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"The third one is from the Blacksmith Guild to the ^3131FFBlacksmith^000000 "
+"who makes weapons and armor for Monks. The fourth delivery goes to "
+"^3131FFPriest Karven^000000 in the next building."
+msgstr ""
+"O terceiro é do Grémio dos Ferreiros ao ^3131FF Ferreiro ^000000 que fabrica "
+"armas e armaduras para monges. A quarta entrega vai para o ^3131FFPriest "
+"Karven^000000 no próximo prédio."
+
+# mes "Oh, and this last delivery is a receipt for ^3131FFPriest Praupin^000000, the priest who told you about me.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Oh, and this last delivery is a receipt for ^3131FFPriest Praupin^000000, "
+"the priest who told you about me."
+msgstr ""
+"Oh, e esta última entrega é um recibo para ^3131FFPriest Praupin^000000, o "
+"padre que lhe falou de mim."
+
+# mes "Here you go, the letters and packages...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Here you go, the letters and packages..."
+msgstr "Aqui estão, as cartas e os pacotes..."
+
+# mes "Oh...!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Oh...!"
+msgstr "Oh uaaaal!"
+
+# mes "You don't seem to";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "You don't seem to"
+msgstr "Você não parece"
+
+# mes "have enough space";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "have enough space"
+msgstr "ter espaço suficiente"
+
+# mes "to carry everything.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "to carry everything."
+msgstr "para carregar tudo."
+
+# mes "Why don't you put some of your things in Kafra Storage first?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Why don't you put some of your things in Kafra Storage first?"
+msgstr ""
+"Por que você não coloca algumas de suas coisas em Kafra Storage em primeiro "
+"lugar?"
+
+# mes "Okay, don't";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Okay, don't"
+msgstr "Certo, não"
+
+# mes "forget the order";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "forget the order"
+msgstr "esquecer a ordem"
+
+# mes "in which you need";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "in which you need"
+msgstr "na qual você precisa"
+
+# mes "to deliver the letters";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "to deliver the letters"
+msgstr "para entregar as cartas"
+
+# mes "and packages. That's";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "and packages. That's"
+msgstr "e embalagens. Isso é"
+
+# mes "very important.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "very important."
+msgstr "muito importante."
+
+# mes "Oh, and this last delivery is a receipt for ^3131FFPriest Praupin^000000, the priest who told you about me. Alright, have a safe trip~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Oh, and this last delivery is a receipt for ^3131FFPriest Praupin^000000, "
+"the priest who told you about me. Alright, have a safe trip~"
+msgstr ""
+"Oh, e esta última entrega é um recibo para ^3131FFPriest Praupin^000000, o "
+"padre que lhe falou de mim. Muito bem, tenha uma viagem segura~"
+
+# mes "Ah, you're finishing";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Ah, you're finishing"
+msgstr "Ah, você está terminando"
+
+# mes "making all of those deliveries? Thank you very much! How was it meeting Priest Praupin after such";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid ""
+"making all of those deliveries? Thank you very much! How was it meeting "
+"Priest Praupin after such"
+msgstr ""
+"fazendo todas essas entregas? Muito obrigado! Como foi o encontro com o "
+"Padre Praupin depois de"
+
+# mes "a long time?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "a long time?"
+msgstr "muito tempo?"
+
+# mes "We make relationships with other people throughout our lives and our memories of them live on in our hearts, you know.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"We make relationships with other people throughout our lives and our "
+"memories of them live on in our hearts, you know."
+msgstr ""
+"Fazemos relacionamentos com outras pessoas ao longo de nossas vidas e nossas "
+"lembranças delas vivem em nossos corações, você sabe."
+
+# mes "When you feel lonely, let those memories shine through your dark gloom. Just thinking about the people you care about can heal your emotional wounds when times are rough.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"When you feel lonely, let those memories shine through your dark gloom. Just "
+"thinking about the people you care about can heal your emotional wounds when "
+"times are rough."
+msgstr ""
+"Quando você se sentir só, deixe essas lembranças brilharem através de sua "
+"escuridão. Só de pensar nas pessoas de quem você gosta pode curar suas "
+"feridas emocionais quando os tempos são difíceis."
+
+# mes "Those who can cherish the present can form lasting relationships. They're the first who will embrace happiness in the future. Remember that.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Those who can cherish the present can form lasting relationships. They're "
+"the first who will embrace happiness in the future. Remember that."
+msgstr ""
+"Aqueles que podem valorizar o presente podem formar relacionamentos "
+"duradouros. Eles são os primeiros que abraçarão a felicidade no futuro. "
+"Lembre-se disso."
+
+# mes "I get the feeling that you have become a good friend to Priest Praupin. I hope that Priest Praupin continues to be a good friend to you as well.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"I get the feeling that you have become a good friend to Priest Praupin. I "
+"hope that Priest Praupin continues to be a good friend to you as well."
+msgstr ""
+"Tenho a sensação de que você se tornou um bom amigo do padre Praupin. Espero "
+"que o Padre Praupin continue a ser um bom amigo para você também."
+
+# mes "Alright then,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Alright then,"
+msgstr "Muito bem, então,"
+
+# mes "the next time we";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "the next time we"
+msgstr "na próxima vez que nós"
+
+# mes "meet, I will give";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "meet, I will give"
+msgstr "encontro, eu vou dar"
+
+# mes "you my final lesson.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "you my final lesson."
+msgstr "você minha última lição."
+
+# mes "I will teach you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "I will teach you"
+msgstr "Eu lhe ensinarei"
+
+# mes "about is ^3131FFAqua Benedicta^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "about is ^3131FFAqua Benedicta^000000."
+msgstr "sobre é ^3131FFAqua Benedicta^000000."
+
+# mes "Water is so commonplace that";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Water is so commonplace that"
+msgstr "A água é tão comum que"
+
+# mes "we forget that it's at the center of nature. It's very basic, but essential.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"we forget that it's at the center of nature. It's very basic, but essential."
+msgstr ""
+"esquecemos que está no centro da natureza. É muito básico, mas essencial."
+
+# mes "Place the water into a cup like so and focus all of your holy energy like this... And then...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Place the water into a cup like so and focus all of your holy energy like "
+"this... And then..."
+msgstr ""
+"Coloque a água em um copo assim e concentre toda sua energia sagrada "
+"assim... E depois..."
+
+# mes "Aqua";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Aqua"
+msgstr "Aqua"
+
+# mes "Benedicta!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Benedicta!"
+msgstr "Benedicta!"
+
+# mes "This is how you create ^3131FFHoly Water^000000. Remember that your ^3131FFfeet must be touching water^000000 in order to use the Aqua Benedicta skill.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"This is how you create ^3131FFHoly Water^000000. Remember that your "
+"^3131FFfeet must be touching water^000000 in order to use the Aqua Benedicta "
+"skill."
+msgstr ""
+"Assim você cria ^3131FFHoly Water^000000. Lembre-se que seus ^3131FFPés "
+"devem estar tocando água^000000 para poder usar a habilidade Aqua Benedicta."
+
+# mes "Ho ho~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Ho ho~"
+msgstr "Ho ho~"
+
+# mes "Well, that's all";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "Well, that's all"
+msgstr "Bem, isso é tudo"
+
+# mes "I have to teach you.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "I have to teach you."
+msgstr "Eu tenho que ensiná-los."
+
+# mes "It may have been rough,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "It may have been rough,"
+msgstr "Pode ter sido difícil,"
+
+# mes "but you did a good job.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "but you did a good job."
+msgstr "mas você fez um bom trabalho."
+
+# mes "Oh! If you go back to the Prontera Sanctuary, I believe you can learn a secret skill. It couldn't hurt to stop by and check.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"Oh! If you go back to the Prontera Sanctuary, I believe you can learn a "
+"secret skill. It couldn't hurt to stop by and check."
+msgstr ""
+"Oh! se você voltar para o Santuário Prontera, acredito que você pode "
+"aprender uma habilidade secreta. Não custa nada passar por aqui e verificar."
+
+# mes "Well, please don't forget what I've taught you. I hope you look back with fondness at our time together amongst these beautiful flowers. May God bless you~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid ""
+"Well, please don't forget what I've taught you. I hope you look back with "
+"fondness at our time together amongst these beautiful flowers. May God bless "
+"you~"
+msgstr ""
+"Bem, por favor, não se esqueça do que lhe ensinei. Espero que vocês olhem "
+"para trás com carinho para o nosso tempo juntos, entre estas lindas flores. "
+"Que Deus os abençoe~"
+
+# mes "If you get into an";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Asthe#tu"
+msgid "If you get into an"
+msgstr "Se você entrar em um"
+
+# mes "argument with someone,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "argument with someone,"
+msgstr "discussão com alguém,"
+
+# mes "talk it over while sharing";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "talk it over while sharing"
+msgstr "falar sobre isso enquanto compartilha"
+
+# mes "a nice, warm meal.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "a nice, warm meal."
+msgstr "uma refeição agradável e quente."
+
+# mes "With such warm delicious food in your body, all angry feelings will melt away like the snow.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"With such warm delicious food in your body, all angry feelings will melt "
+"away like the snow."
+msgstr ""
+"Com uma comida tão quente e deliciosa em seu corpo, todos os sentimentos de "
+"raiva se derreterão como a neve."
+
+# mes "I'm not joking!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid "I'm not joking!"
+msgstr "Eu não estou brincando!"
+
+# mes "If you happen to get in a fight with someone close to you, this might help. I'm speaking from life experience, you know.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Asthe#tu"
+msgid ""
+"If you happen to get in a fight with someone close to you, this might help. "
+"I'm speaking from life experience, you know."
+msgstr ""
+"Se por acaso você entrar em uma briga com alguém próximo a você, isto pode "
+"ajudar. Eu estou falando por experiência de vida."
+
+# mes "[Priest Gardron]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "[Priest Gardron]"
+msgstr "[Sacerdote Gardron]"
+
+# mes "Hmm...?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Hmm...?"
+msgstr "Hmm...?"
+
+# mes "What's that?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "What's that?"
+msgstr "O que é isso?"
+
+# mes "You have something for me?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "You have something for me?"
+msgstr "Você tem algo para mim?"
+
+# mes "Oh! This is a letter from my mother back home. Thank you for bringing this to me, young Acolyte.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid ""
+"Oh! This is a letter from my mother back home. Thank you for bringing this "
+"to me, young Acolyte."
+msgstr ""
+"Oh! Esta é uma carta de minha mãe lá em casa. Obrigado por trazer isto até "
+"mim, jovem Acolyte."
+
+# mes "I've worried about";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "I've worried about"
+msgstr "Eu tenho me preocupado com"
+
+# mes "her, especially since";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "her, especially since"
+msgstr "ela, especialmente porque"
+
+# mes "she is getting old now, but I'm relieved to hear that her health";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "she is getting old now, but I'm relieved to hear that her health"
+msgstr ""
+"ela está ficando velha agora, mas estou aliviada ao saber que sua saúde"
+
+# mes "is good. We are truly blessed...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "is good. We are truly blessed..."
+msgstr "é bom. Somos verdadeiramente abençoados..."
+
+# mes "You have something for";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "You have something for"
+msgstr "Você tem algo para"
+
+# mes "me? A letter you say?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "me? A letter you say?"
+msgstr "eu? Uma carta que você diz?"
+
+# mes "Well, it seems that";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Well, it seems that"
+msgstr "Bem, parece que"
+
+# mes "you must have forgotten";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "you must have forgotten"
+msgstr "você deve ter esquecido"
+
+# mes "it or misplaced it somewhere.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "it or misplaced it somewhere."
+msgstr "ou o colocou em algum lugar errado."
+
+# mes "Oh...!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Oh...!"
+msgstr "Oh uaaaal!"
+
+# mes "You've returned!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "You've returned!"
+msgstr "Você voltou!"
+
+# mes "Let's see... One...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Let's see... One..."
+msgstr "Vamos ver... Um..."
+
+# mes "Two... Three...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Two... Three..."
+msgstr "Dois... Três..."
+
+# mes "Thank you very much!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Thank you very much!"
+msgstr "Muito obrigado!"
+
+# mes "You've done a great job";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "You've done a great job"
+msgstr "Você fez um ótimo trabalho"
+
+# mes "on behalf of the convent,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "on behalf of the convent,"
+msgstr "em nome do convento,"
+
+# mes "not to mention the fact that";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "not to mention the fact that"
+msgstr "para não mencionar o fato de que"
+
+# mes "you've protected the citizens";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "you've protected the citizens"
+msgstr "você tem protegido os cidadãos"
+
+# mes "of "+(RENEWAL?"Prontera":"Payon")+" from danger.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "of "
+msgstr "de "
+
+# mes "of "+(RENEWAL?"Prontera":"Payon")+" from danger.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Prontera"
+msgstr "Prontera where this guy"
+
+# mes "of "+(RENEWAL?"Prontera":"Payon")+" from danger.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Payon"
+msgstr "Payon"
+
+# mes "of "+(RENEWAL?"Prontera":"Payon")+" from danger.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid " from danger."
+msgstr " do perigo."
+
+# mes "May you always";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "May you always"
+msgstr "Que você sempre"
+
+# mes "be blessed. Now, you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "be blessed. Now, you"
+msgstr "ser abençoado. Agora, você"
+
+# mes "should return to Sister";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "should return to Sister"
+msgstr "deve retornar à Irmã"
+
+# mes "Asthe to continue your";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Asthe to continue your"
+msgstr "Asthe para continuar seu"
+
+# mes "Acolyte training.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Acolyte training."
+msgstr "Treinamento de Acolyte."
+
+# mes "A few days ago, a sister in Prontera";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "A few days ago, a sister in Prontera"
+msgstr "Alguns dias atrás, uma irmã em Prontera"
+
+# mes "sent me a telegram that citizens had been harmed";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "sent me a telegram that citizens had been harmed"
+msgstr ""
+"me enviou um telegrama dizendo que os cidadãos haviam sido prejudicados"
+
+# mes "by Hornets in the western field,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "by Hornets in the western field,"
+msgstr "por Hornets no campo ocidental,"
+
+# mes "so she asked the abbey to help with them.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "so she asked the abbey to help with them."
+msgstr "então ela pediu à abadia para ajudar com eles."
+
+# mes "But at this time,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "But at this time,"
+msgstr "Mas neste momento,"
+
+# mes "we are also short of hands...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "we are also short of hands..."
+msgstr "também estamos com falta de mãos..."
+
+# mes "so it's a big problem.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "so it's a big problem."
+msgstr "portanto, é um grande problema."
+
+# mes "....!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "....!"
+msgstr "....!"
+
+# mes "May I entrust you, acolyte "+strcharinfo(PC_NAME)+",";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "May I entrust you, acolyte "
+msgstr "Posso confiar a você, noviço "
+
+# mes "this urgent matter?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "this urgent matter?"
+msgstr "este assunto urgente?"
+
+# mes "Please dispose of Hornets";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Please dispose of Hornets"
+msgstr "Favor dispor de vespões"
+
+# mes "which are causing trouble on ^FF0000the western field of Prontera^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid ""
+"which are causing trouble on ^FF0000the western field of Prontera^000000."
+msgstr "que estão causando problemas no campo ocidental de Prontera ^FF000000."
+
+# mes "I know that you are undergoing the discipline,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "I know that you are undergoing the discipline,"
+msgstr "Eu sei que você está passando pela disciplina,"
+
+# mes "So I will give you something to help you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "So I will give you something to help you"
+msgstr "Então eu lhe darei algo para lhe ajudar"
+
+# mes "if you bring me ^3131FF 5^000000 ^3131FFBee Sting^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "if you bring me ^3131FF 5^000000 ^3131FFBee Sting^000000."
+msgstr "se você me trouxer ^3131FF 5^000000 ^3131FFBee Sting^000000."
+
+# mes "Will you go to Prontera?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Will you go to Prontera?"
+msgstr "Você irá para Prontera?"
+
+# if(select("Let's go to Prontera!", "I'll be back after doing some preparation.") == 1) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Let's go to Prontera!"
+msgstr "Vamos para Prontera!"
+
+# if(select("Let's go to Prontera!", "I'll be back after doing some preparation.") == 1) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "I'll be back after doing some preparation."
+msgstr "Voltarei depois de fazer alguns preparativos."
+
+# mes "Okay, I will send you to Prontera.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Okay, I will send you to Prontera."
+msgstr "Está bem, eu o enviarei para Prontera."
+
+# mes "Please dispose of Hornets and bring me 5 Bee Stings for confirmation.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Please dispose of Hornets and bring me 5 Bee Stings for confirmation."
+msgstr "Por favor, descarte Hornets e traga-me 5 Bee Stings para confirmação."
+
+# mes "My Lord, please protect this acolyte from evil monsters.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "My Lord, please protect this acolyte from evil monsters."
+msgstr "Meu Senhor, por favor, proteja este acólito dos monstros malignos."
+
+# mes "A little while ago, the Payon Elder sent me a message. Apparently,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "A little while ago, the Payon Elder sent me a message. Apparently,"
+msgstr "Há pouco tempo, o Ancião Payon me enviou uma mensagem. Aparentemente,"
+
+# mes "the residents of Payon are being attacked by Zombies.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "the residents of Payon are being attacked by Zombies."
+msgstr "os residentes de Payon estão sendo atacados por zumbis."
+
+# mes "He has requested the convent for help, but we've got a big problem. We're running out of people here that can deal with this situation...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid ""
+"He has requested the convent for help, but we've got a big problem. We're "
+"running out of people here that can deal with this situation..."
+msgstr ""
+"Ele pediu ajuda ao convento, mas nós temos um grande problema. Estamos "
+"ficando sem gente aqui que possa lidar com esta situação."
+
+# mes "may I ask";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "may I ask"
+msgstr "posso perguntar"
+
+# mes "you to take care";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "you to take care"
+msgstr "você para tomar conta"
+
+# mes "of this task? Exterminate the Skeletons and Zombies in the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "of this task? Exterminate the Skeletons and Zombies in the"
+msgstr "desta tarefa? Exterminar os Esqueletos e Zumbis no"
+
+# mes "First Floor of Payon Dungeon.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "First Floor of Payon Dungeon."
+msgstr "Primeiro andar do calabouço Payon."
+
+# mes "Since you're still in basic training, I will give you some";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Since you're still in basic training, I will give you some"
+msgstr "Já que você ainda está em treinamento básico, eu lhe darei alguns"
+
+# mes "help if you return with";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "help if you return with"
+msgstr "ajuda se você retornar com"
+
+# mes "^3131FF5 Decayed Nails^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "^3131FF5 Decayed Nails^000000."
+msgstr "^3131FF5 Pregos Decadentes^000000."
+
+# mes "Now then...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Priest Gardron#tu"
+msgid "Now then..."
+msgstr "Agora, então..."
+
+# mes "Will you go to Payon?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Will you go to Payon?"
+msgstr "Você irá para Payon?"
+
+# if(select("Let's go to Payon!", "Um, let me get ready first.")==1) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Let's go to Payon!"
+msgstr "Vamos para Payon!"
+
+# if(select("Let's go to Payon!", "Um, let me get ready first.")==1) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Um, let me get ready first."
+msgstr "Um, deixe-me me preparar primeiro."
+
+# mes "Good, good.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "Good, good."
+msgstr "Bom, bom."
+
+# mes "I shall send you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "I shall send you"
+msgstr "Eu lhe enviarei"
+
+# mes "there to fight the monsters in Payon Dungeon so that you can return with 5 Decayed Nails. May God bless you...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid ""
+"there to fight the monsters in Payon Dungeon so that you can return with 5 "
+"Decayed Nails. May God bless you..."
+msgstr ""
+"para lutar contra os monstros em Payon Dungeon, para que você possa voltar "
+"com 5 pregos decadentes. Que Deus o abençoe..."
+
+# mes "May light always";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "May light always"
+msgstr "Que a luz sempre"
+
+# mes "come and illuminate";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "come and illuminate"
+msgstr "venha e ilumine"
+
+# mes "the darkness. In times";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "the darkness. In times"
+msgstr "a escuridão. Em tempos"
+
+# mes "of hardship, remind us";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "of hardship, remind us"
+msgstr "de dificuldades, lembre-nos"
+
+# mes "that there are no miracles";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "that there are no miracles"
+msgstr "que não há milagres"
+
+# mes "without hope...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Priest Gardron#tu"
+msgid "without hope..."
+msgstr "sem esperança..."
+
+# mes "[Dog]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "[Dog]"
+msgstr "[Cão]"
+
+# mes "^CDB79EBark bark!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "^CDB79EBark bark!"
+msgstr "^CDB79EBark casca de árvore!"
+
+# mes "Woof woof!^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "Woof woof!^000000"
+msgstr "Woof woof!^000000"
+
+# switch(select("Give a treat.", "Pet the dog.", "End actions.")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "Give a treat."
+msgstr "Dê um presente."
+
+# switch(select("Give a treat.", "Pet the dog.", "End actions.")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "Pet the dog."
+msgstr "Estimule o cão."
+
+# switch(select("Give a treat.", "Pet the dog.", "End actions.")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "End actions."
+msgstr "Fim das ações."
+
+# mes "^CDB79EGrrrrrr...!^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "^CDB79EGrrrrrr...!^000000"
+msgstr "^CDB79EGrrrrrr...!^000000"
+
+# mes "^3355FFThe dog grinds";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "^3355FFThe dog grinds"
+msgstr "^3355FFO cão mói"
+
+# mes "its teeth and glares";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "its teeth and glares"
+msgstr "seus dentes e clarões"
+
+# mes "at you menacingly.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "at you menacingly.^000000"
+msgstr "a você ameaçadoramente.^000000"
+
+# mes "^CDB79ERoof roof!^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "^CDB79ERoof roof!^000000"
+msgstr "^CDB79ERoof roof!^000000"
+
+# mes "^CDB79ERoof roof~^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "^CDB79ERoof roof~^000000"
+msgstr "^CDB79ERoof roof~^000000"
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "["
+msgstr "["
+
+# mes "So cute~!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Dog#tu"
+msgid "So cute~!"
+msgstr "Que gracinha!"
+
+# mes "[??]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Boy#boy_voi"
+msgid "[??]"
+msgstr "[??]"
+
+# mes "^333333*Sniff*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Boy#boy_voi"
+msgid "^333333*Sniff*^000000"
+msgstr "^333333*Sniff*^000000"
+
+# mes "Sister...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Boy#boy_voi"
+msgid "Sister..."
+msgstr "Irmã..."
+
+# mes "[Angelic]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "[Angelic]"
+msgstr "[Angélico]"
+
+# mes "Thanks for helping me.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Thanks for helping me."
+msgstr "Obrigado por me ajudar."
+
+# mes "I'm sad my older sister is no longer with me, but I oughta";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "I'm sad my older sister is no longer with me, but I oughta"
+msgstr ""
+"Estou triste por minha irmã mais velha não estar mais comigo, mas eu deveria"
+
+# mes "cheer up, right? I'll try my best!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "cheer up, right? I'll try my best!"
+msgstr "anime-se, certo? Vou tentar o meu melhor!"
+
+# mes "Sister, don't go...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Sister, don't go..."
+msgstr "Irmã, não vá..."
+
+# mes "^333333*Sniff* *Cough cough!*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^333333*Sniff* *Cough cough!*^000000"
+msgstr "^333333*Sniff* *Tosse tosse!*^000000"
+
+# mes "It h-hurts so... much...!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "It h-hurts so... much...!"
+msgstr "Isso dói tanto... muito...!"
+
+# mes "Sis...ter...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Sis...ter..."
+msgstr "Mana...ter...."
+
+# mes "^333333*Sniff...*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^333333*Sniff...*^000000"
+msgstr "^333333*Sniff...*^000000"
+
+# mes "Are you from";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Are you from"
+msgstr "Você é de"
+
+# mes "the convent?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "the convent?"
+msgstr "o convento?"
+
+# mes "...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "..."
+msgstr "..."
+
+# mes "......";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "......"
+msgstr "......"
+
+# mes "Save...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Save..."
+msgstr "Salvar..."
+
+# mes "My sister...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "My sister..."
+msgstr "Minha irmã..."
+
+# mes "^333333*Sniff sniff*";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^333333*Sniff sniff*"
+msgstr "^333333*Sniff sniff*"
+
+# mes "^333333*Cough cough*";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^333333*Cough cough*"
+msgstr "^333333*Tosse*"
+
+# mes "H-hurts...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "H-hurts..."
+msgstr "Dói..."
+
+# select("Are you alright?");
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Are you alright?"
+msgstr "Você está bem?"
+
+# mes "She was so beautiful...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "She was so beautiful..."
+msgstr "Ela era tão bonita..."
+
+# mes "She was such a nice girl.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "She was such a nice girl."
+msgstr "Ela era uma garota tão simpática."
+
+# mes "But then, one day...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "But then, one day..."
+msgstr "Mas então, um dia..."
+
+# mes "This disgusting looking";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "This disgusting looking"
+msgstr "Este aspecto nojento"
+
+# mes "person was coated in this icky stuff and attacked her. She was poisoned and her body became";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid ""
+"person was coated in this icky stuff and attacked her. She was poisoned and "
+"her body became"
+msgstr ""
+"pessoa foi revestida com este material nojento e a atacou. Ela foi "
+"envenenada e seu corpo se tornou"
+
+# mes "colder and... ^333333*Sniff*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "colder and... ^333333*Sniff*^000000"
+msgstr "mais frio e... ^333333*Sniff*^000000"
+
+# mes "I was with her and I got sick too. I wasn't poisoned as badly, but";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "I was with her and I got sick too. I wasn't poisoned as badly, but"
+msgstr ""
+"Eu estava com ela e fiquei doente também. Eu não fui tão envenenado, mas"
+
+# mes "my whole body feels heavy and I've been having these nightmares...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "my whole body feels heavy and I've been having these nightmares..."
+msgstr "meu corpo inteiro se sente pesado e eu tenho tido esses pesadelos."
+
+# mes "^333333*Cough cough!*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^333333*Cough cough!*^000000"
+msgstr "^333333*Tosse!*^000000"
+
+# mes "Will I join my";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Will I join my"
+msgstr "Juntar-me-ei ao meu"
+
+# mes "sister like this?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "sister like this?"
+msgstr "irmã como esta?"
+
+# mes "^3355FFThis girl looks";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^3355FFThis girl looks"
+msgstr "^3355FF Esta garota parece"
+
+# mes "really sick. Maybe you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "really sick. Maybe you"
+msgstr "realmente doente. Talvez você"
+
+# mes "should take a better look";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "should take a better look"
+msgstr "deve dar uma melhor olhada"
+
+# mes "and see what's wrong.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "and see what's wrong.^000000"
+msgstr "e veja o que está errado.^000000"
+
+# mes "["+strcharinfo(PC_NAME)+"]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "["
+msgstr "["
+
+# mes "................";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "................"
+msgstr "................"
+
+# mes "This is....!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "This is....!"
+msgstr "Esta é....!"
+
+# mes "A cursed spirit";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "A cursed spirit"
+msgstr "Um espírito amaldiçoado"
+
+# mes "is tormenting this";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "is tormenting this"
+msgstr "está atormentando este"
+
+# mes "poor young girl!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "poor young girl!"
+msgstr "pobre garota!"
+
+# mes "I'll cure you...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "I'll cure you..."
+msgstr "Eu vou curá-lo..."
+
+# mes "For sure.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "For sure."
+msgstr "Claro..."
+
+# mes "It hurts...!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "It hurts...!"
+msgstr "Isso dói...!"
+
+# mes "I... I can't...!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "I... I can't...!"
+msgstr "Eu... Eu não posso ir para a cadeia!"
+
+# mes "^3355FFYou go towards";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^3355FFYou go towards"
+msgstr "^3355FFVocê vai em direção a"
+
+# mes "the girl, place your hands";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "the girl, place your hands"
+msgstr "a menina, coloque suas mãos"
+
+# mes "on her back and perform";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "on her back and perform"
+msgstr "nas costas dela e realizar"
+
+# mes "a holy spell...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "a holy spell...^000000"
+msgstr "um feitiço sagrado...^000000"
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Heal!"
+msgstr "Cura!"
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Blessing!"
+msgstr "Bênção!"
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Cure!"
+msgstr "Cure!"
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Recovery!"
+msgstr "Recuperação!"
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Signum Crucis!"
+msgstr "Signum Crucis!"
+
+# switch(select("Heal!", "Blessing!", "Cure!", "Recovery!", "Signum Crucis!", "B.S Sacramenti!")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "B.S Sacramenti!"
+msgstr "B.S Sacramenti!"
+
+# mes "H...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "H..."
+msgstr "H..."
+
+# mes "Heal !!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Heal !!"
+msgstr "Cura!!"
+
+# mes "^3355FFNothing happened.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^3355FFNothing happened."
+msgstr "^3355FFNada aconteceu nada."
+
+# mes "It doesn't look like";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "It doesn't look like"
+msgstr "Nem parece"
+
+# mes "that skill will work.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "that skill will work.^000000"
+msgstr "essa habilidade vai funcionar.^000000"
+
+# mes "B...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "B..."
+msgstr "B..."
+
+# mes "I...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "I..."
+msgstr "Eu..."
+
+# mes "I did it!!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "I did it!!"
+msgstr "Consegui!!"
+
+# mes "^3355FFWhat a great";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^3355FFWhat a great"
+msgstr "^3355FFQue grande"
+
+# mes "chance for you to";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "chance for you to"
+msgstr "oportunidade para você"
+
+# mes "practice your abilities!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "practice your abilities!"
+msgstr "pratique suas habilidades!"
+
+# mes "It seemed that this good";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "It seemed that this good"
+msgstr "Parecia que este bom"
+
+# mes "deed has improved your skills.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "deed has improved your skills.^000000"
+msgstr "a escritura melhorou suas habilidades.^000000"
+
+# mes "Huh...?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Huh...?"
+msgstr "Huh...?"
+
+# mes "It's not working...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "It's not working..."
+msgstr "Não está funcionando..."
+
+# mes "Maybe it's because";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Maybe it's because"
+msgstr "Talvez seja porque"
+
+# mes "I'm still learning?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "I'm still learning?"
+msgstr "Eu ainda estou aprendendo?"
+
+# mes "^3355FFYou didn't learn";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^3355FFYou didn't learn"
+msgstr "^3355FFVocê não aprendeu"
+
+# mes "this skill yet, so you're";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "this skill yet, so you're"
+msgstr "esta habilidade ainda, então você está"
+
+# mes "not able to use it for now.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "not able to use it for now.^000000"
+msgstr "não pode usá-lo por enquanto.^000000"
+
+# mes "C-Cure...!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "C-Cure...!"
+msgstr "C-Cura...!"
+
+# mes "^3355FFThis isn't a skill";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "^3355FFThis isn't a skill"
+msgstr "^3355FF Esta não é uma habilidade"
+
+# mes "that Acolytes can use...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "that Acolytes can use...^000000"
+msgstr "que os Acolytes podem usar...^000000"
+
+# mes "S-Signum...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "S-Signum..."
+msgstr "S-Signum..."
+
+# mes "Ah...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Ah..."
+msgstr "Ah..."
+
+# mes "I feel...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "I feel..."
+msgstr "Eu sinto..."
+
+# mes "So relaxed.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "So relaxed."
+msgstr "Tão relaxado."
+
+# mes "So much lighter...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "So much lighter..."
+msgstr "Tão mais leve..."
+
+# mes "Did you";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "Did you"
+msgstr "Você"
+
+# mes "do this?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Ill Girl#tu"
+msgid "do this?"
+msgstr "fazer isto?"
+
+# mes "Is this the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "Is this the"
+msgstr "É este o"
+
+# mes "power of God?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Ill Girl#tu"
+msgid "power of God?"
+msgstr "poder de Deus?"
+
+# mes "[Veiner]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "[Veiner]"
+msgstr "[Veiner]"
+
+# mes "So very exhausted...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "So very exhausted..."
+msgstr "Tão exausto..."
+
+# mes "Should I just go back home?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "Should I just go back home?"
+msgstr "Devo simplesmente voltar para casa?"
+
+# mes "What's that?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Veiner"
+msgid "What's that?"
+msgstr "O que é isso?"
+
+# mes "You have a delivery";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "You have a delivery"
+msgstr "Você tem uma entrega"
+
+# mes "for me? Why, what";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "for me? Why, what"
+msgstr "para mim? Por que, o que"
+
+# mes "ever could it be?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "ever could it be?"
+msgstr "alguma vez poderia ser?"
+
+# mes "This is...!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "This is...!"
+msgstr "Isto é...!"
+
+# mes "It's Handmade Chocolate";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "It's Handmade Chocolate"
+msgstr "É chocolate feito a mão"
+
+# mes "from my honey bunny!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "from my honey bunny!"
+msgstr "do meu coelhinho de mel!"
+
+# mes "Oh Bibi! You're the best!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "Oh Bibi! You're the best!"
+msgstr "Oh Bibi! Você é o melhor!"
+
+# mes "Oh right!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "Oh right!"
+msgstr "Oh, certo!"
+
+# mes "Thank you very much for delivering this to me. Sorry, but I'm always excited to hear from my cutie pie~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid ""
+"Thank you very much for delivering this to me. Sorry, but I'm always excited "
+"to hear from my cutie pie~"
+msgstr ""
+"Muito obrigado por me entregar isto. Desculpe, mas estou sempre entusiasmado "
+"em ouvir da minha torta fofa~"
+
+# mes "I can't wait";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "I can't wait"
+msgstr "Mal posso esperar"
+
+# mes "to see her again!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "to see her again!"
+msgstr "para vê-la novamente!"
+
+# mes "Bibi...! I loooove you!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "Bibi...! I loooove you!"
+msgstr "Bibi...! Eu te adoro!"
+
+# mes "So very";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "So very"
+msgstr "Portanto, muito"
+
+# mes "exhausted...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "exhausted..."
+msgstr "exausto..."
+
+# mes "Would you help";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "Would you help"
+msgstr "Você poderia ajudar"
+
+# mes "me carry my stuff?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "me carry my stuff?"
+msgstr "eu carrego minhas coisas?"
+
+# mes "P-please...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Veiner"
+msgid "P-please..."
+msgstr "P-por favor..."
+
+# mes "[Hedrick]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "[Hedrick]"
+msgstr "[Hedrick]"
+
+# mes "^333333*Whew!*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "^333333*Whew!*^000000"
+msgstr "^333333*Whew!*^000000"
+
+# mes "Man I worked hard today!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "Man I worked hard today!"
+msgstr "Homem, eu trabalhei muito hoje!"
+
+# mes "And so efficiently too!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "And so efficiently too!"
+msgstr "E tão eficientemente também!"
+
+# mes "Awesome job as usual,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "Awesome job as usual,"
+msgstr "Um trabalho fantástico, como sempre,"
+
+# mes "Hedrick. You're number one!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "Hedrick. You're number one!"
+msgstr "Hedrick. Você é o número um!"
+
+# mes "Oh...?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "Oh...?"
+msgstr "Oh...?"
+
+# mes "Is this letter for me?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "Is this letter for me?"
+msgstr "Esta carta é para mim?"
+
+# mes "I wonder who it's from.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "I wonder who it's from."
+msgstr "Pergunto-me de quem será."
+
+# mes "Ah, it's from my mom!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "Ah, it's from my mom!"
+msgstr "Ah, é da minha mãe!"
+
+# mes "Whoa...!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "Whoa...!"
+msgstr "Whoa...!"
+
+# mes "Holy cow!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "Holy cow!"
+msgstr "Caramba!"
+
+# mes "This letter is";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "This letter is"
+msgstr "Esta carta é"
+
+# mes "full of the energy";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "full of the energy"
+msgstr "cheio de energia"
+
+# mes "of motherly love!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "of motherly love!"
+msgstr "do amor materno!"
+
+# mes "Thanks a lot!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "Thanks a lot!"
+msgstr "Muito obrigado!"
+
+# mes "Here, why don't";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "Here, why don't"
+msgstr "Aqui, por que não"
+
+# mes "you have one of the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "you have one of the"
+msgstr "você tem um dos"
+
+# mes "cookies she sent me?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Hedrick"
+msgid "cookies she sent me?"
+msgstr "biscoitos que ela me enviou?"
+
+# mes "[Weapon Merchant]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Weapon Merchant#tu"
+msgid "[Weapon Merchant]"
+msgstr "[Comerciante de Armas]"
+
+# mes "The stuff I requested from the guild is finally here!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Weapon Merchant#tu"
+msgid "The stuff I requested from the guild is finally here!"
+msgstr "As coisas que eu pedi à guilda finalmente chegaram!"
+
+# mes "It's pretty tough to keep everything in stock since this is such a remote place.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Weapon Merchant#tu"
+msgid ""
+"It's pretty tough to keep everything in stock since this is such a remote "
+"place."
+msgstr ""
+"É muito difícil manter tudo em estoque, já que este é um lugar tão remoto."
+
+# mes "Hey, thanks so much!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Weapon Merchant#tu"
+msgid "Hey, thanks so much!"
+msgstr "Muito obrigado!"
+
+# mes "Oh, and come here if";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Weapon Merchant#tu"
+msgid "Oh, and come here if"
+msgstr "Oh, e venha aqui se"
+
+# mes "you need anything, okay?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Weapon Merchant#tu"
+msgid "you need anything, okay?"
+msgstr "você precisa de qualquer coisa, está bem?"
+
+# mes "[Karven]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "[Karven]"
+msgstr "[Karven]"
+
+# mes "May you rest";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "May you rest"
+msgstr "Que você descanse"
+
+# mes "in peace forever...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "in peace forever..."
+msgstr "em paz para sempre..."
+
+# mes "I'm saying prayers";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "I'm saying prayers"
+msgstr "Estou rezando"
+
+# mes "for the recently departed.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "for the recently departed."
+msgstr "para os recém falecidos."
+
+# mes "If it's not urgent, please";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "If it's not urgent, please"
+msgstr "Se não for urgente, por favor"
+
+# mes "come again at another time.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "come again at another time."
+msgstr "voltar em outro momento."
+
+# mes "A letter?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "A letter?"
+msgstr "Uma carta?"
+
+# mes "Oh. It must be from";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "Oh. It must be from"
+msgstr "Oh. Deve ser de"
+
+# mes "my younger sister.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "my younger sister."
+msgstr "minha irmã mais nova."
+
+# mes "What could she want";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "What could she want"
+msgstr "O que ela poderia querer"
+
+# mes "this time?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Karven"
+msgid "this time?"
+msgstr "desta vez?"
+
+# mes "I hope she realizes";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "I hope she realizes"
+msgstr "Espero que ela perceba"
+
+# mes "the word of God and returns";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "the word of God and returns"
+msgstr "a palavra de Deus e retorna"
+
+# mes "to living a good life once";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "to living a good life once"
+msgstr "a viver uma boa vida uma vez"
+
+# mes "again. Thank you very much.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "again. Thank you very much."
+msgstr "novamente. Muito obrigado."
+
+# mes "rest in peace...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Karven"
+msgid "rest in peace..."
+msgstr "descansar em paz..."
+
+# mes "[Gloria]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "[Gloria]"
+msgstr "[Glória]"
+
+# mes "Hi, hi~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Hi, hi~"
+msgstr "Oi, oi~"
+
+# mes "I'm Gloria.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "I'm Gloria."
+msgstr "Eu sou Gloria."
+
+# mes "You wanna know";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "You wanna know"
+msgstr "Você quer saber"
+
+# mes "something neat";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "something neat"
+msgstr "algo arrumado"
+
+# mes "about my name?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "about my name?"
+msgstr "sobre meu nome?"
+
+# mes "My father was a Blacksmith in Geffen, and supposedly he finished an incredible weapon on the day";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid ""
+"My father was a Blacksmith in Geffen, and supposedly he finished an "
+"incredible weapon on the day"
+msgstr ""
+"Meu pai era ferreiro em Geffen, e supostamente ele terminou uma arma "
+"incrível no dia"
+
+# mes "I was born. He thought it was a sign of good luck, so he named";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "I was born. He thought it was a sign of good luck, so he named"
+msgstr "Eu nasci. Ele pensou que era um sinal de boa sorte, então ele nomeou"
+
+# mes "the weapon after me!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "the weapon after me!"
+msgstr "a arma depois de mim!"
+
+# mes "It's a little strange knowing that there's a weapon named after";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "It's a little strange knowing that there's a weapon named after"
+msgstr "É um pouco estranho saber que há uma arma com o nome"
+
+# mes "you, but I like my name very much. I mean, it's not like my parents named me after that weapon, right?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid ""
+"you, but I like my name very much. I mean, it's not like my parents named me "
+"after that weapon, right?"
+msgstr ""
+"você, mas eu gosto muito do meu nome. Quero dizer, não é que meus pais me "
+"deram o nome dessa arma, certo?"
+
+# mes "I'm still";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "I'm still"
+msgstr "Eu ainda estou"
+
+# mes "a young Acolyte";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "a young Acolyte"
+msgstr "um jovem Acolyte"
+
+# mes "in training and I'm";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "in training and I'm"
+msgstr "em treinamento e eu estou"
+
+# mes "always making mistakes!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "always making mistakes!"
+msgstr "sempre cometendo erros!"
+
+# mes "^333333*Sniff*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "^333333*Sniff*^000000"
+msgstr "^333333*Sniff*^000000"
+
+# mes "And I get scolded";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "And I get scolded"
+msgstr "E eu sou repreendido"
+
+# mes "almost all the time...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "almost all the time..."
+msgstr "quase o tempo todo..."
+
+# mes "But there's one thing";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "But there's one thing"
+msgstr "Mas há uma coisa"
+
+# mes "that I can do really well!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "that I can do really well!"
+msgstr "que eu posso fazer muito bem!"
+
+# mes "Warp portal!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Warp portal!"
+msgstr "Portal de urdidura!"
+
+# mes "I know Level 2 Warp Portal!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "I know Level 2 Warp Portal!"
+msgstr "Eu conheço o Portal Warp Nível 2!"
+
+# mes "One of my Memo Points is here";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "One of my Memo Points is here"
+msgstr "Um dos meus pontos de memorando está aqui"
+
+# mes "and the other is in Prontera.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "and the other is in Prontera."
+msgstr "e a outra está em Prontera."
+
+# mes "Anyway, whenever";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Anyway, whenever"
+msgstr "De qualquer forma, sempre que"
+
+# mes "you need to, I can";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "you need to, I can"
+msgstr "você precisa, eu posso"
+
+# mes "send you to Prontera.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "send you to Prontera."
+msgstr "enviá-lo para Prontera."
+
+# mes "Just let me know, okay?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Just let me know, okay?"
+msgstr "Apenas me avise, ok?"
+
+# switch(select("I'm okay for now.", "Send me to Prontera.")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "I'm okay for now."
+msgstr "Estou bem, por enquanto."
+
+# switch(select("I'm okay for now.", "Send me to Prontera.")){
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Send me to Prontera."
+msgstr "Envie-me à Prontera."
+
+# mes "In order to use";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "In order to use"
+msgstr "A fim de usar"
+
+# mes "Warp Portal, you need";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Warp Portal, you need"
+msgstr "Portal Warp, você precisa"
+
+# mes "one ^3131FFBlue Gemstone^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "one ^3131FFBlue Gemstone^000000."
+msgstr "um ^3131FFBlue Gemstone^000000."
+
+# mes "Is this to help me?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Is this to help me?"
+msgstr "Isto é para me ajudar?"
+
+# mes "Wow, I'm touched!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Wow, I'm touched!"
+msgstr "Uau, estou comovido!"
+
+# mes "Leave it to me!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Leave it to me!"
+msgstr "Deixe isso comigo!"
+
+# mes "Here we go~!!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Here we go~!!"
+msgstr "Aqui vamos nós~!!"
+
+# mes "W-warp Portal!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "W-warp Portal!"
+msgstr "Portal W-warp!"
+
+# mes "Wow...";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Gloria#tu"
+msgid "Wow..."
+msgstr "Uau..."
+
+# mes "Did you learn all that from Asthe? That's so great...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Did you learn all that from Asthe? That's so great..."
+msgstr "Você aprendeu tudo isso com a Asthe? Isso é tão bom..."
+
+# mes "You must be so much better than me that I can't even brag about warping to";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid ""
+"You must be so much better than me that I can't even brag about warping to"
+msgstr "Você deve ser tão melhor do que eu que eu não posso nem me gabar de"
+
+# mes "Prontera anymore. ^333333*Sniff*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Gloria#tu"
+msgid "Prontera anymore. ^333333*Sniff*^000000"
+msgstr "Prontera não mais. ^333333*Sniff*^000000"
+
+# mes "[Cleope Verce]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "[Cleope Verce]"
+msgstr "[Cleope Verce]"
+
+# mes "Oh my.. ";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Oh my.. "
+msgstr "Oh meu Deus.. "
+
+# mes "A newbie Acolyte?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "A newbie Acolyte?"
+msgstr "Um Noviço novato?"
+
+# mes "It doesn't even seem";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "It doesn't even seem"
+msgstr "Não parece nem mesmo"
+
+# mes "like you've learned";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "like you've learned"
+msgstr "como se você tivesse aprendido"
+
+# mes "that many skills?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "that many skills?"
+msgstr "que muitas habilidades?"
+
+# mes "Ho ho~!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Ho ho~!"
+msgstr "Ho ho~!"
+
+# mes "In my days";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "In my days"
+msgstr "Em meus dias"
+
+# mes "as an Acolyte,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "as an Acolyte,"
+msgstr "como um Acolyte,"
+
+# mes "I trained by attacking";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I trained by attacking"
+msgstr "Eu treinei atacando"
+
+# mes "^3131FFgreen frogs^000000 till my knuckles";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "^3131FFgreen frogs^000000 till my knuckles"
+msgstr "^3131FFgreen sapos ^000000 até meus nós dos dedos"
+
+# mes "bled from all the punching!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "bled from all the punching!"
+msgstr "sangraram de todos os socos!"
+
+# mes "I beat up ^3131FFwooden sticks";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I beat up ^3131FFwooden sticks"
+msgstr "Eu bati ^3131FFwooden sticks"
+
+# mes "about to collapse^000000 and these";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "about to collapse^000000 and these"
+msgstr "prestes a colapsar^000000 e estes"
+
+# mes "^3131FFhuge mushrooms^000000 all the time!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "^3131FFhuge mushrooms^000000 all the time!"
+msgstr "^3131FFhuge cogumelos ^000000 o tempo todo!"
+
+# mes "I trained by fighting those ^3131FFdisgusting cockroaches^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I trained by fighting those ^3131FFdisgusting cockroaches^000000."
+msgstr ""
+"Eu treinei combatendo aquelas baratas ^3131FFdisgusting cockroaches^000000."
+
+# mes "Ugh...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Ugh..."
+msgstr "Ugh..."
+
+# mes "Actually, that's not such a good memory when I think about it.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Actually, that's not such a good memory when I think about it."
+msgstr "Na verdade, essa não é uma memória tão boa quando penso nisso."
+
+# mes "I trained by fighting ^3131FFZombies^000000 in the dungeon of that town with all of those trees.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid ""
+"I trained by fighting ^3131FFZombies^000000 in the dungeon of that town with "
+"all of those trees."
+msgstr ""
+"Eu treinei combatendo ^3131FFZombies^000000 nas masmorras daquela cidade com "
+"todas aquelas árvores."
+
+# mes "You'll have to go through a lot until you reach the point where I'm at right now. Ho ho ho! You still have a looong way to go~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid ""
+"You'll have to go through a lot until you reach the point where I'm at right "
+"now. Ho ho ho! You still have a looong way to go~"
+msgstr ""
+"Você terá que passar por muita coisa até chegar ao ponto em que eu estou "
+"agora. Ho ho ho ho! Você ainda tem um longo caminho a percorrer~"
+
+# mes "Good luck...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Good luck..."
+msgstr "Boa sorte..."
+
+# mes "Rookie.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Rookie."
+msgstr "Novato."
+
+# mes "A young Acolyte?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "A young Acolyte?"
+msgstr "Um jovem Acolyte?"
+
+# mes "You seem to have just";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "You seem to have just"
+msgstr "Você parece ter apenas"
+
+# mes "started learning your skills?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "started learning your skills?"
+msgstr "começou a aprender suas habilidades?"
+
+# mes "When I was";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "When I was"
+msgstr "Quando eu era"
+
+# mes "around your age,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "around your age,"
+msgstr "por volta de sua idade,"
+
+# mes "I'd fight with those ^3131FFwhite";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I'd fight with those ^3131FFwhite"
+msgstr "Eu lutaria com aqueles ^3131FFwhite"
+
+# mes "mice^000000 and ^3131FFbig roaches^000000~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "mice^000000 and ^3131FFbig roaches^000000~"
+msgstr "ratos^000000 e ^3131FFbig baratas^000000~"
+
+# mes "I'd walk straight into the";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I'd walk straight into the"
+msgstr "Eu entraria diretamente no"
+
+# mes "^3131FFdepths of the ocean^000000 to find monsters to hunt.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "^3131FFdepths of the ocean^000000 to find monsters to hunt."
+msgstr ""
+"^3131FFprofundidades do oceano^000000 para encontrar monstros para caçar."
+
+# mes "I used to fight ^3131FFcreepy";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I used to fight ^3131FFcreepy"
+msgstr "Eu costumava lutar ^3131FFcreepy"
+
+# mes "looking tree monsters^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "looking tree monsters^000000."
+msgstr "monstros de árvores de aspecto^000000."
+
+# mes "I used to fight hundreds";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I used to fight hundreds"
+msgstr "Eu costumava lutar contra centenas"
+
+# mes "of ^3131FFuuuuuug~ly orcs^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "of ^3131FFuuuuuug~ly orcs^000000."
+msgstr "de ^3131FFuuuuuuuug~ly orcs^000000."
+
+# mes "I would fight the ^3131FFmonkeys";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I would fight the ^3131FFmonkeys"
+msgstr "Eu lutaria contra os ^3131FFmonkeys"
+
+# mes "in front of the convent^000000.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "in front of the convent^000000."
+msgstr "em frente ao convento ^000000."
+
+# mes "Those were";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Those were"
+msgstr "Esses foram"
+
+# mes "bad memories.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "bad memories."
+msgstr "más recordações."
+
+# mes "If someone told me";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "If someone told me"
+msgstr "Se alguém me dissesse"
+
+# mes "to go there again,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "to go there again,"
+msgstr "para ir lá novamente,"
+
+# mes "I'd go insane.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I'd go insane."
+msgstr "Eu ficaria louco."
+
+# mes "Still, it seems you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Still, it seems you"
+msgstr "Ainda assim, parece que você"
+
+# mes "have a long way to go";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "have a long way to go"
+msgstr "têm um longo caminho a percorrer"
+
+# mes "until you become a well";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "until you become a well"
+msgstr "até que você se torne um poço"
+
+# mes "experienced Acolyte. Ho ho~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "experienced Acolyte. Ho ho~"
+msgstr "acolyte experiente. Ho ho~"
+
+# mes "Good luck,";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Good luck,"
+msgstr "Boa sorte,"
+
+# mes "young friend.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "young friend."
+msgstr "jovem amigo."
+
+# mes "Well, well, well~";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Well, well, well~"
+msgstr "Ora, ora, ora, ora~"
+
+# mes "Hello, young Acolyte.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Hello, young Acolyte."
+msgstr "Olá, jovem Acolyte."
+
+# mes "You're still kind of";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "You're still kind of"
+msgstr "Você ainda é uma espécie de"
+
+# mes "green, but I guess you're";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "green, but I guess you're"
+msgstr "verde, mas acho que você está"
+
+# mes "not exactly a beginner either.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "not exactly a beginner either."
+msgstr "também não é exatamente um iniciante."
+
+# mes "I remember that when";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I remember that when"
+msgstr "Eu me lembro que quando"
+
+# mes "I was your age, I used to";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "I was your age, I used to"
+msgstr "Eu tinha sua idade, eu costumava"
+
+# mes "fight these ^3131FFfearsome evil spirits^000000 all the time in that castle ^3131FFwest of Geffen^000000. I wonder how I survived";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid ""
+"fight these ^3131FFfearsome evil spirits^000000 all the time in that castle "
+"^3131FFwest of Geffen^000000. I wonder how I survived"
+msgstr ""
+"combater estes ^3131FF temíveis espíritos malignos ^000000 o tempo todo "
+"naquele castelo ^3131FF a oeste de Geffen^000000. Eu me pergunto como eu "
+"sobrevivi"
+
+# mes "all that?";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "all that?"
+msgstr "tudo isso?"
+
+# mes "play with these ^3131FFcute";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "play with these ^3131FFcute"
+msgstr "brincar com estes ^3131FFcute"
+
+# mes "Poporings^000000 all the time!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Poporings^000000 all the time!"
+msgstr "Poporings^000000 o tempo todo!"
+
+# mes "Still, I had to be careful from their attacks. At that time they were pretty strong!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid ""
+"Still, I had to be careful from their attacks. At that time they were pretty "
+"strong!"
+msgstr ""
+"Mesmo assim, eu tinha que ter cuidado com os ataques deles. Naquela época, "
+"eles eram bastante fortes!"
+
+# mes "fight with ^3131FFgun shooting ghosts!^000000 Sure, they were scary, but beating them was a piece of cake if you have Pneuma!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid ""
+"fight with ^3131FFgun shooting ghosts!^000000 Sure, they were scary, but "
+"beating them was a piece of cake if you have Pneuma!"
+msgstr ""
+"lute com ^3131FFgun atirando em fantasmas! ^000000 Claro, eles eram "
+"assustadores, mas espancá-los era canja, se você tiver Pneuma!"
+
+# mes "beat up those ^3131FFarrow shooting devils^000000 almost everyday in the castle west of Geffen. Boy, was there a lot of them back then.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid ""
+"beat up those ^3131FFarrow shooting devils^000000 almost everyday in the "
+"castle west of Geffen. Boy, was there a lot of them back then."
+msgstr ""
+"espancar aqueles ^3131FFarrow atirando em demônios ^000000 quase todos os "
+"dias no castelo a oeste de Geffen. Caramba, havia muitos deles na época."
+
+# mes "battle these really ^3131FFfat pigs^000000. They were pretty strong, so they always gave me a hard time.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid ""
+"battle these really ^3131FFfat pigs^000000. They were pretty strong, so they "
+"always gave me a hard time."
+msgstr ""
+"batalhar contra estes verdadeiros ^3131FF porcos gordos^000000. Eles eram "
+"muito fortes, por isso sempre me deram trabalho."
+
+# mes "beat up these ^3131FFliving chunks of";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "beat up these ^3131FFliving chunks of"
+msgstr "bater estes pedaços de ^3131FFliving"
+
+# mes "sand in the desert^000000. I swear, they were alive!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "sand in the desert^000000. I swear, they were alive!"
+msgstr "areia no deserto ^000000. Eu juro, eles estavam vivos!"
+
+# mes "^333333*Sigh*^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "^333333*Sigh*^000000"
+msgstr "^33333333*Sigh*000000"
+
+# mes "Ah, memories~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Ah, memories~"
+msgstr "Ah, lembranças~"
+
+# mes "Of course, if I had";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Of course, if I had"
+msgstr "É claro, se eu tivesse"
+
+# mes "the chance to do it all";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "the chance to do it all"
+msgstr "a chance de fazer tudo isso"
+
+# mes "over again, I don't know";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "over again, I don't know"
+msgstr "novamente, eu não sei"
+
+# mes "if I would take it...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "if I would take it..."
+msgstr "se eu aceitasse..."
+
+# mes "Anyway, you have";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Anyway, you have"
+msgstr "De qualquer forma, você tem"
+
+# mes "plenty of adventures";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "plenty of adventures"
+msgstr "muitas aventuras"
+
+# mes "waiting for you. I hope";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "waiting for you. I hope"
+msgstr "esperando por você. Espero"
+
+# mes "you'll make many fond";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "you'll make many fond"
+msgstr "você fará muitos aficionados"
+
+# mes "memories when you're";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "memories when you're"
+msgstr "memórias quando você está"
+
+# mes "still an Acolyte.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "still an Acolyte."
+msgstr "ainda um Acolyte."
+
+# mes "young friend~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "young friend~"
+msgstr "jovem amigo~"
+
+# mes "Hmmm?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "Hmmm?"
+msgstr "Hmmm?"
+
+# mes "It looks like you've";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "It looks like you've"
+msgstr "Parece que você tem"
+
+# mes "learned quite a lot as";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "learned quite a lot as"
+msgstr "aprendeu muito como"
+
+# mes "an Acolyte! I hate to admit it,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "an Acolyte! I hate to admit it,"
+msgstr "um Acolyte! Odeio admitir isso,"
+
+# mes "but you're too good for me to";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "but you're too good for me to"
+msgstr "mas você é bom demais para mim para"
+
+# mes "call you a rookie anymore~";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "call you a rookie anymore~"
+msgstr "chamá-lo mais de novato~"
+
+# mes "Hello hello.";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Cleope Verce"
+msgid "Hello hello."
+msgstr "Olá, olá."
+
+# mes "The sun is very";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "The sun is very"
+msgstr "O sol é muito"
+
+# mes "warm today, don't";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "warm today, don't"
+msgstr "quente hoje, não"
+
+# mes "think? Very pleasant";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "think? Very pleasant"
+msgstr "pensar? Muito agradável"
+
+# mes "weather today...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Cleope Verce"
+msgid "weather today..."
+msgstr "o tempo hoje..."
+
+# mes "[Sound by Window]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "#tu_monk"
+msgid "[Sound by Window]"
+msgstr "[Som por Janela]"
+
+# mes "...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "#tu_monk"
+msgid "..."
+msgstr "..."
+
+# mes "^3355FFThere's some kind";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "#tu_monk"
+msgid "^3355FFThere's some kind"
+msgstr "^3355FFHá algum tipo"
+
+# mes "of noise coming from";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "#tu_monk"
+msgid "of noise coming from"
+msgstr "de ruídos provenientes de"
+
+# mes "yonder window...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "#tu_monk"
+msgid "yonder window...^000000"
+msgstr "naquela janela...^000000"
+
+# mes "^3355FFThere's nothing here.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^3355FFThere's nothing here.^000000"
+msgstr "^3355FFNão há nada aqui.^000000"
+
+# mes "[Voices from Window]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "[Voices from Window]"
+msgstr "[Vozes da Janela]"
+
+# mes "^A68064Sir...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064Sir..."
+msgstr "^A68064Sir..."
+
+# mes "Something doesn't";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Something doesn't"
+msgstr "Algo não"
+
+# mes "seem right at the palace.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "seem right at the palace.^000000"
+msgstr "parecem estar bem no palácio.^000000"
+
+# mes "^CD6600What's wrong?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600What's wrong?"
+msgstr "^CD6600 O que está errado?"
+
+# mes "Did something happen?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Did something happen?^000000"
+msgstr "Aconteceu alguma coisa?^000000"
+
+# mes "^A68064I'm not sure.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064I'm not sure."
+msgstr "^A68064I não tenho certeza."
+
+# mes "I can't explain exactly what it is, but the officials seem frightened about something. Maybe there";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"I can't explain exactly what it is, but the officials seem frightened about "
+"something. Maybe there"
+msgstr ""
+"Não posso explicar exatamente o que é, mas os funcionários parecem "
+"assustados com alguma coisa. Talvez lá"
+
+# mes "was some sort of accident?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "was some sort of accident?^000000"
+msgstr "foi algum tipo de acidente?^000000"
+
+# mes "^CD6600Hmm, I wouldn't know.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Hmm, I wouldn't know."
+msgstr "^CD6600Hmm, eu não saberia."
+
+# mes "Why don't we just wait and see";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Why don't we just wait and see"
+msgstr "Por que não esperamos e vemos"
+
+# mes "what happens? I'm sure the truth will come out one way or another.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"what happens? I'm sure the truth will come out one way or another.^000000"
+msgstr ""
+"o que acontece? Tenho certeza que a verdade virá ao de cima de uma forma ou "
+"de outra.^000000"
+
+# mes "^A68064 Alright, sir.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064 Alright, sir."
+msgstr "^A68064 Muito bem, senhor."
+
+# mes "Still, I can't help";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Still, I can't help"
+msgstr "Ainda assim, eu não posso ajudar"
+
+# mes "but feel uneasy...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "but feel uneasy...^000000"
+msgstr "mas se sinta inquieto...^000000"
+
+# mes "^A68064I heard from an";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064I heard from an"
+msgstr "^A68064I ouvi de um"
+
+# mes "official at the palace";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "official at the palace"
+msgstr "oficial do palácio"
+
+# mes "that they're requesting";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "that they're requesting"
+msgstr "que eles estão solicitando"
+
+# mes "us for an exorcism.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "us for an exorcism.^000000"
+msgstr "nós para um exorcismo.^000000"
+
+# mes "^CD6600Exorcism?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Exorcism?"
+msgstr "^CD6600Exorcismo?"
+
+# mes "Did Zombies attack";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Did Zombies attack"
+msgstr "Os zumbis atacaram"
+
+# mes "the kingdom or something?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "the kingdom or something?^000000"
+msgstr "o reino ou algo assim?^000000"
+
+# mes "^A68064No, I don't think";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064No, I don't think"
+msgstr "^A68064 Não, eu não acho"
+
+# mes "that's the case, but";
+#: npc/quests/first_class/tu_acolyte.txt
+msgctxt "Eavesdrop#tu"
+msgid "that's the case, but"
+msgstr "que esse é o caso, mas"
+
+# mes "they are requesting";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "they are requesting"
+msgstr "eles estão solicitando"
+
+# mes "a highly skilled holy person...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "a highly skilled holy person...^000000"
+msgstr "uma pessoa santa altamente qualificada...^000000"
+
+# mes "^CD6600Hmm...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Hmm..."
+msgstr "^CD6600Hmm..."
+
+# mes "I wonder what";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "I wonder what"
+msgstr "Eu me pergunto o que"
+
+# mes "exactly is going on...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "exactly is going on...^000000"
+msgstr "exatamente está acontecendo...^000000"
+
+# mes "^A68064I will inform you";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064I will inform you"
+msgstr "^A68064I irá informá-lo"
+
+# mes "as soon as I hear";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "as soon as I hear"
+msgstr "tão logo eu saiba"
+
+# mes "something.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "something.^000000"
+msgstr "algo.^000000"
+
+# mes "^CD6600Thank you...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Thank you...^000000"
+msgstr "^CD6600Obrigado...^000000"
+
+# mes "^A68064...Sir, do you know anything about the ^855E42curse of the Gaebolg family^A68064?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"^A68064...Sir, do you know anything about the ^855E42curse of the Gaebolg "
+"family^A68064?^000000"
+msgstr ""
+"^A68064...Senhor, você sabe alguma coisa sobre o ^855E42curse da família "
+"Gaebolg^A68064?^000000"
+
+# mes "^CD6600The Gaebolg?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600The Gaebolg?"
+msgstr "^CD6600The Gaebolg?"
+
+# mes "Are you telling me";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Are you telling me"
+msgstr "Você está me dizendo"
+
+# mes "there's a curse on";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "there's a curse on"
+msgstr "há uma maldição sobre"
+
+# mes "the royal family?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "the royal family?^000000"
+msgstr "a família real?^000000"
+
+# mes "^A68064Yes...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064Yes..."
+msgstr "^A68064Yes..."
+
+# mes "That may be why his";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "That may be why his"
+msgstr "Pode ser por isso que seu"
+
+# mes "highness, King Tristam III,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "highness, King Tristam III,"
+msgstr "alteza, o Rei Tristam III,"
+
+# mes "and his courtiers have been";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "and his courtiers have been"
+msgstr "e seus cortesãos têm sido"
+
+# mes "acting strangely lately...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "acting strangely lately...^000000"
+msgstr "agindo estranhamente ultimamente...^000000"
+
+# mes "^A68064You see...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064You see..."
+msgstr "^A68064 Você vê..."
+
+# mes "Yormungard is";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Yormungard is"
+msgstr "Yormungard é"
+
+# mes "said to have cursed";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "said to have cursed"
+msgstr "disse ter amaldiçoado"
+
+# mes "the Gaebolg family when Rune-Midgarts was first established.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "the Gaebolg family when Rune-Midgarts was first established.^000000"
+msgstr ""
+"a família Gaebolg quando Rune-Midgarts foi estabelecida pela primeira vez."
+"^000000"
+
+# mes "^CD6600Yormungard?!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Yormungard?!"
+msgstr "^CD6600Yormungard?!"
+
+# mes "How can we hope";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "How can we hope"
+msgstr "Como podemos esperar"
+
+# mes "to combat its magic?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "to combat its magic?"
+msgstr "para combater sua magia?"
+
+# mes "Not even the Asgardians";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Not even the Asgardians"
+msgstr "Nem mesmo os Asgardianos"
+
+# mes "could deal with that";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "could deal with that"
+msgstr "poderia lidar com isso"
+
+# mes "giant serpent's power!^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "giant serpent's power!^000000"
+msgstr "o poder da serpente gigante!^000000"
+
+# mes "^A68064It's horrible...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064It's horrible..."
+msgstr "^A68064 É horrível..."
+
+# mes "Because of the curse,";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Because of the curse,"
+msgstr "Por causa da maldição,"
+
+# mes "the first child of every generation of the Gaebolg family will supposedly die an early death...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"the first child of every generation of the Gaebolg family will supposedly "
+"die an early death...^000000"
+msgstr ""
+"o primeiro filho de cada geração da família Gaebolg supostamente morrerá "
+"cedo...^000000"
+
+# mes "^CD6600Are you saying that all of the first princes and princesses";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Are you saying that all of the first princes and princesses"
+msgstr "^CD6600Você está dizendo que todos os primeiros príncipes e princesas"
+
+# mes "have died to this day? If this is true, it'd cause trouble if word got out...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"have died to this day? If this is true, it'd cause trouble if word got out..."
+"^000000"
+msgstr ""
+"morreram até hoje? Se isto for verdade, causaria problemas se a notícia se "
+"soubesse...^000000"
+
+# mes "^CD6600Is that what happened";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Is that what happened"
+msgstr "^CD6600Is que o que aconteceu"
+
+# mes "in the palace? Did the eldest prince pass away recently?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "in the palace? Did the eldest prince pass away recently?^000000"
+msgstr "no palácio? O príncipe mais velho faleceu recentemente?^000000"
+
+# mes "^A68064 No...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064 No..."
+msgstr "^A68064 Não..."
+
+# mes "Actually, the second";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Actually, the second"
+msgstr "Na verdade, o segundo"
+
+# mes "eldest prince passed";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "eldest prince passed"
+msgstr "o príncipe mais velho passou"
+
+# mes "away, not the first.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "away, not the first.^000000"
+msgstr "longe, não o primeiro.^000000"
+
+# mes "^CD6600What!?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600What!?^000000"
+msgstr "^CD6600 O que!?^000000"
+
+# mes "^A68064L-lower your voice!^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064L-lower your voice!^000000"
+msgstr "^A68064L- baixe sua voz!^000000"
+
+# mes "^CD6600So...";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600So..."
+msgstr "^CD6600So..."
+
+# mes "How did it happen?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "How did it happen?"
+msgstr "Como isso aconteceu?"
+
+# mes "Was it an accident?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Was it an accident?^000000"
+msgstr "Foi um acidente?^000000"
+
+# mes "^A68064 They haven't determined";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064 They haven't determined"
+msgstr "^A68064 Eles não determinaram"
+
+# mes "the exact reason of the death yet. But the court officials want us to see if we can undo Yormungard's curse once and for all.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"the exact reason of the death yet. But the court officials want us to see if "
+"we can undo Yormungard's curse once and for all.^000000"
+msgstr ""
+"a razão exata da morte ainda. Mas os funcionários do tribunal querem que "
+"vejamos se podemos desfazer a maldição de Yormungard de uma vez por todas."
+"^000000"
+
+# mes "^CD6600Yormungard's curse?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Yormungard's curse?"
+msgstr "^CD6600A maldição de Yormungard?"
+
+# mes "Is it possible to remove it after so many years? Such ancient";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Is it possible to remove it after so many years? Such ancient"
+msgstr "É possível removê-lo depois de tantos anos? Tão antiga"
+
+# mes "magic may be too powerful for";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "magic may be too powerful for"
+msgstr "a magia pode ser poderosa demais para"
+
+# mes "any of us in the Church...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "any of us in the Church...^000000"
+msgstr "qualquer um de nós na Igreja...^000000"
+
+# mes "[Voice from Window]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "[Voice from Window]"
+msgstr "[Voz da Janela]"
+
+# mes "^A68064This task is monumentally huge!";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064This task is monumentally huge!"
+msgstr "^A68064 Esta tarefa é monumentalmente grande!"
+
+# mes "And if we should fail, we'd lose the faith of our constituents. The Church and the Royal Court truly need a miracle...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"And if we should fail, we'd lose the faith of our constituents. The Church "
+"and the Royal Court truly need a miracle...^000000"
+msgstr ""
+"E se falharmos, perderemos a fé de nossos eleitores. A Igreja e a Corte Real "
+"realmente precisam de um milagre...^000000"
+
+# mes "^CD6600Well, what's the Church's response? Are we really going to send someone to lift the curse of a monster that can challenge the Asgardians?^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"^CD6600Well, what's the Church's response? Are we really going to send "
+"someone to lift the curse of a monster that can challenge the Asgardians?"
+"^000000"
+msgstr ""
+"^CD6600Well, qual é a resposta da Igreja? Vamos realmente enviar alguém para "
+"levantar a maldição de um monstro que pode desafiar os Asgardianos?^000000"
+
+# mes "^A68064I'm not quite sure.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^A68064I'm not quite sure."
+msgstr "^A68064I não tenho bem certeza."
+
+# mes "Those that might have";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "Those that might have"
+msgstr "Aqueles que possam ter"
+
+# mes "the necessary skill are";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "the necessary skill are"
+msgstr "as habilidades necessárias são"
+
+# mes "too old. Still, they're";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "too old. Still, they're"
+msgstr "muito velho. Ainda assim, eles são"
+
+# mes "not giving up hope...^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "not giving up hope...^000000"
+msgstr "não abrindo mão da esperança...^000000"
+
+# mes "^A68064This situation is very important to the reputation of the royal family and stability of the kingdom, so everyone's been very careful";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"^A68064This situation is very important to the reputation of the royal "
+"family and stability of the kingdom, so everyone's been very careful"
+msgstr ""
+"^A68064 Esta situação é muito importante para a reputação da família real e "
+"para a estabilidade do reino, por isso todos têm sido muito cuidadosos"
+
+# mes "about keeping quiet.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "about keeping quiet.^000000"
+msgstr "sobre manter o silêncio.^000000"
+
+# mes "^A68064For now, I'll return to the kingdom and let you know if I hear of any other news. Still, since everyone needs to be so careful, it may be";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"^A68064For now, I'll return to the kingdom and let you know if I hear of any "
+"other news. Still, since everyone needs to be so careful, it may be"
+msgstr ""
+"^A68064 Por enquanto, voltarei ao reino e o informarei se souber de qualquer "
+"outra notícia. Ainda assim, como todos precisam ser tão cuidadosos, pode ser"
+
+# mes "a while until I learn anything new.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "a while until I learn anything new.^000000"
+msgstr "um tempo até que eu aprenda algo novo.^000000"
+
+# mes "^CD6600Thank you very much.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Thank you very much."
+msgstr "^CD6600Obrigado a todos."
+
+# mes "I'll be waiting to hear";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "I'll be waiting to hear"
+msgstr "Estarei esperando para ouvir"
+
+# mes "from you again.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "from you again.^000000"
+msgstr "de você novamente.^000000"
+
+# mes "^CD6600Oh dear God.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid "^CD6600Oh dear God."
+msgstr "^CD6600Oh querido Deus."
+
+# mes "Please expel the darkness that approaches the Rune-Midgarts Kingdom. Please protect us with your light and compassion.^000000";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "Eavesdrop#tu"
+msgid ""
+"Please expel the darkness that approaches the Rune-Midgarts Kingdom. Please "
+"protect us with your light and compassion.^000000"
+msgstr ""
+"Por favor, expulsem a escuridão que se aproxima do Reino Rune-Midgarts. Por "
+"favor, proteja-nos com sua luz e compaixão.^000000"
+
+# mes "[1st Job Quest]";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "1st Job Quest Reset"
+msgid "[1st Job Quest]"
+msgstr "[1ª Job Quest]"
+
+# mes "Which would you like to reset?";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "1st Job Quest Reset"
+msgid "Which would you like to reset?"
+msgstr "O que você gostaria de reiniciar?"
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "1st Job Quest Reset"
+msgid "Swordsman"
+msgstr "Espadachim"
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "1st Job Quest Reset"
+msgid "Merchant"
+msgstr "Mercador"
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "1st Job Quest Reset"
+msgid "Archer"
+msgstr "Arqueiro"
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "1st Job Quest Reset"
+msgid "Acolyte"
+msgstr "Noviço"
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "1st Job Quest Reset"
+msgid "Thief"
+msgstr "Gatuno"
+
+# switch(select("Swordsman", "Merchant", "Archer", "Acolyte", "Thief", "Mage")) {
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "1st Job Quest Reset"
+msgid "Mage"
+msgstr "Mage"
+
+# mes "Completed.";
+#: npc/quests/first_class/tu_acolyte.txt
+#, fuzzy
+msgctxt "1st Job Quest Reset"
+msgid "Completed."
+msgstr "Concluído."
